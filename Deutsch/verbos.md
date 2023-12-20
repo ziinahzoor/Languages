@@ -1,0 +1,24 @@
+# Verbos
+
+-   `Sein` Ser/Estar
+-   `Sehen` Ver
+-   `Kommen` Vir
+-   `Laufen` Correr
+-   `Brauchen` Precisar
+-   `Arbeiten` Trabalhar
+-   `Mögen` Gostar
+-   `Nehmen` Pegar
+-   `Kochen` Cozinhar
+-   `Schwimmen` Nadar
+-   `Heißen` Se chamar
+-   `Sprechen` Falar
+-   `Haben` Ter
+-   `Lieben` Amar
+-   `Malen` Pintar
+-   `Spielen` Tocar
+-   `Sitzen` Sentar
+-   `Können` Poder
+-   `Bestellen` Pedir
+-   `Gehen` Ir
+-   `Fahren` Dirigir
+-   `Bringen` Trazer

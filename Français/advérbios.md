@@ -1,0 +1,70 @@
+# Les Adverbes - Advérbios
+
+-   `Ici/Ci` Aqui
+-   `Là` Lá/Ali
+    -   `Là-bas` Lá (longe)
+-   `Dehors` De fora
+-   `À côté` Perto/Próximo (Ao lado)
+-   `Près` Perto/Próximo
+-   `Loin` Longe
+-   `Derrière` Atrás
+-   `Bien` Bem
+-   `Peu` Pouco
+-   `Très` Muito (Very)
+    -   Geralmente usado com adjetivos.
+-   `Beaucoup` Muito (Much)
+    -   Geralmente usado com verbos.
+-   `Trop` Muito (Too much)
+    -   Costuma indicar excessos.
+-   `Oui` Sim
+-   `Non` Não
+-   `Aussi` Também (geralmente vem depois do verbo)
+    -   Em comparações, significa "tão"
+-   `Aujourd'hui` Hoje
+-   `Maintenant` Agora
+-   `Bientôt` Logo
+-   `Demain` Amanhã
+-   `Plus` Mais
+-   `Moins` Menos
+-   `Même` Mesmo
+-   `Loin` Longe
+-   `Toujours` Sempre
+-   `Encore` Novamente/Ainda
+-   `Souvent` Frequentemente
+-   `Chaque` Cada/Todo
+-   `Parfois` Às vezes
+-   `Alors` Então
+-   `D'abord` Primeiramente
+-   `Tard` Tarde
+-   `En retard` Atrasado
+-   `Mieux` Melhor
+-   `Prochain` Próximo
+-   `Lentement` Lentamente
+-   `D'habitude` Geralmente
+-   `Vraiment` Realmente/Verdadeiramente
+-   `Assez` Suficiente/Bastante
+-   `Environ` Cerca
+-   `Puis` Então
+-   `Ensuite` A seguir
+-   `Jamais` Nunca
+-   `Du tout` De forma alguma
+-   `Avoir raison` Ter razão
+-   `Avoir tort` Não ter razão
+-   `Vite` Rapidamente
+-   `D'abord` Primeiramente
+
+## Os Porquês
+
+-   `Pourquoi` Por que/Por quê
+-   `Parce que` Porque
+    -   Pode vir no início da frase
+    -   Indica motivo ou razão
+    -   Informal
+-   `Car` Porque
+    -   Não pode vir no início da frase
+    -   Mais usado para justificar ou explicar
+    -   Formal
+-   `Puisque` Porque/Desde que
+    -   Pode vir no início da frase
+    -   Pode substituir `parce que` e `car`
+    -   Indica obviedade ou fato já dito antes

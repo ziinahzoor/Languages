@@ -1,0 +1,80 @@
+# Los Adjectivos - Adjetivos
+
+## Nacionalidade
+
+-   `Europeo` Europeu
+-   `Español` Espanhol
+-   `Inglés` Inglês
+-   `Chino` Chinês
+-   `Japonés` Japonês
+
+## Vocabulário
+
+-   `Abierto` Aberto
+-   `Cerrado` Fechado
+-   `Grande`
+-   `Pequeño` Pequeno
+-   `Caro`
+-   `Barato`
+-   `Elegante`
+-   `Inteligente`
+-   `Bello` Belo
+-   `Bonito`
+-   `Guapo` Bonito (Pessoas)
+-   `Perfecto` Perfeito
+-   `Interesante` Interessante
+-   `Cansado`
+-   `Diferente`
+-   `Demasiado` Muito (Too much)
+-   `Cómodo` Confortável
+-   `Favorito`
+-   `Posible` Possível
+-   `Fácil`
+-   `Difícil`
+-   `Feliz`
+-   `Triste`
+-   `Enfermo` Doente
+-   `Bueno` Bom
+-   `Nuevo` Novo
+-   `Viejo` Velho
+-   `Jóven` Jovem
+-   `Alto`
+-   `Bajo` Baixo
+-   `Importante`
+-   `Delicioso`
+-   `Listo` Pronto
+-   `Ocupado`
+-   `Aburrido` Entediante
+-   `Divertido`
+-   `Nervioso` Nervoso
+-   `Joven` Jovem
+-   `Simpático`
+-   `Preocupado`
+-   `Famoso`
+-   `Emocionada`
+-   `Enojado` Com raiva
+-   `Nervioso` Nervoso
+-   `Sorprendido` Surpreendido
+-   `Último`
+-   `Saludable` Saudável
+-   `Largo` Longo/Largo
+-   `Moderna`
+-   `Exquisito` Delicioso
+-   `Limpio` Limpo
+-   `Sucio` Sujo
+-   `Rubio` Loiro
+-   `Moreno`
+-   `Estudioso`
+-   `Perezoso` Preguiçoso
+-   `Responsable` Responsável
+-   `Oscuro` Escuro
+-   `Mismo` Mesmo
+-   `Gordo`
+-   `Delgado` Magro/Fino
+-   `Popular`
+-   `Peligroso` Perigoso
+-   `Próximo`
+-   `Listo` Pronto
+-   `Dulce` Doce
+-   `Caliente` Quente
+-   `Picante`

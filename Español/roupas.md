@@ -1,0 +1,22 @@
+# La Ropa - Roupas
+
+-   `Zapato` Sapato
+-   `Camisa`
+-   `Camiseta`
+-   `Blusa`
+-   `Chaqueta` Jaqueta
+-   `Sombrero` Chapéu
+-   `Gorra` Boné/Gorro (F)
+-   `Vestido`
+-   `Abrigo` Casaco
+-   `Falda` Saia
+-   `Pantalones` Calças
+-   `Cartera` Bolsa
+-   `Cinturón` Cinto
+-   `Reloj` Relógio
+-   `Cartera` Carteira
+-   `Gafas` Óculos (F)
+-   `Lentes` Óculos (M)
+-   `Botas`
+-   `Vaqueros` Calças jeans
+-   `Bolsa`

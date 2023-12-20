@@ -1,0 +1,39 @@
+# <ruby>動<rt>どう</rt>物<rt>ぶつ</rt></ruby> - Animais
+
+-   `ペット` Animal de estimação
+-   `くま` Urso
+-   `サイ` Rinoceronte
+-   `イカ` Lula
+-   `コイ` Carpa
+-   `むし` Inseto
+-   <font size="5"><code><ruby>犬<rt>いぬ</rt></ruby></code></font> Cachorro
+-   <font size="5"><code><ruby>猫<rt>ねこ</rt></ruby></code></font> Gato
+-   <font size="5"><code><ruby>鳥<rt>とり</rt></ruby></code></font> Pássaro
+-   `シカ` Cervo
+-   `さる` Macaco
+-   `はと` Pombo
+-   `かめ` Tartaruga
+-   `ワシ` Águia
+-   `タコ` Polvo
+-   `コアラ` Coala
+-   `ねずみ` Rato
+-   `リス` Esquilo
+-   `ハチ` Abelha
+-   `ラマ` Lhama
+-   `カキ` Ostra
+-   `クモ` Aranha
+-   `クマ` Urso
+-   `タカ` Falcão
+-   `サソリ` Escorpião
+-   `ワニ` Jacaré
+-   `ホタル` Vagalume
+-   `キツネ` Raposa
+-   `カエル` Sapo
+-   `グラゲ` Água-viva
+-   `ドラゴン` Dragão
+-   `キンギョ` Peixe-dourado
+-   `ライオン` Leão
+-   <font size="5"><code><ruby>魚<rt>さかな</rt></ruby></code></font> Peixe
+-   `えび` Camarão
+-   `カメレオン` Camaleão
+-   `ハムスター` Hamster

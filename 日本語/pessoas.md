@@ -1,0 +1,88 @@
+# <ruby>人<rt>ひと</rt>々<rt>びと</rt></ruby> - Pessoas
+
+-   `みんな` Todos/Pessoal/Todo mundo
+-   <font size="5"><code><ruby>外<rt>がい</rt>国<rt>こく</rt>人<rt>じん</rt></ruby></code></font> Estrangeiro
+-   <font size="5"><code><ruby>大人<rt>おとな</rt></ruby></code></font> Adulto
+-   <font size="5"><code><ruby>子<rt>こ</rt>供<rt>ども</rt></ruby></code></font> Criança
+-   `いしゃ` Doutor
+-   <font size="5"><code><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></code></font> Professor
+-   <font size="5"><code><ruby>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante
+    -   <font size="5"><code><ruby>留<rt>りゅう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante de intercâmbio
+    -   <font size="5"><code><ruby>小<rt>しょう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante do primário
+    -   <font size="5"><code><ruby>中<rt>ちゅう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante do secundário
+    -   <font size="5"><code><ruby>高<rt>こう</rt>校<rt>こう</rt>生<rt>せい</rt></ruby></code></font> Estudante do ensino médio
+    -   <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Universitário
+-   `べんごし` Advogado
+-   `にんげん` Humano
+-   `ともだち` Amigo
+-   `きゃく` Cliente
+-   `かしゅ` Cantor
+-   `ちょしゃ` Autor
+-   `にんぎょ` Sereia
+-   `ゲスト` Visita
+-   `ゾンビ` Zumbi
+-   `エンジニア` Engenheiro
+-   `かいしゃいん` Trabalhador de escritório
+-   `かんごし` Enfermeiro
+-   `けいさつ` Polícia
+-   `ぶし` Guerreiro
+-   `コーチ` Treinador
+-   `どうりょう` Colega de trabalho
+-   `マネージャー` Gerente
+-   `うんてんしゅ` Motorista
+-   `ほんやくか` Tradutor
+-   `しゃしんか` Fotógrafo
+-   `チーム` Time
+-   `せんしゅ` Jogador
+-   `プロ` Profissional
+-   `バンド` Banda
+-   `はいゆう` Ator
+-   `クライアント` Cliente
+-   `ボランティア` Voluntário
+-   `ルームメイト` Colega de quarto
+-   `てんいん` Funcionário
+-   `かいけい` Caixa
+
+## <ruby>家<rt>か</rt>族<rt>ぞく</rt></ruby> - Família
+
+**Usar honoríficos para se referir à alguém de outra família ou para falar com alguém da própria família.**
+
+-   <font size="5"><code><ruby>両<rt>りょう</rt>親<rt>しん</rt></ruby></code></font> Pais
+-   <font size="5"><code>お<ruby>父<rt>とう</rt></ruby>さん</code></font> Pai
+    -   <font size="5"><code><ruby>父<rt>ちち</rt></ruby></code></font> (Meu) Pai
+-   <font size="5"><code>お<ruby>母<rt>かあ</rt></ruby>さん</code></font> Mãe
+    -   <font size="5"><code><ruby>母<rt>はは</rt></ruby></code></font> (Minha) Mãe
+-   <font size="5"><code><ruby>兄<rt>きょう</rt>弟<rt>だい</rt></ruby></code></font> Irmãos (em geral)
+-   <font size="5"><code><ruby>姉<rt>し</rt>妹<rt>まい</rt></ruby></code></font> Irmãs
+-   <font size="5"><code>お<ruby>兄<rt>にい</rt></ruby>さん</code></font> Irmão (Mais velho)
+    -   <font size="5"><code><ruby>兄<rt>あに</rt></ruby></code></font> (Meu) Irmão (Mais velho)
+-   <font size="5"><code>お<ruby>姉<rt>ねえ</rt></ruby>さん</code></font> Irmã (Mais velha)
+    -   <font size="5"><code><ruby>姉<rt>あね</rt></ruby></code></font> (Minha) Irmã (Mais velha)
+-   <font size="5"><code><ruby>弟<rt>おとうと</rt></ruby></code></font> Irmão (Mais novo)
+-   <font size="5"><code><ruby>妹<rt>いもうと</rt></ruby></code></font> Irmã (Mais nova)
+-   <font size="5"><code><ruby>祖<rt>そ</rt>父<rt>ふ</rt>母<rt>ぼ</rt></ruby></code></font> Avós
+-   <font size="5"><code>お<ruby>爺<rt>じい</rt></ruby>さん</code></font> Avô
+    -   <font size="5"><code><ruby>祖<rt>そ</rt>父<rt>ふ</rt></ruby></code></font> (Meu) avô
+-   <font size="5"><code>お<ruby>婆<rt>ばあ</rt></ruby>さん</code></font> Avó
+    -   <font size="5"><code><ruby>祖<rt>そ</rt>母<rt>ぼ</rt></ruby></code></font> (Minha) avó
+-   `おじさん` Tio
+    -   `おじ` (Meu) Tio
+        -   `伯父` Mais velho que o pai/mãe
+        -   `叔父` Mais novo que o pai/mãe
+-   `おばさん` Tia
+    -   `おば` (Minha) Tia
+        -   `伯母` Mais velha que o pai/mãe
+        -   `叔母` Mais nova que o pai/mãe
+-   <font size="5"><code>お<ruby>子<rt>こ</rt></ruby>さん</code></font> Filhos
+    -   <font size="5"><code><ruby>子<rt>こ</rt>供<rt>ども</rt></ruby></code></font> (Meus) filhos
+-   <font size="5"><code><ruby>息<rt>むす</rt>子<rt>こ</rt></ruby>さん</code></font> Filho
+    -   <font size="5"><code><ruby>息<rt>むす</rt>子<rt>こ</rt></ruby></code></font> (Meu) Filho
+-   <font size="5"><code>お<ruby>嬢<rt>じょう</rt></ruby>さん</code></font> Filha
+-   <font size="5"><code><ruby>娘<rt>むすめ</rt></ruby></code></font> (Minha) Filha
+-   <font size="5"><code><ruby>夫<rt>ふう</rt>婦<rt>ふ</rt></ruby></code></font> Casal
+-   <font size="5"><code>ご<ruby>主<rt>しゅ</rt>人<rt>じん</rt></ruby></code></font> Marido
+    -   <font size="5"><code><ruby>夫<rt>おっと</rt></ruby></code></font> (Meu) marido
+-   <font size="5"><code><ruby>奥<rt>おく</rt></ruby>さん</code></font> Esposa
+    -   <font size="5"><code><ruby>妻<rt>つま</rt></ruby></code></font> (Minha) esposa
+-   <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> Namorada
+-   <font size="5"><code><ruby>彼<rt>かれ</rt>氏<rt>し</rt></ruby></code></font> Namorado
