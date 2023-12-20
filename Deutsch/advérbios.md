@@ -1,0 +1,21 @@
+# Advérbios
+
+-   `Ja` Sim
+-   `Nein` Não
+-   `Sehr` Muito (Very)
+-   `Wo` Onde
+-   `Wohin` Aonde
+-   `Woher` De onde
+-   `Hier` Aqui
+-   `Zu` Muito (Too)
+-   `Jetzt` Agora
+-   `Da drüben` Ali
+-   `Auch` Também
+-   `Wie` Como
+-   `Manchmal` Às vezes
+-   `Nie` Nunca
+-   `Oft` Frequentemente
+-   `Immer` Sempre
+-   `Wirklich` Sério/Realmente
+-   `Rechts` À direita
+-   `Links` À esquerda

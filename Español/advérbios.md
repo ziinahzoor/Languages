@@ -1,0 +1,57 @@
+# Los Adverbios - Advérbios
+
+-   `No` Não
+-   `Sí` Sim
+-   `Dónde` Onde
+-   `Adónde` Aonde
+-   `Aquí` Aqui
+-   `Muy` Muito (Very)
+-   `Mucho` Muito (A lot)
+-   `Poco` Pouco
+-   `Más` Mais
+-   `Menos`
+-   `También` Também
+-   `Solo` Apenas
+-   `Ahora` Agora
+-   `Hoy` Hoje
+-   `Conmigo` Comigo
+-   `Contigo`
+-   `Cerca` Próximo
+-   `Detrás` Atrás
+-   `Debajo` Debaixo
+-   `Sobre` Em cima/Sobre
+-   `Mañana` Amanhã
+-   `Por qué` Por que/Por quê
+-   `Porque` Porque
+-   `Bien` Bem
+-   `Mal`
+-   `Todavía` Ainda (Yet)
+-   `Cuándo` Quando
+-   `Antes`
+-   `Después` Depois
+-   `A menudo` Frequentemente
+-   `Siempre` Sempre
+-   `A veces` Às vezes
+-   `Nunca`
+-   `Cerca` Perto
+-   `Lejos` Longe
+-   `Al lado` Ao lado
+-   `Entonces` Então
+-   `Juntos`
+-   `Todo`
+-   `Ya` Já
+-   `Mayor` Maior
+-   `Normalmente`
+-   `Usualmente` Geralmente
+-   `De verdad` De verdade/Realmente
+-   `Mejor` Melhor
+-   `Peor` Pior
+-   `Solo` Só/Apenas
+-   `Demasiado` Demais/Em excesso
+-   `Temprano` Cedo
+-   `Tarde`
+-   `Tan` Tão
+-   `Como` Como/Quanto
+-   `Pronto` Logo
+-   `Rápido`
+-   `Despacio` Devagar

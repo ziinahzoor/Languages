@@ -1,0 +1,59 @@
+# Les Personnes - Pessoas
+
+-   `Homme` Homem
+-   `Femme` Mulher
+-   `Garçon` Menino
+-   `Fille` Menina/Filha
+-   `Adulte` Adulto
+-   `Enfant` Criança (M)
+-   `Journalist` Jornalista
+-   `Ami` Amigo
+-   `Médecin` Médico
+-   `Chauffeur` Motorista
+-   `Professeur` Professor
+-   `Bébé` Bebê
+-   `Serveur` Garçom
+-   `Serveuse` Garçonete
+-   `Guitariste` Guitarrista
+-   `Voisin` Vizinho
+-   `Collègue` Colega
+-   `Joueur` Jogador
+-   `Monsieur` Senhor
+-   `Madame` Senhora
+-   `Mademoiselle` Senhorita
+-   `Médecin` Médico
+-   `Chauffeur` Motorista
+-   `Mécanicien` Mecânico
+-   `Modèle` Modelo
+-   `Colocataire` Colega de quarto
+-   `Élève` Estudante/Púpilo
+-   `Étudiant` Estudante/Universitário
+-   `Chef` Chefe
+-   `Fumeur` Fumante
+-   `Acteur` Ator
+-   `Actrice` Atriz
+-   `Groupe de musique` Banda
+    -   `Groupe`
+-   `Maitre-nageur` Salva-vidas
+
+## La famille - Família
+
+-   `Parents` Pais
+-   `Père` Pai
+    -   `Papa` Papai
+-   `Mère` Mãe
+    -   `Maman` Mamãe
+-   `Grands-parents` Avós
+-   `Grand-père` Avô
+-   `Grand-mère` Avó
+    -   `Mamie` Vovó
+-   `Mari` Marido
+-   `Frère` Irmão
+-   `Sœur` Irmã
+-   `Fils` Filho
+-   `Petite-fille` Neta
+-   `Petit-fils` Neto
+-   `Copain` Amigo/Companheiro
+-   `Copine` Amiga/Companheira
+-   `Petit-ami` Namorado
+-   `Petite-amie` Namorada
