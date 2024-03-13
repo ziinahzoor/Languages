@@ -49,7 +49,9 @@ function adicionarPaginas() {
 	}
 
 	nav.appendChild(lista);
-	paginaAtual.scrollIntoView();
+	if (paginaAtual) {
+		paginaAtual.scrollIntoView({ block: 'center', inline: 'center' });
+	}
 }
 
 function adicionarNotas() {
