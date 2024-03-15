@@ -104,3 +104,6 @@
 -   `Sûr` Certo (de estar certo)
 -   `Honnête` Honesto
 -   `Entier` Inteiro
+-   `Inquiet` Preocupado
+-   `Prochain` Próximo
+-   `Proche` Próximo (Perto)

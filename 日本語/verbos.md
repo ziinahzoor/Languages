@@ -103,6 +103,7 @@
     -   "Começar a" quando ligado a outro verbo.
 -   `ひっこす` Se mudar
 -   `おす` Empurrar
+-   `さがす` Procurar
 -   `つづく` Continuar
 -   <font size="5"><code><ruby>聞<rt>き</rt></ruby>く</code></font> Ouvir/Perguntar
     -   Para perguntar geralmente acompanha o `に`
@@ -154,6 +155,7 @@
 -   `はじまる` Começar
 -   `おわる` Terminar
 -   `おどる` Dançar
+-   `とまる` Ficar (em algum lugar)
 -   `あらう` Lavar
 -   <font size="5"><code><ruby>分<rt>わ</rt>かる</ruby></code></font> Entender
     -   Geralmente acompanha o `が`
@@ -185,6 +187,7 @@
 -   `おしえる` Ensinar
 -   `こたえる` Responder
 -   `いきる` Viver
+-   `のりかえる` Fazer escala (ônibus e trens)
 
 ## Verbos する
 
@@ -205,3 +208,4 @@
 -   `うんてん` Dirigir/Operar
 -   `うんどう` Exercitar
 -   <font size="5"><code><ruby>乾<rt>かん</rt>杯<rt>ぱい</rt></ruby></code></font> Brindar
+-   `よやく` Reservar

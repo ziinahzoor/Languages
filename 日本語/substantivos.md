@@ -14,6 +14,7 @@
 -   `ホコリ` Poeira
 -   `はな` Flor
 -   <font size="5"><code><ruby>川<rt>かわ</rt></ruby></code></font> Rio
+-   `こおり` Gelo
 
 ## Casa e objetos
 
@@ -96,6 +97,9 @@
 -   `メニュー` Cardápio
 -   `はし` Pauzinhos
 -   `ナプキン` Lenço de papel
+-   `クレジットカード` Cartão de crédito
+-   `かぎ` Chave
+-   `タオル` Toalha
 
 ## Abstratos
 
@@ -148,6 +152,13 @@
 -   `にんき` Popular/Popularidade
 -   `けしき` Visão/Vista
 -   `ぜんぶ` Total/Totalidade
+-   `ネット` Internet
+-   `よやく` Reserva
+-   `チェックイン` Check-in
+-   `チェックアウト` Check-out
+-   `ルームサービス` Serviço de quarto
+-   `パスワード` Senha
+-   `むりょう` De graça
 
 ## Transporte
 
@@ -198,6 +209,7 @@
 -   `すうがく` Matemática
 -   `チェス` Xadrez
 -   `サークル` Clube
+-   `たんじょうび` Aniversário
 
 ### スポーツ - Esporte
 

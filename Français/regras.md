@@ -23,6 +23,8 @@
 -   `Le [jour de la semaine]` é usado para dizer "Aos/Às [dia da semana]".
 -   Quanto a sabores, como "sorvete de morango" e "pão com queijo", se usa `[comida] à/au (la)[sabor]`. Ex.: `De la glace à la fraise`, `Du pain au fromage`.
 -   Para frases impessoais, como instruções ou regras, se utiliza `Il faut`.
+-   `Avoir mal à` significa sentir dor em algum lugar.
+-   `Là`, mesmo que significando "lá", geralmente é utilizado como "aqui". Ex.: `Je suis là`, `Voilà`.
 
 ## Les Articles - Artigos
 

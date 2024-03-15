@@ -40,6 +40,8 @@
     -   `vingts` só é pluralizado em oitenta.
 -   `Quatre-vingt-dix` Noventa
 -   `Cent` Cem
+-   `Mille` Mil
+-   `Million` Milhão
 
 <!-- prettier-ignore-start -->
 > [!NOTE]
@@ -51,6 +53,17 @@
 
 ## Ordinaux - Ordinais
 
--   `Première` Primeira
+-   `Premier` Primeiro
+    -   `Première` Primeira
 -   `Deuxième` Segunda
 -   `Troisième` Terceira
+-   `Quatrième` Quarto
+-   `Cinquième` Quinto
+-   `Sixième` Sexto
+-   `Septième` Sétimo
+-   `Huitième` Oitavo
+-   `Neuvième` Nono
+
+## L'Argent - Dinheiro
+
+-   `Centime` Centavo

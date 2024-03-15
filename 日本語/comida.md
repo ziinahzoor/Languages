@@ -46,6 +46,8 @@
 -   `こしょう` Pimenta
 -   `シーフード` Frutos do mar
 -   `スープ` Sopa
+-   `トースト` Torrada
+-   `ホットドッグ` Cachorro-quente
 
 ## Frutas
 
@@ -53,6 +55,7 @@
 -   `ナシ` Pera
 -   `いちご` Morango
 -   `りんご` Maçã
+-   `オレンジ` Laranja
 
 ## Bebidas
 
@@ -64,10 +67,10 @@
 -   `コーヒー` Café
     -   `カプチーノ` Cappuccino
 -   `ココア` Chocolate quente
--   `ミルク` Leite
+-   <font size="5"><code><ruby>牛乳<rt>ぎゅうにゅう</rt></ruby></code></font> Leite de vaca
+    -   `ミルク`
 -   `コーラ` Cola
 -   `ビール` Cerveja
--   <font size="5"><code><ruby>牛乳<rt>ぎゅうにゅう</rt></ruby></code></font> Leite de vaca
 -   `ワイン` Vinho
 -   `タピオカティー` Bubble tea
 
@@ -140,7 +143,7 @@
         -   Variação com molho miso
 -   `とうふ` Tofu
     -   Blocos de leite de soja fermentado.
-    -   `まぽどうふ` Mapo tofu
+    -   `マーボーどうふ` Mapo tofu
         -   Tofu picante em molho picante vermelho, carne e pasta de amêndoa e feijão preto fermentado.
 -   `ギョーザ` Guioza
     -   Bolinhos fritos recheados com carne de porco e vegetais.

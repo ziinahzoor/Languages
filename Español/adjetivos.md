@@ -78,3 +78,5 @@
 -   `Dulce` Doce
 -   `Caliente` Quente
 -   `Picante`
+-   `Lento`
+-   `Ligero` Leve

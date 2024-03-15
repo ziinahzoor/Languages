@@ -124,6 +124,7 @@
 -   `Langue` Linguagem
 -   `Phrase` Frase
 -   `Information` Informação/Notícia
+-   `E-mail`
 
 ## Transporte
 

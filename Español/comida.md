@@ -22,6 +22,7 @@
 -   `Chorizo` Linguiça (M)
 -   `Harina` Farinha
 -   `Masa` Massa
+-   `Salsa` Molho (F)
 
 ## Las Frutas
 

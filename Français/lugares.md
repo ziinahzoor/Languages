@@ -44,7 +44,9 @@
 -   `Chambre` Quarto
 -   `Cuisine` Cozinha
 -   `Rez-de-chaussée` Térreo
--   `Premier étage` Primeiro andar (depois do térreo)
+-   `Étage` Andar
+    -   `Premier étage` Primeiro andar (depois do térreo)
+-   `Mur` Parede/Muro
 
 ## Vocabulaire - Vocabulário
 

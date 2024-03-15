@@ -10,6 +10,7 @@
         -   `Nez` Nariz
         -   `Bouche` Boca
             -   `Dent` Dente (F)
+-   `Dos` Costas (M)
 -   `Bras` Braço
     -   `Main` Mão
 -   `Jambe` Perna

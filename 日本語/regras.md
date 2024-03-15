@@ -32,7 +32,8 @@
 -   Frases, mesmo complexas, precisam de apenas um marcador de tempo (conjugação), geralmente o último adjetivo ou verbo.
 -   Em substantivos compostos, sons agudos no início da segunda palavra se transformam nas suas variações abafadas (dakuten). Ex.: `とき` + `とき` = `ときどき`
 -   Para pessoas e animais, existe um sufixo para plurarização das palavras: `たち`
--   Para perguntar se alguém quer fazer alguma coisa, usar a forma negativa + `か`
+-   Para perguntar se alguém quer fazer alguma coisa, usar a forma negativa + `か`.
+-   <font size="5"><code><ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby></code></font> é a comida em geral, <font size="5"><code><ruby>料<rt>りょう</rt>理<rt>り</rt></ruby></code></font> é a comida preparada.
 
 ## Conversa Informal
 

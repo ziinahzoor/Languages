@@ -20,3 +20,9 @@
 -   `Una` Uma
 
 ## Falsos amigos - Falsos cognatos
+
+-   `Doce` Doze
+-   `Ligero` Leve
+-   `Exquisito` Delicioso
+-   `Perezoso` Preguiçoso
+-   `Enojado` Com raiva

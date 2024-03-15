@@ -1,5 +1,7 @@
 # <ruby>数<rt>すう</rt>字<rt>じ</rt></ruby> - Números
 
+**ばんごう** é utilizado para se referir a números específicos, como um número de celular ou quarto.
+
 **Usam as formas <font size="5"><code><ruby>和<rt>わ</rt>語<rt>ご</rt></ruby></code></font> (palavra nativa), <font size="5"><code><ruby>漢<rt>かん</rt>語<rt>ご</rt></ruby></code></font> (palavra chinesa), e <font size="5"><code><ruby>外<rt>がい</rt>来<rt>らい</rt>語<rt>ご</rt></ruby></code></font> (palavra estrangeira).**
 
 **Também existe o <font size="5"><code><ruby>大<rt>だい</rt>字<rt>じ</rt></ruby></code></font> para evitar fraudes, usado em dinheiro.**
@@ -173,12 +175,12 @@
 -   <font size="5"><code><ruby>月<rt>つき・がつ</rt></ruby></code></font> Meses
     -   1 e 2 meses cardinais são lidos em wago.
     -   A partir de três usa-se kango e o contador <font size="5"><code><ruby>箇<rt>か</rt>月<rt>げつ</rt></ruby></code></font>.
-        -   `箇` também pode ser escrito como `か・カ・ヵ・ケ・ヶ`. Sempre se pronuncia `か.
+        -   `箇` também pode ser escrito como `か・カ・ヵ・ケ・ヶ`. Sempre se pronuncia `か`.
     -   Os meses do ano são lidos em kango + `がつ`.
         -   4, 7 e 9 são `し`, `しち` e `く`
 -   <font size="5"><code><ruby>日<rt>にち・か</rt></ruby></code></font> Dias cardinais
-    -   1 usa wago. Também existe a `ついたち` para indicar o primeiro dia do mês.
-    -   2 é `ふたか`.
+    -   Usa wago até o 10. Também existe a `ついたち` para indicar o primeiro dia do mês.
+    -   2 é `ふつか`.
     -   8 é `ようか`.
     -   X4 é `Xじゅうよんにち` ou `Xじゅうよっか`. O último é mais comum pra dias do calendário.
     -   X9 usa `く` ao invés de `きゅう`
@@ -199,6 +201,7 @@
     -   Pode ser traduzido como "vezes"
     -   Quando é incerto se vai repetir, usar <font size="5"><code><ruby>度<rt>ど</rt></ruby></code></font>
 -   <font size="5"><code><ruby>階<rt>かい</rt></ruby></code></font> Andares
+    -   3 geralmente é `がい`
     -   Usar o sufixo <font size="5"><code><ruby>建<rt>だ</rt></ruby>て</code></font> para dizer que algo tem X andares.
 -   <font size="5"><code><ruby>円<rt>えん</rt></ruby></code></font> Dinheiro
 -   <font size="5"><code><ruby>本<rt>ほん</rt></ruby></code></font> Coisas alongadas ou que se extendem

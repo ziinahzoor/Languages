@@ -21,6 +21,7 @@
 -   `Peindre` Pintar
 -   `Connaitre` Conhecer
 -   `Entendre` (Físico)
+-   `Croire` Acreditar/Crer
 
 ## -er Verbes
 
@@ -98,6 +99,7 @@
 -   `Laver` Lavar
 -   `Vérifier` Verificar/Checar
 -   `Changer` Mudar/Alterar
+-   `Envoyer` Enviar
 
 ## -ir Verbes
 
@@ -119,6 +121,7 @@
 -   `Sentir` Cheirar/Sentir
 -   `Se sentir`
 -   `Pleuvoir` Chover
+-   `Asseoir` Sentar
 
 ## Les Verbes Défectueux - Verbos Defectivos
 

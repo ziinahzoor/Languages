@@ -52,6 +52,8 @@
 -   `Avoir tort` Não ter razão
 -   `Vite` Rapidamente
 -   `D'abord` Primeiramente
+-   `En fait` Na verdade
+-   `Seulement` Somente/Apenas
 
 ## Os Porquês
 

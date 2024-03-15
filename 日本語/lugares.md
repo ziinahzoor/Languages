@@ -71,6 +71,13 @@
 -   `すみ` Canto
 -   `そと` Exterior/Ar livre
 -   `ちゅうかがい` Chinatown
+-   `スパ` Spa
+
+## <ruby>親<rt>しん</rt>戚<rt>せき</rt>所<rt>ところ</rt></ruby> - Lugares Relativos
+
+-   `となり` Proximidade
+-   <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Frente/Face
+-   `うしろ` Atrás/Detrás
 
 ## <ruby>家<rt>いえ</rt></ruby> - Casa
 

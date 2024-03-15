@@ -63,6 +63,10 @@
 -   `Radio` Rádio (F)
 -   `Cámara` Câmera
 -   `Cepillo de dientes` Escova de dentes (M)
+-   `Diccionario` Dicionário
+-   `Nota`
+-   `Pizarra` Quadro (F)
+-   `Paquete` Pacote
 
 ## Abstratos
 
@@ -108,6 +112,7 @@
 -   `Par`
 -   `Kilo` Quilo
 -   `Vergüenza` Vergonha
+-   `Imagen` Imagem
 
 ## Transporte
 
@@ -117,6 +122,7 @@
 -   `Autobús` Ônibus
 -   `Carro`
 -   `Bicicleta`
+    -   `Bici`
 -   `Avión` Avião
 
 ## Atividades
