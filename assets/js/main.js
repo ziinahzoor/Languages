@@ -22,9 +22,11 @@ function adicionarPaginas() {
 
 	for (let pagina of linguagens) {
 		const elemento = document.createElement('li');
-		const link = document.createElement('a');
-		link.textContent = pagina.nomeExibido;
-		link.href = `/Languages/${pagina.pasta}/regras`;
+		const menu = document.createElement('details');
+		const tituloMenu = document.createElement('summary');
+
+		tituloMenu.textContent = pagina.nomeExibido;
+		menu.appendChild(tituloMenu);
 
 		const sublista = document.createElement('ul');
 		for (let subpagina of pagina.subpaginas) {
@@ -39,12 +41,14 @@ function adicionarPaginas() {
 
 			if (caminho === `/Languages/${pagina.pasta}/${subpagina.pagina}`) {
 				sublink.classList.add('selecionado');
+				menu.open = true;
+				menu.classList.add('selecionado');
 				paginaAtual = sublink;
 			}
 		}
 
-		elemento.appendChild(link);
-		elemento.appendChild(sublista);
+		elemento.appendChild(menu);
+		menu.appendChild(sublista);
 		lista.appendChild(elemento);
 	}
 
