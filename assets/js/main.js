@@ -1,6 +1,10 @@
 import { linguagens } from './linguagens.js';
 import { notas } from './icones.js';
 
+function aoRolar() {
+	handleElementoExibido();
+}
+
 function adicionarPaginas() {
 	const nav = document.getElementById('navigation');
 	const lista = document.createElement('ul');
@@ -90,6 +94,8 @@ function adicionarCabecalhos() {
 		link.innerHTML = cabecalho.innerHTML;
 		link.href = `#${cabecalho.id}`;
 		link.addEventListener('click', function (e) {
+			window.onscroll = null;
+			cabecalhoSelecionado = null;
 			e.preventDefault();
 			cabecalho.scrollIntoView({ behavior: 'smooth' });
 			history.pushState({}, '', `#${cabecalho.id}`);
@@ -144,7 +150,10 @@ window.onload = function () {
 	adicionarNotas();
 	adicionarCabecalhos();
 	handleElementoExibido();
+	window.onscroll = aoRolar;
 }
+
+let cabecalhoSelecionado;
 
 function handleElementoExibido() {
 	var elementos = [...document.querySelectorAll('section h1,h2,h3,h4,h5,h6')];
@@ -171,12 +180,16 @@ function handleElementoExibido() {
 		const id = elementoExibido.id.slice(-1);
 		document.getElementsByClassName('cabecalho-selecionado')[0]?.classList.remove('cabecalho-selecionado');
 
-		const cabecalhoSelecionado = document.getElementById(`header-nav-${id}`);
-		cabecalhoSelecionado.classList.add('cabecalho-selecionado');
+		cabecalhoSelecionado = document.getElementById(`header-nav-${id}`);
+		cabecalhoSelecionado?.classList.add('cabecalho-selecionado');
 	}
 }
 
-window.onscroll = function () {
-	handleElementoExibido();
-}
+window.onscrollend = function () {
+	cabecalhoSelecionado?.scrollIntoView({ behavior: 'smooth' });
+	cabecalhoSelecionado = null;
 
+	if (!window.onscroll) {
+		window.onscroll = aoRolar;
+	}
+}
