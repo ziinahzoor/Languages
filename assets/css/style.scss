@@ -7,6 +7,7 @@
 $background-alt: #121821;
 $background-code: #393939;
 $cyberpink: #ea00d9;
+$cybergreen: #0abdc6;
 
 body {
 	font-family: Arvo, Monaco, serif;
@@ -34,35 +35,36 @@ h6 {
 }
 
 nav {
-	height: 38vh;
 	width: calc(25vw - 100px);
-	position: fixed;
 	background-color: $background-alt;
 	border-radius: 5px;
-	padding: 5px;
+	padding: 1rem;
+	height: 50%;
 	overflow-y: auto;
 
-	&#navigation {
-		top: 100px;
-	}
+	& ul {
+		padding-left: 1.25rem;
+		list-style-type: none;
 
-	&#header-navigation {
-		bottom: 100px;
+		& li {
+			font-size: 1rem;
+			text-transform: none;
+			font-weight: normal;
+
+			&:hover {
+				font-weight: normal;
+			}
+		}
 	}
 
 	& > ul {
 		margin: 0;
+		padding-left: 0;
 
 		& > li {
 			text-transform: uppercase;
 			font-size: 1.1rem;
 			font-weight: bold;
-
-			& > ul > li {
-				text-transform: none;
-				font-size: 1rem;
-				font-weight: normal;
-			}
 
 			&:hover {
 				font-weight: bold;
@@ -74,41 +76,77 @@ nav {
 section {
 	width: calc(75vw - 100px);
 	padding-bottom: 100px;
+	scroll-behavior: smooth;
 }
 
 footer {
-	width: 100%;
-	height: 75px;
+	width: calc(25vw - 100px);
 	float: left;
+	border-radius: 5px;
 	position: fixed;
-	bottom: 0px;
-	left: 0px;
-	padding: 5px;
+	height: auto;
+	bottom: 20px;
+	padding: 1rem;
 	background-color: $background-alt;
+	border: solid $cyberpink 1px;
+	box-shadow: -2px 2px $cybergreen;
 }
 
 code {
 	background-color: $background-code;
 	border-radius: 5px;
-	color: #0abdc6;
+	color: $cybergreen;
 	font-family: Arvo, Monaco, monospace;
 	padding: 3px;
 }
 
-footer p:last-child {
+footer p {
 	margin: 0;
 }
 
-a {
+a,
+a:focus,
+a:visited {
 	color: #0a9cf5;
+	font-weight: unset;
+
 	&:hover {
-		color: #0abdc6;
+		color: $cybergreen;
+		font-weight: unset;
 	}
 }
 
 div {
 	&.wrapper {
 		width: auto;
+	}
+}
+
+table {
+	> thead > tr:first-child,
+	> tr:first-child {
+		background-color: $cybergreen;
+
+		& > th {
+			border: 1px solid darken($cybergreen, 10%);
+			color: darken($cybergreen, 35%);
+		}
+	}
+
+	tr:nth-child(even) {
+		background-color: darken($cybergreen, 35%);
+		color: white;
+	}
+
+	td,
+	th {
+		border: 1px solid lighten($cybergreen, 30%);
+		color: inherit;
+	}
+
+	th {
+		color: lighten($cybergreen, 55%);
+		font-size: 1rem;
 	}
 }
 
@@ -172,6 +210,24 @@ div {
 	border-color: rgb(248, 81, 73);
 }
 
-.selecionado {
+.navigation-wrapper {
+	position: fixed;
+	top: 100px;
+	display: flex;
+	gap: 1rem;
+	flex-direction: column;
+	height: calc(80vh - 100px - 1rem);
+}
+
+a.selecionado,
+a.cabecalho-selecionado {
 	color: $cyberpink;
+}
+
+@media print, screen and (max-width: 960px) {
+	header,
+	nav,
+	footer {
+		display: none;
+	}
 }
