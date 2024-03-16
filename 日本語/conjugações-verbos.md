@@ -21,11 +21,13 @@
 **Os destaques mostram o radical kana dos verbos godan.**
 
 <table>
-    <tr>
-        <th>Forma indicativa não-passado</th>
-        <th>Plana</th>
-        <th>Formal <code>い</code></th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Forma indicativa não-passado</th>
+            <th>Plana</th>
+            <th>Formal <code>い</code></th>
+        </tr>
+    </thead>
     <tr>
         <th>Afirmativa</th>
         <td>ー <code>う</code></td>
@@ -42,11 +44,13 @@
 > O <code>ない</code> pode ser acrescentado de <code>です</code> para tornar a frase mais formal.
 
 <table>
-    <tr>
-        <th>Forma indicativa passado</th>
-        <th>Plana</th>
-        <th>Formal <code>い</code></th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Forma indicativa passado</th>
+            <th>Plana</th>
+            <th>Formal <code>い</code></th>
+        </tr>
+    </thead>
     <tr>
         <th>Afirmativa</th>
         <td>た・だ <code>＊</code></td>
@@ -63,11 +67,13 @@
 > ＊Usa a forma た do verbo.
 
 <table>
-    <tr>
-        <th>Forma volicional (vamos)</th>
-        <th>Plana</th>
-        <th>Formal</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Forma volicional (vamos)</th>
+            <th>Plana</th>
+            <th>Formal</th>
+        </tr>
+    </thead>
     <tr>
         <th>Afirmativa</th>
         <td>う <code>お</code>・だろう <code>う</code></td>

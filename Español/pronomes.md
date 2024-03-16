@@ -6,17 +6,19 @@
 > Todos possuem formas verbais: `tutear`, `vosear` e `ustedear`.
 
 <table>
-    <tr>
-        <th>Nombre</th>
-        <th>Persona</th>
-        <th>Nominativo</th>
-        <th>Reflexivos</th>
-        <th>Oblicuo directo</th>
-        <th>Oblicuo indirecto</th>
-        <th>Preposicionales</th>
-        <th>Adjectivos Posesivos</th>
-        <th>Posesivos</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Persona</th>
+            <th>Nominativo</th>
+            <th>Reflexivos</th>
+            <th>Oblicuo directo</th>
+            <th>Oblicuo indirecto</th>
+            <th>Preposicionales</th>
+            <th>Adjectivos Posesivos</th>
+            <th>Posesivos</th>
+        </tr>
+    </thead>
     <tr>
         <th>Flexão</th>
         <th>Pessoa</th>

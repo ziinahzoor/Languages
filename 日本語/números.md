@@ -11,13 +11,15 @@
 **<font size="5"><code><ruby>歳<rt>さい</rt></ruby></code></font> após um número se refere à idade da pessoa.**
 
 <table>
-    <tr>
-        <th>Kanji</th>
-        <th>Wago</th>
-        <th>Kango</th>
-        <th>Garaigo</th>
-        <th>Arábico</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Kanji</th>
+            <th>Wago</th>
+            <th>Kango</th>
+            <th>Garaigo</th>
+            <th>Arábico</th>
+        </tr>
+    </thead>
     <tr>
         <th>零・〇</th>
         <td>なし・まる</td>
@@ -227,16 +229,18 @@
 ## Transformação dos contadores
 
 <table>
-    <tr>
-        <th>Primeiro kana</th>
-        <th>K</th>
-        <th>S</th>
-        <th>T</th>
-        <th>H</th>
-        <th>F</th>
-        <th>P</th>
-        <th>W</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Primeiro kana</th>
+            <th>K</th>
+            <th>S</th>
+            <th>T</th>
+            <th>H</th>
+            <th>F</th>
+            <th>P</th>
+            <th>W</th>
+        </tr>
+    </thead>
     <tr>
         <th>一</th>
         <td colspan="3">いっ</td>

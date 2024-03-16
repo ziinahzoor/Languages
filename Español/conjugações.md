@@ -3,12 +3,14 @@
 ## El Presente del Indicativo - Presente do Indicativo
 
 <table>
-    <tr>
-        <th>Pronome</th>
-        <th>Verbos -ar</th>
-        <th>Verbos -er</th>
-        <th>Verbos -ir</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Pronome</th>
+            <th>Verbos -ar</th>
+            <th>Verbos -er</th>
+            <th>Verbos -ir</th>
+        </tr>
+    </thead>
     <tr>
         <th>Yo</th>
         <td colspan="3">-o</td>
@@ -70,12 +72,14 @@
 ### El Gerundio - Particípio do Presente
 
 <table>
-    <tr>
-        <th></th>
-        <th>Verbos -ar</th>
-        <th>Verbos -er</th>
-        <th>Verbos -ir</th>
-    </tr>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Verbos -ar</th>
+            <th>Verbos -er</th>
+            <th>Verbos -ir</th>
+        </tr>
+    </thead>
     <tr>
         <th>Regulares</th>
         <td rowspan="3">-ando</td>
@@ -97,12 +101,14 @@
 ## El Pretérito Imperfecto/Copretérito - Pretérito Imperfeito
 
 <table>
-    <tr>
-        <th>Pronome</th>
-        <th>Verbos -ar</th>
-        <th>Verbos -er</th>
-        <th>Verbos -ir</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Pronome</th>
+            <th>Verbos -ar</th>
+            <th>Verbos -er</th>
+            <th>Verbos -ir</th>
+        </tr>
+    </thead>
     <tr>
         <th>Yo</th>
         <td>-aba</td>
@@ -141,12 +147,14 @@
 ## El Pretérito Perfecto Simple - Pretérito Perfeito
 
 <table>
-    <tr>
-        <th>Pronome</th>
-        <th>Verbos -ar</th>
-        <th>Verbos -er</th>
-        <th>Verbos -ir</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Pronome</th>
+            <th>Verbos -ar</th>
+            <th>Verbos -er</th>
+            <th>Verbos -ir</th>
+        </tr>
+    </thead>
     <tr>
         <th>Yo</th>
         <td>-é</td>
@@ -185,12 +193,14 @@
 ## El Futuro Simple - Futuro do Indicativo
 
 <table>
-    <tr>
-        <th>Pronome</th>
-        <th>Verbos -ar</th>
-        <th>Verbos -er</th>
-        <th>Verbos -ir</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Pronome</th>
+            <th>Verbos -ar</th>
+            <th>Verbos -er</th>
+            <th>Verbos -ir</th>
+        </tr>
+    </thead>
     <tr>
         <th>Yo</th>
         <td colspan="3">-é</td>

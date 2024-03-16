@@ -3,12 +3,14 @@
 ## Le Present Indicatif - Presente do Indicativo
 
 <table>
-    <tr>
-        <th>Pronome</th>
-        <th>Verbos -er</th>
-        <th>Verbos -ir</th>
-        <th>Verbos -re</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Pronome</th>
+            <th>Verbos -er</th>
+            <th>Verbos -ir</th>
+            <th>Verbos -re</th>
+        </tr>
+    </thead>
     <tr>
         <th>Je</th>
         <td>-e</td>
@@ -59,12 +61,14 @@
 ## L'Imparfait Indicatif - Pretérito Imperfeito
 
 <table>
-    <tr>
-        <th>Pronome</th>
-        <th>Verbos -er</th>
-        <th>Verbos -ir</th>
-        <th>Verbos -re</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Pronome</th>
+            <th>Verbos -er</th>
+            <th>Verbos -ir</th>
+            <th>Verbos -re</th>
+        </tr>
+    </thead>
     <tr>
         <th>Je</th>
         <td rowspan="2">-ais</td>
@@ -109,12 +113,14 @@
 ### Participe Passé - Particípio do Pretérito
 
 <table>
-    <tr>
-        <th></th>
-        <th>Verbos -er</th>
-        <th>Verbos -ir</th>
-        <th>Verbos -re</th>
-    </tr>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Verbos -er</th>
+            <th>Verbos -ir</th>
+            <th>Verbos -re</th>
+        </tr>
+    </thead>
     <tr>
         <th>Conjugação</th>
         <td>-é</td>
@@ -130,12 +136,14 @@
 ## Le Futur Simple - Futuro Simples do Indicativo
 
 <table>
-    <tr>
-        <th>Pronome</th>
-        <th>Verbos -er</th>
-        <th>Verbos -ir</th>
-        <th>Verbos -re</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Pronome</th>
+            <th>Verbos -er</th>
+            <th>Verbos -ir</th>
+            <th>Verbos -re</th>
+        </tr>
+    </thead>
     <tr>
         <th>Je</th>
         <td>-erai</td>

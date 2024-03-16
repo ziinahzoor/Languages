@@ -12,11 +12,13 @@
         -   `じゃ` é uma contração de `では`. O último é mais formal.
 
 <table>
-    <tr>
-        <th colspan="2"></th>
-        <th>Plana</th>
-        <th>Formal</th>
-    </tr>
+    <thead>
+        <tr>
+            <th colspan="2"></th>
+            <th>Plana</th>
+            <th>Formal</th>
+        </tr>
+    </thead>
     <tr>
         <th rowspan="2">Não-passado</th>
         <th>Afirmativa</th>

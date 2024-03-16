@@ -3,17 +3,19 @@
 ## Personnels - Pessoais
 
 <table>
-    <tr>
-        <th>Nombre</th>
-        <th>Personne</th>
-        <th>Sujet</th>
-        <th>Réfléchis</th>
-        <th>Complément direct</th>
-        <th>Complément Indirect</th>
-        <th>Tonique</th>
-        <th>Adjectifs Possessifs</th>
-        <th>Possessifs</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Personne</th>
+            <th>Sujet</th>
+            <th>Réfléchis</th>
+            <th>Complément direct</th>
+            <th>Complément Indirect</th>
+            <th>Tonique</th>
+            <th>Adjectifs Possessifs</th>
+            <th>Possessifs</th>
+        </tr>
+    </thead>
     <tr>
         <th>Flexão</th>
         <th>Pessoa</th>

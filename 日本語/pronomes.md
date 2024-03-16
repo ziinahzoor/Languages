@@ -36,13 +36,15 @@
 **`そう` pode ser usado com os sufixos `だよ` e `です` para concordar. `そうそう` é mais casual, como "certo, certo...".**
 
 <table>
-    <tr>
-        <th>Perto do</th>
-        <th>Locutor</th>
-        <th>Ouvinte</th>
-        <th>Nenhum</th>
-        <th>Interrogativo</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Perto do</th>
+            <th>Locutor</th>
+            <th>Ouvinte</th>
+            <th>Nenhum</th>
+            <th>Interrogativo</th>
+        </tr>
+    </thead>
     <tr>
         <th>Não-determinante</th>
         <td>これ</td>

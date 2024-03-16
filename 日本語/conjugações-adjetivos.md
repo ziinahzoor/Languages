@@ -17,11 +17,13 @@
 **Se dividem em duas classes: `い` e `しい`. A última tende a ser mais pessoal e portanto existem verbos correspondentes para se referir à outras pessoas.**
 
 <table>
-    <tr>
-        <th>い</th>
-        <th>Não-passado</th>
-        <th>Passado</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>い</th>
+            <th>Não-passado</th>
+            <th>Passado</th>
+        </tr>
+    </thead>
     <tr>
         <th>Afirmativa</th>
         <td>い</td>
@@ -56,11 +58,13 @@
 **Para usar outras formas, substitui-se o radical `い` nos adjetivos い e o radical `な` nos adjetivos な.**
 
 <table>
-    <tr>
-        <th>Radical substituído</th>
-        <th>い</th>
-        <th>な</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>Radical substituído</th>
+            <th>い</th>
+            <th>な</th>
+        </tr>
+    </thead>
     <tr>
         <th>Forma negativa</th>
         <td>くない</td>
