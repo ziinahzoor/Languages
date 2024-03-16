@@ -123,6 +123,9 @@ div {
 }
 
 table {
+	display: block;
+	overflow-x: auto;
+
 	> thead > tr:first-child,
 	> tr:first-child {
 		background-color: $cybergreen;
