@@ -168,7 +168,6 @@ function handleElementoExibido() {
 	});
 
 	if (elementoExibido) {
-		console.log("Element at the top:", elementoExibido);
 		const id = elementoExibido.id.slice(-1);
 		document.getElementsByClassName('cabecalho-selecionado')[0]?.classList.remove('cabecalho-selecionado');
 
