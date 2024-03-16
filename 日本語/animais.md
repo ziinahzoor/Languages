@@ -22,7 +22,6 @@
 -   `ラマ` Lhama
 -   `カキ` Ostra
 -   `クモ` Aranha
--   `クマ` Urso
 -   `タカ` Falcão
 -   `サソリ` Escorpião
 -   `ワニ` Jacaré
@@ -37,3 +36,4 @@
 -   `えび` Camarão
 -   `カメレオン` Camaleão
 -   `ハムスター` Hamster
+-   `ぞう` Elefante

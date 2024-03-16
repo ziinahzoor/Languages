@@ -50,13 +50,14 @@
 -   `うみ` Praia
 -   `こうえん` Parque
 -   `ゆうえんち` Parque temático
+-   <font size="5"><code><ruby>動<rt>どう</rt>物<rt>ぶつ</rt>園<rt>えん</rt></ruby></code></font> Zoológico
+-   `すいぞくかん` Aquário
 -   `ひろば` Praça
 -   `おんせん` Fontes termais
 -   <font size="5"><code><ruby>会<rt>かい</rt>社<rt>しゃ</rt></ruby></code></font> Empresa
 -   `トンネル` Túnel
 -   `はくぶつかん` Museu
 -   `びじゅつかん` Museu de arte
--   <font size="5"><code><ruby>動<rt>どう</rt>物<rt>ぶつ</rt>園<rt>えん</rt></ruby></code></font> Zoológico
 -   `しろ` Castelo
 -   `ロビー` Entrada/Portaria/Salão
 -   `うけつけ` Recepção
@@ -121,6 +122,7 @@
 -   `スペイン` Espanha
 -   `ドイツ` Alemanha
 -   `フィリピン` Filipinas
+-   `タイ` Thailândia
 
 ## <ruby>都<rt>と</rt>市<rt>し</rt></ruby>と<ruby>町<rt>まち</rt></ruby> - Cidades
 
@@ -181,12 +183,27 @@
 ### <ruby>都<rt>と</rt></ruby> - Metrópolis
 
 -   <font size="5"><code><ruby>東<rt>とう</rt>京<rt>きょう</rt></ruby></code></font> Tóquio
-    -   `しぶや` Shibuya
-    -   `あさくさ` Asakusa
-    -   `しんじゅく` Shinjuku
-        -   `かぶきちょう` Kabukicho
-    -   `はらじゅく` Harajuku
+
+#### <ruby>特<rt>とく</rt>別<rt>べつ</rt>区<rt>く</rt>・</ruby><ruby>区<rt>く</rt></ruby> Alas especiais
+
+-   `あらかわ` Arakawa
+-   `ちよだ` Chiyoda
     -   `あきはばら` Akihabara
+-   `ちゅうお` Chuo
+    -   `ぎんざ` Ginza
+-   `しぶや` Shibuya
+    -   `はらじゅく` Harajuku
+-   `しんじゅく` Shinjuku
+    -   `かぶきちょう` Kabukicho
+-   `たいとう` Taito
+    -   `あさくさ` Asakusa
+    -   `うえの` Ueno
+
+#### <ruby>市<rt>し</rt></ruby> - Cidades
+
+-   `ちば` Chiba
+
+#### <ruby>町<rt>まち</rt></ruby> - Municípios/Blocos
 
 ### <ruby>道<rt>どう</rt></ruby> - Prefeitura Regional/Territorial
 

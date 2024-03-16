@@ -37,6 +37,7 @@
 -   `もっと` Mais
 -   `いっしょに` Juntos
 -   `はやく` Cedo/Rapidamente
+-   `はじめて` Pela primeira vez
 
 ## Auxiliares
 

@@ -159,6 +159,7 @@
 -   `ルームサービス` Serviço de quarto
 -   `パスワード` Senha
 -   `むりょう` De graça
+-   `ぶんか` Cultura
 
 ## Transporte
 
@@ -210,6 +211,7 @@
 -   `チェス` Xadrez
 -   `サークル` Clube
 -   `たんじょうび` Aniversário
+-   `かぶき` Kabuki (Teatro japonês)
 
 ### スポーツ - Esporte
 

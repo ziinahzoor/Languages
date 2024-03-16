@@ -48,6 +48,8 @@
 -   `スープ` Sopa
 -   `トースト` Torrada
 -   `ホットドッグ` Cachorro-quente
+-   `クレープ` Crepe
+-   `ピーナッツ` Amendoim
 
 ## Frutas
 

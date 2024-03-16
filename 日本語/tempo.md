@@ -35,6 +35,7 @@
 
 -   <font size="5"><code><ruby>毎<rt>まい</rt></ruby></code></font> Todo(a)
 -   <font size="5"><code><ruby>先<rt>せん</rt></ruby></code></font> Anterior
+    -   `年` é <font size="5"><code><ruby>去<rt>きょ</rt>年<rt>ねん</rt></ruby></code></font>
 -   <font size="5"><code><ruby>今<rt>こん</rt></ruby></code></font> Este(a)
     -   `夜` é <font size="5"><code><ruby>今<rt>こん</rt>夜<rt>や</rt></ruby></code></font>
 -   <font size="5"><code><ruby>来<rt>らい</rt></ruby></code></font> Próximo(a)
