@@ -10,7 +10,9 @@
 	{% seo title=false %}
 
 	<title>
-		{{ site.title }} | {{ page.title }}
+		{% assign urlParts = page.url | url_decode | split: '/' %}
+		{% assign extractedText = urlParts[1] %}
+		{{ extractedText }} {% if page.title %}|{% endif %} {{ page.title }}
 	</title>
 	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	<script src="https://code.jquery.com/jquery-3.3.0.min.js"
