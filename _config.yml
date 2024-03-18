@@ -6,17 +6,18 @@
 title: Linguagens
 email: rafaelxsantosx@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Repositório dedicado ao aprendizado de diversas linguagens reais e fictícias, contento regrais gramaticais, vocabulário, pronúncia, dicas, variações regionais e aspectos culturais dos países que as utilizam.
+    Repositório dedicado ao aprendizado de diversas linguagens reais e fictícias, contendo regrais gramaticais, vocabulário, pronúncia, dicas, variações regionais e aspectos culturais dos países que as utilizam.
 baseurl: '/Languages' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ziinahzoor
 github_username: ziinahzoor
 
 # Build settings
-markdown: GFM
-theme: jekyll-theme-minimal
+remote_theme: https://github.com/ziinahzoor/cybersynth-theme
+
 plugins:
     - jekyll-feed
+    - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

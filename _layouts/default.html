@@ -1,49 +1,64 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "pt-BR" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<html lang="{{ site.lang | default: " pt-BR" }}">
 
-    <link rel="icon" type="image/x-icon" href="/Languages/favicon.ico">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-{% seo title=false %}
+	<link rel="icon" type="image/x-icon" href="/Languages/favicon.ico">
 
-    <title>
-      {{ site.title }} |  {{ page.title }}
-    </title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/main.js' | relative_url }}" type="module"></script>
-    <script src="{{ '/assets/js/linguagens.js' | relative_url }}" type="module"></script>
-    <script src="{{ '/assets/js/icones.js' | relative_url }}" type="module"></script>
-    <!--[if lt IE 9]>
+	{% seo title=false %}
+
+	<title>
+		{{ site.title }} | {{ page.title }}
+	</title>
+	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<script src="https://code.jquery.com/jquery-3.3.0.min.js"
+		integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+	<script src="{{ '/assets/js/main.js' | relative_url }}" type="module"></script>
+  <script src="{{ '/assets/js/languages.js' | relative_url }}" type="module"></script>
+	<script src="{{ '/assets/js/icons.js' | relative_url }}" type="module"></script>
+	<!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-    {% include head-custom.html %}
-  </head>
-  <body>
-      <header>
-        <h1>{{ site.title }}</h1>
-      </header>
+	{% include head-custom.html %}
+</head>
 
-    <div class="wrapper">
-      <div class="navigation-wrapper">
-        <nav id="navigation">
-        </nav>
-        <nav id="header-navigation">
-        </nav>
-      </div>
-      <section>
-        {{ content }}
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-          <p>Projeto sustentado por <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hospedado no GitHub Pages &mdash; Tema por <a href="https://rafaelrosa.dev">ziinahzoor</a></small></p>
-      </footer>
-    </div>
-  </body>
+<body>
+	<header class="mobile mobile-header">
+		<h1>{{ site.title }}</h1>
+	</header>
+
+	<div class="navigation-wrapper">
+		<header>
+			<h1>{{ site.title }}</h1>
+		</header>
+    <nav id="navigation">
+    </nav>
+		<nav id="header-navigation">
+		</nav>
+		<footer>
+			{% if site.github.is_project_page %}
+			<p>Projeto sustentado por <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+			{% endif %}
+			<p><small>Hospedado no GitHub &mdash; Tema por <a href="https://rafaelrosa.dev">ziinahzoor</a></small>
+			</p>
+		</footer>
+	</div>
+
+	<section>
+		{{ content }}
+	</section>
+
+	<footer class="mobile mobile-footer">
+		{% if site.github.is_project_page %}
+		<p>Projeto sustentado por <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+		{% endif %}
+		<p><small>Hospedado no GitHub &mdash; Tema por <a href="https://rafaelrosa.dev">ziinahzoor</a></small>
+		</p>
+	</footer>
+</body>
+
 </html>

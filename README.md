@@ -1,6 +1,6 @@
 # Linguagens
 
-**Repositório dedicado ao aprendizado de diversas linguagens reais e fictícias, contento regrais gramaticais, vocabulário, pronúncia, dicas, variações regionais e aspectos culturais dos países que as utilizam.**
+**Repositório dedicado ao aprendizado de diversas linguagens reais e fictícias, contendo regrais gramaticais, vocabulário, pronúncia, dicas, variações regionais e aspectos culturais dos países que as utilizam.**
 
 > [!TIP]
 > Vários sites, informações utilitárias e fontes de pesquisa estão disponíveis [aqui](utils.md)
