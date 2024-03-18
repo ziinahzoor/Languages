@@ -69,6 +69,11 @@ function addHeaders() {
 
 	const headers = document.querySelectorAll('section h1,h2,h3,h4,h5,h6');
 
+	if (!headers.length) {
+		nav.parentElement.removeChild(nav);
+		return;
+	}
+
 	let currentList = list;
 	let lastNesting = 0;
 
@@ -167,6 +172,11 @@ let selectedHeader;
 
 function handleShownElement() {
 	var elements = [...document.querySelectorAll('section h1,h2,h3,h4,h5,h6')];
+
+	if (!elements.length) {
+		return;
+	}
+
 	var screenMiddlePoint = window.innerHeight / 2;
 
 	const filteredElements = elements.filter(e => e.getBoundingClientRect().bottom <= screenMiddlePoint);
