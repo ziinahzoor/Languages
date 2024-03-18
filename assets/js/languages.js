@@ -1,3 +1,14 @@
+const alphabets = {
+	folder: 'Alfabetos',
+	displayName: 'Alfabetos',
+	subpages: [
+		{ page: 'aurabesh', displayName: 'Aurabesh (Star Wars)' },
+		{ page: 'braille', displayName: 'Braille' },
+		{ page: 'daedric', displayName: 'Daedrico (Skyrim)' },
+		{ page: 'morse', displayName: 'Código Morse' }
+	]
+}
+
 const spanish = {
 	folder: 'Español',
 	displayName: 'Espanhol',
@@ -85,4 +96,4 @@ const japanese = {
 	],
 }
 
-export const languages = [spanish, french, japanese];
+export const languages = [alphabets, spanish, french, japanese];
