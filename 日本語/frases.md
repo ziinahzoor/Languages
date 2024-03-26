@@ -1,21 +1,29 @@
+# Frases
+
 # <ruby>挨<rt>あい</rt>拶<rt>さつ</rt></ruby> - Saudações
+
+### Ao chegar
 
 -   `こんにちは` Olá
 -   `もしもし` Alô
 -   `おはようございます` Bom dia
 -   `こんばんは` Boa noite
--   `おやすみなさい` Boa noite (Ao se despedir)
+-   `ようこそ` Bem-vindo
+    -   `いらっしゃいませ` Bem-vindo (Usado em estabelecimentos)
+    -   `おかえりなさい` Bem-vindo de volta (à casa)
+
+### Ao partir
+
+-   `じゃあね` Tchau
 -   `またあした` Até amanhã
+-   `おやすみなさい` Boa noite (Ao se despedir)
+
+### Apresentação
+
 -   `はじめまして` Prazer em conhecer (Antes de se apresentar)
 -   `どうぞよろしく` Prazer em conhecer (Depois de se apresentar)
     -   `よろしく` (Informal)
     -   `よろしくおねがいします` (Formal)
--   `じゃあ` Ok então
--   `じゃあね` Tchau
--   `いいですね` Parece ótimo
--   `かんぱい` Saúde
--   `すみません` Com licença/Desculpa
--   `ごめんなさい` Desculpa (Informal)
 -   `しゅっしんはどこですか` De onde você é?
 -   <font size="5"><code>お<ruby>名<rt>な</rt>前<rt>まえ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか</code></font> Qual é o seu nome?
     -   <font size="5"><code>お<ruby>名<rt>な</rt>前<rt>まえ</rt></ruby>は</code></font>
@@ -24,23 +32,25 @@
 -   <font size="5"><code>。。。と<ruby>言<rt>い</rt></ruby>います</code></font> Me chamo...
     -   <font size="5"><code>。。。と<ruby>申<rt>もう</rt></ruby>します</code></font> Forma humilde
 -   `。。。にすんでいます` Em moro em/no/na...
--   `ありがとうございます` Obrigado
--   `どういたしまして` De nada
--   `ほんとですか` Sério?
--   `だいじょうぶですか` Está tudo bem?
+
+## Solicitações
+
 -   `ください` Por favor (Para objetos e ações)
 -   `おねがいします` Por favor (Para serviços)
--   `ただいま` Cheguei em casa
--   `おかえりなさい` Bem-vindo de volta
--   `ようこそ` Bem-vindo
--   `いってきます` Estou indo
-    -   `いって` Indo + `きます` Vir = Estou indo, mas vou voltar
--   `いらっしゃいませ` Bem-vindo (Usado em estabelecimentos)
--   `いただきます` Vamos comer!
+
+## Arrependimento
+
+-   `すみません` Com licença/Desculpa
+-   `ごめんなさい` Desculpa (Informal)
+
+## Felicitações
+
 -   <font size="5"><code><ruby>乾<rt>かん</rt>杯<rt>ぱい</rt></ruby></code></font> Saúde! (Ao beber)
+
+## Agradecimento
+
+-   `ありがとうございます` Obrigado
+-   `どういたしまして` De nada
 -   `ごちそうさまでした` Obrigado pela comida
--   `そうです` Está certo
--   `あ` Ah!
--   `え` Hein/Huh
--   `ええと` Hm...
--   `ぜんぶで。。。` No total...
+
+## Concordância

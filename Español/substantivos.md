@@ -67,6 +67,9 @@
 -   `Nota`
 -   `Pizarra` Quadro (F)
 -   `Paquete` Pacote
+-   `Toalla` Toalha
+-   `Papel`
+-   `Entrada` Ingresso
 
 ## Abstratos
 
@@ -113,6 +116,7 @@
 -   `Kilo` Quilo
 -   `Vergüenza` Vergonha
 -   `Imagen` Imagem
+-   `Plan` Plano
 
 ## Transporte
 

@@ -18,153 +18,182 @@
 
 ## Casa e objetos
 
+### Cozinha
+
+-   `ナイフ` Faca
+-   `おさら` Prato
+-   `でんしレンジ` Micro-ondas
+-   `れいぞうこ` Geladeira
+-   `カップ` Xícara
+-   `フォーク` Garfo
+-   `はし` Pauzinhos
+
+### Banheiro
+
+-   `タオル` Toalha
+-   `シャワー` Chuveiro
+-   <font size="5"><code>お<ruby>風<rt>ふ</rt>呂<rt>ろ</rt></ruby></code></font> Banho/Banheira
+
+### Sala de estar
+
+-   `ソファ` Sofá
+
+### Quarto
+
+-   `ベッド` Cama
+-   `ポスター` Poster
+
+### Outros
+
 -   `くすり` Medicina/Remédio
 -   `かつら` Peruca
 -   `ほね` Livro
 -   `ひも` Fio
+-   `ケーブル` Cabo
 -   `かぎ` Chave
--   `でんわ` Telefone
--   `スマホ` Smartphone
 -   `えんぴつ` Lápis
--   `ざせき` Assento
+-   `せき` Assento
+    -   `ざせき` Assento (Nuance comercial, de avião, trem)
 -   <font size="5"><code><ruby>窓<rt>まど</rt></ruby></code></font> Janela
 -   `インク` Tinta
--   `しゅくだい` Tarefa de casa
 -   `サイン` Assinatura
--   `カラオケ` Karaoke
 -   `じしょ` Dicionário
 -   `しゃしん` Foto
--   `ナイフ` Faca
--   `タオル` Toalha
--   `タイヤ` Pneu
--   `ウクレレ` Ukulele
 -   `グラス` Vidro
--   `アニメ` Anime
--   `まんが` Mangá
 -   `ちず` Mapa
--   `パスポート` Passaporte
 -   `かさ` Guarda-chuva
--   `テレビ` Televisão
--   `えいが` Filme
--   `ニュース` Notícias
 -   <font size="5"><code><ruby>新<rt>しん</rt>聞<rt>ぶん</rt></ruby></code></font> Jornal
 -   <font size="5"><code><ruby>本<rt>ほん</rt></ruby></code></font> Livro
 -   `ざっし` Revista
--   <font size="5"><code><ruby>円<rt>えん</rt></ruby></code></font> Iene
--   `コイン` Moeda
--   `おつり` Troco
--   `かいけい` Conta (de pagar)
--   `ドラマ` Drama/Novela
--   `どうが` Vídeo
 -   `ゴミばこ` Lata de lixo
--   `コンセント` Tomada
 -   `かいだん` Escada
--   `じはんき` Máquina de vendas
 -   `コインロッカー` Armário de armazenamento
--   `ラジオ` Rádio
--   `メール` Email
--   `シャワー` Chuveiro
--   `エアコン` Ar condicionado
--   `せんたくき` Máquina de lavar
 -   <font size="5"><code><ruby>本<rt>ほん</rt>棚<rt>だな</rt></ruby></code></font> Estante
 -   <font size="5"><code><ruby>窓<rt>まど</rt></ruby></code></font> Janela
--   `ベッド` Cama
--   `そうじき` Aspirador de pó
 -   `テーブル` Mesa
 -   <font size="5"><code><ruby>机<rt>つくえ</rt></ruby></code></font> Escrivaninha
 -   <font size="5"><code><ruby>椅<rt>い</rt>子<rt>す</rt></ruby></code></font> Cadeira
--   `でんしレンジ` Micro-ondas
--   `れいぞうこ` Geladeira
--   `ポストカード` Cartão postal
--   `おみやげ` Lembrancinha
 -   `はなび` Fogos de artifício
--   <font size="5"><code>お<ruby>風<rt>ふ</rt>呂<rt>ろ</rt></ruby></code></font> Banho
 -   `スーツケース` Maleta
--   `チケット` Ingresso
 -   `え` Pintura
--   `せき` Assento
 -   `テスト` Prova
 -   `じしょ` Dicionário
--   `ナビ` GPS
--   `カメラ` Câmera
--   `にゅうじょうりょう` Taxa de entrada
--   `ジェットコースター` Montanha-russa
--   `ポスター` Poster
--   `ドキュメンタリー` Documentário
--   `プリンター` Impressora
--   `パソコン` Computador
--   `ソファ` Sofá
--   `メニュー` Cardápio
--   `はし` Pauzinhos
 -   `ナプキン` Lenço de papel
--   `クレジットカード` Cartão de crédito
--   `かぎ` Chave
--   `タオル` Toalha
+-   `おもちゃ` Brinquedo
+
+## Elétricos e Eletrônicos
+
+-   `テレビ` Televisão
+-   `コンセント` Tomada
+-   `ナビ` GPS
+-   `でんわ` Telefone
+-   `スマホ` Smartphone
+-   `パソコン` Computador
+-   `モニター` Monitor
+-   `マウス` Mouse
+-   `キーボード` Teclado
+-   `ヘッドホン` Headfone
+-   `プリンター` Impressora
+-   `カメラ` Câmera
+-   `ラジオ` Rádio
+-   `エアコン` Ar condicionado
+-   `じはんき` Máquina de vendas
+-   `せんたくき` Máquina de lavar
+-   `そうじき` Aspirador de pó
+    ―　`スピーカー` Alto-falante
+-   `でんち` Pilha
+
+### Computação
+
+-   `ネット` Internet
+-   `メール` Email
+-   `ゲーミング` Gaming
+-   `ワイヤレス` Wireless
 
 ## Abstratos
 
--   `かど` Canto
 -   `ひみつ` Segredo
 -   `ミス` Erro
 -   `でんわばんごう` Número de telefone
 -   `キス` Beijo
--   `でんき` Eletricidade
 -   `しゅみ` Hobby
--   `ぶんか` Cultura
+-   `でんき` Eletricidade
 -   `たび` Jornada
 -   `しんぽ` Progresso
 -   `しゅわ` Linguagem de sinais
--   `センチ` Centímetro
 -   `しんぱい` Preocupação
 -   `どりょく` Esforço
 -   `コネ` Conexão
 -   `アイデア` Ideia
--   `ホラー` Terror
--   `ミステリー` Mistério
--   `ファンタジー` Fantasia
--   `コメディ` Comédia
--   `れんあい` Romance
--   `アクション` Ação
 -   `はんたい` Oposto
 -   `しゅっしん` De onde (Cidade natal)
 -   `ほんとう` Verdade
 -   `ぐあい` Condição/Saúde
 -   `アレルギー` Alergia
--   <font size="5"><code><ruby>休<rt>やす</rt></ruby>み</code></font> Descanso/Férias
--   <font size="5"><code>ひる<ruby>休<rt>やす</rt></ruby>み</code></font> Hora do almoço
 -   `こと` Coisa (Intangível)
 -   `もの` Coisa (Tangível)
--   `りょこう` Viagem
--   `かんこう` Passeio turístico
--   `じゅぎょう` Aula
 -   `しつもん` Pergunta
--   `プロジェクト` Projeto
 -   `しめきり` Deadline
--   `イベント` Evento
 -   `あじ` Sabor
--   `フィクション` Ficção
--   `ノンフィクション` Não-ficção
 -   <font size="5"><code><ruby>話<rt>はなし</rt></ruby></code></font> História
--   `ミーティング` Reunião
 -   `ファッション` Fashion
 -   <font size="5"><code><ruby>違<rt>ちが</rt>い</ruby></code></font> Diferença
 -   <font size="5"><code><ruby>言<rt>げん</rt>語<rt>ご</rt></ruby></code></font> Linguagem/Idioma
 -   `にんき` Popular/Popularidade
 -   `けしき` Visão/Vista
 -   `ぜんぶ` Total/Totalidade
--   `ネット` Internet
--   `よやく` Reserva
--   `チェックイン` Check-in
--   `チェックアウト` Check-out
--   `ルームサービス` Serviço de quarto
 -   `パスワード` Senha
 -   `むりょう` De graça
 -   `ぶんか` Cultura
 
-## Transporte
+### Hotel
+
+-   `よやく` Reserva
+-   `チェックイン` Check-in
+-   `チェックアウト` Check-out
+-   `ルームサービス` Serviço de quarto
+
+### Medidas
+
+-   `インチ` Polegada
+-   `センチ` Centímetro
+
+### Gêneros
+
+-   `フィクション` Ficção
+-   `ノンフィクション` Não-ficção
+-   `ホラー` Terror
+-   `ミステリー` Mistério
+-   `ファンタジー` Fantasia
+-   `コメディ` Comédia
+-   `れんあい` Romance
+-   `アクション` Ação
+-   `ドキュメンタリー` Documentário
+
+## Compras
+
+-   <font size="5"><code><ruby>円<rt>えん</rt></ruby></code></font> Iene
+-   `コイン` Moeda
+-   `おつり` Troco
+-   `かいけい` Conta (de pagar)
+-   `チケット` Ingresso
+-   `にゅうじょうりょう` Taxa de entrada
+-   `メニュー` Cardápio
+-   `レシート` Recibo
+-   `レジぶくる` Sacola
+
+## Viagem e Transporte
 
 -   `きっぷ` Passagem (Trem, Ônibus)
 -   `チケット` Passagem (Avião)
+-   `パスポート` Passaporte
+-   `ポストカード` Cartão postal
+-   `おみやげ` Lembrancinha
+-   `クレジットカード` Cartão de crédito
+-   `プレゼント` Presente
+
+### Veículos
+
 -   `でんしゃ` Trem
 -   `ちかてつ` Metrô
 -   `しんかんせん` Trem-bala
@@ -172,9 +201,18 @@
 -   `バス` Ônibus
 -   `きゅうきゅうしゃ` Ambulância
 -   `ひこうき` Avião
+-   `くるま` Carro
+    -   `タイヤ` Pneu
 
 ## Atividades
 
+-   `カラオケ` Karaoke
+-   `プロジェクト` Projeto
+-   `ミーティング` Reunião
+-   `りょこう` Viagem
+-   `かんこう` Passeio turístico
+-   `じゅぎょう` Aula
+-   `イベント` Evento
 -   `マラソン` Maratona
 -   `ハイキング` Caminhada
 -   `キャンプ` Acampamento
@@ -212,6 +250,13 @@
 -   `サークル` Clube
 -   `たんじょうび` Aniversário
 -   `かぶき` Kabuki (Teatro japonês)
+-   `ドラマ` Drama/Novela
+-   `どうが` Vídeo
+-   `アニメ` Anime
+-   `まんが` Mangá
+-   `えいが` Filme
+-   `ニュース` Notícias
+-   `ジェットコースター` Montanha-russa
 
 ### スポーツ - Esporte
 
@@ -240,5 +285,6 @@
 
 -   `ピアノ` Piano
 -   `ギター` Guitarra
+-   `ウクレレ` Ukulele
 
 ## Outros

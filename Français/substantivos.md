@@ -67,11 +67,19 @@
 -   `Assiette` Prato (F)
 -   `Caméra` Filmadora
 -   `Appareil photo` Câmera fotográfica (M)
+-   `Essence` Gasolina
+-   `Coffre` Cofre/Porta-malas
+-   `Bureau` Escrivaninha/Mesa de trabalho
+-   `Poupée` Boneca
+-   `Ballon` Bola (M)
+-   `Boîte` Caixa
 
 ## Abstratos
 
+-   `Essence` Essência
 -   `Rendez-vous` Encontro (M)
 -   `Chose` Coisa
+-   `Réponse` Resposta
 -   `Idée` Ideia
 -   `Couleur` Cor
 -   `Anniversaire` Aniversário (M)
@@ -124,7 +132,10 @@
 -   `Langue` Linguagem
 -   `Phrase` Frase
 -   `Information` Informação/Notícia
--   `E-mail`
+-   `E-mail` Endereço de email
+    -   `Mail` E-mail (Carta eletrônica)
+-   `Vie` Vida
+-   `Souvenir` Lembrança
 
 ## Transporte
 
@@ -143,8 +154,9 @@
 
 -   `Métier` Ocupação/Trabalho
 -   `Profession` Profissão
--   `Cours` Curso
+-   `Cours` Aula/Curso
 -   `Réseaux sociaux` Redes sociais
+-   `Pêche` Pesca
 
 ### Esporte
 
@@ -158,5 +170,6 @@
 -   `Musique` Música
 -   `Piano`
 -   `Guitare` Guitarra
+-   `Violon` Violino
 
 ## Outros

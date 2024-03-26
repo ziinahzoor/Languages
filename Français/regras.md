@@ -25,10 +25,11 @@
 -   Para frases impessoais, como instruções ou regras, se utiliza `Il faut`.
 -   `Avoir mal à` significa sentir dor em algum lugar.
 -   `Là`, mesmo que significando "lá", geralmente é utilizado como "aqui". Ex.: `Je suis là`, `Voilà`.
+-   `Avoir l'air` significa "parecer", "ter o semblante".
 
 ## Les Articles - Artigos
 
--   `Un` Un
+-   `Un` Um
 -   `Une` Uma
 -   `Le` O
 -   `La` A

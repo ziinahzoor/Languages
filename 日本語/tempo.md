@@ -40,6 +40,11 @@
     -   `夜` é <font size="5"><code><ruby>今<rt>こん</rt>夜<rt>や</rt></ruby></code></font>
 -   <font size="5"><code><ruby>来<rt>らい</rt></ruby></code></font> Próximo(a)
 
+### Intervalos
+
+-   <font size="5"><code><ruby>休<rt>やす</rt></ruby>み</code></font> Descanso/Férias
+-   <font size="5"><code>ひる<ruby>休<rt>やす</rt></ruby>み</code></font> Hora do almoço
+
 ## <ruby>月<rt>つき</rt></ruby> - Meses
 
 -   `一月` `いちがつ` Janeiro

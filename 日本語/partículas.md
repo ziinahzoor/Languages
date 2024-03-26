@@ -9,6 +9,7 @@
 -   `が` Sujeito
 -   `の` Posse, Caracterização
     -   Também pode ser marcador paralelo, finalizadora e paralela.
+    -   Também pode substituir a partícula `か` em perguntas, dando um tom mais informal e suave. Adjetivos `な` devem utilizar o sufixo.
 -   `を` Marcador de objeto direto (Acompanha o objeto direto e é seguido por um verbo transitivo).
 -   `に` Localização temporal e espacial, Propósito, Transformação, Marcador de objeto indireto e agente passivo, Frequência (Por).
     -   Também pode ser marcador paralelo.
@@ -39,6 +40,7 @@
 
 -   `か` Interrogação
     -   Também pode ser finalizadora.
+    -   `` Interrogação com uma nuance de dúvida.
 -   `や` E
     -   Também pode ser finalizadora e conjuntiva.
     -   Quando os itens não completam o "todo", ou seja, para listar elementos de uma lista não-exaustiva.

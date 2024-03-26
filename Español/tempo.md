@@ -11,6 +11,7 @@
 -   `Mes` Mês
 -   `Año` Ano
 -   `Fin de semana` Fim de semana
+-   `Fecha` Data
 
 ## La Semaña - Semana
 

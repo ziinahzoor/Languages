@@ -8,6 +8,7 @@
 -   `Être` Ser/Estar
 -   `Prendre` Pegar
 -   `Apprendre` Aprender
+    -   `S'apprendre` Ensinar
 -   `Comprendre` Entender
 -   `Boire` Beber
 -   `Lire` Ler
@@ -22,6 +23,7 @@
 -   `Connaitre` Conhecer
 -   `Entendre` (Físico)
 -   `Croire` Acreditar/Crer
+-   `Répondre` Responder
 
 ## -er Verbes
 
@@ -100,6 +102,12 @@
 -   `Vérifier` Verificar/Checar
 -   `Changer` Mudar/Alterar
 -   `Envoyer` Enviar
+-   `Envier` Invejar
+-   `Frapper` Bater
+-   `Prêter` Emprestar
+-   `Emprunter` Pegar emprestado
+-   `Démarrer` Iniciar (algo)/Dar partida
+-   `Commencer` Começar
 
 ## -ir Verbes
 
@@ -117,11 +125,11 @@
 -   `Finir` Terminar
 -   `Courir` Correr
 -   `Choisir` Escolher
--   `Courir` Correr
 -   `Sentir` Cheirar/Sentir
 -   `Se sentir`
 -   `Pleuvoir` Chover
 -   `Asseoir` Sentar
+-   `Souvenir` Lembrar
 
 ## Les Verbes Défectueux - Verbos Defectivos
 

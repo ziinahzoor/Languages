@@ -29,6 +29,7 @@
 -   `Cuándo` Quando
 -   `Antes`
 -   `Después` Depois
+-   `Luego` Depois/Logo
 -   `A menudo` Frequentemente
 -   `Siempre` Sempre
 -   `A veces` Às vezes
@@ -55,3 +56,4 @@
 -   `Pronto` Logo
 -   `Rápido`
 -   `Despacio` Devagar
+-   `Por supuesto` Claro/Óbvio

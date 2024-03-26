@@ -37,6 +37,7 @@
 -   `Nadar`
 -   `Dibujar` Desenhar
 -   `Ducharse` Se banhar
+-   `Lavarse` Se lavar
 -   `Levantarse` Se levantar
 -   `Pintar`
 -   `Empezar` Começar
@@ -52,11 +53,22 @@
 -   `Dar`
 -   `Estornudar` Espirrar
 -   `Probar` Provar
+-   `Probarse` Experimentar
 -   `Almorzar` Almoçar
 -   `Nevar`
 -   `Viajar`
 -   `Cantar`
 -   `Lavar`
+-   `Quedar` Ficar
+-   `Cambiar` Trocar
+-   `Pensar`
+-   `Ahogar` Afogar
+-   `Desayunar` Tomar café da manhã
+-   `Cenar` Jantar
+-   `Volar` Voar
+-   `Recordar` Lembrar
+-   `Encontrar`
+-   `Esperar`
 
 ## Los verbos -er
 
@@ -93,3 +105,4 @@
 -   `Salir` Sair
 -   `Dormir`
 -   `Abrir`
+-   `Decir` Dizer

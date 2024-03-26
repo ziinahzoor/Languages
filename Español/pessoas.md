@@ -21,6 +21,8 @@
 -   `Secretario` Secretário
 -   `Jefe` Chefe
 -   `Jugador` Jogador
+-   `Salvavida` Salva-vidas
+-   `Vecino` Vizinho
 
 ## La Familia - Família
 

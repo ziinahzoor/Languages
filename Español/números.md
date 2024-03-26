@@ -32,6 +32,10 @@
 -   `Doscientos` Duzentos
 -   `Mil`
 
+## Ordinais
+
+-   `Primero` Primeiro
+
 ## Relacionado
 
 -   `Cuarto` Um quarto

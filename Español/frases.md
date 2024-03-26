@@ -1,27 +1,45 @@
+# Frases
+
 # Los saludos - Saudações
+
+### Ao chegar
 
 -   `Hola` Olá
 -   `Buenos días` Bom dia
 -   `Buenas tardes` Boa tarde
 -   `Buenas noches` Boa noite
--   `Adiós` Adeus
--   `Mucho gusto` Prazer em conhecer
--   `Yo soy...` Eu sou...
+-   `Bienvenido` Bem-vindo
 -   `¿Qué tal?` Como vai?
     -   `¿Qué tal estás?`
 -   `¿Cómo te vá?` Como vai?
 -   `¿Cómo estás?` Como está?
+
+### Ao partir
+
+-   `Adiós` Adeus
+-   `Hasta mañana` Até amanhã
+-   `Hasta luego` Até logo
+
+### Apresentação
+
+-   `Yo soy...` Eu sou...
+-   `Mucho gusto` Prazer em conhecer
+
+## Solicitações
+
 -   `Por favor`
--   `De nada`
+
+## Arrependimento
+
 -   `Perdón` Me desculpe
 -   `Disculpe` Com licença, desculpa
 -   `Lo siento` Lamento
+
+## Felicitações
+
+## Agradecimento
+
 -   `Gracias` Obrigado
--   `¡Me encanta...!` Eu amo...!
--   `Bienvenido` Bem-vindo
--   `No sé` Não sei
--   `Hasta mañana` Até amanhã
--   `Hasta luego` Até logo
--   `Me encantan...` Eu amo...
--   `¡Qué bién!` Que bom!
--   `Por supuesto` É claro
+-   `De nada`
+
+## Concordância

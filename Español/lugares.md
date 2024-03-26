@@ -35,6 +35,7 @@
 -   `Tienda` Loja
 -   `Ciudad` Cidade (City)
 -   `Pueblo` Cidade (Town)
+-   `Aldea` Aldeia
 -   `Escuela` Escola
 -   `Estación` Estação
 -   `Parque`
@@ -43,6 +44,7 @@
 -   `Fábrica`
 -   `Universidad` Universidade
 -   `Biblioteca`
+-   `Librería` Livraria
 -   `Dirección` Endereço
 -   `Piso` Andar
 -   `Playa` Praia
@@ -52,3 +54,4 @@
 -   `Zoológico`
 -   `Mundo`
 -   `Aula` Sala de aula (M)
+-   `Entrada`

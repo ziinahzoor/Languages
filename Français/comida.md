@@ -42,6 +42,7 @@
 -   `Fraise` Morango (F)
 -   `Banane` Banana
 -   `Pomme` Maçã
+-   `Pêche` Pêssego
 
 ## Les Boissons (Bebidas)
 

@@ -55,6 +55,8 @@
 -   `かたじけない` Agradecido
 -   `こわい` Assustador
 -   `おおい` Muito(s)/Demais
+-   `かるい` Leve
+-   `おもい` Pesado
 
 ## Adjetivos な
 
@@ -73,7 +75,7 @@
 -   `みたい` Parecido
     -   Geralmente usado como sufixo de substantivos e adjetivos.
     -   Quando ligado a um verbo na forma te, dá a ideia de "gostaria de tentar" alguma coisa.
--   `いろいろ` Diversos/Vários/Todo tipo
+-   <font size="5"><code><ruby>色<rt>いろ</rt>々</ruby></code></font> Diversos/Vários/Todo tipo
 -   `たいへん` Difícil
 -   `べんり` Conveniente
 -   `たのしみ` Ansioso (de antecipação)

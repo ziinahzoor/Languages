@@ -46,6 +46,7 @@
 -   `Drôle` Engraçado
 -   `Intelligent` Inteligente
 -   `Content` Contente
+-   `Heureux` Feliz
 -   `Triste`
 -   `Nouveau` Novo
     -   `Nouvel` Se começa com som de vogal
@@ -107,3 +108,6 @@
 -   `Inquiet` Preocupado
 -   `Prochain` Próximo
 -   `Proche` Próximo (Perto)
+-   `Excellent` Excelente
+-   `Pauvre` Pobre
+-   `Gratuite` Gratuito

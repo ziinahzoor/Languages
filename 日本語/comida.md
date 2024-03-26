@@ -39,7 +39,9 @@
 -   <font size="5"><code><ruby>野<rt>や</rt>菜<rt>さい</rt></ruby></code></font> Vegetal
 -   `ソース` Molho
 -   `なま` Cru/Fresco/Natural
+-   `フライドチキン` Frango frito
 -   `フライドポテト` Batata frita
+-   `ポテトチップス` Chips de batata
 -   `バニラ` Baunilha
 -   `チョコミント` Chocomenta
 -   `ステーキ` Steak
@@ -58,6 +60,8 @@
 -   `いちご` Morango
 -   `りんご` Maçã
 -   `オレンジ` Laranja
+    -   `だいだい` Laranja azeda
+-   `もも` Pêssego
 
 ## Bebidas
 
@@ -75,6 +79,7 @@
 -   `ビール` Cerveja
 -   `ワイン` Vinho
 -   `タピオカティー` Bubble tea
+-   `コーラ` Refrigerante de cola
 
 ## <ruby>日<rt>に</rt>本<rt>ほん</rt>料<rt>りょう</rt>理<rt>り</rt></ruby>と<ruby>中<rt>ちゅう</rt>華<rt>か</rt>料<rt>りょう</rt>理<rt>り</rt></ruby> - Comida japonesa e chinesa
 

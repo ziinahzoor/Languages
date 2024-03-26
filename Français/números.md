@@ -63,6 +63,7 @@
 -   `Septième` Sétimo
 -   `Huitième` Oitavo
 -   `Neuvième` Nono
+-   `Dernier` Último
 
 ## L'Argent - Dinheiro
 

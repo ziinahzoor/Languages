@@ -161,6 +161,8 @@
 -   `あらう` Lavar
 -   <font size="5"><code><ruby>分<rt>わ</rt>かる</ruby></code></font> Entender
     -   Geralmente acompanha o `が`
+-   `わたる` Atravessar/Cruzar
+-   `きる` Cortar
 
 ## 一段 - Ichidan
 
@@ -190,6 +192,7 @@
 -   `こたえる` Responder
 -   `いきる` Viver
 -   `のりかえる` Fazer escala (ônibus e trens)
+-   `おりる` Descer (Montanhas, veículos)/Desembarcar
 
 ## Verbos する
 
@@ -211,3 +214,4 @@
 -   `うんどう` Exercitar
 -   <font size="5"><code><ruby>乾<rt>かん</rt>杯<rt>ぱい</rt></ruby></code></font> Brindar
 -   `よやく` Reservar
+-   `ゆっくり` Relaxar

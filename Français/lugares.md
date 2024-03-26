@@ -95,3 +95,4 @@
 -   `Fête` Festa
 -   `Rivière` Rio (F)
 -   `Monde` Mundo
+-   `Entreprise` Empresa

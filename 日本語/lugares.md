@@ -36,6 +36,7 @@
 -   `のりかえ` Escala (de trens)
 -   `ちか` Subsolo
 -   `エレベーター` Elevator
+-   `エスカレーター` Escada rolante
 -   `カフェ` Café
 -   `いりぐち` Entrada
 -   `でぐち` Saída
@@ -69,10 +70,16 @@
 -   `コーナー` Seção
 -   `バー` Bar
 -   `りょう` Dormitório
--   `すみ` Canto
+-   `すみ` Canto (interno)
+-   `かど` Canto (externo)
 -   `そと` Exterior/Ar livre
 -   `ちゅうかがい` Chinatown
 -   `スパ` Spa
+-   `おまつり` Festival
+-   `えいがかん` Cinema
+-   `みち` Rua/Estrada/Caminho
+-   <font size="5"><code><ruby>百<rt>ひゃく</rt>円<rt>えん</rt></ruby>ショップ</code></font> Loja de 1,99
+-   `でんきや` Loja de eletrônicos
 
 ## <ruby>親<rt>しん</rt>戚<rt>せき</rt>所<rt>ところ</rt></ruby> - Lugares Relativos
 

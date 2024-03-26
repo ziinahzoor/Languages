@@ -65,14 +65,6 @@
     -   <font size="5"><code><ruby>祖<rt>そ</rt>父<rt>ふ</rt></ruby></code></font> (Meu) avô
 -   <font size="5"><code>お<ruby>婆<rt>ばあ</rt></ruby>さん</code></font> Avó
     -   <font size="5"><code><ruby>祖<rt>そ</rt>母<rt>ぼ</rt></ruby></code></font> (Minha) avó
--   `おじさん` Tio
-    -   `おじ` (Meu) Tio
-        -   `伯父` Mais velho que o pai/mãe
-        -   `叔父` Mais novo que o pai/mãe
--   `おばさん` Tia
-    -   `おば` (Minha) Tia
-        -   `伯母` Mais velha que o pai/mãe
-        -   `叔母` Mais nova que o pai/mãe
 -   <font size="5"><code>お<ruby>子<rt>こ</rt></ruby>さん</code></font> Filhos
     -   <font size="5"><code><ruby>子<rt>こ</rt>供<rt>ども</rt></ruby></code></font> (Meus) filhos
 -   <font size="5"><code><ruby>息<rt>むす</rt>子<rt>こ</rt></ruby>さん</code></font> Filho
@@ -86,3 +78,12 @@
     -   <font size="5"><code><ruby>妻<rt>つま</rt></ruby></code></font> (Minha) esposa
 -   <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> Namorada
 -   <font size="5"><code><ruby>彼<rt>かれ</rt>氏<rt>し</rt></ruby></code></font> Namorado
+-   `おじさん` Tio
+    -   `おじ` (Meu) Tio
+        -   `伯父` Mais velho que o pai/mãe
+        -   `叔父` Mais novo que o pai/mãe
+-   `おばさん` Tia
+    -   `おば` (Minha) Tia
+        -   `伯母` Mais velha que o pai/mãe
+        -   `叔母` Mais nova que o pai/mãe
+-   `いとこ` Primo

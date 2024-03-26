@@ -1,5 +1,6 @@
 # Les Personnes - Pessoas
 
+-   `Gens` Gente
 -   `Homme` Homem
 -   `Femme` Mulher
 -   `Garçon` Menino

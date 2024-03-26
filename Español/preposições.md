@@ -8,4 +8,5 @@
 -   `Para` Para (For)
 -   `Por`
 -   `De`
--   `Hacia` Em direção a (Towards)
+-   `Hacia` Em direção a (Towards)/Por volta de
+-   `Sobre`

@@ -30,6 +30,8 @@
 -   `ほんとうに` Realmente/Verdadeiramente
 -   `あまり` Realmente/Muito (Geralmente usado com frases negativas)
 -   `ちゃんと` Apropriadamente
+-   `どうやって` Como/De que maneira
+    -   Não é advérbio, está aqui por conveniência
 -   `どうして` Por que/Por quê
     -   `なぜ` (Formal)
 -   `なぜなら。。。からです` Porque
@@ -38,6 +40,9 @@
 -   `いっしょに` Juntos
 -   `はやく` Cedo/Rapidamente
 -   `はじめて` Pela primeira vez
+-   `ゆっくり` Devagar/Sem pressa
+-   `ぜんぶ` Totalmente
+-   `とちゅう` No caminho
 
 ## Auxiliares
 

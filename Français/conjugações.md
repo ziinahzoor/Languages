@@ -133,6 +133,10 @@
 | ---------- | ---- | ----- | ------ | ----- |
 | Conjugação | été  | eu    | allé   | fait  |
 
+## Le Passé Récent - Pretérito Recente
+
+-   Pode ser formado por uma conjugação do verbo `venir` + verbo no infinitivo. Ex.: `Je viens de manger`.
+
 ## Le Futur Simple - Futuro Simples do Indicativo
 
 <table>

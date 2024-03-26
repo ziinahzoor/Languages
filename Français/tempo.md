@@ -6,6 +6,7 @@
 -   `Heure` Hora
 -   `Demie` Meia hora
 -   `Quart` Um quarto de hora
+-   `Minute` Minuto
 -   `Jour` Dia
     -   `Jour de repos` Dia de descanso
 -   `An` Ano
@@ -22,6 +23,10 @@
 -   `Demain` Amanhã
 -   `Horaire` Horário
 -   `Date` Data
+-   `Férié` Feriado
+-   `Aujourd'hui` Hoje
+-   `Hier` Ontem
+-   `Demain` Amanhã
 
 ## La Semaine - Semana
 
@@ -63,3 +68,8 @@
 -   `Hiver` Inverno
 -   `Printemps` Primavera (M)
 -   `Été` Verão
+
+## Les Fériés - Feriados
+
+-   `Pâques` Páscoa
+-   `Noël` Natal

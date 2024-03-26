@@ -17,7 +17,9 @@
 -   `Trop` Muito (Too much)
     -   Costuma indicar excessos.
 -   `Oui` Sim
--   `Non` Não
+    -   `Si` Para frases negativas.
+-   `Non` Não (Para respostas)
+-   `Pas` Não
 -   `Aussi` Também (geralmente vem depois do verbo)
     -   Em comparações, significa "tão"
 -   `Aujourd'hui` Hoje
@@ -54,6 +56,8 @@
 -   `D'abord` Primeiramente
 -   `En fait` Na verdade
 -   `Seulement` Somente/Apenas
+-   `Peut-être` Talvez
+-   `Si` Tão
 
 ## Os Porquês
 
