@@ -19,3 +19,15 @@ li > a.selected-page {
 .navigation-wrapper footer p:last-child {
 	margin-top: 0.5rem;
 }
+
+font + p {
+	display: inline;
+}
+
+li:has(font) {
+	padding-bottom: 0.25rem;
+}
+
+rt {
+	user-select: none;
+}
