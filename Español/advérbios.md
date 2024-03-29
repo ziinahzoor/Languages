@@ -5,6 +5,8 @@
 -   `Dónde` Onde
 -   `Adónde` Aonde
 -   `Aquí` Aqui
+-   `Acá` Aqui/Cá
+-   `Allá` Lá
 -   `Muy` Muito (Very)
 -   `Mucho` Muito (A lot)
 -   `Poco` Pouco

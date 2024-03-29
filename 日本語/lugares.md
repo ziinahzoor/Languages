@@ -40,6 +40,9 @@
 -   `カフェ` Café
 -   `いりぐち` Entrada
 -   `でぐち` Saída
+    -   `きたぐち` Saída norte
+    -   `ひがしぐち` Saída leste
+    -   `みなみぐち` Saída sul
 -   `じんじゃ` Santuário Xintoísta
 -   `おてら` Templo Budista
 -   `たてもの` Prédio
@@ -72,7 +75,7 @@
 -   `りょう` Dormitório
 -   `すみ` Canto (interno)
 -   `かど` Canto (externo)
--   `そと` Exterior/Ar livre
+-   <font size="5"><code><ruby>外<rt>そと</rt></ruby></code></font> Exterior/Ar livre
 -   `ちゅうかがい` Chinatown
 -   `スパ` Spa
 -   `おまつり` Festival
@@ -80,12 +83,14 @@
 -   `みち` Rua/Estrada/Caminho
 -   <font size="5"><code><ruby>百<rt>ひゃく</rt>円<rt>えん</rt></ruby>ショップ</code></font> Loja de 1,99
 -   `でんきや` Loja de eletrônicos
+-   `ステージ` Palco
 
 ## <ruby>親<rt>しん</rt>戚<rt>せき</rt>所<rt>ところ</rt></ruby> - Lugares Relativos
 
 -   `となり` Proximidade
 -   <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Frente/Face
 -   `うしろ` Atrás/Detrás
+-   `まんなか` Meio
 
 ## <ruby>家<rt>いえ</rt></ruby> - Casa
 

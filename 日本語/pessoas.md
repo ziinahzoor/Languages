@@ -42,6 +42,7 @@
 -   `ルームメイト` Colega de quarto
 -   `てんいん` Funcionário
 -   `かいけい` Caixa
+-   `アーティスト` Artista
 
 ## <ruby>家<rt>か</rt>族<rt>ぞく</rt></ruby> - Família
 

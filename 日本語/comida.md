@@ -52,6 +52,7 @@
 -   `ホットドッグ` Cachorro-quente
 -   `クレープ` Crepe
 -   `ピーナッツ` Amendoim
+-   `ポップコーン` Pipoca
 
 ## Frutas
 

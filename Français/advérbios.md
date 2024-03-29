@@ -24,6 +24,7 @@
     -   Em comparações, significa "tão"
 -   `Aujourd'hui` Hoje
 -   `Maintenant` Agora
+-   `Tôt` Cedo
 -   `Bientôt` Logo
 -   `Demain` Amanhã
 -   `Plus` Mais

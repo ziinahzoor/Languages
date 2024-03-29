@@ -70,6 +70,10 @@
 -   `Toalla` Toalha
 -   `Papel`
 -   `Entrada` Ingresso
+-   `Caja` Caixa
+-   `Piso`
+-   `Pared` Parede
+-   `Ducha` Chuveiro (F)
 
 ## Abstratos
 

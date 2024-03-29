@@ -3,6 +3,7 @@
 -   `Avec` Com
 -   `Sans` Sem
 -   `Sur` Sobre
+-   `Sous` Sob
 -   `Pour` Para (For)
 -   `Dans` Em/No/Na/Dentro (In)
 -   `Avant` Antes

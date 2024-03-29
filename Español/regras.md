@@ -12,6 +12,7 @@
 -   Adjetivos masculinos perdem o "o" quando vêm antes do substantivo. Ex.: `Un buen estudiante`.
 -   Futuro pode ser formado por `verbo ir` + `a` + `verbo no infinitivo`
 -   Quando há um verbo composto na frase, o pronome pode vir antes do primeiro verbo ou se tornar um sufixo do último (que está no infinitivo).
+-   Em solicitações e propostas, é comum não usar verbos de apoio, como "poder".
 
 ## Los Articulos - Artigos
 

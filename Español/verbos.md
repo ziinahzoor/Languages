@@ -32,7 +32,7 @@
 -   `Bailar` Dançar
 -   `Disfrutar` Aproveitar
 -   `Cuestar` Custar
--   `Enseñar` Ensinar
+-   `Enseñar` Ensinar/Mostrar
 -   `Limpiar` Limpar
 -   `Nadar`
 -   `Dibujar` Desenhar
@@ -96,6 +96,8 @@
 -   `LLover` Chover
 -   `Poder`
 -   `Perder`
+-   `Coger` Pegar
+-   `Traer` Trazer
 
 ## Los verbos -ir
 

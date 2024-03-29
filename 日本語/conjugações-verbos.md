@@ -154,6 +154,7 @@
 -   Serve para expressar o desejo de fazer alguma ação.
 -   É um sufixo intransitivo, portanto, se o verbo que o acompanha for intransitivo, pode usar ambas a partículas `が` e `を`.
 -   Só serve para se referir a si. Para se referir ao que outra pessoa quer, usar `たがる`.
+-   Pode usar a cópula para formalidade.
 
 #### Forma aparente (そう)
 

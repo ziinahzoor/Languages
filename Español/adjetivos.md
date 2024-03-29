@@ -80,3 +80,4 @@
 -   `Picante`
 -   `Lento`
 -   `Ligero` Leve
+-   `Seguro`

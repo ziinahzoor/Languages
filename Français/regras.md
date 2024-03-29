@@ -26,6 +26,7 @@
 -   `Avoir mal à` significa sentir dor em algum lugar.
 -   `Là`, mesmo que significando "lá", geralmente é utilizado como "aqui". Ex.: `Je suis là`, `Voilà`.
 -   `Avoir l'air` significa "parecer", "ter o semblante".
+-   Em solicitações e propostas, é comum não usar verbos de apoio, como "poder".
 
 ## Les Articles - Artigos
 

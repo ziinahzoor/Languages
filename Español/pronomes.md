@@ -110,6 +110,7 @@
 -   `Cada`
 -   `Otro` Outro
 -   `Ambos`
+-   `Todo`
 
 ## Interrogativos
 

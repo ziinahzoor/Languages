@@ -7,6 +7,7 @@
     -   `ううん`
 -   `もちろん` Claro/Com certeza/Claramente
 -   `もう` Já
+-   `また` De novo
 -   `まだ` Ainda
 -   `まだまだ` Ainda não
 -   `つぎ` Próximo (Ordem)

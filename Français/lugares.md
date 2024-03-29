@@ -47,6 +47,7 @@
 -   `Étage` Andar
     -   `Premier étage` Primeiro andar (depois do térreo)
 -   `Mur` Parede/Muro
+-   `Piscine` Piscina
 
 ## Vocabulaire - Vocabulário
 

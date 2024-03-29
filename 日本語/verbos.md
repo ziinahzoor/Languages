@@ -132,6 +132,7 @@
 -   `よぶ` Chamar
 -   `あそぶ` Passar tempo/Brincar/Jogar
 -   `まなぶ` Aprender
+-   `ならぶ` Formar fila/Esperar na fila
 -   `およぐ` Nadar
 -   `てつだう` Ajudar
 -   <font size="5"><code><ruby>会<rt>あ</rt></ruby>う</code></font> Encontrar
@@ -151,7 +152,8 @@
 -   <font size="5"><code><ruby>喋<rt>しゃべ</rt></ruby>る</code></font> Conversar/Papear
 -   `かかる` Custar/Demorar/Levar
 -   `すわる` Sentar
--   `かえる` Voltar/Retornar
+-   `かえる` Voltar/Retornar (Casa, ponto de origem)
+-   `もどる` Voltar/Retornar
 -   `とる` Pegar/Tirar (foto)
 -   `のる` Andar de/Embarcar/Pegar (transporte)
 -   `はじまる` Começar
@@ -193,6 +195,7 @@
 -   `いきる` Viver
 -   `のりかえる` Fazer escala (ônibus e trens)
 -   `おりる` Descer (Montanhas, veículos)/Desembarcar
+-   `つかれる` Cansar
 
 ## Verbos する
 

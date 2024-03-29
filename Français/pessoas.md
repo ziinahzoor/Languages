@@ -36,6 +36,8 @@
 -   `Groupe de musique` Banda
     -   `Groupe`
 -   `Maitre-nageur` Salva-vidas
+-   `Fantôme` Fantasma
+-   `Entraîneur` Treinador
 
 ## La famille - Família
 

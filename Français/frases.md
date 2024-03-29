@@ -48,5 +48,3 @@
 -   `De rien` De nada
 
 ## Concordância
-
--   `D'accord` Ok

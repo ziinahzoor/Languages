@@ -6,6 +6,7 @@
 -   `Plante` Planta
 -   `Fleur` Flor
 -   `Arbre` Árvore (M)
+-   `Lumière` Luz
 
 ## Casa e objetos
 
@@ -73,6 +74,8 @@
 -   `Poupée` Boneca
 -   `Ballon` Bola (M)
 -   `Boîte` Caixa
+-   `Canapé` Sofá
+-   `Sol` Chão/Piso
 
 ## Abstratos
 
@@ -136,6 +139,8 @@
     -   `Mail` E-mail (Carta eletrônica)
 -   `Vie` Vida
 -   `Souvenir` Lembrança
+-   `Fin` Fim (F)
+-   `Écriture` Escrita
 
 ## Transporte
 

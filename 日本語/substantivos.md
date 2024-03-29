@@ -80,6 +80,7 @@
 -   `じしょ` Dicionário
 -   `ナプキン` Lenço de papel
 -   `おもちゃ` Brinquedo
+-   `ペン` Caneta
 
 ## Elétricos e Eletrônicos
 
@@ -100,7 +101,7 @@
 -   `じはんき` Máquina de vendas
 -   `せんたくき` Máquina de lavar
 -   `そうじき` Aspirador de pó
-    ―　`スピーカー` Alto-falante
+    -   `スピーカー` Alto-falante
 -   `でんち` Pilha
 
 ### Computação
@@ -145,6 +146,7 @@
 -   `パスワード` Senha
 -   `むりょう` De graça
 -   `ぶんか` Cultura
+-   `サイン` Autógrafo
 
 ### Hotel
 
@@ -181,6 +183,7 @@
 -   `メニュー` Cardápio
 -   `レシート` Recibo
 -   `レジぶくる` Sacola
+-   `グッズ` Produto
 
 ## Viagem e Transporte
 

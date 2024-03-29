@@ -24,6 +24,7 @@
 -   `Entendre` (Físico)
 -   `Croire` Acreditar/Crer
 -   `Répondre` Responder
+-   `Éteindre` Apagar/Desligar
 
 ## -er Verbes
 
@@ -130,6 +131,8 @@
 -   `Pleuvoir` Chover
 -   `Asseoir` Sentar
 -   `Souvenir` Lembrar
+-   `Mourir` Morrer
+-   `Mentir`
 
 ## Les Verbes Défectueux - Verbos Defectivos
 

@@ -18,8 +18,10 @@
 -   `Baño` Banheiro
 -   `Habitación` Quarto/Cômodos
 -   `Dormitório` Quarto
+-   `Cuarto` Quarto
 -   `Jardín` Jardim
 -   `Sala`
+-   `Césped` Gramado
 
 ## Outros
 
@@ -55,3 +57,4 @@
 -   `Mundo`
 -   `Aula` Sala de aula (M)
 -   `Entrada`
+-   `Granja` Fazenda

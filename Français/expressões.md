@@ -9,3 +9,5 @@
 -   `À l'heure` Na hora
 -   `Comment ça?` Como assim?
 -   `Ah bon?` É mesmo?
+-   `Quoi?` O quê?
+-   `Mais non` Claro que não
