@@ -34,11 +34,11 @@
         <td>ー <code>う</code></td>
         <td>ます</td>
     </tr>
-        <tr>
+    <tr>
         <th>Negativa</th>
         <td>ない <code>あ</code></td>
         <td>ません</td>
-
+    </tr>
 </table>
 
 > [!TIP]
