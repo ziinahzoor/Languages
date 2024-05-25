@@ -9,3 +9,4 @@
 -   `ひげ` Barba
 -   `ゆび` Dedo
 -   `せなか` Costas
+-   `あし` Perna

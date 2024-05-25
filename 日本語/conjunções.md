@@ -15,3 +15,5 @@
 -   `だから` Então (para explicar causa) (Depois de substantivo)
     -   `から` Depois de adjetivos e verbos.
     -   `ので` Formal
+-   `だって` Porque/Mas/Mesmo que
+    -   A tradução correta seria "é dito que...", o que justifica todos os usos contrastantes.

@@ -158,6 +158,8 @@
 
 **Ao falar, costuma-se pausar a cada 4 números. O ponto decimal é considerado como um.**
 
+**Vinte anos é a idade em que alguém se torna adulto no Japão. Usa-se `はたち` ao invés de `二十`**
+
 ## <ruby>助<rt>じょ</rt>数<rt>すう</rt>詞<rt>し</rt></ruby> - Contadores
 
 **Costumam acompanhar o verbo.**

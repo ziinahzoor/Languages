@@ -1,17 +1,20 @@
 # Les Personnes - Pessoas
 
+-   `Humain` Humano
 -   `Gens` Gente
 -   `Homme` Homem
 -   `Femme` Mulher
 -   `Garçon` Menino
 -   `Fille` Menina/Filha
 -   `Adulte` Adulto
+-   `Adolescent` Adolescente
 -   `Enfant` Criança (M)
 -   `Journalist` Jornalista
 -   `Ami` Amigo
 -   `Médecin` Médico
 -   `Chauffeur` Motorista
 -   `Professeur` Professor
+    -   `Prof`
 -   `Bébé` Bebê
 -   `Serveur` Garçom
 -   `Serveuse` Garçonete
@@ -31,6 +34,7 @@
 -   `Étudiant` Estudante/Universitário
 -   `Chef` Chefe
 -   `Fumeur` Fumante
+-   `Auteur` Autor
 -   `Acteur` Ator
 -   `Actrice` Atriz
 -   `Groupe de musique` Banda
@@ -38,6 +42,22 @@
 -   `Maitre-nageur` Salva-vidas
 -   `Fantôme` Fantasma
 -   `Entraîneur` Treinador
+    -   `Entraineur` Pós-reforma de 90
+-   `Chanteur` Cantor
+-   `Danseur` Dançarino
+-   `Cuisinier` Cozinheiro
+-   `Ingénieur` Engenheiro
+-   `Photographe` Fotógrafo
+-   `Copain/Copine` Colega
+    -   `Copain de classe` Colega de classe
+-   `Femme de ménage` Faxineira
+-   `Directeur` Diretor
+-   `Directrice` Diretora
+-   `Secrétaire` Secretário
+-   `Employé` Funcionário
+-   `Membre` Membro
+-   `Personnel` Pessoal
+-   `Client` Cliente
 
 ## La famille - Família
 
@@ -48,15 +68,20 @@
     -   `Maman` Mamãe
 -   `Grands-parents` Avós
 -   `Grand-père` Avô
+    -   `Papi` Vovô
 -   `Grand-mère` Avó
     -   `Mamie` Vovó
 -   `Mari` Marido
 -   `Frère` Irmão
 -   `Sœur` Irmã
 -   `Fils` Filho
+-   `Petits-enfants` Netos
 -   `Petite-fille` Neta
 -   `Petit-fils` Neto
--   `Copain` Amigo/Companheiro
--   `Copine` Amiga/Companheira
+-   `Copain` Companheiro
+-   `Copine` Companheira
 -   `Petit-ami` Namorado
 -   `Petite-amie` Namorada
+-   `Cousin` Primo
+-   `Oncle` Tio
+-   `Tante` Tia

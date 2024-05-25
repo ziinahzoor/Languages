@@ -13,6 +13,7 @@
 -   Futuro pode ser formado por `verbo ir` + `a` + `verbo no infinitivo`
 -   Quando há um verbo composto na frase, o pronome pode vir antes do primeiro verbo ou se tornar um sufixo do último (que está no infinitivo).
 -   Em solicitações e propostas, é comum não usar verbos de apoio, como "poder".
+-   Geralmente quando algum pronome ou adjetivo termina em "o", ao colocá-lo antes do substantivo, perde-se o "o".
 
 ## Los Articulos - Artigos
 

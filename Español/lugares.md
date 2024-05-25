@@ -11,6 +11,39 @@
 -   `Cuba`
 -   `Chile`
 -   `Alemania` Alemanha
+-   `Suiza` Suíça
+-   `Suecia` Suécia
+-   `Italia` Itália
+-   `Rusia` Rússia
+
+## Los Lugares Relativos - Lugares Relativos
+
+-   `Aquí` Aqui
+-   `Acá` Aqui/Cá
+-   `Ahí` Aí
+-   `Allí` Ali
+-   `Allá` Lá
+-   `Al lado` Ao lado
+-   `Cerca` Próximo
+-   `Enfrente` Em frente
+-   `Atrás` Atrás (Indica movimento)
+-   `Detrás` Atrás/Detrás
+-   `Sobre` Em cima/Sobre
+-   `Arriba` Acima/Para cima
+-   `Debajo` Debaixo
+-   `Abajo` Abaixo/Embaixo/Para baixo
+-   `Cerca` Perto
+-   `Lejos` Longe
+-   `Dentro`
+    -   `Adentro` Direção
+-   `Fuera` Fora
+    -   `Afuera` Direção
+
+### Las Direcciones - Direções
+
+-   `Derecho` Reto
+-   `Derecha` Direita
+-   `Izquierda` Esquerda
 
 ## La Casa - Casa
 
@@ -32,6 +65,7 @@
 -   `Hospital`
 -   `Museo` Museu
 -   `Calle` Rua (F)
+-   `Carretera` Estrada
 -   `Supermercado`
 -   `Restaurante`
 -   `Tienda` Loja
@@ -58,3 +92,4 @@
 -   `Aula` Sala de aula (M)
 -   `Entrada`
 -   `Granja` Fazenda
+-   `Gimnasio` Academia

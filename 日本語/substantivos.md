@@ -1,12 +1,13 @@
 # <ruby>名<rt>めい</rt>詞<rt>し</rt></ruby> - Substantivos
 
-## Natureza
+## しぜん - Natureza
 
 -   `つき` Lua
 -   `くも` Nuvem
 -   `たんぽぽ` Dente-de-leão
--   `エア` Ar
+-   `くうき` Ar
 -   `じしん` Terremoto
+-   <font size="5"><code><ruby>山<rt>やま</rt></ruby></code></font> Montanha (`さん` quando associado a uma montanha específica)
 -   `ユリ` Lírio
 -   `ツタ` Hera
 -   `ラン` Orquídea
@@ -14,7 +15,18 @@
 -   `ホコリ` Poeira
 -   `はな` Flor
 -   <font size="5"><code><ruby>川<rt>かわ</rt></ruby></code></font> Rio
+-   `いけ` Lagoa
+-   `みずうみ` Lago
 -   `こおり` Gelo
+-   <font size="5"><code><ruby>木<rt>き</rt></ruby></code></font> Árvore
+-   `もり` Floresta
+-   `さくら` Flor de cerejeira
+-   <font size="5"><code><ruby>雨<rt>あめ</rt></ruby></code></font> Chuva
+-   <font size="5"><code><ruby>空<rt>そら</rt></ruby></code></font> Céu
+
+### Materiais
+
+-   `かわ` Couro
 
 ## Casa e objetos
 
@@ -27,6 +39,7 @@
 -   `カップ` Xícara
 -   `フォーク` Garfo
 -   `はし` Pauzinhos
+-   `マグカップ` Caneca
 
 ### Banheiro
 
@@ -47,7 +60,6 @@
 
 -   `くすり` Medicina/Remédio
 -   `かつら` Peruca
--   `ほね` Livro
 -   `ひも` Fio
 -   `ケーブル` Cabo
 -   `かぎ` Chave
@@ -64,12 +76,12 @@
 -   `かさ` Guarda-chuva
 -   <font size="5"><code><ruby>新<rt>しん</rt>聞<rt>ぶん</rt></ruby></code></font> Jornal
 -   <font size="5"><code><ruby>本<rt>ほん</rt></ruby></code></font> Livro
+    -   <font size="5"><code><ruby>絵<rt>え</rt>本<rt>ほん</rt></ruby></code></font> Livro ilustrado
 -   `ざっし` Revista
 -   `ゴミばこ` Lata de lixo
 -   `かいだん` Escada
 -   `コインロッカー` Armário de armazenamento
 -   <font size="5"><code><ruby>本<rt>ほん</rt>棚<rt>だな</rt></ruby></code></font> Estante
--   <font size="5"><code><ruby>窓<rt>まど</rt></ruby></code></font> Janela
 -   `テーブル` Mesa
 -   <font size="5"><code><ruby>机<rt>つくえ</rt></ruby></code></font> Escrivaninha
 -   <font size="5"><code><ruby>椅<rt>い</rt>子<rt>す</rt></ruby></code></font> Cadeira
@@ -78,18 +90,34 @@
 -   `え` Pintura
 -   `テスト` Prova
 -   `じしょ` Dicionário
--   `ナプキン` Lenço de papel
+-   `ナプキン` Lenço de papel (Napkin)
+-   `ハンカチ` Lenço de pano (Handkerchief)
+-   `ティッシュ` Lenço (Tissue)
 -   `おもちゃ` Brinquedo
 -   `ペン` Caneta
+-   `えんぴつ` Lápis
+-   `だんぼう` Aquecedor
+-   `ブランケット` Cobertor
+-   `ベンチ` Banco
+-   `ハンドジェル` Higienizador de mãos
+-   `フェンス` Cerca
+-   `マグネット` Imã
+-   `ぬいぐるみ` Bichinho de pelúcia
+-   `あみぐるみ` Bichinho tricotado ou crochetado
+-   `にんぎょう` Boneca
+-   `キーホルダー` Chaveiro
+-   `ケース` Caixa/Estojo/Capa
 
 ## Elétricos e Eletrônicos
 
 -   `テレビ` Televisão
 -   `コンセント` Tomada
 -   `ナビ` GPS
--   `でんわ` Telefone
+-   <font size="5"><code><ruby>電<rt>でん</rt>話<rt>わ</rt></ruby></code></font> Telefone
 -   `スマホ` Smartphone
+-   `タブレット` Tablet
 -   `パソコン` Computador
+-   `ノート` Notebook
 -   `モニター` Monitor
 -   `マウス` Mouse
 -   `キーボード` Teclado
@@ -103,6 +131,9 @@
 -   `そうじき` Aspirador de pó
     -   `スピーカー` Alto-falante
 -   `でんち` Pilha
+-   `レジ` Caixa registradora
+-   `アラーム` Alarme
+-   `リモコン` Controle remoto
 
 ### Computação
 
@@ -122,15 +153,11 @@
 -   `たび` Jornada
 -   `しんぽ` Progresso
 -   `しゅわ` Linguagem de sinais
--   `しんぱい` Preocupação
--   `どりょく` Esforço
 -   `コネ` Conexão
 -   `アイデア` Ideia
 -   `はんたい` Oposto
 -   `しゅっしん` De onde (Cidade natal)
 -   `ほんとう` Verdade
--   `ぐあい` Condição/Saúde
--   `アレルギー` Alergia
 -   `こと` Coisa (Intangível)
 -   `もの` Coisa (Tangível)
 -   `しつもん` Pergunta
@@ -147,6 +174,29 @@
 -   `むりょう` De graça
 -   `ぶんか` Cultura
 -   `サイン` Autógrafo
+-   `メンズ` Masculino
+-   `レディース` Feminino
+-   `しょうせつ` Romance (Novel)
+-   `よてい` Planos
+-   <font size="5"><code><ruby>中<rt>なか</rt></ruby></code></font> Dentro
+    -   <font size="5"><code><ruby>内<rt>うち</rt></ruby></code></font> Quando usado em contraste com "fora"
+-   <font size="5"><code><ruby>外<rt>そと</rt></ruby></code></font> Fora
+-   `メッセージ` Mensagem
+-   `じこ` Acidente
+-   `べつ` Diferente
+-   `スキル` Habilidade
+-   `しょうかい` Introdução/Apresentação
+-   <font size="5"><code><ruby>空<rt>から</rt></ruby></code></font> Vazio/Nada
+    -   <font size="5"><code><ruby>空<rt>から</rt></ruby>っぽ</code></font> Vazio (como um adjetivo)
+
+#### Condições
+
+-   `ぐあい` Condição/Saúde
+-   `風邪` Resfriado
+-   `アレルギー` Alergia
+-   `ねつ` Febre
+-   `しんぱい` Preocupação
+-   `どりょく` Esforço
 
 ### Hotel
 
@@ -184,6 +234,7 @@
 -   `レシート` Recibo
 -   `レジぶくる` Sacola
 -   `グッズ` Produto
+-   `やたい` Barraca de comida
 
 ## Viagem e Transporte
 
@@ -197,15 +248,17 @@
 
 ### Veículos
 
--   `でんしゃ` Trem
+-   <font size="5"><code><ruby>電<rt>でん</rt>車<rt>しゃ</rt></ruby></code></font> Trem (elétrico)
 -   `ちかてつ` Metrô
 -   `しんかんせん` Trem-bala
 -   `タクシー` Táxi
 -   `バス` Ônibus
 -   `きゅうきゅうしゃ` Ambulância
 -   `ひこうき` Avião
--   `くるま` Carro
+-   <font size="5"><code><ruby>車<rt>くるま</rt></ruby></code></font> Carro
     -   `タイヤ` Pneu
+-   `じてんしゃ` Bicicleta
+-   `ふね` Navio
 
 ## Atividades
 
@@ -222,7 +275,9 @@
 -   `ヨガ` Yoga
 -   `しごと` Trabalho
 -   `べんきょう` Estudo
+-   `そつぎょう` Graduação
 -   `レッスン` Lição
+-   `ようじ` Tarefas (Coisas pra fazer)
 -   `しゅくだい` Tarefa de casa
 -   `かじ` Tarefas (da casa)
 -   `そうじ` Limpeza
@@ -240,6 +295,7 @@
     -   `ボードゲーム` Jogo de tabuleiro
 -   `トレーニング` Treinamento
 -   `プレゼン` Apresentação
+-   `パフォーマンス` Performance
 -   `カラオケ` Karaokê
 -   `れんしゅう` Treino/Prática
 -   `しあい` Partida/Jogo
@@ -249,6 +305,7 @@
 -   `きじ` Artigo/Publicação
 -   `せんこう` Curso (Major)
 -   `すうがく` Matemática
+-   `れきし` História
 -   `チェス` Xadrez
 -   `サークル` Clube
 -   `たんじょうび` Aniversário
@@ -260,10 +317,14 @@
 -   `えいが` Filme
 -   `ニュース` Notícias
 -   `ジェットコースター` Montanha-russa
+-   <font size="5"><code><ruby>食<rt>た</rt></ruby>べほうだい</code></font> Self-service/Rodízio
+-   <font size="5"><code><ruby>花<rt>はな</rt>見<rt>み</rt></ruby></code></font> Assistir o desabrochar das sakuras
+-   `さんぽ` Passeio
 
 ### スポーツ - Esporte
 
 -   `サッカー` Futebol
+    ― `アメフト` Futebol Americano
 -   `バスケットボール` Basquete
 -   `バレーボール` Vôlei
 -   `やきゅう` Beisebol
@@ -271,6 +332,10 @@
 -   `テニス` Tênis
 -   `じゅうどう` Judô
 -   `バドミントン` Badminton
+-   `スケート` Patinação no gelo
+-   `スキー` Esqui
+-   `スノボ` Snowboarding
+-   `ミニゴルフ` Mini-golfe
 
 ## おんがく - Música
 

@@ -10,6 +10,7 @@
 -   `の` Posse, Caracterização
     -   Também pode ser marcador paralelo, finalizadora e paralela.
     -   Também pode substituir a partícula `か` em perguntas, dando um tom mais informal e suave. Adjetivos `な` devem utilizar o sufixo.
+    -   Funciona como o apóstofre em inglês.
 -   `を` Marcador de objeto direto (Acompanha o objeto direto e é seguido por um verbo transitivo).
 -   `に` Localização temporal e espacial, Propósito, Transformação, Marcador de objeto indireto e agente passivo, Frequência (Por).
     -   Também pode ser marcador paralelo.
@@ -25,7 +26,7 @@
     -   `にて` Formal
     -   Indica meio, lugar, total, tempo, custo, escopo, do que é feito, causa.
     -   Usado para indicar de que maneira se vai a algum lugar. Ex.: De avião, de ônibus...
--   `と` E/Com, Marcador de citação
+-   `と` E/Com (Exclusivo), Marcador de citação
     -   Partícula não-lógica.
     -   Também pode ser marcador paralelo.
     -   Pode-se usar após dois substantivos para compará-los de alguma forma.
@@ -41,7 +42,7 @@
 -   `か` Interrogação
     -   Também pode ser finalizadora.
     -   `` Interrogação com uma nuance de dúvida.
--   `や` E
+-   `や` E (Não-exclusivo)
     -   Também pode ser finalizadora e conjuntiva.
     -   Quando os itens não completam o "todo", ou seja, para listar elementos de uma lista não-exaustiva.
 
@@ -76,9 +77,11 @@
     -   Partícula não-lógica.
     -   Pode ser traduzido semanticamente como "quanto a"
     -   Quase nunca é usada com palavras de questionamento.
--   `も` Também (Geralmente substitui o は)
+    -   Pode ser coloquialmente subtituída por `って`, simplificação de `...という` (falando de...).
+-   `も` Também (Geralmente substitui o は)/Tanto quanto/Mesmo que
     -   Partícula não-lógica.
     -   Preferível ao dar boas-vindas a algum lugar
+    -   É inclusivo, oposto ao は
 -   `でも` Mas/Entretanto/Porém
 -   `こそ` Ênfase
 

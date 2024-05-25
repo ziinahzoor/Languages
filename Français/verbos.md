@@ -25,6 +25,11 @@
 -   `Croire` Acreditar/Crer
 -   `Répondre` Responder
 -   `Éteindre` Apagar/Desligar
+-   `Vendre` Vender
+-   `Répondre` Responder
+-   `Descendre` Descer
+-   `Rire` Rir
+-   `Sourire` Sorrir
 
 ## -er Verbes
 
@@ -48,6 +53,7 @@
 -   `Chercher` Procurar
 -   `Voyager` Viajar
 -   `Coûter` Custar
+    -   `Couter` Pós-reforma de 90
 -   `Visiter` Visitar
 -   `Marcher` Andar
 -   `Promener` Passear/Caminhar (com)
@@ -64,9 +70,11 @@
 -   `Oublier` Esquecer
 -   `Préparer` Preparar
 -   `Écouter` Ouvir (Psicológico)
+-   `Entrer` Entrar
 -   `Rentrer` Voltar (para casa)
 -   `Rester` Ficar
 -   `Tourner` Virar
+-   `Retourner` Retornar
 -   `Ignorer` Ignorar
 -   `Laver` Lavar
 -   `Chanter` Cantar
@@ -90,6 +98,7 @@
 -   `Demander` Perguntar/Pedir
 -   `Apporter` Trazer
 -   `Inviter` Convidar
+-   `Monter` Subir/Montar
 -   `Montrer` Mostrar
 -   `Penser` Pensar
 -   `Mélanger` Misturar
@@ -109,6 +118,22 @@
 -   `Emprunter` Pegar emprestado
 -   `Démarrer` Iniciar (algo)/Dar partida
 -   `Commencer` Começar
+-   `Gagner` Ganhar
+-   `Rigoler` Brincar/Fazer piada
+-   `Enlever` Tirar (de algum lugar)
+-   `Traverser` Atravessar/Cruzar
+-   `Ajouter` Adicionar
+-   `Brûler` Queimar/Tostar/Flambar/Arder
+    -   `Bruler` Pós-reforma de 90
+-   `S'occuper` Cuidar
+-   `Terminer` Terminar
+-   `Commander` Mandar/Pedir/Encomendar
+-   `Effacer` Apagar
+-   `Expliquer` Explicar
+-   `Présenter` Apresentar/Introduzir
+-   `Taper` Digitar
+-   `Essayer` Experimentar/Provar (Roupas)
+-   `Tomber` Cair
 
 ## -ir Verbes
 
@@ -120,6 +145,7 @@
 -   `Devoir` Dever
 -   `Savoir` Saber
 -   `Venir` Vir
+-   `Revenir` Voltar
 -   `Dormir`
 -   `Partir` Sair (Leave)
 -   `Sortir` Sair (Get out, go out)
@@ -133,6 +159,13 @@
 -   `Souvenir` Lembrar
 -   `Mourir` Morrer
 -   `Mentir`
+-   `Devenir` Se tornar
+-   `Vieillir` Envelhecer
+-   `Grandir` Crescer
+-   `Remplir` Encher
+-   `Grossir` Engordar/Avolumar
+-   `Maigrir` Emagrecer
+-   `Servir`
 
 ## Les Verbes Défectueux - Verbos Defectivos
 

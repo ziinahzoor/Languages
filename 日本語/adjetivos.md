@@ -13,6 +13,7 @@
     -   Adjetivo `いい`
 -   `ダサい` Horrível
 -   `やさしい` Gentil, fácil, agradável
+-   `しんせつ` Gentil, generoso
 -   `わるい` Ruim
 -   `うすい` Magro
 -   `おいしい` Gostoso
@@ -36,6 +37,7 @@
 -   `ひろい` Largo/Espaçoso
 -   `せまい` Estreito/Apertado
 -   `はやい` Rápido
+-   `おそい` Devagar/Lento
 -   `ながい` Longo
 -   `みじかい` Curto
 -   `あぶない` Perigoso
@@ -48,6 +50,7 @@
     -   <font size="5"><code><ruby>温<rt>あたた</rt>かい</ruby></code></font> Coisas
 -   `ほしい` Querível
 -   <font size="5"><code><ruby>甘<rt>あま</rt>い</ruby></code></font> Doce
+-   `にがい` Amargo
 -   `しょっぱい` Salgado
 -   `からい` Picante
 -   `むずかしい` Difícil/Complexo
@@ -57,6 +60,7 @@
 -   `おおい` Muito(s)/Demais
 -   `かるい` Leve
 -   `おもい` Pesado
+-   `ねむい` Sonolento
 
 ## Adjetivos な
 
@@ -78,10 +82,20 @@
 -   <font size="5"><code><ruby>色<rt>いろ</rt>々</ruby></code></font> Diversos/Vários/Todo tipo
 -   `たいへん` Difícil
 -   `べんり` Conveniente
+-   `ふべん` Inconveniente
 -   `たのしみ` Ansioso (de antecipação)
     -   Geralmente acompanha o `が`
 -   `だめ` Ruim/Inútil
 -   `カラフル` Colorido
+-   `ひさしぶり` Faz muito tempo
+-   `まじめ` Honesto/Sério
+    -   Alguém que trabalha duro.
+-   `インスタント` Instantâneo
+    -   Geralmente é usado como prenomial, portanto não usa o `な`.
+-   `おなじ` O mesmo/Idêntico
+    -   Geralmente é usado como prenomial, portanto não usa o `な`.
+-   `りっぱ` Esplêndido
+-   `しんせん` Fresco
 
 ## Adjetivos-verbo (usados geralmente com です)
 

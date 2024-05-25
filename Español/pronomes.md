@@ -111,6 +111,9 @@
 -   `Otro` Outro
 -   `Ambos`
 -   `Todo`
+-   `Nada`
+-   `Nadie` Ninguém
+-   `Alguien` Alguém
 
 ## Interrogativos
 

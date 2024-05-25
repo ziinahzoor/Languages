@@ -5,6 +5,7 @@
 -   `Sur` Sobre
 -   `Sous` Sob
 -   `Pour` Para (For)
+-   `Par` Por/Pelo/Pela
 -   `Dans` Em/No/Na/Dentro (In)
 -   `Avant` Antes
 -   `Après` Depois
@@ -13,5 +14,9 @@
 -   `Loin de` Longe de
 -   `Chez` Lugar de/Casa de
 -   `Entre`
--   `Vers` Em direção a
+-   `Vers` Em direção a/Por volta de/Cerca de
 -   `Jusqu'à` Até
+-   `Pendant` Por/Durante
+-   `Le long de` Ao longo de
+-   `Au bout de` No fim de
+-   `Il y a` Há

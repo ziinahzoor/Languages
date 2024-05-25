@@ -53,16 +53,24 @@
 -   `クレープ` Crepe
 -   `ピーナッツ` Amendoim
 -   `ポップコーン` Pipoca
+-   `さつまいも` Batata-doce
+-   `なべ` Ensopado
+-   `チーズ` Queijo
+-   `ハンバーガー` Hambúrguer
+-   `わたあめ` Algodão-doce
+-   `きのこ` Cogumelo
 
 ## Frutas
 
--   `スイカ` Melancia
+-   `すいか` Melancia
 -   `ナシ` Pera
 -   `いちご` Morango
 -   `りんご` Maçã
 -   `オレンジ` Laranja
     -   `だいだい` Laranja azeda
 -   `もも` Pêssego
+-   `みかん` Tangerina
+-   `バナナ` Banana
 
 ## Bebidas
 
@@ -81,6 +89,8 @@
 -   `ワイン` Vinho
 -   `タピオカティー` Bubble tea
 -   `コーラ` Refrigerante de cola
+-   `スムージー` Batido
+-   `ビタミン` Vitamina
 
 ## <ruby>日<rt>に</rt>本<rt>ほん</rt>料<rt>りょう</rt>理<rt>り</rt></ruby>と<ruby>中<rt>ちゅう</rt>華<rt>か</rt>料<rt>りょう</rt>理<rt>り</rt></ruby> - Comida japonesa e chinesa
 
@@ -115,11 +125,11 @@
         -   Shari com peixe no topo
     -   `まきずし` Maki/Makizushi
         -   Sushi enrolado em nori
-        -   `ほそまき`
+        -   `ほそまき` Hosomaki
             -   Possui um único ingrediente envolto pelo shari
-        -   `ふとまき`
+        -   `ふとまき` Futomaki
             -   Possui vários ingredientes envoltos pelo shari
-        -   `うらまき`
+        -   `うらまき` Uramaki
             -   Sushi inverso: Os ingredientes são envoltos pela nori que por sua vez é envolta com o shari.
         -   `ぐんかんずし・ぐんかんまき` Gunkanzushi/Gunkanmaki
             -   O metade do tubo de nori é preenchido com shari e a outra com outros ingredientes.
@@ -139,6 +149,8 @@
     -   Frutos do mar e vegetais levemente batidos e bem-fritos.
 -   `おにぎり` Oniguiri/Bolinho de arroz
     -   Arroz branco em formato triangular com a base envolta por nori.
+-   `もち` Mochi/Bolinho de arroz
+    -   もち米 (arroz pegajoso) transformado em pasta e moldado com água, açúcar e amido de milho.
 -   `みそ` Miso
     -   Pasta de soja fermentada com sal, fungo koji e ingredientes opcionais.
 -   `みそしる` Sopa miso
@@ -157,6 +169,7 @@
     -   Bolinhos fritos recheados com carne de porco e vegetais.
 -   `たこやき` Takoyaki
     -   Bolinhos grelhados recheados com polvo e outros ingredientes.
+-   `おかゆ` Mingau de arroz
 
 ## Refeições
 

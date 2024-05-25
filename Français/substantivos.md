@@ -7,6 +7,10 @@
 -   `Fleur` Flor
 -   `Arbre` Árvore (M)
 -   `Lumière` Luz
+-   `Mer` Mar (F)
+-   `Lac` Lago
+-   `Fleuve` Rio
+-   `Rivière` Córrego/Riacho (F)
 
 ## Casa e objetos
 
@@ -21,13 +25,14 @@
 -   `Jeu vidéo` Videogame
 -   `Jeu` Jogo
 -   `Plat` Prato
--   `Argent` Dinheiro
+-   `Argent` Dinheiro/Prata
 -   `Table` Mesa
 -   `Addition` Conta
 -   `Examen` Prova
 -   `Guide` Guia
 -   `Clé` Chave
 -   `Ordinateur` Computador
+-   `Clavier` Teclado
 -   `Porte` Porta
 -   `Fenêtre` Janela
 -   `Chaise` Cadeira
@@ -38,9 +43,10 @@
 -   `Cadeau` Presente
 -   `Plat` Prato
 -   `Lit` Cama (M)
--   `Journal` Jornal
+-   `Journal` Jornal/Diário
 -   `Radio` Rádio (F)
--   `Frigo` Geladeira (M)
+-   `Réfrigérateur` Refrigerador
+    -   `Frigo` Geladeira (M)
 -   `Placard` Armário
 -   `Portrait` Retrato
 -   `Photo` Foto
@@ -58,8 +64,6 @@
 -   `Dessin` Desenho
 -   `Tableau` Pintura
 -   `Devoir` Tarefa
--   `Film` Filme
--   `Série`
 -   `Pelouse` Grama
 -   `Papier` Papel
 -   `Cahier` Caderno
@@ -74,8 +78,37 @@
 -   `Poupée` Boneca
 -   `Ballon` Bola (M)
 -   `Boîte` Caixa
+    -   `Boite` Pós-reforma de 90
 -   `Canapé` Sofá
 -   `Sol` Chão/Piso
+-   `Place` Assento
+-   `Escalier` Escada
+-   `Coussin` Travesseiro
+-   `Étagère` Estante/Prateleira
+-   `Rideau` Cortina (M)
+-   `Brosse` Escova
+    -   `Brosse à dents` Escova de dentes
+-   `Bijou` Joia
+-   `Poubelle` Lata de lixo
+-   `Timbre` Selo
+-   `Plan` Mapa
+-   `Guide` Guia
+-   `Monument` Monumento
+-   `Armoire` Guarda-roupas
+-   `Or` Ouro
+-   `Cuir` Couro
+-   `Coton` Algodão
+-   `Parapluie` Guarda-chuva
+-   `Cuillère` Colher
+    -   `Cuillère à café` Colher de chá
+    -   `Cuillère à soupe` Colher de sopa
+-   `Vaisselle` Vasilha
+-   `Enveloppe` Envelope
+-   `Document` Documento
+-   `Dossier` Arquivo/Pasta (M)
+-   `Imprimante` Impressora
+-   `Ascenseur` Elevador
+-   `Couverture` Coberta/Cobertor
 
 ## Abstratos
 
@@ -101,9 +134,6 @@
 -   `Message` Mensagem
 -   `Âge` Idade
 -   `Secret` Segredo
--   `Droite` Direita
--   `Gauche` Esquerda
--   `Tout droit` Reto
 -   `Prix` Preço
 -   `Recette` Receita
 -   `Voyage` Viagem (M)
@@ -123,6 +153,7 @@
 -   `Température` Temperatura
 -   `Rencard` Encontro
 -   `Sommeil` Sono
+-   `Rêve` Sonho
 -   `Conversation` Conversa
 -   `Mariage` Casamento
 -   `Honte` Vergonha
@@ -141,6 +172,33 @@
 -   `Souvenir` Lembrança
 -   `Fin` Fim (F)
 -   `Écriture` Escrita
+-   `Partie` Parte
+-   `Degré` Grau
+-   `Rupture` Término
+-   `Enfance` Infância
+-   `Grâce` Graça
+-   `Exercice` Exercício
+-   `Vocabulaire` Vocabulário
+-   `Fois` Vez
+-   `Journée` Jornada
+-   `Repos` Repouso
+-   `Sourire` Sorriso
+-   `Taille` Tamanho/Altura
+-   `Promotion` Promoção
+-   `Ménage` União (entre duas pessoas)
+-   `Vue` Visão/Vista
+-   `Tranche` Fatia
+-   `Pause` Pausa/Intervalo
+-   `Équipe` Equipe
+-   `Réservation` Reserva
+
+### Unidades de medida
+
+-   `Mètre` Metro
+-   `Kilomètre` Quilômetro
+-   `Gramme` Grama (M)
+-   `Kilo` Quilo
+-   `Litre` Litro
 
 ## Transporte
 
@@ -159,9 +217,28 @@
 
 -   `Métier` Ocupação/Trabalho
 -   `Profession` Profissão
--   `Cours` Aula/Curso
 -   `Réseaux sociaux` Redes sociais
 -   `Pêche` Pesca
+-   `Dessin animé` Desenho animado
+-   `Matinée` Festa (de manhã)
+-   `Soirée` Festa (à noite)
+-   `Ménage` Trabalho doméstico
+-   `Film` Filme
+-   `Série`
+-   `Épisode` Episódio
+-   `Concert` Concerto
+
+## Estudo
+
+-   `Cours` Aula/Curso
+-   `Grammaire` Gramática
+-   `Mathématiques` Matemática
+-   `Géographie` Geografia
+-   `Histoire` História
+-   `Chimie` Química
+-   `Physique` Física
+-   `Biologie` Biologia
+-   `Manuel` Livro didático/Manual
 
 ### Esporte
 
@@ -173,8 +250,10 @@
 ## Música
 
 -   `Musique` Música
+-   `Chanson` Canção
 -   `Piano`
 -   `Guitare` Guitarra
 -   `Violon` Violino
+-   `Album` Álbum
 
 ## Outros

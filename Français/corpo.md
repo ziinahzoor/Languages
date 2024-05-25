@@ -1,6 +1,7 @@
 # Le Corps - Corpo
 
 -   `Tête` Cabeça
+    -   `Cerveau` Cérebro
     -   `Cheveu` Cabelo
     -   `Visage` Rosto
         -   `Front` Testa
@@ -15,5 +16,8 @@
 -   `Dos` Costas (M)
 -   `Bras` Braço
     -   `Main` Mão
+        -   `Doigt` Dedo
 -   `Jambe` Perna
+    -   `Genou` Joelho
     -   `Pied` Pé
+-   `Sang` Sangue

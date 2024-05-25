@@ -9,6 +9,10 @@
 -   `Frijole` Feijão
 -   `Caballo` Cavalo
 -   `Dinosaurio` Dinossauro
+-   `Vaca`
+-   `Cerdo` Porco
+-   `Búho` Coruja (M)
+-   `Pez` Peixe
 
 ## Relacionado
 

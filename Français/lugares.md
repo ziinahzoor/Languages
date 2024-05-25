@@ -24,15 +24,49 @@
 -   `Allemagne` Alemanha
 -   `France` França
 -   `Italie` Itália
+-   `Suisse` Suiça
 
 ### Asie - Ásia
 
 -   `Chine` China
 -   `Japon` Japão
+-   `Inde` Índia
 
 ### Océanie - Oceania
 
 -   `Australie` Austrália
+
+## Les Lieux Relatifs - Lugares Relativos
+
+-   `Ici/Ci` Aqui
+-   `Là` Lá/Ali
+    -   `Là-bas` Lá (longe)
+-   `Dehors` De fora
+-   `À côté` Perto/Próximo (Ao lado)
+-   `Près` Perto/Próximo
+-   `Loin` Longe
+-   `Devant` Em frente/Na frente
+-   `Derrière` Atrás
+-   `En haut` Pra cima/Em cima/No alto
+-   `En bas` Pra baixo/Embaixo
+-   `Au-dessus` Acima
+-   `Au-dessous` Abaixo/Debaixo
+    -   `En-dessous` Québécois
+-   `Extérieur` Exterior
+-   `Intérieur` Interior
+
+### Les Directions - Direções
+
+-   `Droite` Direita
+-   `Gauche` Esquerda
+-   `Tout droit` Reto
+
+#### Cardinais
+
+-   `Nord` Norte
+-   `Sud` Sul
+-   `Est` Leste
+-   `Ouest` Oeste
 
 ## La maison - Casa
 
@@ -47,14 +81,32 @@
 -   `Étage` Andar
     -   `Premier étage` Primeiro andar (depois do térreo)
 -   `Mur` Parede/Muro
+-   `Toit` Telhado (Fora)
+-   `Plafond` Teto (Dentro)
 -   `Piscine` Piscina
+-   `Hall` Salão/Lobby
+
+## Les Planètes - Planetas (F)
+
+-   `Mercure` Mercúrio
+-   `Vénus` Vênus
+-   `Terre` Terra
+-   `Mars` Marte
+-   `Jupiter` Júpiter
+-   `Saturne` Saturno
+-   `Uranus` Urano
+-   `Neptune` Netuno
+-   `Pluton` Plutão
 
 ## Vocabulaire - Vocabulário
 
 -   `Adresse` Endereço (F)
 -   `Université` Universidade
+-   `Faculté` Faculdade
+    -   `Fac`
 -   `Gare` Estação de trem
 -   `Restaurant` Restaurante
+    -   `Resto` Abreviação
 -   `Aéroport` Aeroporto
 -   `Hôpital` Hospital
 -   `Hôtel` Hotel
@@ -94,6 +146,21 @@
 -   `Bibliothèque` Biblioteca
 -   `Librairie` Livraria
 -   `Fête` Festa
--   `Rivière` Rio (F)
 -   `Monde` Mundo
 -   `Entreprise` Empresa
+-   `Bureau de Poste` Correios
+-   `Arrondissement` Distrito
+-   `Quartier` Bairro
+-   `Hôtel de ville` Prefeitura
+-   `Place` Praça/Local
+-   `Cathédrale` Catedral
+-   `Capitale` Capital
+-   `Centre-ville` Centro
+-   `Bar`
+
+## Paris
+
+-   `Seine` Sena (F)
+-   `Arc de Triomphe` Arco do Triunfo
+-   `Montmartre`
+-   `Sacre-Cœur`

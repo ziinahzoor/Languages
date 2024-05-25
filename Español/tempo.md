@@ -3,7 +3,6 @@
 -   `Hora`
 -   `Media` Meia (Hora)
 -   `Minuto`
--   `Hoy` Hoje
 -   `Día` Dia
 -   `Mañana` Manhã/Amanhã
 -   `Tarde`
@@ -12,6 +11,14 @@
 -   `Año` Ano
 -   `Fin de semana` Fim de semana
 -   `Fecha` Data
+-   `Ahora` Agora
+-   `Antes`
+-   `Después` Depois
+-   `Temprano` Cedo
+-   `Tarde`
+-   `Ayer` Ontem
+-   `Hoy` Hoje
+-   `Anoche` Noite passada
 
 ## La Semaña - Semana
 
@@ -42,7 +49,8 @@
 
 -   `Nublado`
 -   `Calor`
--   `Frío`
+-   `Frío` Frio
+-   `LLuvia` Chuva
 
 ## Las Estaciones - Estações
 

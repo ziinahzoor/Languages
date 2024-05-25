@@ -37,3 +37,9 @@
 -   `カメレオン` Camaleão
 -   `ハムスター` Hamster
 -   `ぞう` Elefante
+-   `ロブスター` Lagosta
+-   `カモ` Pato
+-   `パンダ` Panda
+-   `きりん` Girafa
+-   `うさぎ` Coelho
+-   `やぎ` Cabra

@@ -14,3 +14,8 @@
 -   `いってきます` Estou indo
     -   `いって` Indo + `きます` Vir = Estou indo, mas vou voltar
 -   `いただきます` Vamos comer!
+-   `ぐあいがわるい` Está doente
+    -   Literalmente "a saúde está mal"
+-   `おい` Ei!
+-   `どういうこと` O que você quer dizer?
+-   `〜そうだ・〜そうです` Dizem que...

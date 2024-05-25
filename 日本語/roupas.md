@@ -15,3 +15,12 @@
 -   `ドレス` Vestido
 -   `ネクタイ` Gravata
 -   `うでどけい` Relógio de pulso
+-   `くつした` Meia
+-   `ジーンズ` Jeans
+-   `セーター` Suéter
+-   `パーカー` Moletom
+-   `マフラー` Cachecol
+-   `アクセサリー` Acessório
+-   `みずぎ` Traje de banho
+-   `マスク` Máscara
+-   `ベルト` Cinto

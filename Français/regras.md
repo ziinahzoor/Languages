@@ -5,7 +5,7 @@
 -   `à` é usado para cidades e `en` para países
 -   Se a palavra começar com vogal ou 'h' mudo, usar `l'` ao invés de `le` ou `la`
 -   Se o verbo também começa com vogal, `je` se torna `j'`
--   Para dizer "há (there is)", usa-se `Il y a`
+-   Para dizer "há (there is)", usa-se `Il y a`. Também serve para indicar quanto tempo se passou.
 -   Para se referir a alguma coisa no plural, sem especificar quais coisas, deve-se usar `des`.
 -   Para fazer perguntas, o equivalente do inglês "Do/Does...?" é `Est-ce que...?`
 -   Para perguntar "O que...", usar `Qu'est-ce que`
@@ -20,13 +20,16 @@
 -   Em frases negativas, `du`, `de la` e `des` se tornam apenas `de` e `d'`
 -   Para dizer que sente frio ou calor, usar `avoir`
 -   `Bon` e `bonne` também podem ter sentido de "certo" ou "correto". Ex.: `Est-ce que c'est le bon bus?` "Esse é o ônibus certo?"
--   `Le [jour de la semaine]` é usado para dizer "Aos/Às [dia da semana]".
+-   `Le [jour de la semaine]` é usado para dizer "Aos/Às [dia da semana]". Para dias específicos, não se usa artigo.
 -   Quanto a sabores, como "sorvete de morango" e "pão com queijo", se usa `[comida] à/au (la)[sabor]`. Ex.: `De la glace à la fraise`, `Du pain au fromage`.
 -   Para frases impessoais, como instruções ou regras, se utiliza `Il faut`.
 -   `Avoir mal à` significa sentir dor em algum lugar.
 -   `Là`, mesmo que significando "lá", geralmente é utilizado como "aqui". Ex.: `Je suis là`, `Voilà`.
 -   `Avoir l'air` significa "parecer", "ter o semblante".
 -   Em solicitações e propostas, é comum não usar verbos de apoio, como "poder".
+-   Usa-se `c'est` antes de artigos e possessivos e `il est` antes de substantivos e adjetivos.
+-   Com a reforma ortográfica de 1990, não se coloca mais acentos circunflexos no "i" e no "u".
+-   `Nouveau` faz parte do BAGS, mas `Neuf` não.
 
 ## Les Articles - Artigos
 

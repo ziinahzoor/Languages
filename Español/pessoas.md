@@ -16,7 +16,8 @@
 -   `Amigo`
 -   `Señor` Senhor
 -   `Señorita` Senhorita
--   `Camarero` Garçom
+-   `Mesero` Garçom
+    -   `Camarero` Espanha
 -   `Amigo`
 -   `Secretario` Secretário
 -   `Jefe` Chefe
@@ -39,3 +40,4 @@
     -   `Esposo`
 -   `Esposa`
 -   `Novio` Namorado
+    -   `Exnovio` Ex-namorado

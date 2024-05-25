@@ -20,3 +20,4 @@
 -   `Botas`
 -   `Vaqueros` Calças jeans
 -   `Bolsa`
+-   `Chal` Xale

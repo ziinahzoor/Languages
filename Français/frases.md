@@ -46,5 +46,6 @@
 -   `Merci` Obrigado
     -   `Merci beaucoup` Muito obrigado
 -   `De rien` De nada
+-   `Grâce à toi` Graças a você
 
 ## Concordância

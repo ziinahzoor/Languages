@@ -11,3 +11,4 @@
 -   `Jaune` Amarelo
 -   `Orange` Laranja
 -   `Marron` Marrom
+    -   Não se modifica no plural

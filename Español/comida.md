@@ -23,6 +23,7 @@
 -   `Harina` Farinha
 -   `Masa` Massa
 -   `Salsa` Molho (F)
+-   `Vainilla` Baunilha
 
 ## Las Frutas
 

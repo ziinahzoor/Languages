@@ -3,10 +3,15 @@
 -   `Pelo`
 -   `Cabeza` Cabeça
     -   `Cabello` Cabelo
+        -   `Canas` Cabelo grisalho
     -   `Cara` Rosto
     -   `Ojo` Olho
     -   `Oreja` Orelha
     -   `Nariz` (F)
-    -   `Diente`
+    -   `Boca`
+        -   `Diente`
+    -   `Barba`
+-   `Brazo` Braço
 -   `Mano` Mão
+-   `Pierna` Perna
 -   `Pie` Pé

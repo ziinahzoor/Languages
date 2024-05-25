@@ -34,6 +34,7 @@
 -   Para pessoas e animais, existe um sufixo para plurarização das palavras: `たち`
 -   Para perguntar se alguém quer fazer alguma coisa, usar a forma negativa + `か`.
 -   <font size="5"><code><ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby></code></font> é a comida em geral, <font size="5"><code><ruby>料<rt>りょう</rt>理<rt>り</rt></ruby></code></font> é a comida preparada.
+-   Diferente de outras línguas, onde fazemos alguma atividade "embaixo da chuva", em japonês se faz "dentro da chuva": `雨の中`.
 
 ## Conversa Informal
 

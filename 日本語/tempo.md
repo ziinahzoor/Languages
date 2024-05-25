@@ -8,6 +8,8 @@
 -   <font size="5"><code><ruby>半<rt>はん</rt></ruby></code></font> Meia-hora
 -   <font size="5"><code><ruby>分<rt>ふん</rt></ruby></code></font> Minuto
 -   <font size="5"><code><ruby>秒<rt>びょう</rt></ruby></code></font> Segundo
+-   <font size="5"><code><ruby>今<rt>いま</rt></ruby></code></font> Agora/Atual
+    -   `今から` Agora mesmo
 -   <font size="5"><code><ruby>昨<rt>きの</rt>日<rt>う</rt></ruby></code></font> Ontem
 -   <font size="5"><code><ruby>今<rt>きょ</rt>日<rt>う</rt></ruby></code></font> Hoje
 -   <font size="5"><code><ruby>明<rt>あし</rt>日<rt>た</rt></ruby></code></font> Amanhã
@@ -15,7 +17,8 @@
     -   `ひ` Dia de, Dia + adjetivo
 -   <font size="5"><code><ruby>朝<rt>あさ</rt></ruby></code></font> Manhã
 -   <font size="5"><code><ruby>昼<rt>ひる</rt></ruby></code></font> Dia (Período antes da noite)/Meio dia
--   <font size="5"><code><ruby>晩<rt>ばん</rt></ruby></code></font> Anoitecer
+-   <font size="5"><code><ruby>夕<rt>ゆう</rt>方<rt>がた</rt></ruby></code></font> Anoitecer (Até cerca de 7 horas)
+-   <font size="5"><code><ruby>晩<rt>ばん</rt></ruby></code></font> Anoitecer tardio
     -   Mais comum
 -   <font size="5"><code><ruby>夜<rt>よる</rt></ruby></code></font> Noite
 -   <font size="5"><code><ruby>夜<rt>よ</rt>中<rt>なか</rt></ruby></code></font> Madrugada
@@ -23,6 +26,9 @@
 -   <font size="5"><code><ruby>週<rt>しゅう</rt>末<rt>まつ</rt></ruby></code></font> Fim de semana
 -   <font size="5"><code><ruby>月<rt>つき</rt></ruby></code></font> Mês
 -   <font size="5"><code><ruby>年<rt>ねん</rt></ruby></code></font> Ano
+-   <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Antes
+    -   <font size="5"><code><ruby>～の前</ruby></code></font> Antes de
+    -   É um substantivo, não um advérbio.
 -   <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font> Depois
     -   <font size="5"><code><ruby>～の後</ruby></code></font> Depois de
     -   É um substantivo, não um advérbio.
@@ -35,10 +41,11 @@
 
 -   <font size="5"><code><ruby>毎<rt>まい</rt></ruby></code></font> Todo(a)
 -   <font size="5"><code><ruby>先<rt>せん</rt></ruby></code></font> Anterior
-    -   `年` é <font size="5"><code><ruby>去<rt>きょ</rt>年<rt>ねん</rt></ruby></code></font>
 -   <font size="5"><code><ruby>今<rt>こん</rt></ruby></code></font> Este(a)
     -   `夜` é <font size="5"><code><ruby>今<rt>こん</rt>夜<rt>や</rt></ruby></code></font>
 -   <font size="5"><code><ruby>来<rt>らい</rt></ruby></code></font> Próximo(a)
+
+**<font size=5>`年`</font> é <font size="5"><code><ruby>毎<rt>まい</rt>年<rt>とし</rt></ruby></code></font>, <font size="5"><code><ruby>去<rt>きょ</rt>年<rt>ねん</rt></ruby></code></font>, <font size="5"><code><ruby>今<rt>こ</rt>年<rt>とし</rt></ruby></code></font> e <font size="5"><code><ruby>来<rt>らい</rt>年<rt>ねん</rt></ruby></code></font>, respectivamente**
 
 ### Intervalos
 
@@ -96,6 +103,7 @@
 -   `はれ` Limpo/Ensolarado
 -   `くもり` Nublado
 -   <font size="5"><code><ruby>雨<rt>あめ</rt></ruby></code></font> Chuvoso
+-   `あらし` Tempestuoso
 -   `ゆき` Nevoso
 -   `ふぶき` Nevasca
 

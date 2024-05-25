@@ -19,6 +19,7 @@
 -   `Adiós` Adeus
 -   `Hasta mañana` Até amanhã
 -   `Hasta luego` Até logo
+-   `Nos vemos`
 
 ### Apresentação
 

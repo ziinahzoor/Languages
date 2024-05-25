@@ -51,6 +51,7 @@
 
 -   `ありがとうございます` Obrigado
 -   `どういたしまして` De nada
+    -   `いいえ` Mais comum
 -   `ごちそうさまでした` Obrigado pela comida
 
 ## Concordância

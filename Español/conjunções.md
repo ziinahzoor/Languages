@@ -4,3 +4,8 @@
 -   `Y` E
 -   `Pero` Mas
 -   `Que`
+-   `Pues` Bem/Pois
+
+# Interjeições
+
+-   `Ay` Ai

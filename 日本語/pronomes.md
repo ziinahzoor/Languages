@@ -17,6 +17,7 @@
 -   <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> Ela
 -   `うち` Nós (feminino)
 -   <font size="5"><code><ruby>彼<rt>かれ</rt></ruby>ら</code></font> Eles/Elas
+-   `みんな` Pessoal/Todos/Todo mundo
 
 ## こそあど - KO-SO-A-DO
 
@@ -111,6 +112,8 @@
 </table>
 
 **`あなた` se deriva de uma forma arcaica. Em situações formais, pode-se perguntar "quem?" usando `どなた`.**
+
+**`そんな` é bastente usado como uma expressão de surpresa e frustação. É algo como "ah não!", "de jeito nenhum!", "não diga isso!".**
 
 ## <ruby>疑<rt>ぎ</rt>問<rt>もん</rt>代<rt>だい</rt>名<rt>めい</rt>詞<rt>し</rt></ruby> - Interrogativos
 

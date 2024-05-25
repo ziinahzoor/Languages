@@ -29,6 +29,19 @@
 -   `Pique-nique` Piquenique
 -   `Farine` Farinha
 -   `Porc` Carne de porco
+-   `Pâte` Massa
+-   `Huile` Óleo (F)
+-   `Ail` Alho
+-   `Vinaigre` Vinagre
+-   `Saucisse` Salsicha
+-   `Crème` Creme
+-   `Purée` Purê/Mingau
+-   `Pain grillé` Torrada (M)
+-   `Jambon` Presunto
+-   `Oignon` Cebola
+    -   `Ognon` Pós-reforma de 90
+-   `Champignon` Cogumelo
+-   `Carotte` Cenoura
 
 ## Les Légumes (Vegetais)
 
@@ -43,6 +56,12 @@
 -   `Banane` Banana
 -   `Pomme` Maçã
 -   `Pêche` Pêssego
+-   `Citron` Limão (amarelo)
+-   `Lime` Limão (verde) F
+    -   `Limon`
+-   `Pastèque` Melancia
+-   `Melon` Melão
+-   `Poire` Pera
 
 ## Les Boissons (Bebidas)
 
@@ -55,6 +74,8 @@
 -   `Lait` Leite
 -   `Vin` Vinho
 -   `Soda` Refrigerante
+-   `Limonade` Limonada com gás
+-   `Champagne` Champanhe
 
 ## Les repas (Refeições)
 
@@ -62,3 +83,4 @@
 -   `Petit déjeuner` Café da manhã
 -   `Déjeuner` Almoço
 -   `Dîner` Jantar
+    -   `Diner` Pós-reforma de 90

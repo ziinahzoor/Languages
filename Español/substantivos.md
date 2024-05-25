@@ -5,10 +5,10 @@
 -   `Planta`
 -   -   `Flor`
 -   `Río` Rio
--   `Calor`
--   `Frío` Frio
 -   `Viento` Vento
 -   `Sol`
+-   `Nieve` Neve
+-   `Árbol` Árvore (M)
 
 ## Casa e objetos
 
@@ -98,8 +98,6 @@
 -   `Mensaje` Mensagem (M)
 -   `Receta` Receita
 -   `Secreto` Segredo
--   `Derecha` Direita
--   `Izquierda` Esquerda
 -   `Talla` Tamanho (F)
 -   `Precio` Preço
 -   `Razón` Razão
@@ -121,6 +119,14 @@
 -   `Vergüenza` Vergonha
 -   `Imagen` Imagem
 -   `Plan` Plano
+-   `Ruido` Barulho
+-   `Vida`
+-   `Anuncio` Anúncio
+-   `Oración` Frase
+-   `Nacionalidad` Nacionalidade
+-   `Ruido` Barulho
+-   `Ejemplo` Exemplo
+-   `Suspenso` Suspense
 
 ## Transporte
 
@@ -129,9 +135,12 @@
 -   `Tren` Trem
 -   `Autobús` Ônibus
 -   `Carro`
+    -   `Baúl` Porta-malas
+    -   `Motor`
 -   `Bicicleta`
     -   `Bici`
 -   `Avión` Avião
+-   `Barco`
 
 ## Atividades
 
@@ -142,6 +151,8 @@
 -   `Curso`
 -   `Compra`
 -   `Lección` Lição
+-   `Viaje` Viagem
+-   `Ajedrez` Xadrez
 
 ### Esporte
 
@@ -151,6 +162,7 @@
     -   `Básquetbol`
     -   `Básquet`
 -   `Tenis` Tênis
+-   `Golf` Golfe
 
 ## Música
 

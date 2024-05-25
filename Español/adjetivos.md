@@ -7,12 +7,14 @@
 -   `Inglés` Inglês
 -   `Chino` Chinês
 -   `Japonés` Japonês
+-   `Portugués` Português
 
 ## Vocabulário
 
 -   `Abierto` Aberto
 -   `Cerrado` Fechado
 -   `Grande`
+    -   `Gran`
 -   `Pequeño` Pequeno
 -   `Caro`
 -   `Barato`
@@ -20,6 +22,7 @@
 -   `Inteligente`
 -   `Bello` Belo
 -   `Bonito`
+-   `Hermoso` Bonito
 -   `Guapo` Bonito (Pessoas)
 -   `Perfecto` Perfeito
 -   `Interesante` Interessante
@@ -31,10 +34,12 @@
 -   `Posible` Possível
 -   `Fácil`
 -   `Difícil`
+-   `Duro` Difícil/Duro
 -   `Feliz`
 -   `Triste`
 -   `Enfermo` Doente
 -   `Bueno` Bom
+-   `Malo` Mau
 -   `Nuevo` Novo
 -   `Viejo` Velho
 -   `Jóven` Jovem
@@ -51,6 +56,7 @@
 -   `Simpático`
 -   `Preocupado`
 -   `Famoso`
+-   `Emocionante`
 -   `Emocionada`
 -   `Enojado` Com raiva
 -   `Nervioso` Nervoso
@@ -81,3 +87,17 @@
 -   `Lento`
 -   `Ligero` Leve
 -   `Seguro`
+-   `Cercano` Próximo
+-   `Final`
+-   `Pasado` Passado/Último
+-   `Pobre`
+-   `Gracioso` Engraçado
+-   `Caluroso` Caloroso
+-   `Frío` Frio
+-   `Siguiente` Seguinte/Próximo
+-   `Posible` Possível
+-   `Fantástico`
+-   `Grandísimo` Grandíssimo
+-   `Cansadísimo` Cansadíssimo
+-   `Dificilísimo` Dificílimo
+-   `Facilísimo` Facílimo

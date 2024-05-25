@@ -22,6 +22,9 @@
 -   `Allemand` Alemão
 -   `Chinois` Chinês
 -   `Japonais` Japonês
+-   `Russe` Russo
+-   `Tunisien` Tunisiano
+-   `Indien` Indiano
 
 ## Vocabulaire - Vocabulário
 
@@ -36,6 +39,7 @@
 -   `Préferé` Preferido
 -   `Seul` Único
 -   `Cher` Caro
+-   `Bon marché` Barato
 -   `Meilleur` Melhor
 -   `Beau` Bonito
     -   `Bel` Se começa com som de vogal
@@ -48,9 +52,10 @@
 -   `Content` Contente
 -   `Heureux` Feliz
 -   `Triste`
--   `Nouveau` Novo
+-   `Neuf` Novo (Condição)
+-   `Nouveau` Novo (Pra mim)
     -   `Nouvel` Se começa com som de vogal
--   `Nouvelle` Nova
+-   `Nouvelle` Nova (Pra mim)
 -   `Vieux` Velho
     -   `Vieil` Se começa com som de vogal
 -   `Vielle` Velha
@@ -67,6 +72,7 @@
 -   `Ensemble` Juntos
 -   `Gentil`
 -   `Sûre` Certo/Confiante
+    -   `Sure` Pós-reforma de 90
 -   `Bon` Bom/Correto
 -   `Bonne` Boa/Correta
 -   `Super` Ótimo
@@ -111,3 +117,22 @@
 -   `Excellent` Excelente
 -   `Pauvre` Pobre
 -   `Gratuite` Gratuito
+-   `Cool` Legal
+-   `Bizarre` Esquisito
+-   `Tranquille` Tranquilo
+-   `Timide` Tímido
+-   `Fantastique` Fantástico
+-   `Sérieux` Sério
+-   `Agréable` Agradável
+-   `Responsable` Responsável
+-   `Paresseux` Preguiçoso
+-   `Fou/Folle` Louco/Doido
+-   `Perdu` Perdido
+-   `Clair` Claro
+-   `Foncé` Escuro
+-   `Amoureux` Apaixonado
+-   `Incroyable` Incrível/Inacreditável
+-   `Populaire` Popular
+-   `Absent` Ausente
+-   `Délicieux` Delicioso
+-   `Annulé` Cancelado

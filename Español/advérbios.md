@@ -4,44 +4,28 @@
 -   `Sí` Sim
 -   `Dónde` Onde
 -   `Adónde` Aonde
--   `Aquí` Aqui
--   `Acá` Aqui/Cá
--   `Allá` Lá
 -   `Muy` Muito (Very)
 -   `Mucho` Muito (A lot)
 -   `Poco` Pouco
 -   `Más` Mais
 -   `Menos`
 -   `También` Também
--   `Solo` Apenas
--   `Ahora` Agora
--   `Hoy` Hoje
 -   `Conmigo` Comigo
 -   `Contigo`
--   `Cerca` Próximo
--   `Detrás` Atrás
--   `Debajo` Debaixo
--   `Sobre` Em cima/Sobre
--   `Mañana` Amanhã
 -   `Por qué` Por que/Por quê
 -   `Porque` Porque
 -   `Bien` Bem
 -   `Mal`
 -   `Todavía` Ainda (Yet)
 -   `Cuándo` Quando
--   `Antes`
--   `Después` Depois
 -   `Luego` Depois/Logo
 -   `A menudo` Frequentemente
 -   `Siempre` Sempre
 -   `A veces` Às vezes
 -   `Nunca`
--   `Cerca` Perto
--   `Lejos` Longe
--   `Al lado` Ao lado
 -   `Entonces` Então
 -   `Juntos`
--   `Todo`
+-   `Todo` Tudo/Todo
 -   `Ya` Já
 -   `Mayor` Maior
 -   `Normalmente`
@@ -51,11 +35,14 @@
 -   `Peor` Pior
 -   `Solo` Só/Apenas
 -   `Demasiado` Demais/Em excesso
--   `Temprano` Cedo
--   `Tarde`
 -   `Tan` Tão
 -   `Como` Como/Quanto
 -   `Pronto` Logo
 -   `Rápido`
 -   `Despacio` Devagar
 -   `Por supuesto` Claro/Óbvio
+-   `Completamente`
+-   `Encima` Em cima
+-   `De vez en cuando` De vez em quando
+-   `Frecuentemente` Frequentemente
+-   `Generalmente` Geralmente

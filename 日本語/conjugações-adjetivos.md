@@ -50,6 +50,7 @@
 
 -   Como funcionam como substantivos, o `な` é como uma substituição da partícula `の`.
 -   Às vezes `の` é utilizado com adjetivos. `の` categoriza um substantivo, enquanto `な` descreve um substantivo
+-   Com exceção de `嫌い`, todos os que terminam em `い` não possuem okurigana.
 
 **Não são flexionados como os `い`, dependendo de outras palavras para indicar o modo e o tempo. Geralmente são usadas as conjugações de `です`.**
 
@@ -68,10 +69,10 @@
     <tr>
         <th>Forma negativa</th>
         <td>くない</td>
-        <td>じゃない</td>
+        <td>じゃない・ではありません</td>
     </tr>
     <tr>
-        <th>Passado (sobrepõe com negativa)</th>
+        <th>Passado</th>
         <td>かった</td>
         <td>だった・でした</td>
     </tr>
@@ -88,16 +89,11 @@
     <tr>
         <th>Forma condicional</th>
         <td>ければ</td>
-        <td></td>
+        <td>ならば・であれば</td>
     </tr>
     <tr>
         <th>Forma aparente</th>
         <td colspan="2">そう</td>
-    </tr>
-    <tr>
-        <th>Forma aparente negativa</th>
-        <td>くなさそう</td>
-        <td>じゃなさそう</td>
     </tr>
     <tr>
         <th>Forma de substantivo objetiva</th>
@@ -109,7 +105,11 @@
     </tr>
 </table>
 
+> [!NOTE]
+> A forma condicional `であれば` vem de `である`, que antes de `だ・です` era usada como cópula.
+
 -   A forma de substantivo objetiva é utilizada para expressar substantivos mensuráveis.
+    -   É similar ao sufixo inglês "-ness".
     -   Também pode ser usada para substantivos subjetivos, tratando-os como verdades universais.
     -   Com os substantivos que se contrastam, o "positivo" é que geralmente é associado à ideia geral de medida.
     -   A forma de substantivo também pode ser adicionada a outros sufixos, como `たい`, `やすい` e `にくい`.

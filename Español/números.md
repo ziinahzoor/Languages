@@ -29,12 +29,25 @@
 -   `Ochenta` Oitenta
 -   `Noventa`
 -   `Cien` Cem
+    -   `Ciento` Cento
 -   `Doscientos` Duzentos
+-   `Trescientos` Trezentos
+-   `Cuatrocientos` Quatrocentos
+-   `Quinientos` Quinhentos
+-   `Seiscientos` Seiscentos
+-   `Setecientos` Setecentos
+-   `Ochocientos` Oitocentos
+-   `Novecientos` Novecentos
 -   `Mil`
+-   `Millón` Milhão
 
 ## Ordinais
 
+**Ao usar de forma adjetiva antes de um substantivo, perde-se o "o"**
+
 -   `Primero` Primeiro
+-   `Segundo`
+-   `Tercero` Terceiro
 
 ## Relacionado
 

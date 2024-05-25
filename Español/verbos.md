@@ -40,7 +40,8 @@
 -   `Lavarse` Se lavar
 -   `Levantarse` Se levantar
 -   `Pintar`
--   `Empezar` Começar
+-   `Empezar` Começar (Espanha)
+-   `Comenzar` Começar (América Latina)
 -   `Escuchar` Escutar
 -   `Buscar` Procurar
 -   `Cerrar` Fechar
@@ -59,16 +60,36 @@
 -   `Viajar`
 -   `Cantar`
 -   `Lavar`
--   `Quedar` Ficar
+-   `Quedar` Ficar/Se juntar
 -   `Cambiar` Trocar
 -   `Pensar`
 -   `Ahogar` Afogar
 -   `Desayunar` Tomar café da manhã
 -   `Cenar` Jantar
 -   `Volar` Voar
+-   `Acordarse` Lembrar
 -   `Recordar` Lembrar
+    -   Remete mais à situações nostálgicas
 -   `Encontrar`
 -   `Esperar`
+-   `Mandar`
+-   `Girar` Virar
+-   `Perdonar` Perdoar
+-   `Contestar` Responder (por escrito)
+-   `Olvidar` Esquecer
+-   `Alquilar` Alugar
+-   `Fumar`
+-   `Sentarse` Se sentar
+-   `Preocuparse` Se preocupar
+-   `Parar`
+-   `Estrellar` Bater (contra alguma coisa)
+-   `Invitar` Convidar
+-   `Despertarse` Acordar
+-   `Acabar`
+-   `Soñar` Sonhar
+-   `LLevar puesto` Vestir/Usar
+-   `Acostarse` Ir pra cama/Ir dormir
+-   `Odiar`
 
 ## Los verbos -er
 
@@ -92,19 +113,32 @@
 -   `Ver`
 -   `Doler` Doer
 -   `Poner` Por/Colocar
-    -   `Ponerse` Vestir/Calçar
+    -   `Ponerse` Vestir/Calçar/Se sentir
 -   `LLover` Chover
 -   `Poder`
 -   `Perder`
 -   `Coger` Pegar
+    -   Usado com esse sentido apenas na Espanha.
+    -   Na América Latina, possui conotação pejorativa.
 -   `Traer` Trazer
+-   `Esconder`
+-   `Encender` Acender/Ligar
+-   `Querer`
+-   `Responder`
 
 ## Los verbos -ir
 
 -   `Ir`
+-   `Venir` Vir
 -   `Vivir` Viver
+-   `Morir` Morrer
 -   `Escribir` Escrever
 -   `Salir` Sair
 -   `Dormir`
 -   `Abrir`
 -   `Decir` Dizer
+-   `Seguir`
+-   `Elegir` Escolher
+-   `Sentirse` Sentir
+-   `Oír` Ouvir
+-   `Preferir`

@@ -4,6 +4,7 @@
 -   <font size="5"><code><ruby>外<rt>がい</rt>国<rt>こく</rt>人<rt>じん</rt></ruby></code></font> Estrangeiro
 -   <font size="5"><code><ruby>大人<rt>おとな</rt></ruby></code></font> Adulto
 -   <font size="5"><code><ruby>子<rt>こ</rt>供<rt>ども</rt></ruby></code></font> Criança
+-   `あかちゃん` Bebê
 -   `いしゃ` Doutor
 -   <font size="5"><code><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></code></font> Professor
 -   <font size="5"><code><ruby>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante
@@ -12,6 +13,7 @@
     -   <font size="5"><code><ruby>中<rt>ちゅう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante do secundário
     -   <font size="5"><code><ruby>高<rt>こう</rt>校<rt>こう</rt>生<rt>せい</rt></ruby></code></font> Estudante do ensino médio
     -   <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Universitário
+-   `クラスメイト` Colega de quarto
 -   `べんごし` Advogado
 -   `にんげん` Humano
 -   `ともだち` Amigo
@@ -43,6 +45,8 @@
 -   `てんいん` Funcionário
 -   `かいけい` Caixa
 -   `アーティスト` Artista
+-   `パートナー` Parceiro/Companheiro
+-   `おきゃくさん` Visitante/Convidado
 
 ## <ruby>家<rt>か</rt>族<rt>ぞく</rt></ruby> - Família
 
@@ -88,3 +92,5 @@
         -   `伯母` Mais velha que o pai/mãe
         -   `叔母` Mais nova que o pai/mãe
 -   `いとこ` Primo
+-   <font size="5"><code><ruby>姪<rt>めい</rt></ruby></code></font> Sobrinha
+-   `甥` Sobrinho

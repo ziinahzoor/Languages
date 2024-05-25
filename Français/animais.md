@@ -15,6 +15,8 @@
 -   `Éléphant` Elefante
 -   `Lapin` Coelho
 -   `Oiseau` Pássaro
+-   `Ours` Urso
+-   `Aragnée` Aranha
 
 ## Relacionado
 

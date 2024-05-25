@@ -11,3 +11,13 @@
 -   `Ah bon?` É mesmo?
 -   `Quoi?` O quê?
 -   `Mais non` Claro que não
+-   `Ça ne vas pas?` Tem algo de errado?
+-   `Ça va aller` Vai ficar tudo bem
+-   `J'en ai marre` Estou cansado/farto
+-   `En même temps` Ao mesmo tempo
+-   `Tout à coup` Do nada/De repente
+-   `Fais attention` Tenha cuidado
+-   `Sans aucun doute` Sem dúvida
+-   `Jamais de la vie` Nunca na vida
+-   `Aucune chance` Sem chance
+-   `Personne ne` Ninguém

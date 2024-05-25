@@ -16,17 +16,24 @@
 -   `Soir` Noite (Evening) (M)
 -   `Nuit` Noite (Night)
 -   `Weekend` Fim de semana
+    -   `Week-end` Pré-acordo de 90
 -   `Midi` Meio-dia
 -   `Minuit` Meia-noite
 -   `Quart` Um quarto
 -   `Mois` Mês
--   `Demain` Amanhã
 -   `Horaire` Horário
 -   `Date` Data
 -   `Férié` Feriado
--   `Aujourd'hui` Hoje
 -   `Hier` Ontem
+-   `Aujourd'hui` Hoje
 -   `Demain` Amanhã
+-   `Maintenant` Agora
+-   `Tôt` Cedo
+-   `Tard` Tarde
+-   `Bientôt` Logo
+-   `Moment` Momento
+-   `Début` Começo
+-   `Semestre`
 
 ## La Semaine - Semana
 
@@ -48,6 +55,7 @@
 -   `Juin` Junho
 -   `Juillet` Julho
 -   `Août` Agosto
+    -   `Aout` Pós-reforma de 90
 -   `Septembre` Setembro
 -   `Octobre` Outubro
 -   `Novembre` Novembro
