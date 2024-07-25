@@ -58,7 +58,21 @@
 | Vous       | êtes   | avez  | allez  | faites  |
 | Ils/Elles  | sont   | ont   | vont   | font    |
 
+### Participe Present - Particípio do Presente
+
+**O gerúndio é formado por `en`+particípio.**
+
+-   Basta trocar o `-ons` da primeira pessoa do plural por `-ant`.
+-   Existem apenas três irregulares:
+
+| Irregulares | Être  | Avoir | Savoir  |
+| ----------- | ----- | ----- | ------- |
+| Conjugação  | étant | ayant | sachant |
+
 ## L'Imparfait Indicatif - Pretérito Imperfeito
+
+> [!TIP]
+> Também é uma de dizer as coisas educadamente como no português.
 
 <table>
     <thead>
@@ -129,9 +143,9 @@
     </tr>
 </table>
 
-|            | Être | Avoir | Allons | Faire |
-| ---------- | ---- | ----- | ------ | ----- |
-| Conjugação | été  | eu    | allé   | fait  |
+| Irregulares | Être | Avoir | Allons | Faire | Vouloir | Pouvoir |
+| ----------- | ---- | ----- | ------ | ----- | ------- | ------- |
+| Conjugação  | été  | eu    | allé   | fait  | Voulu   | Pu      |
 
 ## Le Passé Récent - Pretérito Recente
 
@@ -185,6 +199,35 @@
         <td>-ront</td>
     </tr>
 </table>
+
+### Irregulares
+
+<table>
+    <thead>
+        <th>Verbe</th>
+        <td>Être</td>
+        <td>Aller</td>
+        <td>Avoir</td>
+        <td>Faire</td>
+        <td>Devoir</td>
+        <td>Pouvoir</td>
+        <td>Savoir</td>
+        <td>Vouloir</td>
+    </thead>
+    <tr>
+        <th>Racine</th>
+        <td>Ser-</td>
+        <td>Ir-</td>
+        <td>Aur-</td>
+        <td>Fer-</td>
+        <td>Devr-</td>
+        <td>Pourr-</td>
+        <td>Saur-</td>
+        <td>Voudr-</td>
+    </tr>
+</table>
+
+<table></table>
 
 ## Le Futur Proche - Futuro Imediato
 

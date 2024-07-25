@@ -9,6 +9,7 @@
 -   Para se referir a alguma coisa no plural, sem especificar quais coisas, deve-se usar `des`.
 -   Para fazer perguntas, o equivalente do inglês "Do/Does...?" é `Est-ce que...?`
 -   Para perguntar "O que...", usar `Qu'est-ce que`
+-   Para perguntar sobre um terceiro usando `avoir`, usa-se `a-t-il` e `a-t-elle`
 -   Usar os artigos definidos para falar sobre o tempo e as refeições
 -   Quase sempre se usa `des` para se referir a determinados substantivos de uma forma geral.
 -   Os possessivos são usados na forma masculina se o substantivo feminino começa em vogal.
@@ -30,6 +31,9 @@
 -   Usa-se `c'est` antes de artigos e possessivos e `il est` antes de substantivos e adjetivos.
 -   Com a reforma ortográfica de 1990, não se coloca mais acentos circunflexos no "i" e no "u".
 -   `Nouveau` faz parte do BAGS, mas `Neuf` não.
+-   Usar `en` quando algo é feito de alguma coisa (algum material por exemplo). Ex.: `Sac en cuir` Bolsa de couro
+-   Para comandos, os sufixos `-le`, `-la`, `-les` funcionam da mesma forma que "-o", "-a", "-os", "-as" em português. A forma negativa também.
+-   O artigo é sempre necessário para substantivos no plural, seja `les` ou `des`. Quando um adjetivo BAGS é usado em conjunto, `des` se torna `de`.
 
 ## Les Articles - Artigos
 

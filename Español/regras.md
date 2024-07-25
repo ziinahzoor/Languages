@@ -14,6 +14,8 @@
 -   Quando há um verbo composto na frase, o pronome pode vir antes do primeiro verbo ou se tornar um sufixo do último (que está no infinitivo).
 -   Em solicitações e propostas, é comum não usar verbos de apoio, como "poder".
 -   Geralmente quando algum pronome ou adjetivo termina em "o", ao colocá-lo antes do substantivo, perde-se o "o".
+-   Adiciona-se o sufixo `ísimo` para aumentar o grau de um adjetivo.
+-   O diminutivo é feito com os sufixos `-ito` e `-ita`.
 
 ## Los Articulos - Artigos
 

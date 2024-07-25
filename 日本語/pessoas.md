@@ -5,8 +5,8 @@
 -   <font size="5"><code><ruby>大人<rt>おとな</rt></ruby></code></font> Adulto
 -   <font size="5"><code><ruby>子<rt>こ</rt>供<rt>ども</rt></ruby></code></font> Criança
 -   `あかちゃん` Bebê
--   `いしゃ` Doutor
--   <font size="5"><code><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></code></font> Professor
+-   `いしゃ` Médico
+-   <font size="5"><code><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></code></font> Professor/Doutor (Médico)
 -   <font size="5"><code><ruby>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante
     -   <font size="5"><code><ruby>留<rt>りゅう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante de intercâmbio
     -   <font size="5"><code><ruby>小<rt>しょう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante do primário
@@ -39,6 +39,7 @@
 -   `プロ` Profissional
 -   `バンド` Banda
 -   `はいゆう` Ator
+-   `じょゆう` Atriz
 -   `クライアント` Cliente
 -   `ボランティア` Voluntário
 -   `ルームメイト` Colega de quarto
@@ -47,11 +48,17 @@
 -   `アーティスト` Artista
 -   `パートナー` Parceiro/Companheiro
 -   `おきゃくさん` Visitante/Convidado
+    -   `ゲスト` Convidado (Evento)
+-   <font size="5"><code>きんじょの<ruby>人<rt>ひと</rt></ruby></code></font> Vizinho
+-   `まんがか` Mangaká
+-   `ベジタリアン` Vegetariano
+-   `シェフ` Chef
 
 ## <ruby>家<rt>か</rt>族<rt>ぞく</rt></ruby> - Família
 
 **Usar honoríficos para se referir à alguém de outra família ou para falar com alguém da própria família.**
 
+-   `しんせき` Parente
 -   <font size="5"><code><ruby>両<rt>りょう</rt>親<rt>しん</rt></ruby></code></font> Pais
 -   <font size="5"><code>お<ruby>父<rt>とう</rt></ruby>さん</code></font> Pai
     -   <font size="5"><code><ruby>父<rt>ちち</rt></ruby></code></font> (Meu) Pai
@@ -77,12 +84,14 @@
 -   <font size="5"><code>お<ruby>嬢<rt>じょう</rt></ruby>さん</code></font> Filha
 -   <font size="5"><code><ruby>娘<rt>むすめ</rt></ruby></code></font> (Minha) Filha
 -   <font size="5"><code><ruby>夫<rt>ふう</rt>婦<rt>ふ</rt></ruby></code></font> Casal
--   <font size="5"><code>ご<ruby>主<rt>しゅ</rt>人<rt>じん</rt></ruby></code></font> Marido
+-   <font size="5"><code>ご<ruby>主<rt>しゅ</rt>人<rt>じん</rt></ruby>・だんなさん</code></font> Marido
     -   <font size="5"><code><ruby>夫<rt>おっと</rt></ruby></code></font> (Meu) marido
 -   <font size="5"><code><ruby>奥<rt>おく</rt></ruby>さん</code></font> Esposa
     -   <font size="5"><code><ruby>妻<rt>つま</rt></ruby></code></font> (Minha) esposa
 -   <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> Namorada
 -   <font size="5"><code><ruby>彼<rt>かれ</rt>氏<rt>し</rt></ruby></code></font> Namorado
+-   `しんろう` Noivo
+-   `しんぷ` Noiva
 -   `おじさん` Tio
     -   `おじ` (Meu) Tio
         -   `伯父` Mais velho que o pai/mãe

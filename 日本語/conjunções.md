@@ -8,12 +8,18 @@
     -   `しかし` Formal
 -   `けど` Mas/Apesar de (Fim de frase)
     -   `けれども` Formal
--   `では` Então.../Bem...
+-   `では` Ok então.../Então.../Bem...
+    -   `じゃあ`
 -   `また` Também
 -   `ところで` A propósito
 -   `たとえば` Por exemplo
 -   `だから` Então (para explicar causa) (Depois de substantivo)
     -   `から` Depois de adjetivos e verbos.
     -   `ので` Formal
--   `だって` Porque/Mas/Mesmo que
+-   `だって` Porque/Mas/Mesmo que/Afinal
     -   A tradução correta seria "é dito que...", o que justifica todos os usos contrastantes.
+
+# <ruby>感<rt>かん</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Interjeições
+
+-   `ほら・ほれ` Olha!/Aqui!
+    -   Usado para chamar a atenção de alguém

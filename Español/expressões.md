@@ -8,3 +8,11 @@
 -   `¿De veras?` De verdade?
 -   `¿En serio?` Sério?
 -   `¡Ajá!` Ahá!
+-   `De niño` Quando pequeno
+-   `¿Cómo te va?` Como vai?
+    -   `¿Cómo le va?` Formal
+-   `¡Buen provecho!` Bom apetite
+-   `Oye` Ei
+-   `¿Qué te parece?` O que você acha?
+-   `¡Qué pena!` Que pena
+-   `Sin duda` Sem dúvida

@@ -11,6 +11,8 @@
 -   `Lac` Lago
 -   `Fleuve` Rio
 -   `Rivière` Córrego/Riacho (F)
+-   `Boue` Lama
+-   `Feu` Fogo
 
 ## Casa e objetos
 
@@ -20,33 +22,25 @@
 -   `Verre` Taça (M)
 -   `Bouteille` Garrafa
 -   `Livre` Livro
--   `Télévision` Televisão
-    -   `Télé` TV
--   `Jeu vidéo` Videogame
 -   `Jeu` Jogo
 -   `Plat` Prato
 -   `Argent` Dinheiro/Prata
+-   `Monnaie` Moeda/Troco (F)
 -   `Table` Mesa
 -   `Addition` Conta
 -   `Examen` Prova
 -   `Guide` Guia
 -   `Clé` Chave
--   `Ordinateur` Computador
 -   `Clavier` Teclado
 -   `Porte` Porta
 -   `Fenêtre` Janela
 -   `Chaise` Cadeira
 -   `Stylo` Caneta (M)
 -   `Lettre` Carta
--   `Portable` Celular
--   `Téléphone` Telefone
 -   `Cadeau` Presente
 -   `Plat` Prato
 -   `Lit` Cama (M)
 -   `Journal` Jornal/Diário
--   `Radio` Rádio (F)
--   `Réfrigérateur` Refrigerador
-    -   `Frigo` Geladeira (M)
 -   `Placard` Armário
 -   `Portrait` Retrato
 -   `Photo` Foto
@@ -62,7 +56,8 @@
 -   `Banc` Banco
 -   `Vaisselle` Louça
 -   `Dessin` Desenho
--   `Tableau` Pintura
+-   `Tableau` Quadro (Pintura)
+-   `Peinture` Pintura
 -   `Devoir` Tarefa
 -   `Pelouse` Grama
 -   `Papier` Papel
@@ -70,8 +65,6 @@
 -   `Crayon` Lápis
 -   `Couteau` Faca (M)
 -   `Assiette` Prato (F)
--   `Caméra` Filmadora
--   `Appareil photo` Câmera fotográfica (M)
 -   `Essence` Gasolina
 -   `Coffre` Cofre/Porta-malas
 -   `Bureau` Escrivaninha/Mesa de trabalho
@@ -81,7 +74,6 @@
     -   `Boite` Pós-reforma de 90
 -   `Canapé` Sofá
 -   `Sol` Chão/Piso
--   `Place` Assento
 -   `Escalier` Escada
 -   `Coussin` Travesseiro
 -   `Étagère` Estante/Prateleira
@@ -102,13 +94,62 @@
 -   `Cuillère` Colher
     -   `Cuillère à café` Colher de chá
     -   `Cuillère à soupe` Colher de sopa
+-   `Fourchette` Garfo (F)
 -   `Vaisselle` Vasilha
 -   `Enveloppe` Envelope
 -   `Document` Documento
 -   `Dossier` Arquivo/Pasta (M)
--   `Imprimante` Impressora
 -   `Ascenseur` Elevador
 -   `Couverture` Coberta/Cobertor
+-   `Carte` Cartão
+    -   `Carte bancaire` Cartão bancário (F)
+        -   Cartão de débito (Québécois)
+    -   `Carte de crédit` Cartão de crédito (F)
+    -   `Carte sans contact` Cartão contactless/por aproximação
+-   `Billet` Nota (M)
+-   `Pièce` Moeda
+-   `Laine` Lã
+-   `Parfum` Perfume
+-   `Carte d'identité` Carteira de identidade
+-   `Magazine` Revista
+-   `Joeut` Brinquedo
+-   `Ticket` Recibo
+-   `Chèque` Cheque
+-   `Distributeur` Caixa eletrônico
+-   `Formulaire` Formulário
+-   `Bol` Tigela (M)
+-   `Four` Forno
+-   `Moteur` Motor
+-   `Roue` Roda
+-   `Pneu`
+-   `Tapis` Tapete
+-   `Rideau` Cortina (M)
+-   `Coussin` Travesseiro
+-   `Meuble` Móvel
+-   `Lampe` Lâmpada/Luminária
+-   `Tiroir` Gaveta (M)
+-   `Commode` Cômoda
+-   `Fauteuil` Cadeirão/Poltrona
+
+### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
+
+-   `Appareil` Aparelho
+-   `Télévision` Televisão
+    -   `Télé` TV
+-   `Jeu vidéo` Videogame
+-   `Ordinateur` Computador
+    -   `Ordinateur portable` Laptop
+-   `Portable` Celular
+-   `Téléphone` Telefone
+-   `Radio` Rádio (F)
+-   `Réfrigérateur` Refrigerador
+    -   `Frigo` Geladeira (M)
+-   `Imprimante` Impressora
+-   `Machine à laver` Máquina de lavar
+-   `Caméra` Filmadora
+-   `Appareil photo` Câmera fotográfica (M)
+    -   `Appareil photo numérique` Câmera digital (M)
+-   `Micro-ondes` Micro-ondas
 
 ## Abstratos
 
@@ -124,7 +165,7 @@
 -   `Classe`
 -   `Beaux` Beleza
 -   `Question` Pergunta
--   `Place` Lugar
+-   `Place` Lugar/Assento
 -   `Vacances` Férias
 -   `Réservation` Reserva
 -   `Prénom` Nome
@@ -134,7 +175,7 @@
 -   `Message` Mensagem
 -   `Âge` Idade
 -   `Secret` Segredo
--   `Prix` Preço
+-   `Prix` Preço/Prêmio
 -   `Recette` Receita
 -   `Voyage` Viagem (M)
 -   `Problème` Problema
@@ -144,7 +185,6 @@
 -   `Nationalité` Nacionalidade
 -   `Reunión` Reunião
 -   `Projet` Projeto
--   `Art` Arte
 -   `Raison` Razão
 -   `Mot` Palavra
     -   `Mot de passe` Senha
@@ -191,6 +231,27 @@
 -   `Pause` Pausa/Intervalo
 -   `Équipe` Equipe
 -   `Réservation` Reserva
+-   `Paire` Par (F)
+-   `Naissance` Nascimento
+-   `Sexe` Sexo
+-   `Surprise` Surpresa
+-   `Randonnée` Caminhada
+-   `Électricité` Eletricidade
+-   `Goût` Gosto
+-   `Trou` Buraco
+-   `Mode` Moda
+-   `Envie` Ciúme/Inveja/Desejo
+-   `Habitude` Hábito (F)
+-   `Espèce` Espécie
+    -   Também serve pra dinheiro
+-   `Code` Código
+-   `Compte` Conta (M)
+    -   `Compte bancaire` Conta bancária (M)
+-   `Information` Informação
+-   `Mémoire` Memória
+-   `Permis` Permissão/Licença (M)
+-   `Embouteillage` Engarrafamento
+-   `Ligne` Linha
 
 ### Unidades de medida
 
@@ -212,6 +273,10 @@
 -   `Bus` Ônibus
 -   `Vélo` Bicicleta (M)
 -   `Bateau` Barco
+-   `Hélicoptère` Helicóptero
+-   `Tram` Bonde
+-   `Moto`
+-   `Trottinette` Patinete
 
 ## Atividades
 
@@ -225,8 +290,23 @@
 -   `Ménage` Trabalho doméstico
 -   `Film` Filme
 -   `Série`
+-   `Émission` Programa (F)
 -   `Épisode` Episódio
 -   `Concert` Concerto
+-   `Jeu` Jogo
+    -   `Jeu de société` Jogo de tabuleiro
+-   `Site Internet` Website
+    -   `Site`
+-   `Lien` Link
+-   `Chaîne` Canal
+-   `Reportage` Reportagem (M)
+-   `Vidéo` Vídeo
+-   `Application` Aplicativo (F)
+-   `Yoga` Ioga
+-   `Guerre` Guerra
+-   `Accident` Acidente
+-   `Avant-première` Premiere (de filme)
+-   `Danse` Dança
 
 ## Estudo
 
@@ -239,6 +319,7 @@
 -   `Physique` Física
 -   `Biologie` Biologia
 -   `Manuel` Livro didático/Manual
+-   `Art` Arte
 
 ### Esporte
 
@@ -246,6 +327,10 @@
 -   `Football` Futebol
 -   `Basket` Basquete
 -   `Tennis` Tênis
+-   `Boxe`
+-   `Course à pied` Corrida
+-   `Rugby` Rúgbi
+-   `Handball` Handebol
 
 ## Música
 
@@ -254,6 +339,10 @@
 -   `Piano`
 -   `Guitare` Guitarra
 -   `Violon` Violino
+-   `Batterie` Bateria
 -   `Album` Álbum
+-   `Rap`
+-   `Jazz`
+-   `Pop` (F)
 
 ## Outros

@@ -29,6 +29,7 @@
 -   `Pique-nique` Piquenique
 -   `Farine` Farinha
 -   `Porc` Carne de porco
+-   `Poulet` Frango
 -   `Pâte` Massa
 -   `Huile` Óleo (F)
 -   `Ail` Alho
@@ -42,6 +43,14 @@
     -   `Ognon` Pós-reforma de 90
 -   `Champignon` Cogumelo
 -   `Carotte` Cenoura
+-   `Bonbon` Doce
+-   `Sushi`
+-   `Frite salée` Batata frita
+-   `Poivre` Pimenta
+-   `Épice` Tempero (F)
+-   `Omelette` Omelete
+-   `Crème fraîche` Nata
+-   `Barbecue` Churrasco
 
 ## Les Légumes (Vegetais)
 
@@ -62,6 +71,7 @@
 -   `Pastèque` Melancia
 -   `Melon` Melão
 -   `Poire` Pera
+-   `Raisin` Uva
 
 ## Les Boissons (Bebidas)
 
@@ -70,6 +80,7 @@
 -   `Jus` Suco
 -   `Café`
 -   `Thé` Chá
+-   `Alcool` Álcool
 -   `Bière` Cerveja
 -   `Lait` Leite
 -   `Vin` Vinho
@@ -84,3 +95,4 @@
 -   `Déjeuner` Almoço
 -   `Dîner` Jantar
     -   `Diner` Pós-reforma de 90
+-   `Entrée` Entrada

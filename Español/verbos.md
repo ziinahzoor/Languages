@@ -20,7 +20,7 @@
 -   `Caminar` Andar
 -   `Comprar`
 -   `Estudiar` Estudar
--   `Tomar` Pegar (Take)
+-   `Tomar` Pegar (Take)/Beber
 -   `Manejar` Dirigir
 -   `Empezar` Começar
 -   `Practicar` Praticar
@@ -37,6 +37,7 @@
 -   `Nadar`
 -   `Dibujar` Desenhar
 -   `Ducharse` Se banhar
+-   `Lavar`
 -   `Lavarse` Se lavar
 -   `Levantarse` Se levantar
 -   `Pintar`
@@ -59,7 +60,6 @@
 -   `Nevar`
 -   `Viajar`
 -   `Cantar`
--   `Lavar`
 -   `Quedar` Ficar/Se juntar
 -   `Cambiar` Trocar
 -   `Pensar`
@@ -90,6 +90,22 @@
 -   `LLevar puesto` Vestir/Usar
 -   `Acostarse` Ir pra cama/Ir dormir
 -   `Odiar`
+-   `Acompañar` Acompanhar
+-   `Conversar`
+-   `Apagar` Apagar/Desligar
+-   `Pintar`
+-   `Descansar`
+-   `Cuidar`
+-   `Enviar`
+-   `Aprobar` Passar/Ser aprovado
+-   `Ganar` Ganhar
+-   `Surfear` Surfar
+-   `Rezar`
+-   `Intentar` Tentar
+-   `Llorar` Chorar
+-   `Planear` Planejar
+-   `Reservar`
+-   `Regresar` Regressar/Voltar
 
 ## Los verbos -er
 
@@ -111,6 +127,7 @@
 -   `Creer` Acreditar
 -   `Toucher` Tocar
 -   `Ver`
+    -   `Verse` Olhar/Parecer
 -   `Doler` Doer
 -   `Poner` Por/Colocar
     -   `Ponerse` Vestir/Calçar/Se sentir
@@ -125,10 +142,16 @@
 -   `Encender` Acender/Ligar
 -   `Querer`
 -   `Responder`
+-   `Caerse` Cair
+    -   `Caerse bien` Gostar
+    -   `Caerse mal` Desgostar
+-   `Mover` Mover/Mexer
+-   `Romper` Quebrar
 
 ## Los verbos -ir
 
 -   `Ir`
+    -   `Irse` Sair
 -   `Venir` Vir
 -   `Vivir` Viver
 -   `Morir` Morrer
@@ -142,3 +165,5 @@
 -   `Sentirse` Sentir
 -   `Oír` Ouvir
 -   `Preferir`
+-   `Pedir`
+-   `Servir`

@@ -38,6 +38,7 @@
     -   `Adentro` Direção
 -   `Fuera` Fora
     -   `Afuera` Direção
+-   `Centro`
 
 ### Las Direcciones - Direções
 
@@ -49,12 +50,15 @@
 
 -   `Cocina` Cozinha
 -   `Baño` Banheiro
+    -   `Servicios`
 -   `Habitación` Quarto/Cômodos
 -   `Dormitório` Quarto
 -   `Cuarto` Quarto
+-   `Patio` Quintal
 -   `Jardín` Jardim
 -   `Sala`
 -   `Césped` Gramado
+-   `Salón` Salão
 
 ## Outros
 
@@ -93,3 +97,16 @@
 -   `Entrada`
 -   `Granja` Fazenda
 -   `Gimnasio` Academia
+-   `Empresa`
+-   `Teatro`
+-   `Iglesia` Igreja
+-   `Bar`
+-   `Campamento` Acampamento
+-   `Fábrica`
+-   `Castillo` Castelo
+-   `Campo`
+-   `Isla` Ilha
+-   `Catedral`
+-   `Ópera`
+-   `Estadio` Estádio
+-   `Capital`

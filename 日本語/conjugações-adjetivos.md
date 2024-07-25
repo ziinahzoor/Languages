@@ -14,7 +14,7 @@
 
 **O final se modifica trocando `い` por `く`.**
 
-**Se dividem em duas classes: `い` e `しい`. A última tende a ser mais pessoal e portanto existem verbos correspondentes para se referir à outras pessoas.**
+**Se dividem em duas classes: `い` e `しい`. A última consiste em adjetivos subjetivos e portanto existem verbos correspondentes para se referir à outras pessoas.**
 
 <table>
     <thead>
@@ -46,7 +46,7 @@
 
 **Também conhecidos como adjetivos nominais ou substantivos-adjetivo por serem sintaticamente substantivos.**
 
-**Necessitam do sufixo `な` para se ligar a substantivos. Essa é a forma conectiva de `だ`.**
+**Necessitam do sufixo `な` para se ligar a substantivos (forma atributiva). Essa é a forma conectiva de `だ`.**
 
 -   Como funcionam como substantivos, o `な` é como uma substituição da partícula `の`.
 -   Às vezes `の` é utilizado com adjetivos. `の` categoriza um substantivo, enquanto `な` descreve um substantivo
@@ -89,7 +89,7 @@
     <tr>
         <th>Forma condicional</th>
         <td>ければ</td>
-        <td>ならば・であれば</td>
+        <td>なら（ば）・であれば</td>
     </tr>
     <tr>
         <th>Forma aparente</th>
@@ -108,6 +108,9 @@
 > [!NOTE]
 > A forma condicional `であれば` vem de `である`, que antes de `だ・です` era usada como cópula.
 
+> [!NOTE]
+> Ao conectar adjetivos な com `で`, o `な` só deve ser utilizado no último adjetivo.
+
 -   A forma de substantivo objetiva é utilizada para expressar substantivos mensuráveis.
     -   É similar ao sufixo inglês "-ness".
     -   Também pode ser usada para substantivos subjetivos, tratando-os como verdades universais.
@@ -121,3 +124,5 @@
 -   Na forma aparente, troca-se o radical negativo `ない` por `なさそう`.
     -   Para adjetivos い também pode-se usar como alternativa a forma aparente positiva + `じゃない`, semelhante a um adjetivo な
 -   Quando algum adjetivo se refere a uma emoção, ele só pode ser usado para falar de si. Para se referir a outra pessoa, remove-se o `い` e adiciona-se o verbo auxiliar `がる`.
+-   Para dizer "o (adjetivo)" (Ex.: "o vermelho"), usa-se a forma atributiva + `の`. Ex.: `赤いの...` "O vermelho..."; `カラフルなの...` "O colorido...".
+-   A forma condicional dos adjetivos `な` também pode ser utilizada com substantivos.

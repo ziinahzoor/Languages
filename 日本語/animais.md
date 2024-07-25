@@ -43,3 +43,4 @@
 -   `きりん` Girafa
 -   `うさぎ` Coelho
 -   `やぎ` Cabra
+-   `ゴキブリ` Barata

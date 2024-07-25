@@ -54,6 +54,7 @@
     -   `En-dessous` Québécois
 -   `Extérieur` Exterior
 -   `Intérieur` Interior
+-   `À l'étranger` Fora do país/No exterior
 
 ### Les Directions - Direções
 
@@ -116,6 +117,7 @@
 -   `École` Escola
     -   `Lycée` Ensino médio
 -   `Cinéma` Cinema
+    -   `Ciné`
 -   `Parc` Parque
 -   `Zoo` Zoológico
 -   `Boulangerie` Padaria
@@ -132,12 +134,16 @@
 -   `Jardin` Jardim
 -   `Bureau` Escritório
 -   `Usine` Fábrica
+-   `Chemin` Caminho
 -   `Rue` Rua
 -   `Route` Estrada
+-   `Autoroute` Rodovia
+-   `Voie` Via/Trilho
 -   `Avenue` Avenida
 -   `Immeuble` Imóvel
 -   `Pont` Ponte
 -   `Salle de classe` Sala de aula
+-   `Salle de sport` Academia
 -   `Metro` Metrô
 -   `Montagne` Montanha
 -   `Recéption` Recepção
@@ -152,13 +158,33 @@
 -   `Arrondissement` Distrito
 -   `Quartier` Bairro
 -   `Hôtel de ville` Prefeitura
--   `Place` Praça/Local
+-   `Place` Praça/Local/Lugar (público ou ocupado por algo)
+-   `Lieu` Lugar (geral)
+-   `Endroit` Lugar (específico)
 -   `Cathédrale` Catedral
 -   `Capitale` Capital
 -   `Centre-ville` Centro
 -   `Bar`
+-   `Stade` Estádio
+-   `Alpe` Alpe (F)
+-   `Bureau de change` Casa de câmbio
+-   `Boîte de nuit` Boate
+-   `Île` Ilha
+-   `Garage` Garagem (M)
+-   `Parking` Estacionamento
+-   `Temple` Templo
+-   `Synagogue` Sinagoga
+-   `Mosquée` Mesquita
+-   `Entrée` Entrada
+-   `Scène` Palco
+-   `Théâtre` Teatro
+-   `Trottoir` Calçada
 
-## Paris
+## France - França
+
+-   `Pyrénées` Pirineus
+
+### Paris
 
 -   `Seine` Sena (F)
 -   `Arc de Triomphe` Arco do Triunfo

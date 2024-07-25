@@ -5,6 +5,7 @@
 -   `Pero` Mas
 -   `Que`
 -   `Pues` Bem/Pois
+-   `Si` Se
 
 # Interjeições
 

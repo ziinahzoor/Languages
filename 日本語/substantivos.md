@@ -13,7 +13,7 @@
 -   `ラン` Orquídea
 -   `ひかり` Luz
 -   `ホコリ` Poeira
--   `はな` Flor
+-   <font size="5"><code><ruby>花<rt>はな</rt></ruby></code></font> Flor
 -   <font size="5"><code><ruby>川<rt>かわ</rt></ruby></code></font> Rio
 -   `いけ` Lagoa
 -   `みずうみ` Lago
@@ -23,6 +23,7 @@
 -   `さくら` Flor de cerejeira
 -   <font size="5"><code><ruby>雨<rt>あめ</rt></ruby></code></font> Chuva
 -   <font size="5"><code><ruby>空<rt>そら</rt></ruby></code></font> Céu
+-   `かぜ` Vento
 
 ### Materiais
 
@@ -38,18 +39,22 @@
 -   `れいぞうこ` Geladeira
 -   `カップ` Xícara
 -   `フォーク` Garfo
+-   `スプーン` Colher
 -   `はし` Pauzinhos
 -   `マグカップ` Caneca
+-   `ちゃわん` Tigela
 
 ### Banheiro
 
 -   `タオル` Toalha
 -   `シャワー` Chuveiro
 -   <font size="5"><code>お<ruby>風<rt>ふ</rt>呂<rt>ろ</rt></ruby></code></font> Banho/Banheira
+-   `シャンプー` Xampu
 
 ### Sala de estar
 
 -   `ソファ` Sofá
+-   `カーペット` Carpete
 
 ### Quarto
 
@@ -78,9 +83,11 @@
 -   <font size="5"><code><ruby>本<rt>ほん</rt></ruby></code></font> Livro
     -   <font size="5"><code><ruby>絵<rt>え</rt>本<rt>ほん</rt></ruby></code></font> Livro ilustrado
 -   `ざっし` Revista
+-   `ゴミ` Lixo
 -   `ゴミばこ` Lata de lixo
 -   `かいだん` Escada
 -   `コインロッカー` Armário de armazenamento
+-   <font size="5"><code><ruby>棚<rt>たな</rt></ruby></code></font> Prateleira
 -   <font size="5"><code><ruby>本<rt>ほん</rt>棚<rt>だな</rt></ruby></code></font> Estante
 -   `テーブル` Mesa
 -   <font size="5"><code><ruby>机<rt>つくえ</rt></ruby></code></font> Escrivaninha
@@ -107,6 +114,17 @@
 -   `にんぎょう` Boneca
 -   `キーホルダー` Chaveiro
 -   `ケース` Caixa/Estojo/Capa
+-   `ボタン` Botão
+-   `ひきだし` Gaveta
+-   `もん` Portão
+-   `ドア` Porta
+-   `かぐ` Móvel
+-   `かびん` Vaso
+-   `カーテン` Cortina
+-   `たばこ` Cigarro
+-   `ひやけどめ` Protetor solar
+-   `ストロー` Canudo
+-   `デコレーション` Decoração
 
 ## Elétricos e Eletrônicos
 
@@ -114,6 +132,7 @@
 -   `コンセント` Tomada
 -   `ナビ` GPS
 -   <font size="5"><code><ruby>電<rt>でん</rt>話<rt>わ</rt></ruby></code></font> Telefone
+-   `けいたい` Celular
 -   `スマホ` Smartphone
 -   `タブレット` Tablet
 -   `パソコン` Computador
@@ -134,6 +153,7 @@
 -   `レジ` Caixa registradora
 -   `アラーム` Alarme
 -   `リモコン` Controle remoto
+-   `でんき` Lâmpada
 
 ### Computação
 
@@ -141,6 +161,7 @@
 -   `メール` Email
 -   `ゲーミング` Gaming
 -   `ワイヤレス` Wireless
+-   `サイト` Site
 
 ## Abstratos
 
@@ -167,7 +188,7 @@
 -   `ファッション` Fashion
 -   <font size="5"><code><ruby>違<rt>ちが</rt>い</ruby></code></font> Diferença
 -   <font size="5"><code><ruby>言<rt>げん</rt>語<rt>ご</rt></ruby></code></font> Linguagem/Idioma
--   `にんき` Popular/Popularidade
+-   <font size="5"><code><ruby>人<rt>にん</rt>気<rt>き</rt></ruby></code></font> Popular/Popularidade
 -   `けしき` Visão/Vista
 -   `ぜんぶ` Total/Totalidade
 -   `パスワード` Senha
@@ -188,29 +209,46 @@
 -   `しょうかい` Introdução/Apresentação
 -   <font size="5"><code><ruby>空<rt>から</rt></ruby></code></font> Vazio/Nada
     -   <font size="5"><code><ruby>空<rt>から</rt></ruby>っぽ</code></font> Vazio (como um adjetivo)
+-   `ブランド` Marca
+-   `サイズ` Tamanho
+-   `せいかつ` Vida (Diária)
+-   `レシピ` Receita
+-   `てづくり` Feito à mão/Artesanal
+-   `よやく` Reserva/Consulta/Compromisso
+-   `ストレス` Estresse
+-   `きず` Machucado/Ferida/Corte
+-   `やつ` Coisa
+-   `ほか` Outro
+-   `れつ` Linha/Fila
+-   `シーン` Cena
+-   `もんだい` Problema
+-   `おごり` Agrado
+-   `あいさつ` Cumprimento
+-   `ジャンル` Gênero
 
-#### Condições
+### Condições
 
 -   `ぐあい` Condição/Saúde
--   `風邪` Resfriado
+-   <font size="5"><code><ruby>風邪<rt>かぜ</rt></ruby></code></font> Resfriado
 -   `アレルギー` Alergia
 -   `ねつ` Febre
 -   `しんぱい` Preocupação
 -   `どりょく` Esforço
+-   `インフルエンザ` Gripe
 
-### Hotel
+## Hotel
 
--   `よやく` Reserva
 -   `チェックイン` Check-in
 -   `チェックアウト` Check-out
 -   `ルームサービス` Serviço de quarto
 
-### Medidas
+## Medidas
 
 -   `インチ` Polegada
 -   `センチ` Centímetro
+-   `グラム` Grama
 
-### Gêneros
+## Gêneros
 
 -   `フィクション` Ficção
 -   `ノンフィクション` Não-ficção
@@ -235,16 +273,16 @@
 -   `レジぶくる` Sacola
 -   `グッズ` Produto
 -   `やたい` Barraca de comida
+-   `ポストカード` Cartão postal
+-   `おみやげ` Lembrancinha
+-   `クレジットカード` Cartão de crédito
+-   `プレゼント` Presente
 
 ## Viagem e Transporte
 
 -   `きっぷ` Passagem (Trem, Ônibus)
 -   `チケット` Passagem (Avião)
 -   `パスポート` Passaporte
--   `ポストカード` Cartão postal
--   `おみやげ` Lembrancinha
--   `クレジットカード` Cartão de crédito
--   `プレゼント` Presente
 
 ### Veículos
 
@@ -257,7 +295,9 @@
 -   `ひこうき` Avião
 -   <font size="5"><code><ruby>車<rt>くるま</rt></ruby></code></font> Carro
     -   `タイヤ` Pneu
+-   `リムジン` Limusine
 -   `じてんしゃ` Bicicleta
+-   `バイク` Moto
 -   `ふね` Navio
 
 ## Atividades
@@ -267,23 +307,24 @@
 -   `ミーティング` Reunião
 -   `りょこう` Viagem
 -   `かんこう` Passeio turístico
--   `じゅぎょう` Aula
 -   `イベント` Evento
 -   `マラソン` Maratona
 -   `ハイキング` Caminhada
 -   `キャンプ` Acampamento
 -   `ヨガ` Yoga
 -   `しごと` Trabalho
--   `べんきょう` Estudo
--   `そつぎょう` Graduação
--   `レッスン` Lição
+    -   `アルバイト` Trabalho de meio-período
+        -   `バイト`
+-   `レポート` Relatório
+-   `かだい` Tarefa
+    -   Possui contexto mais amplo que `しゅくだい`, podendo ser utilizado no trabalho e em outras situações.
+    -   No contexto escolar, é mais utilizado no ensino médio e superior.
 -   `ようじ` Tarefas (Coisas pra fazer)
--   `しゅくだい` Tarefa de casa
 -   `かじ` Tarefas (da casa)
 -   `そうじ` Limpeza
 -   `せんたく` Lavanderia
 -   `ストレッチ` Alongamento
--   `りょうり` Culinária
+-   <font size="5"><code><ruby>料<rt>りょう</rt>理<rt>り</rt></ruby></code></font> Culinária
 -   `ガーデニング` Jardinagem
 -   <font size="5"><code><ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby></code></font> Compras
 -   `ほんやく` Tradução
@@ -303,11 +344,9 @@
 -   `パフォーマンス` Atuação
 -   `ブログ` Blog
 -   `きじ` Artigo/Publicação
--   `せんこう` Curso (Major)
--   `すうがく` Matemática
--   `れきし` História
 -   `チェス` Xadrez
 -   `サークル` Clube
+    -   Vem de "círculo"
 -   `たんじょうび` Aniversário
 -   `かぶき` Kabuki (Teatro japonês)
 -   `ドラマ` Drama/Novela
@@ -320,6 +359,41 @@
 -   <font size="5"><code><ruby>食<rt>た</rt></ruby>べほうだい</code></font> Self-service/Rodízio
 -   <font size="5"><code><ruby>花<rt>はな</rt>見<rt>み</rt></ruby></code></font> Assistir o desabrochar das sakuras
 -   `さんぽ` Passeio
+-   `SNS` Rede social
+-   `こうこく` Propaganda
+-   `すいえい` Nado
+-   `けんか` Briga
+-   `えんぎ` Atuação
+-   `アプリ` Aplicativo
+-   `きんトレ` Musculação
+-   `サイクリング` Ciclismo
+-   `サーフィン` Surf
+-   `けっこんしき` Casamento
+-   `スピーチ` Discurso
+-   `ボウリング` Boliche
+-   `プログラミング` Programação
+
+### <ruby>学<rt>がっ</rt>校<rt>こう</rt></ruby> - Escola
+
+-   `レッスン` Lição
+-   `しゅくだい` Tarefa (Escolar)
+-   `じゅぎょう` Aula
+-   `べんきょう` Estudo
+-   `せんこう` Curso de Graduação (Major)
+-   `そつぎょう` Graduação
+-   `りゅうがく` Intercâmbio
+-   `せいせき` Notas
+-   `きょうかしょ` Livro-texto
+
+#### Áreas de Estudo
+
+-   `すうがく` Matemática
+-   `ぶんがく` Literatura
+-   `せいぶつがく` Biologia
+-   `けいざいがく` Economia
+-   `れきし` História
+-   `たいいく` Educação Física
+-   `びじゅつ` Arte
 
 ### スポーツ - Esporte
 
@@ -336,6 +410,9 @@
 -   `スキー` Esqui
 -   `スノボ` Snowboarding
 -   `ミニゴルフ` Mini-golfe
+-   `たいかい` Torneio
+-   `ジョギング` Corrida
+-   `ボクシング` Boxe
 
 ## おんがく - Música
 

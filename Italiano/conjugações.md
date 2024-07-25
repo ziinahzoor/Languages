@@ -1,6 +1,6 @@
-# Conjugações
+# Le Coniugazioni - Conjugações
 
-## Presente do Indicativo
+## Il Presente dell'Indicativo - Presente do Indicativo
 
 <table>
     <thead>
@@ -41,7 +41,7 @@
     </tr>
 </table>
 
-### Verbos irregulares
+### I Verbi Irregolari - Verbos Irregulares
 
 | Pronome | Essere | Avere   | Andare  | Fare     |
 | ------- | ------ | ------- | ------- | -------- |

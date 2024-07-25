@@ -100,6 +100,7 @@
 </table>
 
 -   O indireto sempre deve vir antes do direto na frase.
+-   Quando há um verbo composto (dois verbos), os oblíquos podem vir antes do primeiro ou adicionados como sufixo no segundo (no infinitivo).
 -   `Le` e `les` se tornam `se` antes de `lo`, `la`, `los` e `las`.
 -   Com a preposição `con` os pronomes `mí`, `ti` e `sí` se tornam `conmigo`, `contigo` e `consigo`.
 
@@ -119,6 +120,7 @@
 
 -   `Qué` O que
 -   `Quién` Quem
+    -   `Quiénes` Plural
 -   `Cuál` Qual
 -   `Cuántos` Quantos
 

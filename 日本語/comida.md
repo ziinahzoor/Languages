@@ -39,7 +39,8 @@
 -   <font size="5"><code><ruby>野<rt>や</rt>菜<rt>さい</rt></ruby></code></font> Vegetal
 -   `ソース` Molho
 -   `なま` Cru/Fresco/Natural
--   `フライドチキン` Frango frito
+-   `チキン` Frango
+    -   `フライドチキン` Frango frito
 -   `フライドポテト` Batata frita
 -   `ポテトチップス` Chips de batata
 -   `バニラ` Baunilha
@@ -57,10 +58,29 @@
 -   `なべ` Ensopado
 -   `チーズ` Queijo
 -   `ハンバーガー` Hambúrguer
+-   `ハンバーグ` Hambúrguer (Carne)
 -   `わたあめ` Algodão-doce
 -   `きのこ` Cogumelo
+-   `たまねぎ` Cebola
+-   `シチュー` Ensopado
+-   `じゃがいも` Batata
+-   `さとう` Açúcar
+-   `こむぎこ` Farinha
+-   `シリアル` Cereal
+-   `あめ` Doce
+-   `にんじん` Cenoura
+-   `ヨーグルト` Iogurte
+-   `かきこおり` Raspadinha
+-   `オムライス` Arroz envolto com omelete
+-   `レタス` Alface
+-   `きゅうり` Pepino
+-   `ドレッシング` Molho
+-   `ソーセージ` Linguiça
+-   `ブロッコリー` Brócolis
+-   `マヨネーズ` Maionese
+-   `キャラメル` Caramelo
 
-## Frutas
+## <ruby>果<rt>くだ</rt>物<rt>もの</rt></ruby> - Frutas
 
 -   `すいか` Melancia
 -   `ナシ` Pera
@@ -71,9 +91,12 @@
 -   `もも` Pêssego
 -   `みかん` Tangerina
 -   `バナナ` Banana
+-   `レモン` Limão
+-   `ぶどう` Uva
 
-## Bebidas
+## <font size="5"><code><ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby></code></font> Bebidas
 
+-   <font size="5"><code>お<ruby>酒<rt>さけ</rt></ruby></code></font> Álcool
 -   <font size="5"><code><ruby>水<rt>みず</rt></ruby></code></font> Água
 -   <font size="5"><code>お<ruby>茶<rt>ちゃ</rt></ruby></code></font> Chá (verde)
     -   `こう茶` Chá preto
@@ -178,3 +201,7 @@
     -   `ランチ`
 -   <font size="5"><code><ruby>晩<rt>ばん</rt>ご<rt></rt>飯<rt>はん</rt></ruby></code></font> Jantar
 -   `しょくじ` Refeição
+-   `メイン` Prato principal
+-   <font size="5"><code><ruby>揚<rt>あ</rt></ruby>げ<ruby>物<rt>もの</rt></ruby></code></font> Comida frita
+-   `ファストフード` Fast-food
+-   `ようしょく` Comida ocidental

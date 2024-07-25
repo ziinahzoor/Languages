@@ -24,6 +24,12 @@
 -   `Masa` Massa
 -   `Salsa` Molho (F)
 -   `Vainilla` Baunilha
+-   `Galleta` Biscoito
+-   `Cereal`
+-   `Paella` Arroz, carne e verduras
+-   `Aceite` Óleo
+-   `Verdura`
+-   `Dulce` Doce
 
 ## Las Frutas
 
@@ -32,8 +38,9 @@
 -   `Banana`
 -   `Plátano`
 -   `Tomate`
+-   `Mango` Manga (M)
 
-## Los Vegetales
+## Los Vegetales - Verduras
 
 -   `Patata` Batata
     -   `Papa`
@@ -50,9 +57,18 @@
 -   `Batido` Milkshake
 -   `Té` Chá
 -   `Cerveza` Cerveja
+-   `Alcohol` Álcool
+-   `Champán` Champanhe
+-   `Refresco` Refrigerante
 
 ## Refeições
 
 -   `Desayuno` Café da manhã
 -   `Almuerzo` Almoço
 -   `Cena` Janta
+
+## Comidas Típicas
+
+### Pratos Espanhóis
+
+-   `Paella` Arroz, carne e verduras

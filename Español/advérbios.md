@@ -46,3 +46,11 @@
 -   `De vez en cuando` De vez em quando
 -   `Frecuentemente` Frequentemente
 -   `Generalmente` Geralmente
+-   `Jamás` Jamais
+-   `Tampoco` Tampouco/Nem
+-   `A lo mejor` Talvez
+-   `Desafortunadamente` Infelizmente
+-   `Donde` Onde
+-   `Lentamente`
+-   `Excepto` Exceto
+-   `Probablemente` Provavelmente

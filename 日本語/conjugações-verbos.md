@@ -19,6 +19,9 @@
     -   Nos outros casos, para achar o verbo complementar, basta usar o radical `え` + `る`.
 -   O não-passado geralmente se refere ao futuro ao invés do presente.
 
+> [!NOTE]
+> Apenas `死ぬ` termina em `ぬ`. Nenhum verbo termina em `ず`, `ふ`, `ぷ` e `ゆ`.
+
 **Os destaques mostram o radical kana dos verbos godan.**
 
 <table>
@@ -54,7 +57,7 @@
     </thead>
     <tr>
         <th>Afirmativa</th>
-        <td>た・だ <code>＊</code></td>
+        <td>た・だ <code>◆</code></td>
         <td>ました</td>
     </tr>
     <tr>
@@ -65,7 +68,7 @@
 </table>
 
 > [!IMPORTANT]
-> ＊Usa a forma た do verbo.
+> ◆ Usa a forma た do verbo.
 
 ## <ruby>活<rt>かつ</rt>用<rt>よう</rt>形<rt>けい</rt></ruby> - Bases verbais
 
@@ -170,7 +173,7 @@
 
 -   `れば` para verbos ichidan.
 -   Exceções:
-    -   `〜ない` → `なければ` (Reduzido coloquialmente para `なきゃ` ou `なくちゃ`)
+    -   `〜ない` → `〜なければ` (Reduzido coloquialmente para `なきゃ` ou `なくちゃ`)
 -   Torna a ação do verbo uma condição para o que vem a seguir na frase. Ex.: `見れば分かる` "Se você ver, você vai entender"
 
 #### <ruby>可<rt>か</rt>能<rt>のう</rt>形<rt>けい</rt></ruby> - Forma potencial
@@ -281,9 +284,6 @@
     </tr>
 </table>
 
-> [!IMPORTANT]
-> Apenas `死ぬ` termina em `ぬ`.
-
 #### た<ruby>形<rt>けい</rt></ruby> - Forma た
 
 **Também chamada de <ruby>過<rt>か</rt>去<rt>こ</rt>形<rt>けい</rt></ruby> (Pretérito) ou <ruby>完<rt>かん</rt>了<rt>りょう</rt>形<rt>けい</rt></ruby> (Tempo perfeito/Pretérito perfeito)**
@@ -309,7 +309,9 @@
 
 ##### Forma て+いる
 
--   É como se forma o gerúndio.
+-   Forma continuativa e resultiva.
+-   É como se forma o gerúndio (continuativa) e também indica o estado causado por algum verbo (resultativa).
+    -   No último caso, é como se transformassemos o verbo em um adjetivo (algo está...ado/ido). Ex.: `水を飲んでいます` pode ser tanto "Estou bebendo água" quanto "A água está bebida (por mim)". Nestes casos, o sentido é dado pelos advérbios, como `もう` indicaria o último caso.
 -   Ou "fiz algo e continuo fazendo/estando assim".
 -   Também deve ser usada para verbos que indicam mudança instantânea de estado, como desligar e morrer. Descreve o resultado de uma mudança.
 -   Se usada com `もう` e `まだ`, indica que algo já aconteceu ou ainda não aconteceu, respectivamente.
@@ -355,6 +357,7 @@
 ##### にする
 
 -   Transformar algo em outra coisa. Contraparte transitiva do verbo `なる`.
+-   Decidir sobre algo.
 
 ##### とする
 

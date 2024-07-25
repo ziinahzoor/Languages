@@ -1,7 +1,6 @@
 # Le Corps - Corpo
 
 -   `Tête` Cabeça
-    -   `Cerveau` Cérebro
     -   `Cheveu` Cabelo
     -   `Visage` Rosto
         -   `Front` Testa
@@ -13,6 +12,7 @@
         -   `Bouche` Boca
             -   `Dent` Dente (F)
         -   `Barbe` Barba
+-   `Ventre` Barriga (M)
 -   `Dos` Costas (M)
 -   `Bras` Braço
     -   `Main` Mão
@@ -20,4 +20,9 @@
 -   `Jambe` Perna
     -   `Genou` Joelho
     -   `Pied` Pé
+
+## Internos
+
+-   `Cerveau` Cérebro
+-   `Estomac` Estômago
 -   `Sang` Sangue

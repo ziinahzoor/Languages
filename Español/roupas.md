@@ -16,8 +16,10 @@
 -   `Reloj` Relógio
 -   `Cartera` Carteira
 -   `Gafas` Óculos (F)
+    -   `Gafas de sol` Óculos de sol
 -   `Lentes` Óculos (M)
 -   `Botas`
 -   `Vaqueros` Calças jeans
 -   `Bolsa`
 -   `Chal` Xale
+-   `Traje de baño` Traje de banho

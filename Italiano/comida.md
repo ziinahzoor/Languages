@@ -1,12 +1,28 @@
-# Comida
+# I Cibi - Comida
 
+-   `Insalata` Salada
 -   `Zucchero` Açúcar
 -   `Gelato` Sorvete
 -   `Cornetto` Croissant
+-   `Pollo` Frango
+-   `Torta` Bolo/Torta
+-   `Riso` Arroz
+-   `Pasta` Massa
+-   `Dolce` Doce
+-   `Bistecca` Bife (F)
+-   `Carne`
+-   `Gelato` Sorvete
 
-## Bebidas
+## Le Bevande - Bebidas
 
+-   `Acqua` Água
 -   `Caffè` Café
     -   `Cappuccino`
 -   `Tè` Chá
 -   `Latte` Leite
+-   `Frullato` Milkshake
+
+## I Pasti - Refeições
+
+-   `Antipasto` Entrada
+-   `Dessert` Sobremesa

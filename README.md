@@ -2,6 +2,9 @@
 
 **Repositório dedicado ao aprendizado de diversas linguagens reais e fictícias, contendo regrais gramaticais, vocabulário, pronúncia, dicas, variações regionais e aspectos culturais dos países que as utilizam.**
 
+> [!IMPORTANT]
+> Os substantivos, adjetivos e outros elementos aqui em sua maior parte estão em sua forma masculina. Note também que, exceto quando explicitado através dos emojis ♂️ (masculino) ♀️ (feminino) ☯️ (neutro), os elementos seguem o mesmo gênero que possuem na tradução utilizada em português. Em linguagens que possuem outros gêneros, estes também são explicitados com emojis, como o Alto Valiriano.
+
 > [!TIP]
 > Vários sites, informações utilitárias e fontes de pesquisa estão disponíveis [aqui](utils.md)
 

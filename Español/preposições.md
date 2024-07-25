@@ -11,3 +11,5 @@
 -   `Hacia` Em direção a (Towards)/Por volta de
 -   `Sobre`
 -   `Entre`
+-   `Durante`
+-   `Hasta` Até

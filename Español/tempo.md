@@ -19,6 +19,8 @@
 -   `Ayer` Ontem
 -   `Hoy` Hoje
 -   `Anoche` Noite passada
+-   `Mediodía` Meio-dia
+-   `Medianoche` Meia-noite
 
 ## La Semaña - Semana
 
@@ -58,3 +60,11 @@
 -   `Verano` Verão
 -   `Otoño` Outono
 -   `Invierno` Inverno
+
+## Días Especiales - Dias Especiais
+
+-   `Acción de Gracias` Ação de Graças
+-   `Navidad` Natal (F)
+-   `Nochebuena` Véspera de Natal
+-   `Nochevieja` Véspera de Ano Novo
+-   `Año Nuevo` Ano Novo

@@ -1,14 +1,19 @@
 # Los Sustantivos - Substantivos
 
-## Natureza
+## La Naturaleza - Natureza
 
 -   `Planta`
 -   -   `Flor`
 -   `Río` Rio
+-   `Lago`
 -   `Viento` Vento
 -   `Sol`
 -   `Nieve` Neve
 -   `Árbol` Árvore (M)
+-   `Bosque` Floresta (M)
+-   `Hielo` Gelo
+-   `Mar`
+-   `Montaña` Montanha
 
 ## Casa e objetos
 
@@ -16,6 +21,8 @@
 -   `Mesa`
 -   `Taza` Xícara
 -   `Vaso` Copo
+-   `Copa` Taça
+-   `Tazón` Tigela/Caneca
 -   `Plato` Prato
 -   `Cuchara` Colher
 -   `Tenedor` Garfo
@@ -26,6 +33,7 @@
 -   `Dinero` Dinheiro
     -   `Efectivo` Espécie
 -   `Centavo`
+-   `Tarjeta` Cartão
 -   `Tarjeta de crédito` Cartão de crédito (F)
 -   `Cuenta` Conta
 -   `Camisa`
@@ -33,12 +41,15 @@
 -   `Regalo` Presente
 -   `Libro` Livro
 -   `Televisión` Televisão
+    -   `Televisor`
     -   `Tele` TV
 -   `Bolígrafo` Caneta (M)
 -   `Examen` Prova (M)
 -   `Computadora` Computador (F)
+-   `Portátil` Laptop
 -   `Menú` Cardápio
 -   `Silla` Cadeira
+-   `Sillón` Cadeirão/Poltrona
 -   `Retrato`
 -   `Videojuego` Videogame
 -   `Mostrador` Bancada (M)
@@ -74,12 +85,34 @@
 -   `Piso`
 -   `Pared` Parede
 -   `Ducha` Chuveiro (F)
+-   `Cómic` Quadrinho
+-   `Parrilla` Grelha
+-   `Lámpara` Lâmpada
+-   `Cafetera` Cafeteira
+-   `Mueble` Móvel
+-   `Alfombra` Carpete (F)
+-   `Estufa` Fogão
+-   `Cómoda` Cômoda
+-   `Espejo` Espelho
+-   `Lavadora` Máquina de lavar
+-   `Jabón` Sabão
+-   `Cigarrillo` Cigarro
+-   `Archivo` Arquivo
+-   `Documento`
+-   `Revista`
+-   `Máquina`
+-   `Cuaderno` Caderno
+-   `Prueba` Prova
+-   `Sortija` Aliança
+-   `Asiento` Assento
+-   `Paraguas` Guarda-chuva
+-   `Cajón` Gaveta (M)
 
 ## Abstratos
 
 -   `Cosa` Coisa
 -   `Reserva`
--   `Cita` Encontro (F)
+-   `Cita` Encontro/Compromisso (F)
 -   `Amor`
 -   `Cosa` Coisa
 -   `Idea` Ideia
@@ -127,22 +160,54 @@
 -   `Ruido` Barulho
 -   `Ejemplo` Exemplo
 -   `Suspenso` Suspense
+-   `Proyecto` Projeto
+-   `Reunión` Reunião
+-   `Broma` Piada
+-   `Descanso`
+-   `Tradición` Tradição
+-   `Casualidad` Coincidência
+-   `Especial`
+-   `Sorpresa` Surpresa
+-   `Recuerdo` Lembrança
+-   `Cuento` Conto
+-   `Aventura`
+-   `Premio` Prêmio
+-   `Luz`
+-   `Sofá`
+-   `Dolor` Dor
+-   `Salud` Saúde
+-   `Accidente` Acidente
+-   `Noticia` Notícia
+-   `Verdad` Verdade
+-   `Canal`
+-   `Anuncio` Anúncio
+-   `Sitio` Site
+-   `Kilómetro` Quilômetro
+-   `Idea` Ideia
+-   `Identificación` Identificação
+-   `Vuelo` Voo
 
 ## Transporte
 
 -   `Boleto` Passagem (M)
+-   `Equipaje` Bagagem
 -   `Taxi` Táxi
 -   `Tren` Trem
 -   `Autobús` Ônibus
 -   `Carro`
+    -   `Coche` Espanha
     -   `Baúl` Porta-malas
     -   `Motor`
 -   `Bicicleta`
     -   `Bici`
+-   `Motocicleta` Moto
 -   `Avión` Avião
 -   `Barco`
+-   `Patineta` Skate
+-   `Tranvía` Bonde
+-   `Helicóptero`
 
-## Atividades
+## Actividades - Atividades
 
 -   `Fiesta` Festa
 -   `Trabajo` Trabalho
@@ -153,6 +218,21 @@
 -   `Lección` Lição
 -   `Viaje` Viagem
 -   `Ajedrez` Xadrez
+-   `Espectáculo` Espetáculo
+-   `Juguete` Brinquedo
+-   `Juego de mesa` Jogo de tabuleiro
+-   `Internet`
+-   `Carrera` Corrida
+-   `Dibujo animado` Desenho animado
+-   `Guerra`
+
+### Áreas de Estudo
+
+-   `Gramática`
+-   `Historia`
+-   `Química`
+-   `Geografía`
+-   `Literatura`
 
 ### Esporte
 
@@ -161,11 +241,18 @@
 -   `Baloncesto` Basquete
     -   `Básquetbol`
     -   `Básquet`
+-   `Balonmano` Handebol
+-   `Vóleibol` Vôlei
 -   `Tenis` Tênis
 -   `Golf` Golfe
+-   `Ciclismo`
 
 ## Música
 
 -   `Canción` Música
+
+### Instrumentos
+
+-   `Violín` Violino
 
 ## Outros

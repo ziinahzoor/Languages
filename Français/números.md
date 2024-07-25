@@ -64,6 +64,8 @@
 -   `Huitième` Oitavo
 -   `Neuvième` Nono
 -   `Dixième` Décimo
+-   `Vingtième` Vigésimo
+-   `Vingt et unième` Vigésimo-primeiro
 -   `Dernier` Último
 
 ## L'Argent - Dinheiro

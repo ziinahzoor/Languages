@@ -4,16 +4,6 @@
 
 <table>
     <thead>
-        <tr>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-        </tr>
-    </thead>
     <tr>
         <th>Flexão</th>
         <th>Pessoa</th>
@@ -23,6 +13,7 @@
         <th>Oblíquo Indireto</th>
         <th>Possessivos</th>
     </tr>
+    </thead>
     <tr>
         <th rowspan="4">Singolare</th>
         <th>Prima</th>
@@ -77,3 +68,20 @@
         <td>Loro</td>
     </tr>
 </table>
+
+## Dimostrativi - Demonstrativos
+
+-   `Questo` Este
+-   `Ci` Aqui/Lá
+
+## Relativos
+
+-   `Chi` Que (Quem)
+
+## Indeterminati - Indeterminados
+
+-   `Qualcosa` Algo/Alguma coisa
+
+## Interrogativos
+
+-   `Cosa` O que

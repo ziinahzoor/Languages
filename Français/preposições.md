@@ -20,3 +20,6 @@
 -   `Le long de` Ao longo de
 -   `Au bout de` No fim de
 -   `Il y a` Há
+-   `Au lieu de` Ao invés de
+-   `Sauf` Exceto
+-   `En face de` Em frente a

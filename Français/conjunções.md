@@ -10,6 +10,7 @@
 
 # Interjections - Interjeições
 
+-   `Attention` Atenção
 -   `D'accord` Ok
 -   `Aïe` Ai/Au
     -   `Ouïe`

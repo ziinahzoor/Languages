@@ -1,5 +1,21 @@
 # Gli Avverbi - Advérbios
 
 -   `Sì` Sim
--   `No` Não
+-   `No` Não (Para respostas)
+-   `Non` Não
 -   `Vero` Verdade
+-   `Dove` Onde
+-   `Ecco` Aqui está
+-   `Quanto`
+-   `Molto` Muito
+-   `Troppo` Muito/Demais (Too much)
+-   `Poco` Pouco
+-   `Vicino` Próximo
+-   `Dietro` Atrás
+-   `Più` Mais
+-   `Perché` Por que/Por quê
+-   `Come` Como
+-   `Sotto` Embaixo
+-   `Solo` Só
+-   `In` Em
+-   `In ritardo` Atrasado

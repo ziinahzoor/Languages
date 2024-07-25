@@ -10,6 +10,7 @@
 -   <font size="5"><code><ruby>秒<rt>びょう</rt></ruby></code></font> Segundo
 -   <font size="5"><code><ruby>今<rt>いま</rt></ruby></code></font> Agora/Atual
     -   `今から` Agora mesmo
+-   `おととい` Anteontem
 -   <font size="5"><code><ruby>昨<rt>きの</rt>日<rt>う</rt></ruby></code></font> Ontem
 -   <font size="5"><code><ruby>今<rt>きょ</rt>日<rt>う</rt></ruby></code></font> Hoje
 -   <font size="5"><code><ruby>明<rt>あし</rt>日<rt>た</rt></ruby></code></font> Amanhã
@@ -25,6 +26,7 @@
 -   <font size="5"><code><ruby>週<rt>しゅう</rt></ruby></code></font> Semana
 -   <font size="5"><code><ruby>週<rt>しゅう</rt>末<rt>まつ</rt></ruby></code></font> Fim de semana
 -   <font size="5"><code><ruby>月<rt>つき</rt></ruby></code></font> Mês
+-   `がっき` Semestre (Acadêmico)
 -   <font size="5"><code><ruby>年<rt>ねん</rt></ruby></code></font> Ano
 -   <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Antes
     -   <font size="5"><code><ruby>～の前</ruby></code></font> Antes de
@@ -32,8 +34,10 @@
 -   <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font> Depois
     -   <font size="5"><code><ruby>～の後</ruby></code></font> Depois de
     -   É um substantivo, não um advérbio.
+-   `これから` De agora em diante
 -   `さいご` Último
 -   `ひま` Tempo livre
+-   <font size="5"><code><ruby>時<rt>とき</rt></ruby></code></font> Momento/Ocasião/Quando
 
 ### Prefixos
 

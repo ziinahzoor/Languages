@@ -13,6 +13,12 @@
 -   `Cerdo` Porco
 -   `Búho` Coruja (M)
 -   `Pez` Peixe
+-   `Conejo` Coelho
+-   `Elefante`
+-   `Oso`
+-   `Oveja` Ovelha
+
+## Los Insectos - Insetos
 
 ## Relacionado
 

@@ -26,10 +26,12 @@
 -   `Guapo` Bonito (Pessoas)
 -   `Perfecto` Perfeito
 -   `Interesante` Interessante
+-   `Interesado` Interessado
 -   `Cansado`
 -   `Diferente`
 -   `Demasiado` Muito (Too much)
 -   `Cómodo` Confortável
+-   `Confortable` Confortável
 -   `Favorito`
 -   `Posible` Possível
 -   `Fácil`
@@ -47,7 +49,9 @@
 -   `Bajo` Baixo
 -   `Importante`
 -   `Delicioso`
--   `Listo` Pronto
+-   `Listo` Pronto (Com `estar`)
+    -   Inteligente (Com `ser`)
+-   `Verde` Imaturo
 -   `Ocupado`
 -   `Aburrido` Entediante
 -   `Divertido`
@@ -58,7 +62,8 @@
 -   `Famoso`
 -   `Emocionante`
 -   `Emocionada`
--   `Enojado` Com raiva
+-   `Enojado` Com raiva (América Latina)
+    -   `Enfadado` Espanha
 -   `Nervioso` Nervoso
 -   `Sorprendido` Surpreendido
 -   `Último`
@@ -86,7 +91,8 @@
 -   `Picante`
 -   `Lento`
 -   `Ligero` Leve
--   `Seguro`
+-   `Seguro` (Com `ser`)
+    -   Certo (Com `estar`)
 -   `Cercano` Próximo
 -   `Final`
 -   `Pasado` Passado/Último
@@ -101,3 +107,36 @@
 -   `Cansadísimo` Cansadíssimo
 -   `Dificilísimo` Dificílimo
 -   `Facilísimo` Facílimo
+-   `Buenísimo` Muito bom
+-   `Malísimo` Muito mal
+-   `Disponible` Disponível
+-   `Tranquilo`
+-   `Amable` Amável
+-   `Asado` Assado
+-   `Estupendo`
+-   `Lleno` Cheio
+-   `Vegetariano`
+-   `Saludable` Saudável
+-   `Extra`
+-   `Excelente`
+-   `Genial` Legal/Excelente
+-   `Pálido`
+-   `Semanal`
+-   `Correcto` Correto
+-   `Fuerte` Forte
+-   `Rápido`
+-   `Útil`
+-   `Pesado`
+-   `Varios` Vários
+-   `Solo` Sozinho
+-   `Agradable` Agradável
+-   `Loco` Louco
+-   `Enfadado` Bravo/Enraivecido
+-   `Satisfecho` Satisfeito
+-   `Casado`
+-   `Soleado` Ensolarado
+-   `Mojado` Molhado
+-   `Seca`
+-   `Fresco`
+-   `Roto` Quebrado
+-   `Vacío` Vazio

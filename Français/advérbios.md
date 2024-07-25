@@ -7,9 +7,10 @@
     -   Geralmente usado com adjetivos.
 -   `Beaucoup` Muito (Much)
     -   Geralmente usado com verbos.
--   `Trop` Muito (Too much)
+-   `Trop` Muito/Demais (Too much)
     -   Costuma indicar excessos.
 -   `Plein de` Cheio/Repleto
+    -   "Muitos/Bastante/O bastante", quando se refere a coisas quantificáveis.
 -   `Oui` Sim
     -   `Si` Para frases negativas.
 -   `Non` Não (Para respostas)
@@ -43,7 +44,6 @@
 -   `Avoir tort` Não ter razão
 -   `Vite` Rapidamente
 -   `Rapidement` Rapidamente
--   `D'abord` Primeiramente
 -   `En fait` Na verdade
 -   `Seulement` Somente/Apenas
 -   `Peut-être` Talvez
@@ -57,11 +57,22 @@
 -   `Déjà` Já
 -   `Presque` Quase/Perto de
 -   `Tout de suite` Na hora/Imediatamente
+-   `Heureusement` Felizmente
 -   `Malheureusement` Infelizmente
 -   `Quand même` Mesmo assim
 -   `À l'étage` Lá em cima
 -   `Sur Internet` Online
 -   `Probablement` Provavelmente
+-   `En avance` Antecipadamente
+-   `Soudain` De repente/Subitamente
+-   `Facilement` Facilmente
+-   `Rarement` Raramente
+-   `Certainement` Certamente
+-   `Partout` Em todo lugar
+-   `N'importe où` Em qualquer lugar
+-   `Au coin de` Na esquina de
+-   `Récemment` Recentemente
+-   `Comment` Como
 
 ## Os Porquês
 

@@ -9,7 +9,7 @@
 -   `が` Sujeito
 -   `の` Posse, Caracterização
     -   Também pode ser marcador paralelo, finalizadora e paralela.
-    -   Também pode substituir a partícula `か` em perguntas, dando um tom mais informal e suave. Adjetivos `な` devem utilizar o sufixo.
+    -   Também pode substituir a partícula `か` em perguntas, dando um tom mais informal e suave. Adjetivos `な` e substantivos devem utilizar o sufixo `な`.
     -   Funciona como o apóstofre em inglês.
 -   `を` Marcador de objeto direto (Acompanha o objeto direto e é seguido por um verbo transitivo).
 -   `に` Localização temporal e espacial, Propósito, Transformação, Marcador de objeto indireto e agente passivo, Frequência (Por).
@@ -26,12 +26,13 @@
     -   `にて` Formal
     -   Indica meio, lugar, total, tempo, custo, escopo, do que é feito, causa.
     -   Usado para indicar de que maneira se vai a algum lugar. Ex.: De avião, de ônibus...
--   `と` E/Com (Exclusivo), Marcador de citação
+-   `と` E/Com (Exclusivo), Ou, Marcador de citação, Condicional
     -   Partícula não-lógica.
     -   Também pode ser marcador paralelo.
     -   Pode-se usar após dois substantivos para compará-los de alguma forma.
     -   Se usado após um verbo, indica que esta ação é uma condição para outra coisa
     -   Deve ser usado após aspas para indicar uma citação.
+    -   Se usado entre duas frases, indica uma condição lógica. A segunda frase é um resultado absoluto da primeira.
 -   `から` Desde/Porque/Devido
     -   Também é uma partícula conjuntiva e frasal.
     -   Determina que a primeira frase é uma razão para a segunda.
@@ -41,7 +42,10 @@
 
 -   `か` Interrogação
     -   Também pode ser finalizadora.
-    -   `` Interrogação com uma nuance de dúvida.
+    -   Também pode ser usado para mostrar que o que foi dito foi entendido, ou que está pensando no assunto. Ex.: `あ、ねこか` Ah, um gato.
+    -   Não pode ser utilizada com a cópula `だ`. Em conversas informais, deve-se omitir a cópula ou usar a partícula `の`.
+    -   Também pode indicar uma decisão pessoal ao ser usada com verbos na forma plana. Também funciona no volicional.
+    <!-- -   `` Interrogação com uma nuance de dúvida. -->
 -   `や` E (Não-exclusivo)
     -   Também pode ser finalizadora e conjuntiva.
     -   Quando os itens não completam o "todo", ou seja, para listar elementos de uma lista não-exaustiva.
@@ -70,6 +74,13 @@
 -   `まで` Até
     -   Indica até quando algo acontece.
 -   `だけ` Só/Somente
+    -   Limita o escopo do que foi dito antes.
+    -   Indica que não pode ser mais do que o declarado.
+-   `ばかり` Só/Apenas/Nada além de/Acabou de
+    -   Semelhante ao "just".
+    -   Quantidade ou Amplitude. Ex.: Estou apenas comendo.
+    -   Indica algo que acabou de acontecer.
+    -   Exclusividade.
 
 ## <ruby>係<rt>かかり</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> Partículas de ligação
 
@@ -95,6 +106,12 @@
     -   Mais forte que o `けど` e geralmente indica arrependimento.
 -   `けど` Mas/Apesar
     -   `けれども` Formal
+-   `たら` Partícula condicional
+    -   Gera uma condição que descreve que quando a primeira frase ocorre, a segunda também ocorrerá.
+    -   Geralmente é mais associada como "Quando... então..."
+    -   Também tem função "Se... então..."
+    -   Basta adicionar `ら` à forma `た` do verbo (ou passado do adjetivo `い`) ou `ったら` à substantivos e adjetivos `な`
+    -   Quando associada com uma conjugação no passado, é subentendido que a segunda frase é um evento inesperado.
 
 ## <ruby>準<rt>じゅん</rt>体<rt>たい</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> Partículas frasais
 

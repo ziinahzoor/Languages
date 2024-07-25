@@ -25,6 +25,7 @@
 -   `Russe` Russo
 -   `Tunisien` Tunisiano
 -   `Indien` Indiano
+-   `Suisse` Suiço
 
 ## Vocabulaire - Vocabulário
 
@@ -37,7 +38,7 @@
 -   `Long` Longo
 -   `Court` Curto
 -   `Préferé` Preferido
--   `Seul` Único
+-   `Seul` Único/Sozinho
 -   `Cher` Caro
 -   `Bon marché` Barato
 -   `Meilleur` Melhor
@@ -53,6 +54,7 @@
 -   `Heureux` Feliz
 -   `Triste`
 -   `Neuf` Novo (Condição)
+    -   `Tout neuf` Novo em folha
 -   `Nouveau` Novo (Pra mim)
     -   `Nouvel` Se começa com som de vogal
 -   `Nouvelle` Nova (Pra mim)
@@ -136,3 +138,46 @@
 -   `Absent` Ausente
 -   `Délicieux` Delicioso
 -   `Annulé` Cancelado
+-   `Magnifique` Maravilhoso/Magnífico
+-   `Grave` Sério/Grave
+-   `Mignon` Fofo
+-   `En ligne/Sur le web` Online
+-   `Numérique` Numérico/Digital
+-   `Portable` Portátil
+-   `Électrique` Elétrico
+-   `Crevé` Achatado/Furado
+-   `Quotidien` Diário/Cotidiano
+-   `Hebdomadaire` Semanal
+-   `Spécial` Especial
+-   `Déçu` Decepcionado
+-   `Gratuit` Gratuito
+-   `Salé` Salgado
+-   `Sucré` Doce/Açucarado
+-   `Vegan` Vegano
+-   `Vide` Vazio
+-   `Plein` Cheio
+-   `Bondé` Lotado
+-   `Frais` Fresco
+-   `Libre` Livre
+-   `Mondial` Mundial
+-   `Né` Nascido
+-   `Célibataire` Solteiro
+-   `Pressé` Apressado/Com pressa
+-   `En panne` Quebrado (Temporariamente)
+-   `Cassé` Quebrado
+-   `Bruyant` Barulhento
+-   `Mouillé` Molhado
+-   `Rond` Redondo
+-   `Carré` Quadrado
+-   `Fragile` Frágil
+-   `Disponible` Disponível
+-   `Pratique` Prático
+-   `Moderne` Moderno
+-   `Ridicule` Ridículo
+-   `Nul` Ruim
+-   `Horrible` Horrível
+-   `Classique` Clássico
+-   `Merveilleux` Maravilhoso
+-   `Furieux` Furioso
+-   `Étranger` Estrangeiro
+-   `Turistique` Turístico

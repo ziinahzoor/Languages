@@ -1,5 +1,8 @@
 # Las Conjugaciones - Conjugações
 
+> [!TIP]
+> Uma grande parte dos verbos pode ser transformada em adjetivos usando o particípio.
+
 ## El Presente del Indicativo - Presente do Indicativo
 
 <table>
@@ -69,7 +72,7 @@
 -   Formado pelo verbo `estar` + particípio do presente
 -   Em verbos reflexivos, o pronome pode vir antes de `estar` ou pode ser afixado no fim do gerúndio, sendo adicionado um acento agúdo na antepenúltima sílaba.
 
-### El Gerundio - Particípio do Presente
+### El Gerundio - Gerúndio
 
 <table>
     <thead>
@@ -190,6 +193,50 @@
     </tr>
 </table>
 
+## El Pretérito Perfecto Compuesto - Pretérito Composto
+
+-   Formado pelo verbo `haber` no presente do indicativo + Particípio.
+-   Tem uma nuance em que as ações são mais recentes do que no pretérito simples.
+
+### El Participio - Particípio
+
+<table>
+    <thead>
+        <tr>
+            <th>Radical do verbo</th>
+            <td>-ar</td>
+            <td>-er</td>
+            <td>-ir</td>
+        </tr>
+    </thead>
+    <tr>
+        <th>Radical do adjetivo</th>
+        <td>-ado</td>
+        <td colspan="2">-ido</td>
+    </tr>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Irregulares</th>
+            <td>Hacer</td>
+            <td>Decir</td>
+            <td>Poner</td>
+            <td>Escribir</td>
+            <td>Ver</td>
+        </tr>
+    </thead>
+    <tr>
+        <th>Conjugação</th>
+        <td>Hecho</td>
+        <td>Dicho</td>
+        <td>Puesto</td>
+        <td>Escrito</td>
+        <td>Visto</td>
+    </tr>
+</table>
+
 ## El Futuro Simple - Futuro do Indicativo
 
 <table>
@@ -236,7 +283,8 @@
 
 ## El Imperativo - Imperativo
 
--   Para `tú`, utilizar a conjugação da terceira pessoa do singular do indicativo. Em negativos, continuar com a segunda pessoa.
+-   Para `tú`, utilizar a conjugação da terceira pessoa do singular do indicativo. Em negativos, continuar com a segunda pessoa, mas no subjuntivo.
 -   Para `vos`, utilizar a conjugação da terceira pessoa do singular do indicativo com acento na última sílaba. O imperativo de `ir` é `andá`. Em negativos, usar a forma tú dos presente do subjuntivo.
+-   Para `nosotros`, é a mesma forma do subjuntivo.
 -   Para `usted` e `ustedes`, utilizar a conjugação da terceira pessoa do subjuntivo, no singular e plural, respectivamente.
 -   Para `vosotros`, trocar o "r" do infinitivo por `d`. Em reflexivos, trocar por `os`. Em negativos, usar a forma vosotros do presente do subjuntivo.

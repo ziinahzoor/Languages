@@ -4,10 +4,13 @@
     -   `うん`
     -   `ええ`
 -   `いいえ` Não
+    -   `いや・や` Mais utilizado
+    -   `いえ` Mais utilizado formalmente
     -   `ううん`
 -   `もちろん` Claro/Com certeza/Claramente
+-   `きっと` Certamente/Sem dúvidas
 -   `もう` Já
-    -   `もうすこし` Um pouco mais
+    -   <font size="5"><code>もう<ruby>少<rt>すこ</rt>し</ruby></code></font> Um pouco mais
     -   `もう一つ` Mais uma coisa/Mais um...
     -   `もういちど` Mais uma vez
     -   `もういちかい` Outra vez
@@ -15,11 +18,10 @@
 -   `まだ` Ainda
 -   `まだまだ` Ainda não
 -   `つぎ` Próximo (Ordem)
--   `ちかく` Próximo (Distância)/Perto
--   `とおく` Longe
--   `とても` Muito (Very)
+-   `とても` Muito (Intensidade)
 -   `あまり` Não muito (Geralmente usado com frases negativas, polar inverso de とても)
--   `たくさん` Muito (A lot)
+-   `たくさん` Muito (Quantidade)
+-   `たまに` Ocasionalmente/De vem em quando
 -   <font size="5"><code><ruby>時々<rt>ときどき</rt></ruby></code></font> Às vezes
 -   `よく` Frequentemente
     -   Quando diretamente antes do verbo, pode significar "bem, de maneira habilidosa, propriamente"
@@ -30,7 +32,7 @@
 -   `どのぐらい・どのくらい` Quanto (Tempo, distância)
 -   `いくつ` Quantos (Quantidade)
 -   `ちょっと` Um pouco (Pode ser usado pra recusar algo)
-    -   `すこし` Um pouco (Formal) (Pode ser usado para indicar hesitação)
+    -   <font size="5"><code><ruby>少<rt>すこ</rt>し</ruby></code></font> Um pouco (Formal) (Pode ser usado para indicar hesitação)
 -   `ひとりで` Sozinho
 -   `もうすぐ` Logo
 -   `ほんとうに` Realmente/Verdadeiramente
@@ -51,12 +53,23 @@
 -   `ゆっくり` Devagar/Sem pressa
 -   `ぜんぶ` Totalmente
 -   `とちゅう` No caminho
--   `こんど` Dessa vez/Da próxima vez/Outra hora
+-   `こんど` Da próxima vez/Outra hora/Dessa vez
+    -   <font size="5"><code><ruby>今<rt>こん</rt>回<rt>かい</rt></ruby></code></font> é mais utilizado para "dessa vez"
 -   `さいきん` Recentemente/Ultimamente
--   `けっこう` Satisfatoriamente/Bastante
+-   `けっこう` Satisfatoriamente/Bastante/Quase sempre
 -   <font size="5"><code><ruby>一<rt>いち</rt>日<rt>にち</rt>中<rt>じゅう</rt></ruby></code></font> O dia inteiro
 -   `ぜんぜん` Nem um pouco
 -   `かならず` Sempre (Sem exceção)/Certamente/Sem dúvidas
+-   `まあまあ` Mais ou menos/Razoável
+    -   Também serve para confortar alguém, como um "calma, calma". Para animais se usa `どうどう`
+-   `なるほど` Correto/De fato
+-   `ほとんど` Quase
+-   `しばらく` Por um tempo
+-   `どれぐらい` Quão longe/Quantas vezes
+-   `いちばん` O melhor/O mais...
+-   <font size="5"><code><ruby>半<rt>はん</rt>分<rt>ぶん</rt></ruby></code></font> Metade
+-   `ぜひ` Certamente/Com certeza
+    -   Possui um tom encorajador
 
 ## Auxiliares
 
@@ -76,6 +89,8 @@
 -   `ふわふわ` Fofinho/Macio
 -   `キラキラ` Brilhante
 -   `そろそろ` Logo logo
+-   `ベタベタ` Grudento
+-   `とろとろ` Fervilhante
 
 ### <ruby>擬<rt>ぎ</rt>容<rt>よう</rt>語<rt>ご</rt></ruby> Movimentos e gestos
 

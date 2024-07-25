@@ -117,6 +117,8 @@
 
 -   Se começa em vogal, `de` se torna `d'`
 
+-   Os pronomes diretos devem vir depois dos indiretos quando a frase usa os dois, exceto para `lui` e `leur`.
+
 > [!TIP]
 > O possessivo também pode ser formado por `à` + `tônico`.
 

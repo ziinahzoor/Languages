@@ -17,6 +17,8 @@
 -   `Oiseau` Pássaro
 -   `Ours` Urso
 -   `Aragnée` Aranha
+-   `Coq` Galo
+-   `Poule` Galinha
 
 ## Relacionado
 

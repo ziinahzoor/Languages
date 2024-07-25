@@ -9,6 +9,7 @@
 -   `Hombre` Homem
 -   `Doctor` Doutor
 -   `Médico`
+-   `Alumno` Aluno
 -   `Estudiante` Estudante
 -   `Maestro` Professor (Teacher)
 -   `Profesor` Professor
@@ -24,6 +25,23 @@
 -   `Jugador` Jogador
 -   `Salvavida` Salva-vidas
 -   `Vecino` Vizinho
+-   `Colega`
+-   `Chef` Chefe (de cozinha)
+-   `Compañero de cuarto` Colega de quarto
+-   `Compañero de clase` Colega de classe
+-   `Enfermero` Enfermeiro
+-   `Dentista`
+-   `Ingeniero` Engenheiro
+-   `Agricultor` Fazendeiro
+-   `Equipo` Equipe (M)/Time
+-   `Mecánico` Mecânico
+-   `Rey` Rei
+-   `Reina` Rainha
+-   `Artista`
+-   `Bailarín` Bailarino
+-   `Turista`
+-   `Pasajero` Passageiro
+-   `Invitado` Convidado
 
 ## La Familia - Família
 
@@ -34,6 +52,7 @@
 -   `Hijo` Filho
 -   `Hermano` Irmão
 -   `Abuelo` Avô
+    -   `Abuelito` Vovô
 -   `Abuela` Avó
 -   `Nieto` Neto
 -   `Marido`
@@ -41,3 +60,4 @@
 -   `Esposa`
 -   `Novio` Namorado
     -   `Exnovio` Ex-namorado
+-   `Primo`

@@ -3,7 +3,7 @@
 -   `Pelo`
 -   `Cabeza` Cabeça
     -   `Cabello` Cabelo
-        -   `Canas` Cabelo grisalho
+        -   `Cana` Cabelo grisalho (F)
     -   `Cara` Rosto
     -   `Ojo` Olho
     -   `Oreja` Orelha
@@ -11,7 +11,15 @@
     -   `Boca`
         -   `Diente`
     -   `Barba`
+-   `Cuello` Pescoço
+-   `Espalda` Costas
 -   `Brazo` Braço
 -   `Mano` Mão
+    -   `Dedo`
 -   `Pierna` Perna
+-   `Rodilla` Joelho (F)
 -   `Pie` Pé
+
+## Internos
+
+-   `Estómago` Estômago

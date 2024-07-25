@@ -7,6 +7,7 @@
 
 -   `Être` Ser/Estar
 -   `Prendre` Pegar
+    -   `Prendre soin` Cuidar
 -   `Apprendre` Aprender
     -   `S'apprendre` Ensinar
 -   `Comprendre` Entender
@@ -15,10 +16,13 @@
 -   `Écrire` Escrever
 -   `Conduire` Dirigir
 -   `Faire` Fazer
+    -   `Faire du sport` Exercitar
+    -   `Faire du vélo` Andar de bicicleta
+    -   `Se faire mal` Se machucar
+    -   `Faire le ménage` Limpar a casa
 -   `Attendre` Esperar
 -   `Dire` Dizer
 -   `Mettre` Colocar
--   `Faire du sport` Exercitar
 -   `Peindre` Pintar
 -   `Connaitre` Conhecer
 -   `Entendre` (Físico)
@@ -30,6 +34,13 @@
 -   `Descendre` Descer
 -   `Rire` Rir
 -   `Sourire` Sorrir
+-   `Teindre` Tingir
+-   `Perdre` Perder
+    -   `Se perdre` Se perder
+-   `Vivre` Viver
+-   `Cuire` Cozinhar/Cozer (Forma de preparo, não o ato de preparar a comida)
+-   `Rompre` Romper/Quebrar/Terminar (um relacionamento)
+-   `Naître` Nascer
 
 ## -er Verbes
 
@@ -50,7 +61,9 @@
 -   `Rencontrer` Conhecer (Meet)
 -   `Payer` Pagar
 -   `Trouver` Encontrar
--   `Chercher` Procurar
+-   `Retrouver` Reencontrar
+-   `Chercher` Procurar/Buscar
+    -   Também tem o sentido "trazer" de "buscar"
 -   `Voyager` Viajar
 -   `Coûter` Custar
     -   `Couter` Pós-reforma de 90
@@ -58,9 +71,10 @@
 -   `Marcher` Andar
 -   `Promener` Passear/Caminhar (com)
     -   `Se promener` Passear/Caminhar
--   `Jouer` Brincar/Jogar
+-   `Jouer` Brincar/Jogar/Atuar
     -   `Jouer a` Jogar (esporte)
     -   `Jouer de` Tocar (instrumento)
+-   `Garder` Observar/Guardar
 -   `Regarder` Olhar/Assistir
 -   `Cuisiner` Cozinhar
 -   `Aider` Ajudar
@@ -81,6 +95,7 @@
 -   `Dessiner` Desenhar
 -   `Nager` Nadar
 -   `Passer` Passar
+    -   `Se passer` Acontecer
 -   `Plonger` Mergulhar
     -   `Faire de la plongée`
 -   `Nettoyer` Limpar
@@ -104,7 +119,7 @@
 -   `Mélanger` Misturar
 -   `Attraper` Capturar
 -   `Pêcher` Pescar
--   `Voler` Voar
+-   `Voler` Voar/Roubar
 -   `Ressembler` Parecer
 -   `Arroser` Regar
 -   `Fermer` Fechar
@@ -116,6 +131,7 @@
 -   `Frapper` Bater
 -   `Prêter` Emprestar
 -   `Emprunter` Pegar emprestado
+-   `Louer` Alugar
 -   `Démarrer` Iniciar (algo)/Dar partida
 -   `Commencer` Começar
 -   `Gagner` Ganhar
@@ -134,12 +150,44 @@
 -   `Taper` Digitar
 -   `Essayer` Experimentar/Provar (Roupas)
 -   `Tomber` Cair
+-   `Dépenser` Gastar
+-   `Souhaiter` Desejar
+-   `Randonner` Fazer uma caminhada (Hike)
+    -   `Faire une randonnée`
+-   `Skier` Esquiar
+-   `Gouter` Provar/Experimentar
+-   `Déménager` Se mudar
+-   `Espérer` Esperar/Ter esperança
+-   `Dîner` Jantar
+-   `Télécharger` Baixar
+-   `Grignoter` Mordiscar/Beliscar (comida)
+-   `Conseiller` Aconselhar
+-   `Recommander` Recomendar
+-   `Soigner` Curar/Medicar/Tratar
+-   `Signer` Assinar
+-   `Retirer` Retirar
+-   `Annuler` Cancelar
+-   `Économiser` Economizar
+-   `Se dépêcher` Se apressar
+-   `Rater` Errar/Perder
+-   `Réparer` Reparar
+-   `Se garer` Estacionar
+-   `Allumer` Acender/Ligar
+-   `Ranger` Arrumar
+-   `S'intéresser` Se interessar
+-   `Créer` Criar
+-   `Rêver` Sonhar
+-   `Pleurer` Chorar
+-   `Casser` Quebrar
+-   `Pousser` Empurrar
 
 ## -ir Verbes
 
 -   `Avoir` Ter
     -   `Avoir besoin de` Precisar
     -   `Avoir honte de` Envergonhar-se
+    -   `Avoir de la chance` Ter sorte
+    -   `Avoir envie` Desejar
 -   `Vouloir` Querer
 -   `Ouvrir` Abrir
 -   `Devoir` Dever
@@ -166,6 +214,12 @@
 -   `Grossir` Engordar/Avolumar
 -   `Maigrir` Emagrecer
 -   `Servir`
+-   `Couvrir` Cobrir
+-   `Offrir` Oferecer
+-   `Accueillir` Acolher/Recepcionar
+-   `Recevoir` Receber
+-   `Falloir` Dever/Precisar/Ter necessidade
+-   `Prévoir` Prever/Planejar
 
 ## Les Verbes Défectueux - Verbos Defectivos
 

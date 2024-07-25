@@ -5,11 +5,14 @@
 -   `Lunettes` Óculos
 -   `Robe` Vestido (F)
 -   `Sac` Bolsa (M)
--   `Le sac à dos` Mochila (M)
+-   `Sac à main` Bolsa de mão (M)
+-   `Sac à dos` Mochila (M)
+-   `Portefeuille` Carteira (M)
 -   `Chaussure` Sapato (F)
     -   `Botte` Bota
     -   `Basket` Tênis (F)
--   `Botte` Bota
+    -   `Sandale` Sandália
+-   `Chaussette` Meia
 -   `Jupe` Saia
 -   `Veste` Jaqueta
 -   `Manteau` Casaco
@@ -20,3 +23,14 @@
 -   `Bague` Anel/Argola (F)
 -   `Bracelet` Bracelete
 -   `Sweat-shirt` Moletom
+-   `Gant` Luva (M)
+-   `Ceinture` Cinto (F)
+-   `Casquette` Boné (F)
+-   `Cravate` Gravata
+-   `Bucle d'oreille` Brinco (F)
+-   `Collier` Colar
+-   `Écharpe` Cachecol (F)
+-   `Pull` Suéter
+-   `Costume` Terno
+-   `Imperméable` Capa de chuva (M)
+-   `Casque` Capacete

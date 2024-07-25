@@ -34,6 +34,10 @@
 -   `Moment` Momento
 -   `Début` Começo
 -   `Semestre`
+-   `Époque` Época
+-   `Futur/Avenir` Futuro
+-   `Passé` Passado
+-   `Sièce` Século
 
 ## La Semaine - Semana
 

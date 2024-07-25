@@ -164,69 +164,109 @@
 
 **Costumam acompanhar o verbo.**
 
--   `つ` Coisas (até 10)
-    -   Usa wago.
-    -   Geralmente usado para indicar quantas coisas existem.
--   <font size="5"><code><ruby>個<rt>こ</rt></ruby></code></font> Coisas em geral (genérico)
-    -   Usa kango.
--   <font size="5"><code><ruby>人<rt>り・にん</rt></ruby></code></font> Pessoas
-    -   1 e 2 usam wago + `り`. Os outros usam kango + `にん`.
-    -   4 e 7 são `よ` e `しち`.
-    -   Em contextos mais formais, como em restaurantes, usa-se o contador <font size="5"><code><ruby>名<rt>めい</rt></ruby></code></font>. Ex.: <font size="5"><code><ruby>何<rt>なん</rt>名<rt>めい</rt>様<rt>さま</rt></ruby></code></font>
--   <font size="5"><code><ruby>年<rt>ねん</rt></ruby></code></font> Anos e séries escolares
-    -   4 é `よ`
-    -   Pode-se adicionar `生` para dizer "estudante do X ano".
--   <font size="5"><code><ruby>月<rt>つき・がつ</rt></ruby></code></font> Meses
-    -   1 e 2 meses cardinais são lidos em wago.
-    -   A partir de três usa-se kango e o contador <font size="5"><code><ruby>箇<rt>か</rt>月<rt>げつ</rt></ruby></code></font>.
-        -   `箇` também pode ser escrito como `か・カ・ヵ・ケ・ヶ`. Sempre se pronuncia `か`.
-    -   Os meses do ano são lidos em kango + `がつ`.
-        -   4, 7 e 9 são `し`, `しち` e `く`
--   <font size="5"><code><ruby>日<rt>にち・か</rt></ruby></code></font> Dias cardinais
-    -   Usa wago até o 10. Também existe a `ついたち` para indicar o primeiro dia do mês.
-    -   2 é `ふつか`.
-    -   8 é `ようか`.
-    -   X4 é `Xじゅうよんにち` ou `Xじゅうよっか`. O último é mais comum pra dias do calendário.
-    -   X9 usa `く` ao invés de `きゅう`
-    -   20 é `はつか`
-    -   49 tem uma forma diferente no budismo: `しじゅうくにち`
--   <font size="5"><code><ruby>第<rt>だい</rt></ruby>、<ruby>目<rt>め</rt></ruby></code></font> Afixos de dias ordinais
-    -   Ambos acompanham a contagem com 日
-    -   `第` é um prefixo e é mais formal. Usa a forma kango, inclusive para o contador.
-    -   `目` é um sufixo e é mais casual. Usa a forma já utilizada pelo contador.
--   <font size="5"><code><ruby>時<rt>じ</rt></ruby></code></font> Horas (ponto no tempo)
-    -   <font size="5"><code><ruby>時<rt>じ</rt>間<rt>かん</rt></ruby></code></font> Horas (duração)
-        -   O `半` deve vir depois e não no meio.
-    -   4, 7 e 9 são `よ`, `しち` e `く`.
--   <font size="5"><code><ruby>分<rt>ふん</rt></ruby></code></font> Minutos
-    -   <font size="5"><code><ruby>分<rt>ふん</rt>間<rt>かん</rt></ruby></code></font> Minutos (duração)
--   <font size="5"><code><ruby>歳<rt>さい</rt></ruby></code></font> Idade
--   <font size="5"><code><ruby>回<rt>かい</rt></ruby></code></font> Frequência, Parcelas
-    -   Pode ser traduzido como "vezes"
-    -   Quando é incerto se vai repetir, usar <font size="5"><code><ruby>度<rt>ど</rt></ruby></code></font>
--   <font size="5"><code><ruby>階<rt>かい</rt></ruby></code></font> Andares
-    -   3 geralmente é `がい`
-    -   Usar o sufixo <font size="5"><code><ruby>建<rt>だ</rt></ruby>て</code></font> para dizer que algo tem X andares.
--   <font size="5"><code><ruby>円<rt>えん</rt></ruby></code></font> Dinheiro
--   <font size="5"><code><ruby>本<rt>ほん</rt></ruby></code></font> Coisas alongadas ou que se extendem
-    -   Serve para coisas abstratas que se extendem, como shows, filmes, projetos, trajetórias.
-    -   Instrumentos.
-    -   Também serve para cassetes (pela fita interna ser longa) e jogos (por se "originarem" das fitas) ou softwares em geral.
--   <font size="5"><code><ruby>枚<rt>まい</rt></ruby></code></font> Coisas planas
--   <font size="5"><code><ruby>匹<rt>ひき</rt></ruby></code></font> Animais pequenos, médios, criaturas e monstros
-    -   Animais robôs e virtuais também
-    -   Godzilla, titãs de 進撃の巨人
-    -   Vírus de computador
--   <font size="5"><code><ruby>頭<rt>とう</rt></ruby></code></font> Animais grandes, raros ou profissionais
-    -   Cães-guia, animais de laboratório, fazenda ou zoológico, insetos em ambientes acadêmicos, animais perigosos independente do tamanho (como enxame de abelhas).
--   <font size="5"><code><ruby>羽<rt>わ</rt></ruby></code></font> Aves, morcegos e coelhos
-    -   Quando mortos, apenas o peru é contado assim.
--   <font size="5"><code><ruby>冊<rt>さつ</rt></ruby></code></font> Livros e cadernos
--   <font size="5"><code><ruby>台<rt>だい</rt></ruby></code></font> Mobília, instrumentos grandes, veículos e eletrônicos
-    -   Bolos e tortas inteiras também.
-    -   Veículos incluem tudo que possa carregar uma pessoa, como carrinhos, skates, carroças.
--   <font size="5"><code><ruby>駅<rt>えき</rt></ruby></code></font> Estações de trem
-    -   1 e 2 usam wago
+**Contadores de tempo quando acompanhados pela partícula `に`, indicam periodicidade. Ex.: `一日に` "diário",`二日に` "a cada dois dias", `一箇月に` "mensal".**
+
+### `つ` Coisas (até 10)
+
+-   Usa wago.
+-   Geralmente usado para indicar quantas coisas existem.
+
+### <font size="5"><code><ruby>個<rt>こ</rt></ruby></code></font> Coisas em geral (genérico)
+
+-   Usa kango.
+
+### <font size="5"><code><ruby>人<rt>り・にん</rt></ruby></code></font> Pessoas
+
+-   1 e 2 usam wago + `り`. Os outros usam kango + `にん`.
+-   4 e 7 são `よ` e `しち`.
+-   Em contextos mais formais, como em restaurantes, usa-se o contador <font size="5"><code><ruby>名<rt>めい</rt></ruby></code></font>. Ex.: <font size="5"><code><ruby>何<rt>なん</rt>名<rt>めい</rt>様<rt>さま</rt></ruby></code></font>
+
+### <font size="5"><code><ruby>年<rt>ねん</rt></ruby></code></font> Anos e séries escolares
+
+-   4 é `よ`
+-   Pode-se adicionar `生` para dizer "estudante do X ano".
+
+### <font size="5"><code><ruby>月<rt>つき・がつ</rt></ruby></code></font> Meses
+
+-   1 e 2 meses cardinais são lidos em wago.
+-   A partir de três usa-se kango e o contador <font size="5"><code><ruby>箇<rt>か</rt>月<rt>げつ</rt></ruby></code></font>.
+    -   1 e 2 meses também podem ser lidos assim (é intercambiável).
+    -   `箇` também pode ser escrito como `か・カ・ヵ・ケ・ヶ`. Sempre se pronuncia `か`.
+-   Os meses do ano são lidos em kango + `がつ`.
+    -   4, 7 e 9 são `し`, `しち` e `く`
+
+### <font size="5"><code><ruby>日<rt>にち・か</rt></ruby></code></font> Dias cardinais
+
+-   Usa wago até o 10. Também existe a `ついたち` para indicar o primeiro dia do mês.
+-   2 é `ふつか`.
+-   8 é `ようか`.
+-   X4 é `Xじゅうよんにち` ou `Xじゅうよっか`. O último é mais comum pra dias do calendário.
+-   X9 usa `く` ao invés de `きゅう`
+-   20 é `はつか`
+-   49 tem uma forma diferente no budismo: `しじゅうくにち`
+
+### <font size="5"><code><ruby>第<rt>だい</rt></ruby>、<ruby>目<rt>め</rt></ruby></code></font> Afixos de dias ordinais
+
+-   Ambos acompanham a contagem com 日
+-   `第` é um prefixo e é mais formal. Usa a forma kango, inclusive para o contador.
+-   `目` é um sufixo e é mais casual. Usa a forma já utilizada pelo contador.
+
+### <font size="5"><code><ruby>時<rt>じ</rt></ruby></code></font> Horas (ponto no tempo)
+
+-   <font size="5"><code><ruby>時<rt>じ</rt>間<rt>かん</rt></ruby></code></font> Horas (duração)
+    -   O `半` deve vir depois e não no meio.
+-   4, 7 e 9 são `よ`, `しち` e `く`.
+
+### <font size="5"><code><ruby>分<rt>ふん</rt></ruby></code></font> Minutos
+
+-   <font size="5"><code><ruby>分<rt>ふん</rt>間<rt>かん</rt></ruby></code></font> Minutos (duração)
+
+### <font size="5"><code><ruby>歳<rt>さい</rt></ruby></code></font> Idade
+
+### <font size="5"><code><ruby>回<rt>かい</rt></ruby></code></font> Frequência, Parcelas
+
+-   Pode ser traduzido como "vezes"
+-   Quando é incerto se vai repetir, usar <font size="5"><code><ruby>度<rt>ど</rt></ruby></code></font>
+
+### <font size="5"><code><ruby>階<rt>かい</rt></ruby></code></font> Andares
+
+-   3 geralmente é `がい`
+-   Usar o sufixo <font size="5"><code><ruby>建<rt>だ</rt></ruby>て</code></font> para dizer que algo tem X andares.
+
+### <font size="5"><code><ruby>円<rt>えん</rt></ruby></code></font> Dinheiro
+
+### <font size="5"><code><ruby>本<rt>ほん</rt></ruby></code></font> Coisas alongadas ou que se extendem
+
+-   Serve para coisas abstratas que se extendem, como shows, filmes, projetos, trajetórias.
+-   Instrumentos.
+-   Também serve para cassetes (pela fita interna ser longa) e jogos (por se "originarem" das fitas) ou softwares em geral.
+
+### <font size="5"><code><ruby>枚<rt>まい</rt></ruby></code></font> Coisas planas
+
+### <font size="5"><code><ruby>匹<rt>ひき</rt></ruby></code></font> Animais pequenos, médios, criaturas e monstros
+
+-   Animais robôs e virtuais também
+-   Godzilla, titãs de 進撃の巨人
+-   Vírus de computador
+
+### <font size="5"><code><ruby>頭<rt>とう</rt></ruby></code></font> Animais grandes, raros ou profissionais
+
+-   Cães-guia, animais de laboratório, fazenda ou zoológico, insetos em ambientes acadêmicos, animais perigosos independente do tamanho (como enxame de abelhas).
+
+### <font size="5"><code><ruby>羽<rt>わ</rt></ruby></code></font> Aves, morcegos e coelhos
+
+-   Quando mortos, apenas o peru é contado assim.
+
+### <font size="5"><code><ruby>冊<rt>さつ</rt></ruby></code></font> Livros e cadernos
+
+### <font size="5"><code><ruby>台<rt>だい</rt></ruby></code></font> Mobília, instrumentos grandes, veículos e eletrônicos
+
+-   Bolos e tortas inteiras também.
+-   Veículos incluem tudo que possa carregar uma pessoa, como carrinhos, skates, carroças.
+
+### <font size="5"><code><ruby>駅<rt>えき</rt></ruby></code></font> Estações de trem
+
+-   1 e 2 usam wago
 
 ## Transformação dos contadores
 

@@ -8,6 +8,7 @@
 -   `Fille` Menina/Filha
 -   `Adulte` Adulto
 -   `Adolescent` Adolescente
+    -   `Ado`
 -   `Enfant` Criança (M)
 -   `Journalist` Jornalista
 -   `Ami` Amigo
@@ -58,6 +59,25 @@
 -   `Membre` Membro
 -   `Personnel` Pessoal
 -   `Client` Cliente
+-   `Touriste` Turista
+-   `Marié` Noivo (No dia do casamento)
+-   `Voleur` Ladrão
+-   `Invité` Convidado
+-   `Passager` Passageiro
+-   `Police` Polícia
+-   `Policier` Policial
+-   `Public` Público
+-   `Artiste` Artista
+-   `Musicien` Músico
+-   `Peintre` Pintor
+-   `Clown` Palhaço
+-   `Star` Estrela (Celebridade)
+-   `Pompier` Bombeiro
+-   `Type` Cara
+-   `Vendeur` Vendedor
+-   `Pilote` Piloto
+-   `Roi` Rei
+-   `Reine` Rainha
 
 ## La famille - Família
 
@@ -71,7 +91,9 @@
     -   `Papi` Vovô
 -   `Grand-mère` Avó
     -   `Mamie` Vovó
--   `Mari` Marido
+-   `Fiancé` Noivo
+-   `Mari/Époux` Marido
+-   `Femme/Épouse` Esposa
 -   `Frère` Irmão
 -   `Sœur` Irmã
 -   `Fils` Filho
@@ -85,3 +107,5 @@
 -   `Cousin` Primo
 -   `Oncle` Tio
 -   `Tante` Tia
+-   `Neveu` Sobrinho
+-   `Nièce` Sobrinha
