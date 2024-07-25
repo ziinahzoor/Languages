@@ -11,9 +11,9 @@
     -   `Jour de repos` Dia de descanso
 -   `An` Ano
 -   `Semaine` Semana
--   `Matin` Manhã (M)
+-   `Matin` Manhã 🚹
 -   `Après-midi` Tarde
--   `Soir` Noite (Evening) (M)
+-   `Soir` Noite (Evening) 🚹
 -   `Nuit` Noite (Night)
 -   `Weekend` Fim de semana
     -   `Week-end` Pré-acordo de 90
@@ -70,7 +70,7 @@
 -   `Vent` Vento
 -   `Soleil` Sol
 -   `Neige` Neve
--   `Nuage` Nuvem (M)
+-   `Nuage` Nuvem 🚹
 -   `Pluie` Chuva
 -   `Ciel` Céu
 
@@ -78,7 +78,7 @@
 
 -   `Automne` Outono
 -   `Hiver` Inverno
--   `Printemps` Primavera (M)
+-   `Printemps` Primavera 🚹
 -   `Été` Verão
 
 ## Les Fériés - Feriados

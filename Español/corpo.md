@@ -3,11 +3,11 @@
 -   `Pelo`
 -   `Cabeza` Cabeça
     -   `Cabello` Cabelo
-        -   `Cana` Cabelo grisalho (F)
+        -   `Cana` Cabelo grisalho 🚺
     -   `Cara` Rosto
     -   `Ojo` Olho
     -   `Oreja` Orelha
-    -   `Nariz` (F)
+    -   `Nariz` 🚺
     -   `Boca`
         -   `Diente`
     -   `Barba`
@@ -17,7 +17,7 @@
 -   `Mano` Mão
     -   `Dedo`
 -   `Pierna` Perna
--   `Rodilla` Joelho (F)
+-   `Rodilla` Joelho 🚺
 -   `Pie` Pé
 
 ## Internos

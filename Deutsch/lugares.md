@@ -18,8 +18,8 @@
 -   `Kaufhaus` Loja de departamento
 -   `Schule` Escola
 -   `Park` Parque
--   `Bahnhof` Estação de trem (M)
+-   `Bahnhof` Estação de trem 🚹
 -   `Universität` Universidade
 -   `Bibliothek` Biblioteca
 -   `Wohnung` Apartamento
--   `Kino` Cinema (N)
+-   `Kino` Cinema ✴️

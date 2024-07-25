@@ -4,23 +4,23 @@
 
 ## Casa
 
--   `Tavolo` Mesa (M)
+-   `Tavolo` Mesa 🚹
 -   `Specchio` Espelho
--   `Bicchiere` Taça (M)
+-   `Bicchiere` Taça 🚹
 
 ## Compras
 
 -   `Menù` Cardápio
--   `Conto` Conta (M)
+-   `Conto` Conta 🚹
 -   `Euro`
 -   `Scontrino` Nota fiscal/Comprovante
--   `Soldo` Moeda (M)/Dinheiro
+-   `Soldo` Moeda 🚹/Dinheiro
 -   `Prenotazione` Reserva
 
 ## Abstrato
 
 -   `Cosa` Coisa
--   `Aiuto` Ajuda (M)
+-   `Aiuto` Ajuda 🚹
 -   `Domanda` Pergunta
 
 ### Condições

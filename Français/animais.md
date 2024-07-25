@@ -1,9 +1,9 @@
 # Les Animaux (Animais)
 
--   `Chat` Gato (M)
--   `Cheval` Cavalo (M)
--   `Chien` Cachorro (M)
--   `Chouette` Coruja (F)
+-   `Chat` Gato 🚹
+-   `Cheval` Cavalo 🚹
+-   `Chien` Cachorro 🚹
+-   `Chouette` Coruja 🚺
 -   `Cochon` Porco
 -   `Poisson` Peixe
 -   `Vache` Vaca
@@ -11,7 +11,7 @@
 -   `Poisson` Peixe
 -   `Dinosaur` Dinossauro
 -   `Singe` Macaco
--   `Souris` Rato (F)
+-   `Souris` Rato 🚺
 -   `Éléphant` Elefante
 -   `Lapin` Coelho
 -   `Oiseau` Pássaro

@@ -33,7 +33,7 @@
 -   `Dentista`
 -   `Ingeniero` Engenheiro
 -   `Agricultor` Fazendeiro
--   `Equipo` Equipe (M)/Time
+-   `Equipo` Equipe 🚹/Time
 -   `Mecánico` Mecânico
 -   `Rey` Rei
 -   `Reina` Rainha

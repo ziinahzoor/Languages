@@ -1,13 +1,13 @@
 # La Comida - Comida
 
--   `Pan` Pão (M)
--   `Ensalada` Salada (F)
+-   `Pan` Pão 🚹
+-   `Ensalada` Salada 🚺
 -   `Sándwich` Sanduíche
 -   `Queso` Queijo
 -   `Carne`
--   `Hamburguesa` Hambúrguer (F)
+-   `Hamburguesa` Hambúrguer 🚺
 -   `Azúcar` Açúcar
--   `Sal` (F)
+-   `Sal` 🚺
 -   `Miel` Mel
 -   `Helado` Sorvete
 -   `Aceite` Azeite
@@ -19,10 +19,10 @@
 -   `Postre` Sobremesa
 -   `Frito`
 -   `Mantequilla` Manteiga
--   `Chorizo` Linguiça (M)
+-   `Chorizo` Linguiça 🚹
 -   `Harina` Farinha
 -   `Masa` Massa
--   `Salsa` Molho (F)
+-   `Salsa` Molho 🚺
 -   `Vainilla` Baunilha
 -   `Galleta` Biscoito
 -   `Cereal`
@@ -33,12 +33,12 @@
 
 ## Las Frutas
 
--   `Manzana` Maçã (F)
+-   `Manzana` Maçã 🚺
 -   `Naranja` Laranja
 -   `Banana`
 -   `Plátano`
 -   `Tomate`
--   `Mango` Manga (M)
+-   `Mango` Manga 🚹
 
 ## Los Vegetales - Verduras
 
@@ -50,8 +50,8 @@
 
 ## Las Bebidas
 
--   `Agua` Água (F)
--   `Leche` Leite (F)
+-   `Agua` Água 🚺
+-   `Leche` Leite 🚺
 -   `Café`
 -   `Jugo` Suco
 -   `Batido` Milkshake

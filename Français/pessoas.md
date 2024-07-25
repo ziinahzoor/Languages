@@ -9,7 +9,7 @@
 -   `Adulte` Adulto
 -   `Adolescent` Adolescente
     -   `Ado`
--   `Enfant` Criança (M)
+-   `Enfant` Criança 🚹
 -   `Journalist` Jornalista
 -   `Ami` Amigo
 -   `Médecin` Médico

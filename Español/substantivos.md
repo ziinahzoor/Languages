@@ -9,8 +9,8 @@
 -   `Viento` Vento
 -   `Sol`
 -   `Nieve` Neve
--   `Árbol` Árvore (M)
--   `Bosque` Floresta (M)
+-   `Árbol` Árvore 🚹
+-   `Bosque` Floresta 🚹
 -   `Hielo` Gelo
 -   `Mar`
 -   `Montaña` Montanha
@@ -34,7 +34,7 @@
     -   `Efectivo` Espécie
 -   `Centavo`
 -   `Tarjeta` Cartão
--   `Tarjeta de crédito` Cartão de crédito (F)
+-   `Tarjeta de crédito` Cartão de crédito 🚺
 -   `Cuenta` Conta
 -   `Camisa`
 -   `LLave` Chave
@@ -43,18 +43,18 @@
 -   `Televisión` Televisão
     -   `Televisor`
     -   `Tele` TV
--   `Bolígrafo` Caneta (M)
--   `Examen` Prova (M)
--   `Computadora` Computador (F)
+-   `Bolígrafo` Caneta 🚹
+-   `Examen` Prova 🚹
+-   `Computadora` Computador 🚺
 -   `Portátil` Laptop
 -   `Menú` Cardápio
 -   `Silla` Cadeira
 -   `Sillón` Cadeirão/Poltrona
 -   `Retrato`
 -   `Videojuego` Videogame
--   `Mostrador` Bancada (M)
--   `Película` Filme (F)
--   `Escritorio` Mesa (M)
+-   `Mostrador` Bancada 🚹
+-   `Película` Filme 🚺
+-   `Escritorio` Mesa 🚹
 -   `Carta`
 -   `Puerta` Porta
 -   `Periódico` Jornal
@@ -71,12 +71,12 @@
 -   `Diario` Jornal
 -   `Foto`
 -   `Pintura`
--   `Radio` Rádio (F)
+-   `Radio` Rádio 🚺
 -   `Cámara` Câmera
--   `Cepillo de dientes` Escova de dentes (M)
+-   `Cepillo de dientes` Escova de dentes 🚹
 -   `Diccionario` Dicionário
 -   `Nota`
--   `Pizarra` Quadro (F)
+-   `Pizarra` Quadro 🚺
 -   `Paquete` Pacote
 -   `Toalla` Toalha
 -   `Papel`
@@ -84,13 +84,13 @@
 -   `Caja` Caixa
 -   `Piso`
 -   `Pared` Parede
--   `Ducha` Chuveiro (F)
+-   `Ducha` Chuveiro 🚺
 -   `Cómic` Quadrinho
 -   `Parrilla` Grelha
 -   `Lámpara` Lâmpada
 -   `Cafetera` Cafeteira
 -   `Mueble` Móvel
--   `Alfombra` Carpete (F)
+-   `Alfombra` Carpete 🚺
 -   `Estufa` Fogão
 -   `Cómoda` Cômoda
 -   `Espejo` Espelho
@@ -106,17 +106,17 @@
 -   `Sortija` Aliança
 -   `Asiento` Assento
 -   `Paraguas` Guarda-chuva
--   `Cajón` Gaveta (M)
+-   `Cajón` Gaveta 🚹
 
 ## Abstratos
 
 -   `Cosa` Coisa
 -   `Reserva`
--   `Cita` Encontro/Compromisso (F)
+-   `Cita` Encontro/Compromisso 🚺
 -   `Amor`
 -   `Cosa` Coisa
 -   `Idea` Ideia
--   `Color` Cor (M)
+-   `Color` Cor 🚹
 -   `Cumpleaños` Aniversário
 -   `Vacaciones` Férias
 -   `Ayuda` Ajuda
@@ -128,10 +128,10 @@
 -   `Hambre` Fome
 -   `Sed` Sede
 -   `Nombre` Nome
--   `Mensaje` Mensagem (M)
+-   `Mensaje` Mensagem 🚹
 -   `Receta` Receita
 -   `Secreto` Segredo
--   `Talla` Tamanho (F)
+-   `Talla` Tamanho 🚺
 -   `Precio` Preço
 -   `Razón` Razão
 -   `Parte`
@@ -140,7 +140,7 @@
 -   `Miedo` Medo
 -   `Estornudo` Espirro
 -   `Conversación` Conversa
--   `Arte` (M)
+-   `Arte` 🚹
 -   `Grupo`
 -   `Asignatura` Matéria
 -   `Palabra` Palavra
@@ -189,7 +189,7 @@
 
 ## Transporte
 
--   `Boleto` Passagem (M)
+-   `Boleto` Passagem 🚹
 -   `Equipaje` Bagagem
 -   `Taxi` Táxi
 -   `Tren` Trem

@@ -73,7 +73,7 @@
 
 -   `Appartement` Apartamento
 -   `Toilette` Banheiro
--   `Salle de bain` Banheiro (F)
+-   `Salle de bain` Banheiro 🚺
 -   `Pièce` Quarto/Cômodo
 -   `Salon` Sala de estar
 -   `Chambre` Quarto
@@ -87,7 +87,7 @@
 -   `Piscine` Piscina
 -   `Hall` Salão/Lobby
 
-## Les Planètes - Planetas (F)
+## Les Planètes - Planetas 🚺
 
 -   `Mercure` Mercúrio
 -   `Vénus` Vênus
@@ -101,7 +101,7 @@
 
 ## Vocabulaire - Vocabulário
 
--   `Adresse` Endereço (F)
+-   `Adresse` Endereço 🚺
 -   `Université` Universidade
 -   `Faculté` Faculdade
     -   `Fac`
@@ -121,11 +121,11 @@
 -   `Parc` Parque
 -   `Zoo` Zoológico
 -   `Boulangerie` Padaria
--   `Banque` Banco (F)
+-   `Banque` Banco 🚺
 -   `Plage` Praia
 -   `Château` Castelo/Palácio
 -   `Ville` Cidade (Town)
--   `Village` Vila (M)
+-   `Village` Vila 🚹
 -   `Campagne` Campo/Interior
 -   `Musée` Museu
 -   `Pharmacie` Farmácia
@@ -166,11 +166,11 @@
 -   `Centre-ville` Centro
 -   `Bar`
 -   `Stade` Estádio
--   `Alpe` Alpe (F)
+-   `Alpe` Alpe 🚺
 -   `Bureau de change` Casa de câmbio
 -   `Boîte de nuit` Boate
 -   `Île` Ilha
--   `Garage` Garagem (M)
+-   `Garage` Garagem 🚹
 -   `Parking` Estacionamento
 -   `Temple` Templo
 -   `Synagogue` Sinagoga
@@ -186,7 +186,7 @@
 
 ### Paris
 
--   `Seine` Sena (F)
+-   `Seine` Sena 🚺
 -   `Arc de Triomphe` Arco do Triunfo
 -   `Montmartre`
 -   `Sacre-Cœur`

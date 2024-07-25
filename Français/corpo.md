@@ -10,10 +10,10 @@
         -   `Nez` Nariz
         -   `Joue` Bochecha
         -   `Bouche` Boca
-            -   `Dent` Dente (F)
+            -   `Dent` Dente 🚺
         -   `Barbe` Barba
--   `Ventre` Barriga (M)
--   `Dos` Costas (M)
+-   `Ventre` Barriga 🚹
+-   `Dos` Costas 🚹
 -   `Bras` Braço
     -   `Main` Mão
         -   `Doigt` Dedo

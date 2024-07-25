@@ -66,6 +66,32 @@ const french = {
 	],
 }
 
+const italian = {
+	folder: 'Italiano',
+	displayName: 'Italiano',
+	subpages: [
+		{ page: 'adjetivos', displayName: 'Adjetivos' },
+		{ page: 'advérbios', displayName: 'Advérbios' },
+		{ page: 'animais', displayName: 'Animais' },
+		{ page: 'comida', displayName: 'Comida' },
+		{ page: 'conjugações', displayName: 'Conjugações' },
+		{ page: 'conjunções', displayName: 'Conjunções' },
+		{ page: 'cores', displayName: 'Cores' },
+		{ page: 'expressões', displayName: 'Expressões' },
+		{ page: 'frases', displayName: 'Frases' },
+		{ page: 'lugares', displayName: 'Lugares' },
+		{ page: 'números', displayName: 'Números' },
+		{ page: 'pessoas', displayName: 'Pessoas' },
+		{ page: 'preposições', displayName: 'Preposições' },
+		{ page: 'pronomes', displayName: 'Pronomes' },
+		{ page: 'regras', displayName: 'Regras' },
+		{ page: 'roupas', displayName: 'Roupas' },
+		{ page: 'substantivos', displayName: 'Substantivos' },
+		{ page: 'tempo', displayName: 'Tempo' },
+		{ page: 'verbos', displayName: 'Verbos' },
+	],
+}
+
 const japanese = {
 	folder: '日本語',
 	displayName: 'Japonês',
@@ -99,4 +125,32 @@ const japanese = {
 	],
 }
 
-export const languages = [alphabets, spanish, french, japanese];
+const highValyrian = {
+	folder: 'Valyrio',
+	displayName: 'Alto Valiriano',
+	subpages: [
+		{ page: 'adjetivos', displayName: 'Adjetivos' },
+		{ page: 'advérbios', displayName: 'Advérbios' },
+		{ page: 'animais', displayName: 'Animais' },
+		{ page: 'classes', displayName: 'Classes' },
+		{ page: 'comida', displayName: 'Comida' },
+		{ page: 'conjugações', displayName: 'Conjugações' },
+		{ page: 'conjunções', displayName: 'Conjunções' },
+		{ page: 'corpo', displayName: 'Corpo' },
+		{ page: 'dicas', displayName: 'Dicas' },
+		{ page: 'expressões', displayName: 'Expressões' },
+		{ page: 'frases', displayName: 'Frases' },
+		{ page: 'lugares', displayName: 'Lugares' },
+		{ page: 'números', displayName: 'Números' },
+		{ page: 'pessoas', displayName: 'Pessoas' },
+		{ page: 'preposições', displayName: 'Preposições' },
+		{ page: 'pronomes', displayName: 'Pronomes' },
+		{ page: 'regras', displayName: 'Regras' },
+		{ page: 'roupas', displayName: 'Roupas' },
+		{ page: 'substantivos', displayName: 'Substantivos' },
+		{ page: 'tempo', displayName: 'Tempo' },
+		{ page: 'verbos', displayName: 'Verbos' },
+	],
+}
+
+export const languages = [alphabets, spanish, french, italian, japanese, highValyrian];

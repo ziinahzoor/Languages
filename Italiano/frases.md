@@ -1,4 +1,6 @@
-# I Saluti - Saudações
+# Frases
+
+## I Saluti - Saudações
 
 -   `Salve` Olá
 -   `Per favore` Por favor

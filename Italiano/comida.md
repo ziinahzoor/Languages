@@ -9,7 +9,7 @@
 -   `Riso` Arroz
 -   `Pasta` Massa
 -   `Dolce` Doce
--   `Bistecca` Bife (F)
+-   `Bistecca` Bife 🚺
 -   `Carne`
 -   `Gelato` Sorvete
 

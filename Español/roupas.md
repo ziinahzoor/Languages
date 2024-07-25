@@ -6,7 +6,7 @@
 -   `Blusa`
 -   `Chaqueta` Jaqueta
 -   `Sombrero` Chapéu
--   `Gorra` Boné/Gorro (F)
+-   `Gorra` Boné/Gorro 🚺
 -   `Vestido`
 -   `Abrigo` Casaco
 -   `Falda` Saia
@@ -15,9 +15,9 @@
 -   `Cinturón` Cinto
 -   `Reloj` Relógio
 -   `Cartera` Carteira
--   `Gafas` Óculos (F)
+-   `Gafas` Óculos 🚺
     -   `Gafas de sol` Óculos de sol
--   `Lentes` Óculos (M)
+-   `Lentes` Óculos 🚹
 -   `Botas`
 -   `Vaqueros` Calças jeans
 -   `Bolsa`

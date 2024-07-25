@@ -1,16 +1,16 @@
 # Les Vêtements - Roupas
 
--   `Pantalon` Calça (M)
+-   `Pantalon` Calça 🚹
 -   `Chapeau` Chapéu
 -   `Lunettes` Óculos
--   `Robe` Vestido (F)
--   `Sac` Bolsa (M)
--   `Sac à main` Bolsa de mão (M)
--   `Sac à dos` Mochila (M)
--   `Portefeuille` Carteira (M)
--   `Chaussure` Sapato (F)
+-   `Robe` Vestido 🚺
+-   `Sac` Bolsa 🚹
+-   `Sac à main` Bolsa de mão 🚹
+-   `Sac à dos` Mochila 🚹
+-   `Portefeuille` Carteira 🚹
+-   `Chaussure` Sapato 🚺
     -   `Botte` Bota
-    -   `Basket` Tênis (F)
+    -   `Basket` Tênis 🚺
     -   `Sandale` Sandália
 -   `Chaussette` Meia
 -   `Jupe` Saia
@@ -20,17 +20,17 @@
 -   `Maillot de bain` Traje de banho
 -   `Pyjama` Pijama
 -   `Short`
--   `Bague` Anel/Argola (F)
+-   `Bague` Anel/Argola 🚺
 -   `Bracelet` Bracelete
 -   `Sweat-shirt` Moletom
--   `Gant` Luva (M)
--   `Ceinture` Cinto (F)
--   `Casquette` Boné (F)
+-   `Gant` Luva 🚹
+-   `Ceinture` Cinto 🚺
+-   `Casquette` Boné 🚺
 -   `Cravate` Gravata
--   `Bucle d'oreille` Brinco (F)
+-   `Bucle d'oreille` Brinco 🚺
 -   `Collier` Colar
--   `Écharpe` Cachecol (F)
+-   `Écharpe` Cachecol 🚺
 -   `Pull` Suéter
 -   `Costume` Terno
--   `Imperméable` Capa de chuva (M)
+-   `Imperméable` Capa de chuva 🚹
 -   `Casque` Capacete

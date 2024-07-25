@@ -7,14 +7,14 @@
 -   `Wasser` Água
 -   `Bier` Cerveja
 -   `Brot` Pão
--   `Sandwich` Sanduíche (N)
+-   `Sandwich` Sanduíche ✴️
 -   `Käse` Queijo
 -   `Ei` Ovo
--   `Salat` (M)
+-   `Salat` 🚹
 -   `Wurst` Salsicha
--   `Salz` Sal (N)
--   `Wasser` Água (N)
--   `Mineralwasser` Água mineral (N)
+-   `Salz` Sal ✴️
+-   `Wasser` Água ✴️
+-   `Mineralwasser` Água mineral ✴️
 -   `Fleisch` Carne
 -   `Kartoffel` Batata
 -   `Pommes` Batata-frita

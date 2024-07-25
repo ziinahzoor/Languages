@@ -5,27 +5,27 @@
 -   `Soleil` Sol
 -   `Plante` Planta
 -   `Fleur` Flor
--   `Arbre` Árvore (M)
+-   `Arbre` Árvore 🚹
 -   `Lumière` Luz
--   `Mer` Mar (F)
+-   `Mer` Mar 🚺
 -   `Lac` Lago
 -   `Fleuve` Rio
--   `Rivière` Córrego/Riacho (F)
+-   `Rivière` Córrego/Riacho 🚺
 -   `Boue` Lama
 -   `Feu` Fogo
 
 ## Casa e objetos
 
--   `Valise` Mala (F)
--   `Passeport` Passaporte (M)
--   `Tasse` Xícara (F)
--   `Verre` Taça (M)
+-   `Valise` Mala 🚺
+-   `Passeport` Passaporte 🚹
+-   `Tasse` Xícara 🚺
+-   `Verre` Taça 🚹
 -   `Bouteille` Garrafa
 -   `Livre` Livro
 -   `Jeu` Jogo
 -   `Plat` Prato
 -   `Argent` Dinheiro/Prata
--   `Monnaie` Moeda/Troco (F)
+-   `Monnaie` Moeda/Troco 🚺
 -   `Table` Mesa
 -   `Addition` Conta
 -   `Examen` Prova
@@ -35,21 +35,21 @@
 -   `Porte` Porta
 -   `Fenêtre` Janela
 -   `Chaise` Cadeira
--   `Stylo` Caneta (M)
+-   `Stylo` Caneta 🚹
 -   `Lettre` Carta
 -   `Cadeau` Presente
 -   `Plat` Prato
--   `Lit` Cama (M)
+-   `Lit` Cama 🚹
 -   `Journal` Jornal/Diário
 -   `Placard` Armário
 -   `Portrait` Retrato
 -   `Photo` Foto
 -   `Matière` Matéria
 -   `Dictionnaire` Dicionário
--   `Horloge` Relógio (F)
+-   `Horloge` Relógio 🚺
 -   `Sculpture` Escultura
 -   `Serviette` Toalha
--   `Douche` Chuveiro/Banho (F)
+-   `Douche` Chuveiro/Banho 🚺
 -   `Wi-fi`
 -   `Miroir` Espelho
 -   `Courses` Compras
@@ -63,13 +63,13 @@
 -   `Papier` Papel
 -   `Cahier` Caderno
 -   `Crayon` Lápis
--   `Couteau` Faca (M)
--   `Assiette` Prato (F)
+-   `Couteau` Faca 🚹
+-   `Assiette` Prato 🚺
 -   `Essence` Gasolina
 -   `Coffre` Cofre/Porta-malas
 -   `Bureau` Escrivaninha/Mesa de trabalho
 -   `Poupée` Boneca
--   `Ballon` Bola (M)
+-   `Ballon` Bola 🚹
 -   `Boîte` Caixa
     -   `Boite` Pós-reforma de 90
 -   `Canapé` Sofá
@@ -77,7 +77,7 @@
 -   `Escalier` Escada
 -   `Coussin` Travesseiro
 -   `Étagère` Estante/Prateleira
--   `Rideau` Cortina (M)
+-   `Rideau` Cortina 🚹
 -   `Brosse` Escova
     -   `Brosse à dents` Escova de dentes
 -   `Bijou` Joia
@@ -94,19 +94,19 @@
 -   `Cuillère` Colher
     -   `Cuillère à café` Colher de chá
     -   `Cuillère à soupe` Colher de sopa
--   `Fourchette` Garfo (F)
+-   `Fourchette` Garfo 🚺
 -   `Vaisselle` Vasilha
 -   `Enveloppe` Envelope
 -   `Document` Documento
--   `Dossier` Arquivo/Pasta (M)
+-   `Dossier` Arquivo/Pasta 🚹
 -   `Ascenseur` Elevador
 -   `Couverture` Coberta/Cobertor
 -   `Carte` Cartão
-    -   `Carte bancaire` Cartão bancário (F)
+    -   `Carte bancaire` Cartão bancário 🚺
         -   Cartão de débito (Québécois)
-    -   `Carte de crédit` Cartão de crédito (F)
+    -   `Carte de crédit` Cartão de crédito 🚺
     -   `Carte sans contact` Cartão contactless/por aproximação
--   `Billet` Nota (M)
+-   `Billet` Nota 🚹
 -   `Pièce` Moeda
 -   `Laine` Lã
 -   `Parfum` Perfume
@@ -117,17 +117,17 @@
 -   `Chèque` Cheque
 -   `Distributeur` Caixa eletrônico
 -   `Formulaire` Formulário
--   `Bol` Tigela (M)
+-   `Bol` Tigela 🚹
 -   `Four` Forno
 -   `Moteur` Motor
 -   `Roue` Roda
 -   `Pneu`
 -   `Tapis` Tapete
--   `Rideau` Cortina (M)
+-   `Rideau` Cortina 🚹
 -   `Coussin` Travesseiro
 -   `Meuble` Móvel
 -   `Lampe` Lâmpada/Luminária
--   `Tiroir` Gaveta (M)
+-   `Tiroir` Gaveta 🚹
 -   `Commode` Cômoda
 -   `Fauteuil` Cadeirão/Poltrona
 
@@ -141,25 +141,25 @@
     -   `Ordinateur portable` Laptop
 -   `Portable` Celular
 -   `Téléphone` Telefone
--   `Radio` Rádio (F)
+-   `Radio` Rádio 🚺
 -   `Réfrigérateur` Refrigerador
-    -   `Frigo` Geladeira (M)
+    -   `Frigo` Geladeira 🚹
 -   `Imprimante` Impressora
 -   `Machine à laver` Máquina de lavar
 -   `Caméra` Filmadora
--   `Appareil photo` Câmera fotográfica (M)
-    -   `Appareil photo numérique` Câmera digital (M)
+-   `Appareil photo` Câmera fotográfica 🚹
+    -   `Appareil photo numérique` Câmera digital 🚹
 -   `Micro-ondes` Micro-ondas
 
 ## Abstratos
 
 -   `Essence` Essência
--   `Rendez-vous` Encontro (M)
+-   `Rendez-vous` Encontro 🚹
 -   `Chose` Coisa
 -   `Réponse` Resposta
 -   `Idée` Ideia
 -   `Couleur` Cor
--   `Anniversaire` Aniversário (M)
+-   `Anniversaire` Aniversário 🚹
 -   `Lune de miel` Lua de mel
 -   `Aide` Ajuda
 -   `Classe`
@@ -177,7 +177,7 @@
 -   `Secret` Segredo
 -   `Prix` Preço/Prêmio
 -   `Recette` Receita
--   `Voyage` Viagem (M)
+-   `Voyage` Viagem 🚹
 -   `Problème` Problema
 -   `Choix` Escolha
 -   `Santé` Saúde
@@ -210,7 +210,7 @@
     -   `Mail` E-mail (Carta eletrônica)
 -   `Vie` Vida
 -   `Souvenir` Lembrança
--   `Fin` Fim (F)
+-   `Fin` Fim 🚺
 -   `Écriture` Escrita
 -   `Partie` Parte
 -   `Degré` Grau
@@ -231,7 +231,7 @@
 -   `Pause` Pausa/Intervalo
 -   `Équipe` Equipe
 -   `Réservation` Reserva
--   `Paire` Par (F)
+-   `Paire` Par 🚺
 -   `Naissance` Nascimento
 -   `Sexe` Sexo
 -   `Surprise` Surpresa
@@ -241,15 +241,15 @@
 -   `Trou` Buraco
 -   `Mode` Moda
 -   `Envie` Ciúme/Inveja/Desejo
--   `Habitude` Hábito (F)
+-   `Habitude` Hábito 🚺
 -   `Espèce` Espécie
     -   Também serve pra dinheiro
 -   `Code` Código
--   `Compte` Conta (M)
-    -   `Compte bancaire` Conta bancária (M)
+-   `Compte` Conta 🚹
+    -   `Compte bancaire` Conta bancária 🚹
 -   `Information` Informação
 -   `Mémoire` Memória
--   `Permis` Permissão/Licença (M)
+-   `Permis` Permissão/Licença 🚹
 -   `Embouteillage` Engarrafamento
 -   `Ligne` Linha
 
@@ -257,7 +257,7 @@
 
 -   `Mètre` Metro
 -   `Kilomètre` Quilômetro
--   `Gramme` Grama (M)
+-   `Gramme` Grama 🚹
 -   `Kilo` Quilo
 -   `Litre` Litro
 
@@ -265,13 +265,13 @@
 
 -   `Vol` Vôo
 -   `Bagage` Bagagem
--   `Billet` Passagem (M)
--   `Voiture` Carro (F)
--   `Train` Trem (F)
+-   `Billet` Passagem 🚹
+-   `Voiture` Carro 🚺
+-   `Train` Trem 🚺
 -   `Avión` Avião
 -   `Métro` Metrô (Veículo)
 -   `Bus` Ônibus
--   `Vélo` Bicicleta (M)
+-   `Vélo` Bicicleta 🚹
 -   `Bateau` Barco
 -   `Hélicoptère` Helicóptero
 -   `Tram` Bonde
@@ -290,7 +290,7 @@
 -   `Ménage` Trabalho doméstico
 -   `Film` Filme
 -   `Série`
--   `Émission` Programa (F)
+-   `Émission` Programa 🚺
 -   `Épisode` Episódio
 -   `Concert` Concerto
 -   `Jeu` Jogo
@@ -299,9 +299,9 @@
     -   `Site`
 -   `Lien` Link
 -   `Chaîne` Canal
--   `Reportage` Reportagem (M)
+-   `Reportage` Reportagem 🚹
 -   `Vidéo` Vídeo
--   `Application` Aplicativo (F)
+-   `Application` Aplicativo 🚺
 -   `Yoga` Ioga
 -   `Guerre` Guerra
 -   `Accident` Acidente
@@ -343,6 +343,6 @@
 -   `Album` Álbum
 -   `Rap`
 -   `Jazz`
--   `Pop` (F)
+-   `Pop` 🚺
 
 ## Outros

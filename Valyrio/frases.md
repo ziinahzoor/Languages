@@ -1,4 +1,4 @@
-# Saudações
+# Frases
 
 -   `Valar Morghulis` Todos os homens devem morrer
 -   `Valar Dohaeris` Todos os homens devem servir

@@ -1,7 +1,7 @@
 # I Posti - Lugares
 
 -   `Teatro`
--   `Banca` Banco (F)
+-   `Banca` Banco 🚺
 -   `Pizzeria` Pizzaria
 -   `Ristorante` Restaurante
 -   `Negozio` Loja
@@ -22,7 +22,7 @@
 
 ## Cidades
 
--   `Londra` Londres (F)
+-   `Londra` Londres 🚺
 
 ## L'Italia - Itália
 

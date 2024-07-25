@@ -68,7 +68,7 @@
 -   `Banco`
 -   `Hospital`
 -   `Museo` Museu
--   `Calle` Rua (F)
+-   `Calle` Rua 🚺
 -   `Carretera` Estrada
 -   `Supermercado`
 -   `Restaurante`
@@ -79,8 +79,8 @@
 -   `Escuela` Escola
 -   `Estación` Estação
 -   `Parque`
--   `Oficina` Escritório (F)
--   `Taller` Oficina (M)
+-   `Oficina` Escritório 🚺
+-   `Taller` Oficina 🚹
 -   `Fábrica`
 -   `Universidad` Universidade
 -   `Biblioteca`
@@ -93,7 +93,7 @@
 -   `Probador` Provador
 -   `Zoológico`
 -   `Mundo`
--   `Aula` Sala de aula (M)
+-   `Aula` Sala de aula 🚹
 -   `Entrada`
 -   `Granja` Fazenda
 -   `Gimnasio` Academia

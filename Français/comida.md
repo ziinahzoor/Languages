@@ -11,8 +11,8 @@
 -   `Fromage` Queijo
 -   `Jambon` Presunto
 -   `Dessert` Sobremesa
--   `Glace` Sorvete (F)
--   `Dessert` Sobremesa (M)
+-   `Glace` Sorvete 🚺
+-   `Dessert` Sobremesa 🚹
 -   `Œuf` Ovo
 -   `Gâteau` Bolo
 -   `Huile` Óleo
@@ -20,24 +20,24 @@
 -   `Yaourt` Iogurte
 -   `Patê` Massa
 -   `Miel` Mel
--   `Beurre` Manteiga (M)
+-   `Beurre` Manteiga 🚹
 -   `Céréal` Cereal
 -   `Bonbon` Doce
 -   `Biscuit` Biscoito
--   `Crêpe` Crepe (F)
+-   `Crêpe` Crepe 🚺
 -   `Soupe` Sopa
 -   `Pique-nique` Piquenique
 -   `Farine` Farinha
 -   `Porc` Carne de porco
 -   `Poulet` Frango
 -   `Pâte` Massa
--   `Huile` Óleo (F)
+-   `Huile` Óleo 🚺
 -   `Ail` Alho
 -   `Vinaigre` Vinagre
 -   `Saucisse` Salsicha
 -   `Crème` Creme
 -   `Purée` Purê/Mingau
--   `Pain grillé` Torrada (M)
+-   `Pain grillé` Torrada 🚹
 -   `Jambon` Presunto
 -   `Oignon` Cebola
     -   `Ognon` Pós-reforma de 90
@@ -47,7 +47,7 @@
 -   `Sushi`
 -   `Frite salée` Batata frita
 -   `Poivre` Pimenta
--   `Épice` Tempero (F)
+-   `Épice` Tempero 🚺
 -   `Omelette` Omelete
 -   `Crème fraîche` Nata
 -   `Barbecue` Churrasco
@@ -57,11 +57,11 @@
 -   `Pomme de terre` Batata
 -   `Riz` Arroz
 
-## Les Fruits (M) (Frutas)
+## Les Fruits 🚹 (Frutas)
 
--   `Tomate` (F)
+-   `Tomate` 🚺
 -   `Orange` Laranja
--   `Fraise` Morango (F)
+-   `Fraise` Morango 🚺
 -   `Banane` Banana
 -   `Pomme` Maçã
 -   `Pêche` Pêssego
@@ -90,7 +90,7 @@
 
 ## Les repas (Refeições)
 
--   `Repas` Refeição (M)
+-   `Repas` Refeição 🚹
 -   `Petit déjeuner` Café da manhã
 -   `Déjeuner` Almoço
 -   `Dîner` Jantar

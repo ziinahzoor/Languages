@@ -64,7 +64,7 @@
 ## Días Especiales - Dias Especiais
 
 -   `Acción de Gracias` Ação de Graças
--   `Navidad` Natal (F)
+-   `Navidad` Natal 🚺
 -   `Nochebuena` Véspera de Natal
 -   `Nochevieja` Véspera de Ano Novo
 -   `Año Nuevo` Ano Novo

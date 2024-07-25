@@ -3,8 +3,8 @@
 -   `Hund` Cachorro
 -   `Eule` Coruja
 -   `Bär` Urso
--   `Katze` Gato (F)
--   `Maus` Rato (F)
+-   `Katze` Gato 🚺
+-   `Maus` Rato 🚺
 -   `Elefant` Elefante
 -   `Hähnchen` Frango
 -   `Fisch` Peixe

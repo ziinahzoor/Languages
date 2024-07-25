@@ -11,7 +11,7 @@
 -   `Dinosaurio` Dinossauro
 -   `Vaca`
 -   `Cerdo` Porco
--   `Búho` Coruja (M)
+-   `Búho` Coruja 🚹
 -   `Pez` Peixe
 -   `Conejo` Coelho
 -   `Elefante`
@@ -22,4 +22,4 @@
 
 ## Relacionado
 
--   `Mascota` Animal de estimação (F)
+-   `Mascota` Animal de estimação 🚺

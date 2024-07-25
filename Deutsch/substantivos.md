@@ -10,8 +10,8 @@
 -   `Kasse` Caixa registradora
 -   `Beruf` Profissão
 -   `Sprachen` Línguas
--   `Schuhe` Sapatos (F)
--   `Klavier` Piano (N)
+-   `Schuhe` Sapatos 🚺
+-   `Klavier` Piano ✴️
 -   `Frage` Pergunta
 -   `Fernseher` Televisão
 -   `Fußballspiel` Jogo de futebol
