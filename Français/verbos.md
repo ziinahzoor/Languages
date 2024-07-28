@@ -8,6 +8,7 @@
 -   `Être` Ser/Estar
 -   `Prendre` Pegar
     -   `Prendre soin` Cuidar
+    -   `Prendre des nouvelles` Receber notícias/Se informar/Checar (alguém)
 -   `Apprendre` Aprender
     -   `S'apprendre` Ensinar
 -   `Comprendre` Entender
@@ -180,6 +181,7 @@
 -   `Pleurer` Chorar
 -   `Casser` Quebrar
 -   `Pousser` Empurrar
+-   `Blesser` Machucar/Ferir
 
 ## -ir Verbes
 
@@ -188,6 +190,7 @@
     -   `Avoir honte de` Envergonhar-se
     -   `Avoir de la chance` Ter sorte
     -   `Avoir envie` Desejar
+    -   `Avoir l'air` Parecer/Ter o semblante
 -   `Vouloir` Querer
 -   `Ouvrir` Abrir
 -   `Devoir` Dever
@@ -219,6 +222,7 @@
 -   `Accueillir` Acolher/Recepcionar
 -   `Recevoir` Receber
 -   `Falloir` Dever/Precisar/Ter necessidade
+    -   Impessoal (só é utilizado na terceira pessoa)
 -   `Prévoir` Prever/Planejar
 
 ## Les Verbes Défectueux - Verbos Defectivos

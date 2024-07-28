@@ -2,9 +2,9 @@
 
 \*\*As palavras em Alto Valiriano se dividem em quatro gêneros: Lunar, Solar, Aquático e Terrestre.
 
-| Gênero | 🌙    | ☀️    | 🌱  | 🌊  |
-| ------ | ----- | ----- | --- | --- |
-| Final  | Vogal | -s/-z | -n  | -r  |
+| Gênero | `🌙`  | `☀️`  | `🌱` | `🌊` |
+| ------ | ----- | ----- | ---- | ---- |
+| Final  | Vogal | -s/-z | -n   | -r   |
 
 ## 🌙 Hūrenkon qogror - Lunar
 

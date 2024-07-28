@@ -10,6 +10,8 @@
     -   `けれども` Formal
 -   `では` Ok então.../Então.../Bem...
     -   `じゃあ`
+-   `それでは` Então.../Bem.../Se este é o caso...
+    -   Geralmente usado pra encerrar conversas ou introduzir observações.
 -   `また` Também
 -   `ところで` A propósito
 -   `たとえば` Por exemplo
@@ -23,3 +25,4 @@
 
 -   `ほら・ほれ` Olha!/Aqui!
     -   Usado para chamar a atenção de alguém
+-   `よし` Certo!/Ok!/Muito bem!/Parece bom!

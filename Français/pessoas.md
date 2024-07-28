@@ -78,6 +78,9 @@
 -   `Pilote` Piloto
 -   `Roi` Rei
 -   `Reine` Rainha
+-   `Docteur` Doutor
+-   `Infirmier` Enfermeiro
+-   `Patient` Paciente
 
 ## La famille - Família
 

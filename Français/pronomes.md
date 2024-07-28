@@ -111,6 +111,9 @@
     </tr>
 </table>
 
+> [!IMPORTANT]
+> Se o verbo começa com som de vogal, `je` elide em `j'`.
+
 **Os _pronomes_ possessivos são acompanhados de artigos definidos.**
 
 **Nos _adjetivos_ possessivos também se usa `de` para indicar a posse de algo**
@@ -135,7 +138,7 @@
 
 ## Démonstratifs - Demonstrativos
 
-**`Ce` quando usado como pronome tem um sentido mais neutro e quase sempre é usado antes de algum substantivo e o verbo être**
+**`Ce` quando usado como pronome tem um sentido mais neutro e quase sempre é usado antes de algum substantivo e o verbo être. É invariável: como pronome, esta também é sua forma plural.**
 
 **Exceto para comparação, casualmente o `ci` e o `là` são usados.**
 

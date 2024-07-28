@@ -164,6 +164,8 @@
 
 **Costumam acompanhar o verbo.**
 
+**`すう` é um prefixo que indica "muitos" ou "vários"**
+
 **Contadores de tempo quando acompanhados pela partícula `に`, indicam periodicidade. Ex.: `一日に` "diário",`二日に` "a cada dois dias", `一箇月に` "mensal".**
 
 ### `つ` Coisas (até 10)

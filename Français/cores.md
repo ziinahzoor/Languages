@@ -1,5 +1,7 @@
 # Les Couleurs - Cores
 
+**Cores derivadas de substantivos costumam ser invariáveis em gênero e número.**
+
 -   `Noir` Preto
 -   `Rouge` Vermelho
 -   `Blanc` Branco
@@ -10,5 +12,6 @@
 -   `Gris` Cinza
 -   `Jaune` Amarelo
 -   `Orange` Laranja
+    -   Invariável
 -   `Marron` Marrom
-    -   Não se modifica no plural
+    -   Invariável

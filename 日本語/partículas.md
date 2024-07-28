@@ -60,6 +60,7 @@
 ## <ruby>間<rt>かん</rt>投<rt>とう</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> Partículas interjetivas
 
 -   `ね` Confirmação
+    -   `な・なあ` Mais informal/Usado bastante em Kansai
     -   Semelhante ao "né?" brasileiro
     -   Pode ser usado com um comando para soar mais tranquilizador
 -   `よ` Afirmação
@@ -74,8 +75,12 @@
 -   `まで` Até
     -   Indica até quando algo acontece.
 -   `だけ` Só/Somente
+    -   Neutro
     -   Limita o escopo do que foi dito antes.
     -   Indica que não pode ser mais do que o declarado.
+-   `しか` Só/Somente
+    -   Indica condescendência, desagrado.
+    -   É utilizado apenas com frases negativas.
 -   `ばかり` Só/Apenas/Nada além de/Acabou de
     -   Semelhante ao "just".
     -   Quantidade ou Amplitude. Ex.: Estou apenas comendo.
@@ -101,9 +106,11 @@
 -   `ので` Por causa de/Porque
     -   Vem no final da frase.
     -   Usar `な` antes com substantivos e adjetivos な.
+    -   Indica causalidade: porque "uma coisa", então "outra coisa".
 -   `のに` Apesar de/Para/A fim de
-    -   Vem no final da frase.
+    -   No final da frase indica conjunção "apesar de".
     -   Mais forte que o `けど` e geralmente indica arrependimento.
+    -   Se vem no meio da frase (A のに B), indica que B acontece para que A possa acontecer.
 -   `けど` Mas/Apesar
     -   `けれども` Formal
 -   `たら` Partícula condicional

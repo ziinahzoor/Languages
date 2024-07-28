@@ -179,6 +179,7 @@
 -   `Scène` Palco
 -   `Théâtre` Teatro
 -   `Trottoir` Calçada
+-   `Salle d'attente` Sala de espera
 
 ## France - França
 

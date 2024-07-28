@@ -80,11 +80,11 @@
 -   `Parce que` Porque
     -   Pode vir no início da frase
     -   Indica motivo ou razão
-    -   Informal
+    -   Informal, mais utilizado na conversação.
 -   `Car` Porque
     -   Não pode vir no início da frase
     -   Mais usado para justificar ou explicar
-    -   Formal
+    -   Formal, mais utilizado na escrita.
 -   `Puisque` Porque/Desde que
     -   Pode vir no início da frase
     -   Pode substituir `parce que` e `car`

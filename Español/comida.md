@@ -50,7 +50,7 @@
 
 ## Las Bebidas
 
--   `Agua` Água 🚺
+-   `Agua` Água 🚹
 -   `Leche` Leite 🚺
 -   `Café`
 -   `Jugo` Suco
@@ -60,6 +60,7 @@
 -   `Alcohol` Álcool
 -   `Champán` Champanhe
 -   `Refresco` Refrigerante
+-   `Limonada`
 
 ## Refeições
 

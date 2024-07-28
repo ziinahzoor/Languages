@@ -125,6 +125,8 @@
 -   `ひやけどめ` Protetor solar
 -   `ストロー` Canudo
 -   `デコレーション` Decoração
+-   `めんきょ` Licença/Permissão/Carteira de motorista
+-   `ようひん` Utensílio/Equipamento
 
 ## Elétricos e Eletrônicos
 
@@ -169,7 +171,6 @@
 -   `ミス` Erro
 -   `でんわばんごう` Número de telefone
 -   `キス` Beijo
--   `しゅみ` Hobby
 -   `でんき` Eletricidade
 -   `たび` Jornada
 -   `しんぽ` Progresso
@@ -372,6 +373,9 @@
 -   `スピーチ` Discurso
 -   `ボウリング` Boliche
 -   `プログラミング` Programação
+-   `しゅみ` Hobby
+-   `つり` Pesca
+-   `たっきゅう` Pingue-pongue/Tênis de mesa
 
 ### <ruby>学<rt>がっ</rt>校<rt>こう</rt></ruby> - Escola
 
@@ -410,6 +414,7 @@
 -   `スキー` Esqui
 -   `スノボ` Snowboarding
 -   `ミニゴルフ` Mini-golfe
+-   `ゴルフ` Golfe
 -   `たいかい` Torneio
 -   `ジョギング` Corrida
 -   `ボクシング` Boxe

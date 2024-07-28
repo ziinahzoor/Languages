@@ -106,6 +106,10 @@
 -   `Planear` Planejar
 -   `Reservar`
 -   `Regresar` Regressar/Voltar
+-   `Pescar`
+-   `Entrar`
+-   `Reparar`
+-   `Asar` Assar
 
 ## Los verbos -er
 

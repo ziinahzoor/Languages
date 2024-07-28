@@ -6,7 +6,8 @@
 -   `Quand` Quando
 -   `Si` Se
 -   `Donc` Então/Portanto
-    -   Indica causalidade1
+    -   Indica causalidade, consequência.
+    -   Pode ser substituído por `alors` (o contrário não necessariamente).
 
 # Interjections - Interjeições
 

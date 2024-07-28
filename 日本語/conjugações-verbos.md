@@ -133,10 +133,12 @@
 -   É um sufixo intransitivo, portanto, se o verbo que o acompanha for intransitivo, pode usar ambas a partículas `が` e `を`.
 -   Só serve para se referir a si. Para se referir ao que outra pessoa quer, usar `たがる`.
 -   Pode usar a cópula para formalidade.
+-   Para ser ainda mais educado, pode-se usar a forma de desejo mais `のですが・んですが` para dizer algo como "Eu gostaria de...".
 
 #### そう<ruby>形<rt>けい</rt></ruby> - Forma aparente (そう)
 
 -   Indica que a parece que alguma ação vai acontecer.
+-   Quando usado com a forma plana do verbo, indica que você ouviu alguém dizer que alguma ação vai acontecer.
 -   Aceita `です` no fim.
 
 #### Forma composta
@@ -181,7 +183,10 @@
 -   Forma-se outro verbo, adicionando o verbo ichidan aulixiar `る`.
     -   `られる` para verbos ichidan. Na conversação, o `ら` geralmente não é dito.
 -   Este verbo é a forma potencial: demonstra a capacidade da ação ser feita.
--   Geralmente acompanha `が`
+-   Geralmente o verbo na forma potencial acompanha a partícula `が`.
+-   `Forma plana` + `ことができる` é usado em contextos formais.
+-   Verbos する intuitivamente devem usam a forma potencial de `する`: `できる`.
+    -   `Substantivo-verbo` + `することができる` em contextos formais.
 -   `分かる` (entender) já expressa potencial, portanto sua forma potencial não é usada.
 -   `ある` não possui forma potencial.
 
@@ -343,6 +348,14 @@
     -   A dupla negação resulta em uma obrigação: "Tenho que...". O último caso também pode ser entendido como "Tenho que dar o meu melhor também!" (negação implícita na segunda frase).
     -   Comumente usado com `だめ`, `いけない` e `ならない`.
 -   `ては` pode ser abreviado para `ちゃ` e `では` pode ser abreviado para `じゃ`.
+
+#### Forma て+はいけません
+
+-   Forma proibitiva: "não se deve fazer...".
+
+#### Forma て+Verbo de transferência - Favores
+
+-   Ao usar a forma `て` com algum verbo de transferência como `あげる`, `やる`, `くださる`, `もらう` e `いただく`, indica-se que se está fazendo algo para alguém ou vice-versa, para si mesmo ou alguém está fazendo algo para outra pessoa. Ex.: `。。。花を買ってくれた` "...comprou flores para mim".
 
 ---
 

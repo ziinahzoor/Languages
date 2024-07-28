@@ -69,7 +69,8 @@
 -   `Hospital`
 -   `Museo` Museu
 -   `Calle` Rua 🚺
--   `Carretera` Estrada
+-   `Carretera` Estrada/Rodovia
+-   `Mercado`
 -   `Supermercado`
 -   `Restaurante`
 -   `Tienda` Loja
@@ -110,3 +111,4 @@
 -   `Ópera`
 -   `Estadio` Estádio
 -   `Capital`
+-   `Cafetería` Cafeteria

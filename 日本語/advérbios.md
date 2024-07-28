@@ -20,6 +20,7 @@
 -   `つぎ` Próximo (Ordem)
 -   `とても` Muito (Intensidade)
 -   `あまり` Não muito (Geralmente usado com frases negativas, polar inverso de とても)
+-   `たいへん` Muito/Extremamente
 -   `たくさん` Muito (Quantidade)
 -   `たまに` Ocasionalmente/De vem em quando
 -   <font size="5"><code><ruby>時々<rt>ときどき</rt></ruby></code></font> Às vezes
@@ -58,18 +59,24 @@
 -   `さいきん` Recentemente/Ultimamente
 -   `けっこう` Satisfatoriamente/Bastante/Quase sempre
 -   <font size="5"><code><ruby>一<rt>いち</rt>日<rt>にち</rt>中<rt>じゅう</rt></ruby></code></font> O dia inteiro
--   `ぜんぜん` Nem um pouco
+-   `まったく` Inteiramente/Completamente
+-   `ぜんぜん` Nem um pouco/De forma alguma
+    -   Usado com frases negativas
 -   `かならず` Sempre (Sem exceção)/Certamente/Sem dúvidas
 -   `まあまあ` Mais ou menos/Razoável
     -   Também serve para confortar alguém, como um "calma, calma". Para animais se usa `どうどう`
 -   `なるほど` Correto/De fato
--   `ほとんど` Quase
+-   `ほとんど` Quase/Praticamente/Majoritariamente
+    -   Em frases negativas significa "dificilmente", "quase não".
 -   `しばらく` Por um tempo
 -   `どれぐらい` Quão longe/Quantas vezes
 -   `いちばん` O melhor/O mais...
 -   <font size="5"><code><ruby>半<rt>はん</rt>分<rt>ぶん</rt></ruby></code></font> Metade
 -   `ぜひ` Certamente/Com certeza
     -   Possui um tom encorajador
+-   `できるだけ` O tanto quanto possível
+-   `つい` Sem querer/Por engano
+-   `うっかり` Descuidadamente
 
 ## Auxiliares
 

@@ -48,7 +48,7 @@
 
 ## Classificação das palavras
 
-<img src="https://cdn.innovativelanguage.com/sns/em/blog/21/Grammar/pasted+image+0.png" alt="Runas Dovahzul" style="width:50rem; background-color: #E8F9FD; border-radius: 10px; padding: 5px;border: 5px black solid;
+<img src="https://cdn.innovativelanguage.com/sns/em/blog/21/Grammar/pasted+image+0.png" alt="Classificação das palavras" style="width:50rem; background-color: #E8F9FD; border-radius: 10px; padding: 5px;border: 5px black solid;
 "/>
 
 <!-- prettier-ignore-start -->

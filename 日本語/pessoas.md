@@ -3,7 +3,13 @@
 -   `みんな` Todos/Pessoal/Todo mundo
 -   <font size="5"><code><ruby>外<rt>がい</rt>国<rt>こく</rt>人<rt>じん</rt></ruby></code></font> Estrangeiro
 -   <font size="5"><code><ruby>大人<rt>おとな</rt></ruby></code></font> Adulto
+-   <font size="5"><code><ruby>女<rt>おんな</rt></ruby></code></font> Mulher
+    -   <font size="5"><code><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Formal
+-   <font size="5"><code><ruby>男<rt>おとこ</rt></ruby></code></font> Homem
+    -   <font size="5"><code><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Formal
 -   <font size="5"><code><ruby>子<rt>こ</rt>供<rt>ども</rt></ruby></code></font> Criança
+-   <font size="5"><code><ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby></code></font> Menina
+-   <font size="5"><code><ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby></code></font> Menino
 -   `あかちゃん` Bebê
 -   `いしゃ` Médico
 -   <font size="5"><code><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></code></font> Professor/Doutor (Médico)

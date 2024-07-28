@@ -58,6 +58,10 @@
 | Vous       | êtes   | avez  | allez  | faites  |
 | Ils/Elles  | sont   | ont   | vont   | font    |
 
+### Le Present Continu - Presente Contínuo
+
+-   Formado pelo verbo `être` + `en train de` + [verbo].
+
 ### Participe Present - Particípio do Presente
 
 **O gerúndio é formado por `en`+particípio.**

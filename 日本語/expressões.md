@@ -6,9 +6,6 @@
 -   `ほんとうですか` Sério?/De verdade?
     -   `ほんとう` Informal
 -   `だいじょうぶですか` Está tudo bem?
--   `ただいま` Cheguei em casa
--   `いってきます` Estou indo
-    -   `いって` Indo + `きます` Vir = Estou indo, e vou voltar
 -   `いただきます` Vamos comer!
 -   `ぐあいがわるい` Está doente
     -   Literalmente "a saúde está mal"
@@ -31,6 +28,12 @@
 -   `〜ようにする` Tentar/Garantir que
     -   Tem o sentido de fazer um esforço para que algo aconteça
     -   `〜ように` Outra forma de fazer o imperativo se usado no fim da frase.
+-   `について。。。` Sobre.../A respeito de...
+-   `。。。とおり` Como esperado/Como prometido
+-   `ところ` Acabou de.../Está prestes a...
+    -   Usado com verbos na forma plana
+-   `。。。として` Como.../Do ponto de vista de...
+-   `。。。によると・によれば` De acordo com...
 
 ## <ruby>相<rt>あい</rt>槌<rt>づち</rt></ruby> - Interjeições de atenção
 

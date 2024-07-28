@@ -55,6 +55,7 @@
 -   `Triste`
 -   `Neuf` Novo (Condição)
     -   `Tout neuf` Novo em folha
+    -   Não é um adjetivo BAGS.
 -   `Nouveau` Novo (Pra mim)
     -   `Nouvel` Se começa com som de vogal
 -   `Nouvelle` Nova (Pra mim)
@@ -181,3 +182,4 @@
 -   `Furieux` Furioso
 -   `Étranger` Estrangeiro
 -   `Turistique` Turístico
+-   `Aimable` Amável

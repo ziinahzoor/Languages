@@ -6,6 +6,7 @@
 -   -   `Flor`
 -   `Río` Rio
 -   `Lago`
+-   `Océano` Oceano
 -   `Viento` Vento
 -   `Sol`
 -   `Nieve` Neve
@@ -107,6 +108,7 @@
 -   `Asiento` Assento
 -   `Paraguas` Guarda-chuva
 -   `Cajón` Gaveta 🚹
+-   `Diario` Diário
 
 ## Abstratos
 
@@ -225,14 +227,16 @@
 -   `Carrera` Corrida
 -   `Dibujo animado` Desenho animado
 -   `Guerra`
+-   `Video` Vídeo
 
 ### Áreas de Estudo
 
 -   `Gramática`
--   `Historia`
+-   `Historia` História
 -   `Química`
--   `Geografía`
+-   `Geografía` Geografia
 -   `Literatura`
+-   `Ciencia` Ciência
 
 ### Esporte
 
@@ -246,6 +250,7 @@
 -   `Tenis` Tênis
 -   `Golf` Golfe
 -   `Ciclismo`
+-   `Rugby` Rúgbi
 
 ## Música
 
@@ -254,5 +259,6 @@
 ### Instrumentos
 
 -   `Violín` Violino
+-   `Tambor` Bateria 🚹
 
 ## Outros

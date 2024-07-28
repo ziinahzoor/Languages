@@ -130,6 +130,8 @@
 -   `Tiroir` Gaveta 🚹
 -   `Commode` Cômoda
 -   `Fauteuil` Cadeirão/Poltrona
+-   `Médicament` Medicamento/Remédio
+-   `Pansement` Band-aid
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -154,7 +156,7 @@
 ## Abstratos
 
 -   `Essence` Essência
--   `Rendez-vous` Encontro 🚹
+-   `Rendez-vous` Encontro/Compromisso/Consulta 🚹
 -   `Chose` Coisa
 -   `Réponse` Resposta
 -   `Idée` Ideia
@@ -252,6 +254,7 @@
 -   `Permis` Permissão/Licença 🚹
 -   `Embouteillage` Engarrafamento
 -   `Ligne` Linha
+-   `Instruction` Instrução
 
 ### Unidades de medida
 
@@ -277,6 +280,7 @@
 -   `Tram` Bonde
 -   `Moto`
 -   `Trottinette` Patinete
+-   `Ambulance` Ambulância
 
 ## Atividades
 
@@ -320,6 +324,7 @@
 -   `Biologie` Biologia
 -   `Manuel` Livro didático/Manual
 -   `Art` Arte
+-   `Médecine` Medicina
 
 ### Esporte
 

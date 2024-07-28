@@ -131,6 +131,7 @@
     -   Forma `ta`: `行った`
     -   Forma `te`: `行って`
     -   `いらっしゃる` Sonkeigo (Godan).
+    -   `Radical de outro verbo` + `に行く` Ir para (realizar ação do verbo)
 -   `つく` Chegar
 -   <font size="5"><code><ruby>弾<rt>ひ</rt>く</ruby></code></font> Tocar instrumento (com cordas ou teclas)
 -   <font size="5"><code><ruby>引<rt>ひ</rt>く</ruby></code></font> Puxar
@@ -172,8 +173,9 @@
     -   `に会う` Encontrar o/a
 -   `まつ` Esperar
 -   `うつ` Bater/Atingir/Acertar
--   `もつ` Carregar/Segurar
-    -   `もってくる` Trazer
+-   <font size="5"><code><ruby>持<rt>も</rt></ruby>つ</code></font> Carregar/Segurar
+    -   <font size="5"><code><ruby>持<rt>も</rt></ruby>っている</code></font> Ter (Posse)
+    -   <font size="5"><code><ruby>持<rt>も</rt></ruby>ってくる</code></font> Trazer
 -   `つかう` Usar
 -   `わらう` Rir
 -   `はらう` Pagar
@@ -221,6 +223,7 @@
 -   `なおる` Recuperar/Curar
 -   `ぬる` Aplicar/Pintar
     -   Serve para remédios
+-   `かぶる` Vestir/Usar (Na cabeça)
 
 ## 一段 - Ichidan
 
@@ -270,6 +273,7 @@
 -   `はじめる` Começar (T)
 -   `しらべる` Examinar/Dar uma olhada
 -   `うける` Pegar/Receber/Passar por um evento
+-   `なくなる` Falecer
 
 ## Verbos する
 
@@ -297,7 +301,7 @@
 -   `キャンセル` Cancelar
 -   <font size="5"><code><ruby>電<rt>でん</rt>話<rt>わ</rt></ruby></code></font> Ligar/Falar ao telefone
     -   Geralmente acompanha o `に`
--   `メール` Enviar um e-mail
+-   `メール` Enviar um e-mail/mensagem de texto
 -   `しょうかい` Apresentar/Introduzir
 -   `さんぽ` Passear
 -   `りゅうがく` Fazer intercâmbio
@@ -308,3 +312,4 @@
 -   `サイクリング` Fazer ciclismo
 -   `あいさつ` Cumprimentar
 -   `チェック` Checar/Verificar
+-   `つり` + `を` Pescar

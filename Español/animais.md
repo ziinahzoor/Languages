@@ -17,6 +17,8 @@
 -   `Elefante`
 -   `Oso`
 -   `Oveja` Ovelha
+-   `Rata` Rato 🚺
+-   `Mono` Macaco
 
 ## Los Insectos - Insetos
 

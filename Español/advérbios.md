@@ -54,3 +54,4 @@
 -   `Lentamente`
 -   `Excepto` Exceto
 -   `Probablemente` Provavelmente
+-   `Así` Assim

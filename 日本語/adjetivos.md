@@ -9,6 +9,7 @@
 -   `いい` Bom
     -   `よい` Bom (Formal). Esta é utilizada em todas as outras formas. Todos os outros adjetivos que usam `いい` como radical devem seguir a mesma ideia.
         -   Forma aparente: `よさそう`
+    -   `よろしい` Sonkeigo
 -   `かっこいい` Legal
     -   Adjetivo `いい`
 -   `ダサい` Brega/Sem estilo
@@ -26,7 +27,7 @@
 -   `かわいい` Fofo
 -   `おもしろい` Interessante/Engraçado
 -   `つまらない` Entediante
--   `たのしい` Divertido/Aprazível
+-   <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しい</code></font> Divertido/Aprazível
 -   `うるさい` Barulhento/Irritante
 -   `いそがしい` Ocupado
 -   `あたまがいい` Inteligente
@@ -60,6 +61,7 @@
     -   Se refere à dificuldade intrínseca de algo.
 -   `かたじけない` Agradecido
 -   `こわい` Assustador
+-   <font size="5"><code><ruby>少<rt>すく</rt>ない</ruby></code></font> Pouco(s)/Insuficiente
 -   <font size="5"><code><ruby>多<rt>おお</rt>い</ruby></code></font> Muito(s)/Demais
 -   `かるい` Leve
 -   `おもい` Pesado
@@ -125,6 +127,7 @@
 -   `へん` Estranho/Esquisito
 -   `ヘルシー` Saudável
 -   `さいこう` Fantástico
+-   `しあわせ` Feliz
 
 ## Adjetivos-verbo
 
@@ -137,3 +140,4 @@
     -   <font size="5"><code><ruby>大<rt>だい</rt>好<rt>す</rt>き</ruby></code></font> Amável `な`
 -   <font size="5"><code><ruby>嫌<rt>きら</rt>い</ruby></code></font> Desgostável/Odiável `な`
 -   <font size="5"><code><ruby>痛<rt>い</rt>たい</ruby></code></font> Doloroso/Vergonhoso
+-   `とくい` Ser bom em `な`

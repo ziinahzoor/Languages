@@ -52,7 +52,7 @@
 ## <ruby>促<rt>そく</rt>音<rt>おん</rt></ruby>と<ruby>長<rt>ちょう</rt>音<rt>おん</rt>符<rt>ぷ</rt></ruby> - Consoantes geminadas e vogais longas
 
 -   Dobram o som da consoante ou vogal.
--   Para consoantes, adiciona-se um pequeno <ruby>`ツ`<rt>tsu</rt></ruby> antes da consoante que se deseja dobrar. Usado para _k_, _s_, _t_ e _p_.
+-   Para consoantes, adiciona-se um pequeno <ruby>`ツ`<rt>tsu</rt></ruby> (<code><ruby>促<rt>そく</rt>音<rt>おん</rt></ruby></code>) antes da consoante que se deseja dobrar. Usado para _k_, _s_, _t_ e _p_.
 -   Para vogais, utiliza-se `ー` após a vogal.
 
 ## Ordem dos traços

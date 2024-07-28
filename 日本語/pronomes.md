@@ -138,7 +138,7 @@
 -   `だれか` Alguém
 -   `いつか` Alguma hora/Algum dia
 
-### Indiferença
+### Indiferença ou Inclusividade
 
 **Adicionar `でも` ao interrogativo.**
 

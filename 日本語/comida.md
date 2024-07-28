@@ -79,6 +79,9 @@
 -   `ブロッコリー` Brócolis
 -   `マヨネーズ` Maionese
 -   `キャラメル` Caramelo
+-   `プリン` Pudim
+-   `ラザニア` Lasanha
+-   `スパイス` Tempero
 
 ## <ruby>果<rt>くだ</rt>物<rt>もの</rt></ruby> - Frutas
 

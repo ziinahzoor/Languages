@@ -8,15 +8,22 @@
 -   `もしもし` Alô
 -   `おはようございます` Bom dia
 -   `こんばんは` Boa noite
+-   `ただいま` Cheguei em casa
 -   `ようこそ` Bem-vindo
     -   `いらっしゃいませ` Bem-vindo (Usado em estabelecimentos)
     -   `おかえりなさい` Bem-vindo de volta (à casa)
+-   `しつれいします` Com licença (Ao entrar ou sair de uma sala)
 
 ### Ao partir
 
 -   `じゃあね` Tchau
 -   `またあした` Até amanhã
 -   `おやすみなさい` Boa noite (Ao se despedir)
+-   `いってきます` Estou indo
+    -   `いって` Indo + `きます` Vir = Estou indo, e vou voltar
+-   `いってらっしゃい` Tenha cuidado/Estarei esperando
+-   `おさきにしつれいします` Desculpe por sair (mais cedo que você)
+    -   `おつかれさまでした` Não tem problema, você trabalhou muito
 
 ### Apresentação
 
@@ -53,5 +60,6 @@
 -   `どういたしまして` De nada
     -   `いいえ` Mais comum
 -   `ごちそうさまでした` Obrigado pela comida
+-   `おつかれさまです` Você está fazendo um bom trabalho (no trabalho)
 
 ## Concordância
