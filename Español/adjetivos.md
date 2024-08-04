@@ -140,3 +140,7 @@
 -   `Fresco`
 -   `Roto` Quebrado
 -   `Vacío` Vazio
+-   `Increíble` Incrível
+-   `Propio` Próprio
+-   `Silvestre`
+-   `Simple` Simples

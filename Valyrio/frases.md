@@ -2,7 +2,7 @@
 
 -   `Valar Morghulis` Todos os homens devem morrer
 -   `Valar Dohaeris` Todos os homens devem servir
--   `Jiorna` Bem-vindo
+-   `Jiōrna` Bem-vindo
 -   `Kirimvose` Obrigado
 -   `Biarvose` De nada
 -   `Kostilus` Por favor

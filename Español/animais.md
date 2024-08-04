@@ -19,6 +19,9 @@
 -   `Oveja` Ovelha
 -   `Rata` Rato 🚺
 -   `Mono` Macaco
+-   `Serpiente` Cobra
+-   `León` Leão
+-   `Pato`
 
 ## Los Insectos - Insetos
 

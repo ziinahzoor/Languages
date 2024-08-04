@@ -13,6 +13,8 @@
 -   `Rivière` Córrego/Riacho 🚺
 -   `Boue` Lama
 -   `Feu` Fogo
+-   `Vague` Onda
+-   `Tempête` Tempestade
 
 ## Casa e objetos
 
@@ -255,6 +257,7 @@
 -   `Embouteillage` Engarrafamento
 -   `Ligne` Linha
 -   `Instruction` Instrução
+-   `Mariage` Casamento
 
 ### Unidades de medida
 
@@ -276,6 +279,7 @@
 -   `Bus` Ônibus
 -   `Vélo` Bicicleta 🚹
 -   `Bateau` Barco
+    -   `Voilier` Barco à vela
 -   `Hélicoptère` Helicóptero
 -   `Tram` Bonde
 -   `Moto`
@@ -311,6 +315,8 @@
 -   `Accident` Acidente
 -   `Avant-première` Premiere (de filme)
 -   `Danse` Dança
+-   `Cerf-Volant` Pipa 🚹
+-   `Excursion` Excursão
 
 ## Estudo
 
@@ -336,6 +342,7 @@
 -   `Course à pied` Corrida
 -   `Rugby` Rúgbi
 -   `Handball` Handebol
+-   `Snowboard`
 
 ## Música
 

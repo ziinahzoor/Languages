@@ -6,6 +6,7 @@
 ## Los verbos -ar
 
 -   `Estar`
+    -   `Estar de acuerdo` Estar de acordo
 -   `Hablar` Falar
 -   `Necesitar` Necessitar
 -   `Pagar`
@@ -110,6 +111,7 @@
 -   `Entrar`
 -   `Reparar`
 -   `Asar` Assar
+-   `Completar`
 
 ## Los verbos -er
 
@@ -171,3 +173,6 @@
 -   `Preferir`
 -   `Pedir`
 -   `Servir`
+-   `Pedir`
+-   `Morir` Morrer
+-   `Repetir`

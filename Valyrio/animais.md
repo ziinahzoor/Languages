@@ -23,6 +23,7 @@
 -   `Uēs` Lula ☀️
 -   `Vaokses` Aranha ☀️
 -   `Vōljes` Corvo (Raven) ☀️
+-   `Vandis` Touro ☀️
 
 ## Lunares
 

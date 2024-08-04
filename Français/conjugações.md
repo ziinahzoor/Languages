@@ -1,6 +1,12 @@
 # Les Conjugaisons - Conjugações
 
-## Le Present Indicatif - Presente do Indicativo
+> [!CAUTION]
+> Em tempos compostos, advérbios normalmente vêm entre o verbo auxiliar e o particípio.
+
+> [!NOTE]
+> A voz passiva é formada pelo verbo `être` + particípio do pretérito.
+
+## Le Indicatif Present - Presente do Indicativo
 
 <table>
     <thead>
@@ -64,7 +70,7 @@
 
 ### Participe Present - Particípio do Presente
 
-**O gerúndio é formado por `en`+particípio.**
+**O gerúndio é formado por `en` + particípio.**
 
 -   Basta trocar o `-ons` da primeira pessoa do plural por `-ant`.
 -   Existem apenas três irregulares:
@@ -73,7 +79,7 @@
 | ----------- | ----- | ----- | ------- |
 | Conjugação  | étant | ayant | sachant |
 
-## L'Imparfait Indicatif - Pretérito Imperfeito
+## L'Indicatif Imparfait - Pretérito Imperfeito
 
 > [!TIP]
 > Também é uma de dizer as coisas educadamente como no português.
@@ -147,15 +153,15 @@
     </tr>
 </table>
 
-| Irregulares | Être | Avoir | Allons | Faire | Vouloir | Pouvoir |
-| ----------- | ---- | ----- | ------ | ----- | ------- | ------- |
-| Conjugação  | été  | eu    | allé   | fait  | Voulu   | Pu      |
+| Irregulares | Être | Avoir | Aller | Faire | Vouloir | Pouvoir |
+| ----------- | ---- | ----- | ----- | ----- | ------- | ------- |
+| Conjugação  | été  | eu    | allé  | fait  | voulu   | pu      |
 
 ## Le Passé Récent - Pretérito Recente
 
--   Pode ser formado por uma conjugação do verbo `venir` + verbo no infinitivo. Ex.: `Je viens de manger`.
+-   Pode ser formado por uma conjugação do verbo `venir` + `de` + verbo no infinitivo. Ex.: `Je viens de manger`.
 
-## Le Futur Simple - Futuro Simples do Indicativo
+## Le Futur Simple - Futuro Simples
 
 <table>
     <thead>
@@ -237,11 +243,73 @@
 
 -   Pode ser formado por uma conjugação do verbo `aller` + verbo no infintivo. Ex.: `Je vais faire`
 
+## Le Subjonctif Present - Presente do Subjuntivo
+
+**As terminações são adicionadas ao radical da conjugação de `ils/elles`.**
+
+**Geralmente é usado com frases contendo `que`.**
+
+<table>
+    <thead>
+        <tr>
+            <th>Pronome</th>
+            <th>Conjugação</th>
+        </tr>
+    </thead>
+    <tr>
+        <th>Je</th>
+        <td>-e</td>
+    </tr>
+    <tr>
+        <th>Tu</th>
+        <td>-es</td>
+    </tr>
+    <tr>
+        <th>Il/Elle/On</th>
+        <td>-e</td>
+    </tr>
+    <tr>
+        <th>Nous</th>
+        <td>-ions</td>
+    </tr>
+    <tr>
+        <th>Vous</th>
+        <td>-iez</td>
+    </tr>
+    <tr>
+        <th>Ils/Elles</th>
+        <td>-ent</td>
+    </tr>
+</table>
+
+### Verbos irregulares
+
+| Pronome    | Être   | Avoir | Aller   | Pouvoir   | Vouloir   | Savoir   | Faire    |
+| ---------- | ------ | ----- | ------- | --------- | --------- | -------- | -------- |
+| Je         | sois   | aie   | aille   | puisse    | veuille   | sache    | fasse    |
+| Tu         | sois   | aies  | ailles  | puisses   | veuilles  | saches   | fasses   |
+| Il/Elle/On | soit   | ait   | aille   | puisse    | veuille   | sache    | fasse    |
+| Nous       | soyons | ayons | allions | puissions | voulions  | sachions | fassions |
+| Vous       | soyez  | ayez  | alliez  | puissiez  | vouliez   | sachiez  | fassiez  |
+| Ils/Elles  | soient | aient | aillent | puissent  | veuillent | sachent  | fassent  |
+
+## Le Subjonctif Passé - Pretérito do Subjuntivo
+
+-   Formado pela conjungação no presente do subjuntivo + particípio do passado.
+
 ## L'Impératif - Imperativo
 
 -   Só pode ser utilizado para `tu`, `nous` e `vous`.
 -   Basta conjugar o verbo no presente sem incluir o pronome. Ex.: `Vous arrêtez` → `Arrêtez!`.
-    -   Exceto a conjugação `tu` dos verbos -er, que perde o "s".
+    -   Exceto a conjugação `tu` dos verbos `-er`, que perde o "s".
 -   Para se referir a uma pessoa, usar hífen e o pronome tônico. Ex.: `Lève-toi`.
 -   Se o pronome `y` vem após uma vogal, acrescenta-se um "s" à conjugação. Ex.: <code>Va<u>s</u>-y</code>
 -   A conjugação `tu` do verbo `s'en aller` é `va-t-en`.
+
+### Verbos irregulares
+
+| Pronome | Être   | Avoir | Vouloir  | Savoir  |
+| ------- | ------ | ----- | -------- | ------- |
+| Tu      | sois   | aie   | veuille  | sache   |
+| Nous    | soyons | ayons | voulions | sachons |
+| Vous    | soyez  | ayez  | vouliez  | sachez  |

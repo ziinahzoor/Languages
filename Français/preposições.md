@@ -14,9 +14,14 @@
 -   `Loin de` Longe de
 -   `Chez` Lugar de/Casa de
 -   `Entre`
+    -   Duas coisas ou um grupo uniforme (ex.: mulheres)
+-   `Parmi` Entre
+    -   Mais de duas coisas.
 -   `Vers` Em direção a/Por volta de/Cerca de
 -   `Jusqu'à` Até
 -   `Pendant` Por/Durante
+-   `Durante` Por/Durante
+    -   Mais literário
 -   `Le long de` Ao longo de
 -   `Au bout de` No fim de
 -   `Il y a` Há

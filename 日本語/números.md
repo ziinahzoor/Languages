@@ -270,6 +270,10 @@
 
 -   1 e 2 usam wago
 
+### <font size="5"><code><ruby>引<rt>び</rt>き</ruby></code></font> Desconto
+
+-   Não é um contador propriamente dito, sendo na verdade um sufixo.
+
 ## Transformação dos contadores
 
 <table>

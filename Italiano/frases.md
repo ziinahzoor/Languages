@@ -3,19 +3,23 @@
 ## I Saluti - Saudações
 
 -   `Salve` Olá
--   `Per favore` Por favor
+-   `Salve` Olá
+-   `Ciao` Oi/Tchau
 -   `Grazie` Obrigado
--   `Arrivederci` Tchau
--   `Scusi` Com licença
+-   `Buongiorno` Bom dia/Boa tarde
+-   `Buonasera` Boa tarde/noite
+-   `Buonanotte` Boa noite (Ao se despedir)
+-   `Arrivederci` Até mais
+-   `Addio` Adeus
 -   `Piacere` Prazer
 -   `Scusa` Desculpa
--   `Arrivederci` Até mais
--   `Ciao` Oi/Tchau
--   `Salve` Olá
+-   `Scusi` Com licença
+-   `Mi dispiace` Me desculpe
+-   `Per favore` Por favor
+    -   `Per piacere`
+    -   `Per cortesia`
 -   `Grazie` Obrigado
     -   `Grazie mille` Muito obrigado
 -   `Prego` De nada
--   `Buona sera` Boa noite
 -   `A presto` Até logo
 -   `Come stai?` Como vai?
--   `Mi dispiace` Me desculpe

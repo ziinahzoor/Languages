@@ -16,6 +16,10 @@
 -   `Mar`
 -   `Montaña` Montanha
 
+### Materiais
+
+-   `Oro` Ouro
+
 ## Casa e objetos
 
 -   `Pasaporte` Passaporte
@@ -109,6 +113,7 @@
 -   `Paraguas` Guarda-chuva
 -   `Cajón` Gaveta 🚹
 -   `Diario` Diário
+-   `Carpeta` Pasta
 
 ## Abstratos
 
@@ -188,6 +193,9 @@
 -   `Idea` Ideia
 -   `Identificación` Identificação
 -   `Vuelo` Voo
+-   `Llamada` Chamada
+-   `Vista`
+-   `Magia`
 
 ## Transporte
 
@@ -228,6 +236,7 @@
 -   `Dibujo animado` Desenho animado
 -   `Guerra`
 -   `Video` Vídeo
+-   `Programa`
 
 ### Áreas de Estudo
 

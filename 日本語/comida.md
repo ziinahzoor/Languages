@@ -82,6 +82,7 @@
 -   `プリン` Pudim
 -   `ラザニア` Lasanha
 -   `スパイス` Tempero
+-   `ガム` Chiclete
 
 ## <ruby>果<rt>くだ</rt>物<rt>もの</rt></ruby> - Frutas
 
@@ -161,7 +162,8 @@
             -   O metade do tubo de nori é preenchido com shari e a outra com outros ingredientes.
 -   `さしみ` Sashimi
     -   Peixe (ou outro fruto do mar) cru
--   `べんとう` Lanche de lancheira
+-   `おべんとう` Lanche de lancheira
+    -   `べんとう` Formal
     -   Uma marmita geralmente contendo arroz, carne, vegetais e macarrão.
 -   `うどん` Udon
     -   Macarrão grosso feito com farinha de trigo. Geralmente servido com algum caldo ou molho, como o dashi.
@@ -169,6 +171,7 @@
     -   Macarrão tipo espaguete feito inteiramente ou parcialmente com farinha de trigo sarraceno.
     -   Também é um termo genérico para macarrão, como usado em `やきそば`, que é macarrão frito feito com farinha de trigo comum.
 -   `ラーメン` Lámen
+    -   `カップラーメン` Cup-Noodles
 -   `ぎゅうどん` Tigela de carne
     -   Arroz servido com fatias finas de carne e cebola em cima. Geralmente servido com algum caldo ou molho, como o dashi.
 -   `てんぷら` Tempura
@@ -196,6 +199,8 @@
 -   `たこやき` Takoyaki
     -   Bolinhos grelhados recheados com polvo e outros ingredientes.
 -   `おかゆ` Mingau de arroz
+-   `なっとう` Soja fermentada
+-   <font size="5"><code><ruby>肉<rt>にく</rt></ruby>まん</code></font> Pãozinho de carne no vapor
 
 ## Refeições
 

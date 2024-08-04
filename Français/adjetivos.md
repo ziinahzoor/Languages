@@ -3,6 +3,9 @@
 > [!IMPORTANT]
 > Os adjetivos vêm depois do substantivo, exceto nos casos BAGS: Beauty, Age, Goodness e Size.
 
+> [!TIP]
+> Alguns adjetivos BAGS possuem duplo sentido: `grand`, `pauvre`, `cher`. Quando utilizados antes do substantivo geralmente possuem sentido figurado e depois do substantivo possuem o sentido literal.
+
 **Se um adjetivo termina em `eux`, a forma feminina termina em `euse`.**
 
 ## Indéfinis - Indefinidos
@@ -80,6 +83,7 @@
 -   `Bonne` Boa/Correta
 -   `Super` Ótimo
 -   `Mauvais` Ruim
+-   `Pire` Pior
 -   `Rapide` Rápido
 -   `Sympa` Simpático/Legal (Nice)
 -   `Célèbre` Famoso

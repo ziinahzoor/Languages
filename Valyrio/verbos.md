@@ -20,3 +20,7 @@
 -   `Jorrāelagon` Amar
 -   `Rijagon` Elogiar/Louvar
 -   `Majaqagon` Admirar
+-   `Ipradagon` Comer
+-   `Ojehikagon` Abençoar
+-   `Emagon` Ter
+-   `Belmuragon` Acorrentar

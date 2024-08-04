@@ -42,6 +42,13 @@
 -   `Turista`
 -   `Pasajero` Passageiro
 -   `Invitado` Convidado
+-   `Gerente`
+-   `Trabajador` Trabalhador
+-   `Pintor`
+-   `Empresario` Empresário
+-   `Presidente`
+-   `Cocinero` Cozinheiro
+-   `Visitante`
 
 ## La Familia - Família
 

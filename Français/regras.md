@@ -2,11 +2,8 @@
 
 -   Substantivos podem ser masculinos ou femininos
 -   Palavras femininas geralmente terminam em `e`
--   `à` é usado para cidades e `en` para países
+-   `à` é usado para cidades e ilhas e `en` para países, províncias, estados e continentes.
 -   Para dizer "há (there is)", usa-se `Il y a`. Também serve para indicar quanto tempo se passou.
--   Para fazer perguntas, o equivalente do inglês "Do/Does...?" é `Est-ce que...?`
--   Para perguntar "O que...", usar `Qu'est-ce que`
--   Para perguntar sobre um terceiro usando `avoir`, usa-se `a-t-il` e `a-t-elle`
 -   Usar os artigos definidos para falar sobre o tempo e as refeições
 -   Quase sempre se usa `des` para se referir a determinados substantivos de uma forma geral.
 -   Eufonia: Os possessivos são usados na forma masculina se o substantivo feminino começa em som de vogal.
@@ -31,6 +28,10 @@
 -   O francês não usa aspas, recorrendo assim aos `guillemets`: `« »`.
 -   Quanto à pontuação, deve-se usar espaços antes e depois das marcas gráficas.
 -   Em números, vírgulas denotam os pontos decimais e espaços as casas de milhar.
+-   Para expressões impessoais, usa-se `il est` + [adjetivo] + `de` para sujeitos fictícios e `il est` + [adjetivo] + `à` para sujeitos reais.
+-   Para formalidade ao realizar solicitações, costuma-se usar as formas condicionais de `aimer` e `vouloir`.
+-   Para o causativo, usa-se o verbo `faire` + verbo no infinitivo e `rendre` + adjetivo.
+-   Para partes do corpo não se costuma usar pronomes possessivos. Ao invés de disso, o verbo relacionado é usado na forma reflexiva.
 
 ## Les Articles - Artigos
 
@@ -78,5 +79,13 @@
 ## La Négation - Negação
 
 A negação geralmente é conjugada como `ne [verbo] pas`. Note que o `pas` é mais importante que o `ne`, sendo que o último pode ser ignorado em conversas informais.
+
+## Perguntas
+
+-   Para fazer perguntas formalmente, utilizam-se as `inversions`: Coloca-se o verbo antes do pronome e liga-se os dois por hífen. Ex.: `Il boit` → `Boit-il`?
+    -   Se o sujeito for um substantivo ao invés de um pronome, ele deve vir antes do verbo, mas deve-se acrescentar um pronome da terceira pessoa após.
+    -   Se o verbo termina em vogal, se acrescenta um `t` sem significado entre o verbo e o pronome: `A-t-il`.
+-   Declarações podem ser transformadas em perguntas colocando `Est-ce que...?` antes.
+-   Para perguntar "O que...", usar `Qu'est-ce que`
 
 ## Les Faux Amis - Falsos cognatos

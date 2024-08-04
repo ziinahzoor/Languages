@@ -22,6 +22,8 @@
 -   `Andare` Andar/Ir
 -   `Trovare` Achar
 -   `Preoccupare` Preocupar
+-   `Se manquer` Sentir saudade/falta
+    -   Funciona ao contrário do português: `io te manco` é "você sente minha falta"
 
 ## Verbi -ere
 
@@ -30,6 +32,7 @@
     -   `Avere bisogno` Precisar
 -   `Vivere` Viver
 -   `Piacere` Gostar
+    -   Funciona ao contrário do português: `lei me piace` é "eu gosto dela"
 -   `Bere` Beber
 -   `Leggere` Ler
 -   `Prendere` Pegar

@@ -6,3 +6,5 @@
 -   `Stasera` Esta noite
 -   `Anno` Ano
 -   `Giorno` Dia
+-   `Pomeriggio` Tarde
+-   `Notte` Noite

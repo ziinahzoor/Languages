@@ -126,6 +126,7 @@
     -   <font size="5"><code><ruby>何<rt>なん</rt>の</ruby></code></font> Que/Qual(is)/De que/De qual(is)
 -   <font size="5"><code><ruby>誰<rt>だれ</rt></ruby></code></font> Quem
 -   `いつ` Quando
+-   `いくつ` Quanto/Quantos
 
 ## <ruby>不<rt>ふ</rt>定<rt>てい</rt>代<rt>だい</rt>名<rt>めい</rt>詞<rt>し</rt></ruby> - Indefinidos
 
@@ -137,6 +138,7 @@
 -   <font size="5"><code><ruby>何<rt>なに</rt></ruby>か</code></font> Algo/Alguma coisa
 -   `だれか` Alguém
 -   `いつか` Alguma hora/Algum dia
+-   `いくつか` Alguns
 
 ### Indiferença ou Inclusividade
 
@@ -146,6 +148,7 @@
 -   <font size="5"><code><ruby>何<rt>なに</rt></ruby>でも</code></font> Qualquer/Qualquer coisa
 -   `だれでも` Qualquer um
 -   `いつでも` Qualquer hora/Qualquer dia
+-   `いくつでも` Qualquer quantidade
 
 ### Inexistência ou totalidade
 
@@ -160,6 +163,7 @@
 -   `だれも` Todo mundo
     -   `みんな` Forma mais comum
 -   `いつも` Sempre
+-   `いくつも` Muitos
 
 #### Inexistência
 

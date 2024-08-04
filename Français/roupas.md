@@ -1,36 +1,53 @@
 # Les Vêtements - Roupas
 
--   `Pantalon` Calça 🚹
+## La Tête - Cabeça
+
 -   `Chapeau` Chapéu
 -   `Lunettes` Óculos
+-   `Casquette` Boné 🚺
+-   `Bucle d'oreille` Brinco 🚺
+-   `Casque` Capacete
+
+## Le Corps - Corpo
+
 -   `Robe` Vestido 🚺
--   `Sac` Bolsa 🚹
--   `Sac à main` Bolsa de mão 🚹
--   `Sac à dos` Mochila 🚹
--   `Portefeuille` Carteira 🚹
--   `Chaussure` Sapato 🚺
-    -   `Botte` Bota
-    -   `Basket` Tênis 🚺
-    -   `Sandale` Sandália
--   `Chaussette` Meia
--   `Jupe` Saia
 -   `Veste` Jaqueta
 -   `Manteau` Casaco
 -   `Chemise` Camisa
 -   `Maillot de bain` Traje de banho
 -   `Pyjama` Pijama
--   `Short`
+-   `Sweat-shirt` Moletom
+-   `Cravate` Gravata
+-   `Ceinture` Cinto 🚺
+
+## Les Bras - Braços
+
 -   `Bague` Anel/Argola 🚺
 -   `Bracelet` Bracelete
--   `Sweat-shirt` Moletom
 -   `Gant` Luva 🚹
--   `Ceinture` Cinto 🚺
--   `Casquette` Boné 🚺
--   `Cravate` Gravata
--   `Bucle d'oreille` Brinco 🚺
--   `Collier` Colar
--   `Écharpe` Cachecol 🚺
 -   `Pull` Suéter
 -   `Costume` Terno
 -   `Imperméable` Capa de chuva 🚹
--   `Casque` Capacete
+
+## Les Jambes - Pernas
+
+-   `Pantalon` Calça 🚹
+-   `Short`
+-   `Jupe` Saia
+
+## Les Pieds - Pés
+
+-   `Chaussure` Sapato 🚺
+    -   `Botte` Bota
+    -   `Basket` Tênis 🚺
+    -   `Sandale` Sandália
+-   `Chaussette` Meia
+
+## Les Accessoires - Acessórios
+
+-   `Sac` Bolsa 🚹
+-   `Sac à main` Bolsa de mão 🚹
+-   `Sac à dos` Mochila 🚹
+-   `Portefeuille` Carteira 🚹
+-   `Collier` Colar
+-   `Écharpe` Cachecol 🚺

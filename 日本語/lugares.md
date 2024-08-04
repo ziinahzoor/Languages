@@ -12,7 +12,8 @@
 -   `むら` Vila
 -   `しゅと` Capital
 -   `ホテル` Hotel
--   `みせ` Loja
+-   <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
+-   `ぶんぼうぐ` Papelaria
 -   `コンビニ` Loja de conveniência
 -   `デパート` Loja de departamento
 -   `バスてい` Ponto de ônibus

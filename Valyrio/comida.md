@@ -7,6 +7,8 @@
 
 ## Gerpar - Frutas 🌙
 
+-   `Avero` Uva 🌙
+
 ## Bebida
 
 -   `Iēdar` Água 🌊

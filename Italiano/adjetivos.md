@@ -1,5 +1,8 @@
 # Gli Aggettivi - Adjetivos
 
+> [!IMPORTANT]
+> Os adjetivos vêm depois do substantivo, exceto nos casos BAGS: Beauty, Age, Goodness e Size.
+
 -   `Fantastico` Fantástico
 -   `Timido` Tímido
 -   `Alto`

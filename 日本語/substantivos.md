@@ -34,13 +34,15 @@
 ### Cozinha
 
 -   `ナイフ` Faca
--   `おさら` Prato
+-   `さら` Prato
+    -   `おさら` Formal
 -   `でんしレンジ` Micro-ondas
 -   `れいぞうこ` Geladeira
 -   `カップ` Xícara
 -   `フォーク` Garfo
 -   `スプーン` Colher
 -   `はし` Pauzinhos
+    -   `おはし` Formal
 -   `マグカップ` Caneca
 -   `ちゃわん` Tigela
 
@@ -69,6 +71,11 @@
 -   `ケーブル` Cabo
 -   `かぎ` Chave
 -   `えんぴつ` Lápis
+    -   <font size="5"><code><ruby>色<rt>いろ</rt></ruby>えんぴつ</code></font> Lápis de cor
+    -   `シャーペン` Lapiseira
+-   `けしゴム` Borracha
+-   `はさみ` Tesoura
+-   `ホチキス` Grampeador
 -   `せき` Assento
     -   `ざせき` Assento (Nuance comercial, de avião, trem)
 -   <font size="5"><code><ruby>窓<rt>まど</rt></ruby></code></font> Janela
@@ -127,8 +134,16 @@
 -   `デコレーション` Decoração
 -   `めんきょ` Licença/Permissão/Carteira de motorista
 -   `ようひん` Utensílio/Equipamento
+-   `カレンダー` Calendário
+-   `ふせん` Post-it
+-   `コピー` Cópia
+-   `スキャン` Digitalização
+-   `きって` Selo de carta
 
 ## Elétricos e Eletrônicos
+
+> [!TIP]
+> É comum eletrodomésticos com funções específicas terminarem em <ruby>機<rt>き</rt></ruby> "máquina".
 
 -   `テレビ` Televisão
 -   `コンセント` Tomada
@@ -150,12 +165,13 @@
 -   `じはんき` Máquina de vendas
 -   `せんたくき` Máquina de lavar
 -   `そうじき` Aspirador de pó
-    -   `スピーカー` Alto-falante
+-   `スピーカー` Alto-falante
 -   `でんち` Pilha
 -   `レジ` Caixa registradora
 -   `アラーム` Alarme
 -   `リモコン` Controle remoto
 -   `でんき` Lâmpada
+-   `コピーき` Copiadora
 
 ### Computação
 
@@ -226,6 +242,8 @@
 -   `おごり` Agrado
 -   `あいさつ` Cumprimento
 -   `ジャンル` Gênero
+-   `デザイン` Design
+-   <font size="5"><code><ruby>行<rt>ぎょう</rt></ruby></code></font> Linha
 
 ### Condições
 
@@ -265,8 +283,10 @@
 
 -   <font size="5"><code><ruby>円<rt>えん</rt></ruby></code></font> Iene
 -   `コイン` Moeda
+-   <font size="5"><code>お<ruby>金<rt>かね</rt></ruby></code></font> Dinheiro
 -   `おつり` Troco
--   `かいけい` Conta (de pagar)
+-   <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt></ruby></code></font> Conta (de pagar em estabelecimentos)
+    -   Geralmente acompanha o honorífico `お`
 -   `チケット` Ingresso
 -   `にゅうじょうりょう` Taxa de entrada
 -   `メニュー` Cardápio
@@ -278,6 +298,7 @@
 -   `おみやげ` Lembrancinha
 -   `クレジットカード` Cartão de crédito
 -   `プレゼント` Presente
+-   `はんがく` Metade do preço
 
 ## Viagem e Transporte
 
@@ -376,6 +397,7 @@
 -   `しゅみ` Hobby
 -   `つり` Pesca
 -   `たっきゅう` Pingue-pongue/Tênis de mesa
+-   `じゅんび` Preparação
 
 ### <ruby>学<rt>がっ</rt>校<rt>こう</rt></ruby> - Escola
 

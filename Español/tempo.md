@@ -21,6 +21,7 @@
 -   `Anoche` Noite passada
 -   `Mediodía` Meio-dia
 -   `Medianoche` Meia-noite
+-   `Horario` Horário
 
 ## La Semaña - Semana
 

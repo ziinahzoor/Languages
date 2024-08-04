@@ -23,6 +23,9 @@
 -   `Loktys` Marinheiro ☀️
 -   `Ēlie vala` Primeiro homem 🌙
 -   `Dovaogēdy` Imaculado 🌙
+-   `Voktys` Padre ☀️
+-   `Jaes` Deus/Divindade ☀️
+-   `Raqiros` Amigo ☀️
 
 ## Família
 

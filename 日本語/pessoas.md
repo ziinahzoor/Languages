@@ -50,7 +50,7 @@
 -   `ボランティア` Voluntário
 -   `ルームメイト` Colega de quarto
 -   `てんいん` Funcionário
--   `かいけい` Caixa
+-   <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt></ruby></code></font> Caixa
 -   `アーティスト` Artista
 -   `パートナー` Parceiro/Companheiro
 -   `おきゃくさん` Visitante/Convidado

@@ -48,6 +48,7 @@
 > **Em partes da Bélgica e da Suiça são utilizadas algumas outras alternativas:**
 > -   `Septante` Setenta
 > -   `Huitante` Oitenta
+>       - `Octante` Oitenta (Acádia - Canadá)
 > -   `Nonante` Noventa
 <!-- prettier-ignore-end -->
 

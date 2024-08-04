@@ -8,6 +8,7 @@
 -   `Être` Ser/Estar
 -   `Prendre` Pegar
     -   `Prendre soin` Cuidar
+    -   `Prendre rendez-vous` Marcar consulta
     -   `Prendre des nouvelles` Receber notícias/Se informar/Checar (alguém)
 -   `Apprendre` Aprender
     -   `S'apprendre` Ensinar
@@ -26,7 +27,7 @@
 -   `Mettre` Colocar
 -   `Peindre` Pintar
 -   `Connaitre` Conhecer
--   `Entendre` (Físico)
+-   `Entendre` Ouvir
 -   `Croire` Acreditar/Crer
 -   `Répondre` Responder
 -   `Éteindre` Apagar/Desligar
@@ -84,7 +85,7 @@
 -   `Donner` Dar
 -   `Oublier` Esquecer
 -   `Préparer` Preparar
--   `Écouter` Ouvir (Psicológico)
+-   `Écouter` Escutar
 -   `Entrer` Entrar
 -   `Rentrer` Voltar (para casa)
 -   `Rester` Ficar
@@ -182,6 +183,10 @@
 -   `Casser` Quebrar
 -   `Pousser` Empurrar
 -   `Blesser` Machucar/Ferir
+-   `Se manquer` Sentir saudade/falta
+    -   Funciona ao contrário do português: `je vous manque` é "você sente minha falta"
+-   `Surfer` Surfar
+-   `Naviguer` Navegar
 
 ## -ir Verbes
 

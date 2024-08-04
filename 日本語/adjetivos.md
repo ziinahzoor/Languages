@@ -52,7 +52,7 @@
 -   <font size="5"><code><ruby>暖<rt>あたた</rt>かい</ruby></code></font> Morno/Quentinho (Clima, Sensação)
     -   <font size="5"><code><ruby>温<rt>あたた</rt>かい</ruby></code></font> Coisas
 -   `ぬるい` Morno/Em temperatura ambiente
--   `ほしい` Querível
+-   <font size="5"><code><ruby>厚<rt>あつ</rt>い</ruby></code></font> Grosso
 -   <font size="5"><code><ruby>甘<rt>あま</rt>い</ruby></code></font> Doce
 -   `にがい` Amargo
 -   `しょっぱい` Salgado
@@ -128,6 +128,8 @@
 -   `ヘルシー` Saudável
 -   `さいこう` Fantástico
 -   `しあわせ` Feliz
+-   <font size="5"><code><ruby>大<rt>だい</rt>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Ok
+    -   Também é muito usado para recusar coisas.
 
 ## Adjetivos-verbo
 

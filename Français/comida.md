@@ -87,6 +87,7 @@
 -   `Soda` Refrigerante
 -   `Limonade` Limonada com gás
 -   `Champagne` Champanhe
+-   `Chocolat chaud` Chocolate quente
 
 ## Les repas (Refeições)
 

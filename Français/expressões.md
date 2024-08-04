@@ -23,12 +23,12 @@
 -   `Sans aucun doute` Sem dúvida
 -   `Jamais de la vie` Nunca na vida
 -   `Aucune chance` Sem chance
--   `Personne ne` Ninguém
 -   `Ça te dit.../Ça vous dit` Você quer.../Que tal...
 -   `Allons-y/On y va` Vamos lá
 -   `Ça ne veut rien dire` Isso não quer dizer nada
 -   `Gagner sa vie` Ganhar a vida
 -   `Félicitations!` Parabéns!
+-   `Dis donc` Olha só/Puxa vida/Me diga/Não me diga que...
 
 ## Verlan
 

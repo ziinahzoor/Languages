@@ -77,6 +77,8 @@
 -   `できるだけ` O tanto quanto possível
 -   `つい` Sem querer/Por engano
 -   `うっかり` Descuidadamente
+-   <font size="5"><code><ruby>少<rt>しょう</rt>々</ruby></code></font> Só um instante/Só um minuto
+-   `どうぞ` Aqui está (ao dar algo para alguém)
 
 ## Auxiliares
 

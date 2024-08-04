@@ -1,7 +1,10 @@
 # Le Temps - Tempo
 
 > [!TIP]
-> Para dizer as horas, usar `Il est...`.
+> Para dizer as horas, usar o impessoal `Il est...`.
+
+> [!TIP]
+> Para dizer o dia atual, usa-se `nous sommes.../on est...`. Para o mês atual, o mesmo se aplica, acrescentando-se `en`.
 
 -   `Heure` Hora
 -   `Demie` Meia hora

@@ -4,6 +4,8 @@
 -   `Mais` Mas
 -   `Ou` Ou
 -   `Quand` Quando
+-   `Lorsque` Quando
+    -   Geralmente é sinônimo de `quand`, exceto ao fazer contrapontos (Ex.: Gritei quando devia correr).
 -   `Si` Se
 -   `Donc` Então/Portanto
     -   Indica causalidade, consequência.

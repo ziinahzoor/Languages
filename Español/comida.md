@@ -30,6 +30,7 @@
 -   `Aceite` Óleo
 -   `Verdura`
 -   `Dulce` Doce
+-   `Miel` Mel 🚺
 
 ## Las Frutas
 

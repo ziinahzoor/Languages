@@ -119,10 +119,12 @@
     -   `おっしゃる` Sonkeigo (Godan).
 -   <font size="5"><code><ruby>出<rt>だ</rt></ruby>す</code></font> Tirar
     -   "Começar a" quando ligado a outro verbo.
+-   <font size="5"><code><ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>す</code></font> Retirar
 -   `ひっこす` Se mudar
 -   `おす` Empurrar
 -   `さがす` Procurar
 -   `おとす` Derrubar/Derramar/Deixar cair
+-   `おす` Empurrar/Apertar/Pressionar
 -   `つづく` Continuar
 -   <font size="5"><code><ruby>聞<rt>き</rt></ruby>く</code></font> Ouvir/Perguntar
     -   Para perguntar geralmente acompanha o `に`
@@ -176,7 +178,7 @@
 -   <font size="5"><code><ruby>持<rt>も</rt></ruby>つ</code></font> Carregar/Segurar
     -   <font size="5"><code><ruby>持<rt>も</rt></ruby>っている</code></font> Ter (Posse)
     -   <font size="5"><code><ruby>持<rt>も</rt></ruby>ってくる</code></font> Trazer
--   `つかう` Usar
+-   <font size="5"><code><ruby>使<rt>つか</rt>う</ruby></code></font> Usar
 -   `わらう` Rir
 -   `はらう` Pagar
 -   `ならう` Aprender (Com alguém ensinando)
@@ -184,9 +186,10 @@
 -   <font size="5"><code><ruby>作<rt>つく</rt></ruby>る</code></font> Produzir/Fazer
 -   `ひかる` Brilhar
 -   <font size="5"><code><ruby>走<rt>はし</rt></ruby>る</code></font> Correr
--   `なる` Tornar/Virar (I)
+-   `なる` Tornar/Virar (I)/Alcançar/Resultar
     -   Geralmente acompanha o `に`
     -   Para a versão transitiva, usa-se `に` + `する`
+    -   Também é usado para indicar o valor de compras (o quanto resultou).
 -   `いる` Precisar
 -   <font size="5"><code><ruby>入<rt>はい</rt></ruby>る</code></font> Entrar/Matricular
 -   <font size="5"><code><ruby>帰<rt>かえ</rt></ruby>る</code></font> Retornar
@@ -240,6 +243,7 @@
 -   `あびる` Tomar banho
 -   `できる` Poder/Ser capaz
     -   Geralmente acompanha o `が`
+    -   Quando acompanha `で`, indica que algo pode ser feito em determinado local.
     -   Sua forma plana é a forma potencial de `する`, então sua forma potencial raramente é usada.
     -   Pode-se acrescentar o verbo do qual se é capaz na forma plana + `こと` antes.
 -   `くれる` (Me/Nos) Dar (Do ponto de vista de quem recebe)
@@ -274,6 +278,7 @@
 -   `しらべる` Examinar/Dar uma olhada
 -   `うける` Pegar/Receber/Passar por um evento
 -   `なくなる` Falecer
+-   `あたためる` Esquentar/Aquecer
 
 ## Verbos する
 
@@ -313,3 +318,5 @@
 -   `あいさつ` Cumprimentar
 -   `チェック` Checar/Verificar
 -   `つり` + `を` Pescar
+-   `じゅんび`　+ `を` Preparar
+-   `コピー` Fazer uma cópia

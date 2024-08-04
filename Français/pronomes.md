@@ -1,5 +1,10 @@
 # Les Pronoms - Pronomes
 
+**O uso do pronome `vous` é denominado "vouvoiement" e o uso do pronome `tu` é denominado "tutoiement".**
+
+> [!TIP]
+> Todos possuem formas verbais: `vouvoyer` e `tutoyer`.
+
 ## Personnels - Pessoais
 
 <table>
@@ -23,7 +28,7 @@
         <th>Reflexivos</th>
         <th>Oblíquo Direto</th>
         <th>Oblíquo Indireto</th>
-        <th>Tônico ou disjuntivos</th>
+        <th>Tônicos ou disjuntivos</th>
         <th>Adjetivos Possessivos</th>
         <th>Possessivos</th>
     </tr>
@@ -123,16 +128,26 @@
 -   Os pronomes diretos devem vir depois dos indiretos quando a frase usa os dois, exceto para `lui` e `leur`.
 
 > [!TIP]
-> O possessivo também pode ser formado por `à` + `tônico`.
+> O possessivo também pode ser formado pela conjugação de `être` + `à` + `tônico`.
+
+> [!TIP]
+> Em alguns verbos na terceira pessoa como `aimer` e `parler`, os reflexivos geralmente indicam reciprocidade ou mutualidade. Para indicar puramente a reflexão, é necessário usar `eux-mêmes` (eles mesmos/a si mesmos) ou `l'un l'autre` (um ao outro).
+
+> [!TIP]
+> Ordem dos pronomes: `me/te/nous/vous/se` > `le/la/les` > `lui/leur` > `y` > `en`.
 
 ## Interrogatifs - Interrogativos
 
 -   `Où` Onde
--   `Que` Que
--   `Qui` Quem
--   `À qui` De quem
 -   `Quoi` O que
--   `Quel`/`Quelle` Que/Qual
+    -   É usado depois de preposições ou no fim da frase.
+-   `Que` Que
+    -   É usado para se perguntar sobre o objeto ou quando o verbo é `être`.
+-   `Qui` Quem/Que
+    -   É usado para se perguntar sobre o sujeito.
+-   `À qui` De quem
+-   `Quel`/`Quelle` Que/Qual (Adjetivo)
+-   `Lequel`/`Laquelle` Que/Qual
 -   `Combien` Quanto
     -   `Combien de` Quantos/Quantas
 
@@ -143,8 +158,10 @@
 **Exceto para comparação, casualmente o `ci` e o `là` são usados.**
 
 -   `Ceci` Isto
+    -   Geralmente só é usado pra fazer distinção entre "isto" e "isso".
 -   `Cela` Isso/Aquilo
-    -   `Ça` Contração
+    -   É mais utilizado na escrita.
+    -   `Ça` Contração (Informal e geralmente mais utilizado na conversação)
 -   `Celui` Este/Esse/Aquele
 -   `Celle` Esta/Essa/Aquela
 -   `Ceux` Estes/Esses/Aqueles
@@ -152,8 +169,17 @@
 
 ### Sufixos
 
+**São utilizados com os pronomes demonstrativos para determinar a distância. Com adjetivos demonstrativos eles se ligam aos substantivos.**
+
 -   `-ci` Perto de quem fala
 -   `-là` Longe de quem fala
+
+### Les Adjectifs Démonstratifs - Adjetivos Demonstrativos
+
+-   `Ce` Este/Esse/Aquele
+    -   `Cet` Para substantivos iniciados em vogal ou "h"
+-   `Cette` Esta/Essa/Aquela
+-   `Ces` Estes/Estas/Esses/Essas/Aqueles/Aquelas
 
 ## Relatifs - Relativos
 
@@ -170,6 +196,7 @@
 -   `Soi`Si mesmo/O próprio
 -   `Tout` Tudo/Todos/Todas
 -   `Tout le monde` Todo mundo
+-   `Chaque` Cada
 -   `Chacun(e)` Cada um
 -   `Certain(e)s` Certos
 -   `Quelque` Algum
@@ -182,15 +209,21 @@
 -   `Rien` Nada
 -   `Alcun` Nenhum
 
-## Négatifs - Negativos
-
--   `ne...personne/Persone ne` Ninguém
--   `ne...rien/Rien ne` Nada
-
 |           | Singular | Plural |
 | --------- | -------- | ------ |
 | Masculino | Tout     | Tous   |
 | Feminino  | Toute    | Toutes |
+
+## Négatifs - Negativos
+
+**Infinitivos devem vir depois da negação.**
+
+-   `Ne...pas` Não
+-   `Ne...plus` Não mais
+-   `Ne... jamais` Nunca
+-   `Ne...personne/Persone ne (Pronome)` Ninguém
+-   `Ne...rien/Rien ne (Pronome)` Nada
+-   `Ni` Nem
 
 ## Adverbiaux - Adverbiais
 
@@ -210,10 +243,3 @@
     -   Também serve para as preposições `chez`, `dans`, `devant`, `derrière`, `sous` e `sur`.
         -   `Elle est chez Marc` → `Elle y est`;
         -   `Je suis devant l'école` → `J'y suis`.
-
-## Les Adjectifs Démonstratifs - Adjetivos Demonstrativos
-
--   `Ce` Este/Esse/Aquele
-    -   `Cet` Para substantivos iniciados em vogal ou "h"
--   `Cette` Esta/Essa/Aquela
--   `Ces` Estes/Estas/Esses/Essas/Aqueles/Aquelas

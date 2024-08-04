@@ -99,6 +99,7 @@
 -   `Granja` Fazenda
 -   `Gimnasio` Academia
 -   `Empresa`
+-   `Compañía` Empresa
 -   `Teatro`
 -   `Iglesia` Igreja
 -   `Bar`
@@ -112,3 +113,6 @@
 -   `Estadio` Estádio
 -   `Capital`
 -   `Cafetería` Cafeteria
+-   `Edificio` Edifício
+-   `Desierto` Deserto
+-   `Puente` Ponte 🚹

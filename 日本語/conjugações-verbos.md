@@ -306,6 +306,7 @@
 -   Serve para conectar diversos verbos como uma sequência de eventos ou um "e".
 -   Também serve como "então" em alguns contextos. Como um conector de frases.
 -   No final da frase serve como comando ou pedido. No último caso é bom adicionar `ください` para ser educado
+    -   Note que para ser ainda mais formal (contextos empresariais), pode-se usar `お` + radical `い` + `ください` ao invés da forma `て`.
 -   Exceções às mudanças eufônicas:
     -   `行く` → `行って`
     -   `問う` → `問うて`
@@ -318,6 +319,7 @@
 -   É como se forma o gerúndio (continuativa) e também indica o estado causado por algum verbo (resultativa).
     -   No último caso, é como se transformassemos o verbo em um adjetivo (algo está...ado/ido). Ex.: `水を飲んでいます` pode ser tanto "Estou bebendo água" quanto "A água está bebida (por mim)". Nestes casos, o sentido é dado pelos advérbios, como `もう` indicaria o último caso.
 -   Ou "fiz algo e continuo fazendo/estando assim".
+-   Também pode-se pensar como uma forma estática do verbo, como um adjetivo. Ex.: `開いている` pode ser tanto "abrindo" quanto "estar aberto".
 -   Também deve ser usada para verbos que indicam mudança instantânea de estado, como desligar e morrer. Descreve o resultado de uma mudança.
 -   Se usada com `もう` e `まだ`, indica que algo já aconteceu ou ainda não aconteceu, respectivamente.
 -   Consiste em conjugar o verbo na forma `て` e então acrescentar a conjugação de `いる`

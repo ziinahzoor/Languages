@@ -23,3 +23,4 @@
 ## Internos
 
 -   `Estómago` Estômago
+-   `Corazón` Coração

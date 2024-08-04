@@ -1,6 +1,9 @@
 # Les Adverbes - Advérbios
 
+**Vêm depois do verbo e antes do adjetivo ou advérbio que modificam. Se modificam a frase inteira, podem vir tanto no começo quanto no final.**
+
 -   `Bien` Bem
+-   `Mal`
 -   `Bien sûr` Claro/Sem dúvida
 -   `Peu` Pouco
 -   `Très` Muito (Very)

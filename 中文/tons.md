@@ -1,15 +1,29 @@
 # Tons
 
+**Tons geralmente mudam na pronúncia em três casos principais: no terceiro tom, com o caractere `一` e com o caractere `不`.**
+
 ## Primeiro tom
 
+-   Constante.
 -   Próximo ao topo do alcance, como falar algo com a boca aberta no dentista.
 
 ## Segundo tom
 
+-   Sobe.
 -   Mesmo tom em que se faz perguntas em português.
 
 ## Terceiro tom
 
+-   Abaixa e depois sobe.
+-   Tom de incredulidade, como se algo subitamente fizesse sentido ("Ahhhhh").
+-   Quando há dois tons terceiros, a pronúncia do primeiro se torna um segundo tom.
+-   Quando outro tom segue um tom terceiro, o terceiro apenas abaixa.
+
 ## Quarto tom
 
+-   Desce.
 -   Mesmo tom de comandos em português.
+
+## Tom neutro
+
+-   Não tem nenhuma alteração.
