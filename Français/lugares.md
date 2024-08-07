@@ -86,6 +86,7 @@
 -   `Plafond` Teto (Dentro)
 -   `Piscine` Piscina
 -   `Hall` Salão/Lobby
+-   `Couloir` Corredor
 
 ## Les Planètes - Planetas 🚺
 
@@ -180,6 +181,7 @@
 -   `Théâtre` Teatro
 -   `Trottoir` Calçada
 -   `Salle d'attente` Sala de espera
+-   `Espace` Espaço
 
 ## France - França
 

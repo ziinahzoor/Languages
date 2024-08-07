@@ -43,6 +43,7 @@
 -   `Cuire` Cozinhar/Cozer (Forma de preparo, não o ato de preparar a comida)
 -   `Rompre` Romper/Quebrar/Terminar (um relacionamento)
 -   `Naître` Nascer
+-   `Décrire` Descrever
 
 ## -er Verbes
 
@@ -187,6 +188,8 @@
     -   Funciona ao contrário do português: `je vous manque` é "você sente minha falta"
 -   `Surfer` Surfar
 -   `Naviguer` Navegar
+-   `Jeter` Lançar/Jogar fora
+-   `Laisser` Deixar
 
 ## -ir Verbes
 
@@ -223,7 +226,7 @@
 -   `Maigrir` Emagrecer
 -   `Servir`
 -   `Couvrir` Cobrir
--   `Offrir` Oferecer
+-   `Offrir` Oferecer/Dar
 -   `Accueillir` Acolher/Recepcionar
 -   `Recevoir` Receber
 -   `Falloir` Dever/Precisar/Ter necessidade

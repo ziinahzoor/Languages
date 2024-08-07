@@ -187,3 +187,7 @@
 -   `Étranger` Estrangeiro
 -   `Turistique` Turístico
 -   `Aimable` Amável
+-   `Léger` Leve
+-   `Lourd` Pesado
+-   `Utile` Útil
+-   `Doux` Macio

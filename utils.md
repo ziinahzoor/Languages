@@ -10,6 +10,10 @@
 
 **[Fonte](https://www.cdnfonts.com/tengwar-annatar.font)**
 
+**[Passar textos para Tengwar](https://www.tecendil.com)**
+
+**[Dicionário](https://www.elfdict.com/)**
+
 ## Espanhol
 
 **[Gramática espanhola](https://www.spanishdict.com/guide)**

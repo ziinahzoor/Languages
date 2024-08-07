@@ -117,6 +117,7 @@
 -   <font size="5"><code><ruby>違<rt>ちが</rt>う</ruby></code></font> Diferir/Diferenciar/Estar errado
 -   <font size="5"><code><ruby>話<rt>はな</rt></ruby>す</code></font> Falar/Conversar
     -   `おっしゃる` Sonkeigo (Godan).
+    -   <font size="5"><code><ruby>話<rt>はなし</rt></ruby>おする</code></font> Ter uma conversa
 -   <font size="5"><code><ruby>出<rt>だ</rt></ruby>す</code></font> Tirar
     -   "Começar a" quando ligado a outro verbo.
 -   <font size="5"><code><ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>す</code></font> Retirar
@@ -147,6 +148,7 @@
 -   `すく` Esvaziar
     -   `おなかがすく` Ter fome
 -   `はく` Vestir/Calçar/Usar (Parte inferior)
+-   <font size="5"><code><ruby>働<rt>はたら</rt>く</ruby></code></font> Trabalhar
 -   `およぐ` Nadar
 -   `いそぐ` Apressar
 -   `ぬぐ` Despir/Tirar (roupa)
@@ -285,10 +287,10 @@
 -   `Esporte` + `を` Jogar
 -   `Instrumento` + `を` Tocar
 -   `スポーツ` + `を` Praticar esportes
--   `しごと` Trabalhar
+-   <font size="5"><code><ruby>仕<rt>し</rt>事<rt>ごと</rt></ruby></code></font> Trabalhar
 -   `りょこう` Viajar
 -   `けんか` Lutar
--   `べんきょう` Estudar
+-   <font size="5"><code><ruby>勉<rt>べん</rt>強<rt>きょう</rt></ruby></code></font> Estudar
 -   `そつぎょう` Graduar
 -   `そうじ` Limpar
 -   `せんたく` Lavar roupas

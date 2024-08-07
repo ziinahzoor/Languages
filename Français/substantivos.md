@@ -16,6 +16,14 @@
 -   `Vague` Onda
 -   `Tempête` Tempestade
 
+### Materiais
+
+-   `Or` Ouro
+-   `Cuir` Couro
+-   `Coton` Algodão
+-   `Bois` Madeira 🚹
+-   `Plastique` Plástico
+
 ## Casa e objetos
 
 -   `Valise` Mala 🚺
@@ -89,9 +97,6 @@
 -   `Guide` Guia
 -   `Monument` Monumento
 -   `Armoire` Guarda-roupas
--   `Or` Ouro
--   `Cuir` Couro
--   `Coton` Algodão
 -   `Parapluie` Guarda-chuva
 -   `Cuillère` Colher
     -   `Cuillère à café` Colher de chá
@@ -134,6 +139,8 @@
 -   `Fauteuil` Cadeirão/Poltrona
 -   `Médicament` Medicamento/Remédio
 -   `Pansement` Band-aid
+-   `Paquet` Pacote
+-   `Poubelle` Lata de lixo
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -258,6 +265,9 @@
 -   `Ligne` Linha
 -   `Instruction` Instrução
 -   `Mariage` Casamento
+-   `Truc` Truque/Coisa
+-   `Bazar` Velharia/Porcaria 🚹
+-   `Liste` Lista
 
 ### Unidades de medida
 
@@ -285,6 +295,7 @@
 -   `Moto`
 -   `Trottinette` Patinete
 -   `Ambulance` Ambulância
+-   `Skateboard` Skate
 
 ## Atividades
 

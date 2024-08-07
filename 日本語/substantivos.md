@@ -334,7 +334,7 @@
 -   `ハイキング` Caminhada
 -   `キャンプ` Acampamento
 -   `ヨガ` Yoga
--   `しごと` Trabalho
+-   <font size="5"><code><ruby>仕<rt>し</rt>事<rt>ごと</rt></ruby></code></font> Trabalho
     -   `アルバイト` Trabalho de meio-período
         -   `バイト`
 -   `レポート` Relatório
@@ -404,7 +404,7 @@
 -   `レッスン` Lição
 -   `しゅくだい` Tarefa (Escolar)
 -   `じゅぎょう` Aula
--   `べんきょう` Estudo
+-   <font size="5"><code><ruby>勉<rt>べん</rt>強<rt>きょう</rt></ruby></code></font> Estudo
 -   `せんこう` Curso de Graduação (Major)
 -   `そつぎょう` Graduação
 -   `りゅうがく` Intercâmbio

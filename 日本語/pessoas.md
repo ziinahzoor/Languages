@@ -22,7 +22,7 @@
 -   `クラスメイト` Colega de quarto
 -   `べんごし` Advogado
 -   `にんげん` Humano
--   `ともだち` Amigo
+-   <font size="5"><code><ruby>友<rt>とも</rt>達<rt>だち</rt></ruby></code></font> Amigo
 -   `きゃく` Cliente
 -   `かしゅ` Cantor
 -   `ちょしゃ` Autor

@@ -76,6 +76,7 @@
 -   `Au coin de` Na esquina de
 -   `Récemment` Recentemente
 -   `Comment` Como
+-   `Spécialement` Especialmente
 
 ## Os Porquês
 

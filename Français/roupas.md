@@ -51,3 +51,4 @@
 -   `Portefeuille` Carteira 🚹
 -   `Collier` Colar
 -   `Écharpe` Cachecol 🚺
+-   `Poche` Bolso 🚺

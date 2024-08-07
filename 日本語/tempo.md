@@ -14,6 +14,7 @@
 -   <font size="5"><code><ruby>昨<rt>きの</rt>日<rt>う</rt></ruby></code></font> Ontem
 -   <font size="5"><code><ruby>今<rt>きょ</rt>日<rt>う</rt></ruby></code></font> Hoje
 -   <font size="5"><code><ruby>明<rt>あし</rt>日<rt>た</rt></ruby></code></font> Amanhã
+-   <font size="5"><code><ruby>明<rt>あ</rt>後日<rt>さって</rt></ruby></code></font> Depois de amanhã
 -   <font size="5"><code><ruby>日<rt>にち・ひ</rt></ruby></code></font> Dia
     -   `ひ` Dia de, Dia + adjetivo
 -   <font size="5"><code><ruby>朝<rt>あさ</rt></ruby></code></font> Manhã

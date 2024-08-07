@@ -29,7 +29,7 @@
 -   `つまらない` Entediante
 -   <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しい</code></font> Divertido/Aprazível
 -   `うるさい` Barulhento/Irritante
--   `いそがしい` Ocupado
+-   <font size="5"><code><ruby>忙<rt>いそが</rt>しい</ruby></code></font> Ocupado
 -   `あたまがいい` Inteligente
     -   Adjetivo `いい`
 -   <font size="5"><code><ruby>新<rt>あたら</rt>しい</ruby></code></font> Novo
