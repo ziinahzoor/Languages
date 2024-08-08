@@ -1,4 +1,4 @@
-# Conjunções
+# Conjugações
 
 ## <span style="font-family: 'Tengwar Annatar', sans-serif;">zR5Ì#</span> - Quenya
 
@@ -54,4 +54,4 @@
 -   Utiliza-se a partícula `á` antes do verbo na forma aorista. Note que se há pronome, ele é sufixado à partícula ao invés do verbo.
 -   Também pode ser formado por sufixar a partícula no fim do verbo em comandos curtos.
 
-## <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{%7E5%</span> - Sindarin
+## <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{\%7E5\%</span> - Sindarin
