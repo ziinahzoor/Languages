@@ -1,6 +1,6 @@
 # Tengwar
 
-**É o alfabeto utilizado pelas línguas élficas. Em Sindarin é shamado `tîw`. Também é chamado de Alfabeto Fëanoriano**
+**É o alfabeto utilizado pelas línguas élficas. Em Sindarin é chamado `tîw`. Também é chamado de Alfabeto Fëanoriano**
 
 **Note que para escrever usando tengwar é utilizada uma fonte que pode não ser renderizada em determinados lugares.**
 
