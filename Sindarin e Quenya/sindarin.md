@@ -1,4 +1,4 @@
-# <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{%7E5%</span> - Sindarin
+# <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{\%7E5\%</span> - Sindarin
 
 -   Também conhecido como Élfico-Cinzento.
 -   A maior partes das flexões ocorre através de mutações sonoras.
