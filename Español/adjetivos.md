@@ -144,3 +144,4 @@
 -   `Propio` Próprio
 -   `Silvestre`
 -   `Simple` Simples
+-   `Conocido` Conhecido

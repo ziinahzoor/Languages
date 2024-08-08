@@ -55,3 +55,4 @@
 -   `Excepto` Exceto
 -   `Probablemente` Provavelmente
 -   `Así` Assim
+-   `Por fin` Por fim

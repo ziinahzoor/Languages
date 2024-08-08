@@ -22,6 +22,7 @@
 -   `Mediodía` Meio-dia
 -   `Medianoche` Meia-noite
 -   `Horario` Horário
+-   `Siglo` Século
 
 ## La Semaña - Semana
 

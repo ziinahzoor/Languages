@@ -72,6 +72,7 @@
 -   `Acusativo`: Indica quem recebe a ação (objeto direto).
 -   `Dativo`: Indica quem recebe o objeto direto ou algo realizado pelo objeto direto (objeto indireto).
 -   `Genitivo`: Indica a posse ou relação de um substantivo com outra coisa.
+-   `Alativo`: Indica movimento para perto.
 -   `Ablativo`: Indica movimento para longe.
 -   `Locativo`: Indica o substantivo como a localização de algo, seja física ou temporal.
 -   `Instrumental`: Indica os meios pelos quais algo ocorre, ou com quem a ação ocorre (quando não há caso comitativo).

@@ -196,6 +196,11 @@
 -   `Llamada` Chamada
 -   `Vista`
 -   `Magia`
+-   `Vez`
+-   `Razón` Razão
+-   `Charla` Conversa
+-   `Principio` Princípio
+-   `Nacimento` Nascimento
 
 ## Transporte
 

@@ -2,4 +2,10 @@
 
 **O primeiro termo está em Quenya e o segundo em Sindarin.**
 
--   `Valarauco` | `Balrog` Demônio de poder
+## Natureza
+
+-   `Anar` (O) Sol
+-   `Isil` (A) Lua
+-   `Tasar` Salgueiro
+
+## Outros

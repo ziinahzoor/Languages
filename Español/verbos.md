@@ -112,6 +112,7 @@
 -   `Reparar`
 -   `Asar` Assar
 -   `Completar`
+-   `Preparar`
 
 ## Los verbos -er
 
@@ -176,3 +177,5 @@
 -   `Pedir`
 -   `Morir` Morrer
 -   `Repetir`
+-   `Ocurrir` Ocorrer
+-   `Decidir`

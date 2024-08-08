@@ -116,3 +116,5 @@
 -   `Edificio` Edifício
 -   `Desierto` Deserto
 -   `Puente` Ponte 🚹
+-   `Área`
+-   `Colina`
