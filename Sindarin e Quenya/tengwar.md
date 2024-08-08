@@ -56,7 +56,7 @@
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">lE</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">lY</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">lU</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">.D</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">.F</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">.G</span> |
 
-# <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{%7E5%</span> - Sindarin (Modo de Gondor)
+# <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{\%7E5\%</span> - Sindarin (Modo de Gondor)
 
 -   No Sindarin (Inglês e na Língua negra também), os `tehtar` são colocados na consoante que sucede a vogal. Se a palavra termina em vogal, o tehtar é colocado em um marcador de posição.
 -   As vogais são `a`, `e`, `i`, `o`, `u` e `y`.
@@ -66,7 +66,7 @@
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">lE</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">lY</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">hE</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">hR</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">hM</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">yE</span> |
 
-## <span style="font-family: 'Tengwar Annatar', sans-serif;">8\`2{]7\`6</span> - Modo de Beleriand
+## <span style="font-family: 'Tengwar Annatar', sans-serif;">8\`2\{]7\`6</span> - Modo de Beleriand
 
 -   É um modo completo, portanto não usa tehtar.
 -   Vogais:
