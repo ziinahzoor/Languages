@@ -89,8 +89,6 @@
 
 ## <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{\%7E5\%</span> - Sindarin
 
-## <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{%7E5%</span> - Sindarin
-
 <table>
 	<thead>
 		<tr>

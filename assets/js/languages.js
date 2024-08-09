@@ -136,6 +136,7 @@ const highValyrian = {
 		{ page: 'comida', displayName: 'Comida' },
 		{ page: 'conjugações', displayName: 'Conjugações' },
 		{ page: 'conjunções', displayName: 'Conjunções' },
+		{ page: 'cores', displayName: 'Cores' },
 		{ page: 'corpo', displayName: 'Corpo' },
 		{ page: 'dicas', displayName: 'Dicas' },
 		{ page: 'expressões', displayName: 'Expressões' },
@@ -153,4 +154,14 @@ const highValyrian = {
 	],
 }
 
-export const languages = [alphabets, spanish, french, italian, japanese, highValyrian];
+const elvish = {
+	folder: 'Sindarin%20e%20Quenya',
+	displayName: 'Élfico',
+	subpages: [
+		{ page: 'quenya', displayName: 'Quenya' },
+		{ page: 'sindarin', displayName: 'Sindarin' },
+		{ page: 'tengwar', displayName: 'Tengwar' }
+	]
+}
+
+export const languages = [alphabets, spanish, french, italian, japanese, highValyrian, elvish];

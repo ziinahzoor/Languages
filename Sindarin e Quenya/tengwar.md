@@ -16,9 +16,26 @@
 -   Costuma ser usado em modos `ómatehtar` (tehtar vogal), onde as vogais são representada por diacríticos chamados de `tehtar` (sinais).
 -   Os `tehtar`:
 
-| a                                                                                   | e                                                                                   | i                                                                                   | o                                                                                   | u                                                                                   | y                                                                                   |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">`C</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">`V</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">`B</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">`N</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">`M</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">`×</span> |
+<table>
+    <thead>
+        <tr>
+            <th>a</th>
+            <th>e</th>
+            <th>i</th>
+            <th>o</th>
+            <th>u</th>
+            <th>y</th>
+        </tr>
+    </thead>
+    <tr>
+        <td style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">`C</td>
+        <td style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">`V</td>
+        <td style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">`B</td>
+        <td style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">`N</td>
+        <td style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">`M</td>
+        <td style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">`×</td>
+    </tr>
+</table>
 
 -   Em modos ómatehtar, às vezes são é possível posicionar os tehtar em determinadas consoantes, sendo necessário o uso de marcadores de posição:
     -   <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 30px">`</span> (Telco) - Marcador curto;

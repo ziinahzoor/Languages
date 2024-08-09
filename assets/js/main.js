@@ -43,7 +43,7 @@ function addPages() {
 			subelement.appendChild(sublink);
 			sublist.appendChild(subelement);
 
-			if (path === `/Languages/${page.folder}/${subpage.page}`) {
+			if (path.replaceAll(' ', '%20') === `/Languages/${page.folder}/${subpage.page}`) {
 				sublink.classList.add('selected-page');
 				menu.open = true;
 				menu.classList.add('selected-page');
@@ -135,11 +135,11 @@ function addAlerts() {
 		.filter(nota => nota.innerHTML.startsWith('[!'));
 
 	const alertTypes = {
-		note: 'Note',
-		tip: 'Tip',
-		important: 'Important',
-		warning: 'Warning',
-		caution: 'Caution',
+		note: 'Nota',
+		tip: 'Dica',
+		important: 'Importante',
+		warning: 'Aviso',
+		caution: 'Atenção',
 	};
 
 	for (let alert of alertElements) {
