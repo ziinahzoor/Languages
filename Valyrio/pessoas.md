@@ -2,6 +2,8 @@
 
 -   `Azantys` Cavaleiro ☀️
 -   `Mentys` Soldado ☀️
+-   `Mentyr` Exército 🌊
+-   `Mentyn` Esquadrão/Batalhão/Falange 🌱
 -   `Jentys` Líder/Comandante ☀️
 -   `Ābra` Mulher 🌙
 -   `Ābrar` Humanidade 🌙

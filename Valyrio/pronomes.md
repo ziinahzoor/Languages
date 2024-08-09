@@ -90,6 +90,9 @@
 	</tr>
 </table>
 
+> [!TIP]
+> Os pronomes possessivos são apenas as contrapartes terrestres dos retos.
+
 ## Interrogativos
 
 -   `Skorī` Quando
@@ -146,6 +149,15 @@
 </table>
 
 ## Indefinidos
+
+> [!TIP]
+> Seguem a estrutura:
+>
+> -   `Mir-` Algum
+> -   `Dōr-` Nenhum
+> -   `Tol-` Outro
+> -   `Olv-` Muitos
+> -   `Tolv-` Todos
 
 -   `Daorys` Ninguém
 -   `Daorun` Nada

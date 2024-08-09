@@ -190,6 +190,7 @@
 -   `Naviguer` Navegar
 -   `Jeter` Lançar/Jogar fora
 -   `Laisser` Deixar
+-   `Brancher` Conectar/Plugar
 
 ## -ir Verbes
 

@@ -1,10 +1,12 @@
 # Tempo
 
 -   `Tubis` Dia ☀️
+-   `Jelmior` Clima 🌊
+-   `Jēdar` Ano 🌊
 
-## Estações
+## Jēdar - Estações 🌙
 
 -   `Kiōs` Primavera ☀️
 -   `Jaedos` Verão ☀️
 -   `Iosrūlirion` Outono 🌱
--   `Sōnar` Inverno
+-   `Sōnar` Inverno 🌊

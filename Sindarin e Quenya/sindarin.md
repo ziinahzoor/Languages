@@ -2,6 +2,11 @@
 
 -   Também conhecido como Élfico-Cinzento.
 -   A maior partes das flexões ocorre através de mutações sonoras.
+-   Segue a estrutura SVO.
+-   O objeto direto sofre mutação suave.
+-   O objeto indireto costuma vir depois do direto.
+-   O objeto indireto também pode ser marcado com a preposição `an`, sofrendo mutação nasal.
+-   A cópula costuma ser feita apenas ligando o substantivo ao outro termo.
 
 ## Mutações
 
@@ -33,7 +38,7 @@
 ### Vogais
 
 -   A mutação mais comum é a i-afecção. Geralmente ocorre em plurais. Existem três tipos:
-    -   i-affecção interna: ocorre na vogal base (da primeira sílaba da palavra).
+    -   i-afecção interna: ocorre na vogal base (da primeira sílaba da palavra).
         -   `a`, `o` → `e`.
         -   `u` → `y`.
     -   i-afecção final: ocorre na última sílaba da palavra.
@@ -46,6 +51,9 @@
         -   `au` → `oe`
 -   `i`, `y` e a maior parte dos ditongos são imunes à i-afecção.
 -   Também existe a mutação de alongamento de vogal, que ocorre no particípio passado ativo no passado.
+    -   `i`, `e`, `í` → `i`
+    -   `a`, `ó` → `o`
+    -   `o`, `u`, `ú` → `u`
 
 ## Artigo
 
@@ -55,6 +63,7 @@
 
 ### Plural
 
+-   Em geral costuma ser formado pela i-afecção.
 -   `a`, `i`, `o`, `u`, `ië` e `lë` adicionam `-r`.
 -   `ë` se torna `-i`.
 -   Consoantes adicionam `-i`.
@@ -62,8 +71,18 @@
 ### Plural de Classe
 
 -   Denota um grupo de alguma coisa.
--   Adiciona-se o sufixo `-ath`.
+-   Adiciona-se o sufixo `-ath`. Também existem os sufixos `-rim` e `-hoth`.
 
 ## Adjetivos
 
-**Adjetivos vêm depois do substantivo.**
+-   Vêm depois do substantivo e sofrem mutação suave (exceto em expressões copulativas).
+-   Flexionam em número conforme o substantivo.
+
+## Casos
+
+### Genitivo
+
+-   Costuma ocorrer apenas colocando o "objeto possuído" após o possuidor.
+-   Também pode-se prefixar (com hífen) a preposição `na(n)`. Essa preposição possui uma variante definida `en`.
+    -   `na(n)` causa mutação nasal.
+    -   `en` no singular costuma causar mutação mixa. No plural causa mutação nasal e se torna `enin` antes de vogais.

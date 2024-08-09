@@ -50,3 +50,15 @@
 -   `О̄tor` Carneiro 🌊
 -   `Qaedar` Baleia 🌊
 -   `Qintir` Tartaruga 🌊
+
+## Zaldrīzer - Dragões ☀️
+
+-   `Arraks` Arrax
+-   `Karakses` Caraxes
+-   `Meles` Meleys
+-   `Merakses` Meraxes
+-   `Syraks` Syrax
+-   `Vermaks` Vermax
+-   `Vagar` Vhagar
+-   `Ēdrurzys` Dreamfyre
+-   `Vēsperzys` Sunfyre

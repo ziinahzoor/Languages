@@ -81,6 +81,7 @@
 -   `Docteur` Doutor
 -   `Infirmier` Enfermeiro
 -   `Patient` Paciente
+-   `Hacker`
 
 ## La famille - Família
 

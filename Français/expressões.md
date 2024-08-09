@@ -29,6 +29,7 @@
 -   `Gagner sa vie` Ganhar a vida
 -   `Félicitations!` Parabéns!
 -   `Dis donc` Olha só/Puxa vida/Me diga/Não me diga que...
+-   `On dirait que...` Parece que...
 
 ## Verlan
 

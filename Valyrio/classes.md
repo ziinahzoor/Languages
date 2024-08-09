@@ -44,9 +44,9 @@
 ## Coletivo
 
 -   Termina em `-r` no nominativo.
--   Geralmente se refere a "todos" os membros do que se fala.
+-   Definido plural: Geralmente se refere a "todos" os membros do que se fala.
 
 ## Paucal
 
 -   Termina em `-n` no nominativo.
--   Geralmente se refere a "alguns" dos membros do que se fala. Mas não significa que esse "alguns" é um subconjunto de um todo.
+-   Indefinido singular: Geralmente se refere a "alguns" dos membros do que se fala. Mas não significa que esse "alguns" é um subconjunto de um todo.

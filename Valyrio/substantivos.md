@@ -11,6 +11,10 @@
 -   `Perzys` Fogo ☀️
 -   `Drakarys` Fogo de dragão ☀️
 -   `Suvion` Gelo 🌱
+-   `Sōna` Neve 🌙
+-   `Jelmio` Vento 🌙
+-   `Jēdar` Céu 🌊
+-   `Jelmāzma` Tempestade 🌙
 
 ## Materiais
 
@@ -26,3 +30,8 @@
 
 -   `Brōzi` Nome 🌙
 -   `Vīlībāzma` Guerra 🌙
+-   `Sēter` Feitiço 🌊
+
+## Transporte
+
+-   `Lōgor` Barco 🌊

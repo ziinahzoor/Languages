@@ -1,6 +1,6 @@
 # <span style="font-family: 'Tengwar Annatar', sans-serif;">zR5Ì#</span> - Quenya
 
--   Também conhecido como Alto-Élfico.
+-   Também conhecido como Alto-Élfico, Valinoreano ou Avaloniano.
 -   Segue a estrutura SVO.
 -   Vogais em hiato e o `-e` final são escritos com trema.
 -   Vogais longas são denotadas com acento agudo.
@@ -9,6 +9,14 @@
 -   `qu` é sempre pronunciado `kw`.
 -   `c` é sempre pronunciado `k`.
 -   `ht` depois de "i" e "e" é pronunciado como no alemão "ich" ou o "ch" de "loch".
+
+## Transformações, Contrações e Elisões
+
+**Devido a algumas sequências de caracteres não poderem ocorrer em Quenya, algumas transformações ocorrem.**
+
+-   O `n` antes de `p` se torna `m`.
+-   O `n` antes de `l`, `r`, `s` e `m` é absorvido e se torna uma duplicação da consoante.
+    -   O `n` depois do `l` costuma ter o mesmo comportamento.
 
 ## Artigo
 
@@ -38,6 +46,7 @@
 -   `a`, `i`, `o`, `u`, `ië` e `lë` adicionam `-r`.
 -   `ë` se torna `-i`.
 -   Consoantes adicionam `-i`.
+-   No plural acusativo, `-r` vira `-i`.
 
 ### Dual
 
@@ -56,6 +65,16 @@
     -   `-e` → `-i`
     -   `-ea` → `-ie`
     -   `-n` → `-ni`
+
+### Flexão de Grau
+
+#### Comparativo
+
+-   De superioridade: É dado pela construção `[A] (ná) [adjetivo] lá [B]` "A é mais [adjetivo] que B". Pode ser intensificado utilizando o superlativo no adjetivo.
+
+#### Superlativo
+
+-   É dado pelo prefixo `an-` conectado ao adjetivo.
 
 ## Casos
 

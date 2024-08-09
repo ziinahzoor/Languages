@@ -1,6 +1,7 @@
-# Roupas
+# Mīsītsor - Roupas ☀️
 
 -   `Gelte` Capacete 🌙
+-   `Vellaros` Calça ☀️
 
 ## Equipamento
 

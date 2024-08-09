@@ -2,7 +2,8 @@
 
 ## Irregulares
 
--   `Sagon` Ser/Estar/Existir
+-   `Sagon` Ser/Existir
+-   `Ilagon` Estar/Existir
 
 ## Verbos -gon
 
@@ -10,6 +11,9 @@
 -   `Līrigon` Sorrir
 -   `Ēdrugon` Dormir
 -   `Urnegon` Ver
+-   `Iotāptegon` Respeitar/Considerar
+-   `Ȳdragon` Falar
+-   `Idakogon` Atacar
 
 ## Verbos -agon
 
@@ -24,3 +28,5 @@
 -   `Ojehikagon` Abençoar
 -   `Emagon` Ter
 -   `Belmuragon` Acorrentar
+-   `Ossȳngagon` Aterrorizar
+-   `Izūgagon` Ter medo
