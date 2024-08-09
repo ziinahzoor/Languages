@@ -32,3 +32,10 @@ li:has(font) {
 rt {
 	user-select: none;
 }
+
+.alert {
+	div {
+		color: $white;
+		font-size: 0.9rem;
+	}
+}

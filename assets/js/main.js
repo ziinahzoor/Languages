@@ -131,8 +131,8 @@ function addHeaders() {
 }
 
 function addAlerts() {
-	const alertElements = [...document.querySelectorAll('blockquote>p')]
-		.filter(nota => nota.innerHTML.startsWith('[!'));
+	const alertElements = [...document.querySelectorAll('blockquote')]
+		.filter(blockquote => blockquote.querySelector(':scope>p').innerHTML.startsWith('[!'));
 
 	const alertTypes = {
 		note: 'Nota',
@@ -142,21 +142,30 @@ function addAlerts() {
 		caution: 'Atenção',
 	};
 
-	for (let alert of alertElements) {
-		const elementText = alert.innerHTML;
+	debugger;
 
-		const regex = /\[!(.*?)\]\n(.*)/;
-		const matches = elementText.match(regex);
+	for (let alert of alertElements) {
+		const alertHead = alert.querySelector(':scope>p');
+		const alertBodyElements = [...alert.querySelectorAll(':scope>*:not(:first-child)')];
+
+		const regex = /\[!(.*?)\](?:\n(.*))?/;
+		const matches = alertHead.innerHTML.match(regex);
 
 		const matchType = matches[1].toLowerCase();
-		const alertText = matches[2].trim();
+		alert.innerHTML = `<p>${alerts[matchType]}${alertTypes[matchType].toUpperCase()}</p>`;
 
-		alert.innerHTML = `${alerts[matchType]}${alertTypes[matchType].toUpperCase()}`;
+		const paragraphElement = document.createElement('p');
+		paragraphElement.innerHTML = matches[2]?.trim().replace(/<\/p>(?!.*<\/p>)/, '') ?? '';
 
-		const textElement = document.createElement('p');
-		textElement.innerHTML = alertText;
-		alert.parentNode.appendChild(textElement);
-		alert.parentNode.classList.add('alert', matchType);
+		const bodyElement = document.createElement('div');
+		bodyElement.appendChild(paragraphElement);
+
+		for (let element of alertBodyElements) {
+			bodyElement.appendChild(element);
+		}
+
+		alert.appendChild(bodyElement);
+		alert.classList.add('alert', matchType);
 	}
 }
 
