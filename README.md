@@ -17,12 +17,12 @@
 ## Próximas linguagens
 
 -   [Alemão](Deutsch/regras.md)
--   [Latim](Latin/regras.md)
+-   [Latim](Latinum/regras.md)
 -   [Romeno](Română/regras.md)
 -   [Italiano](Italiano/regras.md)
+-   [Chinês](中文/regras.md)
 -   Árabe
 -   Libras
--   Chinês (Mandarim)
 -   Coreano
 -   Sueco
 -   Esperanto
@@ -41,11 +41,11 @@
 
 -   [Alto Valiriano](Valyrio/regras.md)
 -   [Klingon](tlhIngan%20Hol/regras.md)
+-   [Quenya](Sindarin%20e%20Quenya/quenya.md)
+-   [Sindarin](Sindarin%20e%20Quenya/sindarin.md)
 -   Dothraki
 -   Huttês
 -   Simlish
--   Sindarin
--   Quenya
 
 ## Alfabetos e sistemas de escrita
 

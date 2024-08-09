@@ -1,4 +1,4 @@
-# Regras
+# Frases
 
 -   `toH` Então
 -   `maj` Bom

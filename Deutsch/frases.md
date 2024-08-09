@@ -1,4 +1,4 @@
-# Saudações
+# Frases
 
 -   `Bitte` Por favor/De nada
 -   `Danke` Obrigado

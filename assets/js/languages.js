@@ -66,6 +66,28 @@ const french = {
 	],
 }
 
+const german = {
+	folder: 'Deutsch',
+	displayName: 'Alemão',
+	subpages: [
+		{ page: 'adjetivos', displayName: 'Adjetivos' },
+		{ page: 'advérbios', displayName: 'Advérbios' },
+		{ page: 'animais', displayName: 'Animais' },
+		{ page: 'comida', displayName: 'Comida' },
+		{ page: 'conjunções', displayName: 'Conjunções' },
+		{ page: 'cores', displayName: 'Cores' },
+		{ page: 'dicas', displayName: 'Dicas' },
+		{ page: 'frases', displayName: 'Frases' },
+		{ page: 'lugares', displayName: 'Lugares' },
+		{ page: 'números', displayName: 'Números' },
+		{ page: 'pessoas', displayName: 'Pessoas' },
+		{ page: 'preposições', displayName: 'Preposições' },
+		{ page: 'regras', displayName: 'Regras' },
+		{ page: 'substantivos', displayName: 'Substantivos' },
+		{ page: 'verbos', displayName: 'Verbos' },
+	],
+}
+
 const italian = {
 	folder: 'Italiano',
 	displayName: 'Italiano',
@@ -125,6 +147,51 @@ const japanese = {
 	],
 }
 
+const chinese = {
+	folder: '中文',
+	displayName: 'Mandarim',
+	subpages: [
+		{ page: 'comida', displayName: 'Comida' },
+		{ page: 'conjugações', displayName: 'Conjugações' },
+		{ page: 'conjunções', displayName: 'Conjunções' },
+		{ page: 'pinyin', displayName: 'Pinyin' },
+		{ page: 'pronomes', displayName: 'Pronomes' },
+		{ page: 'regras', displayName: 'Regras' },
+		{ page: 'tons', displayName: 'Tons' },
+		{ page: 'verbos', displayName: 'Verbos' },
+	]
+
+}
+
+const romanian = {
+	folder: 'Română',
+	displayName: 'Romeno',
+	subpages: [
+		{ page: 'advérbios', displayName: 'Advérbios' },
+		{ page: 'números', displayName: 'Números' },
+		{ page: 'pessoas', displayName: 'Pessoas' },
+		{ page: 'preposições', displayName: 'Preposições' },
+		{ page: 'regras', displayName: 'Regras' },
+		{ page: 'verbos', displayName: 'Verbos' },
+	]
+}
+
+const latin = {
+	folder: 'Latinum',
+	displayName: 'Latim',
+	subpages: [
+		{ page: 'advérbios', displayName: 'Advérbios' },
+		{ page: 'conjugações', displayName: 'Conjugações' },
+		{ page: 'dicas', displayName: 'Dicas' },
+		{ page: 'frases', displayName: 'Frases' },
+		{ page: 'lugares', displayName: 'Lugares' },
+		{ page: 'pessoas', displayName: 'Pessoas' },
+		{ page: 'regras', displayName: 'Regras' },
+		{ page: 'substantivos', displayName: 'Substantivos' },
+		{ page: 'verbos', displayName: 'Verbos' },
+	]
+}
+
 const highValyrian = {
 	folder: 'Valyrio',
 	displayName: 'Alto Valiriano',
@@ -158,10 +225,53 @@ const elvish = {
 	folder: 'Sindarin%20e%20Quenya',
 	displayName: 'Élfico',
 	subpages: [
-		{ page: 'quenya', displayName: 'Quenya' },
-		{ page: 'sindarin', displayName: 'Sindarin' },
-		{ page: 'tengwar', displayName: 'Tengwar' }
+		{ page: 'adjetivos', displayName: 'Adjetivos' },
+		{ page: 'advérbios', displayName: 'Advérbios' },
+		{ page: 'animais', displayName: 'Animais' },
+		{ page: 'conjugação', displayName: 'Conjugação' },
+		{ page: 'conjunções', displayName: 'Conjunções' },
+		{ page: 'lugares', displayName: 'Lugares' },
+		{ page: 'números', displayName: 'Números' },
+		{ page: 'pessoas', displayName: 'Pessoas' },
+		{ page: 'pronomes', displayName: 'Pronomes' },
+		{ page: 'quenya', displayName: 'Regras - Quenya' },
+		{ page: 'sindarin', displayName: 'Regras - Sindarin' },
+		{ page: 'substantivos', displayName: 'Substantivos' },
+		{ page: 'tengwar', displayName: 'Tengwar' },
+		{ page: 'verbos', displayName: 'Verbos' },
 	]
 }
 
-export const languages = [alphabets, spanish, french, italian, japanese, highValyrian, elvish];
+const klingon = {
+	folder: 'tlhIngan%20Hol',
+	displayName: 'Klingon',
+	subpages: [
+		{ page: 'frases', displayName: 'Frases' },
+		{ page: 'pIqaD', displayName: 'Alfabeto - pIqaD' },
+	]
+}
+
+const draconic = {
+	folder: 'Dovahzul',
+	displayName: 'Dracônico',
+	subpages: [
+		{ page: 'runas', displayName: 'Runas' },
+	]
+}
+
+const music = {
+	folder: 'Música',
+	displayName: 'Música',
+	subpages: [
+		{ page: 'Guitarra/acordes', displayName: 'Guitarra - Acordes' },
+		{ page: 'Guitarra/teoria', displayName: 'Guitarra - Teoria' },
+		{ page: 'teoria', displayName: 'Teoria Musical' },
+	]
+}
+
+
+const realLanguages = [german, spanish, french, italian, japanese, latin, chinese, romanian,];
+const fictionalLanguages = [highValyrian, draconic, elvish, klingon];
+const other = [alphabets, music];
+
+export const languages = [...realLanguages, ...fictionalLanguages, ...other];
