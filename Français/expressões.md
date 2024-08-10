@@ -30,6 +30,7 @@
 -   `Félicitations!` Parabéns!
 -   `Dis donc` Olha só/Puxa vida/Me diga/Não me diga que...
 -   `On dirait que...` Parece que...
+-   `Par cœur` De cor
 
 ## Verlan
 

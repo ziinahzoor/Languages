@@ -182,6 +182,7 @@
 -   `Trottoir` Calçada
 -   `Salle d'attente` Sala de espera
 -   `Espace` Espaço
+-   `Cafétéria` Cafeteria
 
 ## France - França
 

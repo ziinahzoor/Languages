@@ -268,6 +268,9 @@
 -   `Truc` Truque/Coisa
 -   `Bazar` Velharia/Porcaria 🚹
 -   `Liste` Lista
+-   `Note` Nota
+-   `Erreur` Erro 🚺
+-   `Exemple` Exemplo
 
 ### Unidades de medida
 
@@ -328,6 +331,8 @@
 -   `Danse` Dança
 -   `Cerf-Volant` Pipa 🚹
 -   `Excursion` Excursão
+-   `Étude` Estudo 🚺
+-   `Texte` Texto
 
 ## Estudo
 
@@ -342,6 +347,10 @@
 -   `Manuel` Livro didático/Manual
 -   `Art` Arte
 -   `Médecine` Medicina
+-   `Diplôme` Diploma
+-   `Baccalauréat` Exame final do ensino médio
+    -   `Le Bac` Abreviação
+    -   É como o ENEM.
 
 ### Esporte
 

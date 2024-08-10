@@ -28,6 +28,7 @@
 -   `Peindre` Pintar
 -   `Connaitre` Conhecer
 -   `Entendre` Ouvir
+    -   `S'entendre` Se entender (com alguém)
 -   `Croire` Acreditar/Crer
 -   `Répondre` Responder
 -   `Éteindre` Apagar/Desligar
@@ -99,6 +100,7 @@
 -   `Nager` Nadar
 -   `Passer` Passar
     -   `Se passer` Acontecer
+    -   `Passer un examen` Fazer uma prova
 -   `Plonger` Mergulhar
     -   `Faire de la plongée`
 -   `Nettoyer` Limpar
@@ -172,7 +174,7 @@
 -   `Annuler` Cancelar
 -   `Économiser` Economizar
 -   `Se dépêcher` Se apressar
--   `Rater` Errar/Perder
+-   `Rater` Errar/Perder/Falhar
 -   `Réparer` Reparar
 -   `Se garer` Estacionar
 -   `Allumer` Acender/Ligar
@@ -233,6 +235,8 @@
 -   `Falloir` Dever/Precisar/Ter necessidade
     -   Impessoal (só é utilizado na terceira pessoa)
 -   `Prévoir` Prever/Planejar
+-   `Reussir` Conseguir/Suceder (de ter sucesso)/Aprovar (em testes e provas)
+-   `Découvrir` Descobrir
 
 ## Les Verbes Défectueux - Verbos Defectivos
 

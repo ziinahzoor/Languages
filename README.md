@@ -5,6 +5,9 @@
 > [!IMPORTANT]
 > Os substantivos, adjetivos e outros elementos aqui em sua maior parte estão em sua forma masculina. Note também que, exceto quando explicitado através dos emojis 🚹 (masculino) 🚺 (feminino) ✴️ (neutro), os elementos seguem o mesmo gênero que possuem na tradução utilizada em português. Em linguagens que possuem outros gêneros, estes também são explicitados com emojis, como o Alto Valiriano.
 
+> [!IMPORTANT]
+> Quanto à fonologia, em cada linguagem os sons mais distoantes comparados ao português serão exemplificados conforme o [Alfabeto Fonético Internacional (IPA)](ipa.md).
+
 > [!TIP]
 > Vários sites, informações utilitárias e fontes de pesquisa estão disponíveis [aqui](utils.md)
 

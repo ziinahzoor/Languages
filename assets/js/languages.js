@@ -230,6 +230,8 @@ const elvish = {
 		{ page: 'animais', displayName: 'Animais' },
 		{ page: 'conjugação', displayName: 'Conjugação' },
 		{ page: 'conjunções', displayName: 'Conjunções' },
+		{ page: 'cores', displayName: 'Cores' },
+		{ page: 'corpo', displayName: 'Corpo' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'números', displayName: 'Números' },
 		{ page: 'pessoas', displayName: 'Pessoas' },

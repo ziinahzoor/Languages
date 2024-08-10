@@ -41,6 +41,7 @@
 -   `Quatre-vingt-dix` Noventa
 -   `Cent` Cem
 -   `Mille` Mil
+    -   `Millier` Milhar
 -   `Million` Milhão
 
 <!-- prettier-ignore-start -->

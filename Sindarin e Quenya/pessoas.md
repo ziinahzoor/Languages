@@ -5,11 +5,12 @@
 -   `Quendë` Elfos
     -   `Elda` | `Edhel` Elfo (que foi para Aman)
     -   `Avar` Elfo (que não foi para Aman)
+-   `Nauco` Anão
 -   `Atan` | `Adan` Homem (Humano)
 -   `Aran` Rei
 -   `Tári` | `Rían` Rainha
 -   `Lië` | `Gwaith` Pessoas/Povo
     -   Também é um sufixo.
 -   `Vendë` | `Gwend` Donzela
--   `Nér` | `Dîr` Homem
--   `Nís` | `Dî` Mulher
+-   `Nér(-er)` | `Dîr` Homem
+-   `Nís(-iss)` | `Dî` Mulher

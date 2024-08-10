@@ -191,3 +191,5 @@
 -   `Lourd` Pesado
 -   `Utile` Útil
 -   `Doux` Macio
+-   `Diplômé` Formado/Graduado/Diplomado
+-   `Correct` Correto
