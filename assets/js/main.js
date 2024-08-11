@@ -142,8 +142,6 @@ function addAlerts() {
 		caution: 'Atenção',
 	};
 
-	debugger;
-
 	for (let alert of alertElements) {
 		const alertHead = alert.querySelector(':scope>p');
 		const alertBodyElements = [...alert.querySelectorAll(':scope>*:not(:first-child)')];
