@@ -146,17 +146,20 @@ function addAlerts() {
 		const alertHead = alert.querySelector(':scope>p');
 		const alertBodyElements = [...alert.querySelectorAll(':scope>*:not(:first-child)')];
 
-		const regex = /\[!(.*?)\](?:\n(.*))?/;
+		const regex = /\[!(.*?)\](.*)/s;
 		const matches = alertHead.innerHTML.match(regex);
 
 		const matchType = matches[1].toLowerCase();
 		alert.innerHTML = `<p>${alerts[matchType]}${alertTypes[matchType].toUpperCase()}</p>`;
 
-		const paragraphElement = document.createElement('p');
-		paragraphElement.innerHTML = matches[2]?.trim().replace(/<\/p>(?!.*<\/p>)/, '') ?? '';
-
 		const bodyElement = document.createElement('div');
-		bodyElement.appendChild(paragraphElement);
+		const bodyText = matches[2]?.trim().replace(/<\/p>(?!.*<\/p>)/, '') ?? '';
+		for (let paragraph of bodyText.split('\n').filter(p => p)) {
+			const paragraphElement = document.createElement('p');
+			paragraphElement.innerHTML = paragraph;
+
+			bodyElement.appendChild(paragraphElement);
+		}
 
 		for (let element of alertBodyElements) {
 			bodyElement.appendChild(element);

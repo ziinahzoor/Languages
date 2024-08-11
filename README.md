@@ -9,7 +9,9 @@
 > Quanto à fonologia, em cada linguagem os sons mais distoantes comparados ao português serão exemplificados conforme o [Alfabeto Fonético Internacional (IPA)](ipa.md).
 
 > [!TIP]
-> Vários sites, informações utilitárias e fontes de pesquisa estão disponíveis [aqui](utils.md)
+> Diversos termos relacionados à gramática estão disponíveis [aqui](gramática.md).
+> Vários sites, informações utilitárias e fontes de pesquisa estão disponíveis [aqui](utils.md).
+> Uma lista das provas de proficiência mais conhecidas de algumas linguagens está disponível [aqui](provas.md).
 
 ## Linguagens em progresso atualmente
 
@@ -44,8 +46,8 @@
 
 -   [Alto Valiriano](Valyrio/regras.md)
 -   [Klingon](tlhIngan%20Hol/regras.md)
--   [Quenya](Sindarin%20e%20Quenya/quenya.md)
--   [Sindarin](Sindarin%20e%20Quenya/sindarin.md)
+-   [Quenya](Eldarin/quenya.md)
+-   [Sindarin](Eldarin/sindarin.md)
 -   Dothraki
 -   Huttês
 -   Simlish
@@ -57,5 +59,5 @@
 -   [Daedrico `Skyrim`](Alfabetos/daedric.md)
 -   [Dracônico `Skyrim`](Dovahzul/runas.md)
 -   [Morse](Alfabetos/morse.md)
--   [Tengwar `Senhor dos Anéis`](Sindarin%20e%20Quenya/tengwar.md)
+-   [Tengwar `Senhor dos Anéis`](Eldarin/tengwar.md)
 -   [pIqaD `Star Trek`](tlhIngan%20Hol/pIqaD.md)

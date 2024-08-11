@@ -7,4 +7,4 @@
 
 ## Criaturas
 
--   `Valarauco` | `Balrog` Demônio de poder
+-   `Valarauco` \| `Balrog` Demônio de poder

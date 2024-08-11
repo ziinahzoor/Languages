@@ -1,4 +1,4 @@
-# Fonética
+# Fonética e Fonologia
 
 **O japonês é uma língua tonal, diferente do inglês que é tônico.**
 

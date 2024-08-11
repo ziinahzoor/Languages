@@ -2,7 +2,7 @@
 
 **O primeiro termo está em Quenya e o segundo em Sindarin.**
 
--   `Ná-/Na-(-ar)` | `Na` Ser/Estar
+-   `Ná-/Na-(-ar)` \| `Na` Ser/Estar
     -   Só é obrigatório quando carrega um sufixo pronomial ou é flexionado em tempo.
 -   `Mapa-` Agarrar
 -   `Tir-` Guardar/Observar

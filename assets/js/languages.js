@@ -23,6 +23,7 @@ const spanish = {
 		{ page: 'corpo', displayName: 'Corpo' },
 		{ page: 'dicas', displayName: 'Dicas' },
 		{ page: 'expressões', displayName: 'Expressões' },
+		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'números', displayName: 'Números' },
@@ -52,6 +53,7 @@ const french = {
 		{ page: 'corpo', displayName: 'Corpo' },
 		{ page: 'dicas', displayName: 'Dicas' },
 		{ page: 'expressões', displayName: 'Expressões' },
+		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'números', displayName: 'Números' },
@@ -77,6 +79,7 @@ const german = {
 		{ page: 'conjunções', displayName: 'Conjunções' },
 		{ page: 'cores', displayName: 'Cores' },
 		{ page: 'dicas', displayName: 'Dicas' },
+		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'números', displayName: 'Números' },
@@ -128,6 +131,7 @@ const japanese = {
 		{ page: 'cores', displayName: 'Cores' },
 		{ page: 'corpo', displayName: 'Corpo' },
 		{ page: 'expressões', displayName: 'Expressões' },
+		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'hiragana', displayName: 'Hiragana' },
 		{ page: 'honoríficos', displayName: 'Honoríficos' },
@@ -154,10 +158,10 @@ const chinese = {
 		{ page: 'comida', displayName: 'Comida' },
 		{ page: 'conjugações', displayName: 'Conjugações' },
 		{ page: 'conjunções', displayName: 'Conjunções' },
+		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'pinyin', displayName: 'Pinyin' },
 		{ page: 'pronomes', displayName: 'Pronomes' },
 		{ page: 'regras', displayName: 'Regras' },
-		{ page: 'tons', displayName: 'Tons' },
 		{ page: 'verbos', displayName: 'Verbos' },
 	]
 
@@ -183,6 +187,7 @@ const latin = {
 		{ page: 'advérbios', displayName: 'Advérbios' },
 		{ page: 'conjugações', displayName: 'Conjugações' },
 		{ page: 'dicas', displayName: 'Dicas' },
+		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'pessoas', displayName: 'Pessoas' },
@@ -207,6 +212,7 @@ const highValyrian = {
 		{ page: 'corpo', displayName: 'Corpo' },
 		{ page: 'dicas', displayName: 'Dicas' },
 		{ page: 'expressões', displayName: 'Expressões' },
+		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'números', displayName: 'Números' },
@@ -222,7 +228,7 @@ const highValyrian = {
 }
 
 const elvish = {
-	folder: 'Sindarin%20e%20Quenya',
+	folder: 'Eldarin',
 	displayName: 'Élfico',
 	subpages: [
 		{ page: 'adjetivos', displayName: 'Adjetivos' },
@@ -232,6 +238,7 @@ const elvish = {
 		{ page: 'conjunções', displayName: 'Conjunções' },
 		{ page: 'cores', displayName: 'Cores' },
 		{ page: 'corpo', displayName: 'Corpo' },
+		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'números', displayName: 'Números' },
 		{ page: 'pessoas', displayName: 'Pessoas' },
