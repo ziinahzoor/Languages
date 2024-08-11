@@ -78,6 +78,10 @@
 > [!NOTE]
 > Os pronomes de sujeitos do singular possuem uma forma curta formada por retirar `-ye` e `-se`.
 
+### Demonstrativos
+
+-   `Ta` Isso
+
 ### Interrogativos
 
 -   `Man` Quem

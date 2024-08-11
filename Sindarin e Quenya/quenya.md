@@ -2,13 +2,28 @@
 
 -   Também conhecido como Alto-Élfico, Valinoreano ou Avaloniano.
 -   Segue a estrutura SVO.
--   Vogais em hiato e o `-e` final são escritos com trema.
--   Vogais longas são denotadas com acento agudo.
 -   Geralmente a sílaba tônica é a penúltima. Quando a penúltima é uma vogal curta (se não é um ditongo, vogal longa, ou não precede um aglomerado de consoantes), a tônica é a antepenúltima.
+
+## Tonicidade
+
+**Uma sílaba é longa se contém uma vogal longa, um ditongo, ou se a vogal é seguida de consoantes duplas ou um aglomerado de consoantes.**
+
+-   Sufixos afetam a tonicidade.
+-   Exceto por palavras monossilábicas, a última sílaba nunca recebe a tonicidade.
+-   Se a palavra é bissilábica ou a penúltima sílaba é longa, ela recebe a tonicidade.
+-   Se a penúltima sílaba é curta, a antepenúltima recebe a tonicidade.
+-   Se a palavra possui mais de três sílabas (geralmente palavras com sufixos) e as três últimas são curtas, a penúltima é alongada e recebe a tonicidade.
+
+## Escrita
+
+-   Vogais longas são denotadas com acento agudo.
 -   As consoantes duplas são: `cc`, `ll`, `mm`, `nn`, `pp`, `rr`, `ss` e `tt`.
--   `qu` é sempre pronunciado `kw`.
--   `c` é sempre pronunciado `k`.
--   `ht` depois de "i" e "e" é pronunciado como no alemão "ich" ou o "ch" de "loch".
+-   No inglês o "e" não é pronunciado em algumas situações. Quenya ele é sempre pronunciado. Dessa forma, costuma-se usar a trema para indicar:
+    -   No fim da palavra, e nas combinações `ëa` e `ëo`.
+    -   O "o" também usa trema na combinação `öa`.
+-   `b`, `d` e `g` são encontradas apenas em aglomerados de consoantes.
+-   Aglomerados de consoantes não podem ocorrer no início da palavra, exceto `ps` e `ks` (ou `x`). No fim, só `nt` pode ocorrer.
+-   Aglomerados de consoantes não podem vir depois de ditongos, com exceção de `st`.
 
 ## Transformações, Contrações e Elisões
 

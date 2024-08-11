@@ -14,6 +14,8 @@
 
 **[Dicionário](https://www.elfdict.com/)**
 
+**[Curso de Quenya](https://eldamo.org/intro-quenya/index.html)**
+
 ## Espanhol
 
 **[Gramática espanhola](https://www.spanishdict.com/guide)**
@@ -57,31 +59,3 @@
 **[Dicionário](valyrian-dictionary.com)**
 
 **[Definições de palavras](https://linguifex.com/) - Usar `https://linguifex.com/w/index.php?title=Contionary:[palavra]`**
-
-## Modos
-
--   `Infinitivo`: Forma de dicionário. Geralmente pode ser usado como substantivo, adjetivo ou advérbio.
--   `Indicativo`: Indica uma afirmação ou fato.
--   `Subjuntivo`: Indica uma hipótese ou desejo.
-    -   Geralmente se utiliza com os advérbios/preposições "que", "se" e "quando".
--   `Imperativo`: Indica ordens, sugestões ou pedidos.
-
-## Casos
-
--   `Nominativo`: Indica quem realiza a ação (sujeito).
--   `Acusativo`: Indica quem recebe a ação (objeto direto).
--   `Dativo`: Indica quem recebe o objeto direto ou algo realizado pelo objeto direto (objeto indireto).
--   `Genitivo`: Indica a posse ou relação de um substantivo com outra coisa.
--   `Alativo`: Indica movimento para perto.
--   `Ablativo`: Indica movimento para longe.
--   `Locativo`: Indica o substantivo como a localização de algo, seja física ou temporal.
--   `Instrumental`: Indica os meios pelos quais algo ocorre, ou com quem a ação ocorre (quando não há caso comitativo).
--   `Comitativo`: Indica com quem a ação ocorre, a companhia do sujeito.
--   `Vocativo`: Indica quem está sendo chamado. Usado quando se quer chamar alguém.
-
-**Pronomes tônicos são sempre usados após preposições.**
-
-## Inflexões gramaticais
-
--   `Tempo gramatical`: Indica quando a ação ocorre. Ex.: Passado; presente; futuro.
--   `Aspecto gramatical`: Indica como a ação ocorre. Ex.: Progressivo; contínuo; perfeito; imperfeito.

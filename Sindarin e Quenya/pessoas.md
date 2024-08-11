@@ -1,6 +1,8 @@
-# <span style="font-family: 'Tengwar Annatar', sans-serif;">j%`V</span> - Pessoas
+# <span style="font-family: 'Tengwar Annatar', sans-serif;">j%`V</span> (Lië) - Pessoas
 
 **O primeiro termo está em Quenya e o segundo em Sindarin.**
+
+**O termo entre parênteses indica a forma da palavra quando recebe sufixos.**
 
 -   `Quendë` Elfos
     -   `Elda` | `Edhel` Elfo (que foi para Aman)
@@ -12,5 +14,9 @@
 -   `Lië` | `Gwaith` Pessoas/Povo
     -   Também é um sufixo.
 -   `Vendë` | `Gwend` Donzela
--   `Nér(-er)` | `Dîr` Homem
--   `Nís(-iss)` | `Dî` Mulher
+-   `Nér(ner-)` | `Dîr` Homem
+-   `Nís(niss-)` | `Dî` Mulher
+-   `Nettë` Menina
+-   `Winë` Bebê
+
+## <span style="font-family: 'Tengwar Annatar', sans-serif;">5^,F</span> (Nossë) - Família
