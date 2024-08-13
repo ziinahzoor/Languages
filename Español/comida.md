@@ -31,6 +31,9 @@
 -   `Verdura`
 -   `Dulce` Doce
 -   `Miel` Mel 🚺
+-   `Pasta` Massa
+-   `Tostada` Torrada
+-   `Mermelada` Geleia
 
 ## Las Frutas
 

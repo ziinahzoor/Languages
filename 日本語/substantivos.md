@@ -37,7 +37,7 @@
 -   `さら` Prato
     -   `おさら` Formal
 -   `でんしレンジ` Micro-ondas
--   `れいぞうこ` Geladeira
+-   <font size="5"><code><ruby>冷<rt>れい</rt>蔵<rt>ぞう</rt>庫<rt>こ</rt></ruby></code></font> Geladeira
 -   `カップ` Xícara
 -   `フォーク` Garfo
 -   `スプーン` Colher
@@ -52,6 +52,7 @@
 -   `シャワー` Chuveiro
 -   <font size="5"><code>お<ruby>風<rt>ふ</rt>呂<rt>ろ</rt></ruby></code></font> Banho/Banheira
 -   `シャンプー` Xampu
+-   <font size="5"><code><ruby>鏡<rt>かがみ</rt></ruby></code></font> Espelho
 
 ### Sala de estar
 
@@ -139,6 +140,7 @@
 -   `コピー` Cópia
 -   `スキャン` Digitalização
 -   `きって` Selo de carta
+-   <font size="5"><code><ruby>布<rt>ふ</rt>団<rt>とん</rt></ruby></code></font> Futon
 
 ## Elétricos e Eletrônicos
 
@@ -295,7 +297,7 @@
 -   `グッズ` Produto
 -   `やたい` Barraca de comida
 -   `ポストカード` Cartão postal
--   `おみやげ` Lembrancinha
+-   <font size="5"><code>お<ruby>土産<rt>みやげ</rt></ruby></code></font> Lembrancinha
 -   `クレジットカード` Cartão de crédito
 -   `プレゼント` Presente
 -   `はんがく` Metade do preço
@@ -327,7 +329,7 @@
 -   `カラオケ` Karaoke
 -   `プロジェクト` Projeto
 -   `ミーティング` Reunião
--   `りょこう` Viagem
+-   <font size="5"><code><ruby>旅<rt>りょ</rt>行<rt>こう</rt></ruby></code></font> Viagem
 -   `かんこう` Passeio turístico
 -   `イベント` Evento
 -   `マラソン` Maratona

@@ -28,6 +28,7 @@
 -   `Voktys` Padre ☀️
 -   `Jaes` Deus/Divindade ☀️
 -   `Raqiros` Amigo ☀️
+-   `Targārien` Targaryen 🌱
 
 ## Família
 

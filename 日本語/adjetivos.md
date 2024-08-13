@@ -36,12 +36,12 @@
 -   <font size="5"><code><ruby>古<rt>ふる</rt>い</ruby></code></font> Velho
 -   <font size="5"><code><ruby>高<rt>たか</rt>い</ruby></code></font> Caro/Alto
 -   <font size="5"><code><ruby>安<rt>やす</rt>い</ruby></code></font> Barato
--   `ひくい` Baixo
+-   <font size="5"><code><ruby>低<rt>ひく</rt>い</ruby></code></font> Baixo
 -   `ひろい` Largo/Espaçoso
 -   `せまい` Estreito/Apertado
 -   `はやい` Rápido
 -   `おそい` Devagar/Lento
--   `ながい` Longo
+-   <font size="5"><code><ruby>長<rt>なが</rt>い</ruby></code></font> Longo
 -   `みじかい` Curto
 -   `あぶない` Perigoso
 -   `すずしい` Refrescante/Gelado
@@ -80,7 +80,7 @@
 -   `あぶらっこい` Gorduroso/Oleoso
 -   <font size="5"><code><ruby>近<rt>ちか</rt>い</ruby></code></font> Próximo (Distância)/Perto
 -   `とおい` Longe
--   `きたない` Sujo
+-   <font size="5"><code><ruby>汚<rt>きたな</rt>い</ruby></code></font> Sujo
 -   `うつくしい` Bonito
 -   `ひどい` Péssimo/Horrível/Terrível
 

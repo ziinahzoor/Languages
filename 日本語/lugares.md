@@ -79,7 +79,8 @@
 -   `コーナー` Seção
 -   `バー` Bar
 -   `りょう` Dormitório
--   `すみ` Canto (interno)
+-   <font size="5"><code><ruby>片<rt>かた</rt>隅<rt>すみ</rt></ruby></code></font> Canto (lugar longe do centro)
+-   <font size="5"><code><ruby>隅<rt>すみ</rt></ruby></code></font> Canto (interno)
 -   `かど` Canto (externo)
 -   <font size="5"><code><ruby>中<rt>なか</rt></ruby></code></font> Interior
 -   <font size="5"><code><ruby>外<rt>そと</rt></ruby></code></font> Exterior/Ar livre
@@ -118,10 +119,15 @@
 
 ## <ruby>親<rt>しん</rt>戚<rt>せき</rt>所<rt>ところ</rt></ruby> - Lugares Relativos
 
--   `となり` Proximidade
+-   <font size="5"><code><ruby>隣<rt>となり</rt></ruby></code></font> Ao lado/Próximo/Proximidade
+    -   Expressa um ponto em uma "linha horizontal".
+-   <font size="5"><code><ruby>横<rt>よこ</rt></ruby></code></font> Ao lado/Próximo/Proximidade
+    -   Expressa tudo que se está ao lado numa "linha horizontal".
+-   <font size="5"><code><ruby>側<rt>そば</rt></ruby></code></font> Próximo/Proximidade
+    -   Expressa tudo que se está ao redor.
 -   `まわり` Arredor/Arredores
 -   <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Frente/Face
--   `うしろ` Atrás/Detrás
+-   <font size="5"><code><ruby>後<rt>うし</rt>ろ</ruby></code></font> Atrás/Detrás
 -   `まんなか` Meio
 -   <font size="5"><code><ruby>間<rt>あいだ</rt></ruby></code></font> Espaço entre/Abertura/Brecha
 
@@ -193,9 +199,9 @@
 
 -   <font size="5"><code><ruby>日<rt>に</rt>本<rt>ほん</rt></ruby></code></font> Japão
 -   <font size="5"><code><ruby>中<rt>ちゅう</rt>国<rt>ごく</rt></ruby></code></font> China
--   `かんこく` Coréia
+-   <font size="5"><code><ruby>韓<rt>かん</rt>国<rt>こく</rt></ruby></code></font> Coréia do Sul
 -   `ベトナム` Vietnã
--   `たいわん` Taiwan
+-   <font size="5"><code><ruby>台<rt>たい</rt>湾<rt>わん</rt></ruby></code></font> Taiwan
 -   `マレーシア` Malásia
 -   `フィリピン` Filipinas
 -   `タイ` Thailândia

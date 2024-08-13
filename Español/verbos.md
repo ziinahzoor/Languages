@@ -179,3 +179,4 @@
 -   `Repetir`
 -   `Ocurrir` Ocorrer
 -   `Decidir`
+-   `Vestirse` Se vestir

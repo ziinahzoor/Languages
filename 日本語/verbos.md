@@ -288,7 +288,7 @@
 -   `Instrumento` + `を` Tocar
 -   `スポーツ` + `を` Praticar esportes
 -   <font size="5"><code><ruby>仕<rt>し</rt>事<rt>ごと</rt></ruby></code></font> Trabalhar
--   `りょこう` Viajar
+-   <font size="5"><code><ruby>旅<rt>りょ</rt>行<rt>こう</rt></ruby></code></font> Viajar
 -   `けんか` Lutar
 -   <font size="5"><code><ruby>勉<rt>べん</rt>強<rt>きょう</rt></ruby></code></font> Estudar
 -   `そつぎょう` Graduar

@@ -19,6 +19,7 @@
 
 -   `Kostōba` Poderoso/Forte
 -   `Rōva` Grande
+-   `Āegenka` Ferroso/Feito de ferro
 
 ## Classe II
 

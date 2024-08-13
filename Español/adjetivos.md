@@ -145,3 +145,5 @@
 -   `Silvestre`
 -   `Simple` Simples
 -   `Conocido` Conhecido
+-   `Suave`
+-   `Diario` Diário

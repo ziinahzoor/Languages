@@ -15,6 +15,7 @@
 -   `Jelmio` Vento 🌙
 -   `Jēdar` Céu 🌊
 -   `Jelmāzma` Tempestade 🌙
+-   `Blēnon` Montanha 🌱
 
 ## Materiais
 
@@ -25,6 +26,10 @@
 -   `Āegion` Ferro 🌱
 -   `Korzion` Aço 🌱
 -   `Dōron` Pedra 🌱
+
+## Casa
+
+-   `Dēmalion` Trono 🌱
 
 ## Abstratos
 

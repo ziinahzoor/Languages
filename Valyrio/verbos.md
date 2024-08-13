@@ -30,3 +30,5 @@
 -   `Belmuragon` Acorrentar
 -   `Ossȳngagon` Aterrorizar
 -   `Izūgagon` Ter medo
+-   `Tēmagon` Cutucar/Picar
+-   `Jemagon` Guiar/Liderar

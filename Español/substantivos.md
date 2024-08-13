@@ -114,6 +114,9 @@
 -   `Cajón` Gaveta 🚹
 -   `Diario` Diário
 -   `Carpeta` Pasta
+-   `Peine` Pente
+-   `Maquillaje` Maquiagem 🚹
+-   `Champú` Xampú
 
 ## Abstratos
 

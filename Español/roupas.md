@@ -17,8 +17,13 @@
 -   `Vestido`
 -   `Abrigo` Casaco
 -   `Chal` Xale
+-   `Bufanda` Cachecol 🚺
+-   `Corbata` Gravata
 -   `Traje de baño` Traje de banho
 -   `Cinturón` Cinto
+-   `Traje` Terno
+-   `Suéter`
+-   `Uniforme`
 
 ## Los Brazos - Braços
 
@@ -34,6 +39,7 @@
 
 -   `Zapato` Sapato
 -   `Botas`
+-   `Calcetín` Meia 🚹
 
 ## Los Accesorios - Acessórios
 
