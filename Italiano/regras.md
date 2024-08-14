@@ -5,6 +5,7 @@
 -   Adjetivos terminados em `-o` geralmente são conjugados em `-o` (masculino singular), `-a` (feminino singular), `-i` (masculino plural) e `-e` (feminino plural). Os terminados em `-e` só se conjugam em `-i` no plural.
 -   Para dizer a profissão: `fare` + artigo definido + profissão.
 -   Para frases impessoais, como instruções ou regras, se utiliza `si`, ex.: `Si mangia`. Para verbos reflexivos se usa `ci` antes, ex.: `Ci si alza`.
+-   Quando a preposição `a` ou as conjunções `e` e `o` precedem uma palavra que começa com a mesma letra, adiciona-se um `d` antes da palavra (d eufônico), exceto com palavras iniciadas em "ad", "ed" ou "od".
 
 ## Gli Articoli - Artigos
 

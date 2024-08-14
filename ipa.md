@@ -53,12 +53,14 @@
 -   [`[ə]`](https://upload.wikimedia.org/wikipedia/commons/d/d9/Mid-central_vowel.ogg 'Vogal central média') Um "ã". Ex.: "maç<span style="color:#ea00d9">ã</span>".
     -   [ɵ̞/ə̹/ɞ̝] Vogal central média arredondada.
 -   [`[ɛ]`](https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vowel.ogg 'Vogal anterior semiaberta não arredondada') Um "é". Ex.: "f<span style="color:#ea00d9">é</span>", "p<span style="color:#ea00d9">é</span>".
+-   [`[ɜ]`](https://upload.wikimedia.org/wikipedia/commons/0/01/Open-mid_central_unrounded_vowel.ogg 'Vogal central semiaberta não arredondada') Um "â". Ex. (Inglês britânico): "b<span style="color:#ea00d9">ir</span>d".
 
 ### I
 
 -   [`[i]`](https://upload.wikimedia.org/wikipedia/commons/9/91/Close_front_unrounded_vowel.ogg 'Vogal anterior fechada não arredondada') Um "i" comum. Ex.: "f<span style="color:#ea00d9">i</span>no", "b<span style="color:#ea00d9">i</span>lhar".
     -   `[i:]` Um "i" alongado. Ex.: "s<span style="color:#ea00d9">i</span>".
 -   [`[ɪ]`](https://upload.wikimedia.org/wikipedia/commons/4/4c/Near-close_near-front_unrounded_vowel.ogg 'Vogal quase anterior quase fechada não arredondada') Um "i" que surge de um "e". Ex.: "cabin<span style="color:#ea00d9">e</span>".
+-   [`[ɨ]`](https://upload.wikimedia.org/wikipedia/commons/5/53/Close_central_unrounded_vowel.ogg 'Vogal central fechada não arredondada') Entre um "i" e um "u", como o um "uh" de aversão. Ex. (Russo): "т<span style="color:#ea00d9">ы</span>".
 
 ### O
 
@@ -74,7 +76,13 @@
 
 -   [`[u]`](https://upload.wikimedia.org/wikipedia/commons/5/5d/Close_back_rounded_vowel.ogg 'Vogal posterior fechada arredondada') Um "u" comum. Ex.: "t<span style="color:#ea00d9">u</span>", "b<span style="color:#ea00d9">u</span>raco".
     -   `[u:]` Um "u" longo, não existe no português. Ex.: "f<span style="color:#ea00d9">oo</span>d", "m<span style="color:#ea00d9">oo</span>n".
+-   [`ʊ`](https://upload.wikimedia.org/wikipedia/commons/d/d5/Near-close_near-back_rounded_vowel.ogg 'Vogal quase posterior quase fechada arredondada') Um "u" mais fraco. Ex.: "pul<span style="color:#ea00d9">o</span>".
 -   `[ɥ]` Ver [Y](ipa.md#y-1).
+-   `[ɯ]` Ver [W](#w).
+
+### W
+
+-   [`[ɯ]`](https://upload.wikimedia.org/wikipedia/commons/e/e8/Close_back_unrounded_vowel.ogg 'Vogal posterior fechada não arredondada') Um "e" se tornando um "u". Ex. (Português europeu): "p<span style="color:#ea00d9">e</span>gar".
 
 ### Y
 
@@ -99,14 +107,26 @@
     -   `c̟/t̠ʲ` Oclusiva alvéolo-palatal surda
 -   [`[ç]`](https://upload.wikimedia.org/wikipedia/commons/a/ab/Voiceless_palatal_fricative.ogg 'Fricativa palatal surda') Um "h" suavemente escarrado. Ex. (Inglês): "<span style="color:#ea00d9">h</span>ue". Ex. (Alemão): "i<span style="color:#ea00d9">ch</span>".
     -   `[j̊]` Aproximante palatal surda.
+-   [`[ɕ]`](https://upload.wikimedia.org/wikipedia/commons/0/0b/Voiceless_alveolo-palatal_sibilant.ogg 'Fricativa alvéolo-palatal surda') Um "sh". Ex.: "me<span style="color:#ea00d9">x</span>endo".
 -   `[ɔ]` Ver [O](#o).
 
 ### D
 
+-   [`[d]`](https://upload.wikimedia.org/wikipedia/commons/0/01/Voiced_alveolar_plosive.ogg 'Oclusiva alveolar') Um "d" comum. Ex.: "<span style="color:#ea00d9">d</span>evolver".
+    -   [`[d̪]`](https://upload.wikimedia.org/wikipedia/commons/1/1c/Voiced_dental_stop.ogg 'Oclusiva dental') Um "d" mais mudo. Ex.: "<span style="color:#ea00d9">d</span>ar",
+-   [`[ɖ]`](https://upload.wikimedia.org/wikipedia/commons/2/27/Voiced_retroflex_stop.oga 'Oclusiva retroflexa') Um "d" com a língua retraída. Ex. Sueco: "no<span style="color:#ea00d9">rd</span>".
+-   [`[ð]`](https://upload.wikimedia.org/wikipedia/commons/6/6a/Voiced_dental_fricative.ogg 'Fricativa dental') Um "r" suave transicionando para um "d". Ex. (Espanhol): "de<span style="color:#ea00d9">d</span>o".
+    -   [`[ð̞/ɹ̪]`](https://upload.wikimedia.org/wikipedia/commons/1/11/Voiced_dental_approximant.ogg 'Aproximante dental') O "r" parece mais um "l".
+-   [`[dz/ʣ]`](https://upload.wikimedia.org/wikipedia/commons/d/d8/Voiced_alveolar_sibilant_affricate.oga 'Africada alveolar sibilante') Um "dz". Ex.: "apren<span style="color:#ea00d9">diz</span>ado". Ex. (Italiano): "<span style="color:#ea00d9">z</span>ero".
+    -   `[dɹ̝/dð̠/dð͇]` Africada alveolar não sibilante.
 -   [`[dʒ/ʤ]`](https://upload.wikimedia.org/wikipedia/commons/e/e6/Voiced_palato-alveolar_affricate.ogg 'Africada pós-alveolar ou Africada sibiliante palato-alveolar') Um "dj". Ex.: "gran<span style="color:#ea00d9">d</span>e", "<span style="color:#ea00d9">j</span>eans".
     -   `[d̠ɹ̠˔/dɹ̝˗]` Africada pós-alveolar não sibilante.
+-   [`[dʑ/ʥ/ɟʑ]`](https://upload.wikimedia.org/wikipedia/commons/c/c1/Voiced_alveolo-palatal_affricate.ogg 'Africada alvéolo-palatal') Um [dʒ] com o "j" mais suave, com o "d" sendo mais tônico. Ex. (Japonês): "<span style="color:#ea00d9">j</span>in".
 
 ### F
+
+-   [`[f]`](https://upload.wikimedia.org/wikipedia/commons/c/c7/Voiceless_labio-dental_fricative.ogg 'Africada labiodental surda') Um "f" comum. Ex.: "<span style="color:#ea00d9">f</span>ala", "ca<span style="color:#ea00d9">f</span>é".
+    -   [ʋ̥] Aproximante labiodental surda.
 
 ### G
 
@@ -115,12 +135,16 @@
 
 ### H
 
+-   [`[h/h͈]`](https://upload.wikimedia.org/wikipedia/commons/d/da/Voiceless_glottal_fricative.ogg 'Fricativa glotal surda') Um "h" ou "rr" comum. Ex.: "ma<span style="color:#ea00d9">rr</span>eta". Ex. (Inglês): "<span style="color:#ea00d9">h</span>igh".
+-   [`[ɦ]`](https://upload.wikimedia.org/wikipedia/commons/e/e2/Voiced_glottal_fricative.ogg 'Fricativa glotal') Um [h], mas vibrando as cordas vocais. Ex.: "<span style="color:#ea00d9">r</span>apaz".
 -   `[ɥ]` Ver [Y](#y-1).
 
 ### J
 
 -   [`[j]`](https://upload.wikimedia.org/wikipedia/commons/e/e8/Palatal_approximant.ogg 'Aproximante palatal') Um "i" se transformando em outra vogal. Ex.: "bo<span style="color:#ea00d9">i</span>a". Ex. (Inglês): "<span style="color:#ea00d9">y</span>ou". Ex. (Alemão): "<span style="color:#ea00d9">j</span>a".
     -   `[j˖/ʎ̟]` Aproximante alvéolo-palatal.
+-   [`[ʝ]`](https://upload.wikimedia.org/wikipedia/commons/a/ac/Voiced_palatal_fricative.ogg 'Fricativa palatal') Um [j] mais forte. Ex. (Espanhol): "<span style="color:#ea00d9">y</span>o", "va<span style="color:#ea00d9">y</span>a".
+    -   `[ɹ̠ʲ˔/ʝ˖]` Aproximante alvéolo-palatal não sibilante.
 
 ### K
 
@@ -128,29 +152,50 @@
 
 ### L
 
--   [`[ɬ]`](https://upload.wikimedia.org/wikipedia/commons/e/ea/Voiceless_alveolar_lateral_fricative.ogg 'Fricativa lateral alveolar surda') Como um "sh" inteiramente sibilante. Ex. (Galês): "<span style="color:#ea00d9">LL</span>oyd".
+-   [`[l]`](https://upload.wikimedia.org/wikipedia/commons/b/bc/Alveolar_lateral_approximant.ogg 'Aproximante alveolar lateral') Um "l" mais mudo. Ex. (Italiano): "mo<span style="color:#ea00d9">l</span>to" . Ex. (Espanhol): "a<span style="color:#ea00d9">l</span>tar".
+    -   [`[l̠]`](https://upload.wikimedia.org/wikipedia/commons/5/5b/Voiced_postalveolar_lateral_approximant.ogg 'Aproximante pós-alveolar lateral')
+    -   [`[l̪]`](https://upload.wikimedia.org/wikipedia/commons/f/f8/Voiced_dental_lateral_approximant.ogg 'Aproximante dental lateral')
+-   [`[ɫ/lˠ/lˤ]`](https://upload.wikimedia.org/wikipedia/commons/d/d3/Velarized_alveolar_lateral_approximant.ogg 'Aproximante alveolar lateral velarizada') Um "l" mais forte, como uma locução. Ex. (Russo): "ма<span style="color:#ea00d9">л</span>ый".
+-   [`[ɺ]`](https://upload.wikimedia.org/wikipedia/commons/c/c9/Voiced_alveolar_lateral_flap.wav 'Vibrante alveolar lateral') Entre um "l" e um "r". Ex. (Japonês): "<span style="color:#ea00d9">r</span>oku", "koko<span style="color:#ea00d9">r</span>o".
+-   [`[ɬ]`](https://upload.wikimedia.org/wikipedia/commons/e/ea/Voiceless_alveolar_lateral_fricative.ogg 'Fricativa lateral alveolar surda') Um "sh" inteiramente sibilante. Ex. (Galês): "<span style="color:#ea00d9">LL</span>oyd".
     -   `[l̥]` Aproximante lateral alveolar surda.
     -   `[ɫ̥]` Aproximante lateral alveolar surda velarizada.
 
 ### M
 
--   `[ʍ]` Ver [W](#w).
+-   [`[m]`](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg 'Nasal bilabial') Um "m" comum. Ex.: "<span style="color:#ea00d9">m</span>assa", "a<span style="color:#ea00d9">m</span>ora".
+-   [`[ɱ/m̪]`](https://upload.wikimedia.org/wikipedia/commons/1/18/Labiodental_nasal.ogg 'Nasal labiodental') Um "m" com o lábio inferior tocando os dentes de cima. Ex. (Inglês): "sy<span style="color:#ea00d9">m</span>phony".
+-   `[ɯ]` Ver [W](#w).
+-   `[ʍ]` Ver [W](#w-1).
 
 ### N
 
+-   [`[n]`](https://upload.wikimedia.org/wikipedia/commons/2/29/Alveolar_nasal.ogg 'Nasal alveolar') Um "n" comum. Ex.: "<span style="color:#ea00d9">n</span>ariz".
+-   [`ŋ`](https://upload.wikimedia.org/wikipedia/commons/3/39/Velar_nasal.ogg 'Nasal velar') Um "n" como o que vem antes de "g". Ex.: "ma<span style="color:#ea00d9">n</span>ga".
 -   [`[ɲ]`](https://upload.wikimedia.org/wikipedia/commons/4/46/Palatal_nasal.ogg 'Nasal palatal') Um "nh" ou um "ñ" espanhol. Ex.: "so<span style="color:#ea00d9">nh</span>o". Ex.: "espa<span style="color:#ea00d9">ñ</span>ol".
     -   `[ɲ̟/n̠ʲ]` Nasal alvéolo-palatal.
 
 ### P
 
+-   [`[p]`](https://upload.wikimedia.org/wikipedia/commons/5/51/Voiceless_bilabial_plosive.ogg 'Oclusiva bilabial surda') Um "p" comum. Ex.: "<span style="color:#ea00d9">p</span>ai".
+
 ### Q
 
 ### R
 
--   [`[r]`](https://upload.wikimedia.org/wikipedia/commons/c/ce/Alveolar_trill.ogg 'Vibrante alveolar') Um "r" vibrado. Ex. (Espanhol): "pe<span style="color:#ea00d9">rr</span>o".
+-   [`[r]`](https://upload.wikimedia.org/wikipedia/commons/c/ce/Alveolar_trill.ogg 'Vibrante múltipla alveolar') Um "r" vibrado. Ex. (Espanhol): "pe<span style="color:#ea00d9">rr</span>o".
     -   [`[r̝/r̻]`](https://upload.wikimedia.org/wikipedia/commons/c/c7/Raised_alveolar_non-sonorant_trill.ogg 'Vibrante alveolar-fricativa') Ex.: "<span style="color:#ea00d9">r</span>ana".
+-   [`[ɾ]`](https://upload.wikimedia.org/wikipedia/commons/a/a0/Alveolar_tap.ogg 'Vibrante alveolar') Um "r" vibrado apenas uma vez. Ex.: "p<span style="color:#ea00d9">r</span>ato".
+    -   `[ɾ̃/n̆]` Vibrante alveolar nasal.
+-   [`[ʀ]`](https://upload.wikimedia.org/wikipedia/commons/c/cb/Uvular_trill.ogg 'Vibrante múltipla uvular') Um "r" suave escarrado. Ex. (Francês): "<span style="color:#ea00d9">r</span>endez-vous".
+    -   `[ʀ̝]` Vibrante múltipla fricativa uvular.
 -   [`[r̥]`](https://upload.wikimedia.org/wikipedia/commons/1/1e/Voiceless_alveolar_trill.ogg 'Vibrante alveolar surda') Um "r" vibrado com um "h" antes. Ex. (Islandês): "<span style="color:#ea00d9">hr</span>afn".
     -   `[r̝̊]` Vibrante alveolar-fricativa surda.
+-   [`[ɽ]`](https://upload.wikimedia.org/wikipedia/commons/8/87/Retroflex_flap.ogg 'Vibrante retroflexa') Um "r" caipira sulista. Ex.: "a<span style="color:#ea00d9">r</span>ara".
+-   [`[ɹ/ð̠˕]`](https://upload.wikimedia.org/wikipedia/commons/1/1f/Alveolar_approximant.ogg 'Aproximante alveolar') Um "r" caipira, geralmente encontrado no fim de verbos. Ex. (Sotaque caipira): "faze<span style="color:#ea00d9">r</span>".
+    -   [`[ɹ̠]`](https://upload.wikimedia.org/wikipedia/commons/3/33/Postalveolar_approximant.ogg 'Aproximante pós-alveolar')
+-   [`[ɻ]`](https://upload.wikimedia.org/wikipedia/commons/d/d2/Retroflex_approximant.ogg 'Aproximante retroflexa') Um "r" caipira comumente pronunciado no lugar do "l". Ex. (Sotaque caipira): "tempora<span style="color:#ea00d9">l</span>".
+    -   [`[ɻʷ]`](https://upload.wikimedia.org/wikipedia/commons/b/bf/Retroflex_Approximant2.oga 'Aproximante retroflexa labializada')
 -   [`[ʁ]`](https://upload.wikimedia.org/wikipedia/commons/a/af/Voiced_uvular_fricative.ogg 'Fricativa uvular') Um "r" suave. Ex.: "<span style="color:#ea00d9">r</span>ápido", "ca<span style="color:#ea00d9">rr</span>o".
     -   [`[ʁ̞]`](https://upload.wikimedia.org/wikipedia/commons/1/19/Voiced_Uvular_Approximant.ogg 'Aproximante uvular') Ainda mais suave.
 
@@ -160,12 +205,25 @@
     -   `[s̟/s̪]` Sibilante alveolar dentalizada surda.
     -   `[s̠/sᶴ]` Sibilante alveolar retraída surda.
 -   [`[ʃ]`](https://upload.wikimedia.org/wikipedia/commons/c/cc/Voiceless_palato-alveolar_sibilant.ogg 'Fricativa pós-alveolar surda') Um "x" ou "ch". Ex.: "cai<span style="color:#ea00d9">x</span>a", "<span style="color:#ea00d9">ch</span>ave".
+-   [`[ʂ]`](https://upload.wikimedia.org/wikipedia/commons/b/b1/Voiceless_retroflex_sibilant.ogg 'Fricativa retroflexa surda') Um "shhh" de silêncio. Ex. (Russo): "<span style="color:#ea00d9">ш</span>ут". Ex. (Sueco): "fo<span style="color:#ea00d9">rs</span>".
+    -   `[ɻ̝̊/ɻ̊˔/ʈ˕]` Fricativa não sibilante retroflexa surda.
+    -   `[ɻ̊]` Aproximante retroflexa surda.
 
 ### T
+
+-   [`[t]`](https://upload.wikimedia.org/wikipedia/commons/0/02/Voiceless_alveolar_plosive.ogg 'Oclusiva alveolar surda') Um "t" comum. Ex.: "<span style="color:#ea00d9">t</span>rabalho".
+    -   [`[t̪]`](https://en.wikipedia.org/wiki/File:Voiceless_dental_stop.ogg 'Oclusiva dental surda')
+-   [`[ts/ʦ]`](https://upload.wikimedia.org/wikipedia/commons/9/9d/Voiceless_alveolar_sibilant_affricate.oga 'Africada sibilante alveolar surda') Um "tss" como o sibilar de uma cobra. Ex.: "par<span style="color:#ea00d9">tic</span>ipação".
+    -   [`[tɹ̝̊/tθ̠/tθ͇]`](https://en.wikipedia.org/wiki/File:Voiceless_alveolar_non-sibilant_affricate.wav 'Africada não sibilante alveolar surda')
+-   [`[tʃ/ʧ]`](https://upload.wikimedia.org/wikipedia/commons/9/97/Voiceless_palato-alveolar_affricate.ogg 'Africada pós-alveolar surda') Um "tch". Ex.: "<span style="color:#ea00d9">tch</span>au", "presen<span style="color:#ea00d9">t</span>e".
+    -   [`[t̠ɹ̠̊˔/tɹ̝̊˗]`](https://upload.wikimedia.org/wikipedia/commons/f/f4/Voiceless_postalveolar_non-sibilant_affricate.ogg 'Africada pós-alveolar não sibilante surda') Um "tr". Ex. (Inglês): "<span style="color:#ea00d9">tr</span>ee".
+-   [`[tɕ/ʨ/cɕ]`](https://upload.wikimedia.org/wikipedia/commons/c/c4/Voiceless_alveolo-palatal_affricate.ogg 'Africada alvéolo-palatal surda') Um "tch" com o "t" mudo. Ex. Japonês: "<span style="color:#ea00d9">ch</span>ijin".
+-   [`[ʈʂ/ꭧ]`](https://upload.wikimedia.org/wikipedia/commons/e/e9/Voiceless_retroflex_affricate.ogg 'Africada retroflexa surda') Um "tsch" rápido. Ex.: "<span style="color:#ea00d9">tch</span>ê", "Sebas<span style="color:#ea00d9">ti</span>ão".
 
 ### V
 
 -   [`[v]`](https://upload.wikimedia.org/wikipedia/commons/8/85/Voiced_labiodental_fricative.ogg 'Fricativa labiodental'). Um "v" comum. Ex.: "<span style="color:#ea00d9">v</span>ila", "<span style="color:#ea00d9">v</span>aca".
+-   [`[ʋ]`](https://upload.wikimedia.org/wikipedia/commons/e/ee/Labiodental_approximant.ogg 'Aproximante labiodental') Um "v" mais fechado, como no português europeu. Ex. (Português europeu): "<span style="color:#ea00d9">v</span>á".
 -   `[ʌ]` Ver [A](#a).
 
 ### W
@@ -176,6 +234,7 @@
 ### X
 
 -   [`[x]`](https://upload.wikimedia.org/wikipedia/commons/0/0f/Voiceless_velar_fricative.ogg 'Fricativa velar surda'). Muito próximo de [ç], porém mais suave, quase sem escarro. Ex.: "a<span style="color:#ea00d9">h</span>á".
+-   [`[χ]`](https://upload.wikimedia.org/wikipedia/commons/c/c8/Voiceless_uvular_fricative.ogg 'Fricativa uvular surda') Um "r" escarrado suave. Ex.: "<span style="color:#ea00d9">r</span>omper". Ex. (Francês): "t<span style="color:#ea00d9">r</span>ès".
 
 ### Y
 
