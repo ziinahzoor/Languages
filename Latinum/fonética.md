@@ -1,6 +1,15 @@
 # Fonética e Fonologia
 
--   `v` tem som "w"
--   `c` sempre é pronunciado como "k"
--   `g` tem som sempre forte, ou seja, `ge` e `gi` são pronunciados "gue" e "gui".
--   `ae` tem som "ai"
+-   `e` [e] ou [ɛ] (depende da palavra)
+-   `c` [k]
+-   `j` [j]
+-   `g` [g] ou [dʒ] (depende da palavra)
+-   `v` [w]
+-   `z` [dz] ou [z] (depende da palavra)
+-   `y` [ʏ]
+-   `ae` [e]
+-   `æ` [e]
+-   `oe` [e]
+-   `œ` [e]
+-   `ng` [ɲ]
+-   `sc` [ʃ]

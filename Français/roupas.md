@@ -19,6 +19,7 @@
 -   `Sweat-shirt` Moletom
 -   `Cravate` Gravata
 -   `Ceinture` Cinto 🚺
+-   `Uniforme`
 
 ## Les Bras - Braços
 

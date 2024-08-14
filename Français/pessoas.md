@@ -51,7 +51,8 @@
 -   `Photographe` Fotógrafo
 -   `Copain/Copine` Colega
     -   `Copain de classe` Colega de classe
--   `Femme de ménage` Faxineira
+-   `Homme de ménage` Faxineiro
+-   `Homme d'affaires` Empresário
 -   `Directeur` Diretor
 -   `Directrice` Diretora
 -   `Secrétaire` Secretário

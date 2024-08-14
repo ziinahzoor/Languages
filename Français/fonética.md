@@ -1,16 +1,54 @@
 # Fonética e Fonologia
 
--   Geralmente se ignora a pronúncia das últimas consoantes da palavra. Quanto às vogais, geralmente são mudas.
+-   Geralmente se ignora a pronúncia das últimas consoantes da palavra. Quanto às últimas vogais, geralmente são mudas.
 -   Liaisons (Ligações): Ao pronunciar, quando uma palavra termina em consoante e a próxima em vogal, carrega-se a consoante para a pronúncia da próxima palavra.
 -   Enchaînements (Encadeamentos) Similar à ligação, mas acontece quando a palavra termina em vogal mas se carrega o som da última consoante para a próxima palavra.
 -   O acento agudo geralmente tem som simular ao circunflexo do português, enquanto que a crase tem som semelhante ao acento agudo.
+-   O acento circunflexo muitas vezes não indica mudança na pronúncia, apenas que a vogal precedia outras letras no latim que desapareceram no francês.
 
 ## Sons
 
--   `Qua` tem som de "ca"
--   `Ou` tem som de "u"
--   `Où` tem som de "ú"
--   `Au` tem som de "ô"
--   `Ais` tem som de "ê"
--   `Ois` tem som de "uá"
--   `In` tem som de "an"
+-   `x` [ks] (no fim da palavra ou na frente de consoantes)
+    -   [s] no fim de números.
+    -   [gz] no início da palavra ou entre vogais.
+    -   [z] numa liaison ou enchaînement.
+-   `â` [ɑ]
+-   `e` [ə] ou [e] (depende a palavra)
+-   `é` [e]
+-   `è` [ɛ]
+-   `ê` [ɛ]
+-   `ô` [o]
+-   `u` [y]
+    -   [w] no início da palavra.
+-   `r` [ʁ]
+-   `au` [o]
+-   `ai(s)` [ɛ]
+    -   [e] no fim da palavra.
+-   `ei` [e] ou [ɛ] (depende da palavra)
+    -   `eil` [ɛj]
+-   `eu` [ø]
+    -   O particípio do passado é [y]
+    -   `eur` [œʁ]
+    -   `euil` [œj]
+-   `ou` [u]
+-   `an` [ɑ̃]
+-   `en` [ɑ̃]
+-   `in` [ɛ̃]
+-   `oi` [wa]
+-   `on` [ɔ̃]
+-   `ue` [ɥ] (exceto depois de "g" e "q")
+    -   `ueil` [œj]
+-   `ui` [ɥi] (exceto depois de "g" e "q")
+-   `un` [œ̃]
+-   `um` [œ̃]
+-   `gn` [ɲ]
+-   `ll` [l]
+    -   [j] depois de "i".
+-   `ph` [f]
+-   `qu` [k]
+-   `ti` [sj] (antes de vogal sem acento)
+    -   `tie` [si] no fim da palavra.
+-   `th` [t]
+-   `ail` [aj]
+-   `eau` [o]
+-   `ois` [wɑ]

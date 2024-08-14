@@ -19,6 +19,7 @@
 -   `Aragnée` Aranha
 -   `Coq` Galo
 -   `Poule` Galinha
+-   `Dinosaure` Dinossauro
 
 ## Relacionado
 

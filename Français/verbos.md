@@ -108,10 +108,14 @@
 -   `Renvenser` Derrubar/Derramar
 -   `Se réveiller` Acordar
 -   `Se lever` Se levantar
--   `Se coucher` Se deitar
+-   `S'allonger` Se deitar
+-   `Se coucher` Se deitar (Para dormir)
 -   `Se préparer` Se preparar
 -   `Se brosser` (Se) escovar
+-   `Se coiffer` Se pentear
 -   `Se noyer` Se afogar
+-   `S'habiller` Se vestir
+-   `Se reposer` Descansar/Repousar
 -   `Neiger` Nevar
 -   `Porter` Vestir
 -   `Éternuer` Espirrar
@@ -186,6 +190,7 @@
 -   `Casser` Quebrar
 -   `Pousser` Empurrar
 -   `Blesser` Machucar/Ferir
+    -   `Se blesser` Se machucar
 -   `Se manquer` Sentir saudade/falta
     -   Funciona ao contrário do português: `je vous manque` é "você sente minha falta"
 -   `Surfer` Surfar

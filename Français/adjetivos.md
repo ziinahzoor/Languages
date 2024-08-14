@@ -193,3 +193,4 @@
 -   `Doux` Macio
 -   `Diplômé` Formado/Graduado/Diplomado
 -   `Correct` Correto
+-   `Sombre` Escuro

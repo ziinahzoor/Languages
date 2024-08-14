@@ -141,6 +141,8 @@
 -   `Pansement` Band-aid
 -   `Paquet` Pacote
 -   `Poubelle` Lata de lixo
+-   `Ciseau` Cinzel
+-   `Ciseaux` Tesoura 🚹
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -302,6 +304,8 @@
 
 ## Atividades
 
+-   `Travail` Trabalho
+    -   `Boulot` Trampo
 -   `Métier` Ocupação/Trabalho
 -   `Profession` Profissão
 -   `Réseaux sociaux` Redes sociais

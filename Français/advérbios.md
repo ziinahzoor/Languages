@@ -77,6 +77,7 @@
 -   `Récemment` Recentemente
 -   `Comment` Como
 -   `Spécialement` Especialmente
+-   `Correctement` Corretamente
 
 ## Os Porquês
 

@@ -52,6 +52,7 @@
 -   `Au-dessus` Acima
 -   `Au-dessous` Abaixo/Debaixo
     -   `En-dessous` Québécois
+-   `Milieu` Meio/Metade 🚹
 -   `Extérieur` Exterior
 -   `Intérieur` Interior
 -   `À l'étranger` Fora do país/No exterior
