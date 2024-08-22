@@ -3,6 +3,12 @@ import { alerts } from './icons.js';
 
 function onScroll() {
 	handleShownElement();
+
+	const scrollToTopElement = document.getElementById('scroll-to-top');
+
+	scrollToTopElement.style.display = window.scrollY === 0
+		? 'none'
+		: 'flex';
 }
 
 function addPages() {
@@ -178,6 +184,7 @@ window.onload = function () {
 	addPages();
 	addAlerts();
 	addHeaders();
+	addScrollToTop();
 	handleShownElement();
 	window.onscroll = onScroll;
 }
@@ -220,6 +227,41 @@ function handleShownElement() {
 		selectedHeader = document.getElementById(`header-nav-${id}`);
 		selectedHeader?.classList.add('selected-header');
 	}
+}
+
+function addScrollToTop() {
+	const button = document.createElement('button');
+	button.innerHTML = '▲';
+	button.id = 'scroll-to-top';
+	button.style.position = 'fixed';
+	button.style.bottom = '20px';
+	button.style.right = '20px';
+	button.style.padding = '15px 15px';
+	button.style.backgroundColor = '#121821';
+	button.style.color = '#ea00d9';
+	button.style.border = 'solid 1px #ea00d9';
+	button.style.borderRadius = '25%';
+	button.style.cursor = 'pointer';
+	button.style.boxShadow = '-2px 2px #0abdc6';
+	button.style.fontFamily = 'Arvo';
+	button.style.fontSize = '1.2rem'
+
+	button.addEventListener('click', () => {
+		window.scrollTo({
+			top: 0,
+			behavior: 'smooth'
+		});
+	});
+
+	button.addEventListener('mouseover', () => {
+		button.style.backgroundColor = '#0d1111';
+	});
+
+	button.addEventListener('mouseout', () => {
+		button.style.backgroundColor = '#121821';
+	});
+
+	document.body.appendChild(button);
 }
 
 window.onscrollend = function () {
