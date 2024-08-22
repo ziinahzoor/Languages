@@ -147,3 +147,5 @@
 -   `Conocido` Conhecido
 -   `Suave`
 -   `Diario` Diário
+-   `En oferta` Em promoção
+-   `Avanzado` Avançado

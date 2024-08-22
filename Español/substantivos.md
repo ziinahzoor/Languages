@@ -117,6 +117,8 @@
 -   `Peine` Pente
 -   `Maquillaje` Maquiagem 🚹
 -   `Champú` Xampú
+-   `Lata`
+-   `Calendario` Calendario
 
 ## Abstratos
 
@@ -158,7 +160,6 @@
 -   `Lengua` Língua/Idioma
 -   `Tipo`
 -   `Par`
--   `Kilo` Quilo
 -   `Vergüenza` Vergonha
 -   `Imagen` Imagem
 -   `Plan` Plano
@@ -192,7 +193,6 @@
 -   `Canal`
 -   `Anuncio` Anúncio
 -   `Sitio` Site
--   `Kilómetro` Quilômetro
 -   `Idea` Ideia
 -   `Identificación` Identificação
 -   `Vuelo` Voo
@@ -204,6 +204,21 @@
 -   `Charla` Conversa
 -   `Principio` Princípio
 -   `Nacimento` Nascimento
+-   `Medio` Meio
+-   `Variedad` Variedade
+-   `Lista`
+-   `Detalle` Detalhe
+-   `Consejo` Conselho
+-   `Diferencia` Diferença
+-   `Instrucción` Instrução
+-   `Nivel` Nível
+
+### Medidas
+
+-   `Litro`
+-   `Kilómetro` Quilômetro
+-   `Kilogramo` Quilograma 🚹
+    -   `Kilo` Quilo
 
 ## Transporte
 
@@ -245,6 +260,12 @@
 -   `Guerra`
 -   `Video` Vídeo
 -   `Programa`
+
+### La Escuela - Escola
+
+-   `Regla` Régua
+-   `Estuche` Estojo
+-   `Mochila`
 
 ### Áreas de Estudo
 

@@ -36,6 +36,7 @@
 -   `Brōzi` Nome 🌙
 -   `Vīlībāzma` Guerra 🌙
 -   `Sēter` Feitiço 🌊
+-   `Kostion` Poder 🌱
 
 ## Transporte
 

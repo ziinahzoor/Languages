@@ -245,6 +245,8 @@
 
 ### <font size="5"><code><ruby>枚<rt>まい</rt></ruby></code></font> Coisas planas
 
+-   Como fatias, folhas de papel, etc.
+
 ### <font size="5"><code><ruby>匹<rt>ひき</rt></ruby></code></font> Animais pequenos, médios, criaturas e monstros
 
 -   Animais robôs e virtuais também

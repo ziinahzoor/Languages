@@ -194,3 +194,6 @@
 -   `Diplômé` Formado/Graduado/Diplomado
 -   `Correct` Correto
 -   `Sombre` Escuro
+-   `Professionell` Profissional
+-   `Certain` Certo
+-   `Satisfait` Satisfeito

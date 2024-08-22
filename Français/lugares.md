@@ -72,6 +72,7 @@
 
 ## La maison - Casa
 
+-   `Foyer` Lar
 -   `Appartement` Apartamento
 -   `Toilette` Banheiro
 -   `Salle de bain` Banheiro 🚺
@@ -117,6 +118,7 @@
     -   `Marché` Mercado
 -   `Magasin` Loja
 -   `École` Escola
+    -   `Collège` Ensino fundamental II
     -   `Lycée` Ensino médio
 -   `Cinéma` Cinema
     -   `Ciné`

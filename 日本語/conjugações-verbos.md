@@ -1,5 +1,70 @@
 # <ruby>動<rt>どう</rt>詞<rt>し</rt></ruby>の<ruby>活<rt>かつ</rt>用<rt>よう</rt></ruby> - Conjugação de Verbos
 
+<table>
+    <thead>
+        <tr>
+            <th>Base</th>
+            <th colspan="5">Forma</th>
+        </tr>
+    </thead>
+    <tr>
+        <th><a href="#base-a">Base あ</a></th>
+        <td><a href="#negativa">Negativa</a></td>
+        <td><a href="#passiva">Passiva</a></td>
+        <td><a href="#causativa">Causativa</a></td>
+        <td colspan="2"><a href="#causativo-passiva">Causativo-passiva</a></td>
+    </tr>
+    <tr>
+        <th><a href="#base-i">Base い</a></th>
+        <td><a href="#nominal">Nominal (Gerúndio)</a></td>
+        <td><a href="#educada">Educada</a></td>
+        <td><a href="#desejo">Desejo</a></td>
+        <td><a href="#aparente">Aparente</a></td>
+        <td><a href="#composta">Composta</a></td>
+    </tr>
+    <tr>
+        <th><a href="#base-u">Base う</a></th>
+        <td colspan="2"><a href="#plana">Plana</a></td>
+        <td colspan="3"><a href="#atributiva">Atributiva</a></td>
+    </tr>
+    <tr>
+        <th><a href="#base-e">Base え</a></th>
+        <td colspan="2"><a href="#condicional">Condicional</a></td>
+        <td><a href="#potencial">Potencial</a></td>
+        <td colspan="2"><a href="#imperativa">Imperativa</a></td>
+    </tr>
+    <tr>
+        <th rowspan="2"><a href="#base-o">Base お</a></th>
+        <td colspan="5"><a href="#volicional">Volicional</a></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="3"><a href="#especulativa">Especulativa</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th rowspan="3"><a href="#base-eufonica">Base Eufônica</a></th>
+        <td><a href="#forma-ta">Forma た</a></td>
+        <td colspan="4"><a href="#forma-te">Forma て</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2"></td>
+        <td><a href="#progressivo-resultativa">Progressivo-resultativa (て+いる)</a></td>
+        <td><a href="#resultativa">Resultativa (て+ある)</a></td>
+        <td><a href="#tentativa">Tentativa (て+みる)</a></td>
+        <td><a href="#concessiva">Concessiva (て+も)</a></td>
+    </tr>
+    <tr>
+        <td><a href="#implicativa">Implicativa (て+は)</a></td>
+        <td><a href="#proibitiva">Proibitiva (て+はいけません)</a></td>
+        <td><a href="#solicitativa">Solicitativa (て+いいですか)</a></td>
+        <td><a href="#benefactiva">Benefactiva</a></td>
+    </tr>
+    <tr>
+        <th colspan="6"><a href="#outras-formas">Outras</a></th>
+    </tr>
+</table>
+
 -   Existem verbos <font size="5"><code><ruby>一<rt>いち</rt>段<rt>だん</rt></ruby></code></font>(uma forma), <font size="5"><code><ruby>五<rt>ご</rt>段<rt>だん</rt></ruby></code></font> (cinco formas) e irregulares.
     -   Verbos `いちだん` terminam em `る`. Também chamados de "Grupo 2".
         -   Classificados em <font size="5"><code><ruby>上<rt>かみ</rt>一<rt>いち</rt>段<rt>だん</rt></ruby></code></font> (terminam em ～いる) e <font size="5"><code><ruby>下<rt>しも</rt>一<rt>いち</rt>段<rt>だん</rt></ruby></code></font> (terminam em ～える).
@@ -70,16 +135,18 @@
 > [!IMPORTANT]
 > ◆ Usa a forma た do verbo.
 
-## <ruby>活<rt>かつ</rt>用<rt>よう</rt>形<rt>けい</rt></ruby> - Bases verbais
+---
+
+# <ruby>活<rt>かつ</rt>用<rt>よう</rt>形<rt>けい</rt></ruby> - Bases verbais
 
 **Existem seis bases e três sub-bases: 終止形, 連体形, 仮定形 (可能形), 命令形, 未然形 (意志形) e 連用形 (音便形).**
 
 > [!TIP]
 > Por motivos de intuitividade, as bases aqui estão organizadas conforme o radical alterado.
 
-### <ruby>未<rt>み</rt>然<rt>ぜん</rt>形<rt>けい</rt></ruby> - Base あ (Irrealis ou Imperfeita)
+<h2 id="var_base-a"><ruby>未<rt>み</rt>然<rt>ぜん</rt>形<rt>けい</rt></ruby> - Base あ (Irrealis ou Imperfeita)</h2>
 
-#### <ruby>否<rt>ひ</rt>定<rt>てい</rt>形<rt>けい</rt></ruby> - Forma negativa (ない)
+<h3 id="var_negativa"><ruby>否<rt>ひ</rt>定<rt>てい</rt>形<rt>けい</rt></ruby> - Forma negativa (ない)</h3>
 
 -   Utiliza o adjetivo de negação `ない`.
 -   `ない` é a negação de `ある`.
@@ -87,7 +154,7 @@
 -   Exceções:
     -   `〜ます` → `〜ません`
 
-#### <ruby>受<rt>うけ</rt>身<rt>み</rt>形<rt>けい</rt></ruby> - Forma passiva (れる)
+<h3 id="var_passiva"><ruby>受<rt>うけ</rt>身<rt>み</rt>形<rt>けい</rt></ruby> - Forma passiva (れる)</h3>
 
 > [!TIP]
 > Mais intuitivo chamar de "forma receptiva".
@@ -97,23 +164,23 @@
 -   O agente causador geralmente é acompanhado pela partícula `に`.
 -   `ある` não possui forma passiva.
 
-#### <ruby>使<rt>し</rt>役<rt>えき</rt>形<rt>けい</rt></ruby> - Forma causativa (せる)
+<h3 id="var_causativa"><ruby>使<rt>し</rt>役<rt>えき</rt>形<rt>けい</rt></ruby> - Forma causativa (せる)</h3>
 
 -   `させる` para verbos ichidan.
 -   Geralmente significa obrigar ou permitir fazer algo. Ou nenhum, o agente causador pode ser estabelecido as condições para que a ação ocorra, por exemplo "fiz com que o cachorro tomasse o remédio (tendo colocado-o em sua comida)".
 -   O agente que sofre a causa geralmente é acompanhado pela partícula `を` ou `に` dependendo se ele realiza a ação causada diretamente ou indiretamente. Ex.: `犬を食べさせる` (Fiz o cachorro comer) vs `犬に肉を食べさせる` (Fiz o cachorro comer carne).
 -   `ある` não possui forma causativa.
 
-#### <ruby>使<rt>し</rt>役<rt>えき</rt>受<rt>うけ</rt>身<rt>み</rt>形<rt>けい</rt></ruby> - Forma causativo-passiva (せられる)
+<h3 id="var_causativo-passiva"><ruby>使<rt>し</rt>役<rt>えき</rt>受<rt>うけ</rt>身<rt>み</rt>形<rt>けい</rt></ruby> - Forma causativo-passiva (せられる)</h3>
 
 -   `させられる` para verbos ichidan.
 -   Junção da forma passiva à forma causativa, o que significa "ser feito a fazer algo".
 
 ---
 
-### <ruby>連<rt>れん</rt>用<rt>よう</rt>形<rt>けい</rt></ruby> - Base い (Conjuntiva)
+<h2 id="var_base-i"><ruby>連<rt>れん</rt>用<rt>よう</rt>形<rt>けい</rt></ruby> - Base い (Conjuntiva)</h2>
 
-#### <ruby>動<rt>どう</rt>名<rt>めい</rt>詞<rt>し</rt></ruby> - Forma nominal ou Gerúndio
+<h3 id="var_nominal"><ruby>動<rt>どう</rt>名<rt>めい</rt>詞<rt>し</rt></ruby> - Forma nominal ou Gerúndio</h3>
 
 -   É como se usam verbos como substantivos.
 -   Usa apenas a forma do verbo com o radical `い`.
@@ -121,12 +188,12 @@
 -   Indica o ato do verbo em si. Ex.: `買い` Ato de comprar.
 -   Pode acompanhar particulas. Ex.: `買いに行く` Vou para comprar.
 
-#### <ruby>丁<rt>てい</rt>寧<rt>ねい</rt>形<rt>けい</rt></ruby> - Forma educada (ます)
+<h3 id="var_educada"><ruby>丁<rt>てい</rt>寧<rt>ねい</rt>形<rt>けい</rt></ruby> - Forma educada (ます)</h3>
 
 -   `ます` é um verbo auxiliar que só serve para formalidade.
 -   Usa o radical negativo `せん` ao invés de `さない` pois deriva do japonês antigo.
 
-#### たい<ruby>形<rt>けい</rt></ruby> - Forma de desejo (たい)
+<h3 id="var_desejo">たい<ruby>形<rt>けい</rt></ruby> - Forma de desejo (たい)</h3>
 
 -   `たい` é um adjetivo auxiliar que significa "querer".
 -   Serve para expressar o desejo de fazer alguma ação.
@@ -135,13 +202,13 @@
 -   Pode usar a cópula para formalidade.
 -   Para ser ainda mais educado, pode-se usar a forma de desejo mais `のですが・んですが` para dizer algo como "Eu gostaria de...".
 
-#### そう<ruby>形<rt>けい</rt></ruby> - Forma aparente (そう)
+<h3 id="var_aparente">そう<ruby>形<rt>けい</rt></ruby> - Forma aparente (そう)</h3>
 
 -   Indica que a parece que alguma ação vai acontecer.
 -   Quando usado com a forma plana do verbo, indica que você ouviu alguém dizer que alguma ação vai acontecer.
 -   Aceita `です` no fim.
 
-#### Forma composta
+<h3 id="var_composta">Forma composta</h3>
 
 -   Usada para juntar um verbo com outro verbo ou um substantivo.
 -   Não é explicitamente uma forma.
@@ -149,36 +216,36 @@
 
 ---
 
-### <ruby>終<rt>しゅう</rt>止<rt>し</rt>形<rt>けい</rt></ruby>と<ruby>連<rt>れん</rt>体<rt>たい</rt>形<rt>けい</rt></ruby> - Base う (Terminal/Predicativa e Atributiva)
+<h2 id="var_base-u"><ruby>終<rt>しゅう</rt>止<rt>し</rt>形<rt>けい</rt></ruby>と<ruby>連<rt>れん</rt>体<rt>たい</rt>形<rt>けい</rt></ruby> - Base う (Terminal/Predicativa e Atributiva)</h2>
 
 **Também chamada de <ruby>普<rt>ふ</rt>通<rt>つう</rt>形<rt>けい</rt></ruby> (Forma casual/normal) ou <ruby>辞<rt>じ</rt>書<rt>しょ</rt>形<rt>けい</rt></ruby> (Forma de dicionário).**
 
 **É como os verbos são encontrados no dicionário e sua conjugação no não-passado afirmativo.**
 
-#### <ruby>終<rt>しゅう</rt>止<rt>し</rt>形<rt>けい</rt></ruby> - Forma plana/predicativa
+<h3 id="var_plana"><ruby>終<rt>しゅう</rt>止<rt>し</rt>形<rt>けい</rt></ruby> - Forma plana/predicativa</h3>
 
 -   É igual à forma de dicionário.
 -   É a forma que finaliza predicados, ou seja, se encontra no final das frases.
 
-#### <ruby>連<rt>れん</rt>体<rt>たい</rt>形<rt>けい</rt></ruby> - Forma atributiva
+<h3 id="var_atributiva"><ruby>連<rt>れん</rt>体<rt>たい</rt>形<rt>けい</rt></ruby> - Forma atributiva</h3>
 
 -   É igual à forma de dicionário.
 -   É a forma em que se descreve um substantivo adjetivamente. Ex.: `学ぶ学生` "Estudante que estuda"
 
 ---
 
-### <ruby>仮<rt>か</rt>定<rt>てい</rt>形<rt>けい</rt></ruby>と<ruby>命<rt>めい</rt>令<rt>れい</rt>形<rt>けい</rt></ruby> - Base え (Hipotética e Imperativa)
+<h2 id="var_base-e"><ruby>仮<rt>か</rt>定<rt>てい</rt>形<rt>けい</rt></ruby>と<ruby>命<rt>めい</rt>令<rt>れい</rt>形<rt>けい</rt></ruby> - Base え (Hipotética e Imperativa)</h2>
 
 **Historicamente conhecida como <ruby>已<rt>い</rt>然<rt>ぜん</rt>形<rt>けい</rt></ruby> (Base realis ou perfectiva)**
 
-#### <ruby>仮<rt>か</rt>定<rt>てい</rt>形<rt>けい</rt></ruby> - Forma condicional (ば)
+<h3 id="var_condicional"><ruby>仮<rt>か</rt>定<rt>てい</rt>形<rt>けい</rt></ruby> - Forma condicional (ば)</h3>
 
 -   `れば` para verbos ichidan.
 -   Exceções:
     -   `〜ない` → `〜なければ` (Reduzido coloquialmente para `なきゃ` ou `なくちゃ`)
 -   Torna a ação do verbo uma condição para o que vem a seguir na frase. Ex.: `見れば分かる` "Se você ver, você vai entender"
 
-#### <ruby>可<rt>か</rt>能<rt>のう</rt>形<rt>けい</rt></ruby> - Forma potencial
+<h3 id="var_potencial"><ruby>可<rt>か</rt>能<rt>のう</rt>形<rt>けい</rt></ruby> - Forma potencial</h3>
 
 -   Forma-se outro verbo, adicionando o verbo ichidan aulixiar `る`.
     -   `られる` para verbos ichidan. Na conversação, o `ら` geralmente não é dito.
@@ -190,7 +257,7 @@
 -   `分かる` (entender) já expressa potencial, portanto sua forma potencial não é usada.
 -   `ある` não possui forma potencial.
 
-#### <ruby>命<rt>めい</rt>令<rt>れい</rt>形<rt>けい</rt></ruby> - Forma imperativa
+<h3 id="var_imperativa"><ruby>命<rt>めい</rt>令<rt>れい</rt>形<rt>けい</rt></ruby> - Forma imperativa</h3>
 
 -   Como se dá comandos.
 -   Percebida como confrontacional ou agressiva. Para ser menos rude, usar a forma `て` + `ください`, ou usar a partícula `よ`.
@@ -203,11 +270,11 @@
 
 ---
 
-### <ruby>意<rt>い</rt>志<rt>し</rt>形<rt>けい</rt></ruby> - Base お (Volicional ou Intencional)
+<h2 id="var_base-o"><ruby>意<rt>い</rt>志<rt>し</rt>形<rt>けい</rt></ruby> - Base お (Volicional ou Intencional)</h2>
 
 **Faz parte da base `未然形`**
 
-#### <ruby>意<rt>い</rt>向<rt>こう</rt>形<rt>けい</rt></ruby> - Forma volicional (う/よう)
+<h3 id="var_volicional"><ruby>意<rt>い</rt>向<rt>こう</rt>形<rt>けい</rt></ruby> - Forma volicional (う/よう)</h3>
 
 <table>
     <thead>
@@ -237,11 +304,13 @@
     -   `〜ます` → `〜ましょう`
     -   `〜ない` → `〜なかろう`
 
-##### Forma う + とする
+<h4 id="var_especulativa">Forma う + とする</h4>
 
 -   Significa tentar fazer alguma ação (sem saber se a pessoa é capaz).
 
-### <ruby>音<rt>おん</rt>便<rt>びん</rt>形<rt>けい</rt></ruby> - Base Eufônica
+---
+
+<h2 id="var_base-eufonica"><ruby>音<rt>おん</rt>便<rt>びん</rt>形<rt>けい</rt></ruby> - Base Eufônica</h2>
 
 **Base cujos radicais são modificados conforme mudanças na pronúncia.**
 
@@ -289,7 +358,7 @@
     </tr>
 </table>
 
-#### た<ruby>形<rt>けい</rt></ruby> - Forma た
+<h3 id="var_forma-ta">た<ruby>形<rt>けい</rt></ruby> - Forma た</h3>
 
 **Também chamada de <ruby>過<rt>か</rt>去<rt>こ</rt>形<rt>けい</rt></ruby> (Pretérito) ou <ruby>完<rt>かん</rt>了<rt>りょう</rt>形<rt>けい</rt></ruby> (Tempo perfeito/Pretérito perfeito)**
 
@@ -300,7 +369,7 @@
     -   `請う` → `請うた`
     -   `〜ない` → `〜なかった`
 
-#### て<ruby>形<rt>けい</rt></ruby> - Forma て
+<h3 id="var_forma-te">て<ruby>形<rt>けい</rt></ruby> - Forma て</h3>
 
 -   Similar à forma た, apenas alterando para `て` e `で`.
 -   Serve para conectar diversos verbos como uma sequência de eventos ou um "e".
@@ -313,9 +382,9 @@
     -   `請う` → `請うて`
     -   `〜ない` → `〜ないで・〜なくて`
 
-##### Forma て+いる
+<h4 id="var_progressivo-resultativa">Forma て+いる</h4>
 
--   Forma continuativa e resultiva.
+-   Forma continuativa e resultativa.
 -   É como se forma o gerúndio (continuativa) e também indica o estado causado por algum verbo (resultativa).
     -   No último caso, é como se transformassemos o verbo em um adjetivo (algo está...ado/ido). Ex.: `水を飲んでいます` pode ser tanto "Estou bebendo água" quanto "A água está bebida (por mim)". Nestes casos, o sentido é dado pelos advérbios, como `もう` indicaria o último caso.
 -   Ou "fiz algo e continuo fazendo/estando assim".
@@ -324,22 +393,22 @@
 -   Se usada com `もう` e `まだ`, indica que algo já aconteceu ou ainda não aconteceu, respectivamente.
 -   Consiste em conjugar o verbo na forma `て` e então acrescentar a conjugação de `いる`
 
-##### Forma て+ある
+<h4 id="var_resultativa">Forma て+ある</h4>
 
 -   Usado com verbos transitivos.
 -   Semelhante à forma て+いる. O verbo coloca o objeto em um estado contínuo.
 -   Possui uma nuance em que a ação foi feita por alguém por algum motivo.
 
-##### Forma て+みる
+<h4 id="var_tentativa">Forma て+みる</h4>
 
 -   Significa experimentar fazer a ação do verbo (com o interesse de ver o resultado).
 
-##### Forma て+も
+<h4 id="var_concessiva">Forma て+も</h4>
 
 -   Significa "apesar de/tanto quanto" + ação do verbo.
 -   Tem sentido permissivo.
 
-##### Forma て+は
+<h4 id="var_implicativa">Forma て+は</h4>
 
 -   Significa "tampouco quanto" + ação do verbo.
 -   Melhor de ser analisado como uma implicação lógica: Se o que está antes de て+わ é verdadeiro, o que vem depois também é.
@@ -351,38 +420,44 @@
     -   Comumente usado com `だめ`, `いけない` e `ならない`.
 -   `ては` pode ser abreviado para `ちゃ` e `では` pode ser abreviado para `じゃ`.
 
-#### Forma て+はいけません
+<h4 id="var_proibitiva">Forma て+はいけません</h4>
 
 -   Forma proibitiva: "não se deve fazer...".
 
-#### Forma て+Verbo de transferência - Favores
+<h4 id="var_solicitativa">Forma て+いいですか</h4>
+
+-   Forma de solicitação de permissão: Pede-se permissão para realizar alguma ação ou pergunta-se se ficará tudo bem ao realizá-la.
+
+<h4 id="var_benefactiva">Forma て+Verbo de transferência - Favores</h4>
 
 -   Ao usar a forma `て` com algum verbo de transferência como `あげる`, `やる`, `くださる`, `もらう` e `いただく`, indica-se que se está fazendo algo para alguém ou vice-versa, para si mesmo ou alguém está fazendo algo para outra pessoa. Ex.: `。。。花を買ってくれた` "...comprou flores para mim".
 
 ---
 
-### Outras
+<h2 id="var_outras-formas">Outras</h2>
 
-#### Nominalizadores
+### Nominalizadores
 
 -   Pode-se adicionar `の` ao verbo para torná-lo um substantivo.
 
-#### Formas する
+### Formas する
 
-##### にする
+#### にする
 
 -   Transformar algo em outra coisa. Contraparte transitiva do verbo `なる`.
 -   Decidir sobre algo.
 
-##### とする
+#### とする
 
 -   Além de significar "tentar" usando o volitivo, também serve para dizer que algo é considerado como outra coisa. Ex.: `かばんをまくらとする` (Usar a mochila como travesseiro).
 
-##### として
+#### として
 
 -   Sentido parecido com とする, porém tem o intuito de analisar sob a luz do que é considerado (analisar algo sobre essa consideração). Ex.: `外国人として彼の日本語がいいです` (Para um estrangeiro, seu japonês é muito bom).
 
-## Regras
+---
+
+# Regras
 
 -   Quanto ao verbo existir, `います` é usado para coisas vivas, `あります` para coisa não vivas.
     -   Geralmente são acompanhados pela partícula `が`

@@ -81,12 +81,16 @@
 -   `Subjuntivo`: Indica uma hipótese ou desejo.
     -   Geralmente se utiliza com os advérbios/preposições "que", "se" e "quando".
 -   `Imperativo`: Indica ordens, sugestões ou pedidos.
+-   `Condicional`: Indica uma proposição que depende de uma condição.
+-   `Optativo`: Indica desejos, preces e maldizeres. Essa função geralmente se encontra no subjuntivo de muitas linguagens.
+-   `Presuntivo`: Indica uma proposição que depende de uma presunção.
 
 #### Forma não-finita
 
 -   `Infinitivo`: Forma de dicionário. Geralmente pode ser usado como substantivo, adjetivo ou advérbio.
 -   `Gerúndio`: Forma substantival do verbo. Também possui função adverbial em alguns casos.
 -   `Particípio`: Forma adjetival do verbo. Geralmente é utilizada como adjetivo ou para formar tempos verbais.
+-   `Supino`: Forma substantival proposital do verbo. Indica o propósito quando usado com verbos de movimento.
 
 ### Caso
 
@@ -95,7 +99,8 @@
 -   `Nominativo`: Indica quem realiza a ação (sujeito).
 -   `Acusativo`: Indica quem recebe a ação (objeto direto).
 -   `Dativo`: Indica quem recebe o objeto direto ou algo realizado pelo objeto direto (objeto indireto).
--   `Genitivo`: Indica a posse ou relação de um substantivo com outra coisa.
+-   `Genitivo`: Indica a posse, composição ou relação de um substantivo com outra coisa.
+    -   `Possessivo`: Subconjunto do genitivo que indica apenas posse.
 -   `Alativo`: Indica movimento para perto.
 -   `Ablativo`: Indica movimento para longe.
 -   `Locativo`: Indica o substantivo como a localização de algo, seja física ou temporal.
@@ -110,13 +115,17 @@
 -   `Ativa`: O sujeito realiza a ação do verbo e é dito "agente".
 -   `Passiva`: O sujeito sofre a ação do verbo e é dito "paciente".
     -   Costuma-se usar quando quer-se focar no objeto da frase na voz ativa, e em muitos casos quando não é possível identificar o sujeito da voz ativa.
+-   `Reflexiva`: O sujeito realiza e sofre a ação do verbo, sendo agente e paciente. Geralmente acompanha um pronome reflexivo em algumas línguas.
+    -   `Reciproca`: Voz reflexiva com mais de um agente e paciente, onde cada agente realiza a ação do verbo a cada paciente.
+-   `Média`: Similar à voz reflexiva, mas tem uma nuance mais intransitiva, sem necessariamente indicar que o sujeito está agindo sobre si mesmo.
+-   `Médio-passiva`: Possui as funções média e passiva.
 
 ## Inflexões gramaticais
 
 **Modo e voz descritas acima também são consideras inflexões.**
 
 -   `Tempo gramatical`: Indica quando a ação ocorre. Ex.: Passado; presente; futuro.
--   `Aspecto gramatical`: Indica como a ação ocorre. Ex.: Progressivo; contínuo; perfeito; imperfeito.
+-   `Aspecto gramatical`: Indica como a ação ocorre. Em várias linguagens não é um recurso independente, sendo usado junto ao tempo. Ex.: Progressivo; contínuo; perfeito; imperfeito.
 -   `Número gramatical`: Indica a quantidade de entidades. Ex.: Singular; plural; dual; coletivo.
 -   `Pessoa gramatical`: Indica quem participa da ação. Ex.: Primeira pessoa (quem fala); Segunda pessoa (com quem se fala); Terceira pessoa (de quem se fala).
 -   `Gênero gramatical`: Indica a classe à qual determinadas palavras pertencem, sem necessariamente relacioná-las com qualidades do mundo real. Ex.: Masculino; feminino; neutro; animado; inanimado.

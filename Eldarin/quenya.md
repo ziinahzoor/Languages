@@ -1,7 +1,65 @@
 # <span style="font-family: 'Tengwar Annatar', sans-serif;">zR5Ì#</span> - Quenya
 
+<table>
+    <tr>
+        <th>Estrutura</th>
+        <td>SVO</td>
+    </tr>
+    <tr>
+        <th>Alfabeto</th>
+        <td>Tengwar</td>
+    </tr>
+    <tr>
+        <th>Pronomes</th>
+        <td>9: Pessoais (nominativos, independentes, enfáticos e possessivos), reflexivos, relativos, demonstrativos, indefinidos e interrogativos</td>
+    </tr>
+    <tr>
+        <th>Omissão de pronomes</th>
+        <td>Parcial</td>
+    </tr>
+    <tr>
+        <th>Gêneros</th>
+        <td>Nenhum</td>
+    </tr>
+    <tr>
+        <th>Números</th>
+        <td>4: Singular, plural, plural partitivo e dual</td>
+    </tr>
+    <tr>
+        <th>Casos</th>
+        <td>10: Nominativo, acusativo, genitivo, possessivo, dativo, instrumental, alativo, ablativo, locativo e respectivo</td>
+    </tr>
+    <tr>
+        <th>Artigos</th>
+        <td>1: O artigo definido <code>i</code></td>
+    </tr>
+    <tr>
+        <th>Adjetivos</th>
+        <td>São flexionados em número; Geralmente predecem o substantivo</td>
+    </tr>
+    <tr>
+        <th>Verbos</th>
+        <td>Conjugados em tempo, pessoa (através de sufixos) e voz</td>
+    </tr>
+    <tr>
+        <th>Cópula</th>
+        <td>Verbo <code>-na</code></td>
+    </tr>
+	<tr>
+		<th>Formas verbais</th>
+		<td>5 finitas: Indicativo, subjuntivo, imperativo, proibitivo e optativo; 2 não-finitas: Infinitivo, gerúndio e particípio</td>
+	</tr>
+	<tr>
+		<th>Tempos verbais</th>
+		<td>5: Aorista, presente, pretérito, perfeito e futuro</td>
+	</tr>
+	<tr>
+		<th>Vozes verbais</th>
+		<td>2: Ativa e passiva</td>
+	</tr>
+</table>
+
 -   Também conhecido como Alto-Élfico, Valinoreano ou Avaloniano.
--   Segue a estrutura SVO.
 -   Geralmente a sílaba tônica é a penúltima. Quando a penúltima é uma vogal curta (se não é um ditongo, vogal longa, ou não precede um aglomerado de consoantes), a tônica é a antepenúltima.
 
 ## Tonicidade

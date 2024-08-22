@@ -1,5 +1,60 @@
 # Le Regole - Regras
 
+<table>
+    <tr>
+        <th>Estrutura</th>
+        <td>SVO</td>
+    </tr>
+    <tr>
+        <th>Pronomes</th>
+        <td>11: Pessoais (nominativos, acusativos, dativos, genitivos e instrumentais), possessivos, relativos, demonstrativos, indefinidos, interrogativos e adverbiais</td>
+    </tr>
+    <tr>
+        <th>Omissão de pronomes</th>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <th>Gêneros</th>
+        <td>2: Masculino e feminino</td>
+    </tr>
+    <tr>
+        <th>Números</th>
+        <td>2: Singular e plural</td>
+    </tr>
+    <tr>
+        <th>Casos</th>
+        <td>Nenhum</td>
+    </tr>
+    <tr>
+        <th>Artigos</th>
+        <td>3: Definidos, indefinidos e partitivos</td>
+    </tr>
+    <tr>
+        <th>Adjetivos</th>
+        <td>São flexionados em gênero e número; Posição arbitrária, mas geralmente sucedem o substantivo, exceto em casos <a href="adjetivos.md">BAGS</a></td>
+    </tr>
+    <tr>
+        <th>Verbos</th>
+        <td>Conjugados em tempo, pessoa e voz; Terminam em <code>-are</code>, <code>-ere</code> ou <code>-ire</code></td>
+    </tr>
+    <tr>
+        <th>Cópula</th>
+        <td>Verbos <code>essere</code> e <code>stare</code></td>
+    </tr>
+    <tr>
+        <th>Formas verbais</th>
+        <td>4 finitas: Indicativo, subjuntivo, imperativo e condicional; 3 não-finitas: Infinitivo, gerúndio e particípio</td>
+    </tr>
+    <tr>
+        <th>Tempos verbais</th>
+        <td>21: Presente, imperfeito, pretérito recente, pretérito composto, pretérito remoto, futuro simples, futuro perfeito, etc</td>
+    </tr>
+    <tr>
+        <th>Vozes verbais</th>
+        <td>3: Ativa, passiva e reflexiva</td>
+    </tr>
+</table>
+
 -   Verbos terminados em `-arre`, `-orre` e `-urre` fazem parte dos verbos `-ere`. Os terminados em `-isc` fazem parte dos verbos `-ire`.
 -   Prato + `di` + ingrediente significa que o ingrediente é o principal ou o único do prato. Prato + `à` + indrediente significa que o prato tem sabor do ingrediente.
 -   Adjetivos terminados em `-o` geralmente são conjugados em `-o` (masculino singular), `-a` (feminino singular), `-i` (masculino plural) e `-e` (feminino plural). Os terminados em `-e` só se conjugam em `-i` no plural.
@@ -36,12 +91,3 @@
 
 -   `-a` (feminino) → `-e`
 -   `-a` (masculino), `-e`, `-o` → `-i`
-
-## Adverbiais
-
-**Devem vir sempre antes do verbo, exceto no imperativo.**
-
--   `Ne` Os/As/Lhes/Deles/Delas
-    -   Substitui uma parte da frase introduzida pela proposição `di` ou derivados.
--   `Ci` Aqui/Lá
-    -   Substitui uma parte da frase introduzida pelas proposições `a` ou `in` ou derivados.

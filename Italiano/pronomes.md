@@ -85,3 +85,12 @@
 ## Interrogativos
 
 -   `Cosa` O que
+
+## Adverbiais
+
+**Devem vir sempre antes do verbo, exceto no imperativo.**
+
+-   `Ne` Os/As/Lhes/Deles/Delas
+    -   Substitui uma parte da frase introduzida pela proposição `di` ou derivados.
+-   `Ci` Aqui/Lá
+    -   Substitui uma parte da frase introduzida pelas proposições `a` ou `in` ou derivados.

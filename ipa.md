@@ -31,6 +31,8 @@
 -   `[.]` Indica separação silábica.
 -   `[ˈ◆]` Indica a sílaba tônica
 
+---
+
 ## Vogais
 
 ### A
@@ -90,6 +92,8 @@
 -   [`[ʏ]`](https://upload.wikimedia.org/wikipedia/commons/e/e3/Near-close_near-front_rounded_vowel.ogg 'Vogal quase anterior quase fechada arredondada') Um "e/i" pronunciado com a boca no formato para pronunciar "u". Ex. (Francês): "l<span style="color:#ea00d9">u</span>ne". Ex. (Alemão): "M<span style="color:#ea00d9">ü</span>ller".
 -   [`[ɣ]`](https://upload.wikimedia.org/wikipedia/commons/4/47/Voiced_velar_fricative.ogg 'Fricativa velar') Um [ʁ], mas com a garganta. Ex.: "má<span style="color:#ea00d9">r</span>more".
     -   `ɡ̞̆/ɣ̆` Fricativa velar tocada.
+
+---
 
 ## Consoantes
 
@@ -171,7 +175,7 @@
 ### N
 
 -   [`[n]`](https://upload.wikimedia.org/wikipedia/commons/2/29/Alveolar_nasal.ogg 'Nasal alveolar') Um "n" comum. Ex.: "<span style="color:#ea00d9">n</span>ariz".
--   [`ŋ`](https://upload.wikimedia.org/wikipedia/commons/3/39/Velar_nasal.ogg 'Nasal velar') Um "n" como o que vem antes de "g". Ex.: "ma<span style="color:#ea00d9">n</span>ga".
+-   [`[ŋ]`](https://upload.wikimedia.org/wikipedia/commons/3/39/Velar_nasal.ogg 'Nasal velar') Um "n" como o que vem antes de "g". Ex.: "ma<span style="color:#ea00d9">n</span>ga".
 -   [`[ɲ]`](https://upload.wikimedia.org/wikipedia/commons/4/46/Palatal_nasal.ogg 'Nasal palatal') Um "nh" ou um "ñ" espanhol. Ex.: "so<span style="color:#ea00d9">nh</span>o". Ex.: "espa<span style="color:#ea00d9">ñ</span>ol".
     -   `[ɲ̟/n̠ʲ]` Nasal alvéolo-palatal.
 

@@ -1,12 +1,69 @@
 # <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{\%7E5\%</span> - Sindarin
 
+<table>
+    <tr>
+        <th>Estrutura</th>
+        <td>SVO</td>
+    </tr>
+    <tr>
+        <th>Alfabeto</th>
+        <td>Tengwar</td>
+    </tr>
+    <tr>
+        <th>Pronomes</th>
+        <td>8: Pessoais (nominativos, independentes, acusativos, dativos, enfáticos e possessivos), demonstrativos e interrogativos</td>
+    </tr>
+    <tr>
+        <th>Omissão de pronomes</th>
+        <td>Parcial</td>
+    </tr>
+    <tr>
+        <th>Gêneros</th>
+        <td>Nenhum</td>
+    </tr>
+    <tr>
+        <th>Números</th>
+        <td>3: Singular, plural e coletivo (plural de classe)</td>
+    </tr>
+    <tr>
+        <th>Casos</th>
+        <td>Nenhum</td>
+    </tr>
+    <tr>
+        <th>Artigos</th>
+        <td>1: Definidos</td>
+    </tr>
+    <tr>
+        <th>Adjetivos</th>
+        <td>São flexionados em número; Geralmente sucedem o substantivo</td>
+    </tr>
+    <tr>
+        <th>Verbos</th>
+        <td>Conjugados em tempo, pessoa (através de sufixos) e voz</td>
+    </tr>
+    <tr>
+        <th>Cópula</th>
+        <td>Verbo <code>na</code> ou ligando o substantivo ao outro termo</td>
+    </tr>
+	<tr>
+		<th>Formas verbais</th>
+		<td>3 finitas: Indicativo, subjuntivo e imperativo; 2 não-finitas: Infinitivo, gerúndio e particípio</td>
+	</tr>
+	<tr>
+		<th>Tempos verbais</th>
+		<td>3: Presente, pretérito e futuro</td>
+	</tr>
+	<tr>
+		<th>Vozes verbais</th>
+		<td>2: Ativa e passiva</td>
+	</tr>
+</table>
+
 -   Também conhecido como Élfico-Cinzento.
 -   A maior partes das flexões ocorre através de mutações sonoras.
--   Segue a estrutura SVO.
 -   O objeto direto sofre mutação suave.
 -   O objeto indireto costuma vir depois do direto.
 -   O objeto indireto também pode ser marcado com a preposição `an`, sofrendo mutação nasal.
--   A cópula costuma ser feita apenas ligando o substantivo ao outro termo.
 
 ## Mutações
 

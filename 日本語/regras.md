@@ -1,8 +1,72 @@
 # ルール - Regras
 
--   Verbos vão no fim da frase.
--   Não há espaço entre as palavras.
--   Não existem artigos.
+<table>
+    <tr>
+        <th>Estrutura</th>
+        <td>SOV</td>
+    </tr>
+    <tr>
+        <th>Alfabeto</th>
+        <td>Hiragana, katakana e sinogramas kanji</td>
+    </tr>
+    <tr>
+        <th>Pronomes</th>
+        <td>5: Pessoais, reflexivos, demonstrativos, indefinidos e interrogativos</td>
+    </tr>
+    <tr>
+        <th>Omissão de pronomes</th>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <th>Gêneros</th>
+        <td>Nenhum</td>
+    </tr>
+    <tr>
+        <th>Números</th>
+        <td>Nenhum</td>
+    </tr>
+    <tr>
+        <th>Casos</th>
+        <td>7 (Marcados por partículas): Nominativo, acusativo, dativo, genitivo, lativo, ablativo, instrumental/locativo</td>
+    </tr>
+    <tr>
+        <th>Artigos</th>
+        <td>Nenhum</td>
+    </tr>
+    <tr>
+        <th>Adjetivos</th>
+        <td>Não são flexionados, mas são conjugados em tempo, aspecto e modo; Precedem o substantivo</td>
+    </tr>
+    <tr>
+        <th>Verbos</th>
+        <td>Conjugados em tempo, voz, aspecto e modo; Terminam em <code>-る</code> ou algum kana de final <code>-う</code></td>
+    </tr>
+    <tr>
+        <th>Cópula</th>
+        <td>Verbo <code>だ/です</code></td>
+    </tr>
+    <tr>
+        <th>Formas verbais</th>
+        <td>6 finitas: Indicativo, subjuntivo, imperativo, volicional, causativo e potencial; 2 não-finitas: Infinitivo e gerúndio</td>
+    </tr>
+    <tr>
+        <th>Tempos verbais</th>
+        <td>2: Pretérito e não-pretérito (presente e futuro)</td>
+    </tr>
+    <tr>
+        <th>Vozes verbais</th>
+        <td>2: Ativa e passiva (mais um modo do que uma voz)</td>
+    </tr>
+    <tr>
+        <th>Espaço</th>
+        <td>Não existe espaço entre as palavras</td>
+    </tr>
+    <tr>
+        <th>Frases interrogativas</th>
+        <td>Devem terminar com か</td>
+    </tr>
+</table>
+
 -   Saudações geralmente vêm depois do nome.
 -   Para perguntas, basta adicionar `か` após a frase. Note que o ponto ainda é necessário.
 -   As coisas costumam partir das mais gerais para específicas: o sobrenome vem antes do nome, ano antes de mês e dia em datas, prefeitura antes de cidade e rua em endereços.

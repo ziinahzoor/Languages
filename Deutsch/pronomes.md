@@ -15,18 +15,18 @@
 
 ## Possessivos
 
-| Pessoa                  | Forma não-conjugada |
-| ----------------------- | ------------------- |
-| 1ª singular             | Mein                |
-| 2ª singular (informal)  | Dein                |
-| 2ª singular (formal)    | Ihr                 |
-| 3ª singular (masculino) | Sein                |
-| 3ª singular (feminino)  | Ihr                 |
-| 3ª singular (neutro)    | Sein                |
-| 1ª plural               | Unser               |
-| 2ª plural (informal)    | Euer                |
-| 2ª plural (formal)      | Ihr                 |
-| 3ª plural               | Ihr                 |
+| Pessoa                  | Determinante |
+| ----------------------- | ------------ |
+| 1ª singular             | Mein         |
+| 2ª singular (informal)  | Dein         |
+| 2ª singular (formal)    | Ihr          |
+| 3ª singular (masculino) | Sein         |
+| 3ª singular (feminino)  | Ihr          |
+| 3ª singular (neutro)    | Sein         |
+| 1ª plural               | Unser        |
+| 2ª plural (informal)    | Euer         |
+| 2ª plural (formal)      | Ihr          |
+| 3ª plural               | Ihr          |
 
 -   Para conjugar o possesivo, adicionar:
 

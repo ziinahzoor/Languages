@@ -11,7 +11,7 @@
 -   `Beaucoup` Muito (Much)
     -   Geralmente usado com verbos.
 -   `Trop` Muito/Demais (Too much)
-    -   Costuma indicar excessos.
+    -   Costuma indicar excessos. Para enfatizar o excesso pode-se ainda usar `beaucoup trop`.
 -   `Plein de` Cheio/Repleto
     -   "Muitos/Bastante/O bastante", quando se refere a coisas quantificáveis.
 -   `Oui` Sim
@@ -78,6 +78,8 @@
 -   `Comment` Como
 -   `Spécialement` Especialmente
 -   `Correctement` Corretamente
+-   `En même temps` Ao mesmo tempo
+-   `Sérieusement` Seriamente
 
 ## Os Porquês
 

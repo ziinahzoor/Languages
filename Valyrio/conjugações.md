@@ -1,6 +1,44 @@
 # Conjugações
 
-## Presente
+<table>
+    <thead>
+        <tr>
+            <th>Formas/Tempos</th>
+            <th>Presente</th>
+            <th colspan="2">Pretérito</th>
+            <th>Futuro</th>
+        </tr>
+    </thead>
+    <tr>
+        <th><a href="#indicativo">Indicativo</a></th>
+        <td><a href="#presente">Simples</a></td>
+        <td><a href="#preterito-perfeito">Perfeito</a></td>
+        <td><a href="#preterito-imperfeito">Imperfeito</a></td>
+        <td><a href="#futuro">Simples</a></td>
+    </tr>
+    <tr>
+        <th><a href="#subjuntivo">Subjuntivo</a></th>
+        <td><a href="#presente-subjuntivo">Simples</a></td>
+        <td><a href="#preterito-perfeito-subjuntivo">Perfeito</a></td>
+        <td><a href="#preterito-imperfeito-subjuntivo">Imperfeito</a></td>
+        <td><a href="#futuro-subjuntivo">Simples</a></td>
+    </tr>
+    <tr>
+        <th colspan="5"><a href="#imperativo">Imperativo</a></th>
+    </tr>
+    <tr>
+        <th colspan="5"><a href="#participio">Particípio</a></th>
+    </tr>
+    <tr>
+        <th colspan="5"><a href="#voz-passiva">Voz Passiva</a></th>
+    </tr>
+</table>
+
+---
+
+<h1 id="var_indicativo">Indicativo</h1>
+
+<h2 id="var_presente">Presente</h2>
 
 **O presente é para coisas que acontecem no momento. Diferente de outras línguas, não serve para ações atemporais e verdades absolutas (como "eu falo valiriano"). No último caso se usa o tempo Aorista.**
 
@@ -30,7 +68,7 @@
 | Jeme     | Iksāt             |
 | Pōnta    | Issi              |
 
-## Pretérito Perfeito
+<h2 id="var_preterito-perfeito">Pretérito Perfeito</h2>
 
 | Pronome  | Conjugação |
 | -------- | ---------- |
@@ -41,7 +79,7 @@
 | Jeme     | -tāt       |
 | Pōnta    | -tis       |
 
-## Pretérito Imperfeito
+<h2 id="var_preterito-imperfeito">Pretérito Imperfeito</h2>
 
 | Pronome  | Conjugação |
 | -------- | ---------- |
@@ -56,7 +94,7 @@
     -   `-a`, `-o` → `-ē`
     -   `-e`, `-i`, `-u` → `-ī`
 
-## Futuro
+<h2 id="var_futuro">Futuro</h2>
 
 | Pronome  | Conjugação |
 | -------- | ---------- |
@@ -74,7 +112,9 @@
 
 ---
 
-## Presente do Subjuntivo
+<h1 id="var_subjuntivo">Subjuntivo</h1>
+
+<h2 id="var_presente-subjuntivo">Presente</h2>
 
 | Pronome  | Verbos -agon e -gon terminados em `a` | Verbo -gon terminado em `e` ou `i` | Verbo -gon terminado em `o` ou `u` |
 | -------- | ------------------------------------- | ---------------------------------- | ---------------------------------- |
@@ -85,7 +125,7 @@
 | Jeme     | -ōt                                   | -iōt                               | -vōt                               |
 | Pōnta    | -osy                                  | -iosy                              | -vosy                              |
 
-## Pretérito Perfeito do Subjuntivo
+<h2 id="var_preterito-perfeito-subjuntivo">Pretérito Perfeito</h2>
 
 | Pronome  | Conjugação |
 | -------- | ---------- |
@@ -96,7 +136,7 @@
 | Jeme     | -tōt       |
 | Pōnta    | -tosy      |
 
-## Pretérito Imperfeito do Subjuntivo
+<h2 id="var_preterito-imperfeito-subjuntivo">Pretérito Imperfeito</h2>
 
 | Pronome  | Conjugação |
 | -------- | ---------- |
@@ -109,7 +149,7 @@
 
 -   As regras de raízes terminadas em vogal seguem as do indicativo.
 
-## Futuro do Subjuntivo
+<h2 id="var_futuro-subjuntivo">Futuro</h2>
 
 | Pronome  | Conjugação |
 | -------- | ---------- |
@@ -122,9 +162,7 @@
 
 -   As regras de raízes terminadas em vogal seguem as do indicativo.
 
----
-
-## Imperativo
+<h1 id="var_imperativo">Imperativo</h1>
 
 -   Para comandos para a segunda pessoa:
 
@@ -141,7 +179,11 @@
 
 ---
 
-## Voz passiva
+<h1 id="var_participio">Particípio</h1>
+
+---
+
+<h1 id="var_voz-passiva">Voz passiva</h1>
 
 | Número                  | Verbos -agon | Verbos -gon |
 | ----------------------- | ------------ | ----------- |
@@ -158,7 +200,7 @@
 -   O agente pode ser introduzido conjugando `ondos` no genitivo de forma pospositiva ao substantivo agente. Ex.: `... valo ondoso...` "... pelo homem".
     -   Se `ondos` é utilizado, o agente pode ser definido ou indefinido, se não é utilizado o agente é sempre indefinido ou genérico.
 
-### Instrumental-passivo
+## Instrumental-passivo
 
 -   Coisas inanimadas não podem tecnicamente ser os sujeitos de verbos, como por exemplo "a faca corta". Então é necessário conjugar o verbo na voz ativa com um prefixo para formar o instrumental-passivo:
     -   Verbos começando com `p`, `t`, `k`, e `q`: Prefixar `s-`.

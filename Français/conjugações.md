@@ -6,7 +6,56 @@
 > [!NOTE]
 > A voz passiva é formada pelo verbo `être` + particípio do pretérito.
 
-## Le Indicatif Present - Presente do Indicativo
+<table>
+    <thead>
+        <tr>
+            <th>Formas/Tempos</th>
+            <th colspan="2">Presente</th>
+            <th colspan="3">Pretérito</th>
+            <th colspan="2">Futuro</th>
+        </tr>
+    </thead>
+    <tr>
+        <th><a href="#indicatif">Indicativo</a></th>
+        <td><a href="#present-indicatif">Simples</a></td>
+        <td><a href="#present-continu">Contínuo</a></td>
+        <td><a href="#indicatif-imparfait">Imperfeito</a></td>
+        <td><a href="#passe-compose">Perfeito</a></td>
+        <td><a href="#passe-recent">Recente</a></td>
+        <td><a href="#futur-simple">Simples</a></td>
+        <td><a href="#futur-proche">Imediato</a></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+        <th><a href="#subjonctif">Subjuntivo</a></th>
+        <td colspan="2"><a href="#subjonctif-present">Simples</a></td>
+        <td colspan="3"><a href="#subjonctif-passe">Simples</a></td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <th colspan="8"><a href="#imperatif">Imperativo</a></th>
+    </tr>
+    <tr>
+        <th colspan="8"><a href="#participe-present">Gerúndio</a></th>
+    </tr>
+    <tr>
+        <th><a href="#participe">Particípio</a></th>
+        <td colspan="2"><a href="#participe-present">do Presente</a></td>
+        <td colspan="3"><a href="#participe-passe">do Pretérito</a></td>
+        <td colspan="2"></td>
+    </tr>
+</table>
+
+---
+
+<h1 id="var_indicatif">Le Indicatif</h1>
+
+<h2 id="var_present-indicatif">Le Present - Presente</h2>
 
 <table>
     <thead>
@@ -64,22 +113,11 @@
 | Vous       | êtes   | avez  | allez  | faites  |
 | Ils/Elles  | sont   | ont   | vont   | font    |
 
-### Le Present Continu - Presente Contínuo
+<h2 id="var_present-continu">Le Present Continu - Presente Contínuo</h2>
 
 -   Formado pelo verbo `être` + `en train de` + [verbo].
 
-### Participe Present - Particípio do Presente
-
-**O gerúndio é formado por `en` + particípio.**
-
--   Basta trocar o `-ons` da primeira pessoa do plural por `-ant`.
--   Existem apenas três irregulares:
-
-| Irregulares | Être  | Avoir | Savoir  |
-| ----------- | ----- | ----- | ------- |
-| Conjugação  | étant | ayant | sachant |
-
-## L'Indicatif Imparfait - Pretérito Imperfeito
+<h2 id="var_indicatif-imparfait">L'Imparfait - Pretérito Imperfeito</h2>
 
 > [!TIP]
 > Também é uma de dizer as coisas educadamente como no português.
@@ -128,40 +166,17 @@
     </tr>
 </table>
 
-## Le Passé Composé - Pretérito Perfeito
+<h2 id="var_passe-compose">Le Passé Composé - Pretérito Perfeito</h2>
 
 -   Pode ser formado por uma conjugação dos verbos `être` ou `avoir` + partícipio do pretérito. Ex.: `J'ai fini`
     -   Verbos de movimento e reflexivos utilizam `être`.
     -   Ao usar `être` como verbo auxiliar, o partícipio deve ser flexionado.
 
-### Participe Passé - Particípio do Pretérito
-
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>Verbos -er</th>
-            <th>Verbos -ir</th>
-            <th>Verbos -re</th>
-        </tr>
-    </thead>
-    <tr>
-        <th>Conjugação</th>
-        <td>-é</td>
-        <td>-</td>
-        <td>-u</td>
-    </tr>
-</table>
-
-| Irregulares | Être | Avoir | Aller | Faire | Vouloir | Pouvoir |
-| ----------- | ---- | ----- | ----- | ----- | ------- | ------- |
-| Conjugação  | été  | eu    | allé  | fait  | voulu   | pu      |
-
-## Le Passé Récent - Pretérito Recente
+<h2 id="var_passe-recent">Le Passé Récent - Pretérito Recente</h2>
 
 -   Pode ser formado por uma conjugação do verbo `venir` + `de` + verbo no infinitivo. Ex.: `Je viens de manger`.
 
-## Le Futur Simple - Futuro Simples
+<h2 id="var_futur-simple">Le Futur Simple - Futuro Simples</h2>
 
 <table>
     <thead>
@@ -239,11 +254,15 @@
 
 <table></table>
 
-## Le Futur Proche - Futuro Imediato
+<h2 id="var_futur-proche">Le Futur Proche - Futuro Imediato</h2>
 
 -   Pode ser formado por uma conjugação do verbo `aller` + verbo no infintivo. Ex.: `Je vais faire`
 
-## Le Subjonctif Present - Presente do Subjuntivo
+---
+
+<h1 id="var_subjonctif">Le Subjonctif - Subjuntivo</h1>
+
+<h2 id="var_subjonctif-present">Le Present - Presente</h2>
 
 **As terminações são adicionadas ao radical da conjugação de `ils/elles`.**
 
@@ -293,11 +312,13 @@
 | Vous       | soyez  | ayez  | alliez  | puissiez  | vouliez   | sachiez  | fassiez  |
 | Ils/Elles  | soient | aient | aillent | puissent  | veuillent | sachent  | fassent  |
 
-## Le Subjonctif Passé - Pretérito do Subjuntivo
+<h2 id="var_subjonctif-passe">Le Passé - Pretérito</h2>
 
 -   Formado pela conjungação no presente do subjuntivo + particípio do passado.
 
-## L'Impératif - Imperativo
+---
+
+<h1 id="var_imperatif">L'Impératif - Imperativo</h1>
 
 -   Só pode ser utilizado para `tu`, `nous` e `vous`.
 -   Basta conjugar o verbo no presente sem incluir o pronome. Ex.: `Vous arrêtez` → `Arrêtez!`.
@@ -306,10 +327,48 @@
 -   Se o pronome `y` vem após uma vogal, acrescenta-se um "s" à conjugação. Ex.: <code>Va<u>s</u>-y</code>
 -   A conjugação `tu` do verbo `s'en aller` é `va-t-en`.
 
-### Verbos irregulares
+## Verbos irregulares
 
 | Pronome | Être   | Avoir | Vouloir  | Savoir  |
 | ------- | ------ | ----- | -------- | ------- |
 | Tu      | sois   | aie   | veuille  | sache   |
 | Nous    | soyons | ayons | voulions | sachons |
 | Vous    | soyez  | ayez  | vouliez  | sachez  |
+
+---
+
+<h1 id="var_participe">Le Participe - Particípio</h1>
+
+<h2 id="var_participe-present">Le Present - Presente</h2>
+
+**O gerúndio é formado por `en` + particípio.**
+
+-   Basta trocar o `-ons` da primeira pessoa do plural por `-ant`.
+-   Existem apenas três irregulares:
+
+| Irregulares | Être  | Avoir | Savoir  |
+| ----------- | ----- | ----- | ------- |
+| Conjugação  | étant | ayant | sachant |
+
+<h2 id="var_participe-passe">Le Passé - Pretérito</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Verbos -er</th>
+            <th>Verbos -ir</th>
+            <th>Verbos -re</th>
+        </tr>
+    </thead>
+    <tr>
+        <th>Conjugação</th>
+        <td>-é</td>
+        <td>-</td>
+        <td>-u</td>
+    </tr>
+</table>
+
+| Irregulares | Être | Avoir | Aller | Faire | Vouloir | Pouvoir |
+| ----------- | ---- | ----- | ----- | ----- | ------- | ------- |
+| Conjugação  | été  | eu    | allé  | fait  | voulu   | pu      |

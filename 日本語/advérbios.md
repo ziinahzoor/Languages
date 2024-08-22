@@ -34,7 +34,9 @@
 -   `いくつ` Quantos (Quantidade)
 -   `ちょっと` Um pouco (Pode ser usado pra recusar algo)
     -   <font size="5"><code><ruby>少<rt>すこ</rt>し</ruby></code></font> Um pouco (Formal) (Pode ser usado para indicar hesitação)
+    -   <font size="5"><code>ちょっとの<ruby>間<rt>あいだ</rt></ruby></code></font> Por um instante/Por um momento
 -   `ひとりで` Sozinho
+-   `すぐ` Imediatamente/Neste momento
 -   `もうすぐ` Logo
 -   `ほんとうに` Realmente/Verdadeiramente
 -   `ちゃんと` Apropriadamente/Corretamente

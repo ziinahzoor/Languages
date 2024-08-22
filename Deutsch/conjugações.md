@@ -1,6 +1,41 @@
 # Conjugações
 
-## Conjugação Presente
+<table>
+	<thead>
+		<tr>
+			<th>Formas/Tempos</th>
+			<th>Presente</th>
+			<th>Pretérito</th>
+			<th>Futuro</th>
+		</tr>
+	</thead>
+	<tr>
+		<th><a href="#indikativ">Indicativo</a></th>
+		<td><a href="#prasens">Simples</a></td>
+		<td colspan="2"></td>
+	</tr>
+	<tr>
+		<th colspan="4"><a href="#konjunktiv">Subjuntivo</a></th>
+	</tr>
+	<tr>
+		<th colspan="4"><a href="#imperativ">Imperativo</a></th>
+	</tr>
+	<tr>
+		<th colspan="4"><a href="#konditional">Condicional</a></th>
+	</tr>
+	<tr>
+		<th colspan="4"><a href="#gerundium">Gerúndio</a></th>
+	</tr>
+	<tr>
+		<th colspan="4"><a href="#partizip">Particípio</a></th>
+	</tr>
+</table>
+
+---
+
+<h1 id="var_indikativ">Indicativo</h1>
+
+<h2 id="var_prasens">Presente</h2>
 
 | Pronome | Conjugação |
 | ------- | ---------- |
@@ -8,14 +43,12 @@
 | Du      | -st        |
 | Sie     | -t         |
 | Er      | -t         |
-| Sie     | -t         |
 | Es      |            |
 | Wir     |            |
 | Ihr     |            |
 | Sie     | -t         |
-| Sie     | -t         |
 
-## Verbo Sein
+### Verbo Sein
 
 | Pronome | Conjugação |
 | ------- | ---------- |
@@ -29,3 +62,23 @@
 | Ihr     | Seid       |
 | Sie     | Sind       |
 | Sie     | Sind       |
+
+---
+
+## <h1 id="var_konjunktiv">Subjuntivo</h1>
+
+---
+
+<h1 id="var_imperativ">Imperativo</h1>
+
+---
+
+<h1 id="var_konditional">Condicional</h1>
+
+---
+
+<h1 id="var_gerundium">Gerúndio</h1>
+
+---
+
+<h1 id="var_partizip">Particípio</h1>

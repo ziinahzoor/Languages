@@ -1,0 +1,3 @@
+# Advérbios
+
+-   `Ναι` Sim

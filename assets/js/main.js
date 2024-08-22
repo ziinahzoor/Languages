@@ -78,7 +78,11 @@ function addHeaders() {
 	let lastNesting = 0;
 
 	for (let header of headers) {
-		header.id = `header-${index}`;
+		const id = header.id;
+
+		header.id = id.startsWith('var_')
+			? id.slice(4)
+			: `header-${index}`;
 
 		const nesting = parseInt(header.tagName[1]);
 
@@ -118,7 +122,7 @@ function addHeaders() {
 			document.getElementsByClassName('selected-header')[0]?.classList.remove('selected-header');
 			link.classList.add('selected-header');
 		});
-		link.id = `header-nav-${index++}`;
+		link.id = `header-nav-${id.startsWith('var_') ? header.id : index++}`;
 
 		item.appendChild(link);
 		currentList.appendChild(item);
@@ -207,7 +211,10 @@ function handleShownElement() {
 	});
 
 	if (shownElement) {
-		const id = shownElement.id.slice(-1);
+		const id = shownElement.id.startsWith('header')
+			? shownElement.id.split('-')[1]
+			: shownElement.id;
+
 		document.getElementsByClassName('selected-header')[0]?.classList.remove('selected-header');
 
 		selectedHeader = document.getElementById(`header-nav-${id}`);

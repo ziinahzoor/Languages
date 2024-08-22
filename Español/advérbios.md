@@ -56,3 +56,4 @@
 -   `Probablemente` Provavelmente
 -   `Así` Assim
 -   `Por fin` Por fim
+-   `Claramente`

@@ -3,6 +3,10 @@
 -   `Humain` Humano
 -   `Gens` Gente
 -   `Homme` Homem
+-   `Homme de ménage` Faxineiro
+-   `Homme d'affaires` Empresário
+-   `Homme au foyer` Dono de casa
+    -   `Père au foyer` Dono de casa (que fica cuidando dos filhos)
 -   `Femme` Mulher
 -   `Garçon` Menino
 -   `Fille` Menina/Filha
@@ -51,8 +55,6 @@
 -   `Photographe` Fotógrafo
 -   `Copain/Copine` Colega
     -   `Copain de classe` Colega de classe
--   `Homme de ménage` Faxineiro
--   `Homme d'affaires` Empresário
 -   `Directeur` Diretor
 -   `Directrice` Diretora
 -   `Secrétaire` Secretário
@@ -83,6 +85,11 @@
 -   `Infirmier` Enfermeiro
 -   `Patient` Paciente
 -   `Hacker`
+-   `Dentiste` Dentista
+-   `Agriculteur` Fazendeiro
+-   `Gérant` Gerente
+-   `Mécanicien` Mecânico
+-   `Humoriste` Comediante/Humorista
 
 ## La famille - Família
 

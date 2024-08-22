@@ -163,6 +163,7 @@
 -   `Appareil photo` Câmera fotográfica 🚹
     -   `Appareil photo numérique` Câmera digital 🚹
 -   `Micro-ondes` Micro-ondas
+-   `Machine à café` Cafeteira
 
 ## Abstratos
 
@@ -273,6 +274,7 @@
 -   `Note` Nota
 -   `Erreur` Erro 🚺
 -   `Exemple` Exemplo
+-   `Poste` Posição 🚹/Vaga
 
 ### Unidades de medida
 
@@ -308,6 +310,7 @@
     -   `Boulot` Trampo
 -   `Métier` Ocupação/Trabalho
 -   `Profession` Profissão
+-   `Carrière` Carreira
 -   `Réseaux sociaux` Redes sociais
 -   `Pêche` Pesca
 -   `Dessin animé` Desenho animado
@@ -337,6 +340,7 @@
 -   `Excursion` Excursão
 -   `Étude` Estudo 🚺
 -   `Texte` Texto
+-   `Repos` Descanso
 
 ## Estudo
 

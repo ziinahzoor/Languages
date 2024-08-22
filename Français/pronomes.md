@@ -17,19 +17,19 @@
             <th>Complément direct</th>
             <th>Complément Indirect</th>
             <th>Tonique</th>
-            <th>Adjectifs Possessifs</th>
+            <th>Déterminants Possessifs</th>
             <th>Possessifs</th>
         </tr>
     </thead>
     <tr>
-        <th>Flexão</th>
+        <th>Número</th>
         <th>Pessoa</th>
         <th>Reto</th>
         <th>Reflexivos</th>
         <th>Oblíquo Direto</th>
         <th>Oblíquo Indireto</th>
         <th>Tônicos ou disjuntivos</th>
-        <th>Adjetivos Possessivos</th>
+        <th>Determinantes Possessivos</th>
         <th>Possessivos</th>
     </tr>
     <tr>
@@ -121,10 +121,9 @@
 
 **Os _pronomes_ possessivos são acompanhados de artigos definidos.**
 
-**Nos _adjetivos_ possessivos também se usa `de` para indicar a posse de algo**
+**Nos _determinantes_ possessivos também se usa `de` para indicar a posse de algo**
 
 -   Se começa em vogal, `de` se torna `d'`
-
 -   Os pronomes diretos devem vir depois dos indiretos quando a frase usa os dois, exceto para `lui` e `leur`.
 
 > [!TIP]
@@ -146,7 +145,7 @@
 -   `Qui` Quem/Que
     -   É usado para se perguntar sobre o sujeito.
 -   `À qui` De quem
--   `Quel`/`Quelle` Que/Qual (Adjetivo)
+-   `Quel`/`Quelle` Que/Qual (Determinante)
 -   `Lequel`/`Laquelle` Que/Qual
 -   `Combien` Quanto
     -   `Combien de` Quantos/Quantas
@@ -169,12 +168,12 @@
 
 ### Sufixos
 
-**São utilizados com os pronomes demonstrativos para determinar a distância. Com adjetivos demonstrativos eles se ligam aos substantivos.**
+**São utilizados com os pronomes demonstrativos para determinar a distância. Com determinantes demonstrativos eles se ligam aos substantivos.**
 
 -   `-ci` Perto de quem fala
 -   `-là` Longe de quem fala
 
-### Les Adjectifs Démonstratifs - Adjetivos Demonstrativos
+### Les Déterminants Démonstratifs - Determinantes Demonstrativos
 
 -   `Ce` Este/Esse/Aquele
     -   `Cet` Para substantivos iniciados em vogal ou "h"

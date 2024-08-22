@@ -113,6 +113,8 @@
 -   `Asar` Assar
 -   `Completar`
 -   `Preparar`
+-   `Gastar`
+-   `Explicar`
 
 ## Los verbos -er
 

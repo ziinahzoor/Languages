@@ -10,7 +10,7 @@
 -   <font size="5"><code><ruby>秒<rt>びょう</rt></ruby></code></font> Segundo
 -   <font size="5"><code><ruby>今<rt>いま</rt></ruby></code></font> Agora/Atual
     -   `今から` Agora mesmo
--   `おととい` Anteontem
+-   <font size="5"><code><ruby>一昨日<rt>おととい</rt></ruby></code></font> Anteontem
 -   <font size="5"><code><ruby>昨<rt>きの</rt>日<rt>う</rt></ruby></code></font> Ontem
 -   <font size="5"><code><ruby>今<rt>きょ</rt>日<rt>う</rt></ruby></code></font> Hoje
 -   <font size="5"><code><ruby>明<rt>あし</rt>日<rt>た</rt></ruby></code></font> Amanhã
@@ -25,6 +25,7 @@
 -   <font size="5"><code><ruby>夜<rt>よる</rt></ruby></code></font> Noite
 -   <font size="5"><code><ruby>夜<rt>よ</rt>中<rt>なか</rt></ruby></code></font> Madrugada
 -   <font size="5"><code><ruby>週<rt>しゅう</rt></ruby></code></font> Semana
+-   <font size="5"><code><ruby>平<rt>へい</rt>日<rt>じつ</rt></ruby></code></font> Dia útil
 -   <font size="5"><code><ruby>週<rt>しゅう</rt>末<rt>まつ</rt></ruby></code></font> Fim de semana
 -   <font size="5"><code><ruby>月<rt>つき</rt></ruby></code></font> Mês
 -   `がっき` Semestre (Acadêmico)

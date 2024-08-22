@@ -28,3 +28,4 @@
 -   `Au lieu de` Ao invés de
 -   `Sauf` Exceto
 -   `En face de` Em frente a
+-   `Depuis` Desde/A partir de

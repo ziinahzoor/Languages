@@ -110,7 +110,7 @@
     -   Geralmente acompanha o `と`
     -   Usado no fim da frase para expressar opiniões.
     -   Geralmente troca-se o `です` acompanhado pela forma plana.
--   `うたう` Cantar
+-   <font size="5"><code><ruby>歌<rt>うた</rt>う</ruby></code></font> Cantar
 -   `もらう` Receber
     -   `いただく` Kenjougo (Godan). Origem do いただきます.
     -   Pode usar tanto `に` quanto `から` para se referir a de quem se recebe.
@@ -139,7 +139,8 @@
 -   <font size="5"><code><ruby>弾<rt>ひ</rt>く</ruby></code></font> Tocar instrumento (com cordas ou teclas)
 -   <font size="5"><code><ruby>引<rt>ひ</rt>く</ruby></code></font> Puxar
     -   `風邪を引く` é pegar um resfriado.
--   <font size="5"><code><ruby>書<rt>か</rt></ruby>く</code></font> Escrever/Desenhar
+-   <font size="5"><code><ruby>書<rt>か</rt></ruby>く</code></font> Escrever
+-   <font size="5"><code><ruby>描<rt>か</rt>く</ruby></code></font> Desenhar
 -   `やく` Assar/Fritar/Queimar/Torrar
     -   Usado para todos os verbos quem envolvam fogo na culinária.
 -   <font size="5"><code><ruby>開<rt>あ</rt>く</ruby></code></font> Abrir (I)
@@ -149,7 +150,7 @@
     -   `おなかがすく` Ter fome
 -   `はく` Vestir/Calçar/Usar (Parte inferior)
 -   <font size="5"><code><ruby>働<rt>はたら</rt>く</ruby></code></font> Trabalhar
--   `およぐ` Nadar
+-   <font size="5"><code><ruby>泳<rt>およ</rt>ぐ</ruby></code></font> Nadar
 -   `いそぐ` Apressar
 -   `ぬぐ` Despir/Tirar (roupa)
 -   <font size="5"><code><ruby>死<rt>し</rt>ぬ</ruby></code></font> Morrer
@@ -165,7 +166,7 @@
 -   <font size="5"><code><ruby>読<rt>よ</rt></ruby>む</code></font> Ler
 -   `たのしむ` Se divertir/Se satisfazer
 -   `よぶ` Chamar/Convidar
--   `あそぶ` Passar tempo/Brincar/Jogar
+-   <font size="5"><code><ruby>遊<rt>あそ</rt>ぶ</ruby></code></font> Passar tempo/Brincar/Jogar
 -   `まなぶ` Aprender
 -   `ならぶ` Alinhar/Formar fila
 -   `よろこぶ` Alegrar
@@ -177,13 +178,14 @@
     -   `に会う` Encontrar o/a
 -   `まつ` Esperar
 -   `うつ` Bater/Atingir/Acertar
+-   <font size="5"><code><ruby>立<rt>た</rt>つ</ruby></code></font> Levantar/Ficar em pé
 -   <font size="5"><code><ruby>持<rt>も</rt></ruby>つ</code></font> Carregar/Segurar
     -   <font size="5"><code><ruby>持<rt>も</rt></ruby>っている</code></font> Ter (Posse)
     -   <font size="5"><code><ruby>持<rt>も</rt></ruby>ってくる</code></font> Trazer
 -   <font size="5"><code><ruby>使<rt>つか</rt>う</ruby></code></font> Usar
 -   `わらう` Rir
 -   `はらう` Pagar
--   `ならう` Aprender (Com alguém ensinando)
+-   <font size="5"><code><ruby>習<rt>なら</rt>う</ruby></code></font> Aprender (Com alguém ensinando)
 -   `すう` Fumar
 -   <font size="5"><code><ruby>作<rt>つく</rt></ruby>る</code></font> Produzir/Fazer
 -   `ひかる` Brilhar
@@ -198,10 +200,10 @@
 -   <font size="5"><code><ruby>減<rt>へ</rt></ruby>る</code></font> Diminuir
 -   <font size="5"><code><ruby>喋<rt>しゃべ</rt></ruby>る</code></font> Conversar/Papear
 -   `かかる` Custar/Demorar/Levar
--   `すわる` Sentar
+-   <font size="5"><code><ruby>座<rt>すわ</rt>る</ruby></code></font> Sentar
 -   <font size="5"><code><ruby>帰<rt>かえ</rt>る</ruby></code></font> Voltar/Retornar (Casa, ponto de origem)
 -   `もどる` Voltar/Retornar
--   `とる` Pegar/Tirar (foto)
+-   <font size="5"><code><ruby>撮<rt>と</rt>る</ruby></code></font> Tirar foto/Gravar/Filmar
 -   <font size="5"><code><ruby>乗<rt>の</rt></ruby>る</code></font> Andar de/Embarcar/Pegar (transporte)
 -   `はじまる` Começar (I)
 -   `おわる` Terminar/Acabar
@@ -215,7 +217,7 @@
     -   Geralmente acompanha o `が`
 -   `わたる` Atravessar/Cruzar
 -   `きる` Cortar
--   `しまる` Fechar (I)
+-   <font size="5"><code><ruby>閉<rt>し</rt>まる</ruby></code></font> Fechar (I)
 -   <font size="5"><code><ruby>上<rt>あ</rt>がる</ruby></code></font> Subir (I)
 -   `まがる` Virar/Curvar
 -   `おくる` Mandar/Enviar
@@ -242,7 +244,8 @@
 -   <font size="5"><code><ruby>出<rt>で</rt>かける</ruby></code></font> Sair (Para algum lugar)
 -   <font size="5"><code><ruby>起<rt>お</rt>きる</ruby></code></font> Acordar
 -   <font size="5"><code><ruby>寝<rt>ね</rt>る</ruby></code></font> Dormir
--   `あびる` Tomar banho
+-   <font size="5"><code><ruby>浴<rt>あ</rt>びる</ruby></code></font> Se banhar
+    -   Além do sentido literal, também pode ser de sol, de luz ou outra coisa.
 -   `できる` Poder/Ser capaz
     -   Geralmente acompanha o `が`
     -   Quando acompanha `で`, indica que algo pode ser feito em determinado local.
@@ -270,6 +273,7 @@
 -   `なでる` Carinhar/Pentear
 -   `かりる` Pegar emprestado/Alugar
 -   <font size="5"><code><ruby>開<rt>あ</rt></ruby>ける</code></font> Abrir (T)
+-   <font size="5"><code><ruby>閉<rt>し</rt>める</ruby></code></font> Fechar (T)
 -   <font size="5"><code><ruby>止<rt>や</rt></ruby>める</code></font> Parar/Finalizar/Descontinuar
 -   <font size="5"><code><ruby>辞<rt>や</rt></ruby>める</code></font> Se demitir/Se retirar/Sair
 -   `こわれる` Quebrar (I)
@@ -292,8 +296,8 @@
 -   `けんか` Lutar
 -   <font size="5"><code><ruby>勉<rt>べん</rt>強<rt>きょう</rt></ruby></code></font> Estudar
 -   `そつぎょう` Graduar
--   `そうじ` Limpar
--   `せんたく` Lavar roupas
+-   <font size="5"><code><ruby>掃<rt>そう</rt>除<rt>じ</rt></ruby></code></font> Limpar
+-   <font size="5"><code><ruby>選<rt>せん</rt>択<rt>たく</rt></ruby></code></font> Lavar roupas
 -   `ストレッチ` Alongar
 -   <font size="5"><code><ruby>料<rt>りょう</rt>理<rt>り</rt></ruby></code></font> Cozinhar
 -   `ガーデニング` Jardinar
@@ -310,7 +314,7 @@
     -   Geralmente acompanha o `に`
 -   `メール` Enviar um e-mail/mensagem de texto
 -   `しょうかい` Apresentar/Introduzir
--   `さんぽ` Passear
+-   <font size="5"><code><ruby>散<rt>さん</rt>歩<rt>ぽ</rt></ruby></code></font> Passear
 -   `りゅうがく` Fazer intercâmbio
 -   `そつぎょう` Graduar-se
 -   `せいかつ` Viver

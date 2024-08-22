@@ -34,6 +34,11 @@
 -   `Pasta` Massa
 -   `Tostada` Torrada
 -   `Mermelada` Geleia
+-   `Jamón` Presunto
+-   `Cebolla` Cebola
+-   `Yogur` Iogurte
+-   `Pimienta` Pimenta
+-   `Champiñon` Cogumelo
 
 ## Las Frutas
 
@@ -43,6 +48,8 @@
 -   `Plátano`
 -   `Tomate`
 -   `Mango` Manga 🚹
+-   `Pera`
+-   `Limón` Limão
 
 ## Los Vegetales - Verduras
 

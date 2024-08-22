@@ -1,6 +1,55 @@
 # Le Coniugazioni - Conjugações
 
-## Il Presente dell'Indicativo - Presente do Indicativo
+<table>
+    <thead>
+        <tr>
+            <th>Formas/Tempos</th>
+            <th>Presente</th>
+            <th colspan="2">Pretérito</th>
+            <th colspan="2">Futuro</th>
+        </tr>
+    </thead>
+    <tr>
+        <th rowspan="2"><a href="#indicativo">Indicativo</a></th>
+        <td rowspan="2"><a href="#presente">Simples</a></td>
+        <td><a href="#passato-prossimo">Recente</a></td>
+        <td><a href="#imperffeto">Imperfeito</a></td>
+        <td rowspan="2"><a href="#futuro-semplice">Simples</a></td>
+        <td rowspan="2"><a href="#futuro-anteriore">Perfeito</a></td>
+    </tr>
+    <tr>
+        <td><a href="#trapassato-prossimo">Perfeito</a></td>
+        <td><a href="#passato-remoto">Remoto</a></td>
+    </tr>
+    <tr>
+        <th><a href="#congiuntivo">Subjuntivo</a></th>
+        <td><a href="#congiuntivo-presente">Simples</a></td>
+        <td colspan="2"><a href="#congiuntivo-imperfetto">Imperfeito</a></td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <th><a href="#condizionale">Condicional</a></th>
+        <td><a href="#condizionale-presente">Simples</a></td>
+        <td colspan="2"><a href="#condizionale-passato">Simples</a></td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <th colspan="6"><a href="#imperativo">Imperativo</a></th>
+    </tr>
+    <tr>
+        <th colspan="6"><a href="#gerundio">Gerúndio</a></th>
+    </tr>
+    <tr>
+        <th><a href="#participio">Particípio</a></th>
+        <td></td>
+        <td colspan="2"><a href="#participio-passato">do Pretérito</a></td>
+        <td colspan="2"></td>
+    </tr>
+</table>
+
+<h1 id="var_indicativo">L'Indicativo</h1>
+
+<h2 id="var_presente">Il Presente - Presente</h2>
 
 <table>
     <thead>
@@ -52,36 +101,13 @@
 | Voi     | siete  | avete   | andate  | fate     |
 | Loro    | sono   | hanno   | vanno   | fanno    |
 
-## Il Passato Prossimo - Pretérito Recente
+<h2 id="var_passato-prossimo">Il Passato Prossimo - Pretérito Recente</h2>
 
 -   Pode ser formado por uma conjugação dos verbos `essere` ou `avere` + partícipio do pretérito. Ex.: `Ho finito`
     -   Verbos de movimento e reflexivos utilizam `essere`.
     -   Ao usar `essere` como verbo auxiliar, o partícipio deve ser flexionado.
 
-### Il Participio Passato - Particípio do Pretérito
-
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>Verbos -are</th>
-            <th>Verbos -ere</th>
-            <th>Verbos -ire</th>
-        </tr>
-    </thead>
-    <tr>
-        <th>Conjugação</th>
-        <td>-ato</td>
-        <td>-uto</td>
-        <td>-ito</td>
-    </tr>
-</table>
-
-| Irregulares | Essere | Fare  | Aprire | Chiedere | Piangere | Venire | Vivere  | Vedere | Stare | Prendere | Rispondere |
-| ----------- | ------ | ----- | ------ | -------- | -------- | ------ | ------- | ------ | ----- | -------- | ---------- |
-| Conjugação  | stato  | fatto | aperto | chiesto  | pianto   | venuto | vissuto | visto  | stato | preso    | risposto   |
-
-## L'Imperffeto - Pretérito Imperfeito
+<h2 id="var_imperffeto">L'Imperffeto - Pretérito Imperfeito</h2>
 
 <table>
     <thead>
@@ -130,13 +156,13 @@
     </tr>
 </table>
 
-## Il Trapassato Prossimo - Pretérito Perfeito
+<h2 id="var_trapassato-prossimo">Il Trapassato Prossimo - Pretérito Perfeito</h2>
 
 -   Pode ser formado por uma conjugação dos verbos `essere` ou `avere` no pretérito imperfeito + partícipio do pretérito. Ex.: `Avevo finito`
     -   Verbos de movimento e reflexivos utilizam `essere`.
     -   Ao usar `essere` como verbo auxiliar, o partícipio deve ser flexionado.
 
-## Il Passato Remoto - Pretérito
+<h2 id="var_passato-remoto">Il Passato Remoto - Pretérito Remoto</h2>
 
 -   Indica coisas que aconteceram há certa quantidade de tempo.
 -   É bastante irregular.
@@ -189,7 +215,7 @@
     </tr>
 </table>
 
-## Il Futuro Semplice - Futuro Simples
+<h2 id="var_futuro-semplice">Il Futuro Semplice - Futuro Simples</h2>
 
 <table>
     <thead>
@@ -232,17 +258,21 @@
     </tr>
 </table>
 
+### I Verbi Irregolari - Verbos Irregulares
+
 | Verbo   | Essere | Andare | Stare | Venire | Avere |
 | ------- | ------ | ------ | ----- | ------ | ----- |
 | Radical | Sar-   | Andr-  | Star- | Verr-  | Avr-  |
 
-## Il Futuro Anteriore - Futuro Perfeito
+<h2 id="var_futuro-anteriore">Il Futuro Anteriore - Futuro Perfeito</h2>
 
 -   Pode ser formado por uma conjugação dos verbos `essere` ou `avere` no futuro simples + partícipio do pretérito. Ex.: `Avrò finito`
     -   Verbos de movimento e reflexivos utilizam `essere`.
     -   Ao usar `essere` como verbo auxiliar, o partícipio deve ser flexionado.
 
-## Il Congiuntivo Presente - Presente do Subjuntivo
+<h1 id="var_congiuntivo">Il Congiuntivo - Subjuntivo</h1>
+
+<h2 id="var_congiuntivo-presente">Il Presente - Presente</h2>
 
 **Geralmente é usado com frases contendo `che`.**
 
@@ -283,7 +313,7 @@
     </tr>
 </table>
 
-## Il Congiuntivo Imperfetto - Pretérito Imperfeito do Subjuntivo
+<h2 id="var_congiuntivo-imperfetto">L'Imperfetto - Pretérito Imperfeito</h2>
 
 **Geralmente é usado com frases contendo `se`.**
 
@@ -331,7 +361,9 @@
     </tr>
 </table>
 
-## Il Condizionale Presente - Presente do Condicional (Futuro do Pretérito)
+<h1 id="var_condizionale">Il Condizionale - Condicional</h1>
+
+<h2 id="var_condizionale-presente">Il Presente - Presente (Futuro do Pretérito)</h2>
 
 **Costuma ser utilizado sozinho ou acompanhado dos verbos auxiliares `potere` e `devere` em suas conjugações condicionais.**
 
@@ -368,7 +400,7 @@
     </tr>
 </table>
 
-## Il Condizionale Passato - Pretérito do Condicional (Futuro do Pretérito)
+<h2 id="var_condizionale-passato">Il Passato - Pretérito (Futuro do Pretérito)</h2>
 
 -   Pode ser formado por uma conjugação dos verbos `essere` ou `avere` no presente do condicional + partícipio do pretérito. Ex.: `Avrei finito`
     -   Verbos de movimento e reflexivos utilizam `essere`.
@@ -376,7 +408,7 @@
 -   Similar ao "would have" do inglês.
 -   Costuma ser mais utilizado que o `condizionale presente` quando se trata da função de futuro do pretérito do português.
 
-## L'Imperativo - Imperativo
+<h1 id="var_imperativo">L'Imperativo - Imperativo</h1>
 
 -   Só pode ser utilizado para `tu`, `noi` e `voi`.
 -   Basta conjugar o verbo no presente sem incluir o pronome. Ex.: `Vous arrêtez` → `Arrêtez!`.
@@ -388,3 +420,32 @@
 | Tu      | sii    | va'     | fa'      | di'     | da'   | sta'   | sappi    | abbi    |
 | Noi     | siamo  | andiamo | facciamo | diciamo | diamo | stiamo | sappiamo | abbiamo |
 | Voi     | siate  | andate  | fate     | dite    | date  | state  | sappiate | abbiate |
+
+<h1 id="var_gerundio">Il Gerundio - Gerúndio</h1>
+
+<h1 id="var_participio">Il Participio - Particípio</h1>
+
+<h2 id="var_participio-passato">Il Passato - Pretérito</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Verbos -are</th>
+            <th>Verbos -ere</th>
+            <th>Verbos -ire</th>
+        </tr>
+    </thead>
+    <tr>
+        <th>Conjugação</th>
+        <td>-ato</td>
+        <td>-uto</td>
+        <td>-ito</td>
+    </tr>
+</table>
+
+### I Verbi Irregolari - Verbos Irregulares
+
+| Irregulares | Essere | Fare  | Aprire | Chiedere | Piangere | Venire | Vivere  | Vedere | Stare | Prendere | Rispondere |
+| ----------- | ------ | ----- | ------ | -------- | -------- | ------ | ------- | ------ | ----- | -------- | ---------- |
+| Conjugação  | stato  | fatto | aperto | chiesto  | pianto   | venuto | vissuto | visto  | stato | preso    | risposto   |

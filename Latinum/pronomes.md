@@ -12,7 +12,7 @@
 		</tr>
 	</thead>
 	<tr>
-		<th rowspan="3">Singular</th>
+		<th rowspan="4">Singular</th>
 		<th>Primeira</th>
 		<td>Ego</td>
 		<td>Me</td>
@@ -23,12 +23,16 @@
 		<td>Te</td>
 	</tr>
 	<tr>
-		<th>Terceira</th>
-		<td>Is/Ea</td>
-		<td>Se</td>
+		<th>Terceira 🚹</th>
+		<td>Is</td>
+		<td rowspan="2">Se</td>
 	</tr>
 	<tr>
-		<th rowspan="3">Plural</th>
+		<th>Terceira 🚺</th>
+		<td>Ea</td>
+	</tr>
+	<tr>
+		<th rowspan="4">Plural</th>
 		<th>Primeira</th>
 		<td>Nos</td>
 		<td></td>
@@ -39,8 +43,13 @@
 		<td></td>
 	</tr>
 	<tr>
-		<th>Terceira</th>
-		<td>Ii/Eae</td>
+		<th>Terceira 🚹</th>
+		<td>Ii</td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Terceira 🚺</th>
+		<td>Eae</td>
 		<td></td>
 	</tr>
 </table>
@@ -51,5 +60,3 @@
 -   `Quid` O que
 -   `Quomodo` Como
 -   `Ubi` Onde
-
-## Conjugação de verbos

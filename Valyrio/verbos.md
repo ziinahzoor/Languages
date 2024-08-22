@@ -32,3 +32,5 @@
 -   `Izūgagon` Ter medo
 -   `Tēmagon` Cutucar/Picar
 -   `Jemagon` Guiar/Liderar
+-   `Rhaenagon` Achar
+-   `Kostilagon` Poder

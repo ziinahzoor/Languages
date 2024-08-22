@@ -1,6 +1,10 @@
 # Conjugações
 
-## Presente do Indicativo
+---
+
+<h1>Indicativo</h1>
+
+<h2>Presente</h2>
 
 | Pronome | Sufixo |
 | ------- | ------ |
@@ -21,3 +25,5 @@
 | Nos     | sumus      |
 | Vos     | estis      |
 | Ii/Eae  | sunt       |
+
+---

@@ -27,8 +27,9 @@
 -   `Vecino` Vizinho
 -   `Colega`
 -   `Chef` Chefe (de cozinha)
--   `Compañero de cuarto` Colega de quarto
--   `Compañero de clase` Colega de classe
+-   `Compañero` Colega
+    -   `Compañero de cuarto` Colega de quarto
+    -   `Compañero de clase` Colega de classe
 -   `Enfermero` Enfermeiro
 -   `Dentista`
 -   `Ingeniero` Engenheiro

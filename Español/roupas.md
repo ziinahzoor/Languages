@@ -43,7 +43,7 @@
 
 ## Los Accesorios - Acessórios
 
--   `Cartera` Bolsa
--   `Cartera` Carteira
+-   `Billetera` Carteira
+-   `Cartera` Carteira/Bolsa
 -   `Bolsa`
 -   `Collar` Colar

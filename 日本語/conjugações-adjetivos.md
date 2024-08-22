@@ -4,6 +4,8 @@
 
 **Sintaticamente o japonês não possui adjetivos, já que os "adjetivos" são tecnicamente orações subordinadas relativas**
 
+---
+
 ## <ruby>形<rt>けい</rt>容<rt>よう</rt>詞<rt>し</rt></ruby> - Adjetivos `い`
 
 **Também conhecidos com verbos-adjetivo por serem sintaticamente verbos.**
@@ -41,6 +43,8 @@
 
 > [!NOTE]
 > A palavra `ない` é um adjetivo. Portanto na forma negativa flexionamos o adjetivo-base na forma `く` e o adicionamos. De forma semelhante, o colocamos no passado com `かった` → `なかった`.
+
+---
 
 ## <ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos `な`
 

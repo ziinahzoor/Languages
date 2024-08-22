@@ -83,7 +83,7 @@
 -   `インク` Tinta
 -   `サイン` Assinatura
 -   `じしょ` Dicionário
--   `しゃしん` Foto
+-   <font size="5"><code><ruby>写<rt>しゃ</rt>真<rt>しん</rt></ruby></code></font> Foto
 -   `グラス` Vidro
 -   `ちず` Mapa
 -   `かさ` Guarda-chuva
@@ -102,7 +102,7 @@
 -   <font size="5"><code><ruby>椅<rt>い</rt>子<rt>す</rt></ruby></code></font> Cadeira
 -   `はなび` Fogos de artifício
 -   `スーツケース` Maleta
--   `え` Pintura
+-   <font size="5"><code><ruby>絵<rt>え</rt></ruby></code></font> Pintura
 -   `テスト` Prova
 -   `じしょ` Dicionário
 -   `ナプキン` Lenço de papel (Napkin)
@@ -139,6 +139,7 @@
 -   `ふせん` Post-it
 -   `コピー` Cópia
 -   `スキャン` Digitalização
+-   <font size="5"><code><ruby>手<rt>て</rt>紙<rt>がみ</rt></ruby></code></font> Carta
 -   `きって` Selo de carta
 -   <font size="5"><code><ruby>布<rt>ふ</rt>団<rt>とん</rt></ruby></code></font> Futon
 
@@ -189,7 +190,7 @@
 -   `ミス` Erro
 -   `でんわばんごう` Número de telefone
 -   `キス` Beijo
--   `でんき` Eletricidade
+-   <font size="5"><code><ruby>電<rt>でん</rt>気<rt>き</rt></ruby></code></font> Eletricidade
 -   `たび` Jornada
 -   `しんぽ` Progresso
 -   `しゅわ` Linguagem de sinais
@@ -345,8 +346,8 @@
     -   No contexto escolar, é mais utilizado no ensino médio e superior.
 -   `ようじ` Tarefas (Coisas pra fazer)
 -   `かじ` Tarefas (da casa)
--   `そうじ` Limpeza
--   `せんたく` Lavanderia
+-   <font size="5"><code><ruby>掃<rt>そう</rt>除<rt>じ</rt></ruby></code></font> Limpeza
+-   <font size="5"><code><ruby>選<rt>せん</rt>択<rt>たく</rt></ruby></code></font> Lavanderia
 -   `ストレッチ` Alongamento
 -   <font size="5"><code><ruby>料<rt>りょう</rt>理<rt>り</rt></ruby></code></font> Culinária
 -   `ガーデニング` Jardinagem
@@ -377,12 +378,12 @@
 -   `どうが` Vídeo
 -   `アニメ` Anime
 -   `まんが` Mangá
--   `えいが` Filme
+-   <font size="5"><code><ruby>映<rt>えい</rt>画<rt>が</rt></ruby></code></font> Filme
 -   `ニュース` Notícias
 -   `ジェットコースター` Montanha-russa
 -   <font size="5"><code><ruby>食<rt>た</rt></ruby>べほうだい</code></font> Self-service/Rodízio
 -   <font size="5"><code><ruby>花<rt>はな</rt>見<rt>み</rt></ruby></code></font> Assistir o desabrochar das sakuras
--   `さんぽ` Passeio
+-   <font size="5"><code><ruby>散<rt>さん</rt>歩<rt>ぽ</rt></ruby></code></font> Passeio
 -   `SNS` Rede social
 -   `こうこく` Propaganda
 -   `すいえい` Nado
@@ -443,9 +444,9 @@
 -   `ジョギング` Corrida
 -   `ボクシング` Boxe
 
-## おんがく - Música
+## <ruby>音<rt>おん</rt>楽<rt>がく</rt></ruby> - Música
 
--   `うた` Canção
+-   <font size="5"><code><ruby>歌<rt>うた</rt></ruby></code></font> Canção
 -   `ロック` Rock
 -   `ジャズ` Jazz
 -   `ポップス` Pop

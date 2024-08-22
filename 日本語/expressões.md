@@ -34,6 +34,7 @@
     -   Usado com verbos na forma plana
 -   `。。。として` Como.../Do ponto de vista de...
 -   `。。。によると・によれば` De acordo com...
+-   `それから` Depois disso
 
 ## <ruby>相<rt>あい</rt>槌<rt>づち</rt></ruby> - Interjeições de atenção
 

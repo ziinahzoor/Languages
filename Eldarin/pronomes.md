@@ -91,6 +91,8 @@
 -   `Mallo` De onde
 -   `Manen` Como
 
+---
+
 ## <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{\%7E5\%</span> - Sindarin
 
 <table>
@@ -102,7 +104,7 @@
 			<th>Sujeito</th>
 			<th>Objeto</th>
 			<th>Dativo</th>
-			<th>Adjetivo Possessivo</th>
+			<th>Determinante Possessivo</th>
 		</tr>
 	</thead>
 	<tr>

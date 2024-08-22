@@ -3,7 +3,44 @@
 > [!TIP]
 > Uma grande parte dos verbos pode ser transformada em adjetivos usando o particípio.
 
-## El Presente del Indicativo - Presente do Indicativo
+<table>
+    <thead>
+        <tr>
+            <th>Formas/Tempos</th>
+            <th colspan="2">Presente</th>
+            <th colspan="3">Pretérito</th>
+            <th colspan="2">Futuro</th>
+        </tr>
+    </thead>
+    <tr>
+        <th><a href="#indicativo">Indicativo</a></th>
+        <td><a href="#presente-indicativo">Simples</a></td>
+        <td><a href="#presente-progressivo">Contínuo</a></td>
+        <td><a href="#preterito-imperfecto">Imperfeito</a></td>
+        <td><a href="#preterito-perfecto-simple">Perfeito simples</a></td>
+        <td><a href="#preterito-perfecto-compuesto">Perfeito composto</a></td>
+        <td><a href="#futuro-simple">Simples</a></td>
+        <td><a href="#futuro-informal">Imediato</a></td>
+    </tr>
+    <tr>
+        <th colspan="8"><a href="#subjuntivo">Subjuntivo</a></th>
+    </tr>
+    <tr>
+        <th colspan="8"><a href="#imperativo">Imperativo</a></th>
+    </tr>
+    <tr>
+        <th colspan="8"><a href="#gerundio">Gerúndio</a></th>
+    </tr>
+    <tr>
+        <th colspan="8"><a href="#participio">Particípio</a></th>
+    </tr>
+</table>
+
+---
+
+<h1 id="var_indicativo">El Indicativo</h1>
+
+<h2 id="var_presente-indicativo">El Presente - Presente</h2>
 
 <table>
     <thead>
@@ -67,41 +104,12 @@
 | Vosotros            | sois  | estáis  | habéis        | tenéis  | vais  |
 | Ellos/Ellas/Ustedes | son   | están   | han           | tienen  | van   |
 
-## El Presente Progressivo/Contínuo - Presente Contínuo
+<h2 id="var_presente-progressivo">El Presente Progressivo/Contínuo - Presente Contínuo</h2>
 
 -   Formado pelo verbo `estar` + particípio do presente
 -   Em verbos reflexivos, o pronome pode vir antes de `estar` ou pode ser afixado no fim do gerúndio, sendo adicionado um acento agúdo na antepenúltima sílaba.
 
-### El Gerundio - Gerúndio
-
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>Verbos -ar</th>
-            <th>Verbos -er</th>
-            <th>Verbos -ir</th>
-        </tr>
-    </thead>
-    <tr>
-        <th>Regulares</th>
-        <td rowspan="3">-ando</td>
-        <td colspan="2">-iendo</td>
-    </tr>
-    <tr>
-        <th>Radical terminado em vogal</th>
-        <td colspan="2">-yendo</td>
-    </tr>
-    <tr>
-        <th>Radical terminado em ll/ñ</th>
-        <td colspan="2">-endo</td>
-    </tr>
-</table>
-
-> [!NOTE]
-> O gerúndio de `ir` é `yendo`.
-
-## El Pretérito Imperfecto/Copretérito - Pretérito Imperfeito
+<h2 id="var_preterito-imperfecto">El Pretérito Imperfecto/Copretérito - Pretérito Imperfeito</h2>
 
 <table>
     <thead>
@@ -147,7 +155,7 @@
     </tr>
 </table>
 
-## El Pretérito Perfecto Simple - Pretérito Perfeito
+<h2 id="var_preterito-perfecto-simple">El Pretérito Perfecto Simple - Pretérito Perfeito</h2>
 
 <table>
     <thead>
@@ -193,51 +201,12 @@
     </tr>
 </table>
 
-## El Pretérito Perfecto Compuesto - Pretérito Composto
+<h2 id="var_preterito-perfecto-compuesto">El Pretérito Perfecto Compuesto - Pretérito Composto</h2>
 
 -   Formado pelo verbo `haber` no presente do indicativo + Particípio.
 -   Tem uma nuance em que as ações são mais recentes do que no pretérito simples.
 
-### El Participio - Particípio
-
-<table>
-    <thead>
-        <tr>
-            <th>Radical do verbo</th>
-            <td>-ar</td>
-            <td>-er</td>
-            <td>-ir</td>
-        </tr>
-    </thead>
-    <tr>
-        <th>Radical do adjetivo</th>
-        <td>-ado</td>
-        <td colspan="2">-ido</td>
-    </tr>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th>Irregulares</th>
-            <td>Hacer</td>
-            <td>Decir</td>
-            <td>Poner</td>
-            <td>Escribir</td>
-            <td>Ver</td>
-        </tr>
-    </thead>
-    <tr>
-        <th>Conjugação</th>
-        <td>Hecho</td>
-        <td>Dicho</td>
-        <td>Puesto</td>
-        <td>Escrito</td>
-        <td>Visto</td>
-    </tr>
-</table>
-
-## El Futuro Simple - Futuro do Indicativo
+<h2 id="var_futuro-simple">El Futuro Simple - Futuro Simples</h2>
 
 <table>
     <thead>
@@ -277,14 +246,92 @@
     </tr>
 </table>
 
-## El Futuro Informal - Futuro Imediato
+<h2 id="var_futuro-informal">El Futuro Informal - Futuro Imediato</h2>
 
 -   Poder ser formado por uma conjugação de `ir` + a + infinitivo.
 
-## El Imperativo - Imperativo
+---
+
+<h1 id="var_subjuntivo">El Subjuntivo</h1>
+
+---
+
+<h1 id="var_imperativo">El Imperativo - Imperativo</h1>
 
 -   Para `tú`, utilizar a conjugação da terceira pessoa do singular do indicativo. Em negativos, continuar com a segunda pessoa, mas no subjuntivo.
 -   Para `vos`, utilizar a conjugação da terceira pessoa do singular do indicativo com acento na última sílaba. O imperativo de `ir` é `andá`. Em negativos, usar a forma tú dos presente do subjuntivo.
 -   Para `nosotros`, é a mesma forma do subjuntivo.
 -   Para `usted` e `ustedes`, utilizar a conjugação da terceira pessoa do subjuntivo, no singular e plural, respectivamente.
 -   Para `vosotros`, trocar o "r" do infinitivo por `d`. Em reflexivos, trocar por `os`. Em negativos, usar a forma vosotros do presente do subjuntivo.
+
+---
+
+<h1 id="var_gerundio">El Gerundio - Gerúndio</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Verbos -ar</th>
+            <th>Verbos -er</th>
+            <th>Verbos -ir</th>
+        </tr>
+    </thead>
+    <tr>
+        <th>Regulares</th>
+        <td rowspan="3">-ando</td>
+        <td colspan="2">-iendo</td>
+    </tr>
+    <tr>
+        <th>Radical terminado em vogal</th>
+        <td colspan="2">-yendo</td>
+    </tr>
+    <tr>
+        <th>Radical terminado em ll/ñ</th>
+        <td colspan="2">-endo</td>
+    </tr>
+</table>
+
+> [!NOTE]
+> O gerúndio de `ir` é `yendo`.
+
+---
+
+<h1 id="var_participio">El Participio - Particípio</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Radical do verbo</th>
+            <td>-ar</td>
+            <td>-er</td>
+            <td>-ir</td>
+        </tr>
+    </thead>
+    <tr>
+        <th>Radical do adjetivo</th>
+        <td>-ado</td>
+        <td colspan="2">-ido</td>
+    </tr>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Irregulares</th>
+            <td>Hacer</td>
+            <td>Decir</td>
+            <td>Poner</td>
+            <td>Escribir</td>
+            <td>Ver</td>
+        </tr>
+    </thead>
+    <tr>
+        <th>Conjugação</th>
+        <td>Hecho</td>
+        <td>Dicho</td>
+        <td>Puesto</td>
+        <td>Escrito</td>
+        <td>Visto</td>
+    </tr>
+</table>

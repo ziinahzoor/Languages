@@ -1,7 +1,5 @@
 # Pronomes
 
-## Pessoais
-
 <table>
 	<thead>
 		<tr>
@@ -12,7 +10,7 @@
 			<th>Objeto direto</th>
 			<th>Objeto indireto</th>
 			<th>Genitivo</th>
-			<th>Adjetivo possessivo</th>
+			<th>Determinante possessivo</th>
 			<th>Possessivo</th>
 		</tr>
 	</thead>
@@ -38,7 +36,7 @@
 		<td>Aōhon</td>
 	</tr>
 	<tr>
-		<th>Terceira (Solar/Lunar)</th>
+		<th>Terceira ☀️🌙</th>
 		<td>Ziry</td>
 		<td>Zirȳla</td>
 		<td>Ziry</td>
@@ -48,7 +46,7 @@
 		<td>Zȳhon</td>
 	</tr>
 	<tr>
-		<th>Terceira (Terrestre/Aquático)</th>
+		<th>Terceira 🌱🌊</th>
 		<td>Ūja</td>
 		<td>Jāla</td>
 		<td>Ūī</td>

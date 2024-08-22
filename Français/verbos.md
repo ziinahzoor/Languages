@@ -61,6 +61,7 @@
 -   `Détester` Odiar
 -   `Préférer` Preferir
 -   `Arriver` Chegar
+    -   `Arriver à [verbo]` Ser capaz de
 -   `Acheter` Comprar
 -   `Rencontrer` Conhecer (Meet)
 -   `Payer` Pagar
@@ -134,7 +135,7 @@
 -   `Fermer` Fechar
 -   `Laver` Lavar
 -   `Vérifier` Verificar/Checar
--   `Changer` Mudar/Alterar
+-   `Changer` Mudar/Alterar/Trocar
 -   `Envoyer` Enviar
 -   `Envier` Invejar
 -   `Frapper` Bater
@@ -198,6 +199,8 @@
 -   `Jeter` Lançar/Jogar fora
 -   `Laisser` Deixar
 -   `Brancher` Conectar/Plugar
+-   `S'habituer` Se acostumar
+-   `Enseigner` Ensinar
 
 ## -ir Verbes
 
