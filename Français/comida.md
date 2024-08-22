@@ -51,11 +51,16 @@
 -   `Omelette` Omelete
 -   `Crème fraîche` Nata
 -   `Barbecue` Churrasco
+-   `Glaçon` Cubo de gelo
+-   `Camembert`
+-   `Pâtisserie` Confeito 🚺
+-   `Steak` Bife
 
 ## Les Légumes (Vegetais)
 
 -   `Pomme de terre` Batata
 -   `Riz` Arroz
+-   `Haricot` Feijão
 
 ## Les Fruits 🚹 (Frutas)
 
@@ -72,6 +77,7 @@
 -   `Melon` Melão
 -   `Poire` Pera
 -   `Raisin` Uva
+-   `Mangue` Manga
 
 ## Les Boissons (Bebidas)
 

@@ -93,6 +93,7 @@
 -   Para formalidade ao realizar solicitações, costuma-se usar as formas condicionais de `aimer` e `vouloir`.
 -   Para o causativo, usa-se o verbo `faire` + verbo no infinitivo e `rendre` + adjetivo.
 -   Para partes do corpo não se costuma usar pronomes possessivos. Ao invés de disso, o verbo relacionado é usado na forma reflexiva.
+-   Usa-se `en` para se referir à refeição que se quer pedir num restaurante. Ex.: `En entrée...` "De entrada...".
 
 ## Les Articles - Artigos
 
@@ -150,3 +151,6 @@ A negação geralmente é conjugada como `ne [verbo] pas`. Note que o `pas` é m
 -   Para perguntar "O que...", usar `Qu'est-ce que`
 
 ## Les Faux Amis - Falsos cognatos
+
+-   `Voiture` Carro
+-   `Pourtant` Porém

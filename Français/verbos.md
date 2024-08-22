@@ -165,7 +165,8 @@
 -   `Randonner` Fazer uma caminhada (Hike)
     -   `Faire une randonnée`
 -   `Skier` Esquiar
--   `Gouter` Provar/Experimentar
+-   `Goûter` Provar/Experimentar
+    -   `Gouter` Pós-reforma de 90
 -   `Déménager` Se mudar
 -   `Espérer` Esperar/Ter esperança
 -   `Dîner` Jantar
@@ -201,6 +202,8 @@
 -   `Brancher` Conectar/Plugar
 -   `S'habituer` Se acostumar
 -   `Enseigner` Ensinar
+-   `Remercier` Agradecer
+-   `Accepter` Aceitar
 
 ## -ir Verbes
 

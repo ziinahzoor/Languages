@@ -143,6 +143,7 @@
 -   `Poubelle` Lata de lixo
 -   `Ciseau` Cinzel
 -   `Ciseaux` Tesoura 🚹
+-   `Cigarette` Cigarro 🚺
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -275,6 +276,8 @@
 -   `Erreur` Erro 🚺
 -   `Exemple` Exemplo
 -   `Poste` Posição 🚹/Vaga
+-   `Invitation` Convite 🚺
+-   `Conseil` Conselho
 
 ### Unidades de medida
 
@@ -342,7 +345,12 @@
 -   `Texte` Texto
 -   `Repos` Descanso
 
-## Estudo
+### Compras
+
+-   `Carte` Cardápio 🚺
+-   `Pourboire` Gorjeta 🚹
+
+### Estudo
 
 -   `Cours` Aula/Curso
 -   `Grammaire` Gramática

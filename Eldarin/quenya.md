@@ -61,6 +61,7 @@
 
 -   Também conhecido como Alto-Élfico, Valinoreano ou Avaloniano.
 -   Geralmente a sílaba tônica é a penúltima. Quando a penúltima é uma vogal curta (se não é um ditongo, vogal longa, ou não precede um aglomerado de consoantes), a tônica é a antepenúltima.
+-   Em frases predicativas, a cópula costuma ser opcional.
 
 ## Tonicidade
 

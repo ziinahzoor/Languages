@@ -80,6 +80,7 @@
 -   `Correctement` Corretamente
 -   `En même temps` Ao mesmo tempo
 -   `Sérieusement` Seriamente
+-   `Pourtant` Porém/Entretanto/Mesmo assim
 
 ## Os Porquês
 

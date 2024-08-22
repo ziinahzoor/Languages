@@ -172,6 +172,7 @@
 -   `Cassé` Quebrado
 -   `Bruyant` Barulhento
 -   `Mouillé` Molhado
+-   `Sec` Seco
 -   `Rond` Redondo
 -   `Carré` Quadrado
 -   `Fragile` Frágil
@@ -197,3 +198,11 @@
 -   `Professionell` Profissional
 -   `Certain` Certo
 -   `Satisfait` Satisfeito
+-   `Fort` Forte/Intenso
+-   `Obligé` Obrigado
+-   `Rôti` Assado
+-   `Cuit` Cozido
+-   `Grillé` Grelhado
+-   `À point` Ao ponto
+-   `Saignant` Malpassado
+-   `Cru`

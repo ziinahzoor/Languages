@@ -125,6 +125,7 @@
 -   `Parc` Parque
 -   `Zoo` Zoológico
 -   `Boulangerie` Padaria
+-   `Pâtisserie` Confeitaria
 -   `Banque` Banco 🚺
 -   `Plage` Praia
 -   `Château` Castelo/Palácio
