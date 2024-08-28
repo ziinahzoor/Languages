@@ -91,82 +91,148 @@
 > [!TIP]
 > Os pronomes possessivos são apenas as contrapartes terrestres dos retos.
 
-## Interrogativos
+## Interrogativos Singulares
 
--   `Skorī` Quando
--   `Skorkydoso` Como
 -   `Skoro syt` Por que
+    -   `Skorio syt` Forma alternativa
+    -   `Skorȳso` Instrumental/Comitativo de `Skorion`
 -   `Skorlūs` Que tipo
 -   `Skorverdon` Quanto/Quantos
+    -   Geralmente se usa com o substantivo no genitivo.
 
-## Demonstrativos
+## Demonstrativos e Interrogativos
 
-**Para seres vivos são os iniciados em "b" e para coisas inanimadas são os iniciados em "k"**
+**Para seres vivos são os iniciados em "b" e para coisas inanimadas são os iniciados em "k".**
+
+**Também são flexionados em caso e número.**
 
 <table>
     <thead>
         <tr>
-            <th colspan="2">Perto do</th>
-            <th>Locutor</th>
-            <th>Ouvinte</th>
-            <th>Interrogativo</th>
+            <th rowspan="2" colspan="2">Perto do</th>
+            <th colspan="2">Locutor</th>
+            <th colspan="2">Ouvinte</th>
+            <th colspan="2">Interrogativo</th>
         </tr>
+		<tr>
+			<th>Específico</th>
+			<th>Genérico</th>
+			<th>Específico</th>
+			<th>Genérico</th>
+			<th>Específico</th>
+			<th>Genérico</th>
+		</tr>
 	</thead>
 	<tr>
 		<th rowspan="2">Não-Determinante</th>
-		<td>Inanimado</td>
-		<td>Kesy/Kesir</td>
-		<td>Kony/Konir</td>
-		<td>Skoros (def)/Skorion (indef)</td>
+		<th>Inanimado</th>
+		<td>Kesy</td>
+		<td>Kesir</td>
+		<td>Kony</td>
+		<td>Konir</td>
+		<td>Skoros</td>
+		<td>Skorion</td>
 	</tr>
 	<tr>
-		<td>Animado</td>
-		<td>Bisy/Bisir</td>
-		<td>Bony/Bonir</td>
-		<td>Sparos (def)/Sparion (indef)</td>
+		<th>Animado</th>
+		<td>Bisy</td>
+		<td>Bisir</td>
+		<td>Bony</td>
+		<td>Bonir</td>
+		<td>Sparos</td>
+		<td>Sparion</td>
 	</tr>
 	<tr>
 		<th rowspan="2">Determinante</th>
-		<td>Inanimado</td>
-		<td>Kesa</td>
-		<td>Kona</td>
-		<td>Skore</td>
+		<th>Inanimado</th>
+		<td colspan="2">Kesa</td>
+		<td colspan="2">Kona</td>
+		<td colspan="2">Skore</td>
 	</tr>
 	<tr>
-		<td>Animado</td>
-		<td>Bisa</td>
-		<td>Bona</td>
-		<td>Spare</td>
+		<th>Animado</th>
+		<td colspan="2">Bisa</td>
+		<td colspan="2">Bona</td>
+		<td colspan="2">Spare</td>
 	</tr>
 	<tr>
-		<td colspan="2">Local</td>
-		<td>Kesīr</td>
-		<td>Konīr</td>
-		<td>Skoriot</td>
+		<th colspan="2">Local</th>
+		<td colspan="2">Kesīr</td>
+		<td colspan="2">Konīr</td>
+		<td colspan="2">Skoriot</td>
+	</tr>
+	<tr>
+		<th colspan="2">Temporal</th>
+		<td colspan="2">Sīr</td>
+		<td colspan="2">Pār</td>
+		<td colspan="2">Skorī</td>
+	</tr>
+	<tr>
+		<th colspan="2">Maneira</th>
+		<td colspan="2">
+			<p>Heksīr</p>
+			<p>Keskydoso (da mesma maneira)</p>
+		</td>
+		<td colspan="2">Hegnīr</td>
+		<td colspan="2">Skorkydoso</td>
 	</tr>
 </table>
 
 ## Indefinidos
 
-> [!TIP]
+**Também são flexionados em caso e número.**
+
+> [!NOTE]
 > Seguem a estrutura:
 >
-> -   `Mir-` Algum
-> -   `Dōr-` Nenhum
-> -   `Tol-` Outro
-> -   `Olv-` Muitos
-> -   `Tolv-` Todos
+> -   `Tolv-` Todos (Universal)
+> -   `Mir-` Algum (Existencial)
+> -   `Dōr-` Nenhum (Negativo)
+> -   `Tol-` Outro (Alternativo)
 
--   `Daorys` Ninguém
--   `Daorun` Nada
--   `Dōre` Nenhum
--   `Tolys` O outro
--   `Tolie` Outro
--   `Mirtys` Alguém
--   `Mirros` Algo
--   `Mirre` Algum(a)
--   `Tolvys` Todo mundo/Todos
--   `Tolvȳn` Tudo
--   `Tolvie` Todo
+<table>
+	<thead>
+		<tr>
+			<th colspan="2">Tipo</th>
+			<th>Universal</th>
+			<th>Existencial</th>
+			<th>Negativo</th>
+			<th>Alternativo</th>
+		</tr>
+	</thead>
+	<tr>
+		<th rowspan="2">Não-Determinante</th>
+		<th>Inanimado</th>
+		<td>Tolvȳn</td>
+		<td>Mirros</td>
+		<td>Daorun</td>
+		<td>Tolion</td>
+	</tr>
+	<tr>
+		<th>Animado</th>
+		<td>Tolvys</td>
+		<td>Mirtys</td>
+		<td>Daorys</td>
+		<td>Tolys</td>
+	</tr>
+	<tr>
+		<th colspan="2">Determinante</th>
+		<td>Tolvie</td>
+		<td>Mirre</td>
+		<td>Dōre</td>
+		<td>Tolie</td>
+	</tr>
+	<tr>
+		<th colspan="2">Local</th>
+		<td>Tolviot</td>
+		<td>Mirriot</td>
+		<td>Daoriot</td>
+		<td></td>
+	</tr>
+</table>
+
+-   `Olvie` Muitos
+-   `Dōrī` Nunca
+-   `Tolkydoso` De outra maneira
 
 ## Relativos

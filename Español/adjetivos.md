@@ -71,6 +71,8 @@
 -   `Largo` Longo/Largo
 -   `Moderna`
 -   `Exquisito` Delicioso
+-   `Extra`
+-   `Extraño` Estranho
 -   `Limpio` Limpo
 -   `Sucio` Sujo
 -   `Rubio` Loiro
@@ -117,7 +119,6 @@
 -   `Lleno` Cheio
 -   `Vegetariano`
 -   `Saludable` Saudável
--   `Extra`
 -   `Excelente`
 -   `Genial` Legal/Excelente
 -   `Pálido`
@@ -149,3 +150,7 @@
 -   `Diario` Diário
 -   `En oferta` Em promoção
 -   `Avanzado` Avançado
+-   `Maravilloso` Maravilhoso
+-   `Salvaje` Selvagem
+-   `Terrible` Terrível
+-   `Nacional`

@@ -67,6 +67,12 @@
     </tr>
 </table>
 
+## Adjetivos
+
+-   As formas masculinas costumam terminar em `-ος`, `-ύς` e `-ης`.
+-   As formas femininas costumam terminar em `-η` e `-α`.
+-   As formas neutras costumam terminar em `-ο`, `-ύ`, `-ί` e `-ικο`.
+
 ## Artigos
 
 ### Definidos

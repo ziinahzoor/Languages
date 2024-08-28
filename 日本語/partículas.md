@@ -94,6 +94,7 @@
     -   Pode ser traduzido semanticamente como "quanto a"
     -   Quase nunca é usada com palavras de questionamento.
     -   Pode ser coloquialmente subtituída por `って`, simplificação de `...という` (falando de...).
+    -   Quando usada depois de outras particulas, geralmente indica comparação ou contraste.
 -   `も` Também (Geralmente substitui o は)/Tanto quanto/Mesmo que
     -   Partícula não-lógica.
     -   Preferível ao dar boas-vindas a algum lugar

@@ -115,6 +115,7 @@
 > [!NOTE]
 > Ao conectar adjetivos な com `で`, o `な` só deve ser utilizado no último adjetivo.
 
+-   A forma adverbial costuma ser utilizada para tratar alguns adjetivos como substantivos no português (de certa forma como preposições). Ex: `遅く` "tarde", `近く` "perto".
 -   A forma de substantivo objetiva é utilizada para expressar substantivos mensuráveis.
     -   É similar ao sufixo inglês "-ness".
     -   Também pode ser usada para substantivos subjetivos, tratando-os como verdades universais.

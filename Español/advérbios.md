@@ -57,3 +57,5 @@
 -   `Así` Assim
 -   `Por fin` Por fim
 -   `Claramente`
+-   `Tanto`
+-   `Bastante`

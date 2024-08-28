@@ -144,7 +144,7 @@
 -   `やく` Assar/Fritar/Queimar/Torrar
     -   Usado para todos os verbos quem envolvam fogo na culinária.
 -   <font size="5"><code><ruby>開<rt>あ</rt>く</ruby></code></font> Abrir (I)
--   `あるく` Andar
+-   <font size="5"><code><ruby>歩<rt>ある</rt>く</ruby></code></font> Andar
 -   `さく` Florescer
 -   `すく` Esvaziar
     -   `おなかがすく` Ter fome
@@ -285,6 +285,7 @@
 -   `うける` Pegar/Receber/Passar por um evento
 -   `なくなる` Falecer
 -   `あたためる` Esquentar/Aquecer
+-   <font size="5"><code><ruby>似<rt>に</rt></ruby>る</code></font> Parecer/Assemelhar
 
 ## Verbos する
 

@@ -8,6 +8,9 @@
 > [!IMPORTANT]
 > Quanto à fonologia, em cada linguagem os sons mais distoantes comparados ao português serão exemplificados conforme o [Alfabeto Fonético Internacional (IPA)](ipa.md).
 
+> [!IMPORTANT]
+> Nas seções de pronomes, note que por similaridade semântica, também estão inclusos alguns advérbios, principalmente os interrogativos.
+
 > [!TIP]
 > Diversos termos relacionados à gramática estão disponíveis [aqui](gramática.md).
 > Vários sites, informações utilitárias e fontes de pesquisa estão disponíveis [aqui](utils.md).

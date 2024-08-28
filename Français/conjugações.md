@@ -264,7 +264,7 @@
 
 <h2 id="var_subjonctif-present">Le Present - Presente</h2>
 
-**As terminações são adicionadas ao radical da conjugação de `ils/elles`.**
+**As terminações são adicionadas à raíz da conjugação de `ils/elles`.**
 
 **Geralmente é usado com frases contendo `que`.**
 

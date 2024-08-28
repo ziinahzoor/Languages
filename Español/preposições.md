@@ -13,3 +13,4 @@
 -   `Entre`
 -   `Durante`
 -   `Hasta` Até
+-   `A lo largo de` Ao longo de

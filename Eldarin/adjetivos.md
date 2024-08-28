@@ -15,3 +15,27 @@
 -   `Tiuca` Grosso/Gordo
 -   `Halla` Alto
 -   `Titta` Pequeno
+-   `Anda` Longo
+-   `Exa` Outro/Diferente
+-   `Enta` Outro/Mais um
+-   `Parca` Seco/Com sede
+-   `Quanta` Cheio
+    -   Usado com o genitivo
+-   `Maira` Esplêndido/Excelente/Admirável/Precioso
+-   `Ancárima` Fácil
+-   `Senna` Pequeno
+-   `Alanwa` Adulto
+-   `Véra` Privado/Particular/Próprio
+-   `Lorna` Adormecido
+-   `Carinwa` Completo/Pronto/Terminado
+-   `Mára` Bom/Apropriado
+-   `Caraitë` Ocupado
+-   `Yerna` Cansado/Desgastado
+-   `Milya` Gentil/Suave
+-   `Maita` Esfomeado
+-   `Arwa` Tendo
+    -   Usado com o genitivo
+-   `Morna` Escuro
+-   `Poldórëa` Forte (fisicamente)
+-   `Tella` Último
+-   `Awalda` Empolgado

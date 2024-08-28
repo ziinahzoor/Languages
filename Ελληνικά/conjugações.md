@@ -25,3 +25,10 @@
 | Εμείς            | είμαστε       |
 | Εσείς            | είσαστε/είστε |
 | Αυτοί/Αυτές/Αυτά | είναι         |
+
+# Condicional
+
+## Presente
+
+-   Formado pela partícula `Θα` + verbo no imperfeito.
+-   Geralmente usado para expressões educadas, pedidos e cenários hipotéticos.

@@ -130,47 +130,58 @@
 
 ## <ruby>不<rt>ふ</rt>定<rt>てい</rt>代<rt>だい</rt>名<rt>めい</rt>詞<rt>し</rt></ruby> - Indefinidos
 
-### Existência
+> [!NOTE]
+> Seguem a estrutura:
+>
+> -   `-も` Todos (Universal, em frases afirmativas)
+> -   `-も` Nenhum (Negativo, em frases negativas)
+> -   `-か` Algum (Existencial)
+> -   `-でも` Qualquer um (Eletivo)
 
-**Adicionar `か` ao interrogativo.**
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Universal</th>
+            <th>Negativo</th>
+            <th>Eletivo</th>
+            <th>Existencial</th>
+        </tr>
+    </thead>
+    <tr>
+        <th>Entidade (Coisa)</th>
+        <td colspan="2"><ruby>何<rt>なに</rt></ruby>も</td>
+        <td><ruby>何<rt>なに</rt></ruby>でも</td>
+        <td><ruby>何<rt>なに</rt></ruby>か</td>
+    </tr>
+    <tr>
+        <th>Lugar</th>
+        <td colspan="2">どこも</td>
+        <td>どこでも</td>
+        <td>どこか</td>
+    </tr>
+    <tr>
+        <th>Tempo</th>
+        <td colspan="2">いつも</td>
+        <td>いつでも</td>
+        <td>いつか</td>
+    </tr>
+    <tr>
+        <th>Pessoa</th>
+        <td colspan="2">だれも</td>
+        <td>だれでも</td>
+        <td>だれか</td>
+    </tr>
+    <tr>
+        <th>Quantidade</th>
+        <td colspan="2">いくつも</td>
+        <td>いくつでも</td>
+        <td>いくつか</td>
+    </tr>
+</table>
 
--   `どこか` Em algum lugar
--   <font size="5"><code><ruby>何<rt>なに</rt></ruby>か</code></font> Algo/Alguma coisa
--   `だれか` Alguém
--   `いつか` Alguma hora/Algum dia
--   `いくつか` Alguns
-
-### Indiferença ou Inclusividade
-
-**Adicionar `でも` ao interrogativo.**
-
--   `どこでも` Qualquer lugar
--   <font size="5"><code><ruby>何<rt>なに</rt></ruby>でも</code></font> Qualquer/Qualquer coisa
--   `だれでも` Qualquer um
--   `いつでも` Qualquer hora/Qualquer dia
--   `いくつでも` Qualquer quantidade
-
-### Inexistência ou totalidade
-
-**Adicionar `も` ao interrogativo. Numa frase afirmativa indica totalidade e numa negativa indica inexistência.**
-
-#### Totalidade
-
--   `どこも` Em todo lugar
--   <font size="5"><code><ruby>何<rt>なに</rt></ruby>も</code></font> Tudo/Todos/Todas
-    -   `すべて`
-    -   `ぜんぶ`
--   `だれも` Todo mundo
-    -   `みんな` Forma mais comum
--   `いつも` Sempre
--   `いくつも` Muitos
-
-#### Inexistência
-
--   `どこも` Em lugar nenhum
--   <font size="5"><code><ruby>何<rt>なに</rt></ruby>も</code></font> Nada/Nenhum/Nenhuma
--   `だれも` Ninguém
--   `いつも` Nunca
+-   `すべて・ぜんぶ` Tudo/Todos/Todas
+-   `みんな` Todo mundo
 
 ## Possessivos
 

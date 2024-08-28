@@ -10,7 +10,7 @@
 -   É constituído de modos: existem modos para o Quenya, para o Sindarin e até para o inglês.
 -   Uma letra é denominada `tengwa` (`têw` em Sindarin).
     -   Uma letra é constituída de um `telco` (base), um traço reto, e um `lúva` (arco), um traço arqueado. O `lúva` pode ser singular ou duplicado, aberto (apenas um extremo do arco se une ao telco) ou fechado (os dois extremos se ligam ao telco).
-    -   Consoantes são chamadas `tapta tengwë` ou `patakar`.
+    -   Consoantes são chamadas `tapta tengwë` ou `patacar`.
 -   Para capitalização, pode-se aumentar o tamanho da primeira letras, utilizar a cor vermelha ou duplicar o traço vertical das letras (ou acrescentar um caso não haja).
 -   Para letras duplas, usa-se um traço abaixo do traço horizontal da letra. Ex.: <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 25px">q'</span> (pp)
 -   Costuma ser usado em modos `ómatehtar` (tehtar vogal), onde as vogais são representada por diacríticos chamados de `tehtar` (sinais).

@@ -115,10 +115,17 @@
 -   `Preparar`
 -   `Gastar`
 -   `Explicar`
+-   `Acampar`
+-   `Esquiar`
+-   `Coleccionar` Colecionar
+-   `Navegar`
+-   `Prestar` Emprestar
+-   `Robar` Roubar
 
 ## Los verbos -er
 
 -   `Ser`
+-   `Haber` Haver
 -   `Comer`
 -   `Beber`
 -   `Tener` Ter
@@ -156,6 +163,7 @@
     -   `Caerse mal` Desgostar
 -   `Mover` Mover/Mexer
 -   `Romper` Quebrar
+-   `Receber`
 
 ## Los verbos -ir
 

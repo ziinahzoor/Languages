@@ -15,6 +15,7 @@
 -   `Hielo` Gelo
 -   `Mar`
 -   `Montaña` Montanha
+-   `Fuego` Fogo
 
 ### Materiais
 
@@ -119,6 +120,10 @@
 -   `Champú` Xampú
 -   `Lata`
 -   `Calendario` Calendario
+-   `Postal` Cartão Postal 🚺
+-   `Carta`
+-   `Raqueta` Raquete
+-   `Estampilla` Selo 🚺
 
 ## Abstratos
 
@@ -212,6 +217,9 @@
 -   `Diferencia` Diferença
 -   `Instrucción` Instrução
 -   `Nivel` Nível
+-   `Estreno` Estreia 🚹
+-   `Peligro` Perigo
+-   `Electricidad` Eletricidade
 
 ### Medidas
 
@@ -239,6 +247,7 @@
 -   `Patineta` Skate
 -   `Tranvía` Bonde
 -   `Helicóptero`
+-   `Velero` Veleiro
 
 ## Actividades - Atividades
 
@@ -256,10 +265,15 @@
 -   `Juego de mesa` Jogo de tabuleiro
 -   `Internet`
 -   `Carrera` Corrida
+-   `Dibujo` Desenho
 -   `Dibujo animado` Desenho animado
 -   `Guerra`
 -   `Video` Vídeo
 -   `Programa`
+-   `Rompecabezas` Quebra-cabeças
+-   `Bádminton` Badminton
+-   `Cometa` Pipa
+-   `Hockey` Hóquei
 
 ### La Escuela - Escola
 
@@ -293,6 +307,7 @@
 ## Música
 
 -   `Canción` Música
+-   `Pop`
 
 ### Instrumentos
 

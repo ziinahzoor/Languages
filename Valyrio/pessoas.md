@@ -30,17 +30,26 @@
 -   `Raqiros` Amigo ☀️
 -   `Targārien` Targaryen 🌱
 
-## Família
+## Lentor - Família 🌊
 
 -   `Muña` Mãe/Tia 🌙
 -   `Kepa` Pai 🌙
 -   `Trēsy` Filho 🌙
 -   `Tala` Filha 🌙
--   `Dubys` Irmã(o)/Primo(a) ☀️
+-   `Dubys` Irmã(o)/Primo(a) paralelo ☀️
     -   `Idaña` Gêmeo 🌙
     -   `Lēkia` Mais velho 🌙
     -   `Valonqar` Mais novo 🌊
     -   `Mandia` Mais velha 🌙
     -   `Hāedar` Mais nova 🌊
+-   `Dubāzma` Primo(a) cruzado 🌙
 -   `Ābrazȳrys` Esposa ☀️
 -   `Valzȳrys` Marido ☀️
+-   `Velma` Irmã mais velha do pai/Tia paterna 🌙
+    - `Velmanna` Filho(a) da irmã mais velha do pai/Primo(a) 🌙
+-   `Ñāmar` Irmã mais nova do pai/Tia paterna 🌊
+    -   `Ñābranna` Filho(a) da irmã mais nova do pai/Primo(a) 🌙
+-   `Iāpa` Irmão mais velho da mãe/Tio 🌙
+    -   `Iāpanna` Filho(a) do irmão mais velho da mãe/Primo(a) 🌙
+-   `Qȳbor` Irmão mais novo da mãe/Tio materno 🌊
+    -   `Qȳbranna` Filho(a) do irmão mias novo da mãe/Primo(a) 🌙

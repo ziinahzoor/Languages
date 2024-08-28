@@ -7,6 +7,7 @@
 -   `Gafas` Óculos 🚺
     -   `Gafas de sol` Óculos de sol
 -   `Lentes` Óculos 🚹
+-   `Gorra` Boné 🚺
 
 ## El Cuerpo - Corpo
 

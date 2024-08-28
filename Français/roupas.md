@@ -4,6 +4,7 @@
 
 -   `Chapeau` Chapéu
 -   `Lunettes` Óculos
+-   `Lunettes de soleil` Óculos de sol
 -   `Casquette` Boné 🚺
 -   `Bucle d'oreille` Brinco 🚺
 -   `Casque` Capacete

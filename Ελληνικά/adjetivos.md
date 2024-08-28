@@ -1,0 +1,3 @@
+# Adjetivos
+
+-   `Μεγάλος` Grande

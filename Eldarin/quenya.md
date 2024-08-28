@@ -62,6 +62,9 @@
 -   Também conhecido como Alto-Élfico, Valinoreano ou Avaloniano.
 -   Geralmente a sílaba tônica é a penúltima. Quando a penúltima é uma vogal curta (se não é um ditongo, vogal longa, ou não precede um aglomerado de consoantes), a tônica é a antepenúltima.
 -   Em frases predicativas, a cópula costuma ser opcional.
+-   É uma linguagem fortemente sufixal.
+-   A ordem dos sufixos segue: tempo verbal → sufixo nominativo (sujeito) → sufixo acusativo (objeto).
+-   Ao usar outros sufixos, os sufixos pronomiais devem usar suas versões curtas.
 
 ## Tonicidade
 
@@ -81,7 +84,7 @@
     -   No fim da palavra, e nas combinações `ëa` e `ëo`.
     -   O "o" também usa trema na combinação `öa`.
 -   `b`, `d` e `g` são encontradas apenas em aglomerados de consoantes.
--   Aglomerados de consoantes não podem ocorrer no início da palavra, exceto `ps` e `ks` (ou `x`). No fim, só `nt` pode ocorrer.
+-   Aglomerados de consoantes não podem ocorrer no início da palavra, exceto `ps` e `ks/cs` (ou `x`). No fim, só `nt` pode ocorrer.
 -   Aglomerados de consoantes não podem vir depois de ditongos, com exceção de `st`.
 
 ## Transformações, Contrações e Elisões
@@ -91,6 +94,11 @@
 -   O `n` antes de `p` se torna `m`.
 -   O `n` antes de `l`, `r`, `s` e `m` é absorvido e se torna uma duplicação da consoante.
     -   O `n` depois do `l` costuma ter o mesmo comportamento.
+
+## Adjetivos
+
+-   Concordam em número com os substantivos.
+-   Plural: Os terminados em `-a` se tornam `-ë`. Os terminados em consoante ou `-ë` se tornam `-i`.
 
 ## Artigo
 
@@ -105,7 +113,9 @@
 
 ## Perguntas
 
--   Utiliza-se `ma` no início da frase.
+-   Formalmente se utiliza `ma` no início da frase. Informalmente, perguntas podem ser feitas apenas por entonação.
+-   Para concordar (ou dizer sim), utiliza-se `ná`, ou para mais ênfase, `náto`.
+    -   Para concordar com requisições ou pedidos, conjuga-se o verbo `aþa-` (concordar, querer).
 
 ## Flexões de número
 
@@ -130,14 +140,14 @@
 
 ## Adjetivos
 
-**Geralmente terminam em `-a`, `-e` ou `-n` e precedem o substantivo.**
+**Geralmente terminam em `-a`, `-ë` ou `-n` e precedem o substantivo.**
 
-**Podem ser transformados em advérbios com o sufixo `-ve`, mas quase sempre são usados diretamente sem sufixo após o verbo na função de advérbios.**
+**Podem ser transformados em advérbios com o sufixo `-vë`, mas quase sempre são usados diretamente sem sufixo após o verbo na função de advérbios.**
 
 -   No plural:
-    -   `-a` → `-e`
-    -   `-e` → `-i`
-    -   `-ea` → `-ie`
+    -   `-a` → `-ë`
+    -   `-ë` → `-i`
+    -   `-ëa` → `-ië`
     -   `-n` → `-ni`
 
 ### Flexão de Grau
@@ -162,7 +172,10 @@
 
 ### Genitivo
 
--   Se termina em `-a` ou `-o`, substitui-se a vogal por `-o`. Do contrário, adiciona-se
+-   Se termina em `-a` ou `-o`, substitui-se a vogal por `-o`.
+-   Se termina em `-ië`, substitui-se por `-io`.
+-   Em outros casos, adiciona-se `-o`.
+-   Plural: `-on`
 -   Denota origem. Ex.: "O melhor ferreiro DA Terra-Média".
 
 ### Possessivo
@@ -173,6 +186,7 @@
 ### Dativo
 
 -   Adiciona-se `-n`. `-en` se termina em consoante.
+-   Plural: `-in`.
 
 ### Instrumental
 
@@ -180,11 +194,15 @@
 
 ### Locativo
 
--   Adiciona-se `-sse`.
+-   Adiciona-se `-ssë` (`-essë` se termina em consoante).
+-   Plural: `-ssen`.
+-   Se termina em `-l` ou `-r` usa-se `-dë`.
 
 ### Alativo
 
--   Adiciona-se `-nna`.
+-   Adiciona-se `-nna` (`-enna` se termina em consoante).
+-   Plural: `-nnar` (`-innar` se termina em consoante).
+-   Se a raíz termina em `-n` esse se junta ao sufixo.
 
 ### Ablativo
 

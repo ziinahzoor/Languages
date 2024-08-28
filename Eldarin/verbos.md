@@ -2,7 +2,7 @@
 
 **O primeiro termo está em Quenya e o segundo em Sindarin.**
 
--   `Ná-/Na-(-ar)` \| `Na` Ser/Estar
+-   `Ná-/Na-` \| `Na` Ser/Estar
     -   Só é obrigatório quando carrega um sufixo pronomial ou é flexionado em tempo.
 -   `Mapa-` Agarrar
 -   `Tir-` Guardar/Observar
@@ -21,3 +21,49 @@
 -   `Cen-` Ver
 -   `Orta-` Levantar/Ascender
 -   `Harya-` Ter/Possuir
+-   `Sam-` Ter
+-   `Ham-` Sentar
+-   `Yul-` Beber
+-   `Caita-` Deitar/Estar deitado
+    -   Estar em uma posição horizontal
+-   `Tar-` Ficar/Estar em pé
+-   `Lemya-` Ficar/Permanecer
+-   `Men-` Ir
+-   `Poita-` Limpar
+-   `Ser-` Descansar
+-   `Lir-` Cantar
+-   `Lahta-` Atravessar
+-   `Nor-` Correr/Saltar
+-   `Mer-` Querer
+-   `Tul-` Vir/Chegar
+-   `Car-` Fazer/Construir
+-   `Telya-` Terminar/Concluir
+-   `Anya-` Chegar
+-   `Hententa-` Localizar (com os olhos)
+-   `Pata-` Andar
+-   `Nyar-` Contar/Relacionar
+-   `Hora-` Esperar por
+-   `Aquet-` Responder
+-   `Par-` Aprender/Estudar
+-   `Henta-` Examinar/Ler/Escanear
+-   `Ulya-` Despejar
+-   `Raita-` Sorrir
+-   `Pusta-` Parar
+-   `Nav-` Julgar
+-   `Tyal-` Brincar
+-   `Aþa-` Concordar
+-   `Tenta-` Apontar/Direcionar
+-   `Váva-` Soprar
+-   `Hlapu-` Fluir com o vento
+-   `Pas-` Suavizar
+-   `Yal-` Chamar
+-   `Aþya-` Ajudar/Confortar
+-   `Auta-` Sair
+-   `Ranya-` Vagar
+-   `Lepta-` Pegar/Sentir com os dedos
+-   `Mirilya-` Brilhar/Cintilar
+-   `Alca-` Brilhar
+-   `Latya-` Abrir
+-   `Col-` Carregar/Suportar
+-   `Rer-` Semear/Espalhar
+-   `Varya-` Proteger

@@ -206,3 +206,6 @@
 -   `À point` Ao ponto
 -   `Saignant` Malpassado
 -   `Cru`
+-   `Suffisant` Suficiente
+-   `Cool` Legal
+-   `Bête` Besta/Bobo

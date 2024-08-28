@@ -102,6 +102,8 @@
 -   Diferente de outras línguas, onde fazemos alguma atividade "embaixo da chuva", em japonês se faz "dentro da chuva": `雨の中`.
 -   A diferença entre `そうだ` e `らしい` é que o primeiro tem a nuance de a dedução ser feita a partir de outra fonte (ouvi dizer), enquanto a última se baseia em observações pessoais ou de outras fontes.
 -   Ao falar "qual [lugar]", usar `どこの` ao invés de `どの`
+-   Ao se referir a alguém pelo título ou por sua relação, usa-se `の`. Ex.: <font size="5"><code><ruby>妻<rt>つま</rt>のニヤ</ruby></code></font> "Minha esposa Nyah".
+-   Para dizer "nem um, nem outro" com adjetivos, usa-se a forma `く` com a expressão `。。。も。。。もない`.
 
 ## Conversa Informal
 

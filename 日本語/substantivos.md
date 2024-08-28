@@ -85,7 +85,7 @@
 -   `じしょ` Dicionário
 -   <font size="5"><code><ruby>写<rt>しゃ</rt>真<rt>しん</rt></ruby></code></font> Foto
 -   `グラス` Vidro
--   `ちず` Mapa
+-   <font size="5"><code><ruby>地<rt>ち</rt>図<rt>ず</rt></ruby></code></font> Mapa
 -   `かさ` Guarda-chuva
 -   <font size="5"><code><ruby>新<rt>しん</rt>聞<rt>ぶん</rt></ruby></code></font> Jornal
 -   <font size="5"><code><ruby>本<rt>ほん</rt></ruby></code></font> Livro
@@ -312,16 +312,16 @@
 ### Veículos
 
 -   <font size="5"><code><ruby>電<rt>でん</rt>車<rt>しゃ</rt></ruby></code></font> Trem (elétrico)
--   `ちかてつ` Metrô
+-   <font size="5"><code><ruby>地<rt>ち</rt>下<rt>か</rt>鉄<rt>てつ</rt></ruby></code></font> Metrô
 -   `しんかんせん` Trem-bala
 -   `タクシー` Táxi
 -   `バス` Ônibus
 -   `きゅうきゅうしゃ` Ambulância
--   `ひこうき` Avião
+-   <font size="5"><code><ruby>飛<rt>ひ</rt>行<rt>こう</rt>機<rt>き</rt></ruby></code></font> Avião
 -   <font size="5"><code><ruby>車<rt>くるま</rt></ruby></code></font> Carro
     -   `タイヤ` Pneu
 -   `リムジン` Limusine
--   `じてんしゃ` Bicicleta
+-   <font size="5"><code><ruby>自<rt>じ</rt>転<rt>てん</rt>車<rt>しゃ</rt></ruby></code></font> `` Bicicleta
 -   `バイク` Moto
 -   `ふね` Navio
 

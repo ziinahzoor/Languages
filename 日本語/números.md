@@ -8,7 +8,7 @@
 
 **Em números de telefone, `の` demarca o traço separador.**
 
-**<font size="5"><code><ruby>歳<rt>さい</rt></ruby></code></font> após um número se refere à idade da pessoa.**
+**<font size="5"><code><ruby>歳<rt>さい</rt></ruby></code></font> após um número se refere à idade da pessoa. Mas para perguntar a idade de maneira educada usa-se `おいくつですか`.**
 
 <table>
     <thead>

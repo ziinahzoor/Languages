@@ -213,7 +213,7 @@
 -   `Mariage` Casamento
 -   `Honte` Vergonha
 -   `Besoin` Necessidade
--   `Genre` Gênero
+-   `Genre` Gênero/Tipo
 -   `Bruit` Barulho
 -   `Itinéraire` Rota
 -   `Urgence` Urgência/Emergência
@@ -278,6 +278,7 @@
 -   `Poste` Posição 🚹/Vaga
 -   `Invitation` Convite 🚺
 -   `Conseil` Conselho
+-   `Offre` Oferta
 
 ### Unidades de medida
 
@@ -344,6 +345,8 @@
 -   `Étude` Estudo 🚺
 -   `Texte` Texto
 -   `Repos` Descanso
+-   `Publicité` Publicidade/Comercial
+-   `Marque` Marca
 
 ### Compras
 

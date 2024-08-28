@@ -204,7 +204,8 @@
 <h2 id="var_preterito-perfecto-compuesto">El Pretérito Perfecto Compuesto - Pretérito Composto</h2>
 
 -   Formado pelo verbo `haber` no presente do indicativo + Particípio.
--   Tem uma nuance em que as ações são mais recentes do que no pretérito simples.
+-   Tem uma nuance em que as ações são mais recentes do que no pretérito simples, podendo ter continuado até o presente.
+-   É mais utilizado na Espanha. Em outros lugares o perfeito simples é preferido para ações no passado.
 
 <h2 id="var_futuro-simple">El Futuro Simple - Futuro Simples</h2>
 
@@ -283,11 +284,11 @@
         <td colspan="2">-iendo</td>
     </tr>
     <tr>
-        <th>Radical terminado em vogal</th>
+        <th>Raíz terminada em vogal</th>
         <td colspan="2">-yendo</td>
     </tr>
     <tr>
-        <th>Radical terminado em ll/ñ</th>
+        <th>Raíz terminada em ll/ñ</th>
         <td colspan="2">-endo</td>
     </tr>
 </table>

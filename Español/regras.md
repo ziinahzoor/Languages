@@ -99,3 +99,19 @@
 -   `Exquisito` Delicioso
 -   `Perezoso` Preguiçoso
 -   `Enojado` Com raiva
+-   `Aula` Sala de aula
+-   `Todavía` Ainda
+-   `Cuello` Pescoço
+-   `Embarazada` Grávida
+-   `Guitarra` Violão
+-   `Oso` Urso
+-   `Oficina` Escritório
+-   `Escritório` Mesa/Escrivaninha
+-   `Padre` Pai
+-   `Pasta` Massa
+-   `Pastel` Bolo
+-   `Pronto` Logo
+-   `Rojo` Vermelho
+-   `Taza` Xícara
+-   `Vaso` Copo
+-   `Cena` Jantar

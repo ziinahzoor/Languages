@@ -39,8 +39,9 @@
 -   <font size="5"><code><ruby>低<rt>ひく</rt>い</ruby></code></font> Baixo
 -   `ひろい` Largo/Espaçoso
 -   `せまい` Estreito/Apertado
--   `はやい` Rápido
--   `おそい` Devagar/Lento
+-   <font size="5"><code><ruby>速<rt>はや</rt>い</ruby></code></font> Rápido
+-   <font size="5"><code><ruby>早<rt>はや</rt>い</ruby></code></font> Cedo
+-   <font size="5"><code><ruby>遅<rt>おそ</rt>い</ruby></code></font> Devagar/Lento/Tarde/Atrasado
 -   <font size="5"><code><ruby>長<rt>なが</rt>い</ruby></code></font> Longo
 -   `みじかい` Curto
 -   `あぶない` Perigoso
@@ -79,7 +80,7 @@
 -   `かたい` Duro
 -   `あぶらっこい` Gorduroso/Oleoso
 -   <font size="5"><code><ruby>近<rt>ちか</rt>い</ruby></code></font> Próximo (Distância)/Perto
--   `とおい` Longe
+-   <font size="5"><code><ruby>遠<rt>とお</rt>い</ruby></code></font> Longe
 -   <font size="5"><code><ruby>汚<rt>きたな</rt>い</ruby></code></font> Sujo
 -   `うつくしい` Bonito
 -   `ひどい` Péssimo/Horrível/Terrível

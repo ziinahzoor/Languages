@@ -19,9 +19,9 @@
 -   `じゃあね` Tchau
 -   `またあした` Até amanhã
 -   `おやすみなさい` Boa noite (Ao se despedir)
--   `いってきます` Estou indo
+-   <font size="5"><code><ruby>行<rt>い</rt></ruby>ってきます</code></font> Estou indo
     -   `いって` Indo + `きます` Vir = Estou indo, e vou voltar
--   `いってらっしゃい` Tenha cuidado/Estarei esperando
+-   <font size="5"><code><ruby>行<rt>い</rt></ruby>ってらっしゃい</code></font> Tenha cuidado/Estarei esperando
 -   `おさきにしつれいします` Desculpe por sair (mais cedo que você)
     -   `おつかれさまでした` Não tem problema, você trabalhou muito
 
@@ -34,6 +34,7 @@
 -   `しゅっしんはどこですか` De onde você é?
 -   <font size="5"><code>お<ruby>名<rt>な</rt>前<rt>まえ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか</code></font> Qual é o seu nome?
     -   <font size="5"><code>お<ruby>名<rt>な</rt>前<rt>まえ</rt></ruby>は</code></font>
+-   `おいくつですか` Quantos anos você tem?
 -   `。。。です` Eu sou...
     -   <font size="5"><code><ruby>私<rt>わたし</rt></ruby>は。。。です</code></font>
 -   <font size="5"><code>。。。と<ruby>言<rt>い</rt></ruby>います</code></font> Me chamo...

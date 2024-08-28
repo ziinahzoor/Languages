@@ -50,6 +50,8 @@
 -   `Presidente`
 -   `Cocinero` Cozinheiro
 -   `Visitante`
+-   `Obrero` Trabalhador/Operário
+-   `Policía` Polícia/Policial
 
 ## La Familia - Família
 

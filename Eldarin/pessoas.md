@@ -18,5 +18,11 @@
 -   `Nís(niss-)` \| `Dî` Mulher
 -   `Nettë` Menina
 -   `Winë` Bebê
+-   `Samno` Construtor/Carpinteiro
+-   `Málo` Amigo
+-   `Nildë` Amiga
 
 ## <span style="font-family: 'Tengwar Annatar', sans-serif;">5^,F</span> (Nossë) - Família
+
+-   `Amil` Mãe
+-   `Seldë` Filha

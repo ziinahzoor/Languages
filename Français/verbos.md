@@ -86,6 +86,7 @@
 -   `Danser` Dançar
 -   `Utiliser` Utilizar
 -   `Donner` Dar
+    -   `Donner envie` Dar vontade
 -   `Oublier` Esquecer
 -   `Préparer` Preparar
 -   `Écouter` Escutar
@@ -204,6 +205,9 @@
 -   `Enseigner` Ensinar
 -   `Remercier` Agradecer
 -   `Accepter` Aceitar
+-   `Désirer` Desejar
+-   `Supposer` Supor
+-   `Déranger` Incomodar/Perturbar
 
 ## -ir Verbes
 
@@ -248,6 +252,7 @@
 -   `Prévoir` Prever/Planejar
 -   `Reussir` Conseguir/Suceder (de ter sucesso)/Aprovar (em testes e provas)
 -   `Découvrir` Descobrir
+-   `Réfléchir` Refletir/Pensar
 
 ## Les Verbes Défectueux - Verbos Defectivos
 

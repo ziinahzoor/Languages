@@ -1,0 +1,11 @@
+# Preposições
+
+**O primeiro termo está em Quenya e o segundo em Sindarin.**
+
+-   `Se` Em/No/Na
+-   `To` Em/No/Na (Em cima)
+-   `Ara` Ao lado
+-   `As(-)` Junto de/Acompanhado por
+    -   Também é prefixo
+-   `Et` Fora de
+    -   Usado com o ablativo

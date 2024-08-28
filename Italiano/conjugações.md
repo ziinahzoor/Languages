@@ -260,9 +260,9 @@
 
 ### I Verbi Irregolari - Verbos Irregulares
 
-| Verbo   | Essere | Andare | Stare | Venire | Avere |
-| ------- | ------ | ------ | ----- | ------ | ----- |
-| Radical | Sar-   | Andr-  | Star- | Verr-  | Avr-  |
+| Verbo | Essere | Andare | Stare | Venire | Avere |
+| ----- | ------ | ------ | ----- | ------ | ----- |
+| Raíz  | Sar-   | Andr-  | Star- | Verr-  | Avr-  |
 
 <h2 id="var_futuro-anteriore">Il Futuro Anteriore - Futuro Perfeito</h2>
 

@@ -64,12 +64,15 @@
 
 **Usar honoríficos para se referir à alguém de outra família ou para falar com alguém da própria família.**
 
--   `しんせき` Parente
+-   <font size="5"><code><ruby>親<rt>しん</rt>戚<rt>せき</rt></ruby></code></font> Parente
 -   <font size="5"><code><ruby>両<rt>りょう</rt>親<rt>しん</rt></ruby></code></font> Pais
+    -   <font size="5"><code><ruby>親<rt>おや</rt></ruby></code></font> Pai/Mãe (Um dos pais)
 -   <font size="5"><code>お<ruby>父<rt>とう</rt></ruby>さん</code></font> Pai
     -   <font size="5"><code><ruby>父<rt>ちち</rt></ruby></code></font> (Meu) Pai
+    -   <font size="5"><code><ruby>父<rt>ちち</rt>親<rt>おや</rt></ruby></code></font> Pai (De um terceiro ou em geral)
 -   <font size="5"><code>お<ruby>母<rt>かあ</rt></ruby>さん</code></font> Mãe
     -   <font size="5"><code><ruby>母<rt>はは</rt></ruby></code></font> (Minha) Mãe
+    -   <font size="5"><code><ruby>母<rt>はは</rt>親<rt>おや</rt></ruby></code></font> Mãe (De um terceiro ou em geral)
 -   <font size="5"><code><ruby>兄<rt>きょう</rt>弟<rt>だい</rt></ruby></code></font> Irmãos (em geral)
 -   <font size="5"><code><ruby>姉<rt>し</rt>妹<rt>まい</rt></ruby></code></font> Irmãs
 -   <font size="5"><code>お<ruby>兄<rt>にい</rt></ruby>さん</code></font> Irmão (Mais velho)
@@ -88,7 +91,11 @@
 -   <font size="5"><code><ruby>息<rt>むす</rt>子<rt>こ</rt></ruby>さん</code></font> Filho
     -   <font size="5"><code><ruby>息<rt>むす</rt>子<rt>こ</rt></ruby></code></font> (Meu) Filho
 -   <font size="5"><code>お<ruby>嬢<rt>じょう</rt></ruby>さん</code></font> Filha
--   <font size="5"><code><ruby>娘<rt>むすめ</rt></ruby></code></font> (Minha) Filha
+    -   <font size="5"><code><ruby>娘<rt>むすめ</rt></ruby></code></font> (Minha) Filha
+-   <font size="5"><code>お<ruby>孫<rt>まご</rt></ruby>さん</code></font> Neto
+    -   <font size="5"><code><ruby>孫<rt>まご</rt></ruby></code></font> (Meu) Neto
+        -   <font size="5"><code><ruby>孫<rt>まご</rt>息<rt>むす</rt>子<rt>こ</rt></ruby></code></font> Neto
+        -   <font size="5"><code><ruby>孫<rt>まご</rt>娘<rt>むすめ</rt></ruby></code></font> Neta
 -   <font size="5"><code><ruby>夫<rt>ふう</rt>婦<rt>ふ</rt></ruby></code></font> Casal
 -   <font size="5"><code>ご<ruby>主<rt>しゅ</rt>人<rt>じん</rt></ruby>・だんなさん</code></font> Marido
     -   <font size="5"><code><ruby>夫<rt>おっと</rt></ruby></code></font> (Meu) marido

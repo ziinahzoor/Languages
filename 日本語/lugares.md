@@ -18,7 +18,7 @@
 -   `デパート` Loja de departamento
 -   `バスてい` Ponto de ônibus
 -   `しゅうてん` Última parada
--   `えき` Estação de trem
+-   <font size="5"><code><ruby>駅<rt>えき</rt></ruby></code></font> Estação de trem
 -   <font size="5"><code><ruby>学<rt>がっ</rt>校<rt>こう</rt></ruby></code></font> Escola
     -   `ようちえん` Jardim de infância
     -   <font size="5"><code><ruby>小<rt>しょう</rt>学<rt>がっ</rt>校<rt>こう</rt></ruby></code></font> Fundamental 1 (6 séries)
@@ -32,7 +32,7 @@
 -   `レストラン` Restaurante
     -   `ファミレス` Restaurante de família/Restaurante casual
 -   `キャンプ` Campo
--   `くうこう` Aeroporto
+-   <font size="5"><code><ruby>空<rt>くう</rt>港<rt>こう</rt></ruby></code></font> Aeroporto
 -   `とし` Cidade (City)
 -   `まち` Cidade (Town)
 -   `いなか` Interior/Área rural
@@ -150,6 +150,7 @@
 ## <ruby>家<rt>いえ</rt></ruby> - Casa
 
 -   `うち` (Minha) Casa
+-   <font size="5"><code>ご<ruby>在<rt>ざい</rt>宅<rt>たく</rt></ruby></code></font> Em casa/Estar em casa
 -   `アパート` Apartamento
 -   <font size="5"><code><ruby>部<rt>へ</rt>屋<rt>や</rt></ruby></code></font> Quarto/Cômodo
 -   <font size="5"><code><ruby>寝<rt>しん</rt>室<rt>しつ</rt></ruby></code></font> Quarto

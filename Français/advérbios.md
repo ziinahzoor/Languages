@@ -55,6 +55,7 @@
 -   `Longtemps` Por muito tempo
 -   `Immédiatement` Imediatamente
 -   `En solde` De promoção
+-   `En promotion` De promoção
 -   `Autour` Ao redor
 -   `Tellement` Tão (Intensidade)/Assim
 -   `Déjà` Já
@@ -81,6 +82,7 @@
 -   `En même temps` Ao mesmo tempo
 -   `Sérieusement` Seriamente
 -   `Pourtant` Porém/Entretanto/Mesmo assim
+-   `Clairement` Claramente
 
 ## Os Porquês
 

@@ -44,17 +44,26 @@
     -   `Possessivo`: Se refere à uma entidade baseado em sua relação com a pessoa gramatical. Ex.: "meu"; "teu"; "dele".
     -   `Reflexivo`: Usado quando se quer indicar que o sujeito e objeto da oração são a mesma entidade. Ex.: "si"; "consigo". Ex. (Inglês): "myself"; "yourself"; "ourselves".
     -   `Demonstrativo`: Indica as entidades de que se fala e as distinguem de outras entidades. Ex.: "este"; "aquelas".
+        -   `Proximal`: Indica uma entidade próxima ao locutor (primeira pessoa). Ex.: "este".
+        -   `Medial`: Indica uma entidade próxima ao ouvinte (segunda pessoa). Ex.: "esse".
+        -   `Distal`: Indica uma entidade que não está próxima nem do locutor e nem do ouvinte (terceira pessoa). Em linguagens que não possuem o demonstrativo medial, costuma ocupar seu lugar. Ex.: "aquele".
     -   `Recíproco`: Indica que duas ou mais entidades estão realizando a ação mutualmente. Ex.: "se". Ex. (Inglês): "each other"; "one another".
     -   `Relativo`: Introduz uma oração subordinada. Ex.: "que"; "quem"; "onde".
     -   `Interrogativo`: É utilizado para fazer perguntas. Ex.: "quem"; "o que"; "qual".
     -   `Indefinido`: Refere-se a entidades inespecíficas ou genéricas. Ex.: "alguém"; "nada"; "nunca"; "todos".
+        -   `Universal`: Refere-se a todas as entidades. Ex.: "todo".
+            -   `Distributivo`: Refere-se a todas as entidades individualmente. Ex.: "cada".
+        -   `Existencial`: Refere-se a uma única entidade específica. Ex.: "alguém".
+        -   `Eletivo ou existencial dubitativo`: Refere-se a uma única entidade não-específica. Ex.: "qualquer um".
+        -   `Negativo`: Não se refere a nenhuma entidade do tipo. Ex.: "ninguém".
+        -   `Alternativo`: Refere-se a uma entidade diferente da entidade referida anteriormente. Ex.: "um outro".
     -   `Honorífico` ou `de Tratamento`: Respeitoso, é utilizado comumente em situações formais. Ex.: "senhor"; "Vossa Magnificência". Ex. (Japonês): "さん"; "様".
 -   `Determinante`: Modificador de substantivos, sempre se liga a um. Descreve uma palavra indicando seu relacionamento com outros elementos.
     -   `Artigo`: Marca a identificabilidade dos substantivos.
         -   `Definido`: Especifica sobre qual entidade se fala. Ex.: "o"; "as".
         -   `Indefinido`: Não se especifica sobre qual entidade se fala, se refere a qualquer membro de sua classe. Ex.: "uma"; "uns".
         -   `Partitivo`: Parecido com o indefinido, mas serve para uma quantidade não especificada da classe de que se fala. Ex. (Francês): "du"; "de la"; "des".
-    -   `Demonstrativo`: Indica as entidades de que se fala e as distinguem de outras entidades. Ex.: "esse"; "aquele".
+    -   `Demonstrativo`: Indica as entidades de que se fala e as distinguem de outras entidades. Ex.: "esse"; "aquele". Assim como os pronomes, pode ser proximal, medial ou distal.
     -   `Possessivo`: Indica de quem é a posse do substantivo. Às vezes chamados "adjetivos possessivos". Ex.: "meu"; "seu"; "nosso".
     -   `Quantificador`: Indica o conjunto ou o número de entidades da classe que se descreve. Ex.: "cada"; "todo"; "algum".
 -   `Verbo`: Ação, ocorrência ou estado de ser descrito em uma oração. Define o predicado. Ex.: "ler"
