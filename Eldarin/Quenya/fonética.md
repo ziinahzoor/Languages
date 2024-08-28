@@ -1,10 +1,8 @@
 # Fonética e Fonologia
 
-## <span style="font-family: 'Tengwar Annatar', sans-serif;">zR5Ì#</span> - Quenya
-
 **Os sons não descritos aqui ocorrem como no português.**
 
-### Vogais
+## Vogais
 
 -   `a` [a]
 -   `á` [ä]
@@ -15,11 +13,11 @@
 -   `ó` [o:]
 -   `ú` [u:]
 
-### Ditongos
+## Ditongos
 
 -   `oi` [oɪ]
 
-### Consoantes
+## Consoantes
 
 -   `w` [v]
 -   `c` [k]
@@ -33,8 +31,6 @@
 -   `ly` [ʎ]
 -   `hy` [ç]
 
-### Outros sons
+## Outros sons
 
 -   `ht` [ç] depois de "i" e "e".
-
-## <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{\%7E5\%</span> - Sindarin

@@ -220,6 +220,7 @@
 -   `Estreno` Estreia 🚹
 -   `Peligro` Perigo
 -   `Electricidad` Eletricidade
+-   `Norma` Regra
 
 ### Medidas
 

@@ -1,4 +1,4 @@
-# Regras
+# <img src="https://flagsapi.com/DE/flat/32.png"> Deutsch - Alemão
 
 <table>
     <tr>

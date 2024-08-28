@@ -1,4 +1,4 @@
-# ルール - Regras
+# <img src="https://flagsapi.com/JP/flat/32.png"> 日本語 - Japonês
 
 <table>
     <tr>

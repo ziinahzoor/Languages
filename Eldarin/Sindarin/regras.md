@@ -1,4 +1,4 @@
-# <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{\%7E5\%</span> - Sindarin
+# <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Escudo_Real_de_Gondor.svg" height="32px"/> <span style="font-family: 'Tengwar Annatar', sans-serif;">82&#123;%7E5%</span> - Sindarin
 
 <table>
     <tr>

@@ -22,6 +22,7 @@
 -   `Cosa` Coisa
 -   `Aiuto` Ajuda 🚹
 -   `Domanda` Pergunta
+-   `Regola` Regra
 
 ### Condições
 

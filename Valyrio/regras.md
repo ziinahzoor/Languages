@@ -1,4 +1,4 @@
-# Regras
+# <img src="https://static.wikia.nocookie.net/gameofthrones/images/1/1e/House_Targaryen.svg/" height="32px"/> Valyrio - Alto Valiriano
 
 <table>
     <tr>

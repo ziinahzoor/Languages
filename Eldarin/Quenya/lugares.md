@@ -1,7 +1,5 @@
 # Lugares
 
-**O primeiro termo está em Quenya e o segundo em Sindarin.**
-
 -   `Ando` Portão
 -   `Talan(-m)` Chão
 -   `Osto` Cidade

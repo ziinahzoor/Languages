@@ -1,4 +1,4 @@
-# <span style="font-family: 'Tengwar Annatar', sans-serif;">zR5Ì#</span> - Quenya
+# <img src="https://64.media.tumblr.com/2c4631d35616c9c779fda8fa11055c70/tumblr_nq2rnnJDoq1u7d0zmo2_1280.png" height="32px"/> <span style="font-family: 'Tengwar Annatar', sans-serif;">zR5Ì#</span> - Quenya
 
 <table>
     <tr>

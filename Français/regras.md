@@ -1,4 +1,4 @@
-# Les Règles - Regras
+# <img src="https://flagsapi.com/FR/flat/32.png"> Français - Francês
 
 <table>
     <tr>

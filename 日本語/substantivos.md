@@ -247,6 +247,7 @@
 -   `ジャンル` Gênero
 -   `デザイン` Design
 -   <font size="5"><code><ruby>行<rt>ぎょう</rt></ruby></code></font> Linha
+-   `ルール` Regra
 
 ### Condições
 

@@ -1,4 +1,4 @@
-# Le Regole - Regras
+# <img src="https://flagsapi.com/IT/flat/32.png"> Italiano
 
 <table>
     <tr>

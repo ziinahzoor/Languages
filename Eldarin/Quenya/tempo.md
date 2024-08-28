@@ -1,7 +1,5 @@
 # <span style="font-family: 'Tengwar Annatar', sans-serif;">j~Mt$</span> (Lúmë) - Tempo
 
-**O primeiro termo está em Quenya e o segundo em Sindarin.**
-
 **O termo entre parênteses indica a forma da palavra quando recebe sufixos.**
 
 -   `Sí` Agora

@@ -1,7 +1,5 @@
 # Preposições
 
-**O primeiro termo está em Quenya e o segundo em Sindarin.**
-
 -   `Se` Em/No/Na
 -   `To` Em/No/Na (Em cima)
 -   `Ara` Ao lado

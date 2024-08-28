@@ -73,7 +73,7 @@
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 1.5rem">lE</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 1.5rem">lY</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 1.5rem">lU</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 1.5rem">.D</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 1.5rem">.F</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 1.5rem">.G</span> |
 
-# <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{\%7E5\%</span> - Sindarin (Modo de Gondor)
+# <span style="font-family: 'Tengwar Annatar', sans-serif;">82&#123;%7E5%</span> - Sindarin (Modo de Gondor)
 
 -   No Sindarin (Inglês e na Língua negra também), os `tehtar` são colocados na consoante que sucede a vogal. Se a palavra termina em vogal, o tehtar é colocado em um marcador de posição.
 -   As vogais são `a`, `e`, `i`, `o`, `u` e `y`.
@@ -93,7 +93,6 @@
 | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 1.5rem">]</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 1.5rem">l</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 1.5rem">`</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 1.5rem">h</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 1.5rem">.</span> | <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 1.5rem">i</span> |
 
 -   Vogais longas são índicadas por um acento `andaith`: <span style="font-family: 'Tengwar Annatar', sans-serif; font-size: 25px">.F</span> (uu/û/ú)
-
 -   Existem 6 ditongos:
 
 | ae                                                                                    | oe                                                                                    | ai                                                                                    | ei                                                                                    | ui                                                                                    | au/aw                                                                                 |

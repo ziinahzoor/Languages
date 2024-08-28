@@ -1,21 +1,19 @@
 # <span style="font-family: 'Tengwar Annatar', sans-serif;">j%`V</span> (Lië) - Pessoas
 
-**O primeiro termo está em Quenya e o segundo em Sindarin.**
-
 **O termo entre parênteses indica a forma da palavra quando recebe sufixos.**
 
 -   `Quendë` Elfos
-    -   `Elda` \| `Edhel` Elfo (que foi para Aman)
+    -   `Elda` Elfo (que foi para Aman)
     -   `Avar` Elfo (que não foi para Aman)
 -   `Nauco` Anão
--   `Atan` \| `Adan` Homem (Humano)
+-   `Atan` Homem (Humano)
 -   `Aran` Rei
--   `Tári` \| `Rían` Rainha
--   `Lië` \| `Gwaith` Pessoas/Povo
+-   `Tári` Rainha
+-   `Lië` Pessoas/Povo
     -   Também é um sufixo.
--   `Vendë` \| `Gwend` Donzela
--   `Nér(ner-)` \| `Dîr` Homem
--   `Nís(niss-)` \| `Dî` Mulher
+-   `Vendë` Donzela
+-   `Nér(ner-)` Homem
+-   `Nís(niss-)` Mulher
 -   `Nettë` Menina
 -   `Winë` Bebê
 -   `Samno` Construtor/Carpinteiro

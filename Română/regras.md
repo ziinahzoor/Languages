@@ -1,4 +1,4 @@
-# Regras
+# <img src="https://flagsapi.com/RO/flat/32.png"> Română - Romeno
 
 <table>
     <tr>

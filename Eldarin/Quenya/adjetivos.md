@@ -1,7 +1,5 @@
 # Adjetivos
 
-**O primeiro termo está em Quenya e o segundo em Sindarin.**
-
 -   `Vanya` Bonito
     -   Naturalmente, de maneira que pode ser abstrata
 -   `Vanima` Bonito

@@ -1,7 +1,5 @@
 # Advérbios
 
-## <span style="font-family: 'Tengwar Annatar', sans-serif;">zR5Ì#</span> - Quenya
-
 -   `Cé` Talvez
 -   `Nai` Que seja que.../Espero que...
     -   Expressa um desejo.
@@ -19,5 +17,3 @@
 -   `Náto` Verdade/Verdadeiramente/Sim
 -   `þá` Sim (para pedidos)/Ok
 -   `Naitië` Realmente/Verdadeiramente
-
-## <span style="font-family: 'Tengwar Annatar', sans-serif;">82\{\%7E5\%</span> - Sindarin

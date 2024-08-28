@@ -1,7 +1,5 @@
 # Comida
 
-**O primeiro termo está em Quenya e o segundo em Sindarin.**
-
 -   `Masta` Pão/Bolo
 -   `Tyur` Queijo
 -   `Ilin` Leite

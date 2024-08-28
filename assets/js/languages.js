@@ -4,8 +4,13 @@ const alphabets = {
 	subpages: [
 		{ page: 'aurabesh', displayName: 'Aurabesh (Star Wars)' },
 		{ page: 'braille', displayName: 'Braille' },
+		{ page: 'cirílico', displayName: 'Cirílico' },
 		{ page: 'daedric', displayName: 'Daedrico (Skyrim)' },
-		{ page: 'morse', displayName: 'Código Morse' }
+		{ page: 'helênico', displayName: 'Grego/Helênico' },
+		{ page: 'hiragana', displayName: 'Hiragana' },
+		{ page: 'katakana', displayName: 'Katakana' },
+		{ page: 'morse', displayName: 'Código Morse' },
+		{ page: 'tengwar', displayName: 'Tengwar' }
 	]
 }
 
@@ -13,6 +18,8 @@ const spanish = {
 	folder: 'Español',
 	displayName: 'Espanhol',
 	subpages: [
+		{ page: 'regras', displayName: '◆ Regras' },
+		{ page: 'fonética', displayName: '◆ Fonética e Fonologia' },
 		{ page: 'adjetivos', displayName: 'Adjetivos' },
 		{ page: 'advérbios', displayName: 'Advérbios' },
 		{ page: 'animais', displayName: 'Animais' },
@@ -23,7 +30,6 @@ const spanish = {
 		{ page: 'corpo', displayName: 'Corpo' },
 		{ page: 'dicas', displayName: 'Dicas' },
 		{ page: 'expressões', displayName: 'Expressões' },
-		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'números', displayName: 'Números' },
@@ -31,7 +37,6 @@ const spanish = {
 		{ page: 'preposições', displayName: 'Preposições' },
 		{ page: 'pronomes', displayName: 'Pronomes' },
 		{ page: 'regionalidades', displayName: 'Regionalidades' },
-		{ page: 'regras', displayName: 'Regras' },
 		{ page: 'roupas', displayName: 'Roupas' },
 		{ page: 'substantivos', displayName: 'Substantivos' },
 		{ page: 'tempo', displayName: 'Tempo' },
@@ -43,6 +48,8 @@ const french = {
 	folder: 'Français',
 	displayName: 'Francês',
 	subpages: [
+		{ page: 'regras', displayName: '◆ Regras' },
+		{ page: 'fonética', displayName: '◆ Fonética e Fonologia' },
 		{ page: 'adjetivos', displayName: 'Adjetivos' },
 		{ page: 'advérbios', displayName: 'Advérbios' },
 		{ page: 'animais', displayName: 'Animais' },
@@ -53,14 +60,12 @@ const french = {
 		{ page: 'corpo', displayName: 'Corpo' },
 		{ page: 'dicas', displayName: 'Dicas' },
 		{ page: 'expressões', displayName: 'Expressões' },
-		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'números', displayName: 'Números' },
 		{ page: 'pessoas', displayName: 'Pessoas' },
 		{ page: 'preposições', displayName: 'Preposições' },
 		{ page: 'pronomes', displayName: 'Pronomes' },
-		{ page: 'regras', displayName: 'Regras' },
 		{ page: 'roupas', displayName: 'Roupas' },
 		{ page: 'substantivos', displayName: 'Substantivos' },
 		{ page: 'tempo', displayName: 'Tempo' },
@@ -72,6 +77,8 @@ const german = {
 	folder: 'Deutsch',
 	displayName: 'Alemão',
 	subpages: [
+		{ page: 'regras', displayName: '◆ Regras' },
+		{ page: 'fonética', displayName: '◆ Fonética e Fonologia' },
 		{ page: 'adjetivos', displayName: 'Adjetivos' },
 		{ page: 'advérbios', displayName: 'Advérbios' },
 		{ page: 'animais', displayName: 'Animais' },
@@ -80,13 +87,11 @@ const german = {
 		{ page: 'conjunções', displayName: 'Conjunções' },
 		{ page: 'cores', displayName: 'Cores' },
 		{ page: 'dicas', displayName: 'Dicas' },
-		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'números', displayName: 'Números' },
 		{ page: 'pessoas', displayName: 'Pessoas' },
 		{ page: 'preposições', displayName: 'Preposições' },
-		{ page: 'regras', displayName: 'Regras' },
 		{ page: 'substantivos', displayName: 'Substantivos' },
 		{ page: 'verbos', displayName: 'Verbos' },
 	],
@@ -96,6 +101,8 @@ const italian = {
 	folder: 'Italiano',
 	displayName: 'Italiano',
 	subpages: [
+		{ page: 'regras', displayName: '◆ Regras' },
+		{ page: 'fonética', displayName: '◆ Fonética e Fonologia' },
 		{ page: 'adjetivos', displayName: 'Adjetivos' },
 		{ page: 'advérbios', displayName: 'Advérbios' },
 		{ page: 'animais', displayName: 'Animais' },
@@ -104,14 +111,12 @@ const italian = {
 		{ page: 'conjunções', displayName: 'Conjunções' },
 		{ page: 'cores', displayName: 'Cores' },
 		{ page: 'expressões', displayName: 'Expressões' },
-		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'números', displayName: 'Números' },
 		{ page: 'pessoas', displayName: 'Pessoas' },
 		{ page: 'preposições', displayName: 'Preposições' },
 		{ page: 'pronomes', displayName: 'Pronomes' },
-		{ page: 'regras', displayName: 'Regras' },
 		{ page: 'roupas', displayName: 'Roupas' },
 		{ page: 'substantivos', displayName: 'Substantivos' },
 		{ page: 'tempo', displayName: 'Tempo' },
@@ -123,9 +128,11 @@ const greek = {
 	folder: 'Ελληνικά',
 	displayName: 'Grego',
 	subpages: [
+		{ page: 'regras', displayName: '◆ Regras' },
+		{ page: '../helênico', displayName: '◆ Alfabeto' },
+		{ page: 'fonética', displayName: '◆ Fonética e Fonologia' },
 		{ page: 'adjetivos', displayName: 'Adjetivos' },
 		{ page: 'advérbios', displayName: 'Advérbios' },
-		{ page: 'alfabeto', displayName: 'Alfabeto' },
 		{ page: 'animais', displayName: 'Animais' },
 		{ page: 'comida', displayName: 'Comida' },
 		{ page: 'conjugações', displayName: 'Conjugações' },
@@ -133,13 +140,11 @@ const greek = {
 		{ page: 'cores', displayName: 'Cores' },
 		{ page: 'corpo', displayName: 'Corpo' },
 		{ page: 'cultura', displayName: 'Cultura' },
-		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'pessoas', displayName: 'Pessoas' },
 		{ page: 'preposições', displayName: 'Preposições' },
 		{ page: 'pronomes', displayName: 'Pronomes' },
-		{ page: 'regras', displayName: 'Regras' },
 		{ page: 'substantivos', displayName: 'Substantivos' },
 		{ page: 'verbos', displayName: 'Verbos' },
 	],
@@ -149,6 +154,10 @@ const japanese = {
 	folder: '日本語',
 	displayName: 'Japonês',
 	subpages: [
+		{ page: 'regras', displayName: '◆ Regras' },
+		{ page: '../Alfabetos/hiragana', displayName: '◆ Alfabeto - Hiragana' },
+		{ page: '../Alfabetos/katakana', displayName: '◆ Alfabeto - Katakana' },
+		{ page: 'fonética', displayName: '◆ Fonética e Fonologia' },
 		{ page: 'adjetivos', displayName: 'Adjetivos' },
 		{ page: 'advérbios', displayName: 'Advérbios' },
 		{ page: 'animais', displayName: 'Animais' },
@@ -159,19 +168,15 @@ const japanese = {
 		{ page: 'cores', displayName: 'Cores' },
 		{ page: 'corpo', displayName: 'Corpo' },
 		{ page: 'expressões', displayName: 'Expressões' },
-		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
-		{ page: 'hiragana', displayName: 'Hiragana' },
 		{ page: 'honoríficos', displayName: 'Honoríficos' },
 		{ page: 'kanji', displayName: 'Kanji' },
-		{ page: 'katakana', displayName: 'Katakana' },
 		{ page: 'keigo', displayName: 'Keigo' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'números', displayName: 'Números' },
 		{ page: 'partículas', displayName: 'Partículas' },
 		{ page: 'pessoas', displayName: 'Pessoas' },
 		{ page: 'pronomes', displayName: 'Pronomes' },
-		{ page: 'regras', displayName: 'Regras' },
 		{ page: 'roupas', displayName: 'Roupas' },
 		{ page: 'substantivos', displayName: 'Substantivos' },
 		{ page: 'tempo', displayName: 'Tempo' },
@@ -183,13 +188,13 @@ const chinese = {
 	folder: '中文',
 	displayName: 'Mandarim',
 	subpages: [
+		{ page: 'regras', displayName: '◆ Regras' },
+		{ page: 'fonética', displayName: '◆ Fonética e Fonologia' },
 		{ page: 'comida', displayName: 'Comida' },
 		{ page: 'conjugações', displayName: 'Conjugações' },
 		{ page: 'conjunções', displayName: 'Conjunções' },
-		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'pinyin', displayName: 'Pinyin' },
 		{ page: 'pronomes', displayName: 'Pronomes' },
-		{ page: 'regras', displayName: 'Regras' },
 		{ page: 'verbos', displayName: 'Verbos' },
 	]
 
@@ -199,11 +204,11 @@ const romanian = {
 	folder: 'Română',
 	displayName: 'Romeno',
 	subpages: [
+		{ page: 'regras', displayName: '◆ Regras' },
 		{ page: 'advérbios', displayName: 'Advérbios' },
 		{ page: 'números', displayName: 'Números' },
 		{ page: 'pessoas', displayName: 'Pessoas' },
 		{ page: 'preposições', displayName: 'Preposições' },
-		{ page: 'regras', displayName: 'Regras' },
 		{ page: 'verbos', displayName: 'Verbos' },
 	]
 }
@@ -212,14 +217,14 @@ const latin = {
 	folder: 'Latinum',
 	displayName: 'Latim',
 	subpages: [
+		{ page: 'regras', displayName: '◆ Regras' },
+		{ page: 'fonética', displayName: '◆ Fonética e Fonologia' },
 		{ page: 'advérbios', displayName: 'Advérbios' },
 		{ page: 'conjugações', displayName: 'Conjugações' },
 		{ page: 'dicas', displayName: 'Dicas' },
-		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'pessoas', displayName: 'Pessoas' },
-		{ page: 'regras', displayName: 'Regras' },
 		{ page: 'substantivos', displayName: 'Substantivos' },
 		{ page: 'verbos', displayName: 'Verbos' },
 	]
@@ -229,6 +234,8 @@ const highValyrian = {
 	folder: 'Valyrio',
 	displayName: 'Alto Valiriano',
 	subpages: [
+		{ page: 'regras', displayName: '◆ Regras' },
+		{ page: 'fonética', displayName: '◆ Fonética e Fonologia' },
 		{ page: 'adjetivos', displayName: 'Adjetivos' },
 		{ page: 'advérbios', displayName: 'Advérbios' },
 		{ page: 'animais', displayName: 'Animais' },
@@ -240,14 +247,12 @@ const highValyrian = {
 		{ page: 'corpo', displayName: 'Corpo' },
 		{ page: 'dicas', displayName: 'Dicas' },
 		{ page: 'expressões', displayName: 'Expressões' },
-		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'números', displayName: 'Números' },
 		{ page: 'pessoas', displayName: 'Pessoas' },
 		{ page: 'preposições', displayName: 'Preposições' },
 		{ page: 'pronomes', displayName: 'Pronomes' },
-		{ page: 'regras', displayName: 'Regras' },
 		{ page: 'roupas', displayName: 'Roupas' },
 		{ page: 'substantivos', displayName: 'Substantivos' },
 		{ page: 'tempo', displayName: 'Tempo' },
@@ -255,10 +260,12 @@ const highValyrian = {
 	],
 }
 
-const elvish = {
-	folder: 'Eldarin',
-	displayName: 'Élfico',
+const quenya = {
+	folder: 'Eldarin/Quenya',
+	displayName: 'Quenya',
 	subpages: [
+		{ page: 'regras', displayName: '◆ Regras' },
+		{ page: '../../Alfabetos/tengwar', displayName: '◆ Alfabeto - Tengwar' },
 		{ page: 'adjetivos', displayName: 'Adjetivos' },
 		{ page: 'advérbios', displayName: 'Advérbios' },
 		{ page: 'animais', displayName: 'Animais' },
@@ -274,12 +281,23 @@ const elvish = {
 		{ page: 'pessoas', displayName: 'Pessoas' },
 		{ page: 'preposições', displayName: 'Preposições' },
 		{ page: 'pronomes', displayName: 'Pronomes' },
-		{ page: 'quenya', displayName: 'Regras - Quenya' },
 		{ page: 'roupas', displayName: 'Roupas' },
-		{ page: 'sindarin', displayName: 'Regras - Sindarin' },
 		{ page: 'substantivos', displayName: 'Substantivos' },
 		{ page: 'tempo', displayName: 'Tempo' },
-		{ page: 'tengwar', displayName: 'Tengwar' },
+		{ page: 'verbos', displayName: 'Verbos' },
+	]
+}
+
+const sindarin = {
+	folder: 'Eldarin/Sindarin',
+	displayName: 'Sindarin',
+	subpages: [
+		{ page: 'regras', displayName: '◆ Regras' },
+		{ page: '../../Alfabetos/tengwar', displayName: '◆ Alfabeto - Tengwar' },
+		{ page: 'animais', displayName: 'Animais' },
+		{ page: 'conjugações', displayName: 'Conjugações' },
+		{ page: 'pessoas', displayName: 'Pessoas' },
+		{ page: 'pronomes', displayName: 'Pronomes' },
 		{ page: 'verbos', displayName: 'Verbos' },
 	]
 }
@@ -288,8 +306,8 @@ const klingon = {
 	folder: 'tlhIngan%20Hol',
 	displayName: 'Klingon',
 	subpages: [
+		{ page: '../Alfabetos/pIqaD', displayName: '◆ Alfabeto - pIqaD' },
 		{ page: 'frases', displayName: 'Frases' },
-		{ page: 'pIqaD', displayName: 'Alfabeto - pIqaD' },
 	]
 }
 
@@ -297,7 +315,7 @@ const draconic = {
 	folder: 'Dovahzul',
 	displayName: 'Dracônico',
 	subpages: [
-		{ page: 'runas', displayName: 'Runas' },
+		{ page: '../Alfabetos/dovahzul', displayName: '◆ Alfabeto - Runas Dracônicas' },
 	]
 }
 
@@ -313,7 +331,7 @@ const music = {
 
 
 const realLanguages = [german, spanish, french, greek, italian, japanese, latin, chinese, romanian];
-const fictionalLanguages = [highValyrian, draconic, elvish, klingon];
+const fictionalLanguages = [highValyrian, draconic, klingon, quenya, sindarin];
 const other = [alphabets, music];
 
 export const languages = [...realLanguages, ...fictionalLanguages, ...other];

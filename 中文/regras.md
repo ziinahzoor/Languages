@@ -1,4 +1,4 @@
-# Regras
+# <img src="https://flagsapi.com/CN/flat/32.png"> 中文 - Mandarim
 
 <table>
     <tr>

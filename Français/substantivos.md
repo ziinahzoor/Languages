@@ -347,6 +347,7 @@
 -   `Repos` Descanso
 -   `Publicité` Publicidade/Comercial
 -   `Marque` Marca
+-   `Règle` Regra
 
 ### Compras
 

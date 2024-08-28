@@ -1,4 +1,4 @@
-# Alfabeto
+# Alfabeto Helênico
 
 | Maíscula | Minúscula | Referente latina | Nome               |
 | -------- | --------- | ---------------- | ------------------ |

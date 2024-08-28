@@ -1,4 +1,4 @@
-# Las Normas - Regras
+# <img src="https://flagsapi.com/ES/flat/32.png"><img src="https://flagsapi.com/MX/flat/32.png"><img src="https://flagsapi.com/CL/flat/32.png"><img src="https://flagsapi.com/CO/flat/32.png"><img src="https://flagsapi.com/AR/flat/32.png"> Español - Espanhol
 
 <table>
     <tr>

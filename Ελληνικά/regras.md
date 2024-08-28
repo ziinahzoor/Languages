@@ -1,4 +1,4 @@
-# Regras
+# <img src="https://flagsapi.com/GR/flat/32.png"> Ελληνικά - Grego/Helênico
 
 <table>
     <tr>

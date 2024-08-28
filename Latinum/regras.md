@@ -1,4 +1,4 @@
-# Regras
+# <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_the_Roman_Empire.svg" height="32px"/> Latinum - Latim
 
 <table>
     <tr>
