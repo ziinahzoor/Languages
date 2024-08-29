@@ -2,15 +2,17 @@ const alphabets = {
 	folder: 'Alfabetos',
 	displayName: 'Alfabetos',
 	subpages: [
-		{ page: 'aurabesh', displayName: 'Aurabesh (Star Wars)' },
 		{ page: 'braille', displayName: 'Braille' },
 		{ page: 'cirílico', displayName: 'Cirílico' },
-		{ page: 'daedric', displayName: 'Daedrico (Skyrim)' },
+		{ page: 'morse', displayName: 'Código Morse' },
 		{ page: 'helênico', displayName: 'Grego/Helênico' },
 		{ page: 'hiragana', displayName: 'Hiragana' },
 		{ page: 'katakana', displayName: 'Katakana' },
-		{ page: 'morse', displayName: 'Código Morse' },
-		{ page: 'tengwar', displayName: 'Tengwar' }
+		{ page: 'aurabesh', displayName: 'Aurabesh (Star Wars)' },
+		{ page: 'daedric', displayName: 'Daedrico (Skyrim)' },
+		{ page: 'dovahzul', displayName: 'Dracônico (Skyrim)' },
+		{ page: 'pIqaD', displayName: 'Klingon (Star Trek)' },
+		{ page: 'tengwar', displayName: 'Tengwar (Terra Média)' }
 	]
 }
 
@@ -129,7 +131,7 @@ const greek = {
 	displayName: 'Grego',
 	subpages: [
 		{ page: 'regras', displayName: '◆ Regras' },
-		{ page: '../helênico', displayName: '◆ Alfabeto' },
+		{ page: '../Alfabetos/helênico', displayName: '◆ Alfabeto' },
 		{ page: 'fonética', displayName: '◆ Fonética e Fonologia' },
 		{ page: 'adjetivos', displayName: 'Adjetivos' },
 		{ page: 'advérbios', displayName: 'Advérbios' },
@@ -303,7 +305,7 @@ const sindarin = {
 }
 
 const klingon = {
-	folder: 'tlhIngan%20Hol',
+	folder: 'tlhIngan Hol',
 	displayName: 'Klingon',
 	subpages: [
 		{ page: '../Alfabetos/pIqaD', displayName: '◆ Alfabeto - pIqaD' },

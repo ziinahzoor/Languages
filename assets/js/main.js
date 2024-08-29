@@ -11,24 +11,37 @@ function onScroll() {
 		: 'flex';
 }
 
+function createPage(name, path) {
+	const page = document.createElement('li');
+	const link = document.createElement('a');
+	link.text = name;
+	link.href = path;
+	page.appendChild(link);
+	return page;
+}
+
 function addPages() {
 	const nav = document.getElementById('navigation');
 	const list = document.createElement('ul');
+	const mainPage = createPage('Página inicial', '/Languages/');
+	const grammarPage = createPage('Gramática', '/Languages/gramática');
+	const ipaPage = createPage('AFI (IPA)', '/Languages/ipa');
+	const testsPage = createPage('Provas', '/Languages/provas');
+	const utilsPage = createPage('Úteis', '/Languages/utils');
 
-	const index = document.createElement('li');
-	const linkIndex = document.createElement('a');
-	linkIndex.text = 'Página principal';
-	linkIndex.href = `/Languages/`;
-	index.appendChild(linkIndex);
-	list.appendChild(index);
+	[mainPage, grammarPage, ipaPage, testsPage, utilsPage].forEach(p => list.appendChild(p));
 
 	const path = decodeURIComponent(window.location.pathname.split('.html')[0]);
 	let currentPage;
 
-	if (path === '/Languages/') {
-		linkIndex.classList.add('selected-page');
-		currentPage = linkIndex;
-	}
+	[mainPage, grammarPage, ipaPage, testsPage, utilsPage].forEach(p => {
+		const anchor = p.querySelector('a');
+
+		if (encodeURI(path) === anchor.pathname) {
+			anchor.classList.add('selected-page');
+			currentPage = anchor;
+		}
+	});
 
 	for (let page of languages) {
 		const element = document.createElement('li');
@@ -49,7 +62,7 @@ function addPages() {
 			subelement.appendChild(sublink);
 			sublist.appendChild(subelement);
 
-			if (path.replaceAll(' ', '%20') === `/Languages/${page.folder}/${subpage.page}`) {
+			if (path === `/Languages/${page.folder}/${subpage.page}`) {
 				sublink.classList.add('selected-page');
 				menu.open = true;
 				menu.classList.add('selected-page');
