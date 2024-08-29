@@ -7,3 +7,4 @@
     -   Também é prefixo
 -   `Et` Fora de
     -   Usado com o ablativo
+-   `Ter/Terë` Através

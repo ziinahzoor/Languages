@@ -2,7 +2,7 @@
 
 ## Cabeça
 
--   `ぼうし` Chapéu
+-   <font size="5"><code><ruby>帽<rt>ぼう</rt>子<rt>し</rt></ruby></code></font> Chapéu
 -   `キャップ` Boné
 -   `めがね` Óculos
     -   `サングラス` Óculos de sol
@@ -34,10 +34,12 @@
 
 ## あし - Pernas
 
+-   `パンツ` Roupa de baixo
+-   `ズボン` Calça
 -   `ジーンズ` Jeans
 -   `ショートパンツ` Short
 -   `スカート` Saia
--   `くつ` Sapato
+-   <font size="5"><code><ruby>靴<rt>くつ</rt></ruby></code></font> Sapato
     -   `ブーツ` Bota
     -   `スニーカー` Tênis
     -   `サンダル` Sandália

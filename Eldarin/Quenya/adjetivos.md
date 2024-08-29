@@ -37,3 +37,9 @@
 -   `Poldórëa` Forte (fisicamente)
 -   `Tella` Último
 -   `Awalda` Empolgado
+-   `Vanwa` Perdido/Morto
+-   `Exa` Outro
+-   `Nairëa` Triste/Ressentido
+-   `Rácina` Quebrado/Arruinado
+-   `Rúcina` Despedaçado/Desordenado
+-   `Ruxa` Bravo/Irritado

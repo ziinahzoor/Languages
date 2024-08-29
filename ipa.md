@@ -1,4 +1,4 @@
-# IPA - Alfabeto Fonético Internacional
+# AFI (IPA) - Alfabeto Fonético Internacional
 
 **Indica o som em qualquer língua.**
 

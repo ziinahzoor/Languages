@@ -209,3 +209,4 @@
 -   `Suffisant` Suficiente
 -   `Cool` Legal
 -   `Bête` Besta/Bobo
+-   `Terrible` Terrível

@@ -2,6 +2,7 @@
 
 -   `Ná-/Na-` Ser/Estar
     -   Só é obrigatório quando carrega um sufixo pronomial ou é flexionado em tempo.
+-   `Lá-` Não ser/Não estar
 -   `Mapa-` Agarrar
 -   `Tir-` Guardar/Observar
 -   `Lala-` Rir
@@ -17,6 +18,7 @@
 -   `Quet-` Falar/Dizer
 -   `Mel-` Amar (Philia)
 -   `Cen-` Ver
+-   `Tolu-` Levantar
 -   `Orta-` Levantar/Ascender
 -   `Harya-` Ter/Possuir
 -   `Sam-` Ter
@@ -65,3 +67,16 @@
 -   `Col-` Carregar/Suportar
 -   `Rer-` Semear/Espalhar
 -   `Varya-` Proteger
+-   `Naina-` Lamentar
+-   `Nurru-` Resmungar
+-   `Hlar-` Ouvir
+-   `Holya-` Fechar
+-   `Ol-` Se tornar
+-   `Cesta-` Buscar/Procurar
+-   `Enyal-` Lembrar/Relembrar
+-   `Húta-` Xingar
+-   `Carpa-` Falar
+-   `Entul-` Retornar
+-   `Narca-` Rasgar
+-   `Raf-` Roubar/Tomar
+-   `Uhta-` Desgostar

@@ -20,6 +20,11 @@
 -   `Coq` Galo
 -   `Poule` Galinha
 -   `Dinosaure` Dinossauro
+-   `Serpent` Cobra 🚹
+-   `Rat` Rato
+-   `Insecte` Inseto
+-   `Lion` Leão
+-   `Canard` Pato
 
 ## Relacionado
 

@@ -41,6 +41,7 @@
 -   `Ici/Ci` Aqui
 -   `Là` Lá/Ali
     -   `Là-bas` Lá (longe)
+-   `Dedans` Dentro
 -   `Dehors` De fora
 -   `À côté` Perto/Próximo (Ao lado)
 -   `Près` Perto/Próximo
@@ -187,6 +188,9 @@
 -   `Salle d'attente` Sala de espera
 -   `Espace` Espaço
 -   `Cafétéria` Cafeteria
+-   `Cabine d'essayage` Provador 🚺
+-   `Sortie` Saída
+-   `Zone` Área/Zona
 
 ## France - França
 

@@ -154,19 +154,30 @@
 
 ## Demonstrativos
 
--   `Ta` Isso
+**Aceitam sufixos de caso.**
+
 -   `Sina` Este
 -   `Tana` Esse
+-   `Enta` Aquele
+-   `Si` Isto
+-   `Ta` Isso
+-   `En` Aquilo
 
 ## Relativos
 
+**Aceitam sufixos de caso.**
+
 -   `Ya` Que/O qual/A qual (Coisas)
 -   `Yë` Que/O qual/A qual (Pessoas)
+-   `I` Que/Os quais/As quais (Plural para coisas e pessoas)
+    -   Às vezes é utilizado como o singular de ambos
 -   `Yen` Para quem
 
 ## Indefinidos
 
 -   `Ilya` Todo/Cada
+-   `Quen/Quén` Alguém
+-   `Aiqua` Qualquer coisa
 
 ## Interrogativos
 

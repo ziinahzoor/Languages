@@ -15,6 +15,7 @@
 
 ## Lugares Relativos
 
+-   `Sinomë` Aqui
 -   `Nu` Embaixo
 -   `Enda` Centro
 -   `Endë` Meio

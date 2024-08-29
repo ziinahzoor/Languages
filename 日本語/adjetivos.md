@@ -138,7 +138,7 @@
 
 **São adjetivos usados relacionados a sentimentos, onde em outras linguagens geralmente são verbos.**
 
--   `ほしい` Querível
+-   <font size="5"><code><ruby>欲<rt>ほ</rt></ruby>しい</code></font> Querível
 -   <font size="5"><code><ruby>好<rt>す</rt>き</ruby></code></font> Gostável `な`
     -   <font size="5"><code><ruby>大<rt>だい</rt>好<rt>す</rt>き</ruby></code></font> Amável `な`
 -   <font size="5"><code><ruby>嫌<rt>きら</rt>い</ruby></code></font> Desgostável/Odiável `な`

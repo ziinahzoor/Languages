@@ -106,7 +106,7 @@
 
 ## Negação
 
--   Usa-se `ui` ou `lá` antes do verbo para negar fatos.
+-   Usa-se `ui` ou `lá/la` antes do verbo para negar fatos.
     -   Em frases copulativas, essa negação em si funciona como cópula, não sendo necessário usar o verbo copulativo. Nesse caso, a negação também pode ser flexionada em tempo.
 -   Usa-se `vá` antes do verbo para recusas e proibições.
 -   Independente da forma, os sufixos pronomiais se ligam à negação ao invés do verbo.
@@ -123,7 +123,8 @@
 
 -   Indica uma parte de um todo.
 -   Existe pouca informação sobre este plural.
--   É formado por sufixar `-li` à palavra. Ex.: `Eldali` "Alguns elfos"
+-   É formado por sufixar `-li` à palavra (`-eli` se terminada em consoante que não seja "l"). Ex.: `Eldali` "Alguns elfos".
+    -   Em palavras terminadas em `-n`, este se torna `-l` ao usar o partitivo.
 
 ### Plural
 
@@ -135,8 +136,9 @@
 ### Dual
 
 -   É usado para pares de coisas.
--   Geralmente é usado com pares naturais. Ex.: Lábios
--   Adiciona-se `-t`. Caso a palavra tenha "t" ou "d" (ou alguma consoante em alguns casos), adiciona-se (ou substitui-se caso termine em vogal) `-u`.
+-   Para pares naturais usa-se o dual-u: Adiciona-se (ou substitui-se caso termine em vogal) `-u`. Ex.: Lábios, mãos.
+-   Para outros pares utiliza-se o dual-t: Adiciona-se `-t` ou `-et` se termina em consoante. Caso a palavra tenha "t" ou "d" (ou alguma consoante em alguns casos), geralmente se usa o dual-u.
+-   Somente adjetivos não possuem forma dual.
 
 ## Adjetivos
 
@@ -172,41 +174,53 @@
 
 ### Genitivo
 
+-   Denota origem. Ex.: "O melhor ferreiro DA Terra-Média".
 -   Se termina em `-a` ou `-o`, substitui-se a vogal por `-o`.
 -   Se termina em `-ië`, substitui-se por `-io`.
 -   Em outros casos, adiciona-se `-o`.
--   Plural: `-on`
--   Denota origem. Ex.: "O melhor ferreiro DA Terra-Média".
+-   Plural: `-on`.
+-   Dual: `-to`.
 
 ### Possessivo
 
--   Se termina em vogal, adiciona-se `-va`. Do contrário, adiciona-se `-wa`.
 -   Denota posse. Ex.: "O martelo DO ferreiro".
+-   Se termina em `-l`, `-n`, `-r` ou `-t`, adiciona-se `-wa`. Do contrário, adiciona-se `-va`.
+-   Plural: `-iva`.
+-   Dual: `-hta`.
+-   Se o possuído está no plural, o possuidor é flexionado em número também.
 
 ### Dativo
 
 -   Adiciona-se `-n`. `-en` se termina em consoante.
 -   Plural: `-in`.
+-   Dual: `-nt`.
 
 ### Instrumental
 
+-   Não é comitativo: não demarca com quem a ação acontece. Neste caso usa-se as preposições `as` e `ó`.
 -   Adiciona-se `-nen`.
+-   Plural: `-inen`.
+-   Dual: `-nten`.
 
 ### Locativo
 
 -   Adiciona-se `-ssë` (`-essë` se termina em consoante).
--   Plural: `-ssen`.
 -   Se termina em `-l` ou `-r` usa-se `-dë`.
+-   Plural: `-ssen`.
+-   Dual: `-tsë`.
 
 ### Alativo
 
 -   Adiciona-se `-nna` (`-enna` se termina em consoante).
 -   Plural: `-nnar` (`-innar` se termina em consoante).
+-   Dual: `-nta`.
 -   Se a raíz termina em `-n` esse se junta ao sufixo.
 
 ### Ablativo
 
 -   Adiciona-se `-llo`.
+-   Plural: `-llon`.
+-   Dual: `-lto`.
 
 ### Respectivo
 

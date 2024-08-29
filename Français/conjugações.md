@@ -41,7 +41,7 @@
         <th colspan="8"><a href="#imperatif">Imperativo</a></th>
     </tr>
     <tr>
-        <th colspan="8"><a href="#participe-present">Gerúndio</a></th>
+        <th colspan="8"><a href="#gerondif">Gerúndio</a></th>
     </tr>
     <tr>
         <th><a href="#participe">Particípio</a></th>
@@ -334,6 +334,13 @@
 | Tu      | sois   | aie   | veuille  | sache   |
 | Nous    | soyons | ayons | voulions | sachons |
 | Vous    | soyez  | ayez  | vouliez  | sachez  |
+
+---
+
+<h1 id="var_gerondif">Le Gérondif - Gerúndio</h1>
+
+-   É formado por `en` + particípio do presente.
+-   Atua tanto substantivamente quanto adverbialmente. Ex.: `En faisant` "fazendo" ou "ao fazer".
 
 ---
 

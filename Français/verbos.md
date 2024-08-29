@@ -22,6 +22,10 @@
     -   `Faire du vélo` Andar de bicicleta
     -   `Se faire mal` Se machucar
     -   `Faire le ménage` Limpar a casa
+    -   `Faire les bagages` Fazer as malas
+    -   `Faire un rêve` Sonhar
+    -   `Faire un cauchemar` Ter um pesadelo
+    -   `Faire la queue` Fazer fila/Esperar na fila
 -   `Attendre` Esperar
 -   `Dire` Dizer
 -   `Mettre` Colocar
@@ -208,6 +212,7 @@
 -   `Désirer` Desejar
 -   `Supposer` Supor
 -   `Déranger` Incomodar/Perturbar
+-   `Crier` Gritar
 
 ## -ir Verbes
 

@@ -17,3 +17,5 @@
 -   `Náto` Verdade/Verdadeiramente/Sim
 -   `þá` Sim (para pedidos)/Ok
 -   `Naitië` Realmente/Verdadeiramente
+-   `Quiquië` Em qualquer momento/Sempre que
+-   `Tensi` Já/Até agora

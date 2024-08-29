@@ -30,6 +30,7 @@
 -   `Salpa` Tigela
 -   `Yulma` Copo
 -   `Olpe` Garrafa
+-   `Tamma` Ferramenta
 
 ## Abstratos
 
@@ -40,6 +41,8 @@
 -   `Alcar` Glória/Radiância
 -   `Inwalmë` Humor
 -   `Massë` Porção
+-   `Engwë` Coisa/Objeto
+-   `Hlóna` Barulho
 
 ## Transporte
 

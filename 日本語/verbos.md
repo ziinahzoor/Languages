@@ -148,11 +148,11 @@
 -   `さく` Florescer
 -   `すく` Esvaziar
     -   `おなかがすく` Ter fome
--   `はく` Vestir/Calçar/Usar (Parte inferior)
+-   <font size="5"><code><ruby>履<rt>は</rt></ruby>く</code></font> Vestir/Calçar/Usar (Parte inferior)
 -   <font size="5"><code><ruby>働<rt>はたら</rt>く</ruby></code></font> Trabalhar
 -   <font size="5"><code><ruby>泳<rt>およ</rt>ぐ</ruby></code></font> Nadar
 -   `いそぐ` Apressar
--   `ぬぐ` Despir/Tirar (roupa)
+-   <font size="5"><code><ruby>脱<rt>ぬ</rt></ruby>ぐ</code></font> Despir/Tirar (roupa)
 -   <font size="5"><code><ruby>死<rt>し</rt>ぬ</ruby></code></font> Morrer
     -   Único verbo terminado em `ぬ`.
 -   <font size="5"><code><ruby>休<rt>やす</rt></ruby>む</code></font> Descansar
@@ -212,7 +212,7 @@
 -   `おどる` Dançar
 -   <font size="5"><code><ruby>泊<rt>と</rt></ruby>まる</code></font> Ficar (em algum lugar)
 -   <font size="5"><code><ruby>止<rt>と</rt></ruby>まる</code></font> Parar (Mais usado pra objetos)
--   `あらう` Lavar
+-   <font size="5"><code><ruby>洗<rt>あら</rt></ruby>う</code></font> Lavar
 -   <font size="5"><code><ruby>分<rt>わ</rt>かる</ruby></code></font> Entender
     -   Geralmente acompanha o `が`
 -   `わたる` Atravessar/Cruzar
@@ -230,7 +230,7 @@
 -   `なおる` Recuperar/Curar
 -   `ぬる` Aplicar/Pintar
     -   Serve para remédios
--   `かぶる` Vestir/Usar (Na cabeça)
+-   <font size="5"><code><ruby>被<rt>かぶ</rt></ruby>る</code></font> Vestir/Usar (Na cabeça)
 
 ## 一段 - Ichidan
 
@@ -267,7 +267,7 @@
 -   `つける` Ligar (Luz, aparelho)
 -   `かたづける` Limpar/Organizar
 -   `おくれる` Atrasar
--   `きる` Vestir/Usar (Parte superior ou roupa completa)
+-   <font size="5"><code><ruby>着<rt>き</rt></ruby>る</code></font> Vestir/Usar (Parte superior ou roupa completa)
 -   `きがえる` Trocar de roupa
 -   `わすれる` Esquecer
 -   `なでる` Carinhar/Pentear

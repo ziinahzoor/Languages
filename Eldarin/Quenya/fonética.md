@@ -23,6 +23,7 @@
 -   `c` [k]
 -   `þ` [θ] ou [s]. O último é mais recente.
 -   `qu` [kw]
+-   `x` [ks]
 -   `hw` [ʍ]
 -   `hr` [ˈr̥]
 -   `hl` [ɬ]
