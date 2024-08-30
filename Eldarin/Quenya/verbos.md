@@ -37,14 +37,14 @@
 -   `Ap-` Afetar/Preocupar/Tocar (figurativamente)
 -   `Raf-` Roubar/Tomar
 -   `Enyal-` Lembrar/Relembrar
--   `Ol-` Se tornar
+-   `Ol-` Tornar-se
 -   `Hlar-` Ouvir
 -   `Sam-` Ter
 -   `Ham-` Sentar
 -   `Yul-` Beber
 -   `Um-` Abundar/Fervilhar
 -   `Tuv-` Achar/Encontrar
--   `Ócom-` Se encontrar com
+-   `Ócom-` Encontrar-se com
 -   `Quer-` Virar
 -   `Apsen-` Perdoar
 
@@ -103,7 +103,7 @@
 -   `Calya-` Iluminar
 -   `Tatalla-` Admirar/Estimar
 -   `Quíta-` Supor/Adivinhar
--   `Nantalta-` Se recostar/Se reclinar
+-   `Nantalta-` Recostar-se/Reclinar-se
 -   `Nwalya-` Atormentar/Machucar
 -   `Cuita-` Acordar
 -   `Comya-` Coletar

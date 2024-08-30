@@ -10,6 +10,8 @@
 -   `Σούπα` Sopa
 -   `Πάπρικα` Páprica
 -   `Σπαγγέτι` Espaguete ✴️
+-   `Ψωμί` Pão ✴️
+-   `Ξύδι` Vinagre ✴️
 
 ## Frutas
 
@@ -21,3 +23,4 @@
 
 -   `Νερό` Água ✴️
 -   `Ούζο` Uzo/Ouzo (Bebida alcoólica feita com anis) ✴️
+-   `Καφές` Café

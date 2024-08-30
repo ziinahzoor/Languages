@@ -5,6 +5,7 @@
 -   `Βάζο` Vaso ✴️
 -   `Τσιγάρο` Cigarro ✴️
 -   `Θρόνος` Trono
+-   `Τηλέφωνο` Telefone ✴️
 
 ## Abstrato
 
@@ -13,3 +14,7 @@
 ## Atividades
 
 -   `Βίντεο` Vídeo ✴️
+
+## Transporte
+
+-   `Ταξί` Táxi ✴️

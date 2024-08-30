@@ -9,7 +9,7 @@
 -   `Prendre` Pegar
     -   `Prendre soin` Cuidar
     -   `Prendre rendez-vous` Marcar consulta
-    -   `Prendre des nouvelles` Receber notícias/Se informar/Checar (alguém)
+    -   `Prendre des nouvelles` Receber notícias/Informar-se/Checar (alguém)
 -   `Apprendre` Aprender
     -   `S'apprendre` Ensinar
 -   `Comprendre` Entender
@@ -20,7 +20,7 @@
 -   `Faire` Fazer
     -   `Faire du sport` Exercitar
     -   `Faire du vélo` Andar de bicicleta
-    -   `Se faire mal` Se machucar
+    -   `Se faire mal` Machucar-se
     -   `Faire le ménage` Limpar a casa
     -   `Faire les bagages` Fazer as malas
     -   `Faire un rêve` Sonhar
@@ -32,7 +32,7 @@
 -   `Peindre` Pintar
 -   `Connaitre` Conhecer
 -   `Entendre` Ouvir
-    -   `S'entendre` Se entender (com alguém)
+    -   `S'entendre` Entender-se (com alguém)
 -   `Croire` Acreditar/Crer
 -   `Répondre` Responder
 -   `Éteindre` Apagar/Desligar
@@ -43,7 +43,7 @@
 -   `Sourire` Sorrir
 -   `Teindre` Tingir
 -   `Perdre` Perder
-    -   `Se perdre` Se perder
+    -   `Se perdre` Perder-se
 -   `Vivre` Viver
 -   `Cuire` Cozinhar/Cozer (Forma de preparo, não o ato de preparar a comida)
 -   `Rompre` Romper/Quebrar/Terminar (um relacionamento)
@@ -53,7 +53,7 @@
 ## -er Verbes
 
 -   `Manger` Comer
--   `S'appeller` Se chamar
+-   `S'appeller` Chamar-se
 -   `Parler` Falar
 -   `Habiter` Morar
 -   `Étudier` Estudar
@@ -113,14 +113,14 @@
 -   `Réserver` Reservar
 -   `Renvenser` Derrubar/Derramar
 -   `Se réveiller` Acordar
--   `Se lever` Se levantar
--   `S'allonger` Se deitar
--   `Se coucher` Se deitar (Para dormir)
--   `Se préparer` Se preparar
--   `Se brosser` (Se) escovar
--   `Se coiffer` Se pentear
--   `Se noyer` Se afogar
--   `S'habiller` Se vestir
+-   `Se lever` Levantar-se
+-   `S'allonger` Deitar-se/Reclinar-se/Recostar-se
+-   `Se coucher` Deitar-se (Para dormir)
+-   `Se préparer` Preparar-se
+-   `Se brosser` Escovar(-se)
+-   `Se coiffer` Pentear-se
+-   `Se noyer` Afogar-se
+-   `S'habiller` Vestir-se
 -   `Se reposer` Descansar/Repousar
 -   `Neiger` Nevar
 -   `Porter` Vestir
@@ -172,7 +172,7 @@
 -   `Skier` Esquiar
 -   `Goûter` Provar/Experimentar
     -   `Gouter` Pós-reforma de 90
--   `Déménager` Se mudar
+-   `Déménager` Mudar-se
 -   `Espérer` Esperar/Ter esperança
 -   `Dîner` Jantar
 -   `Télécharger` Baixar
@@ -184,20 +184,20 @@
 -   `Retirer` Retirar
 -   `Annuler` Cancelar
 -   `Économiser` Economizar
--   `Se dépêcher` Se apressar
+-   `Se dépêcher` Apressar-se
 -   `Rater` Errar/Perder/Falhar
 -   `Réparer` Reparar
 -   `Se garer` Estacionar
 -   `Allumer` Acender/Ligar
 -   `Ranger` Arrumar
--   `S'intéresser` Se interessar
+-   `S'intéresser` Interessar-se
 -   `Créer` Criar
 -   `Rêver` Sonhar
 -   `Pleurer` Chorar
 -   `Casser` Quebrar
 -   `Pousser` Empurrar
 -   `Blesser` Machucar/Ferir
-    -   `Se blesser` Se machucar
+    -   `Se blesser` Machucar-se
 -   `Se manquer` Sentir saudade/falta
     -   Funciona ao contrário do português: `je vous manque` é "você sente minha falta"
 -   `Surfer` Surfar
@@ -205,7 +205,7 @@
 -   `Jeter` Lançar/Jogar fora
 -   `Laisser` Deixar
 -   `Brancher` Conectar/Plugar
--   `S'habituer` Se acostumar
+-   `S'habituer` Acostumar-se
 -   `Enseigner` Ensinar
 -   `Remercier` Agradecer
 -   `Accepter` Aceitar
@@ -241,7 +241,7 @@
 -   `Souvenir` Lembrar
 -   `Mourir` Morrer
 -   `Mentir`
--   `Devenir` Se tornar
+-   `Devenir` Tornar-se
 -   `Vieillir` Envelhecer
 -   `Grandir` Crescer
 -   `Remplir` Encher

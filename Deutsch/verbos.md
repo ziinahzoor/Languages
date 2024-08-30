@@ -10,7 +10,7 @@
 -   `Nehmen` Pegar
 -   `Kochen` Cozinhar
 -   `Schwimmen` Nadar
--   `Heißen` Se chamar
+-   `Heißen` Chamar-se
 -   `Sprechen` Falar
 -   `Haben` Ter
 -   `Lieben` Amar

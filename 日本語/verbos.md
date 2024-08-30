@@ -96,7 +96,7 @@
 -   `ある` Existir
     -   `ござる` Teneigo (Yodan, arcaico). Origem do ございます.
     -   Forma `nai`: `ない`
--   `なる` (Se) Tornar
+-   `なる` Tornar(-se)
 -   `がる` Parecer/Sentir que
     -   Verbo auxiliar para descrever o que a outra pessoa está sentindo.
 -   <font size="5"><code><ruby>言<rt>い</rt></ruby>う</code></font> Dizer/Contar
@@ -121,7 +121,7 @@
 -   <font size="5"><code><ruby>出<rt>だ</rt></ruby>す</code></font> Tirar
     -   "Começar a" quando ligado a outro verbo.
 -   <font size="5"><code><ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>す</code></font> Retirar
--   `ひっこす` Se mudar
+-   `ひっこす` Mudar-se
 -   `おす` Empurrar
 -   `さがす` Procurar
 -   `おとす` Derrubar/Derramar/Deixar cair
@@ -164,7 +164,7 @@
 -   `こむ` Lotar/Ficar cheio
     -   Geralmente usado na forma `ている`
 -   <font size="5"><code><ruby>読<rt>よ</rt></ruby>む</code></font> Ler
--   `たのしむ` Se divertir/Se satisfazer
+-   `たのしむ` Divertir-se/Satisfazer-se
 -   `よぶ` Chamar/Convidar
 -   <font size="5"><code><ruby>遊<rt>あそ</rt>ぶ</ruby></code></font> Passar tempo/Brincar/Jogar
 -   `まなぶ` Aprender
@@ -222,7 +222,7 @@
 -   `まがる` Virar/Curvar
 -   `おくる` Mandar/Enviar
 -   `まわる` Girar/Andar em volta/Transitar
--   `おこる` Se irritar
+-   `おこる` Irritar-se
 -   `がんばる` Fazer o melhor/Persistir/Perseverar
 -   `やる` Fazer/Dar
     -   Mais utilizado informalmente e para ações físicas feitas ativamente.
@@ -244,7 +244,7 @@
 -   <font size="5"><code><ruby>出<rt>で</rt>かける</ruby></code></font> Sair (Para algum lugar)
 -   <font size="5"><code><ruby>起<rt>お</rt>きる</ruby></code></font> Acordar
 -   <font size="5"><code><ruby>寝<rt>ね</rt>る</ruby></code></font> Dormir
--   <font size="5"><code><ruby>浴<rt>あ</rt>びる</ruby></code></font> Se banhar
+-   <font size="5"><code><ruby>浴<rt>あ</rt>びる</ruby></code></font> Banhar-se
     -   Além do sentido literal, também pode ser de sol, de luz ou outra coisa.
 -   `できる` Poder/Ser capaz
     -   Geralmente acompanha o `が`
@@ -275,7 +275,7 @@
 -   <font size="5"><code><ruby>開<rt>あ</rt></ruby>ける</code></font> Abrir (T)
 -   <font size="5"><code><ruby>閉<rt>し</rt>める</ruby></code></font> Fechar (T)
 -   <font size="5"><code><ruby>止<rt>や</rt></ruby>める</code></font> Parar/Finalizar/Descontinuar
--   <font size="5"><code><ruby>辞<rt>や</rt></ruby>める</code></font> Se demitir/Se retirar/Sair
+-   <font size="5"><code><ruby>辞<rt>や</rt></ruby>める</code></font> Demitir-se/Retirar-se/Sair
 -   `こわれる` Quebrar (I)
 -   `やってみる` Experimentar/Tentar
 -   `すぎる` Passar/Ir além

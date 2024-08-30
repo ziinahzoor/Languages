@@ -17,7 +17,7 @@
     -   Geralmente não é usado com pessoas.
 -   `Amar`
 -   `Llamar` Chamar
-    -   `Llamarse` Se chamar
+    -   `Llamarse` Chamar-se
 -   `Caminar` Andar
 -   `Comprar`
 -   `Estudiar` Estudar
@@ -37,10 +37,10 @@
 -   `Limpiar` Limpar
 -   `Nadar`
 -   `Dibujar` Desenhar
--   `Ducharse` Se banhar
+-   `Ducharse` Banhar-se
 -   `Lavar`
--   `Lavarse` Se lavar
--   `Levantarse` Se levantar
+-   `Lavarse` Lavar-se
+-   `Levantarse` Levantar-se
 -   `Pintar`
 -   `Empezar` Começar (Espanha)
 -   `Comenzar` Começar (América Latina)
@@ -61,7 +61,7 @@
 -   `Nevar`
 -   `Viajar`
 -   `Cantar`
--   `Quedar` Ficar/Se juntar
+-   `Quedar` Ficar/Juntar-se
 -   `Cambiar` Trocar
 -   `Pensar`
 -   `Ahogar` Afogar
@@ -80,8 +80,8 @@
 -   `Olvidar` Esquecer
 -   `Alquilar` Alugar
 -   `Fumar`
--   `Sentarse` Se sentar
--   `Preocuparse` Se preocupar
+-   `Sentarse` Sentar-se
+-   `Preocuparse` Preocupar-se
 -   `Parar`
 -   `Estrellar` Bater (contra alguma coisa)
 -   `Invitar` Convidar
@@ -146,7 +146,7 @@
     -   `Verse` Olhar/Parecer
 -   `Doler` Doer
 -   `Poner` Por/Colocar
-    -   `Ponerse` Vestir/Calçar/Se sentir
+    -   `Ponerse` Vestir/Calçar/Sentir-se
 -   `LLover` Chover
 -   `Poder`
 -   `Perder`
@@ -189,4 +189,4 @@
 -   `Repetir`
 -   `Ocurrir` Ocorrer
 -   `Decidir`
--   `Vestirse` Se vestir
+-   `Vestirse` Vestir-se
