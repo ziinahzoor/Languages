@@ -3,14 +3,10 @@
 -   `Ná-/Na-` Ser/Estar
     -   Só é obrigatório quando carrega um sufixo pronomial ou é flexionado em tempo.
 -   `Lá-` Não ser/Não estar
--   `Mapa-` Agarrar
--   `Tir-` Guardar/Observar
--   `Lala-` Rir
--   `Caita-` Repousar/Jazer
--   `Tulta-` Chamar/Convocar
--   `Linda-` Cantar
+
+## Básicos
+
 -   `Mat-` Comer
--   `Cenda-` Ler
 -   `Sil-` Brilhar (com luz branco ou prata)
 -   `Hir-` Encontrar/Achar
 -   `Cap-` Pular
@@ -18,45 +14,68 @@
 -   `Quet-` Falar/Dizer
 -   `Mel-` Amar (Philia)
 -   `Cen-` Ver
--   `Tolu-` Levantar
--   `Orta-` Levantar/Ascender
--   `Harya-` Ter/Possuir
--   `Sam-` Ter
--   `Ham-` Sentar
--   `Yul-` Beber
--   `Caita-` Deitar/Estar deitado
-    -   Estar em uma posição horizontal
 -   `Tar-` Ficar/Estar em pé
--   `Lemya-` Ficar/Permanecer
 -   `Men-` Ir
--   `Poita-` Limpar
 -   `Ser-` Descansar
 -   `Lir-` Cantar
--   `Lahta-` Atravessar
 -   `Nor-` Correr/Saltar
 -   `Mer-` Querer
 -   `Tul-` Vir/Chegar
 -   `Car-` Fazer/Construir
--   `Telya-` Terminar/Concluir
--   `Anya-` Chegar
--   `Hententa-` Localizar (com os olhos)
--   `Pata-` Andar
+-   `Nancar-` Desfazer/Destruir
 -   `Nyar-` Contar/Relacionar
--   `Hora-` Esperar por
 -   `Aquet-` Responder
 -   `Par-` Aprender/Estudar
+-   `Nav-` Julgar
+-   `Tyal-` Brincar
+-   `Pas-` Suavizar
+-   `Yal-` Chamar
+-   `Entul-` Retornar
+-   `Tir-` Guardar/Observar
+-   `Col-` Carregar/Suportar
+-   `Rer-` Semear/Espalhar
+-   `Ap-` Afetar/Preocupar/Tocar (figurativamente)
+-   `Raf-` Roubar/Tomar
+-   `Enyal-` Lembrar/Relembrar
+-   `Ol-` Se tornar
+-   `Hlar-` Ouvir
+-   `Sam-` Ter
+-   `Ham-` Sentar
+-   `Yul-` Beber
+-   `Um-` Abundar/Fervilhar
+-   `Tuv-` Achar/Encontrar
+-   `Ócom-` Se encontrar com
+-   `Quer-` Virar
+-   `Apsen-` Perdoar
+
+## Derivados
+
+-   `Lala-` Rir
+-   `Caita-` Repousar/Jazer
+-   `Tulta-` Chamar/Convocar
+-   `Linda-` Cantar
+-   `Cenda-` Ler
+-   `Tana-` Mostrar/Indicar
+-   `Orta-` Levantar/Ascender
+-   `Hanya-` Entender
+-   `Harya-` Ter/Possuir
+-   `Caita-` Deitar/Estar deitado
+    -   Estar em uma posição horizontal
+-   `Lemya-` Ficar/Permanecer
+-   `Poita-` Limpar
+-   `Lahta-` Atravessar
+-   `Telya-` Terminar/Concluir
+-   `Anya-` Chegar
+-   `Tenta-` Apontar/Direcionar
+-   `Hententa-` Localizar (com os olhos)
+-   `Pata-` Andar
+-   `Hora-` Esperar por
 -   `Henta-` Examinar/Ler/Escanear
 -   `Ulya-` Despejar
 -   `Raita-` Sorrir
 -   `Pusta-` Parar
--   `Nav-` Julgar
--   `Tyal-` Brincar
 -   `Aþa-` Concordar
--   `Tenta-` Apontar/Direcionar
 -   `Váva-` Soprar
--   `Hlapu-` Fluir com o vento
--   `Pas-` Suavizar
--   `Yal-` Chamar
 -   `Aþya-` Ajudar/Confortar
 -   `Auta-` Sair
 -   `Ranya-` Vagar
@@ -64,19 +83,44 @@
 -   `Mirilya-` Brilhar/Cintilar
 -   `Alca-` Brilhar
 -   `Latya-` Abrir
--   `Col-` Carregar/Suportar
--   `Rer-` Semear/Espalhar
 -   `Varya-` Proteger
 -   `Naina-` Lamentar
--   `Nurru-` Resmungar
--   `Hlar-` Ouvir
 -   `Holya-` Fechar
--   `Ol-` Se tornar
--   `Cesta-` Buscar/Procurar
--   `Enyal-` Lembrar/Relembrar
+-   `Hasta-` Estragar/Arruinar
+-   `Mapa-` Agarrar
+-   `Sana-` Pensar
+-   `Uhta-` Desgostar
+-   `Anta-` Dar
+-   `Narca-` Rasgar
 -   `Húta-` Xingar
 -   `Carpa-` Falar
--   `Entul-` Retornar
--   `Narca-` Rasgar
--   `Raf-` Roubar/Tomar
--   `Uhta-` Desgostar
+-   `Cesta-` Buscar/Procurar
+-   `Mína-` Ansear para ir/começar
+-   `Hosta-` Coletar
+-   `Apanta-` Demonstrar/Explicar
+-   `Narta-` Acender
+-   `Hlussa-` Sussurrar
+-   `Calya-` Iluminar
+-   `Tatalla-` Admirar/Estimar
+-   `Quíta-` Supor/Adivinhar
+-   `Nantalta-` Se recostar/Se reclinar
+-   `Nwalya-` Atormentar/Machucar
+-   `Cuita-` Acordar
+-   `Comya-` Coletar
+-   `Telconta-` Caminhar (a passos largos)/Pisar
+-   `Hehta-` Abandonar
+-   `Panya-` Consertar
+-   `Arca-` Peticionar/Orar/Rezar
+-   `Rihta-` Sacudir
+-   `Cenda-` Examinar
+-   `Lasta-` Ouvir
+-   `Rehta-` Salvar/Resgatar
+-   `Lelya-` Proceder/Ir/Viajar
+-   `Palta-` Acariciar
+-   `Quanta-` Encher
+
+## Verbos-u
+
+-   `Nurru-` Resmungar
+-   `Hlapu-` Fluir com o vento
+-   `Tolu-` Levantar

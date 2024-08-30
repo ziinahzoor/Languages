@@ -63,7 +63,7 @@
 -   Geralmente a sílaba tônica é a penúltima. Quando a penúltima é uma vogal curta (se não é um ditongo, vogal longa, ou não precede um aglomerado de consoantes), a tônica é a antepenúltima.
 -   Em frases predicativas, a cópula costuma ser opcional.
 -   É uma linguagem fortemente sufixal.
--   A ordem dos sufixos segue: tempo verbal → sufixo nominativo (sujeito) → sufixo acusativo (objeto).
+-   A ordem dos sufixos segue: tempo verbal → sufixo nominativo (sujeito) → sufixo acusativo (objeto) → flexão de número.
 -   Ao usar outros sufixos, os sufixos pronomiais devem usar suas versões curtas.
 
 ## Tonicidade
@@ -106,10 +106,19 @@
 
 ## Negação
 
--   Usa-se `ui` ou `lá/la` antes do verbo para negar fatos.
+Negação
+Se coloca antes do verbo
+Vá/ava para recusar pedidos. O imperativo negativo tbm usa
+TB existe o prefixo ú mais usado com coisas que indicam coisas erradas, dificuldade ou impossibilidade
+Ú TB é uma preposição que indica "sem"
+
+-   Usa-se `lá/la` ou `ui` antes do verbo para negar fatos.
     -   Em frases copulativas, essa negação em si funciona como cópula, não sendo necessário usar o verbo copulativo. Nesse caso, a negação também pode ser flexionada em tempo.
--   Usa-se `vá` antes do verbo para recusas e proibições.
+-   Usa-se `vá/ava` antes do verbo para recusas e proibições (imperativo negativo).
 -   Independente da forma, os sufixos pronomiais se ligam à negação ao invés do verbo.
+-   Conceitos podem ser transformados em seus antônimos com os prefixos `la-` e `al(a)-` (sem a vogal antes de outra vogal). Ex.: `ista` "sabedoria" → `laista` "ignorância".
+    -   Também existe o prefixo `ú-`, mas esse indica a ausência de alguma coisa ou qualidade, geralmente algo ruim ou imoral.
+-   Também existe a preposição `ú`, que usada com o genitivo dos substantivos indica ausência ou falta. Ex.: `cala` "luz" → `ú calo` "sem luz"
 
 ## Perguntas
 
@@ -154,13 +163,22 @@
 
 ### Flexão de Grau
 
+Lá comparativo é homônimo ao negativo
+Usa-se o prefixo intensivo caso não exista necessidade de comparar
+O intensivo é An antes de t, k, f, s, h, v, w, and vowels
+O superlativo é dado pelo intensivo + substantivo no genitivo
+
 #### Comparativo
 
--   De superioridade: É dado pela construção `[A] (ná) [adjetivo] lá [B]` "A é mais [adjetivo] que B". Pode ser intensificado utilizando o superlativo no adjetivo.
+-   É dado pela construção `[A] (ná) [adjetivo] lá [B]` "A é mais [adjetivo] que B". Pode ser intensificado utilizando o superlativo no adjetivo.
+    -   Note que o `lá` comparativo é homônimo ao negativo, portanto dependem do contexto para serem diferenciados.
 
 #### Superlativo
 
--   É dado pelo prefixo `an-` conectado ao adjetivo.
+-   Superlativo absoluto sintético ou intensivo: Aumenta a intensidade do adjetivo. Ex.: "alto" → "altíssimo".
+    -   Antes de `p`, `n`, `l` e `r` se prefixa `am-`. Nos outros casos, se prefixa `an-`.
+-   Relativo: Compara um substantivo com todos os outros. Ex.: "o mais doce".
+    -   Usa-se o intensivo com o substantivo no genitivo.
 
 ## Casos
 

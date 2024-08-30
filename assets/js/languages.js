@@ -277,6 +277,7 @@ const quenya = {
 		{ page: 'cores', displayName: 'Cores' },
 		{ page: 'corpo', displayName: 'Corpo' },
 		{ page: 'expressões', displayName: 'Expressões' },
+		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'fonética', displayName: 'Fonética e Fonologia' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'números', displayName: 'Números' },

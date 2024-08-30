@@ -6,7 +6,9 @@
 -   `Isil` (A) Lua
 -   `Tasar` Salgueiro
 -   `Sar(d)` Pedra
--   `Alda` Árvora
+-   `Alda` Árvore
+    -   `Fernë` Faia
+    -   `Nordo` Carvalho
 -   `Oron(t)` Montanha
 -   `Elen` Estrela
 -   `Hellë` Céu
@@ -19,6 +21,14 @@
 -   `Cemen` Terra/Solo/Chão
 -   `Lúpë` Pluma
 -   `Quessë` Pena
+-   `Nárë` Fogo
+-   `Cálë` Luz
+-   `Tussa` Arbusto
+-   `Vilya` Ar/Céu
+
+### Materiais
+
+-   `Töa` Madeira
 
 ## Casa e Objetos
 
@@ -31,6 +41,9 @@
 -   `Yulma` Copo
 -   `Olpe` Garrafa
 -   `Tamma` Ferramenta
+-   `Paluhta` Mesa
+-   `Calma` Lâmpada
+-   `Pamba` Bola
 
 ## Abstratos
 
@@ -43,6 +56,13 @@
 -   `Massë` Porção
 -   `Engwë` Coisa/Objeto
 -   `Hlóna` Barulho
+-   `Yesta` Começo
+-   `Alassë` Alegria
+-   `Olmë` Cheiro/Odor
+-   `Quentelë` Frase/Parágrafo
+-   `Asta` Parte/Divisão
+-   `Úmë` Abundância
+-   `Escë` Farfalhar
 
 ## Transporte
 

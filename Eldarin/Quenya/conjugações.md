@@ -11,11 +11,11 @@
 **Existem três classes de verbos: básicos, derivados e verbos-u.**
 
 -   Verbos básicos, primitivos ou fortes: A raíz termina em consoante.
--   Verbos derivados ou fracos: Produzidos com um sufixo verbal terminado em `-a`.
+-   Verbos derivados, fracos ou verbos-a: Produzidos com um sufixo verbal terminado em `-a`.
 -   Verbos-u: A raíz termina em `-u`.
 
 > [!IMPORTANT]
-> Se o sujeito é plural ou dual, o verbo deve usar os sufixos `-r` ou `-t` também.
+> Se o verbo não utilizar um sufixo pronomial (o sujeito é um substantivo), então deve usar os sufixos `-r` (plural) ou `-t` (dual).
 
 ---
 
@@ -29,11 +29,11 @@
 -   Plural: `-ir`.
 -   O aorista do verbo `ná-` é `na` (plural `nar`).
 
-## Presente
+## Presente Contínuo (ou Imperfeito)
 
--   É usado pro presente contínuo.
--   Para verbos básicos e verbos-u, adiciona-se `-a`. Nos básicos ainda se alonga a sundóma. Para verbos derivados, troca-se o final `-a` por `-ea`.
--   Plural: Adiciona-se `-r` ao singular.
+-   Para verbos básicos e verbos-u, adiciona-se `-a`.
+-   Nos básicos ainda se alonga a sundóma.
+-   Para verbos derivados, troca-se o final `-a` por `-ea`.
 
 ## Presente Perfeito
 
@@ -48,7 +48,7 @@
         -   Na linguagem poética, ocorre um aumento diferente, onde prefixa-se a sundóma e a primeira consoante depois dela à palavra.
 -   O presente perfeito do verbo `ná` é `anaie`.
 
-## Passado
+## Pretérito Simples
 
 -   Adiciona-se `-në` à raíz.
     -   `lnë` → `llë`
@@ -62,6 +62,15 @@
     -   Todos ainda temrinam em `-ë`.
 -   O passado do verbo `ná` é `náne` (plural `náner`) ou `né` (plural `nér`).
     -   Se flexionado em pessoa, usa-se `né`/`ne` + sufixo longo ou `ane` + sufixo curto.
+
+## Pretério Imperfeito
+
+-   Adiciona-se o sufixo do pretérito simples `-ne` ao presente contínuo.
+
+## Pretérito Consuetudinário ou Habitual
+
+-   Indica ações costumeiras, habituais (que eram feitas no passado).
+-   Sufixa-se a sundóma (se terminado em consoante) e adiciona-se `-lyane`.
 
 ## Pretérito Perfeito
 
@@ -77,7 +86,7 @@
 # Infinitivo
 
 -   Geral: É igual à conjugação do tempo aorista do indicativo.
--   Particular: Usado com objetos (geralmente sufixos pronomiais), como "comer isto". Adiciona-se `-ita` e então o sufixo pronomial.
+-   Particular: Usado com objetos (geralmente sufixos pronomiais), como "comer isto". Adiciona-se `-ita`, o sufixo acusativo (objeto) e então o sufixo possessivo (sujeito).
     -   Só pode ser usado com verbos transitivos.
 
 ---
@@ -93,16 +102,44 @@
 
 # Gerúndio
 
--   Adiciona-se (substitui-se em verbos derivados) `-ie`. Em verbos-u, substitui-se por `-ye`.
+**É flexionado em caso.**
+
+-   Em verbos básicos adiciona-se `-ie`.
+-   Em verbos-u, adiciona-se `-ye`.
+-   Em derivados:
+    -   Se o verbo termina em `-ta` remove-se o `a` e adiciona-se `-ie`.
+    -   Em qualquer outra terminação adiciona-se `-re`. Se resultar em uma palavra de três sílabas curtas, alonga-se o `a`.
 
 ---
 
 # Particípio
 
+**Deve concordar em número com o substantivo.**
+
 ## Ativo
 
--   Indica um substantivo que é sujeito da ação. Sufixa-se `-ila` ao substantivo.
+-   Indica uma ação que ocorre no presente. Ex.: "O cavalo CORRENDO".
+-   Sufixa-se `-ila` ao verbo. Também alonga-se a sundóma ou, alternativamente, se realiza um _ómataima_: inserir a sundóma entre a raíz do verbo e o sufixo.
+-   Verbos-u perdem o `i` do sufixo
+-   Em verbos derivados o `i` do sufixo é opcional.
 
 ## Passivo
 
--   Indica um substantivo que é objeto da ação. Sufixa-se `-ina` ao substantivo.
+-   Indica uma ação que ocorreu no passado. Ex.: "O vaso QUEBRADO".
+-   Sufixa-se `-ina` ao verbo. Não se alonga a sundóma.
+-   Verbos-u perdem o `i` do sufixo
+-   Verbos derivados perdem o próprio `a`.
+
+## Passivo Imperfeito
+
+-   Qualifica substantivos ou palavras que atuam como substantivos. Indica ações que estão ocorrendo aos substantivos aos quais estão ligados. Ex.: "A casa SENDO CONSTRUÍDA".
+-   O substantivo é o objeto do verbo (como a voz passiva).
+-   Sufixa-se `-aina` ao verbo.
+-   Verbos derivados perdem o próprio `a`.
+
+## Ativo e Passivo Perfeitos
+
+-   São as formas perfeitas dos particípios ativo e passivo. Ex.: "TENDO deixado minha casa", "A casa TENDO SIDO deixada".
+-   Com base na forma do presente perfeito, remove-se o aumento, alonga-se o `e` do sufixo e então no:
+    -   Ativo: adiciona-se `-la`.
+    -   Passivo: adiciona-se `-na`

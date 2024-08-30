@@ -5,6 +5,13 @@
 -   `Osto` Cidade
 -   `Mallë` Rua
 -   `Yanta` Ponte
+-   `Tië` Caminho/Estrada
+-   `Taurë` Floresta
+-   `Ríma` Borda/Beira
+-   `Palar` Campo/Planície
+-   `Ampano` Construção/Casa de madeira
+-   `Oron (oront-)` Montanha
+-   `Lairë` Prado
 
 ## <span style="font-family: 'Tengwar Annatar', sans-serif;">aY`C</span> (Cöa) - Casa
 
@@ -12,6 +19,7 @@
 -   `Tarwa` Jardim
 -   `Ramba` Parede
 -   `Tópa` Teto
+-   `Hahta` Cerca
 
 ## Lugares Relativos
 
@@ -19,4 +27,9 @@
 -   `Nu` Embaixo
 -   `Enda` Centro
 -   `Endë` Meio
--   `Ca` Atrás
+-   `Inga` Topo
+    -   `Aldinga` Topo da árvore
+-   `Nan-` Para trás/Atrás/De trás
+    -   É um prefixo
+-   `Amba(-)` Para cima
+-   `Ca/Cata` Atrás

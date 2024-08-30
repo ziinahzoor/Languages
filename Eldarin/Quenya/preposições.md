@@ -8,3 +8,6 @@
 -   `Et` Fora de
     -   Usado com o ablativo
 -   `Ter/Terë` Através
+-   `Imbi` Entre
+-   `Pa` Em cima
+-   `Tenna` Até

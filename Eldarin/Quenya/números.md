@@ -50,3 +50,12 @@
 -   `Otoquëa` Décimo sétimo
 -   `Toloquëa` Décimo oitavo
 -   `Neterquëa` Décimo nono
+
+## Frações
+
+**Utilizam o sufixo `-sta` ou sua contração `-ta`.**
+
+-   `Peresta/Perta` Meio/Metade
+-   `Nelesta/Neldesta` Um terço
+-   `Canasta/Caita` Um quarto
+-   `Caista` Um décimo

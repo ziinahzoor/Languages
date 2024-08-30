@@ -19,3 +19,12 @@
 -   `Naitië` Realmente/Verdadeiramente
 -   `Quiquië` Em qualquer momento/Sempre que
 -   `Tensi` Já/Até agora
+-   `Langë` Muito/Excessivamente/Extremamente
+-   `Ompa` Para frente
+-   `Lasir` Pelo contrário
+-   `Yú` Também
+-   `Ava` De fora
+-   `Hequa` Exceto
+-   `Marrë` Em casa
+-   `Uman` Uma vez
+-   `Illumë` Sempre

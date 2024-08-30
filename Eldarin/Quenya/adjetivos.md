@@ -20,6 +20,7 @@
 -   `Quanta` Cheio
     -   Usado com o genitivo
 -   `Maira` Esplêndido/Excelente/Admirável/Precioso
+-   `Cárima` Possível
 -   `Ancárima` Fácil
 -   `Senna` Pequeno
 -   `Alanwa` Adulto
@@ -34,6 +35,7 @@
 -   `Arwa` Tendo
     -   Usado com o genitivo
 -   `Morna` Escuro
+-   `Úcalima` Escuro/Obscuro
 -   `Poldórëa` Forte (fisicamente)
 -   `Tella` Último
 -   `Awalda` Empolgado
@@ -43,3 +45,19 @@
 -   `Rácina` Quebrado/Arruinado
 -   `Rúcina` Despedaçado/Desordenado
 -   `Ruxa` Bravo/Irritado
+-   `Urda` Difícil
+-   `Únótima` Incontável
+-   `Senna` Curto
+-   `Ringa` Frio
+-   `Helca` Gelado
+-   `Mirima` Amável/Precioso
+-   `Melima` Amoroso
+-   `Haura` Enorme
+-   `Tiuca` Grosso/Gordo
+-   `Mussë` Suave/Macio
+-   `Amba` Mais
+-   `Arya` Melhor
+-   `Penquanta` Completamente cheio
+-   `Nulla` Escondido/Secreto
+-   `Melda` Amado/Querido
+-   `Yára` Velho/Antigo

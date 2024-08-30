@@ -61,7 +61,10 @@
 		<td>insa</td>
 		<td rowspan="2">-ssë/-së</td>
 		<td rowspan="2" colspan="2">-s</td>
-		<td rowspan="2">-rya</td>
+		<td rowspan="2">
+			<p>-rya</p>
+			<p>-ya (contração)</p>		
+		</td>
 	</tr>
 		<th>Animado</th>
 		<td>së</td>
@@ -152,6 +155,9 @@
 > [!IMPORTANT]
 > ◆ Denota formas especulativas.
 
+> [!CAUTION]
+> Os sufixos pronomiais se ligam à substantivos/verbos terminados em consoante através da vogal conectiva `e`. Exceto na primeira pessoa do singular, que utiliza `i`.
+
 ## Demonstrativos
 
 **Aceitam sufixos de caso.**
@@ -162,6 +168,7 @@
 -   `Si` Isto
 -   `Ta` Isso
 -   `En` Aquilo
+-   `Tanomë` Ali/Nesse lugar
 
 ## Relativos
 
@@ -176,8 +183,12 @@
 ## Indefinidos
 
 -   `Ilya` Todo/Cada
+-   `Illi` Todos/Todo mundo
 -   `Quen/Quén` Alguém
+-   `Mo` Alguém/Qualquer um
+-   `Ma` Algo/Qualquer coisa
 -   `Aiqua` Qualquer coisa
+-   `Yúyo` Ambos
 
 ## Interrogativos
 

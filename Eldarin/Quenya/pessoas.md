@@ -19,8 +19,13 @@
 -   `Samno` Construtor/Carpinteiro
 -   `Málo` Amigo
 -   `Nildë` Amiga
+-   `Tamo` Artesão
 
 ## <span style="font-family: 'Tengwar Annatar', sans-serif;">5^,F</span> (Nossë) - Família
 
+-   `Nostar` Pai/Mãe
 -   `Amil` Mãe
 -   `Seldë` Filha
+-   `Néþa` Irmã
+-   `Veru` Marido
+-   `Vessë` Esposa
