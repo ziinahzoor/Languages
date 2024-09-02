@@ -119,6 +119,8 @@ TB existe o prefixo ú mais usado com coisas que indicam coisas erradas, dificul
 -   Conceitos podem ser transformados em seus antônimos com os prefixos `la-` e `al(a)-` (sem a vogal antes de outra vogal). Ex.: `ista` "sabedoria" → `laista` "ignorância".
     -   Também existe o prefixo `ú-`, mas esse indica a ausência de alguma coisa ou qualidade, geralmente algo ruim ou imoral.
 -   Também existe a preposição `ú`, que usada com o genitivo dos substantivos indica ausência ou falta. Ex.: `cala` "luz" → `ú calo` "sem luz"
+-   Ainda, os sufixos `-enca` e `-lóra` que significam "sem" (sufixo "-less" no inglês) e tornam substantivos adjetivos.
+-   Por fim, também existe o prefixo `loi-` que indica fazer algo errado.
 
 ## Perguntas
 
@@ -226,6 +228,7 @@ O superlativo é dado pelo intensivo + substantivo no genitivo
 -   Se termina em `-l` ou `-r` usa-se `-dë`.
 -   Plural: `-ssen`.
 -   Dual: `-tsë`.
+-   Forma curta: `-s`.
 
 ### Alativo
 
@@ -244,3 +247,23 @@ O superlativo é dado pelo intensivo + substantivo no genitivo
 
 -   Raramente usado e pouco se sabe sobre ele.
 -   Possivelmente é um locativo mais abstrato, dizendo "sobre" ou "a respeito" de algo.
+
+## Sufixos formativos
+
+-   Inceptivo: Adiciona-se `-nta` a um adjetivo para indicar que algo "se tornou" o que o adjetivo descreve.
+-   Nominal: `-ssë`, `-ië`, `-sta/-stë`, `-ndë` e `-lë/-rë/-më`
+-   Agentes (denotam alguém que realiza a ação do verbo): `-indo (masculino)/-indë (feminino)`, `-r(o)` e `-mo`.
+-   Adjetivais a partir de substantivos:
+    -   `-ëa`: Geral
+    -   `-inqua`: Indicam algo "cheio de", "completamente", como o "-some" ou "-ful" do inglês.
+    -   `-enca/lóra`: Indicam algo "sem", "vazio", como o "-less" do inglês.
+-   Adjetivais a partir de verbos:
+    -   `-(l)ima`: Indica possibilidade, como o "-able" ou "-ible" do inglês.
+        -   Se o verbo é primitivo, a sundóma é alongada.
+    -   `-itë`: Mais genérico.
+        -   Sufixa-se a sundóma antes do sufixo.
+            -   Sundóma `u` pode se tornar `u` ou `o`.
+            -   Sundómar `e` ou `i` se tornam `í`.
+    -   `-ula` Indica probabilidade de fazer ou aptidão.
+        -   Alonga-se a sundóma.
+-   Causativo verbal: Transforma um adjetivo em verbo. Adiciona-se `-ta`.

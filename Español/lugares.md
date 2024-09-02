@@ -118,3 +118,5 @@
 -   `Puente` Ponte 🚹
 -   `Área`
 -   `Colina`
+-   `Departamento`
+-   `Concejo municipal` Conselho municipal

@@ -1,5 +1,6 @@
 # <span style="font-family: 'Tengwar Annatar', sans-serif;">t#1E'</span> (Matta) - Comida
 
+-   `Apsa` Comida cozida
 -   `Masta` Pão/Bolo
 -   `Tyur` Queijo
 -   `Ilin` Leite

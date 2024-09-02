@@ -24,7 +24,7 @@
 ## Aorista
 
 -   Usado para o presente simples e fatos atemporais.
--   Para verbos básicos, adiciona-se `-e` quando não há nenhum sufixo presente e `-i` quando há.
+-   Para verbos básicos, adiciona-se `-ë` quando não há nenhum sufixo presente e `-i` quando há.
 -   Para os outros tipos, usa-se a raíz inalterada.
 -   Plural: `-ir`.
 -   O aorista do verbo `ná-` é `na` (plural `nar`).
@@ -33,16 +33,16 @@
 
 -   Para verbos básicos e verbos-u, adiciona-se `-a`.
 -   Nos básicos ainda se alonga a sundóma.
--   Para verbos derivados, troca-se o final `-a` por `-ea`.
+-   Para verbos derivados, troca-se o final `-a` por `-ëa`.
 
 ## Presente Perfeito
 
 -   Consiste em três alterações:
-    1. Sufixar `-ie`;
+    1. Sufixar `-ië`;
     2. Alongar a sundóma;
     3. Realizar o _aumento_.
 -   Em verbos básicos iniciados em consoante as três alterações ocorrem.
--   Em verbos derivados e verbos-u troca-se a última vogal (ou `-ya`) por `-ie`.
+-   Em verbos derivados e verbos-u troca-se a última vogal (ou `-ya`) por `-ië`.
     -   O alongamento da sundóma pode ou não ocorrer.
     -   Se o verbo começa em consoante ocorre o aumento, caso contrário não ocorre.
         -   Na linguagem poética, ocorre um aumento diferente, onde prefixa-se a sundóma e a primeira consoante depois dela à palavra.
@@ -60,26 +60,54 @@
     -   `snë` → `nsë`
 -   Devido às suas origens no élfico antigo, alguns verbos terminados em `-r` se tornam `ndë`. Uns removem o final `-ta` ou `-ya`. Outros alongam a sundóma.
     -   Todos ainda temrinam em `-ë`.
--   O passado do verbo `ná` é `náne` (plural `náner`) ou `né` (plural `nér`).
-    -   Se flexionado em pessoa, usa-se `né`/`ne` + sufixo longo ou `ane` + sufixo curto.
+-   O passado do verbo `ná` é `nánë` (plural `náner`) ou `né` (plural `nér`).
+    -   Se flexionado em pessoa, usa-se `né`/`në` + sufixo longo ou `ane` + sufixo curto.
 
 ## Pretério Imperfeito
 
--   Adiciona-se o sufixo do pretérito simples `-ne` ao presente contínuo.
+-   Adiciona-se o sufixo do pretérito simples `-në` ao presente contínuo.
 
 ## Pretérito Consuetudinário ou Habitual
 
 -   Indica ações costumeiras, habituais (que eram feitas no passado).
--   Sufixa-se a sundóma (se terminado em consoante) e adiciona-se `-lyane`.
+-   Sufixa-se a sundóma (se terminado em consoante) e adiciona-se `-lyanë`.
 
 ## Pretérito Perfeito
 
--   Prefixa a sundóma ao verbo, alonga-se a sundóma (exceto em ditongos e aglomerados de consoantes) e adiciona-se (substitui-se em verbos derivados e verbos-u) `-ie`.
+-   Prefixa a sundóma ao verbo, alonga-se a sundóma (exceto em ditongos e aglomerados de consoantes) e adiciona-se (substitui-se em verbos derivados e verbos-u) `-ië`.
 
-## Futuro
+## Mais-que-perfeito
+
+-   Usam-se os sufixos do particípio ativo perfeito e adiciona-se `-në`, resultando em `-iélanë`.
+
+## Futuro Simples
 
 -   Adiciona-se (substitui-se em verbos derivados) `-uva`. Em verbos-u é `-úva`.
 -   Plural: Adiciona-se `-r` ao singular.
+
+## Futuro Imperfeito
+
+-   Adicionar `-iluva`.
+-   Nos básicos, sufixar a sundóma antes.
+-   Passivo: Adicionar `-ainuva`.
+
+## Futuro Perfeito
+
+-   Adicionar `-iéva`. O aumento é opcional.
+
+## Futuro do Pretérito
+
+-   Alonga-se o `a` da conjugação no futuro e adiciona-se `-në`, resultando em `-uvánë`.
+    -   O alongamento não ocorre se a conjugação terminar em `-auva`.
+
+## Futuro do Pretérito Perfeito
+
+-   Conjuga-se no futuro perfeito e adiciona-se `-në`, resultando em `-iévanë`.
+
+## Impessoal
+
+-   Apenas conjuga-se o verbo sem sujeito.
+-   Se existir objeto, este deve estar no dativo.
 
 ---
 
@@ -91,11 +119,18 @@
 
 ---
 
+# Optativo
+
+-   Usa-se `nai` no começo da frase e o verbo no futuro.
+-   Também pode-se usar `na` (imperativo de `ná`) com o verbo no futuro ou algum adjetivo.
+
+---
+
 # Imperativo
 
 -   Formal: Utiliza-se a partícula `á` antes do verbo na forma aorista. Note que se há pronome, ele é sufixado à partícula ao invés do verbo.
 -   Informal: Utiliza-se o verbo no aorista sozinho.
--   Informal (Mais rude, ordenativa): Utiliza-se o verbo no aorista, removendo o final `-e` e sufixando a particula `á`.
+-   Informal (Mais rude, ordenativa): Utiliza-se o verbo no aorista, removendo o final `-ë` e sufixando a particula `á`.
 -   Pode-se sufixar o pronome independente à partícula para dizer algo como "deixe-me..." ou o dativo para dizer algo como "...para mim".
 
 ---
@@ -104,11 +139,11 @@
 
 **É flexionado em caso.**
 
--   Em verbos básicos adiciona-se `-ie`.
--   Em verbos-u, adiciona-se `-ye`.
+-   Em verbos básicos adiciona-se `-ië`.
+-   Em verbos-u, adiciona-se `-yë`.
 -   Em derivados:
-    -   Se o verbo termina em `-ta` remove-se o `a` e adiciona-se `-ie`.
-    -   Em qualquer outra terminação adiciona-se `-re`. Se resultar em uma palavra de três sílabas curtas, alonga-se o `a`.
+    -   Se o verbo termina em `-ta` remove-se o `a` e adiciona-se `-ië`.
+    -   Em qualquer outra terminação adiciona-se `-rë`. Se resultar em uma palavra de três sílabas curtas, alonga-se o `a`.
 
 ---
 
@@ -141,5 +176,23 @@
 
 -   São as formas perfeitas dos particípios ativo e passivo. Ex.: "TENDO deixado minha casa", "A casa TENDO SIDO deixada".
 -   Com base na forma do presente perfeito, remove-se o aumento, alonga-se o `e` do sufixo e então no:
-    -   Ativo: adiciona-se `-la`.
-    -   Passivo: adiciona-se `-na`
+    -   Ativo: adiciona-se `-la`. Resulta em `-iéla`.
+    -   Passivo: adiciona-se `-na`. Resulta em `-iéna`.
+
+## Ativo e Passivo do Futuro
+
+-   Com base na forma do futuro:
+    -   Ativo: adiciona-se `-ila`.
+    -   Passivo: adiciona-se `-ina`.
+
+## Participio Perfectivo
+
+-   Indica que a ação foi terminada.
+-   Adiciona-se `-nwa`.
+-   Plura: `-nwë`.
+-   Se ligam a verbos básico por `i`.
+
+## Adverbial
+
+-   Intensifica a ação do verbo.
+-   Conjuga-se o verbo e então duplica-se o mesmo, porém com o prefixo intensivo, alongamento de sundóma e então sufixa-se `-ië`.

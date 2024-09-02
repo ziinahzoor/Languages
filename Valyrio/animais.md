@@ -39,6 +39,7 @@
 -   `Velkrys` Veado (Macho) 🌙
 -   `Peldio` Cobra/Víbora 🌙
 -   `Rīza` Réptil/Lagarto 🌙
+-   `Ūlio` Falcão 🌙
 
 ## Terrestres
 

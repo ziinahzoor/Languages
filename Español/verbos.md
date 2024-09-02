@@ -121,6 +121,8 @@
 -   `Navegar`
 -   `Prestar` Emprestar
 -   `Robar` Roubar
+-   `Descargar` Baixar
+-   `Copiar`
 
 ## Los verbos -er
 

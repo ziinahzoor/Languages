@@ -20,6 +20,7 @@
 ### Materiais
 
 -   `Oro` Ouro
+-   `Madera` Madeira
 
 ## Casa e objetos
 
@@ -124,6 +125,10 @@
 -   `Carta`
 -   `Raqueta` Raquete
 -   `Estampilla` Selo 🚺
+-   `Teclado`
+-   `Impresora` Impressora
+-   `Pizzarón` Quadro branco
+-   `Correo` Correio
 
 ## Abstratos
 
@@ -254,6 +259,7 @@
 
 -   `Fiesta` Festa
 -   `Trabajo` Trabalho
+-   `Ocupación` Ocupação
 -   `Ejercicio` Exercício
 -   `Tarea` Tarefa
 -   `Curso`
@@ -290,6 +296,7 @@
 -   `Geografía` Geografia
 -   `Literatura`
 -   `Ciencia` Ciência
+-   `Física`
 
 ### Esporte
 

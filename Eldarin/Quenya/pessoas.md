@@ -2,6 +2,7 @@
 
 **O termo entre parênteses indica a forma da palavra quando recebe sufixos.**
 
+-   `Enno` Pessoa
 -   `Quendë` Elfos
     -   `Elda` Elfo (que foi para Aman)
     -   `Avar` Elfo (que não foi para Aman)
@@ -20,12 +21,19 @@
 -   `Málo` Amigo
 -   `Nildë` Amiga
 -   `Tamo` Artesão
+-   `Úcarindo` Transgressor
+-   `Alanwa` Adulto
+-   `Aþar` Médico/Curandeiro
+-   `Hína` Criança
+-   `Tyalindo` Jogador
 
 ## <span style="font-family: 'Tengwar Annatar', sans-serif;">5^,F</span> (Nossë) - Família
 
 -   `Nostar` Pai/Mãe
 -   `Amil` Mãe
+    -   `Amya` Mamãe
 -   `Seldë` Filha
 -   `Néþa` Irmã
+-   `Háno` Irmão
 -   `Veru` Marido
 -   `Vessë` Esposa

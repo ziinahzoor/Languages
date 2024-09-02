@@ -30,6 +30,7 @@
 -   `Mára` Bom/Apropriado
 -   `Caraitë` Ocupado
 -   `Yerna` Cansado/Desgastado
+-   `Lumba` Cansado
 -   `Milya` Gentil/Suave
 -   `Maita` Esfomeado
 -   `Arwa` Tendo
@@ -61,3 +62,46 @@
 -   `Nulla` Escondido/Secreto
 -   `Melda` Amado/Querido
 -   `Yára` Velho/Antigo
+-   `Hloirëa` Venenoso
+-   `Qualin` Morto
+-   `Pahta` Fechado
+-   `Mitya` Interior
+-   `Ulca` Mau
+-   `Ninquë` Branco/Pálido
+-   `Laiwa` Doente
+-   `Titta` Pequeno
+-   `Níca` Pequeno
+-   `Alanwa` Adulto/Crescido
+-   `Lauca` Morno
+-   `Úra` Quente
+-   `Carinwa` Terminado/Feito
+-   `Alwara` Inútil
+-   `Tanca` Consertado/Firme
+-   `Wenya` Fresco/Verde
+-   `Urra` Mal
+-   `Núra` Fundo/Profundo
+-   `Enwina` Velho
+-   `Imya` O mesmo
+-   `Númenya` Ocidental
+-   `Rómenya` Oriental
+-   `Nótima` Alguns/Contável
+-   `Náha` Estreito
+-   `Palda` Largo
+-   `Nísima` Cheiroso
+-   `Nyárula` Falante
+-   `Envinyanta` Curado
+-   `Tirítë` Vigilante/Cuidadoso
+-   `Herenya` Sortudo/Abençoado/Rico
+-   `Alcarinqua` Glorioso/Esplêndido
+-   `Lissë` Doce (gosto)
+-   `Mimírima` Exótico/Precioso
+-   `Cantëa` Bem-formado/Bem-modelado
+-   `Erinqua` Único
+-   `Erya` Único
+-   `Istanwa` Sabido
+-   `Írima` Desejável
+-   `Vailima` Ventoso
+-   `Ómalóra` Sem voz
+-   `Sarda` Duro
+-   `Ovéa` Parecido/Similar
+-   `Sincahonda` Insensível

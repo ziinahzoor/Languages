@@ -16,10 +16,9 @@
 -   `Cen-` Ver
 -   `Tar-` Ficar/Estar em pé
 -   `Men-` Ir
--   `Ser-` Descansar
+-   `Ser-` Descansar/Ficar (em algum lugar por algum momento)
 -   `Lir-` Cantar
 -   `Nor-` Correr/Saltar
--   `Mer-` Querer
 -   `Tul-` Vir/Chegar
 -   `Car-` Fazer/Construir
 -   `Nancar-` Desfazer/Destruir
@@ -47,14 +46,55 @@
 -   `Ócom-` Encontrar-se com
 -   `Quer-` Virar
 -   `Apsen-` Perdoar
+-   `Cim-` Encontrar/Achar
+-   `Mar-` Morar
+-   `Har-` Residir
+-   `Ham-` Ficar localizado
+    -   Usado com cidades, vilas e construções em geral.
+-   `Tar-` Ficar localizado
+    -   Usado com construções altas, montanhas, etc.
+-   `Lat-` Ficar localizado/Estender-se
+    -   Usado com regiões, terras e países.
+-   `Top-` Cobrir/Abrigar
+-   `Sav-` Acreditar/Crer
+-   `Nac-` Matar/Exterminar/Morder
+-   `Ric-` Tentar/Torcer/Curvar
+-   `Fir-` Morrer
+-   `Úcar-` Fazer o mal
+-   `Hat-` Jogar/Arremessar
+-   `Terhat-` Separar
+-   `Sov-` Lavar
+-   `Nem-` Parecer
+-   `Cam-` Receber
+-   `Uv-` Estar atrás de
+-   `Pel-` Cercar/Rodear
+-   `Rac-` Quebrar
+-   `Mel-` Amar
+-   `Váquet-` Recusar/Negar
+-   `Tuc-` Puxar
+-   `Loicar-` Errar/Fazer errado
 
 ## Derivados
 
 -   `Lala-` Rir
 -   `Caita-` Repousar/Jazer
+-   `Mitta-` Inserir/Interromper
 -   `Tulta-` Chamar/Convocar
 -   `Linda-` Cantar
+-   `Laita-` Louvar
+-   `Celya-` Chover
+-   `Panta-` Abrir
+-   `Cesya-` Causar interesse
+-   `Intya-` Imaginar/Supor
+-   `Esta-` Nomear
+-   `Lanta-` Cair
+-   `Tiuya-` Inchar
+-   `Moia-` Trabalhar
+-   `Cucumba-` Assentir (repetidamente)
+-   `Caranya-` Ficar vermelho
 -   `Cenda-` Ler
+-   `Fara-` Caçar/Perseguir
+-   `Nwara-` Roer
 -   `Tana-` Mostrar/Indicar
 -   `Orta-` Levantar/Ascender
 -   `Hanya-` Entender
@@ -67,13 +107,15 @@
 -   `Telya-` Terminar/Concluir
 -   `Anya-` Chegar
 -   `Tenta-` Apontar/Direcionar
--   `Hententa-` Localizar (com os olhos)
 -   `Pata-` Andar
+-   `Appa-` Apalpar
 -   `Hora-` Esperar por
 -   `Henta-` Examinar/Ler/Escanear
+-   `Hententa-` Localizar (com os olhos)
 -   `Ulya-` Despejar
 -   `Raita-` Sorrir
 -   `Pusta-` Parar
+-   `Nosta-` Dar à luz
 -   `Aþa-` Concordar
 -   `Váva-` Soprar
 -   `Aþya-` Ajudar/Confortar
@@ -84,11 +126,13 @@
 -   `Alca-` Brilhar
 -   `Latya-` Abrir
 -   `Varya-` Proteger
+-   `Hilya-` Seguir
 -   `Naina-` Lamentar
 -   `Holya-` Fechar
 -   `Hasta-` Estragar/Arruinar
 -   `Mapa-` Agarrar
 -   `Sana-` Pensar
+-   `Verya-` Desafiar/Ousar
 -   `Uhta-` Desgostar
 -   `Anta-` Dar
 -   `Narca-` Rasgar
@@ -111,16 +155,41 @@
 -   `Hehta-` Abandonar
 -   `Panya-` Consertar
 -   `Arca-` Peticionar/Orar/Rezar
+-   `Menta-` Enviar
+-   `Ton-` Bater
 -   `Rihta-` Sacudir
 -   `Cenda-` Examinar
+-   `Taita-` Estender/Prolongar
 -   `Lasta-` Ouvir
 -   `Rehta-` Salvar/Resgatar
 -   `Lelya-` Proceder/Ir/Viajar
 -   `Palta-` Acariciar
 -   `Quanta-` Encher
+-   `Namba-` Bater/Macetar (repetidamente)
+-   `Netya-` Enfeitar/Aparar
+-   `Apta-` Recusar
+-   `Rista-` Cortar
+-   `Þorya-` Ter medo
+-   `Coita-` Viver/Morar
+-   `Perya-` Dividir no meio
 
 ## Verbos-u
 
 -   `Nurru-` Resmungar
 -   `Hlapu-` Fluir com o vento
--   `Tolu-` Levantar
+-   `Tolu-` Levantar-se
+-   `Hamu-` Sentar-se
+-   `Tuilu-` Brotar/Florescer
+
+## Auxiliares
+
+-   `Mauya-` Dever
+-   `Or-` Sentir que/Sentir a necessidade (de ser impelido)
+-   `Ec-` Poder (ter a oportunidade)
+    -   Quem tem a oportunidade deve estar no dativo.
+-   `Pol-` Poder (ter a capacidade)
+-   `Ista-` Saber (fazer algo)
+-   `Lerta-` Poder (de ter permissão)
+-   `Mer-` Querer/Desejar
+-   `Ola-` Ficar/Tornar (de se transformar)
+-   `Oi-` Viver/Morar

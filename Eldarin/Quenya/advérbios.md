@@ -3,7 +3,6 @@
 -   `Cé` Talvez
 -   `Nai` Que seja que.../Espero que...
     -   Expressa um desejo.
--   `Qui` Se
 -   `En/Ena` Ainda
 -   `Rongo` Logo
 -   `Yallumë` Enfim
@@ -28,3 +27,18 @@
 -   `Marrë` Em casa
 -   `Uman` Uma vez
 -   `Illumë` Sempre
+-   `Qui` Se
+-   `Cé/Cë` Talvez
+-   `Céla/Quila` Talvez não/Se não
+-   `Laqui` A menos que
+-   `Cenasta/Cenasit` Talvez
+-   `Cénai/Cenai` Se for isso/Se for assim
+-   `Ai/Aicë` Supostamente
+-   `Li-/Lin-` Muitos/Multi-/Poli-
+-   `Yá` Atrás (tempo)
+-   `Aqua` Totalmente/Absolutamente
+-   `Holmo` De coração/Com prazer
+-   `Andanéya` Há muito tempo
+-   `Öar` Longe
+-   `Tenta` Até então
+-   `Lintië` Rapidamente

@@ -52,6 +52,16 @@
 -   `Visitante`
 -   `Obrero` Trabalhador/Operário
 -   `Policía` Polícia/Policial
+-   `Actriz` Atriz
+-   `Actor` Ator
+-   `Cliente`
+-   `Recepcionista`
+-   `Conductor` Motorista
+-   `Personal` Funcionários/Pessoal
+-   `Fotógrafo`
+-   `Limpiador` Faxineiro
+-   `Piloto`
+-   `Cantante` Cantor
 
 ## La Familia - Família
 

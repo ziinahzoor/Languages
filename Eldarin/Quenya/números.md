@@ -26,6 +26,7 @@
 -   `Otoquë` Dezessete
 -   `Toloquë` Dezoito
 -   `Neterquë` Dezenove
+-   `Húmë` Mil
 
 ## Ordinais
 

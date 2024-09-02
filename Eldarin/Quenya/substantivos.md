@@ -12,7 +12,9 @@
 -   `Oron(t)` Montanha
 -   `Elen` Estrela
 -   `Hellë` Céu
--   `Sírë` Rio
+-   `Sírë` Corrente de água/Rio
+    -   `Sír` Forma curta
+    -   `Sirya` Rio
 -   `Alda` Árvore
 -   `Ráva` Margem de um corpo d'água
 -   `Salquë` Grama
@@ -25,6 +27,10 @@
 -   `Cálë` Luz
 -   `Tussa` Arbusto
 -   `Vilya` Ar/Céu
+-   `Limba` Gota
+-   `Raumo` Tempestade
+-   `Olwa` Galho
+-   `Ondo` Pedra
 
 ### Materiais
 
@@ -44,6 +50,14 @@
 -   `Paluhta` Mesa
 -   `Calma` Lâmpada
 -   `Pamba` Bola
+-   `Emma` Imagem/Foto
+-   `Tenca` Carta
+-   `Nyellë` Sino
+-   `Lannë` Pano/Tecido
+
+### Armas
+
+-   `Sicil` Adaga
 
 ## Abstratos
 
@@ -63,6 +77,21 @@
 -   `Asta` Parte/Divisão
 -   `Úmë` Abundância
 -   `Escë` Farfalhar
+-   `Tengwa` Letra/Sinal
+-   `Maqua` Punhado
+-   `Ilqua` Tudo
+-   `Uxarë` Transgressão/Pecado
+-   `Tindë` Brilho
+-   `Opto` Traseira
+-   `Tulma` Evento
+-   `Metta` Fim
+-   `Óma` Voz/Vogal
+-   `Nemesta` Aparência
+-   `Þossë` Medo
+-   `Handelë` Intelecto
+-   `Aquapahtië` Privacidade
+-   `Enda` Centro/Coração
+-   `Tárië` Altura
 
 ## Transporte
 
@@ -71,3 +100,6 @@
 ## Atividades
 
 -   `Mólë` Trabalho
+-   `Ongwë` Crime
+-   `Lindë` Música
+-   `Merendë` Festival

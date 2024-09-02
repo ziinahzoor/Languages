@@ -1,7 +1,6 @@
 # Lugares
 
--   `Ando` Portão
--   `Talan(-m)` Chão
+-   `Talan (-talam)` Chão
 -   `Osto` Cidade
 -   `Mallë` Rua
 -   `Yanta` Ponte
@@ -9,17 +8,25 @@
 -   `Taurë` Floresta
 -   `Ríma` Borda/Beira
 -   `Palar` Campo/Planície
+-   `Landa` Planície
+-   `Lairë` Prado
 -   `Ampano` Construção/Casa de madeira
 -   `Oron (oront-)` Montanha
--   `Lairë` Prado
+-   `Ambo` Colina
+-   `Armaro` Vizinhança
+-   `Ettelë` Terra estrangeira
+-   `Taras` Forte/Castelo
+-   `Ataquë` Construção/Edifício
 
 ## <span style="font-family: 'Tengwar Annatar', sans-serif;">aY`C</span> (Cöa) - Casa
 
+-   `Mar (mard-)` Minha casa (Home)
 -   `Sambë` Quarto
 -   `Tarwa` Jardim
 -   `Ramba` Parede
 -   `Tópa` Teto
 -   `Hahta` Cerca
+-   `Ando` Portão
 
 ## Lugares Relativos
 

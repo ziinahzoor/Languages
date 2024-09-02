@@ -179,6 +179,8 @@
 -   `I` Que/Os quais/As quais (Plural para coisas e pessoas)
     -   Às vezes é utilizado como o singular de ambos
 -   `Yen` Para quem
+-   `Imma` O mesmo
+-   `Yallë` Como/Da mesma forma que
 
 ## Indefinidos
 
@@ -188,6 +190,7 @@
 -   `Mo` Alguém/Qualquer um
 -   `Ma` Algo/Qualquer coisa
 -   `Aiqua` Qualquer coisa
+-   `Aiquen` Qualquer um
 -   `Yúyo` Ambos
 
 ## Interrogativos
