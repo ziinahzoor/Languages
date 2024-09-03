@@ -83,6 +83,7 @@
 -   `Sérieusement` Seriamente
 -   `Pourtant` Porém/Entretanto/Mesmo assim
 -   `Clairement` Claramente
+-   `Autant` Tanto
 
 ## Os Porquês
 

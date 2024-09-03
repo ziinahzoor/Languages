@@ -55,6 +55,9 @@
 -   `Brosse` Escova
     -   `Brosse à dent` Escova de dentes
 -   `Pansement` Band-aid
+-   `Savon` Sabonete 🚺
+-   `Shampoing` Xampú
+-   `Peigne` Pente
 
 ### La Chambre - Quarto
 
@@ -137,6 +140,8 @@
 -   `Ciseaux` Tesoura 🚹
 -   `Cigarette` Cigarro 🚺
 -   `Robinet` Torneira 🚹
+-   `Maquillage` Maquiagem 🚹
+-   `Crème solaire` Protetor solar 🚺
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 

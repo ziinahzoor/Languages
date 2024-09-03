@@ -5,6 +5,8 @@
 -   `Éχω` Ter
 -   `Κάνω` Fazer
 -   `Θέλω/Έθέλω` Querer
+-   `Πίνω` Beber
+-   `Τρώω` Comer
 
 ## Verbos -άω (-ώ)
 

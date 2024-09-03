@@ -20,6 +20,7 @@
 -   `Jambe` Perna
     -   `Genou` Joelho
     -   `Pied` Pé
+-   `Peau` Pele
 
 ## Internos
 

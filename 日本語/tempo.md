@@ -25,6 +25,7 @@
 -   <font size="5"><code><ruby>夜<rt>よる</rt></ruby></code></font> Noite
 -   <font size="5"><code><ruby>夜<rt>よ</rt>中<rt>なか</rt></ruby></code></font> Madrugada
 -   <font size="5"><code><ruby>週<rt>しゅう</rt></ruby></code></font> Semana
+    -   <font size="5"><code><ruby>再<rt>さ</rt>来<rt>らい</rt>週<rt>しゅう</rt></ruby></code></font> Semana depois da próxima
 -   <font size="5"><code><ruby>平<rt>へい</rt>日<rt>じつ</rt></ruby></code></font> Dia útil
 -   <font size="5"><code><ruby>週<rt>しゅう</rt>末<rt>まつ</rt></ruby></code></font> Fim de semana
 -   <font size="5"><code><ruby>月<rt>つき</rt></ruby></code></font> Mês

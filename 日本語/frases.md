@@ -17,6 +17,7 @@
 ### Ao partir
 
 -   `じゃあね` Tchau
+-   `またね` Até logo
 -   `またあした` Até amanhã
 -   `おやすみなさい` Boa noite (Ao se despedir)
 -   <font size="5"><code><ruby>行<rt>い</rt></ruby>ってきます</code></font> Estou indo
@@ -45,11 +46,13 @@
 
 -   `ください` Por favor (Para objetos e ações)
 -   `おねがいします` Por favor (Para serviços)
+-   `さあ` Vamos/Bora
 
 ## Arrependimento
 
 -   `すみません` Com licença/Desculpa
 -   `ごめんなさい` Desculpa (Informal)
+-   `さあ` Não tenho certeza
 
 ## Felicitações
 

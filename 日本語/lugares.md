@@ -58,7 +58,7 @@
 -   `すしや` Loja de sushi
 -   `びょういん` Hospital
 -   <font size="5"><code><ruby>海<rt>`うみ`</rt></ruby></code></font> Praia
--   `こうえん` Parque
+-   <font size="5"><code><ruby>公<rt>こう</rt>園<rt>えん</rt></ruby></code></font> Parque
 -   `ゆうえんち` Parque temático
 -   <font size="5"><code><ruby>動<rt>どう</rt>物<rt>ぶつ</rt>園<rt>えん</rt></ruby></code></font> Zoológico
 -   `すいぞくかん` Aquário
@@ -87,7 +87,7 @@
 -   `ちゅうかがい` Chinatown
 -   `スパ` Spa
 -   `おまつり` Festival
--   `えいがかん` Cinema
+-   <font size="5"><code><ruby>映<rt>えい</rt>画<rt>が</rt>館<rt>かん</rt></ruby></code></font> Cinema
 -   `みち` Rua/Estrada/Caminho
 -   <font size="5"><code><ruby>百<rt>ひゃく</rt>円<rt>えん</rt></ruby>ショップ</code></font> Loja de 1,99
 -   `でんきや` Loja de eletrônicos

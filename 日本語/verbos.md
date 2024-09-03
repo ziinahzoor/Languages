@@ -258,7 +258,7 @@
     -   Não serve apenas para coisas físicas.
 -   `つづける` Continuar
 -   <font size="5"><code><ruby>助<rt>たす</rt>ける</ruby></code></font> Ajudar/Resgatar
--   `おしえる` Ensinar
+-   <font size="5"><code><ruby>教<rt>おし</rt></ruby>える</code></font> Ensinar
 -   `こたえる` Responder
 -   `いきる` Viver
 -   `のりかえる` Fazer escala (ônibus e trens)
@@ -286,6 +286,8 @@
 -   `なくなる` Falecer
 -   `あたためる` Esquentar/Aquecer
 -   <font size="5"><code><ruby>似<rt>に</rt></ruby>る</code></font> Parecer/Assemelhar
+-   `かける` Ligar/Chamar (ao telefone)
+    -   Tem uma nuance de iniciar a chamada, não necessariamente falar ao telefone.
 
 ## Verbos する
 
@@ -306,6 +308,7 @@
 -   `ほんやく` Traduzir
 -   `うんてん` Dirigir/Operar
 -   `うんどう` Exercitar
+-   <font size="5"><code><ruby>練<rt>れん</rt>習<rt>しゅう</rt></ruby></code></font> Praticar/Treinar/Exercitar
 -   <font size="5"><code><ruby>乾<rt>かん</rt>杯<rt>ぱい</rt></ruby></code></font> Brindar
 -   `よやく` Reservar
 -   `ゆっくり` Relaxar

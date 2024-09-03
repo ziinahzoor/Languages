@@ -59,6 +59,7 @@
 -   `Étudier` Estudar
 -   `Travailler` Trabalhar
 -   `Aller` Ir
+    -   `S'aller` Cair/Combinar (roupas)
 -   `Aimer` Amar (pessoas)/Gostar (coisas)
     -   Significa "amar" quando se refere a pessoas e "gostar" quando se refere a outras coisas (inclusive animais). Para falar que ama outra coisa, usar `adorer`
 -   `Adorer` Amar (coisas)
@@ -70,6 +71,7 @@
 -   `Rencontrer` Conhecer (Meet)
 -   `Payer` Pagar
 -   `Trouver` Encontrar
+-   `S'inquiéter` Preocupar-se
 -   `Retrouver` Reencontrar
 -   `Chercher` Procurar/Buscar
     -   Também tem o sentido "trazer" de "buscar"

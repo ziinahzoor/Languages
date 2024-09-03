@@ -90,6 +90,7 @@
 -   `Gérant` Gerente
 -   `Mécanicien` Mecânico
 -   `Humoriste` Comediante/Humorista
+-   `Coiffeur` Cabeleireiro
 
 ## La famille - Família
 

@@ -25,6 +25,7 @@
 -   `Insecte` Inseto
 -   `Lion` Leão
 -   `Canard` Pato
+-   `Mouette` Gaivota
 
 ## Relacionado
 

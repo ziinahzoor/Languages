@@ -45,8 +45,10 @@
 -   `Cher` Caro
 -   `Bon marché` Barato
 -   `Meilleur` Melhor
+-   `Pire` Pior
 -   `Beau` Bonito
     -   `Bel` Se começa com som de vogal
+-   `Moche` Feio
 -   `Possible` Possível
 -   `Élégant` Elegante
 -   `Malade` Doente
@@ -210,3 +212,7 @@
 -   `Cool` Legal
 -   `Bête` Besta/Bobo
 -   `Terrible` Terrível
+-   `Pâle` Pálido
+-   `Bouclé` Cacheado
+-   `Raide` Liso (cabelo)
+-   `En colère` Bravo/Irritado

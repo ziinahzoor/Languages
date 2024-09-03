@@ -47,7 +47,7 @@
 -   `なぜなら。。。からです` Porque
 -   `もし` Se
 -   `もっと` Mais
--   `いっしょに` Juntos
+-   <font size="5"><code><ruby>一<rt>いっ</rt>緒<rt>しょ</rt></ruby>に</code></font> Juntos
 -   `はやく` Cedo/Rapidamente
 -   `おそく` Tarde/Vagarosamente
 -   `はじめて` Pela primeira vez

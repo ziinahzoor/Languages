@@ -31,6 +31,7 @@
 -   `Dis donc` Olha só/Puxa vida/Me diga/Não me diga que...
 -   `On dirait que...` Parece que...
 -   `Par cœur` De cor
+-   `C'est de pire en pire` Fica cada vez pior
 
 ## Verlan
 

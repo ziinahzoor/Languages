@@ -20,6 +20,10 @@
 
 **[Gramática espanhola](https://www.spanishdict.com/guide)**
 
+## Grego
+
+**[Aprender grego](https://learningreek.com/greek-language/)**
+
 ## Mandarim
 
 **[Dicionário de mandarim](hanzii.net)**

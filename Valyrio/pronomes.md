@@ -109,9 +109,9 @@
 <table>
     <thead>
         <tr>
-            <th rowspan="2" colspan="2">Perto do</th>
-            <th colspan="2">Locutor</th>
-            <th colspan="2">Ouvinte</th>
+            <th rowspan="2" colspan="2"></th>
+            <th colspan="2">Proximal</th>
+            <th colspan="2">Distal</th>
             <th colspan="2">Interrogativo</th>
         </tr>
 		<tr>

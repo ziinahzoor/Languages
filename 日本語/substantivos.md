@@ -356,6 +356,7 @@
 -   `ほんやく` Tradução
 -   `うんてん` Direção/Operação
 -   `うんどう` Exercício
+-   <font size="5"><code><ruby>練<rt>れん</rt>習<rt>しゅう</rt></ruby></code></font> Prática/Treino/Exercício
 -   `パズル` Quebra-cabeças
 -   `ゲーム` Jogo/Videogame
     -   `カードゲーム` Jogo de cartas
@@ -364,7 +365,6 @@
 -   `プレゼン` Apresentação
 -   `パフォーマンス` Performance
 -   `カラオケ` Karaokê
--   `れんしゅう` Treino/Prática
 -   `しあい` Partida/Jogo
 -   `バレエ` Balé
 -   `パフォーマンス` Atuação

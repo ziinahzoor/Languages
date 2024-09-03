@@ -75,6 +75,9 @@
 
 ## Artigos
 
+> [!NOTE]
+> Os artigos só não acompanham o substantivo no vocativo ou quando o substantivo descreve o sujeito usando a cópula.
+
 ### Definidos
 
 <table>

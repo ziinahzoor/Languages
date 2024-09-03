@@ -2,6 +2,8 @@
 
 -   `Άντρας` Homem
 -   `Γυναίκα` Mulher
+-   `Κορίτσι` Menina ✴️
+-   `Αγόρι` Menino ✴️
 -   `Αρχιτέκτονας` Arquiteto
 
 ## Família
