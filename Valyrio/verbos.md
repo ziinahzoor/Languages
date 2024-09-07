@@ -14,6 +14,19 @@
 -   `Iotāptegon` Respeitar/Considerar
 -   `Ȳdragon` Falar
 -   `Idakogon` Atacar
+-   `Nevegon` Carregar
+-   `Keligon` Parar
+-   `Sindigon` Comprar
+-   `Vūjigon` Beijar
+-   `Merbugon` Ter fome
+-   `Bardugon` Escrever
+-   `Arghugon` Caçar
+-   `Pilogon` Segurar
+-   `Nektogon` Cortar/Fatiar
+-   `Angogon` Morder
+-   `Dēmagon` Sentar
+-   `Limagon` Chorar
+-   `Ropagon` Cair
 
 ## Verbos -agon
 

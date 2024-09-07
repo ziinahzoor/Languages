@@ -1,5 +1,6 @@
-# Pessoas
+# Leute - Pessoas
 
+-   `Person` Pessoa
 -   `Mann` Homem
 -   `Frau` Mulher
 -   `Bruder` Irmão
@@ -9,7 +10,9 @@
 -   `Sohn` Filho
 -   `Tochter` Filha
 -   `Junge` Menino
+-   `Mädchen` Menina ✴️
 -   `Kellner` Garçom
+-   `Kellnerin` Garçonete
 -   `Artz` Doutor
 -   `Schüler` Estudante
 -   `Student` Universitário

@@ -84,6 +84,8 @@
 -   `Pourtant` Porém/Entretanto/Mesmo assim
 -   `Clairement` Claramente
 -   `Autant` Tanto
+-   `Exactement` Exatamente
+-   `Retard` Atraso
 
 ## Os Porquês
 

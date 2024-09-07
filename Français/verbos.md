@@ -85,7 +85,7 @@
 -   `Jouer` Brincar/Jogar/Atuar
     -   `Jouer a` Jogar (esporte)
     -   `Jouer de` Tocar (instrumento)
--   `Garder` Observar/Guardar
+-   `Garder` Manter/Observar/Guardar
 -   `Regarder` Olhar/Assistir
 -   `Cuisiner` Cozinhar
 -   `Aider` Ajudar
@@ -215,6 +215,7 @@
 -   `Supposer` Supor
 -   `Déranger` Incomodar/Perturbar
 -   `Crier` Gritar
+-   `Déplacer` Mover
 
 ## -ir Verbes
 

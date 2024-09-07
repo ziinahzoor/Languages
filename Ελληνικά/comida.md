@@ -25,3 +25,4 @@
 -   `Νερό` Água ✴️
 -   `Ούζο` Uzo/Ouzo (Bebida alcoólica feita com anis) ✴️
 -   `Καφές` Café
+-   `Γάλα` Leite ✴️

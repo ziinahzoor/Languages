@@ -37,12 +37,6 @@
 -   `Teléfono` Telefone
 -   `Celular`
 -   `Maleta` Mala
--   `Dinero` Dinheiro
-    -   `Efectivo` Espécie
--   `Centavo`
--   `Tarjeta` Cartão
--   `Tarjeta de crédito` Cartão de crédito 🚺
--   `Cuenta` Conta
 -   `Camisa`
 -   `LLave` Chave
 -   `Regalo` Presente
@@ -54,7 +48,6 @@
 -   `Examen` Prova 🚹
 -   `Computadora` Computador 🚺
 -   `Portátil` Laptop
--   `Menú` Cardápio
 -   `Silla` Cadeira
 -   `Sillón` Cadeirão/Poltrona
 -   `Retrato`
@@ -72,8 +65,6 @@
     -   `Refrigerador`
         -   `Refri`
 -   `Pelota` Bola
--   `Piano`
--   `Guitarra`
 -   `Muñeca` Boneca
 -   `Diario` Jornal
 -   `Foto`
@@ -87,7 +78,6 @@
 -   `Paquete` Pacote
 -   `Toalla` Toalha
 -   `Papel`
--   `Entrada` Ingresso
 -   `Caja` Caixa
 -   `Piso`
 -   `Pared` Parede
@@ -129,11 +119,11 @@
 -   `Impresora` Impressora
 -   `Pizzarón` Quadro branco
 -   `Correo` Correio
+-   `Perfume`
 
 ## Abstratos
 
 -   `Cosa` Coisa
--   `Reserva`
 -   `Cita` Encontro/Compromisso 🚺
 -   `Amor`
 -   `Cosa` Coisa
@@ -282,6 +272,20 @@
 -   `Cometa` Pipa
 -   `Hockey` Hóquei
 
+### Compras
+
+-   `Cheque`
+-   `Dinero` Dinheiro
+    -   `Efectivo` Espécie
+-   `Centavo`
+-   `Tarjeta` Cartão
+-   `Tarjeta de crédito` Cartão de crédito 🚺
+-   `Cuenta` Conta
+-   `Recibo`
+-   `Reserva`
+-   `Entrada` Ingresso
+-   `Menú` Cardápio
+
 ### La Escuela - Escola
 
 -   `Regla` Régua
@@ -321,5 +325,7 @@
 
 -   `Violín` Violino
 -   `Tambor` Bateria 🚹
+-   `Piano`
+-   `Guitarra`
 
 ## Outros

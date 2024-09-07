@@ -74,8 +74,10 @@
 -   `Soleil` Sol
 -   `Neige` Neve
 -   `Nuage` Nuvem 🚹
+    -   `Nuageux` Nublado
 -   `Pluie` Chuva
 -   `Ciel` Céu
+-   `Brouillard` Névoa/Neblina 🚹
 
 ## Les Saisons - Estações
 

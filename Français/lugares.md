@@ -71,7 +71,7 @@
 -   `Est` Leste
 -   `Ouest` Oeste
 
-## La maison - Casa
+## La Maison - Casa
 
 -   `Foyer` Lar
 -   `Appartement` Apartamento
@@ -191,6 +191,7 @@
 -   `Cabine d'essayage` Provador 🚺
 -   `Sortie` Saída
 -   `Zone` Área/Zona
+-   `Quai` Plataforma 🚹
 
 ## France - França
 

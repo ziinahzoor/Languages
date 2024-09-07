@@ -2,19 +2,18 @@
 
 -   `Kaffee` Café
 -   `Tee` Chá
--   `Milch` Leite
+-   `Milch` Leite 🚺
 -   `Wein` Vinho
--   `Wasser` Água
--   `Bier` Cerveja
--   `Brot` Pão
+-   `Wasser` Água ✴️
+    -   `Mineralwasser` Água mineral ✴️
+-   `Bier` Cerveja ✴️
+-   `Brot` Pão ✴️
 -   `Sandwich` Sanduíche ✴️
 -   `Käse` Queijo
--   `Ei` Ovo
--   `Salat` 🚹
+-   `Ei` Ovo ✴️
+-   `Salat` Salada 🚹
 -   `Wurst` Salsicha
 -   `Salz` Sal ✴️
--   `Wasser` Água ✴️
--   `Mineralwasser` Água mineral ✴️
--   `Fleisch` Carne
+-   `Fleisch` Carne ✴️
 -   `Kartoffel` Batata
 -   `Pommes` Batata-frita

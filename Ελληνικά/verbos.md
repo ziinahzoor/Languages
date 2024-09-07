@@ -2,11 +2,12 @@
 
 ## Verbos -ω
 
--   `Éχω` Ter
+-   `Έχω` Ter
 -   `Κάνω` Fazer
 -   `Θέλω/Έθέλω` Querer
 -   `Πίνω` Beber
 -   `Τρώω` Comer
+-   `Διαβάζω` Ler
 
 ## Verbos -άω (-ώ)
 

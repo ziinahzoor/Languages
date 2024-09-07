@@ -22,3 +22,5 @@
 -   `Gehen` Ir
 -   `Fahren` Dirigir
 -   `Bringen` Trazer
+-   `Möchten` Querer
+-   `Kosten` Custar

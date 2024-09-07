@@ -37,6 +37,7 @@
 -   `Vīlībāzma` Guerra 🌙
 -   `Sēter` Feitiço 🌊
 -   `Kostion` Poder 🌱
+-   `Gevives` Beleza ☀️
 
 ## Transporte
 

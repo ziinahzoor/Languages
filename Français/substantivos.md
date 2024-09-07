@@ -45,7 +45,7 @@
 -   `Four` Forno
 -   `Bol` Tigela 🚹
 
-### La Salle de bain - Banheiro
+### La Salle de Bain - Banheiro
 
 -   `Médicament` Medicamento/Remédio
 -   `Serviette` Toalha
@@ -75,6 +75,7 @@
 -   `Clé` Chave
 -   `Clavier` Teclado
 -   `Porte` Porta
+-   `Portail` Portão
 -   `Fenêtre` Janela
 -   `Chaise` Cadeira
 -   `Stylo` Caneta 🚹
@@ -276,6 +277,9 @@
 -   `Conseil` Conselho
 -   `Offre` Oferta
 -   `Vue` Vista
+-   `Annulation` Cancelamento 🚺
+-   `Queue` Fila
+-   `Côté` Lado
 
 ### Sentimentos e emoções
 
@@ -297,6 +301,9 @@
 ## Transporte
 
 -   `Vol` Vôo
+-   `Siège` Assento
+    -   `Côté couloir` Assento no corredor
+    -   `Côté fenêtre` Assento na janela
 -   `Bagage` Bagagem
 -   `Billet` Passagem 🚹
 -   `Voiture` Carro 🚺
@@ -360,6 +367,7 @@
 -   `Publicité` Publicidade/Comercial
 -   `Marque` Marca
 -   `Règle` Regra
+-   `Promenade` Passeio/Caminhada
 
 ### Compras
 
@@ -406,10 +414,11 @@
 -   `Basket` Basquete
 -   `Tennis` Tênis
 -   `Boxe`
--   `Course à pied` Corrida
+-   `Course` Corrida
 -   `Rugby` Rúgbi
 -   `Handball` Handebol
 -   `Snowboard`
+-   `Golf` Golfe
 
 ## Música
 

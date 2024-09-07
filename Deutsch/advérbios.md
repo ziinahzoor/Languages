@@ -19,3 +19,5 @@
 -   `Wirklich` Sério/Realmente
 -   `Rechts` À direita
 -   `Links` À esquerda
+-   `Weit weg` Distante/Muito longe
+-   `Natürlich` Claro/Naturalmente

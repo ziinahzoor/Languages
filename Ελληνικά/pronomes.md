@@ -6,7 +6,7 @@
 	<thead>
 		<tr>
 			<th>Flexão</th>
-			<th>Pessoa</th>
+			<th colspan="2">Pessoa</th>
 			<th>Nominativo</th>
 			<th>Acusativo</th>
 			<th>Genitivo</th>
@@ -14,43 +14,50 @@
 		</tr>
 	</thead>
 	<tr>
-		<th rowspan="5">Singular</th>
-		<th>Primeira</th>
+		<th rowspan="6">Singular</th>
+		<th colspan="2">Primeira</th>
 		<td>Εγώ</td>
 		<td>Εμένα(Με)</td>
 		<td>Εμένα(Μου)</td>
-		<td rowspan="5">
+		<td rowspan="6">
 			<p>Δικός 🚹</p>
 			<p>Δική 🚺</p>
 			<p>Δικό ✴️</p>
 		</td>
 	</tr>
 	<tr>
-		<th>Segunda</th>
+		<th rowspan="2">Segunda</th>
+		<th>Informal</th>
 		<td>Εσύ</td>
 		<td>Εσένα(Σε)</td>
 		<td>Εσένα(Σου)</td>
 	</tr>
 	<tr>
-		<th>Terceira 🚹</th>
+		<th>Formal</th>
+		<td>Εσείς</td>
+		<td colspan="2">Εσάς(Σας)</td>
+	</tr>
+	<tr>
+		<th rowspan="3">Terceira</th>
+		<th>Masculino</th>
 		<td>Αυτός(Τος)</td>
 		<td>Αυτόν(Τον)</td>
 		<td>Αυτού(Του)</td>
 	</tr>
 	<tr>
-		<th>Terceira 🚺</th>
+		<th>Feminino</th>
 		<td>Αυτή(Τη)</td>
 		<td>Αυτή[ν](Τη[ν])</td>
 		<td>Αυτής(Της)</td>
 	</tr>
 	<tr>
-		<th>Terceira ✴️</th>
+		<th>Neutro</th>
 		<td colspan="2">Αυτό(Το)</td>
 		<td>Αυτού(Του)</td>
 	</tr>
 	<tr>
 		<th rowspan="5">Plural</th>
-		<th>Primeira</th>
+		<th colspan="2">Primeira</th>
 		<td>Εμείς</td>
 		<td colspan="2">Εμάς(Μας)</td>
 		<td rowspan="5">
@@ -60,23 +67,24 @@
 		</td>
 	</tr>
 	<tr>
-		<th>Segunda</th>
+		<th colspan="2">Segunda</th>
 		<td>Εσείς</td>
 		<td colspan="2">Εσάς(Σας)</td>
 	</tr>
 	<tr>
-		<th>Terceira 🚹</th>
+		<th rowspan="3">Terceira</th>
+		<th>Masculino</th>
 		<td>Αυτοί(Τοι)</td>
 		<td>Αυτούς(Τους)</td>
 		<td rowspan="3">Αυτών(Τους)</td>
 	</tr>
 	<tr>
-		<th>Terceira 🚺</th>
+		<th>Feminino</th>
 		<td>Αυτές(Τες)</td>
 		<td>Αυτές(Τις, Τες)</td>
 	</tr>
 	<tr>
-		<th>Terceira ✴️</th>
+		<th>Neutro</th>
 		<td colspan="2">Αυτά(Τα)</td>
 	</tr>
 </table>

@@ -133,6 +133,7 @@
 -   `Fantastique` Fantástico
 -   `Sérieux` Sério
 -   `Agréable` Agradável
+-   `Insupportable` Insuportável
 -   `Responsable` Responsável
 -   `Paresseux` Preguiçoso
 -   `Fou/Folle` Louco/Doido
@@ -216,3 +217,5 @@
 -   `Bouclé` Cacheado
 -   `Raide` Liso (cabelo)
 -   `En colère` Bravo/Irritado
+-   `Moyen` Médio
+-   `International` Internacional

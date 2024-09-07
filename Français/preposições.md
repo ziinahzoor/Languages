@@ -29,3 +29,4 @@
 -   `Sauf` Exceto
 -   `En face de` Em frente a
 -   `Depuis` Desde/A partir de/Por/Faz (temporal)
+-   `À cause de` Por causa de

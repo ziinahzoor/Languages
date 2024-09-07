@@ -8,6 +8,7 @@
     -   `Gafas de sol` Óculos de sol
 -   `Lentes` Óculos 🚹
 -   `Gorra` Boné 🚺
+-   `Arete` Brinco
 
 ## El Cuerpo - Corpo
 
@@ -25,10 +26,12 @@
 -   `Traje` Terno
 -   `Suéter`
 -   `Uniforme`
+-   `Pijama`
 
 ## Los Brazos - Braços
 
 -   `Reloj` Relógio
+-   `Brazalete` Bracelete
 
 ## Las Piernas - Pernas
 

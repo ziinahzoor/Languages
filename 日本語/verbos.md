@@ -150,6 +150,8 @@
     -   `おなかがすく` Ter fome
 -   <font size="5"><code><ruby>履<rt>は</rt></ruby>く</code></font> Vestir/Calçar/Usar (Parte inferior)
 -   <font size="5"><code><ruby>働<rt>はたら</rt>く</ruby></code></font> Trabalhar
+-   <font size="5"><code><ruby>吹<rt>ふ</rt></ruby>く</code></font> Soprar
+    -   Também é usado como "tocar" para instrumentos de sopro.
 -   <font size="5"><code><ruby>泳<rt>およ</rt>ぐ</ruby></code></font> Nadar
 -   `いそぐ` Apressar
 -   <font size="5"><code><ruby>脱<rt>ぬ</rt></ruby>ぐ</code></font> Despir/Tirar (roupa)
@@ -230,7 +232,10 @@
 -   `なおる` Recuperar/Curar
 -   `ぬる` Aplicar/Pintar
     -   Serve para remédios
--   <font size="5"><code><ruby>被<rt>かぶ</rt></ruby>る</code></font> Vestir/Usar (Na cabeça)
+-   <font size="5"><code><ruby>被<rt>かぶ</rt></ruby>る</code></font> Vestir/Usar (na cabeça)
+-   <font size="5"><code><ruby>降<rt>ふ</rt></ruby>る</code></font> Cair (chuva, neve, cinzas)
+    -   Geralmente acompanha o `が`
+-   <font size="5"><code><ruby>曇<rt>くも</rt></ruby>る</code></font> Embaçar/Nublar
 
 ## 一段 - Ichidan
 
@@ -247,7 +252,7 @@
 -   <font size="5"><code><ruby>浴<rt>あ</rt>びる</ruby></code></font> Banhar-se
     -   Além do sentido literal, também pode ser de sol, de luz ou outra coisa.
 -   `できる` Poder/Ser capaz
-    -   Geralmente acompanha o `が`
+    -   Geralmente acompanha `が`
     -   Quando acompanha `で`, indica que algo pode ser feito em determinado local.
     -   Sua forma plana é a forma potencial de `する`, então sua forma potencial raramente é usada.
     -   Pode-se acrescentar o verbo do qual se é capaz na forma plana + `こと` antes.
@@ -288,6 +293,7 @@
 -   <font size="5"><code><ruby>似<rt>に</rt></ruby>る</code></font> Parecer/Assemelhar
 -   `かける` Ligar/Chamar (ao telefone)
     -   Tem uma nuance de iniciar a chamada, não necessariamente falar ao telefone.
+-   <font size="5"><code><ruby>晴<rt>は</rt></ruby>れる</code></font> Limpar/Clarear (o céu)
 
 ## Verbos する
 

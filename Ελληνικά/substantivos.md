@@ -6,6 +6,8 @@
 -   `Τσιγάρο` Cigarro ✴️
 -   `Θρόνος` Trono
 -   `Τηλέφωνο` Telefone ✴️
+-   `Εφημερίδα` Jornal 🚺
+-   `Βιβλίο` Livro ✴️
 
 ## Abstrato
 
@@ -14,6 +16,10 @@
 ## Atividades
 
 -   `Βίντεο` Vídeo ✴️
+
+### Compras
+
+-   `Μενού` Cardápio ✴️
 
 ## Transporte
 

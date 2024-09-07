@@ -31,6 +31,8 @@
 -   `たぶん` Provavelmente
 -   `いくら` Quanto (Preço)
 -   `どのぐらい・どのくらい` Quanto (Tempo, distância)
+-   `どれくらい` Quão
+    -   Usado com adjetivos.
 -   `いくつ` Quantos (Quantidade)
 -   `ちょっと` Um pouco (Pode ser usado pra recusar algo)
     -   <font size="5"><code><ruby>少<rt>すこ</rt>し</ruby></code></font> Um pouco (Formal) (Pode ser usado para indicar hesitação)

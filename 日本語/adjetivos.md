@@ -15,15 +15,15 @@
 -   `ダサい` Brega/Sem estilo
 -   `やさしい` Gentil, fácil, agradável
 -   `しんせつ` Gentil, generoso
--   `わるい` Ruim
+-   <font size="5"><code><ruby>悪<rt>わる</rt></ruby>い</code></font> Ruim
 -   `うすい` Magro
 -   `おいしい` Gostoso
 -   `まずい` Desgostoso/De gosto ruim
     -   Em linguagem informal pode significar "ruim"/"ah, não!", semelhante ao "porcaria".
--   <font size="5"><code><ruby>大<rt>おお</rt>きい</ruby></code></font> Grande
--   <font size="5"><code><ruby>小<rt>ちい</rt>さい</ruby></code></font> Pequeno
--   `あかるい` Brilhante/Iluminado
--   `くらい` Escuro
+-   <font size="5"><code><ruby>大<rt>おお</rt></ruby>きい</code></font> Grande
+-   <font size="5"><code><ruby>小<rt>ちい</rt></ruby>さい</code></font> Pequeno
+-   <font size="5"><code><ruby>明<rt>あか</rt></ruby>るい</code></font> Brilhante/Iluminado
+-   <font size="5"><code><ruby>暗<rt>く</rt></ruby>らい</code></font> Escuro
 -   `かわいい` Fofo
 -   `おもしろい` Interessante/Engraçado
 -   `つまらない` Entediante
@@ -84,6 +84,8 @@
 -   <font size="5"><code><ruby>汚<rt>きたな</rt>い</ruby></code></font> Sujo
 -   `うつくしい` Bonito
 -   `ひどい` Péssimo/Horrível/Terrível
+-   <font size="5"><code><ruby>弱<rt>よわ</rt></ruby>い</code></font> Fraco
+-   <font size="5"><code><ruby>強<rt>つよ</rt></ruby>い</code></font> Forte
 
 ## Adjetivos な
 

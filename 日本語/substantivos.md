@@ -2,8 +2,8 @@
 
 ## しぜん - Natureza
 
--   `つき` Lua
--   `くも` Nuvem
+-   <font size="5"><code><ruby>月<rt>つき</rt></ruby></code></font> Lua
+-   <font size="5"><code><ruby>雲<rt>くも</rt></ruby></code></font> Nuvem
 -   `たんぽぽ` Dente-de-leão
 -   `くうき` Ar
 -   `じしん` Terremoto
@@ -23,7 +23,7 @@
 -   `さくら` Flor de cerejeira
 -   <font size="5"><code><ruby>雨<rt>あめ</rt></ruby></code></font> Chuva
 -   <font size="5"><code><ruby>空<rt>そら</rt></ruby></code></font> Céu
--   `かぜ` Vento
+-   <font size="5"><code><ruby>風<rt>かぜ</rt></ruby></code></font> Vento
 
 ### Materiais
 

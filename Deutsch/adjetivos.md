@@ -18,12 +18,15 @@
 -   `Elegant` Elegante
 -   `Reich` Rico
 -   `Teuer` Caro
+-   `Billig` Barato
 -   `Schnell` Rápido
 -   `Krank` Doente
 -   `Cool` Legal
--   `Neue` Novo
+-   `Alt` Velho
+-   `Neu` Novo
 -   `Billig` Barato
 -   `Perfekt` Perfeito
 -   `Stressig` Estressante
 -   `Interessant` Interessante
 -   `Einfach` Fácil
+-   `Elegant` Elegante

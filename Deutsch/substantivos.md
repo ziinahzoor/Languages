@@ -1,20 +1,43 @@
 # Substantivos
 
--   `Speisekarte` Cardápio
--   `Rechnung` Conta
--   `Pass` Passaporte
--   `Tasche` Táxi
--   `Jacke` Jaqueta
--   `Hemd` Camisa
--   `Hilfe` Ajuda
--   `Kasse` Caixa registradora
--   `Beruf` Profissão
--   `Sprachen` Línguas
--   `Schuhe` Sapatos 🚺
--   `Klavier` Piano ✴️
+## Casa e objetos
+
+-   `Fernseher` Televisão 🚹
+-   `Videospiel` Videogame ✴️
+-   `Tisch` Mesa 🚹
+
+## Abstrato
+
 -   `Frage` Pergunta
--   `Fernseher` Televisão
--   `Fußballspiel` Jogo de futebol
--   `Geld` Dinheiro
--   `Videospiel` Videogame
--   `Schach` Xadrez
+-   `Beruf` Profissão 🚹
+-   `Sprache` Língua
+-   `Hilfe` Ajuda
+-   `Geburtstag` Aniversário
+-   `Hunger` Fome 🚹
+-   `Durst` Sede 🚹
+
+## Transporte
+
+-   `Tasche` Táxi ✴️
+-   `Pass` Passaporte
+
+## Atividades
+
+-   `Fußballspiel` Jogo de futebol ✴️
+-   `Schach` Xadrez ✴️
+-   `Arbeit` Trabalho 🚺
+
+### Compras
+
+-   `Geld` Dinheiro ✴️
+-   `Speisekarte` Cardápio 🚺
+-   `Rechnung` Conta
+-   `Kasse` Caixa registradora
+-   `Geldautomat` Caixa eletrônico
+-   `Reservierung` Reserva
+
+### Música
+
+#### Instrumentos
+
+-   `Klavier` Piano ✴️

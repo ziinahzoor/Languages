@@ -73,6 +73,14 @@
 -   As formas femininas costumam terminar em `-η` e `-α`.
 -   As formas neutras costumam terminar em `-ο`, `-ύ`, `-ί` e `-ικο`.
 
+## Plural
+
+-   Terminados em `-ος`: `-οι`.
+-   Terminados em `-α`, `-ας`, `–η`, `-ης`: `-ες`.
+-   Terminados em `-ο`: `-α`.
+-   Terminados em `-ι`: `-ια`.
+-   Terminados em `-μα`: `-ματα`.
+
 ## Artigos
 
 > [!NOTE]

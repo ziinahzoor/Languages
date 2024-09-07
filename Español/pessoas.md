@@ -62,6 +62,7 @@
 -   `Limpiador` Faxineiro
 -   `Piloto`
 -   `Cantante` Cantor
+-   `Vendedor`
 
 ## La Familia - Família
 

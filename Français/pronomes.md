@@ -11,7 +11,7 @@
     <thead>
         <tr>
             <th>Nombre</th>
-            <th>Personne</th>
+            <th colspan="2">Personne</th>
             <th>Sujet</th>
             <th>Réfléchis</th>
             <th>Complément direct</th>
@@ -23,7 +23,7 @@
     </thead>
     <tr>
         <th>Número</th>
-        <th>Pessoa</th>
+        <th colspan="2">Pessoa</th>
         <th>Reto</th>
         <th>Reflexivos</th>
         <th>Oblíquo Direto</th>
@@ -33,8 +33,8 @@
         <th>Possessivos</th>
     </tr>
     <tr>
-        <th rowspan="4">Singulier</th>
-        <th>Première</th>
+        <th rowspan="5">Singulier</th>
+        <th colspan="2">Première</th>
         <td>je</td>
         <td>me</td>
         <td>me</td>
@@ -44,7 +44,8 @@
         <td>mien/mienne</td>
     </tr>
     <tr>
-        <th>Deuxième (Informel)</th>
+        <th rowspan="2">Deuxième</th>
+        <th>Informel</th>
         <td>tu</td>
         <td>te</td>
         <td>te</td>
@@ -54,7 +55,7 @@
         <td>tien/tienne</td>
     </tr>
     <tr>
-        <th>Deuxième (Formel)</th>
+        <th>Formel</th>
         <td>vous</td>
         <td>vous</td>
         <td>vous</td>
@@ -64,28 +65,33 @@
         <td>vôtre</td>
     </tr>
     <tr>
-        <th>Troisième</th>
-        <td>il/elle</td>
-        <td>se</td>
-        <td>le/la</td>
+        <th rowspan="2">Troisième</th>
+        <th>Masculin</th>
+        <td>il</td>
+        <td rowspan="2">se</td>
+        <td>le</td>
+        <td rowspan="2">lui</td>
         <td>lui</td>
-        <td>lui/elle</td>
-        <td>son/sa/ses</td>
-        <td>sien/sienne</td>
+        <td rowspan="2">son/sa/ses</td>
+        <td rowspan="2">sien/sienne</td>
     </tr>
     <tr>
-        <th rowspan="4">Pluriel</th>
-        <th>Première (Informel)</th>
+        <th>Féminin</th>
+        <td>elle</td>
+        <td>la</td>
+        <td>elle</td>
+    </tr>
+    <tr>
+        <th rowspan="5">Pluriel</th>
+        <th rowspan="2">Première</th>
+        <th>Informel</th>
         <td>on</td>
         <td>se</td>
         <td>on</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td colspan="4"></td>
     </tr>
     <tr>
-        <th>Première (Formel)</th>
+        <th>Formel</th>
         <td>nous</td>
         <td>nous</td>
         <td>nous</td>
@@ -95,7 +101,7 @@
         <td>nôtre</td>
     </tr>
     <tr>
-        <th>Deuxième</th>
+        <th colspan="2">Deuxième</th>
         <td>vous</td>
         <td>vous</td>
         <td>vous</td>
@@ -105,14 +111,20 @@
         <td>vôtre</td>
     </tr>
     <tr>
-        <th>Troisième</th>
-        <td>ils/elles</td>
-        <td>se</td>
-        <td>les</td>
-        <td>leur</td>
-        <td>eux/elles</td>
-        <td>leur/leurs</td>
-        <td>leur</td>
+        <th rowspan="2">Troisième</th>
+        <th>Masculin</th>
+        <td>ils</td>
+        <td rowspan="2">se</td>
+        <td rowspan="2">les</td>
+        <td rowspan="2">leur</td>
+        <td>eux</td>
+        <td rowspan="2">leur/leurs</td>
+        <td rowspan="2">leur</td>
+    </tr>
+    <tr>
+        <th>Féminin</th>
+        <td>elles</td>
+        <td>elles</td>
     </tr>
 </table>
 
@@ -203,6 +215,7 @@
 -   `Quelqu'un` Alguém
     -   `On`
 -   `Quelques-un(e)s` Alguns
+-   `N'importe quel` Qualquer um
 -   `Quiconque` Qualquer um
 -   `Tel` Alguém/Qualquer um
 -   `Rien` Nada

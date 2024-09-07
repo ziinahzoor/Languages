@@ -19,10 +19,12 @@
     -   `ひ` Dia de, Dia + adjetivo
 -   <font size="5"><code><ruby>朝<rt>あさ</rt></ruby></code></font> Manhã
 -   <font size="5"><code><ruby>昼<rt>ひる</rt></ruby></code></font> Dia (Período antes da noite)/Meio dia
+-   <font size="5"><code><ruby>昼<rt>ひる</rt>間<rt>ま</rt></ruby></code></font> Dia (Período antes da noite)
+    -   Mais comumente usado.
 -   <font size="5"><code><ruby>夕<rt>ゆう</rt>方<rt>がた</rt></ruby></code></font> Anoitecer (Até cerca de 7 horas)
--   <font size="5"><code><ruby>晩<rt>ばん</rt></ruby></code></font> Anoitecer tardio
-    -   Mais comum
+-   <font size="5"><code><ruby>晩<rt>ばん</rt></ruby></code></font> Anoitecer (Depois das 7)
 -   <font size="5"><code><ruby>夜<rt>よる</rt></ruby></code></font> Noite
+    -   <font size="5"><code><ruby>夕<rt>ゆう</rt></ruby>べ</code></font> Noite passada
 -   <font size="5"><code><ruby>夜<rt>よ</rt>中<rt>なか</rt></ruby></code></font> Madrugada
 -   <font size="5"><code><ruby>週<rt>しゅう</rt></ruby></code></font> Semana
     -   <font size="5"><code><ruby>再<rt>さ</rt>来<rt>らい</rt>週<rt>しゅう</rt></ruby></code></font> Semana depois da próxima
@@ -49,6 +51,7 @@
 -   <font size="5"><code><ruby>毎<rt>まい</rt></ruby></code></font> Todo(a)
 -   <font size="5"><code><ruby>先<rt>せん</rt></ruby></code></font> Anterior
 -   <font size="5"><code><ruby>今<rt>こん</rt></ruby></code></font> Este(a)
+    -   `朝` é <font size="5"><code><ruby>今<rt>け</rt>朝<rt>さ</rt></ruby></code></font>
     -   `夜` é <font size="5"><code><ruby>今<rt>こん</rt>夜<rt>や</rt></ruby></code></font>
 -   <font size="5"><code><ruby>来<rt>らい</rt></ruby></code></font> Próximo(a)
 
@@ -107,11 +110,13 @@
 
 ## <ruby>天<rt>てん</rt>気<rt>き</rt></ruby> - Clima
 
--   `はれ` Limpo/Ensolarado
--   `くもり` Nublado
+-   <font size="5"><code><ruby>晴<rt>は</rt></ruby>れ</code></font> Limpo/Ensolarado
+-   <font size="5"><code><ruby>曇<rt>くも</rt></ruby>り</code></font> Nublado
 -   <font size="5"><code><ruby>雨<rt>あめ</rt></ruby></code></font> Chuvoso
+    -   Também pode significar "chuva".
 -   `あらし` Tempestuoso
--   `ゆき` Nevoso
+-   <font size="5"><code><ruby>雪<rt>ゆき</rt></ruby></code></font> Nevoso
+-   Também pode significar "neve".
 -   `ふぶき` Nevasca
 
 ## <ruby>季<rt>き</rt>節<rt>せつ</rt></ruby> - Estações

@@ -6,5 +6,5 @@
 -   `Katze` Gato 🚺
 -   `Maus` Rato 🚺
 -   `Elefant` Elefante
--   `Hähnchen` Frango
+-   `Hähnchen` Frango ✴️
 -   `Fisch` Peixe

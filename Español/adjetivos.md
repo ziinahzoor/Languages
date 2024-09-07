@@ -154,3 +154,4 @@
 -   `Salvaje` Selvagem
 -   `Terrible` Terrível
 -   `Nacional`
+-   `Gratis` Grátis/Gratuito

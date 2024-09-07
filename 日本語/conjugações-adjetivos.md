@@ -44,6 +44,9 @@
 > [!NOTE]
 > A palavra `ない` é um adjetivo. Portanto na forma negativa flexionamos o adjetivo-base na forma `く` e o adicionamos. De forma semelhante, o colocamos no passado com `かった` → `なかった`.
 
+> [!TIP]
+> Na forma negativa, pode-se usar `くはない` para indicar que um substantivo não é _necessariamente_ qualificado com o adjetivo.
+
 ---
 
 ## <ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos `な`
@@ -81,7 +84,7 @@
         <td>だった・でした</td>
     </tr>
     <tr>
-        <th>Forma de advérbio</th>
+        <th>Forma conectiva/adverbial</th>
         <td>く</td>
         <td>に</td>
     </tr>

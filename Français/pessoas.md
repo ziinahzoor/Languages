@@ -28,7 +28,9 @@
 -   `Collègue` Colega
 -   `Joueur` Jogador
 -   `Monsieur` Senhor
+    -   `Messieurs` Senhores
 -   `Madame` Senhora
+    -   `Mesdames` Senhoras (Plural raro)
 -   `Mademoiselle` Senhorita
 -   `Médecin` Médico
 -   `Chauffeur` Motorista
