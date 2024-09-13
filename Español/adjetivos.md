@@ -155,3 +155,9 @@
 -   `Terrible` Terrível
 -   `Nacional`
 -   `Gratis` Grátis/Gratuito
+-   `Alejado` Longe
+-   `Molesto` Chateado
+-   `Horrible` Horrível
+-   `Usual` Normal
+-   `Muerto` Morto
+-   `En forma` Em forma

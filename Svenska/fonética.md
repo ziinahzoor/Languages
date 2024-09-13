@@ -1,0 +1,28 @@
+# Fonetik og Fonologi - Fonética e Fonologia
+
+-   `å` [oː]
+-   `ä` [æ/ɛ]
+-   `ö` [œ/ø]
+-   `y` [ʏ/y]
+-   `kj` [ɕ]
+-   `tj` [tɕ]
+-   `rd` [ɖ]
+-   `rl` [ɭ]
+-   `rn` [ɳ]
+-   `rs` [ʂ]
+-   `rt` [ʈ]
+-   `sj` [ɧ]
+-   `sk` [ɧ] (Antes de "e", "i", "y", "ä" e "ö")
+-   `sch` [ɧ/ʃ]
+-   `skj` [ɧ/ʃ]
+-   `stj` [ʃ]
+-   `ti` [ʃ]
+-   `si` [ʃ]
+-   `j` [j]
+-   `dj` [j]
+-   `gj` [j]
+-   `hj` [j]
+-   `lj` [j]
+-   `g` [j] (Antes de "e", "i", "y", "ä" e "ö")
+-   `k` [ɕ] (Antes de "e", "i", "y", "ä" e "ö")
+-   `ng` [ŋ]

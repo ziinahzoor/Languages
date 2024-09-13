@@ -120,6 +120,7 @@
 **Geralmente acompanham a partícula `が`.**
 
 -   `どう` Como/Que tal
+    -   `いかが` Formal
 -   `どんな` Que (tipo)
 -   <font size="5"><code><ruby>何<rt>なに</rt></ruby></code></font> O que
     -   <font size="5"><code><ruby>何<rt>なん</rt></ruby></code></font> Usado com algum sufixo
@@ -180,7 +181,7 @@
     </tr>
 </table>
 
--   `すべて・ぜんぶ` Tudo/Todos/Todas
+-   <font size="5"><code>すべて・<ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby></code></font> Tudo/Todos/Todas
 -   `みんな` Todo mundo
 
 ## Possessivos

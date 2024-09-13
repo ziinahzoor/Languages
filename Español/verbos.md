@@ -78,6 +78,7 @@
 -   `Perdonar` Perdoar
 -   `Contestar` Responder (por escrito)
 -   `Olvidar` Esquecer
+    -   `Olvidarse` Esquecer-se
 -   `Alquilar` Alugar
 -   `Fumar`
 -   `Sentarse` Sentar-se
@@ -145,7 +146,7 @@
 -   `Creer` Acreditar
 -   `Toucher` Tocar
 -   `Ver`
-    -   `Verse` Olhar/Parecer
+    -   `Verse` Olhar/Parecer(-se)
 -   `Doler` Doer
 -   `Poner` Por/Colocar
     -   `Ponerse` Vestir/Calçar/Sentir-se
@@ -166,6 +167,7 @@
 -   `Mover` Mover/Mexer
 -   `Romper` Quebrar
 -   `Receber`
+-   `Nacer` Nascer
 
 ## Los verbos -ir
 
@@ -192,3 +194,4 @@
 -   `Ocurrir` Ocorrer
 -   `Decidir`
 -   `Vestirse` Vestir-se
+-   `Reírse` Rir

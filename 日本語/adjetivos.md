@@ -105,7 +105,7 @@
     -   Geralmente usado como sufixo de substantivos e adjetivos.
     -   Quando ligado a um verbo na forma te, dá a ideia de "gostaria de tentar" alguma coisa.
 -   <font size="5"><code><ruby>色<rt>いろ</rt>々</ruby></code></font> Diversos/Vários/Todo tipo
--   `たいへん` Difícil
+-   <font size="5"><code><ruby>大<rt>たい</rt>変<rt>へん</rt></ruby></code></font> Difícil/Muito (Extremamante)
 -   `べんり` Conveniente
 -   `ふべん` Inconveniente
 -   `たのしみ` Ansioso (de antecipação)

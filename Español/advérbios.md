@@ -59,3 +59,7 @@
 -   `Claramente`
 -   `Tanto`
 -   `Bastante`
+-   `Rápidamente` Rapidamente
+-   `Gravemente`
+-   `Fácilmente` Facilmente
+-   `Inmediatamente` Imediatamente

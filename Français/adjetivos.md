@@ -218,4 +218,7 @@
 -   `Raide` Liso (cabelo)
 -   `En colère` Bravo/Irritado
 -   `Moyen` Médio
+-   `National` Nacional
 -   `International` Internacional
+-   `Vrai` Verdadeiro
+-   `Faux` Falso

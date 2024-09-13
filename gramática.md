@@ -133,6 +133,8 @@
 
 **Modo e voz descritas acima também são consideras inflexões.**
 
+-   `Polaridade gramatical`: Indica se a ação é afirmativa ou negativa.
+-   `Valência gramatical`: Indica quantos são os complementos da ação. Ex.: Impessoal (avalente), intransitivo (monovalente/monádico), transitivo (divalente/diádico), etc.
 -   `Tempo gramatical`: Indica quando a ação ocorre. Ex.: Passado; presente; futuro.
 -   `Aspecto gramatical`: Indica como a ação ocorre. Em várias linguagens não é um recurso independente, sendo usado junto ao tempo. Ex.: Progressivo; contínuo; perfeito; imperfeito.
 -   `Número gramatical`: Indica a quantidade de entidades. Ex.: Singular; plural; dual; coletivo.

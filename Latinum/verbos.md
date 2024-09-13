@@ -7,3 +7,6 @@
 -   `Legare` Deixar
 -   `Orare` Orar
 -   `Vocare` Chamar
+-   `Studere` Estudar
+-   `Dormire` Dormir
+-   `Scribere` Escrever

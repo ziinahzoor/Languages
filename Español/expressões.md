@@ -16,3 +16,9 @@
 -   `¿Qué te parece?` O que você acha?
 -   `¡Qué pena!` Que pena
 -   `Sin duda` Sem dúvida
+-   `¡Auxilio!` Ajuda!/Socorro!
+
+## Gírias
+
+-   `Perro oso` Que vergonha/Vergonha alheia
+-   `Duérmete un rato` Dorme um pouco/Tirar um cochilo

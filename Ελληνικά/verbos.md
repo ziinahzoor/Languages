@@ -1,4 +1,4 @@
-# Verbos
+# Ρήματα - Verbos ✴️
 
 ## Verbos -ω
 
@@ -8,8 +8,12 @@
 -   `Πίνω` Beber
 -   `Τρώω` Comer
 -   `Διαβάζω` Ler
+-   `Λέω` Dizer
+-   `Μένω` Morar
 
 ## Verbos -άω (-ώ)
+
+-   `Μιλάω` Falar
 
 ## Verbos -ώ
 

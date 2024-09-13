@@ -46,6 +46,7 @@
 -   `バニラ` Baunilha
 -   `チョコミント` Chocomenta
 -   `ステーキ` Steak
+-   <font size="5"><code><ruby>塩<rt>しお</rt></ruby></code></font> Sal
 -   `こしょう` Pimenta
 -   `シーフード` Frutos do mar
 -   `スープ` Sopa
@@ -64,7 +65,7 @@
 -   `たまねぎ` Cebola
 -   `シチュー` Ensopado
 -   `じゃがいも` Batata
--   `さとう` Açúcar
+-   <font size="5"><code><ruby>砂<rt>さ</rt>糖<rt>とう</rt></ruby></code></font> Açúcar
 -   `こむぎこ` Farinha
 -   `シリアル` Cereal
 -   `あめ` Doce
@@ -83,6 +84,7 @@
 -   `ラザニア` Lasanha
 -   `スパイス` Tempero
 -   `ガム` Chiclete
+-   `ミント` Hortelã
 
 ## <ruby>果<rt>くだ</rt>物<rt>もの</rt></ruby> - Frutas
 
@@ -103,8 +105,8 @@
 -   <font size="5"><code>お<ruby>酒<rt>さけ</rt></ruby></code></font> Álcool
 -   <font size="5"><code><ruby>水<rt>みず</rt></ruby></code></font> Água
 -   <font size="5"><code>お<ruby>茶<rt>ちゃ</rt></ruby></code></font> Chá (verde)
-    -   `こう茶` Chá preto
-    -   `ウーロン茶` Chá Oolong
+    -   <font size="5"><code><ruby>紅<rt>こう</rt>茶<rt>ちゃ</rt></ruby></code></font> Chá preto
+    -   <font size="5"><code>ウーロン<ruby>茶<rt>ちゃ</rt></ruby></code></font> Chá Oolong
 -   `ジュース` Suco
 -   `コーヒー` Café
     -   `カプチーノ` Cappuccino
@@ -125,7 +127,7 @@
 
 -   `だし` Dashi
     -   Caldo feito de diferentes ingredientes, como kombu e ossos ou carne de animais.
--   `しょうゆ` Shoyu
+-   <font size="5"><code><ruby>醤<rt>しょう</rt>油<rt>ゆ</rt></ruby></code></font> Shoyu
     -   Molho com pasta de soja fermentada, grãos torrados, salmoura e fungo koji.
 -   `みりん` Mirin
     -   Vinho de arroz similiar ao saquê, mas com menos álcool e mais açúcar.
@@ -162,8 +164,8 @@
             -   O metade do tubo de nori é preenchido com shari e a outra com outros ingredientes.
 -   `さしみ` Sashimi
     -   Peixe (ou outro fruto do mar) cru
--   `おべんとう` Lanche de lancheira
-    -   `べんとう` Formal
+-   <font size="5"><code><ruby>弁<rt>べん</rt>当<rt>とう</rt></ruby></code></font> Lanche de lancheira
+    -   <font size="5"><code>お<ruby>弁<rt>べん</rt>当<rt>とう</rt></ruby></code></font> Formal
     -   Uma marmita geralmente contendo arroz, carne, vegetais e macarrão.
 -   `うどん` Udon
     -   Macarrão grosso feito com farinha de trigo. Geralmente servido com algum caldo ou molho, como o dashi.
@@ -208,6 +210,7 @@
 -   <font size="5"><code><ruby>昼<rt>ひる</rt>ご<rt></rt>飯<rt>はん</rt></ruby></code></font> Almoço
     -   `ランチ`
 -   <font size="5"><code><ruby>晩<rt>ばん</rt>ご<rt></rt>飯<rt>はん</rt></ruby></code></font> Jantar
+-   <font size="5"><code><ruby>夕<rt>ゆう</rt>飯<rt>はん</rt></ruby></code></font> Jantar
 -   `しょくじ` Refeição
 -   `メイン` Prato principal
 -   <font size="5"><code><ruby>揚<rt>あ</rt></ruby>げ<ruby>物<rt>もの</rt></ruby></code></font> Comida frita

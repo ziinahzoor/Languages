@@ -3,5 +3,5 @@
 -   `Ecclesia` Igreja
 -   `Parochia` Paróquia
 -   `Terra`
--   `Urbe` Cidade
--   `Domi` Casa
+-   `Urbs` Cidade
+-   `Domus` Casa

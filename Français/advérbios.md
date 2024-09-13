@@ -12,8 +12,6 @@
     -   Geralmente usado com verbos.
 -   `Trop` Muito/Demais (Too much)
     -   Costuma indicar excessos. Para enfatizar o excesso pode-se ainda usar `beaucoup trop`.
--   `Plein de` Cheio/Repleto
-    -   "Muitos/Bastante/O bastante", quando se refere a coisas quantificáveis.
 -   `Oui` Sim
     -   `Si` Para frases negativas.
 -   `Non` Não (Para respostas)
@@ -30,62 +28,70 @@
 -   `Chaque` Cada/Todo
 -   `Parfois` Às vezes
 -   `Alors` Então
--   `D'abord` Primeiramente
--   `En retard` Atrasado
 -   `Mieux` Melhor
 -   `Prochain` Próximo
--   `Lentement` Lentamente
--   `D'habitude` Geralmente
--   `Vraiment` Realmente/Verdadeiramente
 -   `Assez` Suficiente/Bastante
 -   `Environ` Cerca
 -   `Puis` Então
 -   `Ensuite` A seguir
 -   `Jamais` Nunca
--   `Du tout` De forma alguma
--   `Avoir raison` Ter razão
--   `Avoir tort` Não ter razão
 -   `Vite` Rapidamente
--   `Rapidement` Rapidamente
--   `En fait` Na verdade
--   `Seulement` Somente/Apenas
 -   `Peut-être` Talvez
 -   `Si` Tão (Comparação)
--   `Par exemple` Por exemplo
 -   `Longtemps` Por muito tempo
--   `Immédiatement` Imediatamente
--   `En solde` De promoção
--   `En promotion` De promoção
 -   `Autour` Ao redor
--   `Tellement` Tão (Intensidade)/Assim
 -   `Déjà` Já
 -   `Presque` Quase/Perto de
--   `Tout de suite` Na hora/Imediatamente
--   `Heureusement` Felizmente
--   `Malheureusement` Infelizmente
--   `Quand même` Mesmo assim
--   `À l'étage` Lá em cima
--   `Sur Internet` Online
--   `Probablement` Provavelmente
--   `En avance` Antecipadamente
 -   `Soudain` De repente/Subitamente
+-   `Partout` Em todo lugar
+-   `Comment` Como
+-   `Pourtant` Porém/Entretanto/Mesmo assim
+-   `Autant` Tanto
+
+## Locutions adverbiales - Locuções adverbiais
+
+-   `Quand même` Mesmo assim
+-   `Plein de` Cheio/Repleto
+    -   "Muitos/Bastante/O bastante", quando se refere a coisas quantificáveis.
+-   `Par exemple` Por exemplo
+-   `Par terre` No chão
+-   `Tout de suite` Na hora/Imediatamente
+-   `N'importe où` Em qualquer lugar
+-   `D'abord` Primeiramente
+-   `D'habitude` Geralmente
+-   `Du tout` De forma alguma
+-   `À l'étage` Lá em cima
+-   `Au coin de` Na esquina de
+-   `En fait` Na verdade
+-   `En avance` Antecipadamente
+-   `En même temps` Ao mesmo tempo
+-   `En retard` Atrasado
+-   `En solde` De promoção
+-   `En promotion` De promoção
+-   `Sur Internet` Online
+
+## De manière - De modo
+
+-   `Rapidement` Rapidamente
+-   `Lentement` Lentamente
+-   `Tellement` Tão (Intensidade)/Assim
+-   `Probablement` Provavelmente
+-   `Immédiatement` Imediatamente
+-   `Seulement` Somente/Apenas
+-   `Vraiment` Realmente/Verdadeiramente
 -   `Facilement` Facilmente
 -   `Rarement` Raramente
 -   `Certainement` Certamente
--   `Partout` Em todo lugar
--   `N'importe où` Em qualquer lugar
--   `Au coin de` Na esquina de
+-   `Sérieusement` Seriamente
 -   `Récemment` Recentemente
--   `Comment` Como
 -   `Spécialement` Especialmente
 -   `Correctement` Corretamente
--   `En même temps` Ao mesmo tempo
--   `Sérieusement` Seriamente
--   `Pourtant` Porém/Entretanto/Mesmo assim
--   `Clairement` Claramente
--   `Autant` Tanto
+-   `Heureusement` Felizmente
+-   `Malheureusement` Infelizmente
+-   `Finalement` Finalmente
+-   `Gravement` Gravemente
 -   `Exactement` Exatamente
--   `Retard` Atraso
+-   `Clairement` Claramente
 
 ## Os Porquês
 

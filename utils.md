@@ -6,6 +6,10 @@
 
 **[Dicas da versão antiga do Duolingo](duome.eu/tips)**
 
+## Coreano
+
+**[Dicionário](https://korean.dict.naver.com/koendict)**
+
 ## Élfico
 
 **[Fonte](https://www.cdnfonts.com/tengwar-annatar.font)**
@@ -23,6 +27,11 @@
 ## Grego
 
 **[Aprender grego](https://learningreek.com/greek-language/)**
+
+## Klingon
+
+**[Aprender klingon](https://klingon.wiki)**
+**[Dicionário](https://en.wiktionary.org/wiki/Appendix:Klingon/)** - Usar `https://en.wiktionary.org/wiki/Appendix:Klingon/[palavra]`
 
 ## Mandarim
 

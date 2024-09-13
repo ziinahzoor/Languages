@@ -56,15 +56,15 @@
 -   `まず` Primeiramente
 -   `やっと` Por fim/Finalmente
 -   `ゆっくり` Devagar/Sem pressa
--   `ぜんぶ` Totalmente
+-   <font size="5"><code><ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby></code></font> Totalmente
 -   `とちゅう` No caminho
 -   `こんど` Da próxima vez/Outra hora/Dessa vez
     -   <font size="5"><code><ruby>今<rt>こん</rt>回<rt>かい</rt></ruby></code></font> é mais utilizado para "dessa vez"
 -   `さいきん` Recentemente/Ultimamente
--   `けっこう` Satisfatoriamente/Bastante/Quase sempre
+-   <font size="5"><code><ruby>結<rt>けっ</rt>構<rt>こう</rt></ruby></code></font> Satisfatoriamente/Bastante/Quase sempre
 -   <font size="5"><code><ruby>一<rt>いち</rt>日<rt>にち</rt>中<rt>じゅう</rt></ruby></code></font> O dia inteiro
 -   `まったく` Inteiramente/Completamente
--   `ぜんぜん` Nem um pouco/De forma alguma
+-   <font size="5"><code><ruby>全<rt>ぜん</rt>然<rt>ぜん</rt></ruby></code></font> Nem um pouco/De forma alguma
     -   Usado com frases negativas
 -   `かならず` Sempre (Sem exceção)/Certamente/Sem dúvidas
 -   `まあまあ` Mais ou menos/Razoável

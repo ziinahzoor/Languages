@@ -214,6 +214,7 @@
 -   `Quelque chose` Algo
 -   `Quelqu'un` Alguém
     -   `On`
+        -   Impessoal
 -   `Quelques-un(e)s` Alguns
 -   `N'importe quel` Qualquer um
 -   `Quiconque` Qualquer um

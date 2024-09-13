@@ -54,7 +54,7 @@
 -   `Miroir` Espelho
 -   `Brosse` Escova
     -   `Brosse à dent` Escova de dentes
--   `Pansement` Band-aid
+-   `Pansement` Curativo/Bandagem
 -   `Savon` Sabonete 🚺
 -   `Shampoing` Xampú
 -   `Peigne` Pente
@@ -143,6 +143,7 @@
 -   `Robinet` Torneira 🚹
 -   `Maquillage` Maquiagem 🚹
 -   `Crème solaire` Protetor solar 🚺
+-   `Affiche` Poster 🚺
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -211,9 +212,12 @@
 -   `Sommeil` Sono
 -   `Rêve` Sonho
 -   `Cauchemar` Pesadelo
+-   `Droit` Direito
 -   `Conversation` Conversa
 -   `Mariage` Casamento
+-   `Retard` Atraso
 -   `Besoin` Necessidade
+-   `Grève` Greve
 -   `Genre` Gênero/Tipo
 -   `Bruit` Barulho
 -   `Itinéraire` Rota
@@ -280,6 +284,13 @@
 -   `Annulation` Cancelamento 🚺
 -   `Queue` Fila
 -   `Côté` Lado
+-   `Changement` Mudança
+-   `Condition` Condição
+-   `Manifestation` Manifestação/Protesto 🚺
+-   `Opinion` Opinião
+-   `But` Objetivo/Meta 🚹
+-   `Aventure` Aventura
+-   `Scandale` Escândalo
 
 ### Sentimentos e emoções
 
@@ -400,6 +411,7 @@
 -   `Physique` Física
 -   `Biologie` Biologia
 -   `Manuel` Livro didático/Manual
+-   `Article` Artigo
 -   `Art` Arte
 -   `Médecine` Medicina
 -   `Diplôme` Diploma

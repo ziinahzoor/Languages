@@ -25,6 +25,7 @@
 -   `Wohnung` Apartamento 🚺
 -   `Kino` Cinema ✴️
 -   `Kirche` Igreja
+-   `Kapelle` Capela
 -   `Nähe` Vizinha/Proximidade 🚹
 -   `Apotheke` Farmácia
 -   `Museum` Museu ✴️

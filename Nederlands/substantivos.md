@@ -1,0 +1,1 @@
+# De Zelfstandige Naamwoorden - Substantivos

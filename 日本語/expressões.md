@@ -1,7 +1,7 @@
 # Expressões
 
 -   `それにしても` De qualquer maneira
--   `ぜんぶで。。。` No total...
+-   <font size="5"><code><ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby>で。。。</code></font> No total...
 -   `いいですね` Parece ótimo
 -   `ほんとうですか` Sério?/De verdade?
     -   `ほんとう` Informal

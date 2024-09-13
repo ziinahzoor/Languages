@@ -65,5 +65,6 @@
     -   `いいえ` Mais comum
 -   `ごちそうさまでした` Obrigado pela comida
 -   `おつかれさまです` Você está fazendo um bom trabalho (no trabalho)
+-   <font size="5"><code><ruby>結<rt>けっ</rt>構<rt>こう</rt></ruby></code></font> Não, obrigado/Não precisa/Estou cheio
 
 ## Concordância

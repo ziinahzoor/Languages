@@ -22,5 +22,7 @@
 
 ## Internos
 
+-   `Cerebro` Cérebro
 -   `Estómago` Estômago
 -   `Corazón` Coração
+-   `Sangre` Sangue 🚺

@@ -2,3 +2,5 @@
 
 -   `Μεγάλος` Grande
 -   `Μικρό` Pequeno
+
+## Nacionalidades

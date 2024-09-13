@@ -61,5 +61,18 @@
 
 ## Artigos
 
+## Indefinidos
+
 -   `Un` Um
 -   `O` Uma
+
+## Definidos
+
+**São sufixados ao substantivo.**
+
+**Os substantivos neutros levam os artigos masculinos no singular e femininos no plural.**
+
+-   `-ul/-l` O
+-   `-ii/-i` Os
+-   `-ua/-a` A
+-   `-le/-ele` As

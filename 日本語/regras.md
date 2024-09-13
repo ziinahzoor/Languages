@@ -39,7 +39,7 @@
     </tr>
     <tr>
         <th>Verbos</th>
-        <td>Conjugados em tempo, voz, aspecto e modo; Terminam em <code>-る</code> ou algum kana de final <code>-う</code></td>
+        <td>Conjugados em polaridade, formalidade, tempo, aspecto, modo e voz; Terminam em <code>-る</code> ou algum kana de final <code>-う</code></td>
     </tr>
     <tr>
         <th>Cópula</th>

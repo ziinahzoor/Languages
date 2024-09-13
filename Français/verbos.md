@@ -26,6 +26,7 @@
     -   `Faire un rêve` Sonhar
     -   `Faire un cauchemar` Ter um pesadelo
     -   `Faire la queue` Fazer fila/Esperar na fila
+    -   `Faire grève` Fazer greve
 -   `Attendre` Esperar
 -   `Dire` Dizer
 -   `Mettre` Colocar
@@ -216,6 +217,12 @@
 -   `Déranger` Incomodar/Perturbar
 -   `Crier` Gritar
 -   `Déplacer` Mover
+-   `Manifester` Protestar
+-   `Décider` Decidir
+-   `Voter` Votar
+-   `Participer` Participar
+-   `Partager` Compartilhar
+-   `Continuer` Continuar
 
 ## -ir Verbes
 
@@ -225,6 +232,9 @@
     -   `Avoir de la chance` Ter sorte
     -   `Avoir envie` Desejar
     -   `Avoir l'air` Parecer/Ter o semblante
+    -   `Avoir le droit` Ter o direito
+    -   `Avoir raison` Ter razão
+    -   `Avoir tort` Não ter razão
 -   `Vouloir` Querer
 -   `Ouvrir` Abrir
 -   `Devoir` Dever
@@ -261,6 +271,7 @@
 -   `Reussir` Conseguir/Suceder (de ter sucesso)/Aprovar (em testes e provas)
 -   `Découvrir` Descobrir
 -   `Réfléchir` Refletir/Pensar
+-   `Se réunir` Reunir-se
 
 ## Les Verbes Défectueux - Verbos Defectivos
 

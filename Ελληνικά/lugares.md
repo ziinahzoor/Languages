@@ -14,3 +14,21 @@
 ## Países e Continentes
 
 -   `Καναδάς` Canadá
+-   `Αμερική` Estados Unidos 🚺
+    -   `Καλιφόρνια` Califórnia
+-   `Αυστραλία` Austrália
+
+### Ευρώπη - Europa
+
+-   `Τσεχία` Chéquia
+    -   `Πράγα` Praga
+-   `Αγγλία` Inglaterra
+    -   `Οξφόρδη` Oxford
+-   `Ιταλία` Itália
+
+### Ασία - Ásia
+
+## Ελλάδα - Grécia
+
+-   `Κρήτη` Creta
+-   `Αθήνα` Atenas

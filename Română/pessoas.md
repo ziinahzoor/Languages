@@ -4,4 +4,4 @@
 -   `Femeie` Mulher
 -   `Băiat` Menino
 -   `Fată` Menina
--   `Copil` Criança
+-   `Copil` Criança 🚹

@@ -18,8 +18,12 @@
 ## Classe I
 
 -   `Kostōba` Poderoso/Forte
+-   `Byka` Pequeno
 -   `Rōva` Grande
 -   `Āegenka` Ferroso/Feito de ferro
+-   `Mība` Baixo/Curto
+-   `Bōsa` Alto/Longo
+-   `Harrenka` Apropriado/Adequado
 
 ## Classe II
 
@@ -33,3 +37,5 @@
 
 -   `Sylvie` Sábio
 -   `Gevie` Bonito
+-   `Rōvēgrie` Enorme
+-   `Qumblie` Grosso

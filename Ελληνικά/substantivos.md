@@ -24,3 +24,7 @@
 ## Transporte
 
 -   `Ταξί` Táxi ✴️
+
+## Linguagens
+
+-   `Αγγλικά` Inglês

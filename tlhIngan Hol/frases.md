@@ -3,5 +3,6 @@
 -   `toH` Então
 -   `maj` Bom
 -   `Ha'` Vamos
--   `Qapla'` Sucesso
--   `nuqneH` O que você quer?
+-   `Qapla'` Sucesso/Boa sorte
+-   `nuqneH` Olá
+    -   Literalmente "O que você quer?"

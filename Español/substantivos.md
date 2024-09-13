@@ -120,6 +120,8 @@
 -   `Pizzarón` Quadro branco
 -   `Correo` Correio
 -   `Perfume`
+-   `Vendaje` Curativo/Bandagem
+-   `Medicina` Remédio 🚺
 
 ## Abstratos
 
@@ -216,6 +218,8 @@
 -   `Peligro` Perigo
 -   `Electricidad` Eletricidade
 -   `Norma` Regra
+-   `Cambio` Mudança 🚹
+-   `Cuidado`
 
 ### Medidas
 

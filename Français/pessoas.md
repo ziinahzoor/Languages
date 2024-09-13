@@ -1,5 +1,6 @@
 # Les Personnes - Pessoas
 
+-   `Foule` Multidão
 -   `Humain` Humano
 -   `Gens` Gente
 -   `Homme` Homem
@@ -93,6 +94,7 @@
 -   `Mécanicien` Mecânico
 -   `Humoriste` Comediante/Humorista
 -   `Coiffeur` Cabeleireiro
+-   `Ouvrier` Trabalhador/Operário
 
 ## La famille - Família
 
