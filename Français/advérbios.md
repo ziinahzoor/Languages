@@ -14,15 +14,16 @@
     -   Costuma indicar excessos. Para enfatizar o excesso pode-se ainda usar `beaucoup trop`.
 -   `Oui` Sim
     -   `Si` Para frases negativas.
--   `Non` Não (Para respostas)
+-   `Non` Não (Interjeição)
 -   `Pas` Não
 -   `Aussi` Também (geralmente vem depois do verbo)
     -   Em comparações, significa "tão"
 -   `Plus` Mais
 -   `Moins` Menos
 -   `Même` Mesmo
--   `Toujours` Sempre
+-   `Toujours` Sempre/Ainda
     -   `Toujours pas` Ainda assim
+    -   É menos ambíguo que `encore` para significar "ainda".
 -   `Encore` Novamente/Ainda
 -   `Souvent` Frequentemente
 -   `Chaque` Cada/Todo

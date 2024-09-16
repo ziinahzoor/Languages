@@ -236,6 +236,8 @@
 -   <font size="5"><code><ruby>降<rt>ふ</rt></ruby>る</code></font> Cair (chuva, neve, cinzas)
     -   Geralmente acompanha o `が`
 -   <font size="5"><code><ruby>曇<rt>くも</rt></ruby>る</code></font> Embaçar/Nublar
+-   <font size="5"><code><ruby>通<rt>とお</rt></ruby>る</code></font> Passar/Atravessar
+    -   <font size="5"><code>。。。のそばを<ruby>通<rt>とお</rt></ruby>る</code></font> Passar por
 
 ## 一段 - Ichidan
 
@@ -267,7 +269,7 @@
 -   `こたえる` Responder
 -   `いきる` Viver
 -   `のりかえる` Fazer escala (ônibus e trens)
--   `おりる` Descer (Montanhas, veículos)/Desembarcar
+-   <font size="5"><code><ruby>降<rt>お</rt></ruby>りる</code></font> Descer (Montanhas, veículos)/Desembarcar
 -   `つかれる` Cansar
 -   `つける` Ligar (Luz, aparelho)
 -   `かたづける` Limpar/Organizar

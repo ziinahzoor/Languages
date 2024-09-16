@@ -1,4 +1,4 @@
-# Les Nourritures (Comida)
+# Les Nourritures - Comida
 
 -   `Pizza`
 -   `Croissant`
@@ -55,14 +55,17 @@
 -   `Camembert`
 -   `Pâtisserie` Confeito 🚺
 -   `Steak` Bife
+-   `Hamburger` Hambúrguer
+-   `Fruit de mer` Fruto do mar
+-   `Moutarde` Mostarda
 
-## Les Légumes (Vegetais)
+## Les Légumes - Vegetais
 
 -   `Pomme de terre` Batata
 -   `Riz` Arroz
 -   `Haricot` Feijão
 
-## Les Fruits 🚹 (Frutas)
+## Les Fruits - Frutas 🚹
 
 -   `Tomate` 🚺
 -   `Orange` Laranja
@@ -79,7 +82,7 @@
 -   `Raisin` Uva
 -   `Mangue` Manga
 
-## Les Boissons (Bebidas)
+## Les Boissons - Bebidas
 
 -   `Eau` Água
     -   `Eau gazeuse` Água com gás
@@ -95,7 +98,7 @@
 -   `Champagne` Champanhe
 -   `Chocolat chaud` Chocolate quente
 
-## Les repas (Refeições)
+## Les repas - Refeições
 
 -   `Repas` Refeição 🚹
 -   `Petit déjeuner` Café da manhã
@@ -103,3 +106,4 @@
 -   `Dîner` Jantar
     -   `Diner` Pós-reforma de 90
 -   `Entrée` Entrada
+-   `Apéritif` Aperitivo

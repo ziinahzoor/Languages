@@ -29,6 +29,8 @@
 -   `Tunisien` Tunisiano
 -   `Indien` Indiano
 -   `Suisse` Suiço
+-   `Sénégalais` Senegalês
+-   `Marrocain` Marroquino
 
 ## Vocabulaire - Vocabulário
 
@@ -167,7 +169,6 @@
 -   `Bondé` Lotado
 -   `Frais` Fresco
 -   `Libre` Livre
--   `Mondial` Mundial
 -   `Né` Nascido
 -   `Célibataire` Solteiro
 -   `Pressé` Apressado/Com pressa
@@ -220,5 +221,9 @@
 -   `Moyen` Médio
 -   `National` Nacional
 -   `International` Internacional
+-   `Mondial` Mundial
 -   `Vrai` Verdadeiro
 -   `Faux` Falso
+-   `Habituel` Usual/Habitual
+-   `Positif` Positivo
+-   `Négatif` Negativo

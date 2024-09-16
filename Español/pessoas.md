@@ -63,6 +63,9 @@
 -   `Piloto`
 -   `Cantante` Cantor
 -   `Vendedor`
+-   `Ama de casa` Dona de casa
+-   `Payaso` Palhaço
+-   `Adolescente`
 
 ## La Familia - Família
 

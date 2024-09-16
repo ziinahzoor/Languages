@@ -58,3 +58,13 @@
         <td>3: Ativa, passiva e causativa</td>
     </tr>
 </table>
+
+## Sufixos
+
+### Possessivo
+
+-   `-의`.
+
+### Posição
+
+-   Em cima, sobre: `-위`.

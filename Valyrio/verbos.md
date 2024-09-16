@@ -27,6 +27,9 @@
 -   `Dēmagon` Sentar
 -   `Limagon` Chorar
 -   `Ropagon` Cair
+-   `Mōzugon` Beber
+-   `Ykynagon` Cheirar
+-   `Sylutegon` Provar/Experimentar
 
 ## Verbos -agon
 
@@ -47,3 +50,4 @@
 -   `Jemagon` Guiar/Liderar
 -   `Rhaenagon` Achar
 -   `Kostilagon` Poder
+-   `Bāngagon` Assar

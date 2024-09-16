@@ -70,6 +70,11 @@
 -   `Vingt et unième` Vigésimo-primeiro
 -   `Dernier` Último
 
+## Frações
+
+-   `Demi` Meio
+-   `Moitié` Metade
+
 ## L'Argent - Dinheiro
 
 -   `Centime` Centavo

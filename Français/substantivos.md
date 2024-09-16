@@ -144,6 +144,8 @@
 -   `Maquillage` Maquiagem 🚹
 -   `Crème solaire` Protetor solar 🚺
 -   `Affiche` Poster 🚺
+-   `Canette` Lata
+-   `Serviette` Guardanapo 🚺
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -291,6 +293,10 @@
 -   `But` Objetivo/Meta 🚹
 -   `Aventure` Aventura
 -   `Scandale` Escândalo
+-   `Différence` Diferença
+-   `Morceau` Pedaço/Bocado
+-   `Part` Fatia/Parte/Pedaço
+-   `Commentaire` Comentário
 
 ### Sentimentos e emoções
 

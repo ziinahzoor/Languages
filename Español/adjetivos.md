@@ -161,3 +161,4 @@
 -   `Usual` Normal
 -   `Muerto` Morto
 -   `En forma` Em forma
+-   `Liso`

@@ -24,6 +24,8 @@
 -   `Mība` Baixo/Curto
 -   `Bōsa` Alto/Longo
 -   `Harrenka` Apropriado/Adequado
+-   `Korzita` Firme/Esticado
+-   `Ēngenka` Gostoso
 
 ## Classe II
 

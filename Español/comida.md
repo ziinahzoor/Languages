@@ -39,6 +39,7 @@
 -   `Yogur` Iogurte
 -   `Pimienta` Pimenta
 -   `Champiñon` Cogumelo
+-   `Zanahoria` Cenoura
 
 ## Las Frutas
 

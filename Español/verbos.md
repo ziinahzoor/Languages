@@ -124,6 +124,7 @@
 -   `Robar` Roubar
 -   `Descargar` Baixar
 -   `Copiar`
+-   `Patinar`
 
 ## Los verbos -er
 
@@ -195,3 +196,4 @@
 -   `Decidir`
 -   `Vestirse` Vestir-se
 -   `Reírse` Rir
+-   `Compartir` Compartilhar

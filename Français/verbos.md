@@ -23,8 +23,6 @@
     -   `Se faire mal` Machucar-se
     -   `Faire le ménage` Limpar a casa
     -   `Faire les bagages` Fazer as malas
-    -   `Faire un rêve` Sonhar
-    -   `Faire un cauchemar` Ter um pesadelo
     -   `Faire la queue` Fazer fila/Esperar na fila
     -   `Faire grève` Fazer greve
 -   `Attendre` Esperar
@@ -168,6 +166,7 @@
 -   `Taper` Digitar
 -   `Essayer` Experimentar/Provar (Roupas)
 -   `Tomber` Cair
+    -   `Faire tomber` Derrubar
 -   `Dépenser` Gastar
 -   `Souhaiter` Desejar
 -   `Randonner` Fazer uma caminhada (Hike)
@@ -196,6 +195,8 @@
 -   `S'intéresser` Interessar-se
 -   `Créer` Criar
 -   `Rêver` Sonhar
+    -   `Faire un rêve` Sonhar
+    -   `Faire un cauchemar` Ter um pesadelo
 -   `Pleurer` Chorar
 -   `Casser` Quebrar
 -   `Pousser` Empurrar
@@ -223,6 +224,7 @@
 -   `Participer` Participar
 -   `Partager` Compartilhar
 -   `Continuer` Continuar
+-   `Couper` Cortar
 
 ## -ir Verbes
 

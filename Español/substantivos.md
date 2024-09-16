@@ -122,6 +122,8 @@
 -   `Perfume`
 -   `Vendaje` Curativo/Bandagem
 -   `Medicina` Remédio 🚺
+-   `Globo` Balão
+-   `Armario` Guarda-roupas
 
 ## Abstratos
 
@@ -248,6 +250,7 @@
 -   `Tranvía` Bonde
 -   `Helicóptero`
 -   `Velero` Veleiro
+-   `Escúter` Scooter 🚹
 
 ## Actividades - Atividades
 
@@ -328,7 +331,8 @@
 ### Instrumentos
 
 -   `Violín` Violino
--   `Tambor` Bateria 🚹
+-   `Tambor` Tambor
+-   `Batería` Bateria
 -   `Piano`
 -   `Guitarra`
 

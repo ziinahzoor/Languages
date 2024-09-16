@@ -53,6 +53,7 @@
 -   `はやく` Cedo/Rapidamente
 -   `おそく` Tarde/Vagarosamente
 -   `はじめて` Pela primeira vez
+-   `はじめに` Primeiramente
 -   `まず` Primeiramente
 -   `やっと` Por fim/Finalmente
 -   `ゆっくり` Devagar/Sem pressa

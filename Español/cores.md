@@ -6,6 +6,7 @@
 -   `Rojo` Vermelho
 -   `Gris` Cinza
 -   `Marrón` Marrom
+    -   `Castaño` Para cabelo e pele
 -   `Azul`
 -   `Morado` Roxo
 -   `Blanco` Branco

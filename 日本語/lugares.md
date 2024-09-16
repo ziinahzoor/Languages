@@ -7,7 +7,8 @@
 **Para indicar uma loja que vende alguma coisa, é só adicionar o sufixo `や`. Ex.: `ぴざや` é pizzaria. Para outras instituições mais formais se usa `かん`.**
 
 -   `かいじょう` Local
--   `みせ` Loja
+-   <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
+    -   <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby></code></font> Formal
 -   `せかい` Mundo
 -   `むら` Vila
 -   `しゅと` Capital
@@ -44,7 +45,7 @@
 -   `エスカレーター` Escada rolante
 -   `カフェ` Café
 -   `げんかん` Entrada principal/Entrada de casa
--   <font size="5"><code><ruby>入<rt>いり</rt>口<rt>ぐち</rt></ruby></code></font> Entrada
+-   <font size="5"><code><ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby></code></font> Entrada
 -   <font size="5"><code><ruby>出<rt>で</rt>口<rt>ぐち</rt></ruby></code></font> Saída
     -   `きたぐち` Saída norte
     -   `みなみぐち` Saída sul
@@ -52,11 +53,11 @@
     -   `にしぐち` Saída oeste
 -   `じんじゃ` Santuário Xintoísta
 -   `おてら` Templo Budista
--   `たてもの` Prédio
+-   <font size="5"><code><ruby>建<rt>たて</rt>物<rt>もの</rt></ruby></code></font> Prédio
 -   `ピザや` Pizzaria
 -   `ラーメンや` Loja de lámen
 -   `すしや` Loja de sushi
--   `びょういん` Hospital
+-   <font size="5"><code><ruby>病<rt>びょう</rt>院<rt>いん</rt></ruby></code></font> Hospital
 -   <font size="5"><code><ruby>海<rt>`うみ`</rt></ruby></code></font> Praia
 -   <font size="5"><code><ruby>公<rt>こう</rt>園<rt>えん</rt></ruby></code></font> Parque
 -   `ゆうえんち` Parque temático
@@ -88,13 +89,14 @@
 -   `スパ` Spa
 -   `おまつり` Festival
 -   <font size="5"><code><ruby>映<rt>えい</rt>画<rt>が</rt>館<rt>かん</rt></ruby></code></font> Cinema
--   `みち` Rua/Estrada/Caminho
+-   <font size="5"><code><ruby>道<rt>みち</rt></ruby></code></font> Rua/Estrada/Caminho (Geral)
+-   <font size="5"><code><ruby>通<rt>とお</rt></ruby>り</code></font> Rua (Da cidade)
 -   <font size="5"><code><ruby>百<rt>ひゃく</rt>円<rt>えん</rt></ruby>ショップ</code></font> Loja de 1,99
 -   `でんきや` Loja de eletrônicos
 -   `ステージ` Palco
 -   `スタジアム` Estádio
 -   `ゆうびんきょく` Correios
--   `ぎんこう` Banco
+-   <font size="5"><code><ruby>銀<rt>ぎん</rt>行<rt>こう</rt></ruby></code></font> Banco
 -   `コート` Quadra de esportes
 -   `ドラッグストア` Drogaria
 -   `ショッピングセンター` Shopping
@@ -129,6 +131,7 @@
 -   <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Frente/Face
 -   <font size="5"><code><ruby>後<rt>うし</rt>ろ</ruby></code></font> Atrás/Detrás
 -   `まんなか` Meio
+-   <font size="5"><code><ruby>向<rt>む</rt></ruby>こう</code></font> Do outro lado
 -   <font size="5"><code><ruby>間<rt>あいだ</rt></ruby></code></font> Espaço entre/Abertura/Brecha
 
 ### <ruby>方<rt>ほう</rt>向<rt>こう</rt></ruby> - Direções
@@ -146,6 +149,7 @@
     -   `サウス`
 -   <font size="5"><code><ruby>東<rt>ひがし</rt></ruby></code></font> Leste
 -   <font size="5"><code><ruby>西<rt>にし</rt></ruby></code></font> Oeste
+-   <font size="5"><code><ruby>北<rt>ほく</rt>東<rt>とう</rt></ruby></code></font> Noroeste
 
 ## <ruby>家<rt>いえ</rt></ruby> - Casa
 

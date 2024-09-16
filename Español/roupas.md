@@ -44,6 +44,7 @@
 -   `Zapato` Sapato
 -   `Botas`
 -   `Calcetín` Meia 🚹
+-   `Patín` Patins
 
 ## Los Accesorios - Acessórios
 

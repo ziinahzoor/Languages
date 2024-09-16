@@ -1,0 +1,22 @@
+# Animais
+
+-   `кот` Gato
+-   `Ко́шка` Gata
+-   `Соба́ка` Cachorro 🚺
+-   `Ло́шадь` Cavalo
+-   `Му́ха` Mosquito 🚺
+-   `Сова́` Coruja
+-   `Волк` Lobo
+-   `Бе́лка` Esquilo
+-   `Слон` Elefante
+-   `Мышь` Rato 🚺
+-   `Ку́рица` Galinha
+-   `Пти́ца` Pássaro/Ave 🚺
+-   `За́яц` Lebre 🚹
+-   `Крокоди́л` Crocodilo
+-   `Лиса́` Raposa
+-   `Оле́нь` Rena 🚹
+-   `Ёж` Ouriço
+-   `Лев` Leão
+-   `У́тка` Pato 🚺
+-   `Медве́дь` Urso

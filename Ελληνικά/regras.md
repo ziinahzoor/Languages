@@ -11,7 +11,7 @@
     </tr>
     <tr>
         <th>Pronomes</th>
-        <td>11: Pessoais (nominativos, acusativos, genitivos), possessivos, reflexivos, relativos, demonstrativos, indefinidos, interrogativos, intensivos e recíprocos</td>
+        <td>11: Pessoais (nominativos, acusativos e genitivos), possessivos, reflexivos, relativos, demonstrativos, indefinidos, interrogativos, intensivos e recíprocos</td>
     </tr>
     <tr>
         <th>Omissão de pronomes</th>

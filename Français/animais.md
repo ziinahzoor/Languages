@@ -1,4 +1,4 @@
-# Les Animaux (Animais)
+# Les Animaux - Animais
 
 -   `Chat` Gato 🚹
 -   `Cheval` Cavalo 🚹
@@ -26,6 +26,7 @@
 -   `Lion` Leão
 -   `Canard` Pato
 -   `Mouette` Gaivota
+-   `Crevette` Camarão 🚺
 
 ## Relacionado
 

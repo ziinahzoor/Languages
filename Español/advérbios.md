@@ -28,8 +28,6 @@
 -   `Todo` Tudo/Todo
 -   `Ya` Já
 -   `Mayor` Maior
--   `Normalmente`
--   `Usualmente` Geralmente
 -   `De verdad` De verdade/Realmente
 -   `Mejor` Melhor
 -   `Peor` Pior
@@ -41,25 +39,32 @@
 -   `Rápido`
 -   `Despacio` Devagar
 -   `Por supuesto` Claro/Óbvio
--   `Completamente`
 -   `Encima` Em cima
 -   `De vez en cuando` De vez em quando
--   `Frecuentemente` Frequentemente
--   `Generalmente` Geralmente
 -   `Jamás` Jamais
 -   `Tampoco` Tampouco/Nem
 -   `A lo mejor` Talvez
--   `Desafortunadamente` Infelizmente
 -   `Donde` Onde
--   `Lentamente`
 -   `Excepto` Exceto
--   `Probablemente` Provavelmente
 -   `Así` Assim
 -   `Por fin` Por fim
--   `Claramente`
 -   `Tanto`
 -   `Bastante`
--   `Rápidamente` Rapidamente
--   `Gravemente`
--   `Fácilmente` Facilmente
+-   `Casi` Quase
+-   `Mientras` Enquanto
+
+## De modo
+
 -   `Inmediatamente` Imediatamente
+-   `Rápidamente` Rapidamente
+-   `Probablemente` Provavelmente
+-   `Lentamente`
+-   `Desafortunadamente` Infelizmente
+-   `Usualmente` Geralmente
+-   `Generalmente` Geralmente
+-   `Frecuentemente` Frequentemente
+-   `Fácilmente` Facilmente
+-   `Normalmente`
+-   `Gravemente`
+-   `Claramente`
+-   `Completamente`

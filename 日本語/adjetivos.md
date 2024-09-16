@@ -21,7 +21,9 @@
 -   `まずい` Desgostoso/De gosto ruim
     -   Em linguagem informal pode significar "ruim"/"ah, não!", semelhante ao "porcaria".
 -   <font size="5"><code><ruby>大<rt>おお</rt></ruby>きい</code></font> Grande
+    -   Também pode ser um adjetivo な.
 -   <font size="5"><code><ruby>小<rt>ちい</rt></ruby>さい</code></font> Pequeno
+    -   Também pode ser um adjetivo な.
 -   <font size="5"><code><ruby>明<rt>あか</rt></ruby>るい</code></font> Brilhante/Iluminado
 -   <font size="5"><code><ruby>暗<rt>く</rt></ruby>らい</code></font> Escuro
 -   `かわいい` Fofo
