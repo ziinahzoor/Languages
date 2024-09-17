@@ -2,7 +2,8 @@
 
 -   `И` E
     -   `А` Constrastivo
+-   `И́ли` Ou
 
 ## Interjeições
 
--   `Не-а`
+-   `Ну` Bem

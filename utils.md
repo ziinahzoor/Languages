@@ -57,6 +57,10 @@
 
 **[Aprender latim](https://www.nationalarchives.gov.uk/latin/)**
 
+## Russo
+
+**[Dicionário](https://en.openrussian.org/)**
+
 ## Dracônico
 
 **[Aprender dracônico](https://www.thuum.org/learn/)**

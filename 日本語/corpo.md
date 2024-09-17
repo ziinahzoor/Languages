@@ -12,6 +12,6 @@
     -   `のど` Garganta
 -   `うで` Braço
 -   `ゆび` Dedo
--   `おなか` Barriga/Estômago
+-   <font size="5"><code>お<ruby>腹<rt>なか</rt></ruby></code></font> Barriga/Estômago
 -   `せなか` Costas
 -   `あし` Perna

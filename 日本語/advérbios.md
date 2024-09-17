@@ -40,7 +40,7 @@
 -   `ひとりで` Sozinho
 -   `すぐ` Imediatamente/Neste momento
 -   `もうすぐ` Logo
--   `ほんとうに` Realmente/Verdadeiramente
+-   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby>に</code></font> Realmente/Verdadeiramente
 -   `ちゃんと` Apropriadamente/Corretamente
 -   `どうやって` Como/De que maneira
     -   Não é advérbio, está aqui por conveniência

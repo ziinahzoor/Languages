@@ -148,7 +148,7 @@
     -   Pratos enrolados com alga nori.
 -   `すしめし・しゃり` Shushimeshi/Shari
     -   Arroz vinagreado com açúcar e sal
--   `すし` Sushi
+-   <font size="5"><code><ruby>寿<rt>す</rt>司<rt>し</rt></ruby></code></font> Sushi
     -   Shari com frutos do mar (geralmente peixe) e outros ingredientes.
     -   `にぎりずし` Nigiri/Nigirizushi
         -   Shari com peixe no topo
@@ -216,3 +216,4 @@
 -   <font size="5"><code><ruby>揚<rt>あ</rt></ruby>げ<ruby>物<rt>もの</rt></ruby></code></font> Comida frita
 -   `ファストフード` Fast-food
 -   `ようしょく` Comida ocidental
+-   <font size="5"><code><ruby>好<rt>こう</rt>物<rt>ぶつ</rt></ruby></code></font> Comida preferida/Prato preferido

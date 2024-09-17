@@ -3,8 +3,8 @@
 -   `それにしても` De qualquer maneira
 -   <font size="5"><code><ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby>で。。。</code></font> No total...
 -   `いいですね` Parece ótimo
--   `ほんとうですか` Sério?/De verdade?
-    -   `ほんとう` Informal
+-   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby>ですか</code></font> Sério?/De verdade?
+    -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby></code></font> Informal
 -   `だいじょうぶですか` Está tudo bem?
 -   `いただきます` Vamos comer!
 -   `ぐあいがわるい` Está doente

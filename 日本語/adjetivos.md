@@ -58,7 +58,8 @@
 -   <font size="5"><code><ruby>厚<rt>あつ</rt>い</ruby></code></font> Grosso
 -   <font size="5"><code><ruby>甘<rt>あま</rt>い</ruby></code></font> Doce
 -   `にがい` Amargo
--   `しょっぱい` Salgado
+-   <font size="5"><code><ruby>塩<rt>しょ</rt></ruby>っぱい</code></font> Salgado
+-   `すっぱい` Azedo
 -   `からい` Picante
 -   `むずかしい` Difícil/Complexo
     -   Se refere à dificuldade intrínseca de algo.

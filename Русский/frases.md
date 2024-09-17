@@ -1,5 +1,22 @@
 # Frases
 
 -   `Добрó пожáловать` Bem-vindo
+-   `Пожа́луйста` Por favor
 -   `Спаси́бо` Obrigado
+-   `До́брое у́тро` Bom dia
+-   `До́брый день` Boa tarde
+-   `До́брый вечер` Boa noite (Evening)
+-   `Спокойной ночи` Boa noite
 -   `Приве́т` Oi/Olá (Informal)
+-   `Здра́вствуйте` Oi/Olá (Formal)
+-   `Пока` Tchau (Informal)
+-   `До свида́ния` Tchau (Formal)
+-   `Всё хорошо́` Tudo bem
+-   `До за́втра` Até amanhã
+-   `Извини́` Com licença/Desculpa (Informal)
+-   `Извини́те` Com licença/Desculpa (Formal)
+-   `Прости́те` Desculpa/Perdão
+-   `Как дела` Como vai
+-   `Что не так` O que há de errado
+-   `Можете сказать ещё раз` Pode repetir
+-   `Молоде́ц` Bom trabalho

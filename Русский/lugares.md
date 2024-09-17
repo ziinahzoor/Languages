@@ -13,6 +13,7 @@
 -   `Остано́вке` Ponto de ônibus 🚺
 -   `Оте́ль` Hotel
 -   `Ста́нция` Estação 🚺
+-   `Магази́н` Loja 🚹
 
 ## Дом - Casa 🚹
 
@@ -27,5 +28,12 @@
 -   `И́ндия` Índia
 -   `Герма́нии` Alemanha
     -   `Берли́н` Berlim 🚹
+-   `Украи́на` Ucrânia
+-   `белору́ссия` Bielorrúsia
+    -   `Минск` Minsk 🚹
+-   `Нидерла́нды` Holanda 🚹
+    -   `Амстерда́м` Amsterdã
 
 ## Росси́я - Rússia
+
+-   `Москва́` Moscou 🚺

@@ -1,6 +1,7 @@
 # Animais
 
 -   `кот` Gato
+    -   `Котёнок` Filhote
 -   `Ко́шка` Gata
 -   `Соба́ка` Cachorro 🚺
 -   `Ло́шадь` Cavalo
@@ -20,3 +21,5 @@
 -   `Лев` Leão
 -   `У́тка` Pato 🚺
 -   `Медве́дь` Urso
+-   `Свинья́` Porco 🚺
+-   `Змея́` Cobra

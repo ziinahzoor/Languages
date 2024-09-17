@@ -34,17 +34,20 @@
 ### Cozinha
 
 -   `ナイフ` Faca
--   `さら` Prato
-    -   `おさら` Formal
+-   <font size="5"><code><ruby>皿<rt>さら</rt></ruby></code></font> Prato
+    -   <font size="5"><code>お<ruby>皿<rt>さら</rt></ruby></code></font> Formal
 -   `でんしレンジ` Micro-ondas
 -   <font size="5"><code><ruby>冷<rt>れい</rt>蔵<rt>ぞう</rt>庫<rt>こ</rt></ruby></code></font> Geladeira
 -   `カップ` Xícara
 -   `フォーク` Garfo
 -   `スプーン` Colher
--   `はし` Pauzinhos
-    -   `おはし` Formal
+-   <font size="5"><code><ruby>箸<rt>はし</rt></ruby></code></font> Pauzinhos
+    -   <font size="5"><code>お<ruby>箸<rt>はし</rt></ruby></code></font> Formal
 -   `マグカップ` Caneca
--   `ちゃわん` Tigela
+-   `ボウル` Tigela
+-   <font size="5"><code><ruby>茶<rt>ちゃ</rt>碗<rt>わん</rt></ruby></code></font> Tigela de arroz/Copo de chá
+-   `コップ` Copo
+-   `グラス` Taça
 
 ### Banheiro
 
@@ -198,7 +201,7 @@
 -   `アイデア` Ideia
 -   `はんたい` Oposto
 -   `しゅっしん` De onde (Cidade natal)
--   `ほんとう` Verdade
+-   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby></code></font> Verdade
 -   `こと` Coisa (Intangível)
 -   `もの` Coisa (Tangível)
 -   `しつもん` Pergunta

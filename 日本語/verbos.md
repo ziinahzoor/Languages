@@ -147,7 +147,7 @@
 -   <font size="5"><code><ruby>歩<rt>ある</rt>く</ruby></code></font> Andar
 -   `さく` Florescer
 -   `すく` Esvaziar
-    -   `おなかがすく` Ter fome
+    -   <font size="5"><code>お<ruby>腹<rt>なか</rt></ruby>がすく</code></font> Ter fome
 -   <font size="5"><code><ruby>履<rt>は</rt></ruby>く</code></font> Vestir/Calçar/Usar (Parte inferior)
 -   <font size="5"><code><ruby>働<rt>はたら</rt>く</ruby></code></font> Trabalhar
 -   <font size="5"><code><ruby>吹<rt>ふ</rt></ruby>く</code></font> Soprar
