@@ -6,6 +6,12 @@
 
 **[Dicas da versão antiga do Duolingo](duome.eu/tips)**
 
+## Árabe
+
+**[Aprender o alfabeto árabico](https://www.learnarabiconline.com/arabic-alphabet/)**
+
+**[Dicionário](https://www.arabicstudentsdictionary.com/)**
+
 ## Coreano
 
 **[Dicionário](https://korean.dict.naver.com/koendict)**

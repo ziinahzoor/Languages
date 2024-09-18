@@ -1,0 +1,1 @@
+# <img src="https://flagsapi.com/SA/flat/32.png"><img src="https://flagsapi.com/EG/flat/32.png"><img src="https://flagsapi.com/PS/flat/32.png"><img src="https://flagsapi.com/MA/flat/32.png"><img src="https://flagsapi.com/SY/flat/32.png"><img src="https://flagsapi.com/AE/flat/32.png"><img src="https://flagsapi.com/QA/flat/32.png"> العربية - Árabe Moderno

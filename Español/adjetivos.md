@@ -89,8 +89,12 @@
 -   `Próximo`
 -   `Listo` Pronto
 -   `Dulce` Doce
--   `Caliente` Quente
 -   `Picante`
+-   `Cálido` Morno
+-   `Caliente` Quente
+-   `Caluroso` Caloroso/Quente (Clima)
+    -   Que causa calor
+-   `Frío` Frio
 -   `Lento`
 -   `Ligero` Leve
 -   `Seguro` (Com `ser`)
@@ -100,8 +104,6 @@
 -   `Pasado` Passado/Último
 -   `Pobre`
 -   `Gracioso` Engraçado
--   `Caluroso` Caloroso
--   `Frío` Frio
 -   `Siguiente` Seguinte/Próximo
 -   `Posible` Possível
 -   `Fantástico`
@@ -162,3 +164,4 @@
 -   `Muerto` Morto
 -   `En forma` Em forma
 -   `Liso`
+-   `Profundo` Fundo

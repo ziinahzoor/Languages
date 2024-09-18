@@ -4,6 +4,7 @@
 
 -   `Sagon` Ser/Existir
 -   `Ilagon` Estar/Existir
+-   `Jagon` Ir
 
 ## Verbos -gon
 
@@ -30,6 +31,8 @@
 -   `Mōzugon` Beber
 -   `Ykynagon` Cheirar
 -   `Sylutegon` Provar/Experimentar
+-   `Umāzigon` Vir/Chegar
+    -   Complemento sempre está no dativo.
 
 ## Verbos -agon
 
@@ -51,3 +54,12 @@
 -   `Rhaenagon` Achar
 -   `Kostilagon` Poder
 -   `Bāngagon` Assar
+-   `Epagon` Perguntar
+-   `Lioragon` Vender
+-   `Irughagon` Dar
+-   `Udekuragon` Aproximar-se
+    -   Complemento sempre está no dativo.
+-   `Maghagon` Trazer/Carregar
+-   `Gōvilemagon` Colocar embaixo
+    -   Complemento sempre está no dativo.
+-   `Aerēbagon` Viajar

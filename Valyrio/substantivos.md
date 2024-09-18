@@ -16,6 +16,7 @@
 -   `Jēdar` Céu 🌊
 -   `Jelmāzma` Tempestade 🌙
 -   `Blēnon` Montanha 🌱
+-   `Rūklon` Flor 🌱
 
 ## Materiais
 
@@ -30,6 +31,7 @@
 ## Casa
 
 -   `Dēmalion` Trono 🌱
+-   `Qurdon` Mesa 🌱
 
 ## Abstratos
 
@@ -42,3 +44,5 @@
 ## Transporte
 
 -   `Lōgor` Barco 🌊
+
+## Atividades

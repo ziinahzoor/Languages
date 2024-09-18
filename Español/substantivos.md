@@ -124,6 +124,8 @@
 -   `Medicina` Remédio 🚺
 -   `Globo` Balão
 -   `Armario` Guarda-roupas
+-   `Mapa`
+-   `Guía` Guia
 
 ## Abstratos
 
@@ -222,6 +224,7 @@
 -   `Norma` Regra
 -   `Cambio` Mudança 🚹
 -   `Cuidado`
+-   `Resto`
 
 ### Medidas
 
@@ -251,6 +254,7 @@
 -   `Helicóptero`
 -   `Velero` Veleiro
 -   `Escúter` Scooter 🚹
+-   `Gasolina`
 
 ## Actividades - Atividades
 
@@ -284,12 +288,14 @@
 -   `Cheque`
 -   `Dinero` Dinheiro
     -   `Efectivo` Espécie
+    -   `Euro` Euro
 -   `Centavo`
 -   `Tarjeta` Cartão
 -   `Tarjeta de crédito` Cartão de crédito 🚺
 -   `Cuenta` Conta
 -   `Recibo`
--   `Reserva`
+-   `Reservación` Reserva
+    -   `Reserva` Espanha
 -   `Entrada` Ingresso
 -   `Menú` Cardápio
 

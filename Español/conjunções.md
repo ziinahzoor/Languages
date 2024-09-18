@@ -9,6 +9,10 @@
 -   `Pues` Bem/Pois
 -   `Si` Se
 
+## Locuções conjuntivas
+
+-   `Así que` Por isto/Então
+
 # Interjeições
 
 -   `Ay` Ai

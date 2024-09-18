@@ -125,6 +125,10 @@
 -   `Descargar` Baixar
 -   `Copiar`
 -   `Patinar`
+-   `Empacar` Fazer as malas
+-   `Ahorrar` Economizar
+-   `Alquilar` Alugar
+-   `Sueñar` Sonhar
 
 ## Los verbos -er
 

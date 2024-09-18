@@ -52,6 +52,7 @@
 -   `Bastante`
 -   `Casi` Quase
 -   `Mientras` Enquanto
+-   `Alrededor` Ao redor
 
 ## De modo
 

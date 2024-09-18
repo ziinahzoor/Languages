@@ -69,7 +69,9 @@
 -   `Hospital`
 -   `Museo` Museu
 -   `Calle` Rua 🚺
--   `Carretera` Estrada/Rodovia
+-   `Carretera` Estrada
+-   `Autopista` Rodovia
+-   `Avenida`
 -   `Mercado`
 -   `Supermercado`
 -   `Restaurante`

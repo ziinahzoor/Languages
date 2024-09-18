@@ -61,3 +61,7 @@
 
 -   O acento agudo indica a tonicidade da palavra, mas geralmente só utilizado em contextos didáticos, não sendo empregado na escrita diária do Russo.
 -   `И...и...` é usado para indicar "ambos".
+
+## Genitivo
+
+-   Apesar do verbo "ter" existir no russo, geralmente se usa `У [genitivo] есть [substantivo]` "Em [pronome] existe [substantivo]".

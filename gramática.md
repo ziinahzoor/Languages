@@ -133,6 +133,7 @@
 
 **Modo e voz descritas acima também são consideras inflexões.**
 
+-   `Estado gramatical`: Indica se o substantivo, artigo ou outro elemento é definido ou indefinido.
 -   `Polaridade gramatical`: Indica se a ação é afirmativa ou negativa.
 -   `Valência gramatical`: Indica quantos são os complementos da ação. Ex.: Impessoal (avalente), intransitivo (monovalente/monádico), transitivo (divalente/diádico), etc.
 -   `Tempo gramatical`: Indica quando a ação ocorre. Ex.: Passado; presente; futuro.

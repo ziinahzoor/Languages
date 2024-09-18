@@ -22,3 +22,7 @@
 -   `Averilla` Vinho 🌊
 -   `Jūlor` Leite 🌊
 -   `Ārilla` Cerveja
+
+## Refeições
+
+-   `Kisalbar` Banquete 🌊

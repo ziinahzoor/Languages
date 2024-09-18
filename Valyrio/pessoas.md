@@ -28,10 +28,11 @@
 -   `Voktys` Padre ☀️
 -   `Jaes` Deus/Divindade ☀️
 -   `Raqiros` Amigo ☀️
--   `Targārien` Targaryen 🌱
+-   `Arghurys` Caçador ☀️
 
 ## Lentor - Família 🌊
 
+-   `Targārien` Targaryen 🌱
 -   `Muña` Mãe/Tia 🌙
 -   `Kepa` Pai 🌙
 -   `Trēsy` Filho 🌙
@@ -46,7 +47,7 @@
 -   `Ābrazȳrys` Esposa ☀️
 -   `Valzȳrys` Marido ☀️
 -   `Velma` Irmã mais velha do pai/Tia paterna 🌙
-    - `Velmanna` Filho(a) da irmã mais velha do pai/Primo(a) 🌙
+    -   `Velmanna` Filho(a) da irmã mais velha do pai/Primo(a) 🌙
 -   `Ñāmar` Irmã mais nova do pai/Tia paterna 🌊
     -   `Ñābranna` Filho(a) da irmã mais nova do pai/Primo(a) 🌙
 -   `Iāpa` Irmão mais velho da mãe/Tio 🌙
