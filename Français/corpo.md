@@ -12,6 +12,7 @@
         -   `Bouche` Boca
             -   `Dent` Dente 🚺
         -   `Barbe` Barba
+-   `Cou` Pescoço
 -   `Ventre` Barriga 🚹
 -   `Dos` Costas 🚹
 -   `Bras` Braço

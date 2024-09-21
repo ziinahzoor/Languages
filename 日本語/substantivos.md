@@ -376,7 +376,7 @@
 -   `チェス` Xadrez
 -   `サークル` Clube
     -   Vem de "círculo"
--   `たんじょうび` Aniversário
+-   <font size="5"><code><ruby>誕<rt>たん</rt>生<rt>じょう</rt>日<rt>び</rt></ruby></code></font> Aniversário
 -   `かぶき` Kabuki (Teatro japonês)
 -   `ドラマ` Drama/Novela
 -   `どうが` Vídeo

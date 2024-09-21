@@ -33,6 +33,8 @@
 -   <font size="5"><code><ruby>月<rt>つき</rt></ruby></code></font> Mês
 -   `がっき` Semestre (Acadêmico)
 -   <font size="5"><code><ruby>年<rt>ねん</rt></ruby></code></font> Ano
+    -   <font size="5"><code><ruby>一昨年<rt>おととし</rt></ruby></code></font> Ano retrasado
+    -   <font size="5"><code><ruby>再<rt>さ</rt>来<rt>らい</rt>年<rt>ねん</rt></ruby></code></font> Ano seguinte
 -   <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Antes
     -   <font size="5"><code><ruby>～の前</ruby></code></font> Antes de
     -   É um substantivo, não um advérbio.

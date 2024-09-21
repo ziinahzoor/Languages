@@ -32,6 +32,9 @@
 -   `On dirait que...` Parece que...
 -   `Par cœur` De cor
 -   `C'est de pire en pire` Fica cada vez pior
+-   `C'est dommage` Que pena
+    -   `Dommage`
+    -   `Quel dommage`
 
 ## Verlan
 

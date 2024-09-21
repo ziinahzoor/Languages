@@ -167,3 +167,9 @@
 </table>
 
 **`μια` geralmente é usado sem o `ν` para eufonia. Caso utilizado, somente antes de vogais.**
+
+## Casos
+
+### Acusativo
+
+-   Substantivos femininos e neutros não se alteram. Substantivos masculinos perdem o final `-ς`.

@@ -6,6 +6,7 @@
 -   `Κορίτσι` Menina ✴️
 -   `Αγόρι` Menino ✴️
 -   `Αρχιτέκτονας` Arquiteto
+-   `Χορτοφάγος` Vegetariano
 
 ## Família
 

@@ -31,6 +31,8 @@
 -   `Suisse` Suiço
 -   `Sénégalais` Senegalês
 -   `Marrocain` Marroquino
+-   `Jamaïcain` Jamaicano
+-   `Malien` Maliano
 
 ## Vocabulaire - Vocabulário
 
@@ -70,6 +72,7 @@
     -   `Vieil` Se começa com som de vogal
 -   `Vielle` Velha
 -   `Intéressant` Interessante
+-   `Intéressé` Interessado
 -   `Ennuyeux` Entediante
 -   `Ouvert` Aberto
 -   `Fermé` Fechado
@@ -227,3 +230,6 @@
 -   `Habituel` Usual/Habitual
 -   `Positif` Positivo
 -   `Négatif` Negativo
+-   `Nerveux` Nervoso
+-   `Sportif` Esportivo
+-   `Musclé` Musculoso

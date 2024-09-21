@@ -1,5 +1,9 @@
 # Substantivos
 
+## Natureza
+
+-   `Πάγος` Gelo
+
 ## Casa e objetos
 
 -   `Βάζο` Vaso ✴️
@@ -8,6 +12,8 @@
 -   `Τηλέφωνο` Telefone ✴️
 -   `Εφημερίδα` Jornal 🚺
 -   `Βιβλίο` Livro ✴️
+-   `Ποτήρι` Copo ✴️
+-   `Πιάτο` Prato ✴️
 
 ## Abstrato
 

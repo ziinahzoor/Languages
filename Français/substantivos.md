@@ -15,6 +15,7 @@
 -   `Feu` Fogo
 -   `Vague` Onda
 -   `Tempête` Tempestade
+-   `Océan` Oceano
 
 ### Materiais
 
@@ -306,6 +307,7 @@
 -   `Honte` Vergonha
 -   `Faim` Fome
 -   `Soif` Sede
+-   `Douleur` Dor
 
 ### Unidades de medida
 
@@ -385,6 +387,9 @@
 -   `Marque` Marca
 -   `Règle` Regra
 -   `Promenade` Passeio/Caminhada
+-   `Échecs` Xadrez
+-   `Loisir` Hobby
+-   `Compétition` Competição
 
 ### Compras
 
@@ -429,7 +434,9 @@
 
 -   `Match` Partida
 -   `Football` Futebol
+    -   `Foot`
 -   `Basket` Basquete
+-   `Volleyball` Vôlei
 -   `Tennis` Tênis
 -   `Boxe`
 -   `Course` Corrida
@@ -437,6 +444,9 @@
 -   `Handball` Handebol
 -   `Snowboard`
 -   `Golf` Golfe
+-   `Hockey` Hóquei
+-   `Jeux Olympiques` Jogos Olímpicos
+-   `Club` Clube/Time
 
 ## Música
 

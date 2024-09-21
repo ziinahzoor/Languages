@@ -56,6 +56,8 @@
 
 ## Felicitações
 
+-   `おめでと` Parabéns!
+-   <font size="5"><code>お<ruby>誕<rt>たん</rt>生<rt>じょう</rt>日<rt>び</rt></ruby>おめでとう</code></font> Feliz aniversário!
 -   <font size="5"><code><ruby>乾<rt>かん</rt>杯<rt>ぱい</rt></ruby></code></font> Saúde! (Ao beber)
 
 ## Agradecimento

@@ -1,6 +1,8 @@
 # Adjetivos
 
 -   `Μεγάλος` Grande
--   `Μικρό` Pequeno
+-   `Μικρός` Pequeno
+-   `Νόστιμος` Saboroso/Delicioso/Gostoso
+-   `φρέσκος` Fresco
 
 ## Nacionalidades

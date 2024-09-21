@@ -1,6 +1,5 @@
-# Comida
+# Το Φαγητό - Comida ✴️
 
--   `Καρότο` Cenoura ✴️
 -   `Ρύζι` Arroz ✴️
 -   `Σνακ` Aperitivo ✴️
 -   `Τοστ` Torrada ✴️
@@ -12,17 +11,62 @@
 -   `Σπαγγέτι` Espaguete ✴️
 -   `Ψωμί` Pão ✴️
 -   `Ξύδι` Vinagre ✴️
+-   `Αυγό` Ovo ✴️
+-   `Ζάχαρη` Açúcar 🚺
+-   `Πίτσα` Pizza
+-   `Τυρί` Queijo ✴️
+-   `Κρεμμύδι` Cebola ✴️
+-   `Ζυμαρικό` Massa ✴️
+-   `Κρέας` Carne 🚹
+    -   `Χοιρινό` Carne de porco ✴️
+    -   `Βοδινό` Carne de vaca ✴️
+    -   `Μπριζόλα` Bife 🚺
+    -   `Κεφτές` Almôndega 🚹
+-   `Αλάτι` Sal ✴️
+-   `Πιπέρι` Pimenta ✴️
+-   `Σαλάτα` Salada
+-   `Ελαιόλαδο` Azeite ✴️
+-   `Σκόρδο` Alho ✴️
+-   `Πίτα` Torta
+-   `Παγωτό` Sorvete ✴️
+-   `Λουκάνικο` Linguiça
+-   `Σοκολάτα` Chocolate 🚺
 
-## Frutas
+## Τα Λαχανικά - Legumes ✴️
+
+-   `Πατάτα` Batata
+-   `Αγγούρι` Pepino ✴️
+-   `Καρότο` Cenoura ✴️
+
+## Τα Φρούτα - Frutas ✴️
 
 -   `Αβοκάντο` Abacate ✴️
 -   `Μάνγκο` Manga ✴️
 -   `Λεμόνι` Limão ✴️
 -   `Μήλο` Maçã ✴️
+-   `Πορτοκάλι` Laranja ✴️
+-   `Ντομάτα` Tomate 🚺
+-   `Φράουλα` Morango 🚺
+-   `Πεπόνι` Melão ✴️
+-   `Καρπούζι` Melancia ✴️
+-   `Κεράσι` Cereja ✴️
+-   `Αχλάδι` Pera ✴️
+-   `Ροδάκινο` Pêssego ✴️
 
 ## Bebida
 
 -   `Νερό` Água ✴️
 -   `Ούζο` Uzo/Ouzo (Bebida alcoólica feita com anis) ✴️
 -   `Καφές` Café
+-   `Τσάι` Chá ✴️
 -   `Γάλα` Leite ✴️
+-   `Κρασί` Vinho ✴️
+-   `Μπίρα` Cerveja
+-   `Χυμός` Suco
+
+## Τα Γεύματα - Refeições ✴️
+
+-   `Πρωινό` Café da manhã ✴️
+-   `Μεσημεριανό` Almoço ✴️
+-   `Δείπνο` Jantar ✴️
+-   `Επιδόρπιο` Sobremesa ✴️

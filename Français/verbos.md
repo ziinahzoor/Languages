@@ -92,6 +92,7 @@
 -   `Utiliser` Utilizar
 -   `Donner` Dar
     -   `Donner envie` Dar vontade
+    -   `Donner un coup de pied` Chutar
 -   `Oublier` Esquecer
 -   `Préparer` Preparar
 -   `Écouter` Escutar
@@ -225,6 +226,10 @@
 -   `Partager` Compartilhar
 -   `Continuer` Continuar
 -   `Couper` Cortar
+-   `Prier` Rezar
+-   `Sauter` Saltar
+-   `Patiner` Patinar
+-   `Accompagner` Acompanhar
 
 ## -ir Verbes
 

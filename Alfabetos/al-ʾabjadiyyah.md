@@ -12,6 +12,9 @@
     -   Hijāʾī: `ا` `ب` `ت` `ث` `ج` `ح` `خ` `د` `ذ` `ر` `ز` `س` `ش` `ص` `ض` `ط` `ظ` `ع` `غ` `ف` `ق` `ك` `ل` `م` `ن` `ه` `و` `ي`.
         -   Mais moderno, usado em listas telefônicas, dicionários, etc.
 
+> [!NOTE]
+> Devido aos sons diferentes do árabe, não existe uma romanização oficial, existindo diversas possibilidades de transliteração. Por causa disso, optei por não usar nenhuma em específico, apenas a pronúncia IPA, para não gerar confusão ao associar os alfabetos.
+
 ## Consoantes e vogais longas
 
 <strong>Vogais longas estão denotadas <span style="color:#ea00d9">assim</span></strong>.
@@ -237,6 +240,8 @@
 > [!NOTE]
 > As consoantes que possuem diacríticos nas "curvas", quando precedidas por outras da mesma forma, devem mover os diacríticos para a "barra" da letra.
 
+> [!NOTE] > `Waaw` é "w" quando acompanhado de uma vogal, e "uu" do contrário. A letra `yaa`, de forma similar, é "y" e "ii".
+
 ## Vogais
 
 **São diacríticos.**
@@ -266,6 +271,11 @@
 		<td>e/i</td>
 		<td>kasrah</td>
 	</tr>
+	<tr>
+		<td>ــْـ</td>
+		<td>- (nenhuma vogal)</td>
+		<td>sukūn</td>
+	</tr>
 </table>
 
 > [!TIP]
@@ -286,3 +296,15 @@
     -   CVCC
     -   CLC
     -   CLCC
+
+## Números
+
+**Derivam do sistema indiano. São chamados "numerais arábicos orientais".**
+
+**Também usa-se os numerais arábicos ocidentais em alguns lugares.**
+
+**Diferente do resto do alfabeto, os números são lidos da esquerda pra direita.s**
+
+| 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ٠   | ١   | ٢   | ٣   | ٤   | ٥   | ٦   | ٧   | ٨   | ٩   |

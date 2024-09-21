@@ -3,6 +3,7 @@
 -   `Foule` Multidão
 -   `Humain` Humano
 -   `Gens` Gente
+-   `Mec` Cara
 -   `Homme` Homem
 -   `Homme de ménage` Faxineiro
 -   `Homme d'affaires` Empresário
@@ -95,6 +96,9 @@
 -   `Humoriste` Comediante/Humorista
 -   `Coiffeur` Cabeleireiro
 -   `Ouvrier` Trabalhador/Operário
+-   `Joueur` Jogador
+-   `Champion` Campeão
+-   `Dieu` Deus
 
 ## La famille - Família
 
