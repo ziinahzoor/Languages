@@ -84,6 +84,7 @@
 -   `Sentarse` Sentar-se
 -   `Preocuparse` Preocupar-se
 -   `Parar`
+    -   `Pararse` Levantar
 -   `Estrellar` Bater (contra alguma coisa)
 -   `Invitar` Convidar
 -   `Despertarse` Acordar
@@ -129,6 +130,11 @@
 -   `Ahorrar` Economizar
 -   `Alquilar` Alugar
 -   `Sueñar` Sonhar
+-   `Terminar`
+-   `Cancelar`
+-   `Secar`
+-   `Gritar`
+-   `Enterarse` Descobrir/Inteirar-se
 
 ## Los verbos -er
 
@@ -173,6 +179,8 @@
 -   `Romper` Quebrar
 -   `Receber`
 -   `Nacer` Nascer
+-   `Vender`
+-   `Suceder` Acontecer
 
 ## Los verbos -ir
 
@@ -201,3 +209,4 @@
 -   `Vestirse` Vestir-se
 -   `Reírse` Rir
 -   `Compartir` Compartilhar
+-   `Añadir` Acrescentar/Adicionar

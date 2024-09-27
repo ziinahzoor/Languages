@@ -27,8 +27,8 @@
 
 ## Braços
 
--   `かばん` Bolsa
--   `うでどけい` Relógio de pulso
+-   <font size="5"><code><ruby>鞄<rt>かばん</rt></ruby></code></font> Bolsa
+-   <font size="5"><code><ruby>腕<rt>うで</rt>時計<rt>どけい</rt></ruby></code></font> Relógio de pulso
 -   `ブレスレット` Bracelete
 -   `ゆびわ` Anel
 
@@ -48,7 +48,7 @@
 
 ## アクセサリー - Acessórios
 
--   `さいふ` Carteira
+-   <font size="5"><code><ruby>財<rt>さい</rt>布<rt>ふ</rt></ruby></code></font> Carteira
 -   `バックパック` Mochila
 -   `ショルダーバッグ` Bolsa de ombro
 -   `マフラー` Cachecol

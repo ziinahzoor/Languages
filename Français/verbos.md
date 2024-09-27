@@ -36,7 +36,6 @@
 -   `Répondre` Responder
 -   `Éteindre` Apagar/Desligar
 -   `Vendre` Vender
--   `Répondre` Responder
 -   `Descendre` Descer
 -   `Rire` Rir
 -   `Sourire` Sorrir
@@ -230,6 +229,14 @@
 -   `Sauter` Saltar
 -   `Patiner` Patinar
 -   `Accompagner` Acompanhar
+-   `Cliquer` Clicar
+-   `Imprimer` Imprimir
+-   `Copier` Copiar
+    -   `Copier sur` Copiar de
+-   `Se rappeler` Se lembrar
+-   `Compléter` Completar
+-   `S'améliorer` Melhorar
+-   `Répéter` Repetir
 
 ## -ir Verbes
 
@@ -275,7 +282,7 @@
 -   `Falloir` Dever/Precisar/Ter necessidade
     -   Impessoal (só é utilizado na terceira pessoa)
 -   `Prévoir` Prever/Planejar
--   `Reussir` Conseguir/Suceder (de ter sucesso)/Aprovar (em testes e provas)
+-   `Réussir` Conseguir/Suceder (de ter sucesso)/Aprovar (em testes e provas)
 -   `Découvrir` Descobrir
 -   `Réfléchir` Refletir/Pensar
 -   `Se réunir` Reunir-se

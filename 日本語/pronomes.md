@@ -115,6 +115,8 @@
 
 **`そんな` é bastente usado como uma expressão de surpresa e frustação. É algo como "ah não!", "de jeito nenhum!", "não diga isso!".**
 
+**As palavras de tipo são determinantes. Para as não-determinantes acrescenta-se a partícula `に`.**
+
 ## <ruby>疑<rt>ぎ</rt>問<rt>もん</rt>代<rt>だい</rt>名<rt>めい</rt>詞<rt>し</rt></ruby> - Interrogativos
 
 **Geralmente acompanham a partícula `が`.**

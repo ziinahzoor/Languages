@@ -82,3 +82,11 @@
 **[Dicionário](valyrian-dictionary.com)**
 
 **[Definições de palavras](https://linguifex.com/) - Usar `https://linguifex.com/w/index.php?title=Contionary:[palavra]`**
+
+## Música
+
+**[Símbolos](https://commons.wikimedia.org/wiki/Musical_notation)**
+
+**[Dicionário de música](https://www.meloteca.com/dicionario-de-musica-ingles-portugues/)**
+
+**[Ler tablaturas de guitarra](https://www.pickupmusic.com/blog/the-ultimate-guide-to-reading-guitar-tab)**

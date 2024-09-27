@@ -59,6 +59,10 @@
 -   `Sala`
 -   `Césped` Gramado
 -   `Salón` Salão
+-   `Techo` Teto
+-   `Garaje` Garagem
+-   `Portón` Portão
+-   `Pasillo` Corredor
 
 ## Outros
 
@@ -122,3 +126,4 @@
 -   `Colina`
 -   `Departamento`
 -   `Concejo municipal` Conselho municipal
+-   `Salida` Saída

@@ -67,8 +67,8 @@
 -   `こわい` Assustador
 -   <font size="5"><code><ruby>少<rt>すく</rt>ない</ruby></code></font> Pouco(s)/Insuficiente
 -   <font size="5"><code><ruby>多<rt>おお</rt>い</ruby></code></font> Muito(s)/Demais
--   `かるい` Leve
--   `おもい` Pesado
+-   <font size="5"><code><ruby>軽<rt>かる</rt></ruby>い</code></font> Leve
+-   <font size="5"><code><ruby>重<rt>おも</rt></ruby>い</code></font> Pesado
 -   `ねむい` Sonolento
 -   `かなしい` Triste
 -   `うれしい` Feliz
@@ -121,7 +121,7 @@
     -   Alguém que trabalha duro.
 -   `インスタント` Instantâneo
     -   Geralmente é usado como prenomial, portanto não usa o `な`.
--   `おなじ` O mesmo/Idêntico
+-   <font size="5"><code><ruby>同<rt>おな</rt></ruby>じ</code></font> O mesmo/Idêntico
     -   Geralmente é usado como prenomial, portanto não usa o `な`.
 -   `りっぱ` Esplêndido
 -   `しんせん` Fresco
@@ -134,8 +134,10 @@
 -   `ヘルシー` Saudável
 -   `さいこう` Fantástico
 -   `しあわせ` Feliz
+-   <font size="5"><code><ruby>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Resistente/Durável/Robusto
 -   <font size="5"><code><ruby>大<rt>だい</rt>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Ok
     -   Também é muito usado para recusar coisas.
+-   <font size="5"><code><ruby>大<rt>たい</rt>切<rt>せつ</rt></ruby></code></font> Importante
 
 ## Adjetivos-verbo
 

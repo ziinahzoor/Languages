@@ -178,6 +178,7 @@
 -   `リモコン` Controle remoto
 -   `でんき` Lâmpada
 -   `コピーき` Copiadora
+-   <font size="5"><code><ruby>時計<rt>とけい</rt></ruby></code></font> Relógio
 
 ### Computação
 
@@ -241,7 +242,7 @@
 -   `ストレス` Estresse
 -   `きず` Machucado/Ferida/Corte
 -   `やつ` Coisa
--   `ほか` Outro
+-   <font size="5"><code><ruby>他<rt>ほか</rt></ruby></code></font> Outro
 -   `れつ` Linha/Fila
 -   `シーン` Cena
 -   `もんだい` Problema
@@ -312,6 +313,7 @@
 -   `きっぷ` Passagem (Trem, Ônibus)
 -   `チケット` Passagem (Avião)
 -   `パスポート` Passaporte
+-   <font size="5"><code><ruby>荷<rt>に</rt>物<rt>もつ</rt></ruby></code></font> Bagagem
 
 ### Veículos
 

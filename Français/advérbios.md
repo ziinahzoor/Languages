@@ -45,7 +45,8 @@
 -   `Presque` Quase/Perto de
 -   `Soudain` De repente/Subitamente
 -   `Partout` Em todo lugar
--   `Comment` Como
+-   `Comment` Como (Interrogativo)
+-   `Comme` Como (Comparativo)
 -   `Pourtant` Porém/Entretanto/Mesmo assim
 -   `Autant` Tanto
 

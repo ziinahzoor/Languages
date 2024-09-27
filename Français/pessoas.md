@@ -99,10 +99,13 @@
 -   `Joueur` Jogador
 -   `Champion` Campeão
 -   `Dieu` Deus
+-   `Débutant` Iniciante
+-   `Président-directeur général (PDG)` CEO
+-   `Stagiaire` Estagiário
 
 ## La famille - Família
 
--   `Parents` Pais
+-   `Parent` Pai/Mãe
 -   `Père` Pai
     -   `Papa` Papai
 -   `Mère` Mãe

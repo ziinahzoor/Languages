@@ -4,7 +4,7 @@
 
 **<font size="5"><code><ruby>場<rt>ば</rt>所<rt>しょ</rt></ruby></code></font> também significa "lugar", mas é mais específico que 所**
 
-**Para indicar uma loja que vende alguma coisa, é só adicionar o sufixo `や`. Ex.: `ぴざや` é pizzaria. Para outras instituições mais formais se usa `かん`.**
+**Para indicar uma loja que vende alguma coisa, é só adicionar o sufixo <font size="5"><code><ruby>屋<rt>や</rt></ruby></code></font>. Ex.: <font size="5"><code>ぴざ<ruby>屋<rt>や</rt></ruby></code></font> é pizzaria. Para outras instituições mais formais se usa `かん`.**
 
 -   `かいじょう` Local
 -   <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
@@ -54,9 +54,10 @@
 -   `じんじゃ` Santuário Xintoísta
 -   `おてら` Templo Budista
 -   <font size="5"><code><ruby>建<rt>たて</rt>物<rt>もの</rt></ruby></code></font> Prédio
--   `ピザや` Pizzaria
--   `ラーメンや` Loja de lámen
--   `すしや` Loja de sushi
+-   <font size="5"><code>パン<ruby>屋<rt>や</rt></ruby></code></font> Padaria
+-   <font size="5"><code>ぴざ<ruby>屋<rt>や</rt></ruby></code></font> Pizzaria
+-   <font size="5"><code>ラーメン<ruby>屋<rt>や</rt></ruby></code></font> Loja de lámen
+-   <font size="5"><code><ruby>寿<rt>す</rt>司<rt>し</rt>屋<rt>や</rt></ruby></code></font> Loja de sushi
 -   <font size="5"><code><ruby>病<rt>びょう</rt>院<rt>いん</rt></ruby></code></font> Hospital
 -   <font size="5"><code><ruby>海<rt>`うみ`</rt></ruby></code></font> Praia
 -   <font size="5"><code><ruby>公<rt>こう</rt>園<rt>えん</rt></ruby></code></font> Parque
@@ -92,7 +93,7 @@
 -   <font size="5"><code><ruby>道<rt>みち</rt></ruby></code></font> Rua/Estrada/Caminho (Geral)
 -   <font size="5"><code><ruby>通<rt>とお</rt></ruby>り</code></font> Rua (Da cidade)
 -   <font size="5"><code><ruby>百<rt>ひゃく</rt>円<rt>えん</rt></ruby>ショップ</code></font> Loja de 1,99
--   `でんきや` Loja de eletrônicos
+-   <font size="5"><code><ruby>電<rt>でん</rt>気<rt>き</rt>屋<rt>や</rt></ruby></code></font> Loja de eletrodomésticos
 -   `ステージ` Palco
 -   `スタジアム` Estádio
 -   `ゆうびんきょく` Correios
@@ -115,7 +116,7 @@
 -   `おばけやしき` Casa assombrada
 -   `ゲームセンター` Fliperama
 -   `タワー` Torre
--   `いざかや` Pub japonês
+-   <font size="5"><code><ruby>居<rt>い</rt>酒<rt>ざか</rt>屋<rt>や</rt></ruby></code></font> Pub japonês
 -   `おくじょう` Telhado/Cobertura
 -   `マンション` Apartamento (de alto padrão)
 

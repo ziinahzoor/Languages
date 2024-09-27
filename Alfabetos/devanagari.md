@@ -2,7 +2,7 @@
 
 **É um abugida. Consiste de consoantes com diacríticos que marcam a vogal que a sucede. As vogais também possuem formas independentes para quando ocorrem no início da palavra.**
 
-**Quando a consoante não utiliza nenhum diacrítico, assume-se que sua vogal associada é `अ` "a".**
+**Quando a consoante não utiliza nenhum diacrítico, assume-se que sua vogal associada é `अ` "a". Exceto no fim da palavra, onde só se pronuncia a consoante.**
 
 **No hindi, enquanto devanagari se refere à escrita, os sons (alfabeto) da língua é referido como `वर्णमाला` "Varnamala".**
 
@@ -139,12 +139,54 @@
 		<td>ल</td>
 		<td>[l]</td>
 		<td>la</td>
-		<td colspan="3" rowspan="2"></td>
+		<td colspan="3" rowspan="3"></td>
 	</tr>
 	<tr>
 		<td>व</td>
 		<td>[ʋ]</td>
 		<td>va</td>
+	</tr>
+	<tr>
+		<td>ण</td>
+		<td>[ɳ]</td>
+		<td>ṇa</td>
+	</tr>
+</table>
+
+### Outras consoantes e combinações
+
+<table>
+	<thead>
+		<tr>
+			<th>Letra</th>
+			<th>Som</th>
+			<th>Transliteração</th>
+		</tr>
+	</thead>
+	<tr>
+		<td>ख़</td>
+		<td>[x]</td>
+		<td>xa/ḳha/Kha</td>
+	</tr>
+	<tr>
+		<td>फ़</td>
+		<td>[f]</td>
+		<td>fa</td>
+	</tr>
+	<tr>
+		<td>ज़</td>
+		<td>[z]</td>
+		<td>za</td>
+	</tr>
+	<tr>
+		<td>ड़</td>
+		<td>[ɽ]</td>
+		<td>ṛa/Ra</td>
+	</tr>
+	<tr>
+		<td>ढ़</td>
+		<td>[ɽʱ]</td>
+		<td>ṛha/Rha</td>
 	</tr>
 </table>
 
@@ -240,9 +282,14 @@
 </table>
 
 -   As vogais marcadas são consideradas vogais apenas no Hindi tradicional.
+-   Vogais nasalizadas (pronunciadas como se houvese um "nh" antes) são marcadas pelo diacrítico `ँ`.
 
 ## Números
 
 | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ०   | १   | २   | ३   | ४   | ५   | ६   | ७   | ८   | ९   |
+
+## Pontuação
+
+-   O ponto final é dado por `।`.

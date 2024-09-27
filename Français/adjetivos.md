@@ -80,6 +80,7 @@
 -   `Joli` Amável
 -   `Facile` Fácil
 -   `Difficile` Difícil
+-   `Dur` Complicado/Difícil
 -   `Génial` Genial/Grande/Incrível
 -   `Parfait` Perfeito
 -   `Ensemble` Juntos
@@ -233,3 +234,6 @@
 -   `Nerveux` Nervoso
 -   `Sportif` Esportivo
 -   `Musclé` Musculoso
+-   `Avancé` Avançado
+-   `Capable` Capaz
+-   `Normal`

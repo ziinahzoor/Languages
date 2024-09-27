@@ -1,0 +1,3 @@
+# Verbos
+
+-   `होना` Ser/Estar

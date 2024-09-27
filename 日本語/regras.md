@@ -43,7 +43,7 @@
     </tr>
     <tr>
         <th>Cópula</th>
-        <td>Verbo <code>だ/です</code></td>
+        <td>Verbo <code>だ/です</code>. Porém, é opcional, podendo ser zero-cópula.</td>
     </tr>
     <tr>
         <th>Formas verbais</th>

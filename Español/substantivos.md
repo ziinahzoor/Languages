@@ -35,11 +35,17 @@
 -   `Tenedor` Garfo
 -   `Cuchillo` Faca
 -   `Teléfono` Telefone
+-   `Lavamanos` Pia (de banheiro) 🚹
+-   `Fregadero` Pia (de cozinha) 🚹
 -   `Celular`
 -   `Maleta` Mala
+-   `Ventilador`
 -   `Camisa`
 -   `LLave` Chave
 -   `Regalo` Presente
+-   `Cortina`
+-   `Joya` Jóia
+-   `Bol` Tigela 🚹
 -   `Libro` Livro
 -   `Televisión` Televisão
     -   `Televisor`
@@ -126,6 +132,9 @@
 -   `Armario` Guarda-roupas
 -   `Mapa`
 -   `Guía` Guia
+-   `Estante` 🚹
+-   `Formulario` Formulário
+-   `Sobre` Envelope
 
 ## Abstratos
 
@@ -198,7 +207,6 @@
 -   `Verdad` Verdade
 -   `Canal`
 -   `Anuncio` Anúncio
--   `Sitio` Site
 -   `Idea` Ideia
 -   `Identificación` Identificação
 -   `Vuelo` Voo
@@ -225,6 +233,10 @@
 -   `Cambio` Mudança 🚹
 -   `Cuidado`
 -   `Resto`
+-   `Práctica` Prática
+-   `Contacto` Contato
+-   `Asunto` Assunto
+-   `Hecho` Fato
 
 ### Medidas
 
@@ -278,10 +290,16 @@
 -   `Guerra`
 -   `Video` Vídeo
 -   `Programa`
+-   `Software` Programa
 -   `Rompecabezas` Quebra-cabeças
 -   `Bádminton` Badminton
 -   `Cometa` Pipa
 -   `Hockey` Hóquei
+-   `Programa`
+-   `Sitio` Site
+    -   `Sitio web` Website
+-   `Web` Internet
+-   `Estudio` Estudo
 
 ### Compras
 

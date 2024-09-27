@@ -35,6 +35,7 @@
 -   `C'est dommage` Que pena
     -   `Dommage`
     -   `Quel dommage`
+-   `Être for en...` Ser bom em...
 
 ## Verlan
 

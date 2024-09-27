@@ -231,11 +231,14 @@
 
 **Infinitivos devem vir depois da negação.**
 
--   `Ne...pas` Não
--   `Ne...plus` Não mais
+-   `Ne... pas` Não
+-   `Ne... plus` Não mais
 -   `Ne... jamais` Nunca
--   `Ne...personne/Persone ne (Pronome)` Ninguém
--   `Ne...rien/Rien ne (Pronome)` Nada
+-   `Ne... personne` Ninguém
+    -   `Persone ne` Pronome
+-   `Ne... rien` Nada
+    -   `Rien ne` Pronome
+-   `Ne... que` Só (De não completar a ação)
 -   `Ni` Nem
 
 ## Adverbiaux - Adverbiais

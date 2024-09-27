@@ -165,3 +165,5 @@
 -   `En forma` Em forma
 -   `Liso`
 -   `Profundo` Fundo
+-   `Claro`
+-   `Digital`

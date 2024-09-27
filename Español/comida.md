@@ -40,6 +40,7 @@
 -   `Pimienta` Pimenta
 -   `Champiñon` Cogumelo
 -   `Zanahoria` Cenoura
+-   `Tortilla` Omelete
 
 ## Las Frutas
 
@@ -51,6 +52,7 @@
 -   `Mango` Manga 🚹
 -   `Pera`
 -   `Limón` Limão
+-   `Melón` Melão
 
 ## Los Vegetales - Verduras
 

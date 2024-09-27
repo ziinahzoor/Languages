@@ -157,6 +157,7 @@
 -   `Jeu vidéo` Videogame
 -   `Ordinateur` Computador
     -   `Ordinateur portable` Laptop
+-   `Souris` Mouse 🚺
 -   `Portable` Celular
 -   `Téléphone` Telefone
 -   `Radio` Rádio 🚺
@@ -298,6 +299,8 @@
 -   `Morceau` Pedaço/Bocado
 -   `Part` Fatia/Parte/Pedaço
 -   `Commentaire` Comentário
+-   `Niveau` Nível
+-   `Détail` Detalhe
 
 ### Sentimentos e emoções
 
@@ -316,6 +319,10 @@
 -   `Gramme` Grama 🚹
 -   `Kilo` Quilo
 -   `Litre` Litro
+
+### Formas
+
+-   `Cercle` Círculo
 
 ## Transporte
 
@@ -414,6 +421,21 @@
 -   `Matière` Matéria
 -   `Cours` Aula/Curso
 -   `Examen` Prova
+-   `Manuel` Livro didático/Manual
+-   `Article` Artigo
+-   `Médecine` Medicina
+-   `Diplôme` Diploma
+-   `Baccalauréat` Exame final do ensino médio
+    -   `Le Bac` Abreviação
+    -   É como o ENEM.
+-   `Trousse` Estojo 🚺
+-   `Tableau` Quadro
+-   `Règle` Régua
+-   `Gomme` Borracha
+
+#### Áreas do conhecimento
+
+-   `Art` Arte
 -   `Grammaire` Gramática
 -   `Mathématiques` Matemática
 -   `Géographie` Geografia
@@ -421,14 +443,7 @@
 -   `Chimie` Química
 -   `Physique` Física
 -   `Biologie` Biologia
--   `Manuel` Livro didático/Manual
--   `Article` Artigo
--   `Art` Arte
--   `Médecine` Medicina
--   `Diplôme` Diploma
--   `Baccalauréat` Exame final do ensino médio
-    -   `Le Bac` Abreviação
-    -   É como o ENEM.
+-   `Science` Ciência
 
 ### Esporte
 

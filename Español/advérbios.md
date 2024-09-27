@@ -53,6 +53,7 @@
 -   `Casi` Quase
 -   `Mientras` Enquanto
 -   `Alrededor` Ao redor
+-   `Recién` Recentemente
 
 ## De modo
 

@@ -56,10 +56,11 @@
 -   `Bāngagon` Assar
 -   `Epagon` Perguntar
 -   `Lioragon` Vender
--   `Irughagon` Dar
 -   `Udekuragon` Aproximar-se
     -   Complemento sempre está no dativo.
 -   `Maghagon` Trazer/Carregar
 -   `Gōvilemagon` Colocar embaixo
     -   Complemento sempre está no dativo.
 -   `Aerēbagon` Viajar
+-   `Tepagon` Dar
+-   `Irughagon` Dar (Quando o sujeito e os complementos estão na terceira pessoa)

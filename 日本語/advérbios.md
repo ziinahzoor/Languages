@@ -84,6 +84,7 @@
 -   `うっかり` Descuidadamente
 -   <font size="5"><code><ruby>少<rt>しょう</rt>々</ruby></code></font> Só um instante/Só um minuto
 -   `どうぞ` Aqui está (ao dar algo para alguém)
+-   <font size="5"><code><ruby>他<rt>ほか</rt></ruby>に</code></font> Outro/Além desse
 
 ## Auxiliares
 

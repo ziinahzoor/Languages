@@ -6,10 +6,11 @@
 > [!TIP]
 > Para dizer o dia atual, usa-se `nous sommes.../on est...`. Para o mês atual, o mesmo se aplica, acrescentando-se `en`.
 
+-   `Seconde` Segundo 🚺
+-   `Minute` Minuto 🚺
 -   `Heure` Hora
 -   `Demie` Meia hora
 -   `Quart` Um quarto de hora
--   `Minute` Minuto
 -   `Jour` Dia
     -   `Jour de repos` Dia de descanso
 -   `An` Ano

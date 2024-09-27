@@ -322,8 +322,7 @@
 -   `ゆっくり` Relaxar
 -   `ねぼう` Dormir demais
 -   `キャンセル` Cancelar
--   <font size="5"><code><ruby>電<rt>でん</rt>話<rt>わ</rt></ruby></code></font> Ligar/Falar ao telefone
-    -   Geralmente acompanha o `に`
+-   <font size="5"><code><ruby>電<rt>でん</rt>話<rt>わ</rt></ruby></code></font> + `に` Ligar/Falar ao telefone
 -   `メール` Enviar um e-mail/mensagem de texto
 -   `しょうかい` Apresentar/Introduzir
 -   <font size="5"><code><ruby>散<rt>さん</rt>歩<rt>ぽ</rt></ruby></code></font> Passear
@@ -336,5 +335,6 @@
 -   `あいさつ` Cumprimentar
 -   `チェック` Checar/Verificar
 -   `つり` + `を` Pescar
--   `じゅんび`　+ `を` Preparar
+-   `じゅんび` + `を` Preparar
 -   `コピー` Fazer uma cópia
+-   <font size="5"><code><ruby>大<rt>たい</rt>切<rt>せつ</rt></ruby></code></font> + `に`Cuidar
