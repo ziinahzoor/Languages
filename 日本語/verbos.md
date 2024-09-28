@@ -11,7 +11,7 @@
     -   Não é verbo, apenas a cópula (palavra conectora entre sujeito e predicado) japonesa.
     -   `だ` tem uma nuance positiva e presente, enquanto `です` pode ser usado com formas negativas e no passado.
     -   `で` é sua forma `て`, e daí vem o `では` e o `でも`.
-        -   `じゃ` é uma contração de `では`. O último é mais formal.
+        -   `じゃ` é uma contração de `では`. O último é mais honorífico.
     -   `なら` é sua forma hipotética.
     -   Possui tom assertivo.
 -   `です` Ser/Estar
@@ -19,7 +19,7 @@
     -   Quando usado com adjetivos `い`, sua função é puramente tornar a frase educada.
 -   `である` Ser/Estar
     -   É um verbo auxiliar, chamado verbo copulativo.
-    -   É mais formal que `だ`.
+    -   É mais honorífico que `だ`.
     -   Possui tom mais explicativo do que assertivo.
 
 <table>
@@ -68,7 +68,7 @@
 
 ## <ruby>助<rt>じょ</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Auxiliares
 
--   `ます` Verbo auxiliar formal
+-   `ます` Verbo auxiliar honorífico formal (Teineigo)
 -   `れる/られる` Verbo auxiliar passivo (Ichidan)
 -   `せる/させる` Verbo auxiliar causativo (Ichidan)
 -   `る/られる` Verbo auxiliar potencial (Ichidan)
@@ -143,32 +143,32 @@
 -   <font size="5"><code><ruby>描<rt>か</rt>く</ruby></code></font> Desenhar
 -   `やく` Assar/Fritar/Queimar/Torrar
     -   Usado para todos os verbos quem envolvam fogo na culinária.
--   <font size="5"><code><ruby>開<rt>あ</rt>く</ruby></code></font> Abrir (I)
--   <font size="5"><code><ruby>歩<rt>ある</rt>く</ruby></code></font> Andar
+-   <font size="5"><code><ruby>開<rt>あ</rt></ruby>く</code></font> Abrir (I)
+-   <font size="5"><code><ruby>歩<rt>ある</rt></ruby>く</code></font> Andar
 -   `さく` Florescer
 -   `すく` Esvaziar
     -   <font size="5"><code>お<ruby>腹<rt>なか</rt></ruby>がすく</code></font> Ter fome
 -   <font size="5"><code><ruby>履<rt>は</rt></ruby>く</code></font> Vestir/Calçar/Usar (Parte inferior)
--   <font size="5"><code><ruby>働<rt>はたら</rt>く</ruby></code></font> Trabalhar
+-   <font size="5"><code><ruby>働<rt>はたら</rt></ruby>く</code></font> Trabalhar
 -   <font size="5"><code><ruby>吹<rt>ふ</rt></ruby>く</code></font> Soprar
     -   Também é usado como "tocar" para instrumentos de sopro.
--   <font size="5"><code><ruby>泳<rt>およ</rt>ぐ</ruby></code></font> Nadar
+-   <font size="5"><code><ruby>泳<rt>およ</rt></ruby>ぐ</code></font> Nadar
 -   `いそぐ` Apressar
 -   <font size="5"><code><ruby>脱<rt>ぬ</rt></ruby>ぐ</code></font> Despir/Tirar (roupa)
--   <font size="5"><code><ruby>死<rt>し</rt>ぬ</ruby></code></font> Morrer
+-   <font size="5"><code><ruby>死<rt>し</rt></ruby>ぬ</code></font> Morrer
     -   Único verbo terminado em `ぬ`.
 -   <font size="5"><code><ruby>休<rt>やす</rt></ruby>む</code></font> Descansar
     -   Quando usado com algum substantivo como `しごと`, significa "faltar"
 -   <font size="5"><code><ruby>飲<rt>の</rt></ruby>む</code></font> Beber
     -   `めしあがる` Sonkeigo (Godan).
--   <font size="5"><code><ruby>住<rt>す</rt>む</ruby></code></font> Morar
+-   <font size="5"><code><ruby>住<rt>す</rt></ruby>む</code></font> Morar
     -   Geralmente usado na forma `ている`
 -   `こむ` Lotar/Ficar cheio
     -   Geralmente usado na forma `ている`
 -   <font size="5"><code><ruby>読<rt>よ</rt></ruby>む</code></font> Ler
 -   `たのしむ` Divertir-se/Satisfazer-se
--   `よぶ` Chamar/Convidar
--   <font size="5"><code><ruby>遊<rt>あそ</rt>ぶ</ruby></code></font> Passar tempo/Brincar/Jogar
+-   <font size="5"><code><ruby>呼<rt>よ</rt></ruby>ぶ</code></font> Chamar/Convidar
+-   <font size="5"><code><ruby>遊<rt>あそ</rt></ruby>ぶ</code></font> Passar tempo/Brincar/Jogar
 -   `まなぶ` Aprender
 -   `ならぶ` Alinhar/Formar fila
 -   `よろこぶ` Alegrar
@@ -209,7 +209,7 @@
 -   <font size="5"><code><ruby>乗<rt>の</rt></ruby>る</code></font> Andar de/Embarcar/Pegar (transporte)
 -   `はじまる` Começar (I)
 -   `おわる` Terminar/Acabar
--   `わかれる` Separar/Dividir
+-   <font size="5"><code><ruby>別<rt>わか</rt></ruby>れる</code></font> Separar/Dividir
     -   Serve para relacionamentos
 -   `おどる` Dançar
 -   <font size="5"><code><ruby>泊<rt>と</rt></ruby>まる</code></font> Ficar (em algum lugar)
@@ -227,7 +227,7 @@
 -   `おこる` Irritar-se
 -   `がんばる` Fazer o melhor/Persistir/Perseverar
 -   `やる` Fazer/Dar
-    -   Mais utilizado informalmente e para ações físicas feitas ativamente.
+    -   Mais utilizado casualmente e para ações físicas feitas ativamente.
     -   Também possui conotação pejorativa.
 -   `なおる` Recuperar/Curar
 -   `ぬる` Aplicar/Pintar
@@ -290,12 +290,13 @@
 -   `はじめる` Começar (T)
 -   `しらべる` Examinar/Dar uma olhada
 -   `うける` Pegar/Receber/Passar por um evento
--   `なくなる` Falecer
+-   <font size="5"><code><ruby>亡<rt>な</rt></ruby>くなる</code></font> Falecer
 -   `あたためる` Esquentar/Aquecer
 -   <font size="5"><code><ruby>似<rt>に</rt></ruby>る</code></font> Parecer/Assemelhar
 -   `かける` Ligar/Chamar (ao telefone)
     -   Tem uma nuance de iniciar a chamada, não necessariamente falar ao telefone.
 -   <font size="5"><code><ruby>晴<rt>は</rt></ruby>れる</code></font> Limpar/Clarear (o céu)
+-   <font size="5"><code><ruby>生<rt>う</rt></ruby>まれる</code></font> Nascer
 
 ## Verbos する
 
@@ -338,3 +339,6 @@
 -   `じゅんび` + `を` Preparar
 -   `コピー` Fazer uma cópia
 -   <font size="5"><code><ruby>大<rt>たい</rt>切<rt>せつ</rt></ruby></code></font> + `に`Cuidar
+-   <font size="5"><code><ruby>結<rt>けっ</rt>婚<rt>こん</rt></ruby></code></font> Casar
+-   <font size="5"><code><ruby>離<rt>り</rt>婚<rt>こん</rt></ruby></code></font> Divorciar
+-   `デート` Ter um encontro

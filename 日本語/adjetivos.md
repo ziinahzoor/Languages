@@ -7,9 +7,9 @@
 
 -   `ない` Não ser/existir
 -   `いい` Bom
-    -   `よい` Bom (Formal). Esta é utilizada em todas as outras formas. Todos os outros adjetivos que usam `いい` como radical devem seguir a mesma ideia.
+    -   `よい` Bom (Honorífico). Esta é utilizada em todas as outras conjugações. Todos os outros adjetivos que usam `いい` como radical devem seguir a mesma ideia.
         -   Forma aparente: `よさそう`
-    -   `よろしい` Sonkeigo
+    -   `よろしい` Honorífico (Sonkeigo)
 -   `かっこいい` Legal
     -   Adjetivo `いい`
 -   `ダサい` Brega/Sem estilo
@@ -19,7 +19,7 @@
 -   `うすい` Magro
 -   `おいしい` Gostoso
 -   `まずい` Desgostoso/De gosto ruim
-    -   Em linguagem informal pode significar "ruim"/"ah, não!", semelhante ao "porcaria".
+    -   Em linguagem casual pode significar "ruim"/"ah, não!", semelhante ao "porcaria".
 -   <font size="5"><code><ruby>大<rt>おお</rt></ruby>きい</code></font> Grande
     -   Também pode ser um adjetivo な.
 -   <font size="5"><code><ruby>小<rt>ちい</rt></ruby>さい</code></font> Pequeno
@@ -34,11 +34,12 @@
 -   <font size="5"><code><ruby>忙<rt>いそが</rt>しい</ruby></code></font> Ocupado
 -   `あたまがいい` Inteligente
     -   Adjetivo `いい`
--   <font size="5"><code><ruby>新<rt>あたら</rt>しい</ruby></code></font> Novo
--   <font size="5"><code><ruby>古<rt>ふる</rt>い</ruby></code></font> Velho
--   <font size="5"><code><ruby>高<rt>たか</rt>い</ruby></code></font> Caro/Alto
--   <font size="5"><code><ruby>安<rt>やす</rt>い</ruby></code></font> Barato
--   <font size="5"><code><ruby>低<rt>ひく</rt>い</ruby></code></font> Baixo
+-   <font size="5"><code><ruby>若<rt>わか</rt></ruby>い</code></font> Jovem
+-   <font size="5"><code><ruby>新<rt>あたら</rt></ruby>しい</code></font> Novo
+-   <font size="5"><code><ruby>古<rt>ふる</rt></ruby>い</code></font> Velho
+-   <font size="5"><code><ruby>高<rt>たか</rt></ruby>い</code></font> Caro/Alto
+-   <font size="5"><code><ruby>安<rt>やす</rt></ruby>い</code></font> Barato
+-   <font size="5"><code><ruby>低<rt>ひく</rt></ruby>い</code></font> Baixo
 -   `ひろい` Largo/Espaçoso
 -   `せまい` Estreito/Apertado
 -   <font size="5"><code><ruby>速<rt>はや</rt>い</ruby></code></font> Rápido
@@ -77,7 +78,7 @@
     -   Tem uma nuance mais negativa que `らしい`
     -   É um adjetivo auxiliar, portanto deve ser usado somente de forma atributiva.
 -   `やばい` Perigoso/Arriscado
-    -   Em linguagem informal, tem um sentido como a palavra "f\*da", podendo ter conotações ruins ou boas.
+    -   Em linguagem casual, tem um sentido como a palavra "f\*da", podendo ter conotações ruins ou boas.
 -   `うすい` Fino
 -   `きびしい` Rígido/Severo
 -   `かたい` Duro
@@ -99,7 +100,7 @@
 -   `ハンサム` Bonito
 -   `しずか` Quieto
 -   `にぎやか` Vívido/Tumultuado
--   `ゆうめい` Famoso
+-   <font size="5"><code><ruby>有<rt>ゆう</rt>名<rt>めい</rt></ruby></code></font> Famoso
 -   `おしゃれ` Estiloso
 -   `すてき` Adorável
 -   `すき` Gostável
@@ -117,13 +118,13 @@
 -   `カラフル` Colorido
 -   `ひさしぶり` Faz muito tempo
 -   `まじめ` Honesto/Sério
-    -   `マジ` Informal
+    -   `マジ` Casual
     -   Alguém que trabalha duro.
 -   `インスタント` Instantâneo
     -   Geralmente é usado como prenomial, portanto não usa o `な`.
 -   <font size="5"><code><ruby>同<rt>おな</rt></ruby>じ</code></font> O mesmo/Idêntico
     -   Geralmente é usado como prenomial, portanto não usa o `な`.
--   `りっぱ` Esplêndido
+-   <font size="5"><code><ruby>立<rt>りっ</rt>派<rt>ぱ</rt></ruby></code></font> Esplêndido
 -   `しんせん` Fresco
 -   `かいてき` Confortável
 -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby></code></font> Verdadeiro

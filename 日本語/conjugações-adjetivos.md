@@ -1,6 +1,6 @@
 # <ruby>形<rt>けい</rt>容<rt>よう</rt>詞<rt>し</rt></ruby>の<ruby>活<rt>かつ</rt>用<rt>よう</rt></ruby> - Conjugação de Adjetivos
 
-**Os adjetivos no passado já indicam o tempo, então o `です` não precisa ser flexionado, sendo usado apenas para formalidade.**
+**Os adjetivos no passado já indicam o tempo, então o `です` não precisa ser flexionado, sendo usado apenas para o discurso honorífico.**
 
 **Sintaticamente o japonês não possui adjetivos, já que os "adjetivos" são tecnicamente orações subordinadas relativas**
 
@@ -128,7 +128,7 @@
 -   A forma subjetiva pode ser usada apenas com alguns adjetivos e indica algo que é específico para o locutor.
     -   Geralmente a forma verbal plana associada a tais adjetivos termina em `む` e quase sempre são relacionados a sentimentos e emoções. Também com adjetivos que usam o kanji de "sabor": <font size="5">`味`</font>.
 -   A forma `て` conecta dois estados, como um "e".
-    -   A forma contínua `く` faz a mesma coisa de maneira mais formal e intrínseca, sem poder ligar dois estados ou frases desconexos, enquanto a anterior pode.
+    -   A forma contínua `く` faz a mesma coisa de maneira mais honorífica e intrínseca, sem poder ligar dois estados ou frases desconexos, enquanto a anterior pode.
 -   Na forma aparente, troca-se o radical negativo `ない` por `なさそう`.
     -   Para adjetivos い também pode-se usar como alternativa a forma aparente positiva + `じゃない`, semelhante a um adjetivo な
 -   Quando algum adjetivo se refere a uma emoção, ele só pode ser usado para falar de si. Para se referir a outra pessoa, remove-se o `い` e adiciona-se o verbo auxiliar `がる`.

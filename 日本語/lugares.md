@@ -8,7 +8,7 @@
 
 -   `かいじょう` Local
 -   <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
-    -   <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby></code></font> Formal
+    -   <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby></code></font> Honorífico (Teineigo)
 -   `せかい` Mundo
 -   `むら` Vila
 -   `しゅと` Capital

@@ -5,7 +5,7 @@
     -   `ええ`
 -   `いいえ` Não
     -   `いや・や` Mais utilizado
-    -   `いえ` Mais utilizado formalmente
+    -   `いえ` Mais utilizado no discurso honorífico
     -   `ううん`
 -   `もちろん` Claro/Com certeza/Claramente
 -   `きっと` Certamente/Sem dúvidas
@@ -35,7 +35,7 @@
     -   Usado com adjetivos.
 -   `いくつ` Quantos (Quantidade)
 -   `ちょっと` Um pouco (Pode ser usado pra recusar algo)
-    -   <font size="5"><code><ruby>少<rt>すこ</rt>し</ruby></code></font> Um pouco (Formal) (Pode ser usado para indicar hesitação)
+    -   <font size="5"><code><ruby>少<rt>すこ</rt>し</ruby></code></font> Um pouco (Honorífico) (Pode ser usado para indicar hesitação)
     -   <font size="5"><code>ちょっとの<ruby>間<rt>あいだ</rt></ruby></code></font> Por um instante/Por um momento
 -   `ひとりで` Sozinho
 -   `すぐ` Imediatamente/Neste momento
@@ -45,7 +45,7 @@
 -   `どうやって` Como/De que maneira
     -   Não é advérbio, está aqui por conveniência
 -   `どうして` Por que/Por quê
-    -   `なぜ` (Formal)
+    -   `なぜ` Honorífico
 -   `なぜなら。。。からです` Porque
 -   `もし` Se
 -   `もっと` Mais

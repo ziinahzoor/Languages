@@ -3,6 +3,7 @@
 ## Natureza
 
 -   `Soleil` Sol
+-   `Lune` Lua
 -   `Plante` Planta
 -   `Fleur` Flor
 -   `Arbre` Árvore 🚹
@@ -16,6 +17,8 @@
 -   `Vague` Onda
 -   `Tempête` Tempestade
 -   `Océan` Oceano
+-   `Colline` Colina
+-   `Vent` Vento
 
 ### Materiais
 
@@ -115,7 +118,8 @@
 -   `Bijou` Joia
 -   `Poubelle` Lata de lixo
 -   `Timbre` Selo
--   `Plan` Mapa
+-   `Plan` Mapa (Geográfico)
+-   `Carte` Mapa (Guias e diagramas)
 -   `Guide` Guia
 -   `Monument` Monumento
 -   `Parapluie` Guarda-chuva
@@ -171,6 +175,7 @@
 -   `Micro-ondes` Micro-ondas
 -   `Machine à café` Cafeteira
 -   `Ventilateur` Ventilador
+-   `Batterie` Bateria
 
 ## Abstratos
 
@@ -349,6 +354,7 @@
 
 ### Relacionados à veículos
 
+-   `Circulation` Tráfego/Trânsito 🚺
 -   `Essence` Gasolina
 -   `Moteur` Motor
 -   `Roue` Roda
@@ -475,5 +481,6 @@
 -   `Rap`
 -   `Jazz`
 -   `Pop` 🚺
+-   `Hip-hop`
 
 ## Outros

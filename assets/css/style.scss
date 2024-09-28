@@ -39,3 +39,12 @@ rt {
 		font-size: 0.9rem;
 	}
 }
+
+figure {
+	display: inline-block;
+
+	figcaption {
+		color: $cybergreen;
+		font-size: 1.2rem;
+	}
+}

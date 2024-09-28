@@ -165,7 +165,7 @@
 -   `さしみ` Sashimi
     -   Peixe (ou outro fruto do mar) cru
 -   <font size="5"><code><ruby>弁<rt>べん</rt>当<rt>とう</rt></ruby></code></font> Lanche de lancheira
-    -   <font size="5"><code>お<ruby>弁<rt>べん</rt>当<rt>とう</rt></ruby></code></font> Formal
+    -   <font size="5"><code>お<ruby>弁<rt>べん</rt>当<rt>とう</rt></ruby></code></font> Teineigo
     -   Uma marmita geralmente contendo arroz, carne, vegetais e macarrão.
 -   `うどん` Udon
     -   Macarrão grosso feito com farinha de trigo. Geralmente servido com algum caldo ou molho, como o dashi.

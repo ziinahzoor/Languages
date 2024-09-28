@@ -65,6 +65,10 @@
         <th>Frases interrogativas</th>
         <td>Devem terminar com か</td>
     </tr>
+    <tr>
+        <th>Formalidade</th>
+        <td>Ao invés dos conceitos de discurso formal e informal, utiliza os conceitos de discurso honorífico <font size="5"><code><ruby>敬<rt>けい</rt>語<rt>ご</rt></ruby></code></font> e casual <font size="5"><code>タメ<ruby>口<rt>ぐち</rt></ruby></code></font></td>
+    </tr>
 </table>
 
 -   Saudações geralmente vêm depois do nome.
@@ -106,7 +110,7 @@
 -   Para dizer ambos, usa-se a expressão `。。。も。。。も`. Para dizer "nem um, nem outro", usa-se a expressão `。。。も。。。もない`.
     -   Se usados com adjetivos, estes devem usar a forma `く`.
 
-## Conversa Informal
+## タメ<ruby>口<rt>ぐち</rt></ruby> - Conversa Informal
 
 -   Abreviar `です` para `っす`
 -   Abreviar a forma `ている` para `てる`.

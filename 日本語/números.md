@@ -210,7 +210,7 @@
 ### <font size="5"><code><ruby>第<rt>だい</rt></ruby>、<ruby>目<rt>め</rt></ruby></code></font> Afixos de dias ordinais
 
 -   Ambos acompanham a contagem com 日
--   `第` é um prefixo e é mais formal. Usa a forma kango, inclusive para o contador.
+-   `第` é um prefixo e é mais honorífico. Usa a forma kango, inclusive para o contador.
 -   `目` é um sufixo e é mais casual. Usa a forma já utilizada pelo contador.
 
 ### <font size="5"><code><ruby>時<rt>じ</rt></ruby></code></font> Horas (ponto no tempo)

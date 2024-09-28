@@ -43,7 +43,7 @@
 
 -   Captam as vibrações das cordas.
 -   Geralmente vão de 1 a 3. O mais próximo do braço é chamado "captador do braço", o mais próximo da ponte é chamado "captador da ponte" e o do meio é chamado "captador do meio", trivialmente.
--   São divididos em "single-coils" e "humberckers". Os primeiros são mais brilhantes e claros, usados comumente no blues e no indie. Os segundos consistem em dois single-coils unidos em polaridade reversa, e possuem um som mais encorpado, grosso, que combina bastante com distorção, sendo usados comumente no rock, no metal, e até no jazz.
+-   São divididos em "single-coils" e "humbuckers". Os primeiros são mais brilhantes e claros, usados comumente no blues e no indie. Os segundos consistem em dois single-coils unidos em polaridade reversa, e possuem um som mais encorpado, grosso, que combina bastante com distorção, sendo usados comumente no rock, no metal, e até no jazz.
 
 ## 2 - Braço (Neck)
 

@@ -1,16 +1,33 @@
 # <ruby>人<rt>ひと</rt>々<rt>びと</rt></ruby> - Pessoas
 
--   `みんな` Todos/Pessoal/Todo mundo
+-   <font size="5"><code><ruby>方<rt>かた</rt></ruby></code></font> Pessoa (Honorífico [Sonkeigo])
+    -   Geralmente pode substituir `人`.
+-   <font size="5"><code><ruby>皆<rt>みんな</rt></ruby></code></font> Todos/Pessoal/Todo mundo
+-   <font size="5"><code><ruby>大<rt>おお</rt>勢<rt>ぜい</rt></ruby></code></font> Multidão
 -   <font size="5"><code><ruby>外<rt>がい</rt>国<rt>こく</rt>人<rt>じん</rt></ruby></code></font> Estrangeiro
 -   <font size="5"><code><ruby>大人<rt>おとな</rt></ruby></code></font> Adulto
 -   <font size="5"><code><ruby>女<rt>おんな</rt></ruby></code></font> Mulher
-    -   <font size="5"><code><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Formal
+    -   <font size="5"><code><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Honorífico
 -   <font size="5"><code><ruby>男<rt>おとこ</rt></ruby></code></font> Homem
-    -   <font size="5"><code><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Formal
+    -   <font size="5"><code><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Honorífico
 -   <font size="5"><code><ruby>子<rt>こ</rt>供<rt>ども</rt></ruby></code></font> Criança
 -   <font size="5"><code><ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby></code></font> Menina
 -   <font size="5"><code><ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby></code></font> Menino
--   `あかちゃん` Bebê
+-   <font size="5"><code><ruby>赤<rt>あか</rt></ruby>ちゃん</code></font> Bebê
+-   <font size="5"><code><ruby>友<rt>とも</rt>達<rt>だち</rt></ruby></code></font> Amigo
+-   `パートナー` Parceiro/Companheiro
+-   `クラスメイト` Colega de classe
+-   `ルームメイト` Colega de quarto
+-   `どうりょう` Colega de trabalho
+-   `きゃく` Cliente (Consumidor)
+    -   `おきゃくさん` Honorífico
+-   `クライアント` Cliente
+-   `おきゃくさん` Visitante/Convidado
+    -   `ゲスト` Convidado (Evento)
+-   <font size="5"><code>きんじょの<ruby>人<rt>ひと</rt></ruby></code></font> Vizinho
+
+## Profissões
+
 -   `いしゃ` Médico
 -   <font size="5"><code><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></code></font> Professor/Doutor (Médico)
 -   <font size="5"><code><ruby>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante
@@ -19,45 +36,28 @@
     -   <font size="5"><code><ruby>中<rt>ちゅう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante do secundário
     -   <font size="5"><code><ruby>高<rt>こう</rt>校<rt>こう</rt>生<rt>せい</rt></ruby></code></font> Estudante do ensino médio
     -   <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Universitário
--   `クラスメイト` Colega de quarto
 -   `べんごし` Advogado
--   `にんげん` Humano
--   <font size="5"><code><ruby>友<rt>とも</rt>達<rt>だち</rt></ruby></code></font> Amigo
--   `きゃく` Cliente
 -   `かしゅ` Cantor
 -   `ちょしゃ` Autor
--   `にんぎょ` Sereia
--   `ゲスト` Visita
--   `ゾンビ` Zumbi
 -   `エンジニア` Engenheiro
 -   `かいしゃいん` Trabalhador de escritório
 -   `かんごし` Enfermeiro
 -   `けいさつ` Polícia
 -   `ぶし` Guerreiro
 -   `コーチ` Treinador
--   `どうりょう` Colega de trabalho
 -   `マネージャー` Gerente
 -   `うんてんしゅ` Motorista
 -   `ほんやくか` Tradutor
 -   `しゃしんか` Fotógrafo
--   `チーム` Time
 -   `せんしゅ` Jogador
 -   `プロ` Profissional
--   `バンド` Banda
 -   `はいゆう` Ator
 -   `じょゆう` Atriz
--   `クライアント` Cliente
 -   `ボランティア` Voluntário
--   `ルームメイト` Colega de quarto
 -   `てんいん` Funcionário
 -   <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt></ruby></code></font> Caixa
 -   `アーティスト` Artista
--   `パートナー` Parceiro/Companheiro
--   `おきゃくさん` Visitante/Convidado
-    -   `ゲスト` Convidado (Evento)
--   <font size="5"><code>きんじょの<ruby>人<rt>ひと</rt></ruby></code></font> Vizinho
 -   `まんがか` Mangaká
--   `ベジタリアン` Vegetariano
 -   `シェフ` Chef
 
 ## <ruby>家<rt>か</rt>族<rt>ぞく</rt></ruby> - Família
@@ -116,3 +116,19 @@
 -   `いとこ` Primo
 -   <font size="5"><code><ruby>姪<rt>めい</rt></ruby></code></font> Sobrinha
 -   `甥` Sobrinho
+
+## Identidade
+
+-   `ベジタリアン` Vegetariano
+-   <font size="5"><code><ruby>独<rt>どく</rt>身<rt>しん</rt></ruby></code></font> Solteiro
+-   `にんげん` Humano
+
+## Conjuntos
+
+-   `チーム` Time
+-   `バンド` Banda
+
+## Criaturas
+
+-   `にんぎょ` Sereia
+-   `ゾンビ` Zumbi

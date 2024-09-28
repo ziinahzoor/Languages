@@ -110,7 +110,7 @@
 
 -   Ex.: Ao tocar a escala de G, que possui F#, podemos indicar pela armadura que toda nota F deve ser tocada como F♯, ao invés de marcar cada F como F♯.
 -   Na armadura, os bemóis devem vir horizontalmente na ordem `B-E-A-D-G-C-F`, enquanto os sustenidos devem vir na ordem inversa `F-C-G-D-A-E-B`.
--   Pela armadura de chave, é possível [calcular quantos acidentais outras escalas possuem a partir de uma escala base](https://www.musictheory.net/lessons/25).
+-   Pela armadura de clave, é possível [calcular quantos acidentais outras escalas possuem a partir de uma escala base](https://www.musictheory.net/lessons/25).
 
 ## Nota
 
@@ -404,3 +404,14 @@
 
 -   Intervalos consoantes: oitavas.
 -   Intervalos dissonantes: semitons.
+
+### Inversões
+
+**_Inversões de intervalo_ (Interval inversions) consistem em aumentar a menor das duas notas em uma oitava.**
+
+-   Um intervalo perfeito sempre inverte em outro perfeito.
+-   Um intervalo maior sempre inverte em um menor e vice-versa.
+-   Um intervalo diminuto sempre inverte em um aumentado e vice-versa.
+-   Uma segunda inverte em uma sétima e vice-versa.
+-   Uma terça inverte em uma sexta e vice-versa.
+-   Uma quarta inverte em uma quinta e vice-versa.

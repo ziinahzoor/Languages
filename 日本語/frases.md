@@ -30,8 +30,8 @@
 
 -   `はじめまして` Prazer em conhecer (Antes de se apresentar)
 -   `どうぞよろしく` Prazer em conhecer (Depois de se apresentar)
-    -   `よろしく` (Informal)
-    -   `よろしくおねがいします` (Formal)
+    -   `よろしく` Casual
+    -   `よろしくおねがいします` Honorífico (Teineigo)
 -   `しゅっしんはどこですか` De onde você é?
 -   <font size="5"><code>お<ruby>名<rt>な</rt>前<rt>まえ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか</code></font> Qual é o seu nome?
     -   <font size="5"><code>お<ruby>名<rt>な</rt>前<rt>まえ</rt></ruby>は</code></font>
@@ -51,7 +51,7 @@
 ## Arrependimento
 
 -   `すみません` Com licença/Desculpa
--   `ごめんなさい` Desculpa (Informal)
+-   `ごめんなさい` Desculpa (Casual)
 -   `さあ` Não tenho certeza
 
 ## Felicitações

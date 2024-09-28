@@ -35,14 +35,14 @@
 
 -   `ナイフ` Faca
 -   <font size="5"><code><ruby>皿<rt>さら</rt></ruby></code></font> Prato
-    -   <font size="5"><code>お<ruby>皿<rt>さら</rt></ruby></code></font> Formal
+    -   <font size="5"><code>お<ruby>皿<rt>さら</rt></ruby></code></font> Honorífico (Teineigo)
 -   `でんしレンジ` Micro-ondas
 -   <font size="5"><code><ruby>冷<rt>れい</rt>蔵<rt>ぞう</rt>庫<rt>こ</rt></ruby></code></font> Geladeira
 -   `カップ` Xícara
 -   `フォーク` Garfo
 -   `スプーン` Colher
 -   <font size="5"><code><ruby>箸<rt>はし</rt></ruby></code></font> Pauzinhos
-    -   <font size="5"><code>お<ruby>箸<rt>はし</rt></ruby></code></font> Formal
+    -   <font size="5"><code>お<ruby>箸<rt>はし</rt></ruby></code></font> Honorífico (Teineigo)
 -   `マグカップ` Caneca
 -   `ボウル` Tigela
 -   <font size="5"><code><ruby>茶<rt>ちゃ</rt>碗<rt>わん</rt></ruby></code></font> Tigela de arroz/Copo de chá
@@ -252,6 +252,8 @@
 -   `デザイン` Design
 -   <font size="5"><code><ruby>行<rt>ぎょう</rt></ruby></code></font> Linha
 -   `ルール` Regra
+-   <font size="5"><code><ruby>結<rt>けっ</rt>婚<rt>こん</rt></ruby></code></font> Casamento
+-   <font size="5"><code><ruby>離<rt>り</rt>婚<rt>こん</rt></ruby></code></font> Divórcio
 
 ### Condições
 
@@ -399,7 +401,7 @@
 -   `きんトレ` Musculação
 -   `サイクリング` Ciclismo
 -   `サーフィン` Surf
--   `けっこんしき` Casamento
+-   <font size="5"><code><ruby>結<rt>けっ</rt>婚<rt>こん</rt>式<rt>しき</rt></ruby></code></font> Casamento
 -   `スピーチ` Discurso
 -   `ボウリング` Boliche
 -   `プログラミング` Programação
@@ -407,6 +409,7 @@
 -   `つり` Pesca
 -   `たっきゅう` Pingue-pongue/Tênis de mesa
 -   `じゅんび` Preparação
+-   `デート` Encontro
 
 ### <ruby>学<rt>がっ</rt>校<rt>こう</rt></ruby> - Escola
 

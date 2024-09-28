@@ -94,6 +94,7 @@
 -   `Gravement` Gravemente
 -   `Exactement` Exatamente
 -   `Clairement` Claramente
+-   `Doucement` Suavemente/Devagar
 
 ## Os Porquês
 

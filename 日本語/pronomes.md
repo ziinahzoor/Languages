@@ -12,7 +12,7 @@
     -   <font size="5"><code><ruby>俺<rt>おれ</rt></ruby></code></font> é ainda mais masculino e até mesmo vulgar.
     -   `うち` é bastante comum entre mulheres.
 -   <font size="5"><code><ruby>貴<rt>あな</rt>方<rt>た</rt></ruby></code></font> Tu/Você
-    -   <font size="5"><code>お<ruby>前<rt>まえ</rt></ruby></code></font> Amistoso e informal com amigos, rude com estranhos
+    -   <font size="5"><code>お<ruby>前<rt>まえ</rt></ruby></code></font> Amistoso e casual com amigos, rude com estranhos
 -   <font size="5"><code><ruby>彼<rt>かれ</rt></ruby></code></font> Ele
 -   <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> Ela
 -   `うち` Nós (feminino)
@@ -82,7 +82,7 @@
         <td>どちら</td>
     </tr>
     <tr>
-        <th>Direção (Informal)</th>
+        <th>Direção (Casual)</th>
         <td>こっら</td>
         <td>そっら</td>
         <td>あっら</td>
@@ -122,12 +122,13 @@
 **Geralmente acompanham a partícula `が`.**
 
 -   `どう` Como/Que tal
-    -   `いかが` Formal
+    -   `いかが` Honorífico
 -   `どんな` Que (tipo)
 -   <font size="5"><code><ruby>何<rt>なに</rt></ruby></code></font> O que
     -   <font size="5"><code><ruby>何<rt>なん</rt></ruby></code></font> Usado com algum sufixo
     -   <font size="5"><code><ruby>何<rt>なん</rt>の</ruby></code></font> Que/Qual(is)/De que/De qual(is)
 -   <font size="5"><code><ruby>誰<rt>だれ</rt></ruby></code></font> Quem
+    -   <font size="5"><code><ruby>何方<rt>どなた</rt></ruby></code></font> Honorífico (Sonkeigo)
 -   `いつ` Quando
 -   `いくつ` Quanto/Quantos
 

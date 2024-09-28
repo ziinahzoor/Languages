@@ -73,13 +73,88 @@
 -   As formas femininas costumam terminar em `-η` e `-α`.
 -   As formas neutras costumam terminar em `-ο`, `-ύ`, `-ί` e `-ικο`.
 
-## Plural
+## Casos e Plural
 
--   Terminados em `-ος`: `-οι`.
--   Terminados em `-α`, `-ας`, `–η`, `-ης`: `-ες`.
--   Terminados em `-ο`: `-α`.
--   Terminados em `-ι`: `-ια`.
--   Terminados em `-μα`: `-ματα`.
+-   As terminações seguem a tabela:
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Gênero</th>
+            <th colspan="4">Masculino</th>
+            <th colspan="2">Feminino</th>
+            <th colspan="5">Neutro</th>
+        </tr>
+    </thead>
+    <tr>
+        <th rowspan="3">Singular</th>
+        <th>Nominativo</th>
+        <td>-ος◆</td>
+        <td>-ας</td>
+        <td>-εας</td>
+        <td>-ης</td>
+        <td rowspan="2">-α</td>
+        <td rowspan="2">-η</td>
+        <td rowspan="2">-ο</td>
+        <td rowspan="2">-ί</td>
+        <td rowspan="2">-α</td>
+        <td rowspan="2">-ιμο</td>
+        <td rowspan="2">-ος</td>
+    </tr>
+    <tr>
+        <th>Acusativo</th>
+        <td>-ο</td>
+        <td rowspan="2">-α</td>
+        <td rowspan="2">-εα</td>
+        <td rowspan="2">-η</td>
+    </tr>
+    <tr>
+        <th>Genitivo</th>
+        <td>-ου</td>
+        <td>-ας</td>
+        <td>-ης/-εως</td>
+        <td>-ου</td>
+        <td>-ιού</td>
+        <td colspan="2">-ατος</td>
+        <td>-ους</td>
+    </tr>
+    <tr>
+        <th rowspan="3">Plural</th>
+        <th>Nominativo</th>
+        <td>-οι</td>
+        <td rowspan="2">-ες/-αδες</td>
+        <td rowspan="2">-είς</td>
+        <td rowspan="2" colspan="2">-ες</td>
+        <td rowspan="2">-ες/εις</td>
+        <td rowspan="2">-α</td>
+        <td rowspan="2">-ιά</td>
+        <td rowspan="2" colspan="2">-ατα</td>
+        <td rowspan="2">-η</td>
+    </tr>
+    <tr>
+        <th>Acusativo</th>
+        <td>-ους</td>
+    </tr>
+    <tr>
+        <th>Genitivo</th>
+        <td>-ων</td>
+        <td>-ων/-αδων</td>
+        <td>-έων</td>
+        <td colspan="2">-ών</td>
+        <td>-ών/-εων</td>
+        <td>-ων</td>
+        <td>-ιών</td>
+        <td colspan="2">-άτων</td>
+        <td>-ών</td>
+    </tr>
+</table>
+
+-   ◆: Também pode ser feminino
+-   O vocativo sempre será igual ao acusativo, exceto nos substantivos terminados em `-ος`, que se tornam `-ε` ao invés de `-ο`.
+-   Note que nos masculinos, exceto no plural acusativo, todas as formas perdem o `-ς` do nominativo.
+-   Note que nas terminações exclusivamente femininas singulares, somente o genitivo é diferente (acrescenta `-ς`).
+-   Note que nas terminações neutras, o nominativo e o acusativo são sempre iguais.
 
 ## Artigos
 
@@ -167,9 +242,3 @@
 </table>
 
 **`μια` geralmente é usado sem o `ν` para eufonia. Caso utilizado, somente antes de vogais.**
-
-## Casos
-
-### Acusativo
-
--   Substantivos femininos e neutros não se alteram. Substantivos masculinos perdem o final `-ς`.

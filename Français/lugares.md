@@ -192,6 +192,9 @@
 -   `Sortie` Saída
 -   `Zone` Área/Zona
 -   `Quai` Plataforma 🚹
+-   `Désert` Deserto
+-   `Bois` Bosque
+-   `Champ` Campo
 
 ## France - França
 

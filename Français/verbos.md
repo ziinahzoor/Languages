@@ -18,13 +18,14 @@
 -   `Écrire` Escrever
 -   `Conduire` Dirigir
 -   `Faire` Fazer
+    -   `Faire grève` Fazer greve
     -   `Faire du sport` Exercitar
     -   `Faire du vélo` Andar de bicicleta
-    -   `Se faire mal` Machucar-se
+    -   `Faire du camping` Acampar
     -   `Faire le ménage` Limpar a casa
     -   `Faire les bagages` Fazer as malas
     -   `Faire la queue` Fazer fila/Esperar na fila
-    -   `Faire grève` Fazer greve
+    -   `Se faire mal` Machucar-se
 -   `Attendre` Esperar
 -   `Dire` Dizer
 -   `Mettre` Colocar
@@ -166,6 +167,7 @@
 -   `Taper` Digitar
 -   `Essayer` Experimentar/Provar (Roupas)
 -   `Tomber` Cair
+    -   `Tomber em panne` Estragar/Quebrar
     -   `Faire tomber` Derrubar
 -   `Dépenser` Gastar
 -   `Souhaiter` Desejar

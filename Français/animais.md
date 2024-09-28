@@ -27,6 +27,7 @@
 -   `Canard` Pato
 -   `Mouette` Gaivota
 -   `Crevette` Camarão 🚺
+-   `Mouton` Ovelha 🚹
 
 ## Relacionado
 

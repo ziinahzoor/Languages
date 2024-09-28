@@ -326,9 +326,16 @@ const music = {
 	folder: 'Música',
 	displayName: 'Música',
 	subpages: [
-		{ page: 'Guitarra/acordes', displayName: 'Guitarra - Acordes' },
+		{ page: 'teoria', displayName: '◆ Teoria Musical' },
+		{ page: 'escalas', displayName: '◆ Escalas' },
+		{ page: 'modos', displayName: '◆ Modos' },
+		{ page: 'acordes', displayName: '◆ Acordes' },
+		{ page: 'Guitarra/anatomia', displayName: 'Guitarra - Anatomia da guitarra' },
 		{ page: 'Guitarra/teoria', displayName: 'Guitarra - Teoria' },
-		{ page: 'teoria', displayName: 'Teoria Musical' },
+		{ page: 'Guitarra/técnicas', displayName: 'Guitarra - Técnicas' },
+		{ page: 'Guitarra/escalas', displayName: 'Guitarra - Escalas e modos' },
+		{ page: 'Guitarra/acordes', displayName: 'Guitarra - Acordes' },
+		{ page: 'Piano/teoria', displayName: 'Piano - Teoria' },
 	]
 }
 

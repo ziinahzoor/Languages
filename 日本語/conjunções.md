@@ -5,9 +5,9 @@
 -   `それで` Por isso/Portanto/Consequentemente
 -   `それでも` Apesar disso
 -   `でも` Mas/Entretanto/Porém (Começo de frase)
-    -   `しかし` Formal
+    -   `しかし` Honorífico
 -   `けど` Mas/Apesar de (Fim de frase)
-    -   `けれども` Formal
+    -   `けれども` Teineigo
 -   `では` Ok então.../Então.../Bem...
     -   `じゃあ`
 -   `それでは` Então.../Bem.../Se este é o caso...
@@ -17,7 +17,7 @@
 -   `たとえば` Por exemplo
 -   `だから` Então (para explicar causa) (Depois de substantivo)
     -   `から` Depois de adjetivos e verbos.
-    -   `ので` Formal
+    -   `ので` Honorífico
 -   `だって` Porque/Mas/Mesmo que/Afinal
     -   A tradução correta seria "é dito que...", o que justifica todos os usos contrastantes.
 

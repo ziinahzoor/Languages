@@ -4,7 +4,7 @@
 -   <font size="5"><code><ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby>で。。。</code></font> No total...
 -   `いいですね` Parece ótimo
 -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby>ですか</code></font> Sério?/De verdade?
-    -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby></code></font> Informal
+    -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby></code></font> Casual
 -   `だいじょうぶですか` Está tudo bem?
 -   `いただきます` Vamos comer!
 -   `ぐあいがわるい` Está doente
@@ -22,7 +22,7 @@
 -   `〜そうだ・〜そうです` Dizem que...
 -   `〜ようだ` Parece.../Como...
     -   Vem de `のよう` "Aparência de".
-    -   `みたい` Informal
+    -   `みたい` Casual
 -   `〜ようになる` Para que/Para chegar ao ponto de
     -   Indica uma mudança na capacidade ou possibilidade de fazer algo.
 -   `〜ようにする` Tentar/Garantir que
@@ -53,7 +53,7 @@
 -   `そうなんですね` Ah sim! (Sobre um fato desconhecido)
 -   `そうなんだー・そうなんですか` Ah, não sabia (Sobre um fato desconhecido)
 -   `はい` Sim... (Para que a pessoa continue)
-    -   `ええ` Muito formal
+    -   `ええ` Honorífico
 -   `うん` É... (Para que a pessoa continue)
 -   `へえー` Interessante...
 -   `ふーん` Hmmm... (Como o `へえー`, mas menos interessante)

@@ -1,6 +1,6 @@
 # <ruby>敬<rt>けい</rt>語<rt>ご</rt></ruby> - Linguagem honorífica
 
-**A cortesia da frase é demarcada no fim dela. Portanto, se um verbo está no meio de frase formal, ele obrigatoriamente deve estar na forma plana.**
+**A cortesia da frase é demarcada no fim dela. Portanto, se um verbo está no meio de uma frase honorífica, ele obrigatoriamente deve estar na forma plana.**
 
 > [!CAUTION]
 > Sempre usar honoríficos para se referir às pessoas.

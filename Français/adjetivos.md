@@ -42,8 +42,11 @@
 -   `Super` Ótimo
 -   `Grand` Grande/Alto
 -   `Petit` Pequeno
+-   `Large` Largo
 -   `Long` Longo
 -   `Court` Curto
+-   `Gros` Gordo
+-   `Mince` Magro
 -   `Préferé` Preferido
 -   `Seul` Único/Sozinho
 -   `Cher` Caro
@@ -87,10 +90,10 @@
 -   `Gentil`
 -   `Sûre` Certo/Confiante
     -   `Sure` Pós-reforma de 90
--   `Bon` Bom/Correto
--   `Bonne` Boa/Correta
+-   `Bon` Bom/Correto/Certo
+-   `Bonne` Boa/Correta/Certa
 -   `Super` Ótimo
--   `Mauvais` Ruim
+-   `Mauvais` Ruim/Incorreto/Errado
 -   `Pire` Pior
 -   `Rapide` Rápido
 -   `Sympa` Simpático/Legal (Nice)
@@ -113,8 +116,6 @@
 -   `Chaud` Quente/Calor
 -   `Froid` Frio
     -   Também é substantivo
--   `Gros` Gordo
--   `Mince` Magro
 -   `Riche` Rico
 -   `Droit` Direito
 -   `Gauche` Esquerdo
@@ -237,3 +238,5 @@
 -   `Avancé` Avançado
 -   `Capable` Capaz
 -   `Normal`
+-   `Sauvage` Selvagem
+-   `Profond` Profundo

@@ -1,7 +1,9 @@
 # Acordes (Chords)
 
 **Notas tocadas em conjunto.**
-**Geralmente são tríades**
+
+**Geralmente são tríades.**
+
 **Acordes tocados nas três primeiras casas, que possuem cordas tocadas abertas, são chamados acordes abertos (open chords).**
 
 -   Acordes são nomeados conforme sua nota-raíz ou nota fundamental (a menor nota tocada).
@@ -154,6 +156,3 @@
 <img src="../../assets/images/B7.png" alt="B7" style="width:13rem; background-color: #E8F9FD; border-radius: 10px; border: 5px purple solid
 "/>
 </p>
----
-
-[Criador de imagens](https://chordpic.com/pt)

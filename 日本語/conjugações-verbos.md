@@ -94,7 +94,7 @@
         <tr>
             <th>Forma indicativa não-passado</th>
             <th>Plana</th>
-            <th>Formal <code>い</code></th>
+            <th>Honorífica <code>い</code></th>
         </tr>
     </thead>
     <tr>
@@ -110,14 +110,14 @@
 </table>
 
 > [!TIP]
-> O <code>ない</code> pode ser acrescentado de <code>です</code> para tornar a frase mais formal.
+> O <code>ない</code> pode ser acrescentado de <code>です</code> para tornar a frase mais honorífica.
 
 <table>
     <thead>
         <tr>
             <th>Forma indicativa passado</th>
             <th>Plana</th>
-            <th>Formal <code>い</code></th>
+            <th>Honorífica <code>い</code></th>
         </tr>
     </thead>
     <tr>
@@ -190,7 +190,7 @@
 
 <h3 id="var_educada"><ruby>丁<rt>てい</rt>寧<rt>ねい</rt>形<rt>けい</rt></ruby> - Forma educada (ます)</h3>
 
--   `ます` é um verbo auxiliar que só serve para formalidade.
+-   `ます` é um verbo auxiliar que só serve para o discurso honorífico.
 -   Usa o radical negativo `せん` ao invés de `さない` pois deriva do japonês antigo.
 
 <h3 id="var_desejo">たい<ruby>形<rt>けい</rt></ruby> - Forma de desejo (たい)</h3>
@@ -199,7 +199,7 @@
 -   Serve para expressar o desejo de fazer alguma ação.
 -   É um sufixo intransitivo, portanto, se o verbo que o acompanha for intransitivo, pode usar ambas a partículas `が` e `を`.
 -   Só serve para se referir a si. Para se referir ao que outra pessoa quer, usar `たがる`.
--   Pode usar a cópula para formalidade.
+-   Pode usar a cópula para o discurso honorífico.
 -   Para ser ainda mais educado, pode-se usar a forma de desejo mais `のですが・んですが` para dizer algo como "Eu gostaria de...".
 
 <h3 id="var_aparente">そう<ruby>形<rt>けい</rt></ruby> - Forma aparente (そう)</h3>
@@ -281,7 +281,7 @@
         <tr>
             <th></th>
             <th>Plana</th>
-            <th>Formal</th>
+            <th>Honorífica</th>
         </tr>
     </thead>
     <tr>
@@ -362,7 +362,7 @@
 
 **Também chamada de <ruby>過<rt>か</rt>去<rt>こ</rt>形<rt>けい</rt></ruby> (Pretérito) ou <ruby>完<rt>かん</rt>了<rt>りょう</rt>形<rt>けい</rt></ruby> (Tempo perfeito/Pretérito perfeito)**
 
--   Forma informal do pretérito afirmativo.
+-   Forma casual do pretérito afirmativo.
 -   Exceções às mudanças eufônicas:
     -   `行く` → `行った`
     -   `問う` → `問うた`
@@ -375,7 +375,7 @@
 -   Serve para conectar diversos verbos como uma sequência de eventos ou um "e".
 -   Também serve como "então" em alguns contextos. Como um conector de frases.
 -   No final da frase serve como comando ou pedido. No último caso é bom adicionar `ください` para ser educado
-    -   Note que para ser ainda mais formal (contextos empresariais), pode-se usar `お` + radical `い` + `ください` ao invés da forma `て`.
+    -   Note que para ser ainda mais honorífico (contextos empresariais), pode-se usar `お` + radical `い` + `ください` ao invés da forma `て`.
 -   Exceções às mudanças eufônicas:
     -   `行く` → `行って`
     -   `問う` → `問うて`

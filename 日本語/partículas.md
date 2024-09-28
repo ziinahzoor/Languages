@@ -9,7 +9,7 @@
 -   `が` Sujeito
 -   `の` Posse, Caracterização
     -   Também pode ser marcador paralelo, finalizadora e paralela.
-    -   Também pode substituir a partícula `か` em perguntas, dando um tom mais informal e suave. Adjetivos `な` e substantivos devem utilizar o sufixo `な`.
+    -   Também pode substituir a partícula `か` em perguntas, dando um tom mais casual e suave. Adjetivos `な` e substantivos devem utilizar o sufixo `な`.
     -   Funciona como o apóstofre em inglês.
 -   `を` Marcador de objeto direto (Acompanha o objeto direto e é seguido por um verbo transitivo).
 -   `に` Localização temporal e espacial, Propósito, Transformação, Marcador de objeto indireto e agente passivo, Frequência (Por).
@@ -23,7 +23,7 @@
 -   `には` に com ênfase. Geralmente indica propósito.
 -   `へ` (e) Direção
 -   `で` Onde ou como uma ação acontece (In, on, at, by, for, with)
-    -   `にて` Formal
+    -   `にて` Honorífico/Literário
     -   Indica meio, lugar, total, tempo, custo, escopo, do que é feito, causa.
     -   Usado para indicar de que maneira se vai a algum lugar. Ex.: De avião, de ônibus...
 -   `と` E/Com (Exclusivo), Ou, Marcador de citação, Condicional
@@ -60,7 +60,7 @@
 ## <ruby>間<rt>かん</rt>投<rt>とう</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> Partículas interjetivas
 
 -   `ね` Confirmação
-    -   `な・なあ` Mais informal/Usado bastante em Kansai
+    -   `な・なあ` Mais casual/Usado bastante em Kansai
     -   Semelhante ao "né?" brasileiro
     -   Pode ser usado com um comando para soar mais tranquilizador
 -   `よ` Afirmação
@@ -113,7 +113,7 @@
     -   Mais forte que o `けど` e geralmente indica arrependimento.
     -   Se vem no meio da frase (A のに B), indica que B acontece para que A possa acontecer.
 -   `けど` Mas/Apesar
-    -   `けれども` Formal
+    -   `けれども` Honorífico (Teineigo)
 -   `たら` Partícula condicional
     -   Gera uma condição que descreve que quando a primeira frase ocorre, a segunda também ocorrerá.
     -   Geralmente é mais associada como "Quando... então..."

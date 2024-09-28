@@ -90,3 +90,7 @@
 **[Dicionário de música](https://www.meloteca.com/dicionario-de-musica-ingles-portugues/)**
 
 **[Ler tablaturas de guitarra](https://www.pickupmusic.com/blog/the-ultimate-guide-to-reading-guitar-tab)**
+
+**[Escalas na guitarra](https://www.guitarscale.org/all-scales.html)**
+
+**[Desenhar acordes](https://chordpic.com/pt)**
