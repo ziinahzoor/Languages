@@ -85,6 +85,8 @@
 
 ## Música
 
+**[Conceitos básicos de partituras](https://musica.ufma.br/bordini/ext/unidades/unidade_01a.html)**
+
 **[Símbolos](https://commons.wikimedia.org/wiki/Musical_notation)**
 
 **[Dicionário de música](https://www.meloteca.com/dicionario-de-musica-ingles-portugues/)**

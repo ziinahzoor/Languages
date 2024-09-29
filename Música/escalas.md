@@ -4,10 +4,15 @@
 
 -   É dada por uma nota inicial que dá o nome da escala, e as outras notas que são obtidas por intervalos definidos (como uma fórmula).
 -   Nas "fórmulas" utilizadas, "T" é um tom, "s" um semitom e "Ts" um tom e meio.
+-   Existem dois sistemas de escala: Modal (com base nos 7 [modos gregos](modos)) e Tonal (com base nas escalas maior e menor).
 
 ## Cromática
 
 **A _escala cromática_ (Chromatic scale) consiste de todas as 12 notas, ordenadas.**
+
+## Natural
+
+**A _escala natural_ (Natural scale) consiste das 7 notas naturais, ordenadas.**
 
 ## Diatônica
 

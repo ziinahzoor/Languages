@@ -3,196 +3,34 @@
 > [!NOTE]
 > A _partitura_ (sheet) é a representação visual da música, geralmente composta pela pauta, notas e outros elementos.
 
-> [!NOTE]
-> Note que alguns conceitos estão entrelaçados, portanto pode ser necessário ler o conteúdo fora de ordem para total compreensão.
-
-## Tempo
-
-**_Tempo rítmico_, _batida_ ou _pulso_ (Beat) é um pulso periódico que ocorre na música. Pode ser _forte_ (Strong beat) ou _fraco_ (Weak beat).**
-
--   É a menor unidade de tempo na música.
--   Geralmente é representado por uma semínima.
--   A primeira batida de uma medida [Veja em [Compasso](#compasso)] também é chamada _tempo forte_ (Downbeat), enquanto a última também é chamada _tempo fraco_ (Upbeat). Nestes casos, estes conceitos serão referidos pelo seus nomes em inglês.
-
 > [!IMPORTANT]
-> É necessário entender que tempo e nota são conceitos diferentes. Um tempo pode conter várias notas.
+> Os conceitos musicais são fortemente entrelaçados, dependendo um do outro para total compreensão. Portanto pode ser necessário fugir da ordem apresentada para o entendimento de tais.
 
-### Métrica
-
-**_Métrica_ ou _compasso_ (Meter) se refere à organização das batidas.**
-
--   A métrica pode ser classificada quanto à quantidade de tempos (fortes):
-    -   Compasso binário ou de dois tempos (Duple meter): Duas batidas. Ex.: forte-fraca-forte-fraca.
-    -   Compasso ternário ou de três tempos (Triple meter): Três batidas. Ex.: forte-fraca-fraca-forte-fraca-fraca.
-    -   Compasso quaternário ou de quatro tempos (Quadruple meter): Quatro batidas. Ex.: forte-fraca-meioforte-fraca-forte-fraca-meioforte-fraca.
-        -   É o mais comum na música ocidental.
--   A métrica também pode ser classificada quanto às divisão do tempo em notas:
-    -   Compasso simples (Simple meter): Cada tempo é dividido em duas notas. Geralmente representado por semínimas.
-    -   Compasso composto (Compound meter): Cada tempo é dividido em três notas. Geralmente representado por semínimas pontuadas.
-    -   Compasso ímpar (Odd meter): Possui tempos divididos em duas e três notas, ou seja, possui tempos simples e compostos.
+**A música é dividida em [_ritmo_](ritmo) (Rhythm), [_melodia_](melodia) (Melody) e [_harmonia_](harmonia) (Harmony).**
 
 > [!TIP]
-> [Veja [Indicação de compasso](#indicação-de-compasso) antes] Para diferenciar, note que 6/8 pode ser dividido em dois tempos com três colcheias cada (binário composto) ou três tempos com duas colcheias cada (ternário simples), mas no último caso, cada par de colcheias "forma" uma semínima, então teríamos uma indicação 3/4. Considerando isto, a outra alternativa com três colcheias por tempo é a única possível para 6/8, fazendo com que a métrica seja composta.
-> Note que 3/4 tem uma sensação de valsa, enquanto que 6/8 parece o balançar de um pêndulo.
+> A melodia é o que carrega a música, o seu desenrolar (o que se assovia). A harmonia é o suporte de fundo, os sons que acompanham e enriquecem a melodia, criando profundidade e contexto.
 
-### Compasso
-
-**_Compasso_ ou _barra_ (Measure/Bar) é cada agrupamento da métrica. Por exemplo, no compasso (métrica) binário, cada agrupamento "forte-fraca" é um compasso.**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music-bar.svg" alt="Indicação de compasso" style="width:10rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+<img src="../assets/images/melody-harmony.png" alt="Diferença entre melodia e harmonia" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
 "/>
 
--   As delimitações de cada compasso são marcadas por barras na partitura.
--   O compasso é abreviado por `m.`, ou no plural, `mm.`
+## Altura
 
-**A anacruse ou anacrusa (anacrusis) é a sequência de notas que vem antes do primeiro tempo forte de uma música. Não é considerada na contagem de compassos.**
+**Sons vibram em frequências que soam diferentes ao ouvido. Algumas frequências específicas são utilizadas na música como unidades básicas de construção. Cada uma dessas frequências é chamada _altura_ (Pitch).**
 
-### Indicação de compasso
-
-**A _indicação de compasso_, _fórmula de compasso_, _assinatura de tempo_ ou simplesmente _compasso_ (Time signature) define a quantidade de batidas por compasso e a duração de cada batida.**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Music-timesig.svg" alt="Indicação de compasso" style="width:5rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-
--   O número de cima indica a quantidade de batidas em cada compasso.
--   O número de baixo define a duração de cada batida. Ex.: 4 indica que cada batida tem a duração de uma semínima (uma quarta nota).
--   Se o número de cima é 2, 3 ou 4, o compasso é _simples_. Se for 6, 9 ou 12 é _composto_. Em ambos os casos, _binário_, _ternário_ e _quaternário_, respectivamente.
--   Geralmente, se o número de cima é 5, 7, 8, 10 ou 11, o compasso é _ímpar_.
-
-<span>
-<img src="../assets/images/tempo-comum.svg" alt="Compasso comum" style="width:20rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-<img src="../assets/images/alla-breve.svg" alt="Alla brève" style="width:20rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-</span>
-
--   A indicação 4/4 é chamada de _compasso comum_, e pode ser denotada por um "c". A indicação 2/2 é chamada _compasso cortado_ ou _alla brève_, e pode ser denotada por um "c" com uma barra vertical trespassada.
-
-## Ritmo
-
-**_Ritmo_ (Rhythm) é a variedade de durações de notas e pausas que aparecem no contexto da métrica. Ele especifica quanto cada uma deve durar**
-
--   O ritmo não tem a ver com a velocidade da música em si. O mesmo ritmo pode estar em tempos diferentes.
-
-## Pauta
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Staff_lines_and_spaces_SVG.svg" alt="Pauta Musical" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Music-ledger.svg" alt="Linhas suplementares" style="width:10rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-
-**A _pauta_ (Staff/Stave) é uma série de cinco linhas com quatro espaços entre elas, onde a posição da figura em determinada linha ou espaço indica a nota tocada.**
-
--   Partindo da linha do meio para cima, a barra vertical das representações das notas costuma apontar para baixo.
--   Notas podem estar em faixas acima ou abaixo da pauta, e portanto podem ser colocadas em _linhas suplementares_ (Ledger lines).
-
-## Clave
-
-**A _Clave_ (Clef) define como as notas serão organizadas na pauta.**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Music_clefs.svg" alt="Claves" style="width:50rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-
--   Clave de Sol (Treble Clef) é chamada assim porque seu desenho gira em torno da linha onde G se encontra na pauta.
--   Clave de Fá (Bass Clef) é chamada assim porque F se encontra na linha entre seus dois pontos na pauta.
--   Clave de Dó (Alto/Tenor/Mezzo-soprano/Soprano Clef) é chamada assim porque C se encontra na linha entre seus dois pontos na pauta.
--   Clave dupla (Grand staff/Great stave) é a união das claves de sol (acima) e fá (abaixo). Geralmente usada nas representações de piano. Note que C fica na linha suplementar entre as claves.
-
-**[Veja sobre as notas acidentais em [o Alfabeto Musical](#o-alfabeto-musical) antes] A armadura de clave (Key signature) define quais notas devem ser sempre lidas como acidentes na clave, colocando o símbolo do acidente na linha ou espaço referente à nota. É colocada após a clave e antes da indicação de compasso.**
-
-<span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Music-keysigflat.svg" alt="Claves" style="width:10rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Music-keysigsharp.svg" alt="Claves" style="width:10rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-</span>
-
--   Ex.: Ao tocar a escala de G, que possui F#, podemos indicar pela armadura que toda nota F deve ser tocada como F♯, ao invés de marcar cada F como F♯.
--   Na armadura, os bemóis devem vir horizontalmente na ordem `B-E-A-D-G-C-F`, enquanto os sustenidos devem vir na ordem inversa `F-C-G-D-A-E-B`.
--   Pela armadura de clave, é possível [calcular quantos acidentais outras escalas possuem a partir de uma escala base](https://www.musictheory.net/lessons/25).
-
-## Nota
-
--   Notas podem durar uma batida inteira, várias batidas ou até mesmo serem menores que uma batida.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Music_notes.svg" alt="Notas" style="width:50rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-
-**Na imagem, da esquerda para a direita:**
-
--   Semibreve (Whole/Semibreve)
--   Mínima (Half/Minim)
--   Semínima (Quarter/Crotchet)
--   Colcheia (Eighth/Quaver)
--   Semicolcheia (Sixteenth/Semiquaver)
--   Fusa (Thirty-second/Demisemiquaver)
--   Semifusa (Sixty-fourth/Hemidemisemiquaver)
-
-**Cada uma tem exatamente metade da duração da anterior**
-
-**Também existe a Breve (Double whole/Breve):**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Double_whole_note.svg" alt="Breve" style="width:2rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-
-**A partir da colcheia, notas podem ser unidas para clarificar a métrica. Ainda assim, são tocadas da mesma forma:**
-
-<img src="../assets/images/notas-unidas.svg" alt="Nota unida" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-
-### Notas pontuadas
-
-**As _notas pontuadas_ (Dotted notes) são denotadas por um ponto (Augmentation dot) e aumentam sua duração em metade da duração atual.**
-
-<img src="../assets/images/nota-pontuada.svg" alt="Nota pontuada" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-
--   Cada ponto equivale a aumentar a duração em metade da nota anterior. Ou seja, dois pontos em uma mínima seria `mínima + semínima + colcheia`.
-
-### Notas ligadas
-
-**As _notas ligadas_ (Tied notes) são duas notas ligadas por um arco (Tenuto tie), onde a primeira é a nota tocada e a segunda é a duração em que a primeira é aumentada**
-
-<img src="../assets/images/notas-ligadas.svg" alt="Pauta Musical" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-
--   Geralmente são utilizadas pra manter uma nota soando entre um compasso e outro.
--   A ligadura (tie) não deve ser confundida com a ligadura de expressão (slur). A primeira é sempre executada na mesma altura (pitch).
-
-## Pausas
-
-**Equivalentes às notas, as pausas também possuem durações, mas estas não devem emitir sons.**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Music_rests.svg" alt="Pausas" style="width:50rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-
--   Pausas também podem ser pontuadas.
--   Não podem ser ligadas.
-
-## Tom
-
-**_Tom_ (Tone) é a altura do som, determinado pela quantidade de vibrações por segundo. Quanto mais vibrações, maior o tom.**
-
-**A localização vertical da nota na pauta indica o tom. Quanto mais alta uma nota estiver representada na pauta, maior seu tom.**
-
-<img src="https://upload.wikimedia.org/score/2/n/2nzjqq9pg5mdd7dhzdlug1dizngicg7/2nzjqq9p.png" alt="Notas Musicais" style="width:50rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
-"/>
-
-### Tom como intervalo
-
-**Tom também pode ser utilizado como uma medida de intervalos entre notas, considerando as 12 notas na ordem do [Alfabeto Musical](#o-alfabeto-musical).**
-
--   Semitom (Semitone/Whole step): intervalo entre duas notas adjacentes. Ex.: `A` e `A♯`, `A♯` e `B`, `B` e `C`, etc.
--   Tom (Tone/Half step): intervalo que consiste de dois semitons. Ex.: `A` e `B`, `B` e `C♯`, `C♯` e `D♯`.
+-   Quanto maior a frequência, mais agudo o som é percebido.
 
 ## O Alfabeto Musical
 
-**Segue o alfabeto convencional: A, B, C, D, E, F e G. A partir do G, repete.**
+-   Na música, utilizamos como base 12 alturas específicas, que são comumente (apesar de não serem necessariamente a mesma coisa) chamadas de _notas_ (Notes).
+-   Para qualquer uma dessas alturas, se dobrarmos ou dividirmos pela metade a sua frequência, o som será percebido como sendo o mesmo, porém mais agudo ou mais grave, respectivamente. A cada vez que dobramos a frequência, subimos uma _oitava_ (Octave) na altura, e a cada vez que diminuímos, descemos uma oitava.
+-   Das 12 alturas utilizadas, 7 são frequências básicas com maior distinção sonora ao ouvido. Para fácil reconhecimento, essas foram nomeadas conforme as 7 primeiras letras do alfabeto romano: A, B, C, D, E, F e G.
+    -   Por ser mais familiar e edificante, a ordem mais reconhecida das alturas é C, D, E, F, G, A e B.
+    -   Naturalmente, após a última altura, repetimos a primeira uma oitava acima. É justamente pelo intervalo de 8 alturas que as oitavas são chamadas assim.
 
 <table>
 	<tr>
-		<th>Nota</th>
+		<th>Altura/Nota</th>
 		<td>A</td>
 		<td>B</td>
 		<td>C</td>
@@ -234,15 +72,14 @@
 >
 > > `Ut` foi substituído por `Dó` e `Sanc` foi abreviado para `Si` (abreviação de "Sancte Ioannes")
 
-**As 7 notas de A a G são denominadas _naturais_ (Natural).**
+**As 7 notas básicas apresentadas são denominadas _naturais_ (Natural).**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Music-natural.svg" alt="Natural" style="width:5rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
 "/>
 
--   No piano, as notas naturais estão nas teclas brancas.
 -   O símbolo das notas naturais é: `♮`.
 
-**Entre cada duas notas (exceto B/C e E/F) existe uma nota, aumentando o número de notas totais para 12. Essas são chamadas _acidentais_.**
+**As outras 5 notas então cada par de notas naturais adjacentes (exceto B/C e E/F). Essas são chamadas _acidentais_ (Accidental).**
 
 <span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Music-flat.svg" alt="Bemol" style="width:5rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
@@ -255,59 +92,276 @@
 "/>
 </span>
 
--   No piano, as notas acidentais estão nas teclas pretas.
 -   As notas acidentais são divididas em:
-    -   Sustenida (Sharp): Consiste em aumentar uma nota em um semitom. O símbolo das notas sustenidas é: `♯`.
-        -   Sustenida dupla (Double sharp): Consiste em aumentar uma nota em um tom. O símbolo das notas sustenidas duplas é `𝄪` ou `♯♯`.
-    -   Bemol (Flat): Consiste em diminuir uma nota em um semitom. O símbolo das notas bemóis é: `♭`.
-        -   Bemol dupla (Double flat): Consiste em diminuir uma nota em um tom. O símbolo das notas sustenidas duplas é `♭♭`.
+    -   Sustenida (Sharp): Consiste em subir uma altura (um semitom), ou seja, avançar para a próxima nota. O símbolo das notas sustenidas é: `♯`.
+        -   Dobrada sustenida/Sustenida dupla (Double sharp): Consiste em subir duas alturas (um tom), ou seja, avançar duas notas. O símbolo das notas sustenidas duplas é `𝄪` ou `♯♯`.
+    -   Bemol (Flat): Consiste em descer uma altura (um semitom), ou seja, retroceder para a nota anterior. O símbolo das notas bemóis é: `♭`.
+        -   Dobrada bemol/Bemol dupla (Double flat): Consiste em descer duas alturas (um tom), ou seja, retroceder duas notas. O símbolo das notas sustenidas duplas é `♭♭`.
 -   A nota entre X e Y pode ser chamada tanto de X♯, quanto Y♭. Isso é chamado de _equivalência enarmônica_ (Enharmonic equivalence/enharmonic spelling).
 
 > [!IMPORTANT]
-> Veja que não há acidentais entre B/C e entre E/F, portanto esses dois intervalos são de um semitom, diferente do que acontece com todos os outros intervalos entre as notas naturais, que são de um tom.
+> Veja que não há acidentais entre B/C e entre E/F, portanto esses dois intervalos são de apenas uma altura, diferente do que acontece com todos os outros intervalos entre as notas naturais, que são de duas alturas.
+
+## Pauta
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Staff_lines_and_spaces_SVG.svg" alt="Pauta Musical" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+"/>
+
+**A _pauta_ (Staff/Stave) é uma série de cinco linhas com quatro espaços entre elas, onde a posição da figura que representa a nota em determinada linha ou espaço indica a altura de uma nota.**
+
+-   Alturas mais graves ficam nas posições inferiores enquanto alturas mais agudas ficam nas posições superiores.
+
+<img src="https://upload.wikimedia.org/score/2/n/2nzjqq9pg5mdd7dhzdlug1dizngicg7/2nzjqq9p.png" alt="Notas Musicais" style="width:35rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+"/>
+
+-   Notas podem estar em faixas acima ou abaixo da pauta, e portanto podem ser colocadas em _linhas suplementares_ (Ledger lines).
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Music-ledger.svg" alt="Linhas suplementares" style="width:10rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+"/>
+
+## Clave
+
+**A _Clave_ (Clef) define como as notas serão organizadas na pauta.**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Music_clefs.svg" alt="Claves" style="width:50rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+"/>
+
+-   Clave de Sol (Treble Clef) é chamada assim porque seu desenho gira em torno da linha onde G se encontra na pauta.
+-   Clave de Fá (Bass Clef) é chamada assim porque F se encontra na linha entre seus dois pontos na pauta.
+-   Clave de Dó (Alto/Tenor/Mezzo-soprano/Soprano Clef) é chamada assim porque C se encontra na linha entre seus dois pontos na pauta.
+-   Grande pauta/Clave dupla (Grand staff/Great stave) é a união das claves de sol (acima) e fá (abaixo). Geralmente usada nas representações de piano. Note que C fica na linha suplementar entre as claves.
+
+**A armadura de clave (Key signature) define quais notas devem ser sempre lidas como acidentes na clave, colocando o símbolo do acidente na linha ou espaço referente à nota. É colocada após a clave e antes da indicação de compasso.**
+
+<span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Music-keysigflat.svg" alt="Claves" style="width:10rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Music-keysigsharp.svg" alt="Claves" style="width:10rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+"/>
+</span>
+
+-   Ex.: Ao tocar a escala de G, que possui F#, podemos indicar pela armadura que toda nota F deve ser tocada como F♯, ao invés de marcar cada F como F♯.
+-   Na armadura, os bemóis devem vir horizontalmente na ordem `B-E-A-D-G-C-F`, enquanto os sustenidos devem vir na ordem inversa `F-C-G-D-A-E-B`.
+-   Pela armadura de clave, é possível [calcular quantos acidentais outras escalas possuem a partir de uma escala base](https://www.musictheory.net/lessons/25).
+
+## Nota
+
+**Uma _nota_ (Note) ou _tom_ (Tone) é um som isolável, encontrado em determinada altura.**
+
+> [!TIP]
+> Pode-se pensar na altura como a localização imaginária da nota (seu conceito abstrato) e na nota como a execução da altura (seu conceito "concreto").
+
+-   A nota é a execução do som de uma altura por determinada duração.
+
+### Duração
+
+-   Uma nota (sua duração mais específicamente) é representada por uma figura de duração:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Parts_of_a_musical_note.svg" alt="Figura de duração" style="width:10rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+"/>
+
+-   1: Colchete (Flag). 2: Haste (Stem). 3: Cabeça de nota (Notehead).
+    -   As cabeças podem ser abertas (sem preenchimento) ou fechadas (preenchidas).
+-   Na pauta, partindo da linha intermediária para cima, a haste das figuras de duração em relação à cabeça aponta para baixo.
+-   As figuras de duração possuem relação direta com o [rítmo](ritmo.md), portanto é interessante conhecer os conceitos básicos, como a batida/tempo e o compasso antes.
+-   Notas podem durar uma batida inteira, várias batidas ou até mesmo serem menores que uma batida.
+
+**As figuras de duração e suas durações, onde a unidade de tempo referencial é um compasso:**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Music_notes.svg" alt="Notas" style="width:50rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+"/>
+
+<table>
+	<tr>
+		<th>Nota</th>
+		<td>Semibreve</td>
+		<td>Mínima</td>
+		<td>Semínima</td>
+		<td>Colcheia</td>
+		<td>Semicolcheia</td>
+		<td>Fusa</td>
+		<td>Semifusa</td>
+	</tr>
+	<tr>
+		<th>Nota em inglês</th>
+		<td>Whole/Semibreve</td>
+		<td>Half/Minim</td>
+		<td>Quarter/Crotchet</td>
+		<td>Eighth/Quaver</td>
+		<td>Sixteenth/Semiquaver</td>
+		<td>Thirty-second/Demisemiquaver</td>
+		<td>Sixty-fourth/Hemidemisemiquaver</td>
+	</tr>
+</table>
+
+-   Cada uma tem exatamente metade da duração da anterior. A semibreve dura todo o compasso.
+-   Também existe a Breve (Double whole/Breve):
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Double_whole_note.svg" alt="Breve" style="width:2rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+"/>
+
+#### Travessões
+
+-   A partir da colcheia, notas podem ser unidas através de um _travessão_ (Beam) para clarificar a métrica. Ainda assim, são tocadas da mesma forma:
+
+<img src="../assets/images/notas-unidas.svg" alt="Nota unida" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+"/>
+
+#### Notas pontuadas
+
+-   As _notas pontuadas_ (Dotted notes) são denotadas por um ponto (Augmentation dot) e aumentam sua duração em metade da duração atual.
+
+<img src="../assets/images/nota-pontuada.svg" alt="Nota pontuada" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+"/>
+
+-   Cada ponto equivale a aumentar a duração em metade da nota anterior. Ou seja, dois pontos em uma mínima seria `mínima + semínima + colcheia`.
+
+#### Notas ligadas
+
+-   As _notas ligadas_ (Tied notes) são duas notas ligadas por uma ligadura/arco (Tenuto tie), onde a primeira é a nota tocada e a segunda é a duração em que a primeira é aumentada.
+
+<img src="../assets/images/notas-ligadas.svg" alt="Pauta Musical" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+"/>
+
+-   Geralmente são utilizadas pra manter uma nota soando entre um compasso e outro.
+-   A ligadura (tie) não deve ser confundida com a ligadura de expressão (slur). A primeira é sempre executada na mesma altura (pitch).
+
+### Dinâmica
+
+**A _dinâmica_ (Dynamics) diz respeito à intensidade ou força com que um conjunto de notas deve ser executado.**
+
+## Pausas
+
+**Equivalentes silenciosas às notas. Uma _pausa_ (Pause) define uma duração onde não se deve emitir sons.**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Music_rests.svg" alt="Pausas" style="width:50rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
+"/>
+
+-   Pausas também podem ser pontuadas.
+-   Não podem ser ligadas.
 
 ## Intervalos
 
-**Distância entre duas notas.**
+**Um _intervalo_ (Interval) é a distância entre duas notas.**
 
-**Existindo 12 notas, existem 13 intervalos.**
+-   Intervalos funcionam de maneira circular: Com as 12 notas, existem 13 intervalos básicos entre notas adjacentes.
+-   Os intervalos são medidos em:
+    -   Semitom (Semitone/Whole step): intervalo entre duas notas adjacentes. Ex.: `A` e `A♯`, `A♯` e `B`, `B` e `C`, etc.
+        -   É classificado como uma segunda menor.
+    -   Tom (Tone/Half step): intervalo que consiste de dois semitons. Ex.: `A` e `B`, `B` e `C♯`, `C♯` e `D♯`.
+        -   É classificado como uma segunda maior.
 
-### Quantidade
+### Classificação
 
-**Distância entre as notas elas. Ex.: A e C = 3 (ou terça). A → B → C.**
+#### Quantidade
 
--   Acidentes não são considerados. Ex.: quantidade entre A e C = quantidade entre A e C♯.
+-   Corresponde à quantidade de notas entre duas notas. Ex.: A e C = 3 (ou terça). A → B → C.
+-   Acidentes não são considerados: Quantidade(A-C) = Quantidade(A-C♯).
 
-### Qualidade
+<table>
+	<tr>
+		<th>Quantidade</th>
+		<td>2</td>
+		<td>3</td>
+		<td>4</td>
+		<td>5</td>
+		<td>6</td>
+		<td>7</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<th>Classificação</th>
+		<td>Segunda</td>
+		<td>Terça</td>
+		<td>Quarta</td>
+		<td>Quinta</td>
+		<td>Sexta</td>
+		<td>Sétima</td>
+		<td>Oitava</td>
+	</tr>
+</table>
 
-**Determinada pelo número de semitons entre as notas.**
+-   Intervalos maiores seguem a ordem.
 
+#### Qualidade
+
+-   Determina se um intervalo de determinada quantidade é dividido pelo número de semitons entre as notas.
 -   Acidentes devem ser considerados.
--   Perfeito: Uníssono, quartas, quintas e oitavas. Representado por `P`
--   Imperfeito: Segundas, terças, sextas e sétimas.
+-   Perfeito: É estável e único, não se divide. Ex.: Uníssono, quartas, quintas e oitavas. Representado por `P`
+-   Imperfeito: Se divide em duas qualidades com características distintas. Ex.: Segundas, terças, sextas e sétimas.
+    -   Maior: Um semitom maior que o correspondente menor. Representado por `M`
+    -   Menor: Um semitom menor que o correspondente maior. Representado por `m`.
+-   Aumentado: Um semitom maior que um intervalo perfeito ou maior.
+-   Diminuto: Um semitom menor que um intervalo perfeito ou menor.
 
-#### Tamanhos imperfeitos
+<table>
+	<tr>
+		<th>Semitons</th>
+		<td>0</td>
+		<td>1</td>
+		<td>2</td>
+		<td>3</td>
+		<td>4</td>
+		<td>5</td>
+		<td>6</td>
+		<td>7</td>
+		<td>8</td>
+		<td>9</td>
+		<td>10</td>
+		<td>11</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<th>Qualidade</th>
+		<td>P1</td>
+		<td>m2</td>
+		<td>M2</td>
+		<td>m3</td>
+		<td>M3</td>
+		<td>P4</td>
+		<td>TT/A4/d5</td>
+		<td>P5</td>
+		<td>m6</td>
+		<td>M6</td>
+		<td>m7</td>
+		<td>M7</td>
+		<td>P8</td>
+	</tr>
+</table>
 
--   Maior: Um semitom maior que o correspondente menor. Representado por `M`
--   Menor: Um semitom menor que o correspondente maior. Representado por `m`.
+> [!NOTE]
+> O `TT` corresponde ao _trítono_ (Tritone), que é a quarta aumentada ou quinta diminuta. Também é conhecido como _diabolus in musica_ por seu tom tenso, sombrio e dissonante.
 
-**Intervalos maiores soam mais alegres e intervalos menores soam mais sombrios.**
+> [!TIP]
+> Intervalos maiores soam mais alegres e intervalos menores soam mais sombrios.
 
-#### Aumentados e diminutos
+### Extensão
 
-**A quarta aumentada/quinta diminuta é chamada `trítono`, conhecido como _diabolus in musica_.**
+-   Simples: menor que uma oitava.
+-   Composto: maior que uma oitava.
 
-### Simples e compostos
-
--   Simples: menores que uma oitava.
--   Compostos: maiores que uma oitava.
-
-### Tipos
+### Sonoridade
 
 -   Harmônico ou vertical: Duas notas são tocadas simultâneamente.
 -   Melódico ou horizontal: Duas notas são tocadas separadamente.
 
-### Exemplos
+### Tensão
+
+-   Consoante: aquele em que os sons combinam, parecem ser o mesmo. Ex.: oitavas.
+-   Dissonante: aquele em que os sons são distintos e não parecem combinar. Ex.: semitons.
+
+### Inversões
+
+**Uma _inversão de intervalo_ (Interval inversion) consiste em aumentar a menor das duas notas em uma oitava.**
+
+-   Um intervalo perfeito sempre inverte em outro perfeito.
+-   Um intervalo maior sempre inverte em um menor e vice-versa.
+-   Um intervalo diminuto sempre inverte em um aumentado e vice-versa.
+-   Uma segunda inverte em uma sétima e vice-versa.
+-   Uma terça inverte em uma sexta e vice-versa.
+-   Uma quarta inverte em uma quinta e vice-versa.
+
+### Exemplos de cada intervalo simples (e um composto)
 
 <table>
 	<thead>
@@ -397,21 +451,3 @@
 		<td></td>
 	</tr>
 </table>
-
-### Consonância e Dissonância
-
-**Intervalos consoantes são aqueles em que os sons combinam, parecem ser o mesmo. Dissonantes são o que os sons são distintos e não parecem combinar.**
-
--   Intervalos consoantes: oitavas.
--   Intervalos dissonantes: semitons.
-
-### Inversões
-
-**_Inversões de intervalo_ (Interval inversions) consistem em aumentar a menor das duas notas em uma oitava.**
-
--   Um intervalo perfeito sempre inverte em outro perfeito.
--   Um intervalo maior sempre inverte em um menor e vice-versa.
--   Um intervalo diminuto sempre inverte em um aumentado e vice-versa.
--   Uma segunda inverte em uma sétima e vice-versa.
--   Uma terça inverte em uma sexta e vice-versa.
--   Uma quarta inverte em uma quinta e vice-versa.
