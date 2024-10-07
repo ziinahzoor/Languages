@@ -195,6 +195,11 @@
 -   `Désert` Deserto
 -   `Bois` Bosque
 -   `Champ` Campo
+-   `Aire de jeux` Parquinho 🚺
+-   `Urgences` Pronto-socorro 🚺
+    -   Plural
+-   `Cour` Pátio 🚺
+-   `Bistrot` Bistrô
 
 ## France - França
 

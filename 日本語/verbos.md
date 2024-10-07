@@ -126,6 +126,8 @@
 -   `さがす` Procurar
 -   `おとす` Derrubar/Derramar/Deixar cair
 -   `おす` Empurrar/Apertar/Pressionar
+-   <font size="5"><code><ruby>消<rt>け</rt></ruby>す</code></font> Apagar/Desligar
+-   <font size="5"><code><ruby>差<rt>さ</rt></ruby>す</code></font> Segurar (um guarda-chuvas)
 -   `つづく` Continuar
 -   <font size="5"><code><ruby>聞<rt>き</rt></ruby>く</code></font> Ouvir/Perguntar
     -   Para perguntar geralmente acompanha o `に`
@@ -167,6 +169,7 @@
     -   Geralmente usado na forma `ている`
 -   <font size="5"><code><ruby>読<rt>よ</rt></ruby>む</code></font> Ler
 -   `たのしむ` Divertir-se/Satisfazer-se
+-   <font size="5"><code><ruby>進<rt>すす</rt></ruby>む</code></font> Avançar/Seguir em frente
 -   <font size="5"><code><ruby>呼<rt>よ</rt></ruby>ぶ</code></font> Chamar/Convidar
 -   <font size="5"><code><ruby>遊<rt>あそ</rt></ruby>ぶ</code></font> Passar tempo/Brincar/Jogar
 -   `まなぶ` Aprender
@@ -221,7 +224,7 @@
 -   `きる` Cortar
 -   <font size="5"><code><ruby>閉<rt>し</rt>まる</ruby></code></font> Fechar (I)
 -   <font size="5"><code><ruby>上<rt>あ</rt>がる</ruby></code></font> Subir (I)
--   `まがる` Virar/Curvar
+-   <font size="5"><code><ruby>曲<rt>ま</rt></ruby>がる</code></font> Virar/Curvar
 -   `おくる` Mandar/Enviar
 -   `まわる` Girar/Andar em volta/Transitar
 -   `おこる` Irritar-se
@@ -297,6 +300,8 @@
     -   Tem uma nuance de iniciar a chamada, não necessariamente falar ao telefone.
 -   <font size="5"><code><ruby>晴<rt>は</rt></ruby>れる</code></font> Limpar/Clarear (o céu)
 -   <font size="5"><code><ruby>生<rt>う</rt></ruby>まれる</code></font> Nascer
+-   <font size="5"><code><ruby>勤<rt>つと</rt></ruby>める</code></font> Trabalhar/Ser empregado
+    -   Geralmente se usa mais para dizer onde ou para quem se trabalha.
 
 ## Verbos する
 

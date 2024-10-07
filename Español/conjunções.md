@@ -16,3 +16,4 @@
 # Interjeições
 
 -   `Ay` Ai
+-   `Vaya` Uau

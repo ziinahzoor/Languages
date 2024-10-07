@@ -90,7 +90,9 @@
 -   `Despertarse` Acordar
 -   `Acabar`
 -   `Soñar` Sonhar
--   `LLevar puesto` Vestir/Usar
+-   `Llevar` Levar
+    -   `Llevar puesto` Vestir/Usar
+    -   `Llevarse bien` Se dar bem
 -   `Acostarse` Ir pra cama/Ir dormir
 -   `Odiar`
 -   `Acompañar` Acompanhar
@@ -135,6 +137,8 @@
 -   `Secar`
 -   `Gritar`
 -   `Enterarse` Descobrir/Inteirar-se
+-   `Casar`
+-   `Aconsejar` Aconselhar
 
 ## Los verbos -er
 
@@ -181,6 +185,7 @@
 -   `Nacer` Nascer
 -   `Vender`
 -   `Suceder` Acontecer
+-   `Crecer` Crescer
 
 ## Los verbos -ir
 
@@ -204,7 +209,7 @@
 -   `Pedir`
 -   `Morir` Morrer
 -   `Repetir`
--   `Ocurrir` Ocorrer
+-   `Ocurrir` Acontecer/Ocorrer
 -   `Decidir`
 -   `Vestirse` Vestir-se
 -   `Reírse` Rir

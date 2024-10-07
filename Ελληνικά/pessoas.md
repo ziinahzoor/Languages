@@ -8,6 +8,7 @@
 -   `Αγόρι` Menino ✴️
 -   `Αρχιτέκτονας` Arquiteto
 -   `Χορτοφάγος` Vegetariano
+-   `Φίλος` Amigo
 
 ## Η Οικογένεια - Família
 

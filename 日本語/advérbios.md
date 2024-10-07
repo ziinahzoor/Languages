@@ -17,7 +17,7 @@
 -   `また` De novo
 -   `まだ` Ainda
 -   `まだまだ` Ainda não
--   `つぎ` Próximo (Ordem)
+-   <font size="5"><code><ruby>次<rt>つぎ</rt></ruby></code></font> Próximo (Ordem)
 -   `とても` Muito (Intensidade)
 -   `あまり` Não muito (Geralmente usado com frases negativas, polar inverso de とても)
 -   `たいへん` Muito/Extremamente
@@ -52,6 +52,7 @@
 -   <font size="5"><code><ruby>一<rt>いっ</rt>緒<rt>しょ</rt></ruby>に</code></font> Juntos
 -   `はやく` Cedo/Rapidamente
 -   `おそく` Tarde/Vagarosamente
+-   `ゆっくり` Vagarosamente/Sem pressa
 -   `はじめて` Pela primeira vez
 -   `はじめに` Primeiramente
 -   `まず` Primeiramente
@@ -85,6 +86,7 @@
 -   <font size="5"><code><ruby>少<rt>しょう</rt>々</ruby></code></font> Só um instante/Só um minuto
 -   `どうぞ` Aqui está (ao dar algo para alguém)
 -   <font size="5"><code><ruby>他<rt>ほか</rt></ruby>に</code></font> Outro/Além desse
+-   `まっすぐ` Direto/Diretamente
 
 ## Auxiliares
 

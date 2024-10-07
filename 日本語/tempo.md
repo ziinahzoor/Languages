@@ -123,10 +123,10 @@
 
 ## <ruby>季<rt>き</rt>節<rt>せつ</rt></ruby> - Estações
 
--   `はる` Primavera
--   `なつ` Verão
--   `あき` Outono
--   `ふゆ` Inverno
+-   <font size="5"><code><ruby>春<rt>はる</rt></ruby></code></font> Primavera
+-   <font size="5"><code><ruby>夏<rt>なつ</rt></ruby></code></font> Verão
+-   <font size="5"><code><ruby>秋<rt>あき</rt></ruby></code></font> Outono
+-   <font size="5"><code><ruby>冬<rt>ふゆ</rt></ruby></code></font> Inverno
 
 ## O Calendário Japonês
 

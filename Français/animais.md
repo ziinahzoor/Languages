@@ -28,6 +28,9 @@
 -   `Mouette` Gaivota
 -   `Crevette` Camarão 🚺
 -   `Mouton` Ovelha 🚹
+    -   `Agneau` Cordeiro
+-   `Grenouille` Rã
+-   `Morue` Bacalhau 🚺
 
 ## Relacionado
 

@@ -31,8 +31,10 @@
 -   `Joueur` Jogador
 -   `Monsieur` Senhor
     -   `Messieurs` Senhores
+    -   `M.` Abreviação
 -   `Madame` Senhora
     -   `Mesdames` Senhoras (Plural raro)
+    -   `Mme` Abreviação
 -   `Mademoiselle` Senhorita
 -   `Médecin` Médico
 -   `Chauffeur` Motorista
@@ -41,6 +43,7 @@
 -   `Colocataire` Colega de quarto
 -   `Élève` Estudante/Púpilo
 -   `Étudiant` Estudante/Universitário
+-   `Patron` Patrão
 -   `Chef` Chefe
 -   `Fumeur` Fumante
 -   `Auteur` Autor
@@ -71,7 +74,6 @@
 -   `Voleur` Ladrão
 -   `Invité` Convidado
 -   `Passager` Passageiro
--   `Police` Polícia
 -   `Policier` Policial
 -   `Public` Público
 -   `Artiste` Artista
@@ -133,3 +135,9 @@
 -   `Tante` Tia
 -   `Neveu` Sobrinho
 -   `Nièce` Sobrinha
+
+## Instituições
+
+-   `Police` Polícia
+-   `SAMU` SAMU
+    -   `Service d'Aide Médicale Urgente`

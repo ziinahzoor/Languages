@@ -7,6 +7,8 @@
 -   `Salade` Salada
 -   `Chocolat` Chocolate
 -   `Viande` Carne
+    -   `Porc` Carne de porco 🚹
+    -   `Bœuf` Bife (carne de vaca)
 -   `Pain` Pão
 -   `Fromage` Queijo
 -   `Jambon` Presunto
@@ -46,7 +48,9 @@
 -   `Bonbon` Doce
 -   `Sushi`
 -   `Frite salée` Batata frita
--   `Poivre` Pimenta
+-   `Piment` Pimenta 🚹
+-   `Poivre` Pimenta (Tempero)
+-   `Poivron` Pimentão
 -   `Épice` Tempero 🚺
 -   `Omelette` Omelete
 -   `Crème fraîche` Nata
@@ -58,6 +62,8 @@
 -   `Hamburger` Hambúrguer
 -   `Fruit de mer` Fruto do mar
 -   `Moutarde` Mostarda
+-   `Sauce` Molho 🚺
+-   `Tarte` Torta
 
 ## Les Légumes - Vegetais
 
@@ -81,11 +87,17 @@
 -   `Poire` Pera
 -   `Raisin` Uva
 -   `Mangue` Manga
+-   `Olive` Azeitona
+-   `Ananas` Abacaxi
 
 ## Les Boissons - Bebidas
 
+-   `Boisson pétillante` Bebida gaseificada/Bebida espumante
+-   `Boisson fraîche` Refresco/Bebida gelada
 -   `Eau` Água
     -   `Eau gazeuse` Água com gás
+        -   `Eau pétillante`
+    -   `Eau plate` Água sem gás
 -   `Jus` Suco
 -   `Café`
 -   `Thé` Chá
@@ -107,3 +119,4 @@
     -   `Diner` Pós-reforma de 90
 -   `Entrée` Entrada
 -   `Apéritif` Aperitivo
+-   `Goûter` Petisco

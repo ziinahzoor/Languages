@@ -36,6 +36,7 @@
 -   `。。。によると・によれば` De acordo com...
 -   `それから` Depois disso
 -   `。。。にとって` Do ponto de vista de...
+-   `あっちこっち` Pra lá e pra cá
 
 ## <ruby>相<rt>あい</rt>槌<rt>づち</rt></ruby> - Interjeições de atenção
 

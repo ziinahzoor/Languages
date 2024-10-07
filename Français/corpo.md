@@ -2,6 +2,7 @@
 
 -   `Tête` Cabeça
     -   `Cheveu` Cabelo
+        -   `Coupe de cheveux` Corte de cabelo
     -   `Visage` Rosto
         -   `Front` Testa
         -   `Oreille` Orelha
@@ -25,6 +26,12 @@
 
 ## Internos
 
+-   `Gorge` Garganta
+-   `Cœur` Coração
 -   `Cerveau` Cérebro
 -   `Estomac` Estômago
 -   `Sang` Sangue
+
+## Relacionado
+
+-   `Blessure` Ferida

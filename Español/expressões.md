@@ -17,6 +17,7 @@
 -   `¡Qué pena!` Que pena
 -   `Sin duda` Sem dúvida
 -   `¡Auxilio!` Ajuda!/Socorro!
+-   `Por cierto` Falando nisso/A propósito
 
 ## Gírias
 

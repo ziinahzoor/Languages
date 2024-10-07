@@ -130,7 +130,7 @@
 -   `Demander` Perguntar/Pedir
 -   `Apporter` Trazer
 -   `Inviter` Convidar
--   `Monter` Subir/Montar
+-   `Monter` Subir/Montar/Aumentar
 -   `Montrer` Mostrar
 -   `Penser` Pensar
 -   `Mélanger` Misturar
@@ -158,6 +158,7 @@
 -   `Ajouter` Adicionar
 -   `Brûler` Queimar/Tostar/Flambar/Arder
     -   `Bruler` Pós-reforma de 90
+    -   `Se brûler` Queimar-se
 -   `S'occuper` Cuidar
 -   `Terminer` Terminar
 -   `Commander` Mandar/Pedir/Encomendar
@@ -168,6 +169,7 @@
 -   `Essayer` Experimentar/Provar (Roupas)
 -   `Tomber` Cair
     -   `Tomber em panne` Estragar/Quebrar
+    -   `Tomber amoureux` Apaixonar-se
     -   `Faire tomber` Derrubar
 -   `Dépenser` Gastar
 -   `Souhaiter` Desejar
@@ -185,6 +187,7 @@
 -   `Recommander` Recomendar
 -   `Soigner` Curar/Medicar/Tratar
 -   `Signer` Assinar
+-   `Tirer` Puxar
 -   `Retirer` Retirar
 -   `Annuler` Cancelar
 -   `Économiser` Economizar
@@ -239,6 +242,11 @@
 -   `Compléter` Completar
 -   `S'améliorer` Melhorar
 -   `Répéter` Repetir
+-   `Saigner` Sangrar
+-   `Tuer` Matar
+-   `Profiter` Aproveitar
+-   `Verrouiller` Trancar
+-   `Bouger` Mover
 
 ## -ir Verbes
 
@@ -251,6 +259,9 @@
     -   `Avoir le droit` Ter o direito
     -   `Avoir raison` Ter razão
     -   `Avoir tort` Não ter razão
+    -   `Avoir rendez-vous` Ter um encontro
+-   `Voir` Ver
+-   `Revoir` Rever
 -   `Vouloir` Querer
 -   `Ouvrir` Abrir
 -   `Devoir` Dever

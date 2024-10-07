@@ -161,9 +161,13 @@
 -   `Molesto` Chateado
 -   `Horrible` Horrível
 -   `Usual` Normal
+-   `Normal`
 -   `Muerto` Morto
 -   `En forma` Em forma
 -   `Liso`
 -   `Profundo` Fundo
 -   `Claro`
 -   `Digital`
+-   `Tal`
+-   `Negativo`
+-   `Igual`

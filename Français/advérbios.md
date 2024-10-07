@@ -33,7 +33,7 @@
 -   `Prochain` Próximo
 -   `Assez` Suficiente/Bastante
 -   `Environ` Cerca
--   `Puis` Então
+-   `Puis` Então/Depois
 -   `Ensuite` A seguir
 -   `Jamais` Nunca
 -   `Vite` Rapidamente
@@ -49,6 +49,7 @@
 -   `Comme` Como (Comparativo)
 -   `Pourtant` Porém/Entretanto/Mesmo assim
 -   `Autant` Tanto
+-   `Juste` Só/Somente
 
 ## Locutions adverbiales - Locuções adverbiais
 
@@ -95,6 +96,9 @@
 -   `Exactement` Exatamente
 -   `Clairement` Claramente
 -   `Doucement` Suavemente/Devagar
+-   `Typiquement` Tipicamente
+-   `Franchement` Sinceramente/Francamente
+-   `Absolument` Absolutamente
 
 ## Os Porquês
 

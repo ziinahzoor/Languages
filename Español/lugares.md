@@ -72,6 +72,7 @@
 -   `Banco`
 -   `Hospital`
 -   `Museo` Museu
+-   `Ruta` Rota
 -   `Calle` Rua 🚺
 -   `Carretera` Estrada
 -   `Autopista` Rodovia

@@ -54,12 +54,20 @@
 
 ## Zaldrīzer - Dragões ☀️
 
--   `Arraks` Arrax
--   `Karakses` Caraxes
--   `Meles` Meleys
--   `Merakses` Meraxes
--   `Syraks` Syrax
--   `Vermaks` Vermax
--   `Vagar` Vhagar
--   `Ēdrurzys` Dreamfyre
--   `Vēsperzys` Sunfyre
+-   `Drogon` 🌱
+-   `Viserion` 🌱
+-   `Rhaegal` 🌙
+-   `Balerion` 🌱
+-   `Vagar` Vhagar 🌊
+-   `Merakses` Meraxes ☀️
+-   `Vermitor` Vermithor 🌊
+-   `Meles` Meleys ☀️
+-   `Karakses` Caraxes ☀️
+-   `Syraks` Syrax ☀️
+-   `Arraks` Arrax ☀️
+-   `Vermaks` Vermax ☀️
+-   `Ēdrurzys` Dreamfyre ☀️
+-   `Vēsperzys` Sunfyre ☀️
+-   `Embrōrbar` Fumaresia/Seasmoke 🌊
+-   `Gēliotīkun` Asaprata/Silverwing ☀️
+-   `Hūrlilio` Bailalua/Moondancer 🌙

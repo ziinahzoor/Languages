@@ -33,6 +33,9 @@
 -   `Marrocain` Marroquino
 -   `Jamaïcain` Jamaicano
 -   `Malien` Maliano
+-   `Algérien` Argelino
+-   `Libanais` Libanês
+-   `Portugais` Português
 
 ## Vocabulaire - Vocabulário
 
@@ -102,6 +105,7 @@
 -   `Jeune` Jovem
 -   `Blond` Loiro
 -   `Brun` Moreno
+-   `Roux` Ruivo
 -   `Important` Importante
 -   `Dangereux` Perigoso
 -   `Marié` Casado
@@ -128,6 +132,7 @@
 -   `Honnête` Honesto
 -   `Entier` Inteiro
 -   `Inquiet` Preocupado
+-   `Suivant` Seguinte/Próximo
 -   `Prochain` Próximo
 -   `Proche` Próximo (Perto)
 -   `Excellent` Excelente
@@ -240,3 +245,13 @@
 -   `Normal`
 -   `Sauvage` Selvagem
 -   `Profond` Profundo
+-   `Urgent` Urgente
+-   `Individuel` Individual
+-   `Précieux` Precioso
+-   `Bienvenu` Bem-vindo
+-   `Francophone` Francófono
+-   `Enchanté` Encantado
+-   `Abandonné` Abandonado
+-   `Épicé` Apimentado/Picante/Condimentado
+-   `Pétillant` Gasoso/Espumante/Cintilante
+-   `Dégoûtant` Nojento/Repugnante

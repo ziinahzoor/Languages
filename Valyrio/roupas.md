@@ -2,6 +2,7 @@
 
 -   `Gelte` Capacete 🌙
 -   `Vellaros` Calça ☀️
+-   `Qībōños` Capa ☀️
 
 ## Equipamento
 

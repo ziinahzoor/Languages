@@ -3,6 +3,8 @@
 -   `Tubis` Dia ☀️
 -   `Jelmior` Clima 🌊
 -   `Jēdar` Ano 🌊
+-   `Sīr` Agora
+-   `Tubī` Hoje
 
 ## Jēdar - Estações 🌙
 

@@ -40,15 +40,15 @@
 -   <font size="5"><code><ruby>高<rt>たか</rt></ruby>い</code></font> Caro/Alto
 -   <font size="5"><code><ruby>安<rt>やす</rt></ruby>い</code></font> Barato
 -   <font size="5"><code><ruby>低<rt>ひく</rt></ruby>い</code></font> Baixo
--   `ひろい` Largo/Espaçoso
--   `せまい` Estreito/Apertado
--   <font size="5"><code><ruby>速<rt>はや</rt>い</ruby></code></font> Rápido
--   <font size="5"><code><ruby>早<rt>はや</rt>い</ruby></code></font> Cedo
--   <font size="5"><code><ruby>遅<rt>おそ</rt>い</ruby></code></font> Devagar/Lento/Tarde/Atrasado
--   <font size="5"><code><ruby>長<rt>なが</rt>い</ruby></code></font> Longo
+-   <font size="5"><code><ruby>広<rt>ひろ</rt></ruby>い</code></font> Largo/Espaçoso
+-   <font size="5"><code><ruby>狭<rt>せま</rt></ruby>い</code></font> Estreito/Apertado
+-   <font size="5"><code><ruby>速<rt>はや</rt></ruby>い</code></font> Rápido
+-   <font size="5"><code><ruby>早<rt>はや</rt></ruby>い</code></font> Cedo
+-   <font size="5"><code><ruby>遅<rt>おそ</rt></ruby>い</code></font> Devagar/Lento/Tarde/Atrasado
+-   <font size="5"><code><ruby>長<rt>なが</rt></ruby>い</code></font> Longo
 -   `みじかい` Curto
 -   `あぶない` Perigoso
--   `すずしい` Refrescante/Gelado
+-   <font size="5"><code><ruby>涼<rt>すず</rt></ruby>しい</code></font> Refrescante/Gelado
 -   <font size="5"><code><ruby>寒<rt>さむ</rt>い</ruby></code></font> Frio (Clima, Sensação)
     -   <font size="5"><code><ruby>冷<rt>つめ</rt>たい</ruby></code></font> Coisas
 -   <font size="5"><code><ruby>暑<rt>あつ</rt>い</ruby></code></font> Quente (Clima, Sensação)
@@ -90,6 +90,8 @@
 -   `ひどい` Péssimo/Horrível/Terrível
 -   <font size="5"><code><ruby>弱<rt>よわ</rt></ruby>い</code></font> Fraco
 -   <font size="5"><code><ruby>強<rt>つよ</rt></ruby>い</code></font> Forte
+-   `きつい` Complicado/Apertado
+-   `ゆるい` Solto/Frouxo
 
 ## Adjetivos な
 

@@ -3,6 +3,7 @@
 -   <font size="5"><code><ruby>方<rt>かた</rt></ruby></code></font> Pessoa (Honorífico [Sonkeigo])
     -   Geralmente pode substituir `人`.
 -   <font size="5"><code><ruby>皆<rt>みんな</rt></ruby></code></font> Todos/Pessoal/Todo mundo
+    -   É escrito `みな` quando usado com algum honorífico.
 -   <font size="5"><code><ruby>大<rt>おお</rt>勢<rt>ぜい</rt></ruby></code></font> Multidão
 -   <font size="5"><code><ruby>外<rt>がい</rt>国<rt>こく</rt>人<rt>じん</rt></ruby></code></font> Estrangeiro
 -   <font size="5"><code><ruby>大人<rt>おとな</rt></ruby></code></font> Adulto
@@ -101,6 +102,7 @@
     -   <font size="5"><code><ruby>夫<rt>おっと</rt></ruby></code></font> (Meu) marido
 -   <font size="5"><code><ruby>奥<rt>おく</rt></ruby>さん</code></font> Esposa
     -   <font size="5"><code><ruby>妻<rt>つま</rt></ruby></code></font> (Minha) esposa
+-   <font size="5"><code><ruby>恋<rt>こい</rt>人<rt>びと</rt></ruby></code></font> Parceiro/Amante
 -   <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> Namorada
 -   <font size="5"><code><ruby>彼<rt>かれ</rt>氏<rt>し</rt></ruby></code></font> Namorado
 -   `しんろう` Noivo

@@ -4,8 +4,9 @@
 
 ### Ao chegar
 
--   `Salut` Olá
--   `Bonjour` Bom dia
+-   `Salut` Oi/Olá
+-   `Bonjour` Olá/Bom dia
+    -   `Rebonjour` Oi de novo
 -   `Bonsoir` Boa noite
 -   `Bonne nuit` Boa noite
 -   `Bienvenue` Bem-vindo
@@ -31,6 +32,7 @@
 
 -   `Excuse-moi` Com licença
 -   `S'il te/vous plait` Por favor
+-   `Va-t'en` Vai embora
 
 ## Arrependimento
 
@@ -47,5 +49,6 @@
     -   `Merci beaucoup` Muito obrigado
 -   `De rien` De nada
 -   `Grâce à toi` Graças a você
+-   `Pas de problème` Sem problema
 
 ## Concordância

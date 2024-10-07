@@ -9,6 +9,8 @@
 -   `Océano` Oceano
 -   `Viento` Vento
 -   `Sol`
+-   `Luna` Lua
+-   `Estrella` Estrela
 -   `Nieve` Neve
 -   `Árbol` Árvore 🚹
 -   `Bosque` Floresta 🚹
@@ -135,6 +137,7 @@
 -   `Estante` 🚹
 -   `Formulario` Formulário
 -   `Sobre` Envelope
+-   `Manta` Cobertor 🚺
 
 ## Abstratos
 
@@ -237,6 +240,9 @@
 -   `Contacto` Contato
 -   `Asunto` Assunto
 -   `Hecho` Fato
+-   `Señal` Sinal 🚺
+-   `Sonido` Som
+-   `Meta`
 
 ### Medidas
 
@@ -332,6 +338,7 @@
 -   `Literatura`
 -   `Ciencia` Ciência
 -   `Física`
+-   `Biología` Biologia
 
 ### Esporte
 

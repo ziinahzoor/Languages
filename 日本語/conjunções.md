@@ -20,6 +20,7 @@
     -   `ので` Honorífico
 -   `だって` Porque/Mas/Mesmo que/Afinal
     -   A tradução correta seria "é dito que...", o que justifica todos os usos contrastantes.
+-   <font size="5"><code><ruby>次<rt>つぎ</rt></ruby>に</code></font> Em seguida/Depois disso
 
 # <ruby>感<rt>かん</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Interjeições
 

@@ -16,3 +16,5 @@
 -   `Drējī` Realmente/Verdadeiramente/Muito (Very)
 -   `Sīr` Agora
     -   "Já", quando usado com verbo no pretérito perfeito.
+-   `Sesīr` Também/Até mesmo
+-   `Mērī` Só/Somente

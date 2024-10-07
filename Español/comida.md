@@ -5,6 +5,7 @@
 -   `Sándwich` Sanduíche
 -   `Queso` Queijo
 -   `Carne`
+    -   `Bistec` Bife
 -   `Hamburguesa` Hambúrguer 🚺
 -   `Azúcar` Açúcar
 -   `Sal` 🚺
@@ -26,7 +27,6 @@
 -   `Vainilla` Baunilha
 -   `Galleta` Biscoito
 -   `Cereal`
--   `Paella` Arroz, carne e verduras
 -   `Aceite` Óleo
 -   `Verdura`
 -   `Dulce` Doce
@@ -34,6 +34,7 @@
 -   `Pasta` Massa
 -   `Tostada` Torrada
 -   `Mermelada` Geleia
+-   `Jalea` Geleia
 -   `Jamón` Presunto
 -   `Cebolla` Cebola
 -   `Yogur` Iogurte
@@ -64,7 +65,7 @@
 
 ## Las Bebidas
 
--   `Agua` Água 🚹
+-   `Agua` Água
 -   `Leche` Leite 🚺
 -   `Café`
 -   `Jugo` Suco

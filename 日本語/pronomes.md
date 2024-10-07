@@ -83,9 +83,9 @@
     </tr>
     <tr>
         <th>Direção (Casual)</th>
-        <td>こっら</td>
-        <td>そっら</td>
-        <td>あっら</td>
+        <td>こっち</td>
+        <td>そっち</td>
+        <td>あっち</td>
         <td>どっち</td>
     </tr>
     <tr>

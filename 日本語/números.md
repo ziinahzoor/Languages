@@ -276,6 +276,14 @@
 
 -   Não é um contador propriamente dito, sendo na verdade um sufixo.
 
+### <font size="5"><code><ruby>足<rt>そく</rt></ruby></code></font> Pares
+
+-   Usado para pares de meias, sapatos, etc.
+
+### <font size="5"><code><ruby>組<rt>くみ</rt></ruby></code></font> Pessoas e pares de luvas
+
+-   1 e 2 usam wago.
+
 ## Transformação dos contadores
 
 <table>

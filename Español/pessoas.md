@@ -1,5 +1,7 @@
 # Las Personas/La Gente - Pessoas
 
+-   `Multitud` Multidão
+-   `Miembro` Membro
 -   `Adulto`
 -   `Niño` Menino
 -   `Chico` Rapaz
@@ -45,6 +47,7 @@
 -   `Invitado` Convidado
 -   `Gerente`
 -   `Trabajador` Trabalhador
+-   `Pasante` Estagiário
 -   `Pintor`
 -   `Empresario` Empresário
 -   `Presidente`
@@ -66,6 +69,8 @@
 -   `Ama de casa` Dona de casa
 -   `Payaso` Palhaço
 -   `Adolescente`
+-   `Soltero` Solteiro
+-   `Graduado` Formado/Graduado
 
 ## La Familia - Família
 

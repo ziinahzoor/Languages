@@ -89,7 +89,7 @@
 -   <font size="5"><code><ruby>写<rt>しゃ</rt>真<rt>しん</rt></ruby></code></font> Foto
 -   `グラス` Vidro
 -   <font size="5"><code><ruby>地<rt>ち</rt>図<rt>ず</rt></ruby></code></font> Mapa
--   `かさ` Guarda-chuva
+-   <font size="5"><code><ruby>傘<rt>かさ</rt></ruby></code></font> Guarda-chuva
 -   <font size="5"><code><ruby>新<rt>しん</rt>聞<rt>ぶん</rt></ruby></code></font> Jornal
 -   <font size="5"><code><ruby>本<rt>ほん</rt></ruby></code></font> Livro
     -   <font size="5"><code><ruby>絵<rt>え</rt>本<rt>ほん</rt></ruby></code></font> Livro ilustrado
@@ -155,7 +155,7 @@
 -   `コンセント` Tomada
 -   `ナビ` GPS
 -   <font size="5"><code><ruby>電<rt>でん</rt>話<rt>わ</rt></ruby></code></font> Telefone
--   `けいたい` Celular
+-   <font size="5"><code><ruby>携<rt>けい</rt>帯<rt>たい</rt></ruby></code></font> Celular
 -   `スマホ` Smartphone
 -   `タブレット` Tablet
 -   `パソコン` Computador
@@ -194,7 +194,7 @@
 -   `ミス` Erro
 -   `でんわばんごう` Número de telefone
 -   `キス` Beijo
--   <font size="5"><code><ruby>電<rt>でん</rt>気<rt>き</rt></ruby></code></font> Eletricidade
+-   <font size="5"><code><ruby>電<rt>でん</rt>気<rt>き</rt></ruby></code></font> Luz/Eletricidade
 -   `たび` Jornada
 -   `しんぽ` Progresso
 -   `しゅわ` Linguagem de sinais

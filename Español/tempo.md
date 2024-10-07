@@ -7,22 +7,22 @@
 -   `Mañana` Manhã/Amanhã
 -   `Tarde`
 -   `Noche` Noite
+-   `Fin de semana` Fim de semana
 -   `Mes` Mês
 -   `Año` Ano
--   `Fin de semana` Fim de semana
+-   `Semestre`
+-   `Siglo` Século
 -   `Fecha` Data
 -   `Ahora` Agora
 -   `Antes`
 -   `Después` Depois
 -   `Temprano` Cedo
--   `Tarde`
 -   `Ayer` Ontem
 -   `Hoy` Hoje
 -   `Anoche` Noite passada
 -   `Mediodía` Meio-dia
 -   `Medianoche` Meia-noite
 -   `Horario` Horário
--   `Siglo` Século
 
 ## La Semaña - Semana
 

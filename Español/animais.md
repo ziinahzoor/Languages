@@ -18,6 +18,7 @@
 -   `Oso`
 -   `Oveja` Ovelha
 -   `Rata` Rato 🚺
+-   `Ratón` Camundongo
 -   `Mono` Macaco
 -   `Serpiente` Cobra
 -   `León` Leão

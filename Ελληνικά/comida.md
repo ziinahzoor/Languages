@@ -31,6 +31,8 @@
 -   `Παγωτό` Sorvete ✴️
 -   `Λουκάνικο` Linguiça
 -   `Σοκολάτα` Chocolate 🚺
+-   `Μπισκότο` Biscoito ✴️
+-   `Γλυκό` Doce ✴️
 
 ## Τα Λαχανικά - Legumes ✴️
 

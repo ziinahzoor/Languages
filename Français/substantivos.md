@@ -86,6 +86,7 @@
 -   `Lettre` Carta
 -   `Cadeau` Presente
 -   `Journal` Jornal/Diário
+    -   `Journal intime` Diário
 -   `Portrait` Retrato
 -   `Photo` Foto
 -   `Dictionnaire` Dicionário
@@ -107,7 +108,8 @@
 -   `Coffre` Cofre/Porta-malas
 -   `Bureau` Escrivaninha/Mesa de trabalho
 -   `Poupée` Boneca
--   `Ballon` Bola 🚹
+-   `Balle` Bola (Pequena)
+-   `Ballon` Bola (Grande) 🚹
 -   `Boîte` Caixa
     -   `Boite` Pós-reforma de 90
 -   `Sol` Chão/Piso
@@ -151,6 +153,14 @@
 -   `Affiche` Poster 🚺
 -   `Canette` Lata
 -   `Serviette` Guardanapo 🚺
+-   `Seau` Balde
+-   `Serpillère` Esfregão 🚺
+-   `Ordonnance` Receita médica
+-   `Pinceau` Pincel
+-   `Casier` Armário/Cacife/Guarda-volumes
+-   `Courrier` Correio
+-   `Calendrier` Calendário
+-   `Pelle` Pá
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -173,9 +183,12 @@
 -   `Appareil photo` Câmera fotográfica 🚹
     -   `Appareil photo numérique` Câmera digital 🚹
 -   `Micro-ondes` Micro-ondas
+-   `Machine` Máquina
 -   `Machine à café` Cafeteira
 -   `Ventilateur` Ventilador
 -   `Batterie` Bateria
+-   `Écran` Tela 🚹
+-   `Aspirateur` Aspirador
 
 ## Abstratos
 
@@ -306,6 +319,10 @@
 -   `Commentaire` Comentário
 -   `Niveau` Nível
 -   `Détail` Detalhe
+-   `Danger` Perigo
+-   `Son` Som
+-   `Loyer` Aluguel
+-   `Culture` Cultura
 
 ### Sentimentos e emoções
 
@@ -316,6 +333,8 @@
 -   `Faim` Fome
 -   `Soif` Sede
 -   `Douleur` Dor
+-   `Amour` Amor
+    -   `Grand amour` Amor verdadeiro
 
 ### Unidades de medida
 
@@ -325,7 +344,7 @@
 -   `Kilo` Quilo
 -   `Litre` Litro
 
-### Formas
+### Formas geométricas
 
 -   `Cercle` Círculo
 
@@ -360,7 +379,7 @@
 -   `Roue` Roda
 -   `Pneu`
 
-## Atividades
+## Les Activités - Atividades
 
 -   `Travail` Trabalho
     -   `Boulot` Trampo
@@ -403,6 +422,7 @@
 -   `Échecs` Xadrez
 -   `Loisir` Hobby
 -   `Compétition` Competição
+-   `Cuisson` Culinária
 
 ### Compras
 
@@ -416,11 +436,15 @@
 -   `Argent` Dinheiro/Prata
 -   `Monnaie` Moeda/Troco 🚺
 -   `Carte` Cardápio 🚺
+-   `Menu` Cardápio (de preço fixo)
 -   `Pourboire` Gorjeta 🚹
 -   `Addition` Conta
 -   `Ticket` Recibo
 -   `Chèque` Cheque
 -   `Distributeur` Caixa eletrônico
+-   `Bon de réduction` Cupom de desconto
+-   `Caisse` Caixa
+-   `Solde` Promoção
 
 ### L'Étude - Estudo 🚺
 
@@ -473,14 +497,17 @@
 
 -   `Musique` Música
 -   `Chanson` Canção
--   `Piano`
--   `Guitare` Guitarra
--   `Violon` Violino
--   `Batterie` Bateria
 -   `Album` Álbum
 -   `Rap`
 -   `Jazz`
 -   `Pop` 🚺
 -   `Hip-hop`
+
+### Les Instruments - Instrumentos
+
+-   `Piano`
+-   `Guitare` Guitarra
+-   `Violon` Violino
+-   `Batterie` Bateria
 
 ## Outros

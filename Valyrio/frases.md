@@ -8,3 +8,5 @@
 -   `Kostilus` Por favor
 -   `Rytsas` Olá
 -   `Geros ilas` Tchau/Adeus
+-   `Skorkydoso glaesā?` Como vai?
+-   `Sȳrī glaesan` Estou bem

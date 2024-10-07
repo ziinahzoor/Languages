@@ -32,7 +32,6 @@
 
 ## Lentor - Família 🌊
 
--   `Targārien` Targaryen 🌱
 -   `Muña` Mãe/Tia 🌙
 -   `Kepa` Pai 🌙
 -   `Trēsy` Filho 🌙
@@ -54,3 +53,46 @@
     -   `Iāpanna` Filho(a) do irmão mais velho da mãe/Primo(a) 🌙
 -   `Qȳbor` Irmão mais novo da mãe/Tio materno 🌊
     -   `Qȳbranna` Filho(a) do irmão mias novo da mãe/Primo(a) 🌙
+
+## As Crônicas de Gelo e Fogo
+
+-   `Āegon` Aegon 🌱
+-   `Visenia` Visenya 🌙
+-   `Aria` Arya 🌙
+-   `Daemon` 🌱
+-   `Daenerys` ☀️
+-   `Dārio` Daario 🌙
+-   `Dāeron` Daeron 🌱
+-   `Brandon` 🌱
+-   `Iēmi` Jaime 🌙
+-   `Iōnos` Jon/Jonos ☀️
+-   `Helaena` 🌙
+-   `Jaehaerys` ☀️
+-   `Jaqen` 🌙
+-   `Kātelin` Catelyn 🌙
+-   `Lukerys` Lucerys ☀️
+-   `Rhaegar` 🌱
+-   `Rhaenyra` 🌙
+-   `Roberti` Robert 🌙
+-   `Sersi` Cersei 🌙
+-   `Tyrion` 🌱
+-   `Varys` ☀️
+-   `Viserys` ☀️
+-   `Aemon` 🌱
+-   `Aerys` ☀️
+-   `Alysanne` 🌙
+-   `Baelon` 🌱
+-   `Baelor` 🌊
+-   `Jakaerys` Jacaerys ☀️
+-   `Rhaella` 🌙
+-   `Rhaenys` ☀️
+-   `Stefan` Steffon 🌙
+-   `Melisandre` 🌙
+-   `Rullor` R'hllor ☀️
+
+### Famílias
+
+-   `Targārien` Targaryen 🌱
+-   `Velarion` Velaryon 🌱
+-   `Darklin` Darklyn 🌙
+-   `Lannister` 🌙

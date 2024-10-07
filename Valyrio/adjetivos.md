@@ -41,3 +41,11 @@
 -   `Gevie` Bonito
 -   `Rōvēgrie` Enorme
 -   `Qumblie` Grosso
+-   `Arlie` Novo
+
+## Sem classe definida
+
+-   `Ēngoso` Falante
+-   `Averilloma` Bêbado/Embriagado
+-   `Udrimmi` Esperto
+-   `Zaldrīzerme` Indestrutível/Invencível

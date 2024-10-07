@@ -115,6 +115,7 @@
 -   `Nada`
 -   `Nadie` Ninguém
 -   `Alguien` Alguém
+-   `Cualquier` Qualquer
 
 ## Interrogativos
 

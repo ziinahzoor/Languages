@@ -1,4 +1,4 @@
-# Cores
+# Sȳndrilli - Cores 🌊
 
 **Também são adjetivos.**
 

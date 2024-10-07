@@ -81,7 +81,9 @@
 
 **[Dicionário](valyrian-dictionary.com)**
 
-**[Definições de palavras](https://linguifex.com/) - Usar `https://linguifex.com/w/index.php?title=Contionary:[palavra]`**
+**[Definições de palavras 1](https://wiki.languageinvention.com/) - Usar `https://wiki.languageinvention.com/index.php?title=[Palavra]`**
+
+**[Definições de palavras 2](https://linguifex.com/) - Usar `https://linguifex.com/w/index.php?title=Contionary:[palavra]`**
 
 ## Música
 

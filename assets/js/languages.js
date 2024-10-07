@@ -147,6 +147,7 @@ const greek = {
 		{ page: 'pessoas', displayName: 'Pessoas' },
 		{ page: 'preposições', displayName: 'Preposições' },
 		{ page: 'pronomes', displayName: 'Pronomes' },
+		{ page: 'roupas', displayName: 'Roupas' },
 		{ page: 'substantivos', displayName: 'Substantivos' },
 		{ page: 'verbos', displayName: 'Verbos' },
 	],

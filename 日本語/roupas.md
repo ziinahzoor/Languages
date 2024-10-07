@@ -27,6 +27,7 @@
 
 ## Braços
 
+-   <font size="5"><code><ruby>手<rt>て</rt>袋<rt>ぶくろ</rt></ruby></code></font> Luva
 -   <font size="5"><code><ruby>鞄<rt>かばん</rt></ruby></code></font> Bolsa
 -   <font size="5"><code><ruby>腕<rt>うで</rt>時計<rt>どけい</rt></ruby></code></font> Relógio de pulso
 -   `ブレスレット` Bracelete
@@ -44,7 +45,7 @@
     -   `スニーカー` Tênis
     -   `サンダル` Sandália
     -   `スリッパ` Chinelo
--   `くつした` Meia
+-   <font size="5"><code><ruby>靴<rt>くつ</rt>下<rt>した</rt></ruby></code></font> Meia
 
 ## アクセサリー - Acessórios
 

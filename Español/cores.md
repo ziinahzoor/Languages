@@ -11,5 +11,6 @@
 -   `Morado` Roxo
 -   `Blanco` Branco
 -   `Negro` Preto
--   `Rosado` Rosa
+-   `Rosa`
+    -   `Rosado`
 -   `Naranja` Laranja

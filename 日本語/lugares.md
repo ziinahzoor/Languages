@@ -83,7 +83,7 @@
 -   `りょう` Dormitório
 -   <font size="5"><code><ruby>片<rt>かた</rt>隅<rt>すみ</rt></ruby></code></font> Canto (lugar longe do centro)
 -   <font size="5"><code><ruby>隅<rt>すみ</rt></ruby></code></font> Canto (interno)
--   `かど` Canto (externo)
+-   <font size="5"><code><ruby>角<rt>かど</rt></ruby></code></font> Canto (externo)
 -   <font size="5"><code><ruby>中<rt>なか</rt></ruby></code></font> Interior
 -   <font size="5"><code><ruby>外<rt>そと</rt></ruby></code></font> Exterior/Ar livre
 -   `ちゅうかがい` Chinatown

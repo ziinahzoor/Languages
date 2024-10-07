@@ -14,6 +14,7 @@
 ## Verbos -άω (-ώ)
 
 -   `Μιλάω` Falar
+-   `Φοράω` Vestir
 
 ## Verbos -ώ
 

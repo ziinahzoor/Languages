@@ -33,12 +33,15 @@
 -   `Sylutegon` Provar/Experimentar
 -   `Umāzigon` Vir/Chegar
     -   Complemento sempre está no dativo.
+-   `Zoklākogon` Atrair/Encantar
 
 ## Verbos -agon
 
 -   `Vāedagon` Cantar
 -   `Morghūljagon` Morrer
--   `Vaoresagon` Preferir
+-   `Vaoresagon` Preferir/Favorecer
+    -   Complemento costuma estar no genitivo.
+    -   Gostar (Dativo)
 -   `Rȳbagon` Ouvir/Obedecer
 -   `Jorrāelagon` Amar
 -   `Rijagon` Elogiar/Louvar
@@ -64,3 +67,8 @@
 -   `Aerēbagon` Viajar
 -   `Tepagon` Dar
 -   `Irughagon` Dar (Quando o sujeito e os complementos estão na terceira pessoa)
+-   `Botagon` Trabalhar
+-   `Glaesagon` Viver/Morar
+-   `Iōragon` Ficar
+-   `Umbagon` Esperar/Aguardar
+-   `Baelagon` Ajudar
