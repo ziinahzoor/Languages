@@ -23,6 +23,8 @@
 -   `Chorizo` Linguiça 🚹
 -   `Harina` Farinha
 -   `Masa` Massa
+-   `Pasta` Macarrão/Massa 🚺
+-   `Fideo` Macarrão (Lámen)
 -   `Salsa` Molho 🚺
 -   `Vainilla` Baunilha
 -   `Galleta` Biscoito
@@ -31,7 +33,6 @@
 -   `Verdura`
 -   `Dulce` Doce
 -   `Miel` Mel 🚺
--   `Pasta` Massa
 -   `Tostada` Torrada
 -   `Mermelada` Geleia
 -   `Jalea` Geleia

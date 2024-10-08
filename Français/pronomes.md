@@ -194,8 +194,14 @@
 
 ## Relatifs - Relativos
 
+-   `Où` Onde/Quando
+    -   Serve tanto para situações espaciais quanto temporais.
 -   `Que` Que
+    -   É o objeto direto
+    -   `Ce que` Indefinido
 -   `Qui` Que (Quem)
+    -   É o sujeito ou objeto de preposição.
+    -   `Ce qui` Indefinido
 -   `Dont` De quem
 -   `Lequel` Do qual
 

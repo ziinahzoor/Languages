@@ -39,12 +39,15 @@
 -   `Fuera` Fora
     -   `Afuera` Direção
 -   `Centro`
+-   `Esquina`
 
 ### Las Direcciones - Direções
 
 -   `Derecho` Reto
 -   `Derecha` Direita
 -   `Izquierda` Esquerda
+-   `Norte`
+-   `Sur`
 
 ## La Casa - Casa
 
@@ -52,7 +55,9 @@
 -   `Baño` Banheiro
     -   `Servicios`
 -   `Habitación` Quarto/Cômodos
+    -   Geralmente ao se falar de hóteis ou hospedagens.
 -   `Dormitório` Quarto
+    -   Mais utilizado para se referir ao quarto pessoal.
 -   `Cuarto` Quarto
 -   `Patio` Quintal
 -   `Jardín` Jardim
@@ -85,7 +90,10 @@
 -   `Pueblo` Cidade (Town)
 -   `Aldea` Aldeia
 -   `Escuela` Escola
+-   `Ferrocarril` Ferrovia 🚹
 -   `Estación` Estação
+    -   `Estación de tren` Estação de trem
+    -   `Estación de ferrocarril` Estação ferroviária
 -   `Parque`
 -   `Oficina` Escritório 🚺
 -   `Taller` Oficina 🚹
@@ -128,3 +136,5 @@
 -   `Departamento`
 -   `Concejo municipal` Conselho municipal
 -   `Salida` Saída
+-   `Andén` Plataforma 🚹
+-   `Cuadra` Quadra

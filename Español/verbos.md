@@ -139,6 +139,7 @@
 -   `Enterarse` Descobrir/Inteirar-se
 -   `Casar`
 -   `Aconsejar` Aconselhar
+-   `Significar`
 
 ## Los verbos -er
 
@@ -168,6 +169,7 @@
 -   `LLover` Chover
 -   `Poder`
 -   `Perder`
+    -   `Perderse` Perder-se
 -   `Coger` Pegar
     -   Usado com esse sentido apenas na Espanha.
     -   Na América Latina, possui conotação pejorativa.
@@ -215,3 +217,5 @@
 -   `Reírse` Rir
 -   `Compartir` Compartilhar
 -   `Añadir` Acrescentar/Adicionar
+-   `Subir`
+    -   `Subirse` Subir/Entrar (em algum veículo)

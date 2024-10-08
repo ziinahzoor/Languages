@@ -69,6 +69,7 @@
 -   `Último`
 -   `Saludable` Saudável
 -   `Largo` Longo/Largo
+-   `Ancho` Largo/Amplo
 -   `Moderna`
 -   `Exquisito` Delicioso
 -   `Extra`

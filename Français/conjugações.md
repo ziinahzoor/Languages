@@ -11,7 +11,7 @@
         <tr>
             <th>Formas/Tempos</th>
             <th colspan="2">Presente</th>
-            <th colspan="3">Pretérito</th>
+            <th colspan="4">Pretérito</th>
             <th colspan="2">Futuro</th>
         </tr>
     </thead>
@@ -21,6 +21,7 @@
         <td><a href="#present-continu">Contínuo</a></td>
         <td><a href="#indicatif-imparfait">Imperfeito</a></td>
         <td><a href="#passe-compose">Perfeito</a></td>
+        <td><a href="#plus-que-parfait">Mais-que-perfeito</a></td>
         <td><a href="#passe-recent">Recente</a></td>
         <td><a href="#futur-simple">Simples</a></td>
         <td><a href="#futur-proche">Imediato</a></td>
@@ -34,19 +35,25 @@
     <tr>
         <th><a href="#subjonctif">Subjuntivo</a></th>
         <td colspan="2"><a href="#subjonctif-present">Simples</a></td>
-        <td colspan="3"><a href="#subjonctif-passe">Simples</a></td>
+        <td colspan="4"><a href="#subjonctif-passe">Simples</a></td>
         <td colspan="2"></td>
     </tr>
     <tr>
-        <th colspan="8"><a href="#imperatif">Imperativo</a></th>
+        <th><a href="#conditionnel">Condicional</a></th>
+        <td colspan="2"><a href="#conditionnel-present">Simples</a></td>
+        <td colspan="4"><a href="#conditionnel-passe">Simples</a></td>
+        <td colspan="2"></td>
     </tr>
     <tr>
-        <th colspan="8"><a href="#gerondif">Gerúndio</a></th>
+        <th colspan="9"><a href="#imperatif">Imperativo</a></th>
+    </tr>
+    <tr>
+        <th colspan="9"><a href="#gerondif">Gerúndio</a></th>
     </tr>
     <tr>
         <th><a href="#participe">Particípio</a></th>
         <td colspan="2"><a href="#participe-present">do Presente</a></td>
-        <td colspan="3"><a href="#participe-passe">do Pretérito</a></td>
+        <td colspan="4"><a href="#participe-passe">do Pretérito</a></td>
         <td colspan="2"></td>
     </tr>
 </table>
@@ -120,7 +127,7 @@
 <h2 id="var_indicatif-imparfait">L'Imparfait - Pretérito Imperfeito</h2>
 
 > [!TIP]
-> Também é uma de dizer as coisas educadamente como no português.
+> Também é uma forma de dizer as coisas educadamente como no português.
 
 <table>
     <thead>
@@ -171,6 +178,10 @@
 -   Pode ser formado por uma conjugação dos verbos `être` ou `avoir` + partícipio do pretérito. Ex.: `J'ai fini`
     -   Verbos de movimento e reflexivos utilizam `être`.
     -   Ao usar `être` como verbo auxiliar, o partícipio deve ser flexionado.
+
+<h2 id="var_plus-que-parfait">Plus‑que‑parfait - Mais-que-perfeito</h2>
+
+-   Exatamente como o pretérito perfeito, porem com os verbos `être` e `avoir` na sua forma imperfeita.
 
 <h2 id="var_passe-recent">Le Passé Récent - Pretérito Recente</h2>
 
@@ -318,12 +329,26 @@
 
 ---
 
+<h1 id="var_conditionnel">Le Conditionnel - Condicional</h1>
+
+<h2 id="var_conditionnel-present">Le Present - Presente</h2>
+
+-   É formado pela raíz do futuro simples do indicativo + terminações do pretérito imperfeito.
+
+<h2 id="var_conditionnel-passe">Le Passé - Pretérito</h2>
+
+-   É formado pela forma condicional presente de `être` ou `avoir` + partícipio do passado.
+
 <h1 id="var_imperatif">L'Impératif - Imperativo</h1>
 
 -   Só pode ser utilizado para `tu`, `nous` e `vous`.
 -   Basta conjugar o verbo no presente sem incluir o pronome. Ex.: `Vous arrêtez` → `Arrêtez!`.
     -   Exceto a conjugação `tu` dos verbos `-er`, que perde o "s".
 -   Para se referir a uma pessoa, usar hífen e o pronome tônico. Ex.: `Lève-toi`.
+-   Com os outros pronomes, também se usa o hífen. Ex.: `​Donne‑le‑lui`.
+    -   `Le`, `la` e `les` vêm antes dos outros pronomes.
+    -   No imperativo negativo não se usa o hífen. Ex.: `Ne le lui donne pas`.
+        -   `Le`, `la` e `les` vêm antes de `lui` e `leur` e depois dos outros pronomes.
 -   Se o pronome `y` vem após uma vogal, acrescenta-se um "s" à conjugação. Ex.: <code>Va<u>s</u>-y</code>
 -   A conjugação `tu` do verbo `s'en aller` é `va-t-en`.
 

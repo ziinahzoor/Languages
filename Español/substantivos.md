@@ -23,6 +23,8 @@
 
 -   `Oro` Ouro
 -   `Madera` Madeira
+-   `Cuero` Couro
+-   `Plástico`
 
 ## Casa e objetos
 
@@ -138,6 +140,7 @@
 -   `Formulario` Formulário
 -   `Sobre` Envelope
 -   `Manta` Cobertor 🚺
+-   `Escalera` Escada
 
 ## Abstratos
 
@@ -243,6 +246,7 @@
 -   `Señal` Sinal 🚺
 -   `Sonido` Som
 -   `Meta`
+-   `Retraso` Atraso
 
 ### Medidas
 
@@ -306,6 +310,7 @@
     -   `Sitio web` Website
 -   `Web` Internet
 -   `Estudio` Estudo
+-   `Turismo`
 
 ### Compras
 
