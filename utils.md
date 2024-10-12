@@ -67,15 +67,25 @@
 
 **[Dicionário](https://en.openrussian.org/)**
 
+## Dothraki
+
+**[Aprender Dothraki](https://wiki.languageinvention.com/index.php?title=Dothraki_language)**
+
 ## Dracônico
 
 **[Aprender dracônico](https://www.thuum.org/learn/)**
 
-## Alto Valiriano
+## Valiriano
 
 **[Regras gramaticais](https://docs.google.com/document/d/1sJ7us1CwhyZAcG1zJ61OLeOAL8t22FsLMO4FlrsPqP0/edit)**
 
-**[Aprender Alto Valiriano](https://web.archive.org/web/20220322023216/https://wiki.dothraki.org/Learning_High_Valyrian)**
+**[Aprender Alto Valiriano](https://wiki.languageinvention.com/index.php?title=High_Valyrian_language)**
+
+**[Aprender Alto Valiriano 2](https://web.archive.org/web/20220322023216/https://wiki.dothraki.org/Learning_High_Valyrian)**
+
+**[Aprender Valiriano Astapori](https://wiki.languageinvention.com/index.php?title=Astapori_Valyrian_language)**
+
+**[Aprender Valiriano Meereenese](https://wiki.languageinvention.com/index.php?title=Meereenese_Valyrian_language)**
 
 **[Dicas do Duolingo](https://duome.eu/tips/en/hv)**
 

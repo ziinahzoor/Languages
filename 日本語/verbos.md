@@ -147,13 +147,14 @@
     -   Usado para todos os verbos quem envolvam fogo na culinária.
 -   <font size="5"><code><ruby>開<rt>あ</rt></ruby>く</code></font> Abrir (I)
 -   <font size="5"><code><ruby>歩<rt>ある</rt></ruby>く</code></font> Andar
--   `さく` Florescer
+-   <font size="5"><code><ruby>咲<rt>さ</rt></ruby>く</code></font> Florescer
 -   `すく` Esvaziar
     -   <font size="5"><code>お<ruby>腹<rt>なか</rt></ruby>がすく</code></font> Ter fome
 -   <font size="5"><code><ruby>履<rt>は</rt></ruby>く</code></font> Vestir/Calçar/Usar (Parte inferior)
 -   <font size="5"><code><ruby>働<rt>はたら</rt></ruby>く</code></font> Trabalhar
 -   <font size="5"><code><ruby>吹<rt>ふ</rt></ruby>く</code></font> Soprar
     -   Também é usado como "tocar" para instrumentos de sopro.
+-   <font size="5"><code><ruby>鳴<rt>な</rt></ruby>く</code></font> Fazer som (animal)
 -   <font size="5"><code><ruby>泳<rt>およ</rt></ruby>ぐ</code></font> Nadar
 -   `いそぐ` Apressar
 -   <font size="5"><code><ruby>脱<rt>ぬ</rt></ruby>ぐ</code></font> Despir/Tirar (roupa)
@@ -177,6 +178,7 @@
 -   `よろこぶ` Alegrar
 -   `ころぶ` Cair
 -   `えらぶ` Escolher
+-   <font size="5"><code><ruby>飛<rt>と</rt></ruby>ぶ</code></font> Voar
 -   `てつだう` Ajudar
 -   <font size="5"><code><ruby>会<rt>あ</rt></ruby>う</code></font> Encontrar
     -   `と会う` Encontrar com
@@ -241,6 +243,7 @@
 -   <font size="5"><code><ruby>曇<rt>くも</rt></ruby>る</code></font> Embaçar/Nublar
 -   <font size="5"><code><ruby>通<rt>とお</rt></ruby>る</code></font> Passar/Atravessar
     -   <font size="5"><code>。。。のそばを<ruby>通<rt>とお</rt></ruby>る</code></font> Passar por
+-   <font size="5"><code><ruby>登<rt>のぼ</rt></ruby>る</code></font> Escalar/Subir
 
 ## 一段 - Ichidan
 

@@ -169,3 +169,19 @@
 -   `-a` → `-e`
 -   `-y`, `-ys` → `-i`
 -   `-e`, `-es`, `-en` → `-ī`
+
+## Baixo Valiriano ou Valiriano Bastardo
+
+**São dialetos falado em Essos, derivados do Alto Valiriano.**
+
+### Valiriano Astapori
+
+**Falado em Astapor**
+
+-   Possui apenas dois gêneros: Celestial ⛅ e Terrestre 🌱
+
+### Valiriano Meereenese
+
+**Falado em Meereen**
+
+-   Possui apenas dois gêneros: Celestial ⛅ e Terrestre 🌱

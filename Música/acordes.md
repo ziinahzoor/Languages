@@ -2,7 +2,7 @@
 
 **Um _acorde_ (Chord) é uma unidade de harmônica, consistindo de pelo menos duas notas ou aberturas tocadas ao mesmo tempo.**
 
-**De forma simplificada, são notas tocadas simultâneamente.**
+**De forma simplificada, são notas tocadas simultaneamente.**
 
 -   Acordes são construídos a partir de uma única nota, chamada _raíz_ (Root).
 -   A nota mais baixa da tríade é chamada _baixo_ (Bass note).
@@ -89,3 +89,13 @@
     -   Primeira inversão: representada por um "6" sobrescrito e um "5" subscrito à direita.
     -   Segunda inversão: representada por um "4" sobrescrito e um "3" subscrito à direita.
     -   Terceira inversão: representada por um "2" sobrescrito à direita.
+
+## Progressões
+
+-   Consistem de estruturas de acordes em uma escala tocadas para criar um certo clima.
+-   Associa-se cada nota da escala com um numeral romano, definindo se o acorde é maior, menor, etc:
+
+**I-ii-iii-IV-V-vi-viiø**
+
+-   No pop e no blues é comum usar o padrão `I-IV-V`.
+-   No jazz é comum o padrão `ii-V-I`.

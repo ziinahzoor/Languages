@@ -104,6 +104,7 @@
 -   `Débutant` Iniciante
 -   `Président-directeur général (PDG)` CEO
 -   `Stagiaire` Estagiário
+-   `Guitariste` Guitarrista
 
 ## La famille - Família
 
@@ -136,8 +137,9 @@
 -   `Neveu` Sobrinho
 -   `Nièce` Sobrinha
 
-## Instituições
+## Grupos e Instituições
 
 -   `Police` Polícia
 -   `SAMU` SAMU
     -   `Service d'Aide Médicale Urgente`
+-   `Orchestre` Orquestra 🚹

@@ -166,3 +166,16 @@
 		<td colspan="2">εκείνα</td>
 	</tr>
 </table>
+
+## Interrogativos
+
+-   `Τι` O que/Que
+-   `Πότε` Quando
+-   `Πού` Onde
+-   `Γιατί` Por que/Por quê/Porque
+-   `Πώς` Como
+-   `Πόσος` Quanto/Quantos/Quantas
+    -   Conjugável
+-   `Ποιος` Quem/Qual
+    -   Conjugável
+-   `Τίνος` De quem

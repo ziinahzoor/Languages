@@ -175,7 +175,8 @@
 > ◆ Vogal-tema alongada.
 
 -   Para comandos negativos, usa-se o infinitivo + `daor`.
--   Para comandos para referentes que não estão na segunda pessoa, usa-se o vocativo de quem-se está dando o comando + infinitivo. Para o negativo basta acrescentar `daor`.
+-   Para comandos para referentes que não estão na segunda pessoa, usa-se o vocativo de quem-se está dando o comando (também vale para os pronomes) + infinitivo. Para o negativo basta acrescentar `daor`.
+    -   Tal construção funciona como o volitivo.
 
 ---
 

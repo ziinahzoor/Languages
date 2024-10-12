@@ -59,7 +59,7 @@
 -   <font size="5"><code>ラーメン<ruby>屋<rt>や</rt></ruby></code></font> Loja de lámen
 -   <font size="5"><code><ruby>寿<rt>す</rt>司<rt>し</rt>屋<rt>や</rt></ruby></code></font> Loja de sushi
 -   <font size="5"><code><ruby>病<rt>びょう</rt>院<rt>いん</rt></ruby></code></font> Hospital
--   <font size="5"><code><ruby>海<rt>`うみ`</rt></ruby></code></font> Praia
+-   <font size="5"><code><ruby>海<rt>`うみ`</rt></ruby></code></font> Mar/Praia
 -   <font size="5"><code><ruby>公<rt>こう</rt>園<rt>えん</rt></ruby></code></font> Parque
 -   `ゆうえんち` Parque temático
 -   <font size="5"><code><ruby>動<rt>どう</rt>物<rt>ぶつ</rt>園<rt>えん</rt></ruby></code></font> Zoológico
@@ -167,7 +167,7 @@
 -   `リビング` Sala de estar
 -   `ダイニング` Sala de jantar
 -   `プール` Piscina
--   <font size="5"><code><ruby>庭<rt>にわ</rt></ruby></code></font> Jardim
+-   <font size="5"><code><ruby>庭<rt>にわ</rt></ruby></code></font> Quintal/Jardim
 -   <font size="5"><code><ruby>食<rt>しょく</rt>堂<rt>どう</rt></ruby></code></font> Sala de jantar/Cafeteria
 -   `ゆか` Piso
 -   `たたみ` Piso japonês
@@ -299,7 +299,7 @@
     -   `かぶきちょう` Kabukicho
 -   `たいとう` Taito
     -   `あさくさ` Asakusa
-    -   `うえの` Ueno
+    -   <font size="5"><code><ruby>上<rt>うえ</rt>野<rt>の</rt></ruby></code></font> Ueno
 -   `としま` Toshima
     -   `いけぶくろ` Ikebukuro
 

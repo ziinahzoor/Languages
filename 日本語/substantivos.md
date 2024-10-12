@@ -15,7 +15,7 @@
 -   `ホコリ` Poeira
 -   <font size="5"><code><ruby>花<rt>はな</rt></ruby></code></font> Flor
 -   <font size="5"><code><ruby>川<rt>かわ</rt></ruby></code></font> Rio
--   `いけ` Lagoa
+-   <font size="5"><code><ruby>池<rt>いけ</rt></ruby></code></font> Lagoa
 -   `みずうみ` Lago
 -   `こおり` Gelo
 -   <font size="5"><code><ruby>木<rt>き</rt></ruby></code></font> Árvore
@@ -254,6 +254,7 @@
 -   `ルール` Regra
 -   <font size="5"><code><ruby>結<rt>けっ</rt>婚<rt>こん</rt></ruby></code></font> Casamento
 -   <font size="5"><code><ruby>離<rt>り</rt>婚<rt>こん</rt></ruby></code></font> Divórcio
+-   <font size="5"><code><ruby>声<rt>こえ</rt></ruby></code></font> Voz/Som de um animal
 
 ### Condições
 

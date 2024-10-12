@@ -36,6 +36,7 @@
 -   `Algérien` Argelino
 -   `Libanais` Libanês
 -   `Portugais` Português
+-   `Irlandais` Irlandês
 
 ## Vocabulaire - Vocabulário
 
@@ -145,6 +146,7 @@
 -   `Fantastique` Fantástico
 -   `Sérieux` Sério
 -   `Agréable` Agradável
+-   `Désagréable` Desagradável
 -   `Insupportable` Insuportável
 -   `Responsable` Responsável
 -   `Paresseux` Preguiçoso
@@ -255,3 +257,6 @@
 -   `Épicé` Apimentado/Picante/Condimentado
 -   `Pétillant` Gasoso/Espumante/Cintilante
 -   `Dégoûtant` Nojento/Repugnante
+-   `Formidable` Formidável
+-   `Chauve` Calvo/Careca
+-   `Créatif` Criativo

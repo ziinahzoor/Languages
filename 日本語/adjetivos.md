@@ -22,6 +22,7 @@
     -   Em linguagem casual pode significar "ruim"/"ah, não!", semelhante ao "porcaria".
 -   <font size="5"><code><ruby>大<rt>おお</rt></ruby>きい</code></font> Grande
     -   Também pode ser um adjetivo な.
+    -   Também pode ser "alto" para sons.
 -   <font size="5"><code><ruby>小<rt>ちい</rt></ruby>さい</code></font> Pequeno
     -   Também pode ser um adjetivo な.
 -   <font size="5"><code><ruby>明<rt>あか</rt></ruby>るい</code></font> Brilhante/Iluminado
@@ -100,8 +101,8 @@
 -   `かんぺき` Perfeito
 -   `ぎゃく` Oposto
 -   `ハンサム` Bonito
--   `しずか` Quieto
--   `にぎやか` Vívido/Tumultuado
+-   <font size="5"><code><ruby>静<rt>しず</rt></ruby>か</code></font> Quieto
+-   <font size="5"><code><ruby>賑<rt>にぎ</rt></ruby>やか</code></font> Vívido/Tumultuado
 -   <font size="5"><code><ruby>有<rt>ゆう</rt>名<rt>めい</rt></ruby></code></font> Famoso
 -   `おしゃれ` Estiloso
 -   `すてき` Adorável

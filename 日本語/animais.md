@@ -10,8 +10,8 @@
 -   <font size="5"><code><ruby>猫<rt>ねこ</rt></ruby></code></font> Gato
 -   <font size="5"><code><ruby>鳥<rt>とり</rt></ruby></code></font> Pássaro
 -   `シカ` Cervo
--   `さる` Macaco
--   `はと` Pombo
+-   `サル` Macaco
+-   `ハト` Pombo
 -   `かめ` Tartaruga
 -   `ワシ` Águia
 -   `タコ` Polvo
@@ -44,3 +44,6 @@
 -   `うさぎ` Coelho
 -   `やぎ` Cabra
 -   `ゴキブリ` Barata
+-   <font size="5"><code><ruby>鹿<rt>しか</rt></ruby></code></font> Veado
+-   <font size="5"><code><ruby>牛<rt>うし</rt></ruby></code></font> Vaca
+-   <font size="5"><code><ruby>馬<rt>うま</rt></ruby></code></font> Cavalo

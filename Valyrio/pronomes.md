@@ -7,11 +7,12 @@
 			<th>Pessoa</th>
 			<th>Reto</th>
 			<th>Reflexivo</th>
-			<th>Objeto direto</th>
-			<th>Objeto indireto</th>
+			<th>Acusativo</th>
+			<th>Dativo</th>
 			<th>Genitivo</th>
 			<th>Determinante possessivo</th>
 			<th>Possessivo</th>
+			<th>Vocativo</th>
 		</tr>
 	</thead>
 	<tr>
@@ -24,6 +25,7 @@
 		<td>Yno</td>
 		<td>Ñuha</td>
 		<td>Ñuhon</td>
+		<td>Nykys</td>
 	</tr>
 	<tr>
 		<th>Segunda</th>
@@ -34,6 +36,7 @@
 		<td>Aō</td>
 		<td>Aōha</td>
 		<td>Aōhon</td>
+		<td>Aōs</td>
 	</tr>
 	<tr>
 		<th>Terceira ☀️🌙</th>
@@ -44,6 +47,7 @@
 		<td>Zijo</td>
 		<td>Zȳha</td>
 		<td>Zȳhon</td>
+		<td>Zirys</td>
 	</tr>
 	<tr>
 		<th>Terceira 🌱🌊</th>
@@ -54,6 +58,7 @@
 		<td>Ūō</td>
 		<td>Jāha</td>
 		<td>Jāhon</td>
+		<td>Ūjus</td>
 	</tr>
 	<tr>
 		<th rowspan="3">Plural</th>
@@ -65,6 +70,7 @@
 		<td>Īlo</td>
 		<td>Īlva</td>
 		<td>Īlvon</td>
+		<td>Īlos</td>
 	</tr>
 	<tr>
 		<th>Segunda</th>
@@ -75,6 +81,7 @@
 		<td>Jemo</td>
 		<td>Jeva</td>
 		<td>Jevon</td>
+		<td>Jemys</td>
 	</tr>
 	<tr>
 		<th>Terceira</th>
@@ -85,6 +92,7 @@
 		<td>Pōnto</td>
 		<td>Pōja</td>
 		<td>Pōjon</td>
+		<td>Pōntus</td>
 	</tr>
 </table>
 

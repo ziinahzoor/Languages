@@ -223,8 +223,9 @@
 -   `Reunión` Reunião
 -   `Projet` Projeto
 -   `Raison` Razão
-    -   `E-mail` Endereço de email
+-   `E-mail` Endereço de email
     -   `Mail` E-mail (Carta eletrônica)
+-   `Courriel` E-mail (Sistema)
 -   `Mot` Palavra
     -   `Mot de passe` Senha
 -   `Page` Página
@@ -323,6 +324,7 @@
 -   `Son` Som
 -   `Loyer` Aluguel
 -   `Culture` Cultura
+-   `Accent` Sotaque
 
 ### Sentimentos e emoções
 
@@ -404,7 +406,7 @@
 -   `Lien` Link
 -   `Chaîne` Canal
 -   `Reportage` Reportagem 🚹
--   `Vidéo` Vídeo
+-   `Vidéo` Vídeo 🚺
 -   `Application` Aplicativo 🚺
 -   `Yoga` Ioga
 -   `Guerre` Guerra
@@ -423,6 +425,9 @@
 -   `Loisir` Hobby
 -   `Compétition` Competição
 -   `Cuisson` Culinária
+-   `Festival`
+-   `Exposition` Exposição
+-   `Photographie` Fotografia
 
 ### Compras
 

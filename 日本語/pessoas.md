@@ -15,6 +15,7 @@
 -   <font size="5"><code><ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby></code></font> Menina
 -   <font size="5"><code><ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby></code></font> Menino
 -   <font size="5"><code><ruby>赤<rt>あか</rt></ruby>ちゃん</code></font> Bebê
+    -   Também pode ser utilizado para filhotes de animais.
 -   <font size="5"><code><ruby>友<rt>とも</rt>達<rt>だち</rt></ruby></code></font> Amigo
 -   `パートナー` Parceiro/Companheiro
 -   `クラスメイト` Colega de classe

@@ -50,12 +50,14 @@
 -   `Pourtant` Porém/Entretanto/Mesmo assim
 -   `Autant` Tanto
 -   `Juste` Só/Somente
+-   `Enfin` Enfim/Finalmente
 
 ## Locutions adverbiales - Locuções adverbiais
 
 -   `Quand même` Mesmo assim
 -   `Plein de` Cheio/Repleto
     -   "Muitos/Bastante/O bastante", quando se refere a coisas quantificáveis.
+-   `Par contre` Porém/Por outro lado
 -   `Par exemple` Por exemplo
 -   `Par terre` No chão
 -   `Tout de suite` Na hora/Imediatamente

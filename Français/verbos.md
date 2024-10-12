@@ -48,6 +48,7 @@
 -   `Rompre` Romper/Quebrar/Terminar (um relacionamento)
 -   `Naître` Nascer
 -   `Décrire` Descrever
+-   `Plaire` Agradar/Gostar
 
 ## -er Verbes
 
@@ -69,7 +70,8 @@
 -   `Acheter` Comprar
 -   `Rencontrer` Conhecer (Meet)
 -   `Payer` Pagar
--   `Trouver` Encontrar
+-   `Trouver` Achar/Encontrar
+    -   Também serve para o sentido abstrato de "achar" (pensar, expressar uma opinião).
 -   `S'inquiéter` Preocupar-se
 -   `Retrouver` Reencontrar
 -   `Chercher` Procurar/Buscar
@@ -247,6 +249,7 @@
 -   `Profiter` Aproveitar
 -   `Verrouiller` Trancar
 -   `Bouger` Mover
+-   `Raconter` Contar
 
 ## -ir Verbes
 

@@ -12,6 +12,7 @@
         -   `Joue` Bochecha
         -   `Bouche` Boca
             -   `Dent` Dente 🚺
+        -   `Moustache` Bigode 🚺
         -   `Barbe` Barba
 -   `Cou` Pescoço
 -   `Ventre` Barriga 🚹

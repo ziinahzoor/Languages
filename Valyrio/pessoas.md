@@ -16,7 +16,8 @@
 -   `Zentys` Convidado ☀️
 -   `Āeksio` Mestre/Lorde 🌙
 -   `Dohaeriros` Escravo ☀️
-    -   `Buzdari` Valiriano Astapori
+    -   `Buzdar` Valiriano Astapori
+    -   `Buzdari` Emprestado do Astapori 🌙
 -   `Belmurtys` Escravista ☀️
 -   `Dārys` Rei ☀️
 -   `Dāria` Rainha 🌙
@@ -29,6 +30,8 @@
 -   `Jaes` Deus/Divindade ☀️
 -   `Raqiros` Amigo ☀️
 -   `Arghurys` Caçador ☀️
+-   `Mittys` Idiota ☀️
+-   `Ozgūroty` Prisioneiro 🌙
 
 ## Lentor - Família 🌊
 

@@ -20,6 +20,8 @@
 
 -   `Δράμα` Drama ✴️
 -   `Γάμος` Casamento
+-   `Ερώτηση` Pergunta
+-   `Απάντηση` Resposta
 
 ## Atividades
 
