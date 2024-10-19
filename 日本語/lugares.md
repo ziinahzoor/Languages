@@ -9,6 +9,8 @@
 -   `かいじょう` Local
 -   <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
     -   <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby></code></font> Honorífico (Teineigo)
+    -   <font size="5"><code><ruby>店<rt>てん</rt>内<rt>ない</rt></ruby></code></font> Dentro da loja
+        -   Geralmente é usado para dizer que vai se consumir um produto no local ao invés de levar pra casa.
 -   `せかい` Mundo
 -   `むら` Vila
 -   `しゅと` Capital

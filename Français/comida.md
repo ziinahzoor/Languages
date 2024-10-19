@@ -94,6 +94,7 @@
 
 -   `Boisson pétillante` Bebida gaseificada/Bebida espumante
 -   `Boisson fraîche` Refresco/Bebida gelada
+    -   Indica uma bebida que normalmente não é ingerida quente. Ex.: Refrigerantes, sucos, etc.
 -   `Eau` Água
     -   `Eau gazeuse` Água com gás
         -   `Eau pétillante`

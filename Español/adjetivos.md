@@ -172,3 +172,10 @@
 -   `Tal`
 -   `Negativo`
 -   `Igual`
+-   `De moda` Na moda
+-   `Cierto` Certo/Verdadeiro
+-   `Mal` Errado
+-   `Eléctrico` Elétrico
+-   `Suficiente`
+    -   Geralmente vem antes do substantivo
+-   `Básico`

@@ -74,6 +74,7 @@
 -   `Voleur` Ladrão
 -   `Invité` Convidado
 -   `Passager` Passageiro
+-   `Voyageur` Viajante
 -   `Policier` Policial
 -   `Public` Público
 -   `Artiste` Artista
@@ -136,6 +137,9 @@
 -   `Tante` Tia
 -   `Neveu` Sobrinho
 -   `Nièce` Sobrinha
+-   `Beaux-parents` Sogros
+-   `Beau-père` Sogro
+-   `Belle-mère` Sogra
 
 ## Grupos e Instituições
 
@@ -143,3 +147,4 @@
 -   `SAMU` SAMU
     -   `Service d'Aide Médicale Urgente`
 -   `Orchestre` Orquestra 🚹
+-   `Compagnie aérienne` Companhia aérea

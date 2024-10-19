@@ -57,6 +57,7 @@
 -   `Estornudar` Espirrar
 -   `Probar` Provar
 -   `Probarse` Experimentar
+-   `Reprobar` Reprovar
 -   `Almorzar` Almoçar
 -   `Nevar`
 -   `Viajar`
@@ -107,6 +108,7 @@
 -   `Surfear` Surfar
 -   `Rezar`
 -   `Intentar` Tentar
+-   `Tratar` Tentar
 -   `Llorar` Chorar
 -   `Planear` Planejar
 -   `Reservar`
@@ -140,6 +142,12 @@
 -   `Casar`
 -   `Aconsejar` Aconselhar
 -   `Significar`
+-   `Adivinar` Adivinhar
+-   `Mejorar` Melhorar
+-   `Deletrear` Soletrar
+-   `Cortar`
+-   `Apurarse` Apressar-se
+-   `Sumar` Somar
 
 ## Los verbos -er
 
@@ -158,6 +166,7 @@
 -   `Entender`
 -   `Aprender`
 -   `Volver` Voltar
+    -   `Volverse` Tornar-se
 -   `Hacer` Fazer
 -   `Creer` Acreditar
 -   `Toucher` Tocar
@@ -219,3 +228,4 @@
 -   `Añadir` Acrescentar/Adicionar
 -   `Subir`
     -   `Subirse` Subir/Entrar (em algum veículo)
+-   `Imprimir`

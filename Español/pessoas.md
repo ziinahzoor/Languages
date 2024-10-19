@@ -71,6 +71,8 @@
 -   `Adolescente`
 -   `Soltero` Solteiro
 -   `Graduado` Formado/Graduado
+-   `Ganador` Ganhador
+-   `Principiante`
 
 ## La Familia - Família
 

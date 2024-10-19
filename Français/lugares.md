@@ -200,6 +200,7 @@
     -   Plural
 -   `Cour` Pátio 🚺
 -   `Bistrot` Bistrô
+-   `Départs` Partidas (aeroporto) 🚹
 
 ## France - França
 

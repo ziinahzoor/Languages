@@ -139,7 +139,7 @@
     -   `Radical de outro verbo` + `に行く` Ir para (realizar ação do verbo)
 -   `つく` Chegar
 -   <font size="5"><code><ruby>弾<rt>ひ</rt>く</ruby></code></font> Tocar instrumento (com cordas ou teclas)
--   <font size="5"><code><ruby>引<rt>ひ</rt>く</ruby></code></font> Puxar
+-   <font size="5"><code><ruby>引<rt>ひ</rt>く</ruby></code></font> Puxar/Consultar (alguma fonte)
     -   `風邪を引く` é pegar um resfriado.
 -   <font size="5"><code><ruby>書<rt>か</rt></ruby>く</code></font> Escrever
 -   <font size="5"><code><ruby>描<rt>か</rt>く</ruby></code></font> Desenhar
@@ -163,7 +163,7 @@
 -   <font size="5"><code><ruby>休<rt>やす</rt></ruby>む</code></font> Descansar
     -   Quando usado com algum substantivo como `しごと`, significa "faltar"
 -   <font size="5"><code><ruby>飲<rt>の</rt></ruby>む</code></font> Beber
-    -   `めしあがる` Sonkeigo (Godan).
+    -   <font size="5"><code><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がる</code></font> Sonkeigo (Godan).
 -   <font size="5"><code><ruby>住<rt>す</rt></ruby>む</code></font> Morar
     -   Geralmente usado na forma `ている`
 -   `こむ` Lotar/Ficar cheio
@@ -201,19 +201,20 @@
     -   Geralmente acompanha o `に`
     -   Para a versão transitiva, usa-se `に` + `する`
     -   Também é usado para indicar o valor de compras (o quanto resultou).
--   `いる` Precisar
+-   <font size="5"><code><ruby>要<rt>い</rt></ruby>る</code></font> Precisar
 -   <font size="5"><code><ruby>入<rt>はい</rt></ruby>る</code></font> Entrar/Matricular
--   <font size="5"><code><ruby>帰<rt>かえ</rt></ruby>る</code></font> Retornar
 -   <font size="5"><code><ruby>減<rt>へ</rt></ruby>る</code></font> Diminuir
 -   <font size="5"><code><ruby>喋<rt>しゃべ</rt></ruby>る</code></font> Conversar/Papear
 -   `かかる` Custar/Demorar/Levar
 -   <font size="5"><code><ruby>座<rt>すわ</rt>る</ruby></code></font> Sentar
 -   <font size="5"><code><ruby>帰<rt>かえ</rt>る</ruby></code></font> Voltar/Retornar (Casa, ponto de origem)
+-   <font size="5"><code><ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>る</code></font> Levar (pra casa)
+    -   Geralmente usado para refeições em restaurantes.
 -   `もどる` Voltar/Retornar
 -   <font size="5"><code><ruby>撮<rt>と</rt>る</ruby></code></font> Tirar foto/Gravar/Filmar
 -   <font size="5"><code><ruby>乗<rt>の</rt></ruby>る</code></font> Andar de/Embarcar/Pegar (transporte)
--   `はじまる` Começar (I)
--   `おわる` Terminar/Acabar
+-   <font size="5"><code><ruby>始<rt>はじ</rt></ruby>まる</code></font> Começar (I)
+-   <font size="5"><code><ruby>終<rt>お</rt></ruby>わる</code></font> Terminar/Acabar
 -   <font size="5"><code><ruby>別<rt>わか</rt></ruby>れる</code></font> Separar/Dividir
     -   Serve para relacionamentos
 -   `おどる` Dançar
@@ -244,13 +245,14 @@
 -   <font size="5"><code><ruby>通<rt>とお</rt></ruby>る</code></font> Passar/Atravessar
     -   <font size="5"><code>。。。のそばを<ruby>通<rt>とお</rt></ruby>る</code></font> Passar por
 -   <font size="5"><code><ruby>登<rt>のぼ</rt></ruby>る</code></font> Escalar/Subir
+-   <font size="5"><code><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がる</code></font> Alimentar-se
 
 ## 一段 - Ichidan
 
 -   `いる` Existir
     -   `いらっしゃる` Sonkeigo (Godan).
 -   <font size="5"><code><ruby>食<rt>た</rt></ruby>べる</code></font> Comer
-    -   `めしあがる` Sonkeigo (Godan).
+    -   <font size="5"><code><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がる</code></font> Sonkeigo (Godan).
 -   <font size="5"><code><ruby>見<rt>み</rt></ruby>る</code></font> Assistir/Olhar
 -   <font size="5"><code><ruby>見<rt>み</rt></ruby>つける</code></font> Achar/Encontrar
 -   <font size="5"><code><ruby>出<rt>で</rt>る</ruby></code></font> Sair (De algum lugar)
@@ -293,11 +295,11 @@
 -   `やってみる` Experimentar/Tentar
 -   `すぎる` Passar/Ir além
 -   <font size="5"><code><ruby>入<rt>い</rt>れる</ruby></code></font> Colocar/Marcar (compromissos)
--   `はじめる` Começar (T)
+-   <font size="5"><code><ruby>始<rt>はじ</rt></ruby>める</code></font> Começar (T)
 -   `しらべる` Examinar/Dar uma olhada
 -   `うける` Pegar/Receber/Passar por um evento
 -   <font size="5"><code><ruby>亡<rt>な</rt></ruby>くなる</code></font> Falecer
--   `あたためる` Esquentar/Aquecer
+-   <font size="5"><code><ruby>温<rt>あたた</rt></ruby>める</code></font> Esquentar/Aquecer
 -   <font size="5"><code><ruby>似<rt>に</rt></ruby>る</code></font> Parecer/Assemelhar
 -   `かける` Ligar/Chamar (ao telefone)
     -   Tem uma nuance de iniciar a chamada, não necessariamente falar ao telefone.
@@ -305,6 +307,8 @@
 -   <font size="5"><code><ruby>生<rt>う</rt></ruby>まれる</code></font> Nascer
 -   <font size="5"><code><ruby>勤<rt>つと</rt></ruby>める</code></font> Trabalhar/Ser empregado
     -   Geralmente se usa mais para dizer onde ou para quem se trabalha.
+-   <font size="5"><code><ruby>覚<rt>おぼ</rt></ruby>える</code></font> Lembrar/Memorizar
+    -   Geralmente usado na forma `ている`
 
 ## Verbos する
 

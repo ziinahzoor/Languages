@@ -13,8 +13,11 @@
 -   `かっこいい` Legal
     -   Adjetivo `いい`
 -   `ダサい` Brega/Sem estilo
--   `やさしい` Gentil, fácil, agradável
+-   `やさしい` Gentil, agradável
 -   `しんせつ` Gentil, generoso
+-   <font size="5"><code><ruby>易<rt>やさ</rt></ruby>しい</code></font> `やさしい` Fácil
+-   <font size="5"><code><ruby>難<rt>むずか</rt></ruby>しい</code></font> Difícil/Complexo
+    -   Se refere à dificuldade intrínseca de algo.
 -   <font size="5"><code><ruby>悪<rt>わる</rt></ruby>い</code></font> Ruim
 -   `うすい` Magro
 -   `おいしい` Gostoso
@@ -63,8 +66,6 @@
 -   <font size="5"><code><ruby>塩<rt>しょ</rt></ruby>っぱい</code></font> Salgado
 -   `すっぱい` Azedo
 -   `からい` Picante
--   `むずかしい` Difícil/Complexo
-    -   Se refere à dificuldade intrínseca de algo.
 -   `かたじけない` Agradecido
 -   `こわい` Assustador
 -   <font size="5"><code><ruby>少<rt>すく</rt>ない</ruby></code></font> Pouco(s)/Insuficiente

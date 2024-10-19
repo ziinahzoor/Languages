@@ -151,6 +151,8 @@
 -   Utiliza o adjetivo de negação `ない`.
 -   `ない` é a negação de `ある`.
 -   Transforma verbos em sua forma negativa.
+-   A forma negativa + a partícula interrogativa `か` ou um tom interrogativo geralmente é usada para fazer um convite ou sugestão, como "Você gostaria de...?" ou "Que tal se...?".
+    -   Também vale para a forma educada negativa.
 -   Exceções:
     -   `〜ます` → `〜ません`
 
@@ -200,7 +202,7 @@
 -   É um sufixo intransitivo, portanto, se o verbo que o acompanha for intransitivo, pode usar ambas a partículas `が` e `を`.
 -   Só serve para se referir a si. Para se referir ao que outra pessoa quer, usar `たがる`.
 -   Pode usar a cópula para o discurso honorífico.
--   Para ser ainda mais educado, pode-se usar a forma de desejo mais `のですが・んですが` para dizer algo como "Eu gostaria de...".
+-   Para ser ainda mais educado, pode-se usar a forma de desejo + `のですが・んですが` para dizer algo como "Eu gostaria de...".
 
 <h3 id="var_aparente">そう<ruby>形<rt>けい</rt></ruby> - Forma aparente (そう)</h3>
 
@@ -427,6 +429,12 @@
 <h4 id="var_solicitativa">Forma て+いいですか</h4>
 
 -   Forma de solicitação de permissão: Pede-se permissão para realizar alguma ação ou pergunta-se se ficará tudo bem ao realizá-la.
+-   Pode-se responder utilizando a forma afirmativa ou negativa da frase.
+-   Em sonkeigo, usa-se `て` + `よろしい`.
+
+<h4 id="var_solicitativa">Forma ても+いいですか</h4>
+
+-   Funciona como a forma de solicitação de permissão, porém tem um caráter mais optativo: Pede-se permissão para determinada ação, porém ela não necessariamente será realizada, ou seja, pede-se permissão para a POSSIBILIDADE de realizar a ação.
 
 <h4 id="var_benefactiva">Forma て+Verbo de transferência - Favores</h4>
 

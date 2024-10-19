@@ -85,7 +85,7 @@
 -   <font size="5"><code><ruby>窓<rt>まど</rt></ruby></code></font> Janela
 -   `インク` Tinta
 -   `サイン` Assinatura
--   `じしょ` Dicionário
+-   <font size="5"><code><ruby>辞<rt>じ</rt>書<rt>しょ</rt></ruby></code></font> Dicionário
 -   <font size="5"><code><ruby>写<rt>しゃ</rt>真<rt>しん</rt></ruby></code></font> Foto
 -   `グラス` Vidro
 -   <font size="5"><code><ruby>地<rt>ち</rt>図<rt>ず</rt></ruby></code></font> Mapa
@@ -255,6 +255,8 @@
 -   <font size="5"><code><ruby>結<rt>けっ</rt>婚<rt>こん</rt></ruby></code></font> Casamento
 -   <font size="5"><code><ruby>離<rt>り</rt>婚<rt>こん</rt></ruby></code></font> Divórcio
 -   <font size="5"><code><ruby>声<rt>こえ</rt></ruby></code></font> Voz/Som de um animal
+-   <font size="5"><code><ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby></code></font> Palavra
+-   <font size="5"><code><ruby>意<rt>い</rt>味<rt>み</rt></ruby></code></font> Significado
 
 ### Condições
 
@@ -302,7 +304,6 @@
 -   `にゅうじょうりょう` Taxa de entrada
 -   `メニュー` Cardápio
 -   `レシート` Recibo
--   `レジぶくる` Sacola
 -   `グッズ` Produto
 -   `やたい` Barraca de comida
 -   `ポストカード` Cartão postal
@@ -310,6 +311,8 @@
 -   `クレジットカード` Cartão de crédito
 -   `プレゼント` Presente
 -   `はんがく` Metade do preço
+-   <font size="5"><code><ruby>袋<rt>ふくろ</rt></ruby></code></font> Saco/Sacola
+    -   <font size="5"><code>レジ<ruby>袋<rt>ぶくろ</rt></ruby></code></font> Sacola de mercado
 
 ## Viagem e Transporte
 
@@ -415,14 +418,14 @@
 ### <ruby>学<rt>がっ</rt>校<rt>こう</rt></ruby> - Escola
 
 -   `レッスン` Lição
--   `しゅくだい` Tarefa (Escolar)
--   `じゅぎょう` Aula
+-   <font size="5"><code><ruby>宿<rt>しゅ</rt>題<rt>くだい</rt></ruby></code></font> Tarefa (Escolar)
+-   <font size="5"><code><ruby>授<rt>じゅ</rt>業<rt>ぎょう</rt></ruby></code></font> Aula
 -   <font size="5"><code><ruby>勉<rt>べん</rt>強<rt>きょう</rt></ruby></code></font> Estudo
 -   `せんこう` Curso de Graduação (Major)
 -   `そつぎょう` Graduação
 -   `りゅうがく` Intercâmbio
 -   `せいせき` Notas
--   `きょうかしょ` Livro-texto
+-   <font size="5"><code><ruby>教<rt>きょう</rt>科<rt>か</rt>書<rt>しょ</rt></ruby></code></font> Livro-texto
 
 #### Áreas de Estudo
 

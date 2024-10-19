@@ -32,7 +32,7 @@
 -   `アイスクリーム` Sorvete
 -   `パスタ` Massa
 -   `デザート` Sobremesa
--   `おかし` Doce/Lanche
+-   <font size="5"><code>お<ruby>菓<rt>か</rt>子<rt>し</rt></ruby></code></font> Doce/Lanche
 -   `クッキー` Cookie
 -   `ドーナツ` Donut
 -   `パイ` Torta
@@ -178,6 +178,8 @@
     -   Arroz servido com fatias finas de carne e cebola em cima. Geralmente servido com algum caldo ou molho, como o dashi.
 -   `てんぷら` Tempura
     -   Frutos do mar e vegetais levemente batidos e bem-fritos.
+-   <font size="5"><code><ruby>唐揚<rt>からあ</rt></ruby>げ</code></font> Karaage
+    -   Comida (geralmente frango ou outras carnes) envolta em farinha com fécula de batata (ou milho) e então frita.
 -   `おにぎり` Oniguiri/Bolinho de arroz
     -   Arroz branco em formato triangular com a base envolta por nori.
 -   `もち` Mochi/Bolinho de arroz

@@ -47,6 +47,8 @@
 -   `ください` Por favor (Para objetos e ações)
 -   `おねがいします` Por favor (Para serviços)
 -   `さあ` Vamos/Bora
+-   <font size="5"><code>ちょっと<ruby>待<rt>ま</rt></ruby>って</code></font> Espere um pouco
+    -   <font size="5"><code><ruby>少<rt>しょう</rt>々<rt>しょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちください</code></font> Espere um pouco por favor
 
 ## Arrependimento
 

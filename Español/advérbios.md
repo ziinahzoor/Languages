@@ -44,6 +44,7 @@
 -   `Jamás` Jamais
 -   `Tampoco` Tampouco/Nem
 -   `A lo mejor` Talvez
+-   `Tal vez` Talvez
 -   `Donde` Onde
 -   `Excepto` Exceto
 -   `Así` Assim
@@ -54,6 +55,10 @@
 -   `Mientras` Enquanto
 -   `Alrededor` Ao redor
 -   `Recién` Recentemente
+-   `Etcétera`
+-   `En realidad` Na verdade
+-   `De todas formas` De toda forma
+    -   `De todas maneras` De toda maneira
 
 ## De modo
 
@@ -70,3 +75,6 @@
 -   `Gravemente`
 -   `Claramente`
 -   `Completamente`
+-   `Possiblemente` Possivelmente
+-   `Finalmente`
+-   `Incluso` Até/Mesmo

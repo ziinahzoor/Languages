@@ -110,6 +110,8 @@
 -   `Important` Importante
 -   `Dangereux` Perigoso
 -   `Marié` Casado
+-   `Calme` Calmo
+-   `Inquiet` Preocupado
 -   `Stressé` Estressado
 -   `Tôt` Adiantado
 -   `Propre` Limpo
@@ -124,7 +126,6 @@
 -   `Riche` Rico
 -   `Droit` Direito
 -   `Gauche` Esquerdo
--   `Stressé` Estressado
 -   `Mal`
 -   `Malade` Doente
 -   `Même` Mesmo
@@ -132,7 +133,6 @@
 -   `Sûr` Certo (de estar certo)
 -   `Honnête` Honesto
 -   `Entier` Inteiro
--   `Inquiet` Preocupado
 -   `Suivant` Seguinte/Próximo
 -   `Prochain` Próximo
 -   `Proche` Próximo (Perto)
@@ -177,6 +177,8 @@
 -   `Sucré` Doce/Açucarado
 -   `Vegan` Vegano
 -   `Vide` Vazio
+-   `Complet` Completo/Cheio
+    -   Para "cheio" indica que atingiu a capacidade.
 -   `Plein` Cheio
 -   `Bondé` Lotado
 -   `Frais` Fresco
@@ -260,3 +262,4 @@
 -   `Formidable` Formidável
 -   `Chauve` Calvo/Careca
 -   `Créatif` Criativo
+-   `Direct` Direto

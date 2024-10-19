@@ -3,6 +3,7 @@
 -   `Hora`
 -   `Media` Meia (Hora)
 -   `Minuto`
+-   `Segundo`
 -   `Día` Dia
 -   `Mañana` Manhã/Amanhã
 -   `Tarde`
@@ -23,6 +24,7 @@
 -   `Mediodía` Meio-dia
 -   `Medianoche` Meia-noite
 -   `Horario` Horário
+-   `Futuro`
 
 ## La Semaña - Semana
 

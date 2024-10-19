@@ -13,6 +13,7 @@
 -   `Apprendre` Aprender
     -   `S'apprendre` Ensinar
 -   `Comprendre` Entender
+-   `Rendre` Deixar (causar)
 -   `Boire` Beber
 -   `Lire` Ler
 -   `Écrire` Escrever
@@ -26,6 +27,7 @@
     -   `Faire les bagages` Fazer as malas
     -   `Faire la queue` Fazer fila/Esperar na fila
     -   `Se faire mal` Machucar-se
+-   `Défaire` Desfazer
 -   `Attendre` Esperar
 -   `Dire` Dizer
 -   `Mettre` Colocar
@@ -250,6 +252,15 @@
 -   `Verrouiller` Trancar
 -   `Bouger` Mover
 -   `Raconter` Contar
+-   `S'enregistrer` Registrar-se/Fazer check-in
+-   `Confirmer` Confirmar
+-   `Décoller` Decolar
+-   `Attacher` Prender (cintos de segurança, etc)
+-   `Retarder` Atrasar
+-   `Contrôler` Revisar/Inspecionar
+-   `Durer` Durar
+-   `Tricoter` Tricotar
+-   `Adopter` Adotar
 
 ## -ir Verbes
 
@@ -302,6 +313,7 @@
 -   `Découvrir` Descobrir
 -   `Réfléchir` Refletir/Pensar
 -   `Se réunir` Reunir-se
+-   `Aterrir` Aterrissar
 
 ## Les Verbes Défectueux - Verbos Defectivos
 

@@ -19,6 +19,7 @@
 -   `Océan` Oceano
 -   `Colline` Colina
 -   `Vent` Vento
+-   `Rose` Rosa
 
 ### Materiais
 
@@ -161,6 +162,7 @@
 -   `Courrier` Correio
 -   `Calendrier` Calendário
 -   `Pelle` Pá
+-   `Bouquet` Buquê
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -215,6 +217,8 @@
 -   `Prix` Preço/Prêmio
 -   `Recette` Receita
 -   `Voyage` Viagem 🚹
+-   `Séjour` Estadia 🚹
+-   `Visite` Visita
 -   `Problème` Problema
 -   `Choix` Escolha
 -   `Santé` Saúde
@@ -325,6 +329,8 @@
 -   `Loyer` Aluguel
 -   `Culture` Cultura
 -   `Accent` Sotaque
+-   `Mensonge` Mentira 🚹
+-   `Blague` Piada
 
 ### Sentimentos e emoções
 
@@ -337,6 +343,9 @@
 -   `Douleur` Dor
 -   `Amour` Amor
     -   `Grand amour` Amor verdadeiro
+-   `Départ` Partida 🚹
+-   `Arrivée` Chegada
+-   `Annonce` Anúncio 🚺
 
 ### Unidades de medida
 
@@ -450,6 +459,7 @@
 -   `Bon de réduction` Cupom de desconto
 -   `Caisse` Caixa
 -   `Solde` Promoção
+-   `Souvenir` Lembrancinha
 
 ### L'Étude - Estudo 🚺
 
@@ -514,5 +524,6 @@
 -   `Guitare` Guitarra
 -   `Violon` Violino
 -   `Batterie` Bateria
+-   `Trompette` Trompete 🚺
 
 ## Outros

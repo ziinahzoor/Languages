@@ -10,11 +10,13 @@
 -   `Διαβάζω` Ler
 -   `Λέω` Dizer
 -   `Μένω` Morar
+-   `Δίνω` Dar
 
 ## Verbos -άω (-ώ)
 
 -   `Μιλάω` Falar
 -   `Φοράω` Vestir
+-   `Αγαπάω` Amar
 
 ## Verbos -ώ
 

@@ -32,6 +32,7 @@
 
 -   `Reloj` Relógio
 -   `Brazalete` Bracelete
+-   `Guante` Luva
 
 ## Las Piernas - Pernas
 
@@ -41,6 +42,7 @@
 
 ## Los Pies - Pés
 
+-   `Media` Meia
 -   `Zapato` Sapato
 -   `Botas`
 -   `Calcetín` Meia 🚹

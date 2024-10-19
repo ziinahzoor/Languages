@@ -70,6 +70,7 @@
 -   `Periódico` Jornal
 -   `Ventana` Janela
 -   `Estantería` Estante
+-   `Estante` Prateleira 🚹
 -   `Cama`
 -   `Nevera` Geladeira
     -   `Refrigerador`
@@ -136,11 +137,13 @@
 -   `Armario` Guarda-roupas
 -   `Mapa`
 -   `Guía` Guia
--   `Estante` 🚹
 -   `Formulario` Formulário
 -   `Sobre` Envelope
 -   `Manta` Cobertor 🚺
 -   `Escalera` Escada
+-   `Basurero` Lixeira 🚹
+-   `Tijera` Tesoura
+-   `Borrador` Borracha 🚹
 
 ## Abstratos
 
@@ -246,7 +249,15 @@
 -   `Señal` Sinal 🚺
 -   `Sonido` Som
 -   `Meta`
+-   `Objetivo`
 -   `Retraso` Atraso
+-   `Diploma`
+-   `Título` Diploma
+-   `Suerte` Sorte
+-   `Error` Erro
+-   `Ortografía` Ortografia
+-   `Vocabulario` Vocabulário
+-   `Espacio` Espaço
 
 ### Medidas
 
@@ -254,6 +265,10 @@
 -   `Kilómetro` Quilômetro
 -   `Kilogramo` Quilograma 🚹
     -   `Kilo` Quilo
+
+### Formas abstratas
+
+-   `Cuadrado` Quadrado
 
 ## Transporte
 
@@ -285,7 +300,7 @@
 -   `Ocupación` Ocupação
 -   `Ejercicio` Exercício
 -   `Tarea` Tarefa
--   `Curso`
+-   `Curso` Curso/Série escolar
 -   `Compra`
 -   `Lección` Lição
 -   `Viaje` Viagem
@@ -311,6 +326,7 @@
 -   `Web` Internet
 -   `Estudio` Estudo
 -   `Turismo`
+-   `Competencia` Competição/Torneio 🚺
 
 ### Compras
 
@@ -344,6 +360,7 @@
 -   `Ciencia` Ciência
 -   `Física`
 -   `Biología` Biologia
+-   `Matemáticas` Matemática
 
 ### Esporte
 

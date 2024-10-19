@@ -7,7 +7,7 @@
 > Os conceitos musicais são fortemente entrelaçados, dependendo um do outro para total compreensão. Portanto pode ser necessário fugir da ordem apresentada para o entendimento de tais.
 > Todos os conceitos utilizados aqui se referem somente à música ocidental moderna.
 
-**A música é dividida em [_ritmo_](ritmo) (Rhythm), [_melodia_](melodia) (Melody) e [_harmonia_](harmonia) (Harmony).**
+**A música é dividida em [_ritmo_](ritmo) (Rhythm), [_melodia_](melodia) (Melody) e [_harmonia_](harmonia) (Harmony). A interação entre as três é chamada _textura_ (Texture)**
 
 > [!TIP]
 > A melodia é o que carrega a música, o seu desenrolar (o que se assovia). A harmonia é o suporte de fundo, os sons que acompanham e enriquecem a melodia, criando profundidade e contexto.
@@ -300,12 +300,15 @@
 
 -   Intervalos funcionam de maneira circular: Com as 12 notas, existem 13 intervalos básicos entre notas adjacentes.
 -   Os intervalos são medidos em:
-    -   Semitom (Semitone/Whole step): intervalo entre duas notas adjacentes. Ex.: `A` e `A♯`, `A♯` e `B`, `B` e `C`, etc.
+    -   Semitom (Semitone/Half step): intervalo entre duas notas adjacentes. Ex.: `A` e `A♯`, `A♯` e `B`, `B` e `C`, etc.
         -   É classificado como uma segunda menor.
         -   É o menor intervalo possível.
-    -   Tom (Tone/Half step): intervalo que consiste de dois semitons. Ex.: `A` e `B`, `B` e `C♯`, `C♯` e `D♯`.
+    -   Tom (Tone/Whole step): intervalo que consiste de dois semitons. Ex.: `A` e `B`, `B` e `C♯`, `C♯` e `D♯`.
         -   É classificado como uma segunda maior.
     -   Oitava (Octave): intervalo que consiste de doze semitons ou oito notas naturais.
+
+> [!NOTE]
+> Em inglês, `step` também pode significar o intervalo entre uma linha e um espaço adjacentes na pauta. Neste conceito, o `step` não é necessariamente a mesma coisa de um semitom.
 
 ### Classificação
 
@@ -421,8 +424,10 @@
 
 -   _Consoante_ (Consonant): intervalo em que os sons são estáveis e harmonioso, ou seja, combinam, parecem ser o mesmo. Ex.: oitavas.
     -   Os intervalos perfeitos costumam soar mais consoantes.
+    -   Na harmonia costumam ser considerados consoantes os uníssonos, terças, quintas, sextas e oitavas.
 -   _Dissonante_ (Dissonant): intervalo em que os sons são distintos e não parecem combinar. Ex.: semitons.
     -   Os intervalos imperfeitos costumam soar mais dissonantes.
+    -   Na harmonia costumam ser consideradas dissonantes as segundas, quartas, sétimas e o trítono.
 
 ### Inversões
 

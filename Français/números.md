@@ -31,15 +31,18 @@
 -   `Quatorze`
 -   `Quinze`
 -   `Vingt` Vinte
+    -   `Vingtaine` Vintena
 -   `Trente` Trinta
 -   `Quarante` Quarenta
 -   `Cinquante` Cinquenta
+    -   `Cinquantaine` Cinquentena
 -   `Soixante` Sessenta
 -   `Soixante-dix` Setenta
 -   `Quatre-vingts` Oitenta
     -   `vingts` só é pluralizado em oitenta.
 -   `Quatre-vingt-dix` Noventa
 -   `Cent` Cem
+    -   `Centaine` Centena
 -   `Mille` Mil
     -   `Millier` Milhar
 -   `Million` Milhão

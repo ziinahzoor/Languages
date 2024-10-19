@@ -1,12 +1,6 @@
-♯ Escalas
-, E
-, A
-, D
-,
+# Escalas
+
 **Uma _escala_ (Scale) é uma sequência de notas ordenadas dentro de uma oitava, determinadas pelo intervalo entre elas.**
-G
-, Em, Bm, Fm., C
-.
 
 -   É dada por uma nota inicial que dá o nome da escala, e as outras notas que são obtidas por intervalos definidos (como uma fórmula).
 -   Nas "fórmulas" utilizadas, "T" é um tom, "s" um semitom e "Ts" um tom e meio.
@@ -28,6 +22,9 @@ G
 -   Ex.: Escalas _maior_ e _menor_ e os outros modos.
 -   A oitava nota na escala é sempre a primeira nota em uma oitava acima.
 -   O grau da nota na escala indica sua posição na ordem. O grau é denotado pelo número da posição com um acento circunflexo.
+-   Na pauta, se uma nota está em uma linha e outra em um espaço adjacente, dizemos que os graus são adjacentes.
+    -   Se dois graus são adjacentes eles são ditos _conjuntos_. Neste documento, chamaremos a distância entre dois graus conjuntos de _passo_ (Step). Um passo também pode ser entendido como um intervalo segundo genérico.
+    -   Se dois graus não são adjacentes, ou seja, possuem pelo menos uma linha ou espaço de distância, eles são ditos _disjuntos_. Neste documento, chamaremos a distância entre dois graus disjuntos de _salto_ (Leap/Skip). Um salto também pode ser entendido como um intervalo terceiro genérico ou maior.
 
 <table>
 	<tr>
@@ -68,6 +65,9 @@ G
 > Em uma armadura de clave com sustenidos, a nota sustenida mais à direita é a sensível/subtônica da escala que dá a [tonalidade](#clavetonalidade) da música.
 > Em uma armadura de clave com bemóis, a penúltima nota bemol mais à direita é a tônica da escala que dá a tonalidade da música.
 
+> [!NOTE]
+> Ao utilizar _diatônico_ como adjetivo, nos referimos à notas que fazem parte de determinada escala. Ex.: G é uma nota _diatônica_ na escala de C, mas G♯ é uma nota _não-diatônica_ na mesma escala.
+
 ### Maior ou Modo Jônico/Jônio (Major scale/Ionian mode)
 
 **T-T-s-T-T-T-s**
@@ -76,7 +76,7 @@ G
 
 ### Menor (Minor scale)
 
-#### Natural ou Modo Eólico/Eólio (Minor natural scale/Aeolian mode)
+#### Natural, Diatônica ou Modo Eólico/Eólio (Minor natural scale/Aeolian mode)
 
 **T-s-T-T-s-T-T**
 
@@ -86,14 +86,16 @@ G
 
 **T-s-T-T-s-T-Ts**
 
--   Consiste em aumentar a sétima nota da escala natural em meio tom.
+-   Consiste em aumentar o sétimo grau da escala natural em meio tom.
+-   Aumentando o sétimo grau, ele tem mais tendência a se resolver na tônica.
 
 #### Melódica
 
 **T-s-T-T-s-Ts-Ts**
 
--   Consiste em aumentar a sexta e sétima notas da escala natural em meio tom.
--   Geralmente usada só ao ascender.
+-   Consiste em aumentar o sexto e sétimo graus da escala natural em meio tom.
+-   O sétimo grau é aumentado pelo mesmo motivo da menor harmônica. O sexto grau é aumentado para evitar uma segunda aumentada com o sétimo grau, suavizando o movimento melódico.
+-   Geralmente usada só ao ascender, sendo a menor natural utilizada ao descender.
 
 ### Tetracordes
 
