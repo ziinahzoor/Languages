@@ -222,10 +222,12 @@
 -   `Repetir`
 -   `Ocurrir` Acontecer/Ocorrer
 -   `Decidir`
--   `Vestirse` Vestir-se
+-   `Vestir` Vestir
+    -   `Vestirse` Vestir-se
 -   `Reírse` Rir
 -   `Compartir` Compartilhar
 -   `Añadir` Acrescentar/Adicionar
 -   `Subir`
     -   `Subirse` Subir/Entrar (em algum veículo)
 -   `Imprimir`
+-   `Conducir` Dirigir

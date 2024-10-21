@@ -8,8 +8,15 @@
 
 **Na música, uma _voz_ (Voice) corresponde a uma linha melódica na pauta, ou seja, uma melodia.**
 
+### Textura
+
+**A _textura_ (Textura) é o padrão sonoro ou camada criada pela interação entre as vozes musicais.**
+
 -   A textura que utiliza apenas uma voz é dita _monofonia_ (Monophony).
+-   A textura que utiliza apenas duas vozes quase iguais, sendo uma mais adornada que a outra, é dita _heterofonia_ (Heterophony).
+-   A textura que utiliza apenas uma voz melódica e outras complementando como harmonia é dita _homofonia_ (Homophony).
 -   A textura que utiliza mais de uma voz, ou seja, melodias independentes, é dita _polifonia_ (Polyphony).
+    -   A mesma melodia sendo tocada em duas vozes, porém iniciando em momentos diferentes também consiste uma polifonia.
 -   Note que a polifonia e a harmonia não se referem ao mesmo conceito: a harmonia complementa uma melodia sem ser independente dela.
 
 ## Resolução

@@ -375,11 +375,14 @@
 -   `Golf` Golfe
 -   `Ciclismo`
 -   `Rugby` Rúgbi
+-   `Snowboarding`
 
 ## Música
 
 -   `Canción` Música
 -   `Pop`
+-   `Rock`
+-   `Rap`
 
 ### Instrumentos
 

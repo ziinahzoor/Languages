@@ -46,4 +46,14 @@
 
 -   `Lōgor` Barco 🌊
 
+## Equipamento
+
+-   `Korze` Espada longa 🌙
+-   `Azandy` Espada curta 🌙
+-   `Egros` Lâmina ☀️
+-   `Egry` Faca 🌙
+-   `Ohīlvos` Adaga ☀️
+-   `Qilōny` Chicote 🌙
+-   `Somby` Escudo 🌙
+
 ## Atividades

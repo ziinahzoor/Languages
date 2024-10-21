@@ -14,3 +14,4 @@
 -   `Rosa`
     -   `Rosado`
 -   `Naranja` Laranja
+-   `Dorado` Dourado

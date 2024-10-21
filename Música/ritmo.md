@@ -18,7 +18,15 @@
 
 ### Divisão da batida
 
-**A _divisão da batida_ é um "espaço de tempo" dentro do [compasso](#compasso), ou seja, um valor ou duração de nota. Em um compasso podem existir múltiplas divisões, e teoricamente, todas devem possui a mesma duração.**
+**A _divisão da batida_ é um "espaço de tempo" dentro do [compasso](#compasso), ou seja, um valor ou duração de nota, ou uma pausa. Em um compasso podem existir múltiplas divisões, e teoricamente, todas devem possui a mesma duração.**
+
+### Síncope
+
+**Uma _síncope_ ou _sincopa_ (Syncopation) é uma ênfase ou acentuação nos tempos fracos ou entre os tempos fortes (fora deles), causando certa surpresa na expectativa das batidas.**
+
+-   Pode ser vista também como pausas ou elementos semelhantes nos tempos fortes da música.
+-   Ao carregar um tempo fraco a um tempo forte é chamada _suspensão_ (Suspension).
+-   Ao antecipar uma batida forte, deixando-a soar por um tempo, é chamada _antecipação_ (Antecipation).
 
 ## Métrica
 
@@ -50,7 +58,7 @@
 > Surge aí a necessidade de usar o bequadro (além das armaduras de clave), que serve para específicar que as próximas notas devem ser executadas como naturais.
 > Pelo compasso encerrar a leitura de um acidente, geralmente se usam _acidentes de cortesia_ (Courtesy accidentals) no compasso seguinte para lembrar de que a nota não deve ser lida como no compasso anterior. Os acidentes de cortesia são denotados por parênteses em volta do acidente.
 
-**A anacruse ou anacrusa (anacrusis) é a sequência de notas que vem antes do primeiro tempo forte de uma música. Não é considerada na contagem de compassos.**
+**A anacruse ou anacrusa (anacrusis/pick-up) é a sequência de notas que vem antes do primeiro tempo forte de uma música. Não é considerada na contagem de compassos.**
 
 ### Indicação de compasso
 
@@ -61,6 +69,7 @@
 
 -   O número de cima define a quantidade de divisões da batida em cada compasso.
 -   O número de baixo define a duração de cada divisão da batida. Ex.: 4 indica que cada divisão da batida tem a duração de uma semínima (uma quarta nota), 8 uma colcheia (uma oitava nota), etc.
+-   A duração de cada batida, quando não especificada, é de uma semínima.
 
 <img src="../assets/images/batida.svg" alt="" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;
 "/>
@@ -85,6 +94,7 @@
 > [!TIP]
 > Existem diversas indicações semelhantes, como por exemplo 6/8 e 3/4. Para diferenciar, note que 6/8 pode ser dividido em dois tempos com três colcheias cada (binário composto) ou três tempos com duas colcheias cada (ternário simples), mas no último caso, cada par de colcheias "forma" uma semínima, então teríamos uma indicação 3/4. Considerando isto, a outra alternativa com três colcheias por tempo é a única possível para 6/8, fazendo com que a métrica seja composta.
 > Note que 3/4 tem uma sensação de valsa, enquanto que 6/8 parece o balançar de um pêndulo.
+> Quando o ritmo utiliza dois padrões complementares dessa forma, ele é dito _polirritmo_ (Polyrhythm). Um polirritmo com proporção 3:2 ou 2:3 (como 3/4 e 6/8 juntos) é chamada _hemíola_ (Hemiola).
 
 ## Quiálteras
 

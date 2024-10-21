@@ -33,6 +33,7 @@
 -   `Reloj` Relógio
 -   `Brazalete` Bracelete
 -   `Guante` Luva
+-   `Anillo` Anel
 
 ## Las Piernas - Pernas
 

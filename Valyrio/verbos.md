@@ -34,6 +34,7 @@
 -   `Umāzigon` Vir/Chegar
     -   Complemento sempre está no dativo.
 -   `Zoklākogon` Atrair/Encantar
+-   `Mijegon` Faltar/Não ter
 
 ## Verbos -agon
 
@@ -72,3 +73,12 @@
 -   `Iōragon` Ficar
 -   `Umbagon` Esperar/Aguardar
 -   `Baelagon` Ajudar
+-   `Kisikagon` Alimentar
+    -   Acompanha o que é alimentado no instrumental.
+-   `Enkagon` Dever
+    -   Acompanha o que é devido no instrumental.
+-   `Brōzagon` Nomear/Chamar
+    -   Acompanha o que é nomeado no instrumental.
+-   `Jomīsagon` Vestir/Usar
+    -   Acompanha o que é vestido no instrumental.
+    -   Também pode ser usado pra equipamento.

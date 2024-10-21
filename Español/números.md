@@ -49,6 +49,10 @@
 -   `Segundo`
 -   `Tercero` Terceiro
 
+## Adjetivos
+
+-   `Doble` Duplo
+
 ## Relacionado
 
 -   `Cuarto` Um quarto

@@ -61,6 +61,9 @@
 
 **Tons não-harmônicos _rítmicos_ são aqueles que modificam as posições horizontais das notas nas linhas melódicas, atrasando ou adiantando-as.**
 
+> [!IMPORTANT]
+> Os conceitos aqui são as síncopes do ponto de vista harmônico. Para o ponto de vista rítmico, veja em [ritmo](./ritmo.md).
+
 -   _Suspensão_ (Suspension): atrasa o movimento de uma voz até a harmonia mudar. É um evento em três partes:
     1.  _Preparação_ (Preparation): nota tocada no acorde anterior.
     2.  _Suspensão_ (Suspension): a mesma nota é mantida sobre o outro acorde.

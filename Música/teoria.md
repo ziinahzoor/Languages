@@ -1,18 +1,24 @@
 # Teoria musical básica
 
-> [!NOTE]
-> A _partitura_ (Sheet) é a representação visual da música, geralmente composta pela pauta, notas e outros elementos.
-
 > [!IMPORTANT]
 > Os conceitos musicais são fortemente entrelaçados, dependendo um do outro para total compreensão. Portanto pode ser necessário fugir da ordem apresentada para o entendimento de tais.
 > Todos os conceitos utilizados aqui se referem somente à música ocidental moderna.
+> O conceito _obra musical_ (Piece) se refere a qualquer arranjo de som utilizando vocais e/ou instrumentos, enquanto uma _canção_ (Song) é uma obra musical que necessariamente possui vocais. Aqui, ambos os termos serão generalizados para _música_, exceto quando explicitado.
 
-**A música é dividida em [_ritmo_](ritmo) (Rhythm), [_melodia_](melodia) (Melody) e [_harmonia_](harmonia) (Harmony). A interação entre as três é chamada _textura_ (Texture)**
+> [!NOTE]
+> A _partitura_ (Sheet) é a representação visual da música, geralmente composta pela pauta, notas e outros elementos.
+
+**_Música_ (Music) é o arranjo dos sons de maneira a formar conteúdo expressivo. É dividida fundamentalmente em [_ritmo_](ritmo) (Rhythm), [_melodia_](melodia) (Melody) e [_harmonia_](harmonia) (Harmony). A interação entre as três é chamada _textura_ (Texture).**
 
 > [!TIP]
 > A melodia é o que carrega a música, o seu desenrolar (o que se assovia). A harmonia é o suporte de fundo, os sons que acompanham e enriquecem a melodia, criando profundidade e contexto.
 
 <img src="../assets/images/melody-harmony.png" alt="Diferença entre melodia e harmonia" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;"/>
+
+-   A música também pode ser dividida em:
+    -   _Timbre_ (Timbre): características "concretas" do som. Depende do material do instrumento e a forma pela qual se interage com ele.
+    -   _Dinâmica_ (Dynamics): diz respeito à intensidade ou força com que um conjunto de notas deve ser executado.
+    -   _Forma_ (Form): é o padrão no qual os agrupamentos musicais são organizados e como eles se repetem.
 
 ## Frequência
 
@@ -144,7 +150,7 @@
 
 -   A notação científica de alturas é uma forma de identificar tanto a classe quanto a oitava de uma altura específica.
 -   Consiste em utilizar uma letra para a classe (conforme o padrão já utilizado), e um número para referenciar a oitava.
--   A escala científica parte da frequência 16.3516Hz (nomeada C0), se extendendo indefinidamente.
+-   A escala científica parte da frequência 16.3516Hz (nomeada C0), se estendendo indefinidamente.
 -   Em notação científica, a A440 é chamada `A4`, e o C Central é chamado `C4`.
 
 > [!TIP]
@@ -167,6 +173,10 @@
 -   Notas podem estar em faixas acima ou abaixo da pauta, e portanto podem ser colocadas em _linhas suplementares_ (Ledger lines).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Music-ledger.svg" alt="Linhas suplementares" style="width:10rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;"/>
+
+-   O fim de uma música é indicado com uma _barra final_ (End bar line), duas barras paralelas onde a direita é mais grossa:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Music-endbar.svg" alt="Barra final" style="width:10rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;"/>
 
 ## Clave
 
@@ -279,11 +289,10 @@
 <img src="../assets/images/notas-ligadas.svg" alt="Pauta Musical" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;"/>
 
 -   Geralmente são utilizadas pra manter uma nota soando entre um compasso e outro.
--   A ligadura (tie) não deve ser confundida com a ligadura de expressão (slur). A primeira é sempre executada na mesma altura (pitch).
+-   A ligadura (tie) não deve ser confundida com a ligadura de expressão (slur). A primeira é sempre executada na mesma altura.
 
-### Dinâmica
-
-**A _dinâmica_ (Dynamics) diz respeito à intensidade ou força com que um conjunto de notas deve ser executado.**
+> [!TIP]
+> Veja que as notas relacionadas por ligaduras quase sempre terão durações diferentes, pois se tivessem a mesma duração a ligadura poderia ser escrita como uma única nota de maior duração. A exceção mais comum é a extensão da nota para outro compasso.
 
 ## Pausas
 

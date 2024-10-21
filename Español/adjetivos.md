@@ -127,7 +127,7 @@
 -   `Pálido`
 -   `Semanal`
 -   `Correcto` Correto
--   `Fuerte` Forte
+-   `Fuerte` Forte/Alto (intensidade)
 -   `Rápido`
 -   `Útil`
 -   `Pesado`
@@ -179,3 +179,6 @@
 -   `Suficiente`
     -   Geralmente vem antes do substantivo
 -   `Básico`
+-   `Verdadero` Verdadeiro
+-   `Atractivo` Atraente
+-   `Real`

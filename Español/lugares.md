@@ -138,3 +138,4 @@
 -   `Salida` Saída
 -   `Andén` Plataforma 🚹
 -   `Cuadra` Quadra
+-   `Vestíbulo` Saguão
