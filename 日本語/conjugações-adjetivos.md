@@ -8,7 +8,7 @@
 
 ## <ruby>形<rt>けい</rt>容<rt>よう</rt>詞<rt>し</rt></ruby> - Adjetivos `い`
 
-**Também conhecidos com verbos-adjetivo por serem sintaticamente verbos.**
+**Também conhecidos como adjetivos verbais ou verbos-adjetivo por serem sintaticamente verbos.**
 
 **Podem ser conjugados, portanto adicionar `です` só indica cortesia.**
 
@@ -60,6 +60,21 @@
 -   Com exceção de `嫌い`, todos os que terminam em `い` não possuem okurigana.
 
 **Não são flexionados como os `い`, dependendo de outras palavras para indicar o modo e o tempo. Geralmente são usadas as conjugações de `です`.**
+
+## ト・タル<ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos `たる`
+
+**São exatamente como os adjetivos nominais, porém terminam em `たる` ao invés de `な`. Caíram em desuso e só são encontrados em alguns casos fósseis.**
+
+-   Sua forma conectiva/adverbial usa `と` ao invés de `に`.
+-   Devem modificar um substantivo ou verbo, não podendo ser utilizados de forma predicativa, nem mesmo se ligar à cópula.
+
+## <ruby>連<rt>れん</rt>体<rt>たい</rt>詞<rt>し</rt></ruby> - Adjetivos adnominais
+
+**São palavras derivadas de outras classes que são utilizadas como adjetivos, porém sem ser necessariamente adjetivos. Todos os adjetivos que não se enquadram nas categorias anteriores entram aqui.**
+
+-   Devem modificar uma palavra não-conjugável, não podendo ser utilizados de forma predicativa, nem mesmo se ligar à cópula.
+-   Alguns terminam em `な`, mas não devem ser confundidos com adjetivos nominais.
+-   Não são conjugados.
 
 ## Conjugação
 

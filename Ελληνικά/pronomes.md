@@ -92,10 +92,11 @@
 **As formas fortes estão fora dos parênteses e as formas fracas dentro.**
 
 > [!IMPORTANT]
-> Os adjetivos possessivos possuem a mesma forma dos pronomes genitivos fracos e vêm depois do que estão se referindo. Já os pronomes possessivos são formados pelas palavras definidas na tabela + o pronome genitivo fraco referente e vêm antes do que estão se referindo.
+> ◆ Os adjetivos possessivos possuem a mesma forma dos pronomes genitivos fracos e vêm depois do que estão se referindo. Já os pronomes possessivos são formados pelas palavras definidas na tabela + o pronome genitivo fraco referente e vêm antes do que estão se referindo.
 > Veja também que os pronomes acusativos fracos da terceira pessoa são iguais aos artigos definidos acusativos.
 
 -   No vocativo existe apenas a segunda pessoa: `εσύ` (singular) e `εσείς` (plural).
+-   Quando a forma fraca genitiva vem após alguma palavra proparoxítona, a última sílaba desta palavra também deve receber acento.
 
 ## Demonstrativos
 

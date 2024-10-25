@@ -82,3 +82,7 @@
 -   `Jomīsagon` Vestir/Usar
     -   Acompanha o que é vestido no instrumental.
     -   Também pode ser usado pra equipamento.
+-   `Jollōragon` Estudar
+-   `Pikībagon` Ler
+-   `Tymagon` Brincar/Jogar
+-   `Vīlībagon` Lutar

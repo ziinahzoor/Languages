@@ -41,6 +41,7 @@
 -   `Sēter` Feitiço 🌊
 -   `Kostion` Poder 🌱
 -   `Gevives` Beleza ☀️
+-   `Tymptir` Jogo 🌊
 
 ## Transporte
 

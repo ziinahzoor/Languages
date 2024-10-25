@@ -28,7 +28,7 @@
     -   <font size="5"><code><ruby>中<rt>ちゅう</rt>学<rt>がっ</rt>校<rt>こう</rt></ruby></code></font> Fundamental 2 (3 séries)
     -   <font size="5"><code><ruby>高<rt>こう</rt>校<rt>こう</rt></ruby></code></font> Ensino Médio (3 séries)
 -   <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt></ruby></code></font> Universidade
--   `きょうしつ` Sala de aula
+-   <font size="5"><code><ruby>教<rt>きょう</rt>室<rt>しつ</rt></ruby></code></font> Sala de aula
 -   `としょかん` Biblioteca
 -   `ギム` Academia
 -   `きっさてん` Cafeteria

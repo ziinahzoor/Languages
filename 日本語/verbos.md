@@ -246,6 +246,8 @@
     -   <font size="5"><code>。。。のそばを<ruby>通<rt>とお</rt></ruby>る</code></font> Passar por
 -   <font size="5"><code><ruby>登<rt>のぼ</rt></ruby>る</code></font> Escalar/Subir
 -   <font size="5"><code><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がる</code></font> Alimentar-se
+-   <font size="5"><code><ruby>知<rt>し</rt></ruby>る</code></font> Conhecer/Descobrir/Ficar sabendo
+-   <font size="5"><code><ruby>困<rt>こま</rt></ruby>る</code></font> Estar com problemas/Estar em apuros
 
 ## 一段 - Ichidan
 
@@ -254,6 +256,7 @@
 -   <font size="5"><code><ruby>食<rt>た</rt></ruby>べる</code></font> Comer
     -   <font size="5"><code><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がる</code></font> Sonkeigo (Godan).
 -   <font size="5"><code><ruby>見<rt>み</rt></ruby>る</code></font> Assistir/Olhar
+-   <font size="5"><code><ruby>見<rt>み</rt></ruby>せる</code></font> Mostrar
 -   <font size="5"><code><ruby>見<rt>み</rt></ruby>つける</code></font> Achar/Encontrar
 -   <font size="5"><code><ruby>出<rt>で</rt>る</ruby></code></font> Sair (De algum lugar)
 -   <font size="5"><code><ruby>出<rt>で</rt>かける</ruby></code></font> Sair (Para algum lugar)
@@ -274,11 +277,12 @@
 -   `つづける` Continuar
 -   <font size="5"><code><ruby>助<rt>たす</rt>ける</ruby></code></font> Ajudar/Resgatar
 -   <font size="5"><code><ruby>教<rt>おし</rt></ruby>える</code></font> Ensinar
--   `こたえる` Responder
+-   <font size="5"><code><ruby>答<rt>こた</rt></ruby>える</code></font> Responder
+    -   Geralmente acompanha `に`.
 -   `いきる` Viver
 -   `のりかえる` Fazer escala (ônibus e trens)
 -   <font size="5"><code><ruby>降<rt>お</rt></ruby>りる</code></font> Descer (Montanhas, veículos)/Desembarcar
--   `つかれる` Cansar
+-   <font size="5"><code><ruby>疲<rt>つか</rt></ruby>れる</code></font> Cansar
 -   `つける` Ligar (Luz, aparelho)
 -   `かたづける` Limpar/Organizar
 -   `おくれる` Atrasar
@@ -354,3 +358,4 @@
 -   <font size="5"><code><ruby>結<rt>けっ</rt>婚<rt>こん</rt></ruby></code></font> Casar
 -   <font size="5"><code><ruby>離<rt>り</rt>婚<rt>こん</rt></ruby></code></font> Divorciar
 -   `デート` Ter um encontro
+-   <font size="5"><code><ruby>愛<rt>あい</rt></ruby></code></font> Amar

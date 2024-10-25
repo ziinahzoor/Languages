@@ -32,6 +32,7 @@
 -   `Arghurys` Caçador ☀️
 -   `Mittys` Idiota ☀️
 -   `Ozgūroty` Prisioneiro 🌙
+-   `Teptys` Professor ☀️
 
 ## Lentor - Família 🌊
 

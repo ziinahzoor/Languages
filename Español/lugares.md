@@ -47,7 +47,9 @@
 -   `Derecha` Direita
 -   `Izquierda` Esquerda
 -   `Norte`
--   `Sur`
+-   `Sur` Sul
+-   `Este` Leste
+-   `Oeste`
 
 ## La Casa - Casa
 
@@ -139,3 +141,4 @@
 -   `Andén` Plataforma 🚹
 -   `Cuadra` Quadra
 -   `Vestíbulo` Saguão
+-   `Mezquita` Mesquita

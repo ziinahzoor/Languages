@@ -263,3 +263,11 @@
 -   `Chauve` Calvo/Careca
 -   `Créatif` Criativo
 -   `Direct` Direto
+-   `Compliqué` Complicado
+-   `Scolaire` Escolar
+-   `Fatigant` Cansativo
+-   `Fier` Orgulhoso
+-   `Inacceptable` Inaceitável
+-   `Énervé` Irritado
+-   `Intermédiaire` Intermediário
+-   `Brillant` Brilhante

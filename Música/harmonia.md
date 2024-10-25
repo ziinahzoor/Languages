@@ -4,33 +4,79 @@
 
 -   É inerentemente relacionada aos intervalos e aos [acordes](acordes).
 
+## Textura
+
+**A _textura_ (Textura) é o padrão sonoro ou camada criada pela interação entre as [vozes musicais](melodia.md/#voz).**
+
+-   A textura que utiliza apenas uma voz é dita _monofonia_ (Monophony).
+-   A textura que utiliza apenas duas vozes quase iguais, sendo uma mais adornada que a outra, é dita _heterofonia_ (Heterophony).
+-   A textura que utiliza apenas uma voz melódica e outras complementando como harmonia é dita _homofonia_ (Homophony).
+-   A textura que utiliza mais de uma voz, ou seja, melodias independentes, é dita _polifonia_ (Polyphony).
+    -   A mesma melodia sendo tocada em duas vozes, porém iniciando em momentos diferentes também consiste uma polifonia.
+    -   A técnica de juntar duas melodias independentes em uma harmonia é dita _contraponto_ (Counterpoint).
+-   Note que a polifonia e a harmonia não se referem ao mesmo conceito: a harmonia complementa uma melodia sem ser independente dela.
+
+## Aberturas
+
+**Uma _abertura_ (Voicing) é a disposição vertical das vozes.**
+
+> [!IMPORTANT]
+> Em uma abertura, quando a nota se repete ela é chamada _dobra_ (Doubling). De maneira conflitante, também pode ser chamada de _abertura_ (Voicing) da nota.
+
+-   _Harmônia aberta_ (Open voicing/open harmony): quando a disposição vertical das notas permite encaixar outra nota entre elas.
+    -   No SATB é preferível trabalhar com harmonias abertas.
+-   _Harmônia fechada_ (Closed voicing/Close harmony): quando a disposição vertical das notas não permite encaixar outra nota entre um par delas.
+
+## Contraponto
+
+**_Contraponto_ (Counterpoint) é a técnica de juntar duas melodias independentes em uma harmonia.**
+
+-   _Cantus Firmus_: A melodia principal de uma composição polifônica na prática do contraponto.
+    -   Todas as notas devem ser semibreves.
+-   _Contraponto de primeira espécie_ (First species counterpoint): formado pelo Cantus Firmus e outra voz movendo em semibreves.
+    -   Não pode ocorrer _sobreposição de vozes_ (Voice overlapping), que é quando uma voz passa acima da outra.
+    -   Não pode ocorrer _troca de vozes_ (Voice exchange/voice crossing), que é quando uma voz mais alta vai abaixo da mais baixa e vice-versa.
+-   _Contraponto de segunda espécie_ (Second species counterpoint): formado pelo Cantus Firmus e outra voz movendo em mínimas.
+-   _Contraponto de terceira espécie_ (Third species counterpoint): formado pelo Cantus Firmus e outra voz movendo em semínimas.
+
+> [!TIP]
+> Veja [como compor um Cantus Firmus](https://kaitlinbove.com/species-counterpoint-part-i).
+
 ## Progressões de Intervalo
 
 **As _progressões de intervalo_ (Interval progressions) dizem respeito às formas como as sequências de intervalos são dispostas em alguma música.**
 
--   As progressões costumam ser analisadas conforme o tipo do seu movimento.
--   Tenta-se evitar ao máximo intervalos dissonantes (quartas, segundas, trítonos, etc).
+-   As progressões costumam ser analisadas conforme o contraponto pelo seu tipo do seu movimento.
+-   Tenta-se evitar ao máximo intervalos dissonantes (quartas, segundas, sétimas e trítonos).
     -   Se as quartas não envolvem a voz baixa elas são permitidas, e geralmente são chamadas _intervalos resultantes_ (Resultant intervals).
+-   Tenta-se iniciar e terminar em uníssonos ou oitavas.
 
 ### Progressões em duas vozes
 
 -   _Movimento paralelo_ (Parallel motion): quando duas vozes mantêm a proporção do seu intervalo durante a melodia, ou seja, independente das notas, o intervalo entre uma voz e outra se mantém o mesmo.
     -   A qualidade do intervalo pode mudar, somente o tamanho que não pode.
-    -   No movimento paralelo, sequências de intervalos perfeitos consoantes são evitados, geralmente usando-se somente terças e sextas. A progressão de uma quinta perfeita para uma quinta diminuta é permitida, mas o contrário não.
+    -   No movimento paralelo, sequências de intervalos perfeitos consoantes são evitados, geralmente usando-se somente terças e sextas, mas não mais que três vezes. A progressão de uma quinta perfeita para uma quinta diminuta é permitida, mas o contrário não.
+    -   Também evita-se alcançar um intervalo perfeito por movimento paralelo.
+-   _Movimento similar_ (Similar motion): quando as vozes seguem na mesma direção, porém de forma não-paralela, com cada voz movendo em intervalos diferentes.
+    -   Ex.: 3→5, 5→6, 5→8 6→8.
+    -   Evita-se alcançar um intervalo perfeito por movimento similar.
 -   _Movimento contrário_ (Contrary motion): quando uma das vozes sobe, enquanto a outra desce.
     -   Ex.: 1→3, 3→5, 3→6, 5→8, 6→8, 6→10, etc.
--   _Movimento similar_ (Similar motion): quando as vozes seguem na mesma direção, porém de forma não-paralela, uma delas se movendo apenas um passo e a outra mais de um passo.
-    -   Ex.: 3→5, 5→6, 5→8 6→8.
 -   _Movimento oblíquo_ (Oblique motion): quando uma das voz se mantém estática a outra se distancia dela.
 
 > [!NOTE]
-> No movimento contrário, quando as vozes trocam de lugar, ou seja, a voz mais mais aguda assume a posição mais grave e a mais grave assume a posição mais aguda, ocorre a _troca de vozes_ (Voice exchange). Na pauta, é denotada por linhas ligando as notas na progressão, de forma que as linhas se cruzam.
+> No movimento contrário, quando as vozes trocam de lugar, ou seja, a voz mais mais aguda assume a posição mais grave e a mais grave assume a posição mais aguda, ocorre a troca de vozes. Na pauta, é denotada por linhas ligando as notas na progressão, de forma que as linhas se cruzam.
 > <img src="../assets/images/voice-exchange.svg" alt="Troca de vozes" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;"/>
 
 ### Progressões em três vozes
 
 -   _Movimento da fundamental_ (Root motion): trata-se do intervalo da nota fundamental dos acordes. Geralmente são de quinta, terça ou um passo.
     -   Os mais comuns são 1→5→1 e 4→5.
+
+### Trítonos em progressões
+
+-   Se um trítono aparecer como uma quarta aumentada, deve usar movimento contrário para uma sexta menor e maior em escalas maiores e menores, respectivamente, ou para uma quarta perfeita em movimento similar.
+-   Se um trítono aparecer como uma quinta diminuta, deve-se usar um movimento para uma terça maior em escalas maiores e uma terça menor em menores. Ou então para uma quinta perfeita.
 
 ## Tons não-harmônicos
 

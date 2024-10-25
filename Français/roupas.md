@@ -8,6 +8,7 @@
 -   `Casquette` Boné 🚺
 -   `Bucle d'oreille` Brinco 🚺
 -   `Casque` Capacete
+-   `Cache-œil` Tapa-olho
 
 ## Le Corps - Corpo
 

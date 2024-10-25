@@ -182,3 +182,4 @@
 -   `Verdadero` Verdadeiro
 -   `Atractivo` Atraente
 -   `Real`
+-   `Extranjero` Estrangeiro

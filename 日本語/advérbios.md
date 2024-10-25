@@ -63,7 +63,7 @@
 -   `ゆっくり` Devagar/Sem pressa
 -   <font size="5"><code><ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby></code></font> Totalmente
 -   `とちゅう` No caminho
--   `こんど` Da próxima vez/Outra hora/Dessa vez
+-   <font size="5"><code><ruby>今<rt>こん</rt>度<rt>ど</rt></ruby></code></font> Da próxima vez/Outra hora/Dessa vez
     -   <font size="5"><code><ruby>今<rt>こん</rt>回<rt>かい</rt></ruby></code></font> é mais utilizado para "dessa vez"
 -   `さいきん` Recentemente/Ultimamente
 -   <font size="5"><code><ruby>結<rt>けっ</rt>構<rt>こう</rt></ruby></code></font> Satisfatoriamente/Bastante/Quase sempre
@@ -90,6 +90,8 @@
 -   `どうぞ` Aqui está (ao dar algo para alguém)
 -   <font size="5"><code><ruby>他<rt>ほか</rt></ruby>に</code></font> Outro/Além desse
 -   `まっすぐ` Direto/Diretamente
+-   `ため` Para/Com o propósito de/Em consideração a
+    -   Tem um sentido semelhante à partícula `へ`.
 
 ## Auxiliares
 

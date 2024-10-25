@@ -31,7 +31,7 @@
     -   Também pode ser marcador paralelo.
     -   Pode-se usar após dois substantivos para compará-los de alguma forma.
     -   Se usado após um verbo, indica que esta ação é uma condição para outra coisa
-    -   Deve ser usado após aspas para indicar uma citação.
+    -   Deve ser usado após aspas para indicar uma citação. É bastante utilizado depois de algum conceito que se deseja explicar ou saber a explicação.
     -   Se usado entre duas frases, indica uma condição lógica. A segunda frase é um resultado absoluto da primeira.
 -   `から` Desde/Porque/Devido
     -   Também é uma partícula conjuntiva e frasal.

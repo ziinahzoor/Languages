@@ -33,6 +33,7 @@
 -   `Mettre` Colocar
 -   `Peindre` Pintar
 -   `Connaitre` Conhecer
+    -   Tem o sentido de "ter familiaridade"
 -   `Entendre` Ouvir
     -   `S'entendre` Entender-se (com alguém)
 -   `Croire` Acreditar/Crer
@@ -68,9 +69,10 @@
 -   `Détester` Odiar
 -   `Préférer` Preferir
 -   `Arriver` Chegar
-    -   `Arriver à [verbo]` Ser capaz de
+    -   `Arriver à` Ser capaz de
 -   `Acheter` Comprar
--   `Rencontrer` Conhecer (Meet)
+-   `Rencontrer` Conhecer
+    -   Tem o sentido de conhecer pela primeira vez.
 -   `Payer` Pagar
 -   `Trouver` Achar/Encontrar
     -   Também serve para o sentido abstrato de "achar" (pensar, expressar uma opinião).
@@ -261,6 +263,7 @@
 -   `Durer` Durar
 -   `Tricoter` Tricotar
 -   `Adopter` Adotar
+-   `Prononcer` Pronunciar
 
 ## -ir Verbes
 
@@ -309,7 +312,8 @@
 -   `Falloir` Dever/Precisar/Ter necessidade
     -   Impessoal (só é utilizado na terceira pessoa)
 -   `Prévoir` Prever/Planejar
--   `Réussir` Conseguir/Suceder (de ter sucesso)/Aprovar (em testes e provas)
+-   `Réussir` Suceder (de ter sucesso)/Aprovar (em testes e provas)/Conseguir
+    -   `Réussir à` Conseguir (fazer algo)
 -   `Découvrir` Descobrir
 -   `Réfléchir` Refletir/Pensar
 -   `Se réunir` Reunir-se

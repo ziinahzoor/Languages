@@ -20,3 +20,4 @@
 -   `Αντίο` Tchau
 -   `Πώς σε λένε;` Qual o seu nome?
 -   `Εντάξει` Ok/Tudo bem
+-   `Τι τρέχει;` Qual o problema?/O que houve?

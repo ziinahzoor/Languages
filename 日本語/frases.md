@@ -72,3 +72,7 @@
 -   <font size="5"><code><ruby>結<rt>けっ</rt>構<rt>こう</rt></ruby></code></font> Não, obrigado/Não precisa/Estou cheio
 
 ## Concordância
+
+## Dúvidas
+
+-   <font size="5"><code><ruby>何<rt>なに</rt></ruby>が<ruby>困<rt>こま</rt></ruby>りましたか</code></font> Qual o problema?

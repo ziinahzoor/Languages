@@ -13,9 +13,11 @@
 -   `かっこいい` Legal
     -   Adjetivo `いい`
 -   `ダサい` Brega/Sem estilo
+-   <font size="5"><code><ruby>親<rt>しん</rt>切<rt>せつ</rt></ruby></code></font> Gentil, generoso
+-   <font size="5"><code><ruby>気<rt>き</rt>持<rt>も</rt></ruby>ちいい</code></font> Agradável/De sentimento agradável/Confortável
 -   `やさしい` Gentil, agradável
--   `しんせつ` Gentil, generoso
--   <font size="5"><code><ruby>易<rt>やさ</rt></ruby>しい</code></font> `やさしい` Fácil
+-   <font size="5"><code><ruby>易<rt>やさ</rt></ruby>しい</code></font> Fácil
+    -   É mais subjetivo.
 -   <font size="5"><code><ruby>難<rt>むずか</rt></ruby>しい</code></font> Difícil/Complexo
     -   Se refere à dificuldade intrínseca de algo.
 -   <font size="5"><code><ruby>悪<rt>わる</rt></ruby>い</code></font> Ruim
@@ -24,14 +26,15 @@
 -   `まずい` Desgostoso/De gosto ruim
     -   Em linguagem casual pode significar "ruim"/"ah, não!", semelhante ao "porcaria".
 -   <font size="5"><code><ruby>大<rt>おお</rt></ruby>きい</code></font> Grande
-    -   Também pode ser um adjetivo な.
-    -   Também pode ser "alto" para sons.
+    -   Possui uma forma adjectival pré-substantivo.
+    -   É mais utilizado com coisas concretas.
 -   <font size="5"><code><ruby>小<rt>ちい</rt></ruby>さい</code></font> Pequeno
-    -   Também pode ser um adjetivo な.
+    -   Possui uma forma adjectival pré-substantivo.
+    -   É mais utilizado com coisas concretas.
 -   <font size="5"><code><ruby>明<rt>あか</rt></ruby>るい</code></font> Brilhante/Iluminado
 -   <font size="5"><code><ruby>暗<rt>く</rt></ruby>らい</code></font> Escuro
 -   `かわいい` Fofo
--   `おもしろい` Interessante/Engraçado
+-   <font size="5"><code><ruby>面<rt>おも</rt>白<rt>しろ</rt></ruby>い</code></font> Interessante/Engraçado
 -   `つまらない` Entediante
 -   <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しい</code></font> Divertido/Aprazível
 -   `うるさい` Barulhento/Irritante
@@ -67,14 +70,14 @@
 -   `すっぱい` Azedo
 -   `からい` Picante
 -   `かたじけない` Agradecido
--   `こわい` Assustador
+-   <font size="5"><code><ruby>怖<rt>こわ</rt></ruby>い</code></font> Assustador
 -   <font size="5"><code><ruby>少<rt>すく</rt>ない</ruby></code></font> Pouco(s)/Insuficiente
 -   <font size="5"><code><ruby>多<rt>おお</rt>い</ruby></code></font> Muito(s)/Demais
 -   <font size="5"><code><ruby>軽<rt>かる</rt></ruby>い</code></font> Leve
 -   <font size="5"><code><ruby>重<rt>おも</rt></ruby>い</code></font> Pesado
 -   `ねむい` Sonolento
--   `かなしい` Triste
--   `うれしい` Feliz
+-   <font size="5"><code><ruby>悲<rt>かな</rt></ruby>しい</code></font> Triste
+-   <font size="5"><code><ruby>嬉<rt>うれ</rt></ruby>しい</code></font> Feliz
 -   `らしい` Parecido/Semelhante (-like)
 -   `〜っぽい` Parecido/Semelhante (-ish)
     -   Tem uma nuance mais negativa que `らしい`
@@ -143,6 +146,24 @@
 -   <font size="5"><code><ruby>大<rt>だい</rt>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Ok
     -   Também é muito usado para recusar coisas.
 -   <font size="5"><code><ruby>大<rt>たい</rt>切<rt>せつ</rt></ruby></code></font> Importante
+-   <font size="5"><code><ruby>簡<rt>かん</rt>単<rt>たん</rt></ruby></code></font> Simples/Fácil/Descomplicado
+    -   É mais objetivo.
+-   <font size="5"><code><ruby>暇<rt>ひま</rt></ruby></code></font> Livre/Desocupado
+-   <font size="5"><code><ruby>嫌<rt>い</rt>い</ruby></code></font> Desgostável/Não querível/Relutante
+    -   É mais utilizado com situações.
+
+## Adjetivos たる
+
+-   <font size="5"><code><ruby>確<rt>かっ</rt>固<rt>こ</rt></ruby></code></font> Firme/Resoluto
+
+## Adnominais
+
+-   <font size="5"><code><ruby>大<rt>おお</rt></ruby>きな</code></font> Grande/Alto
+    -   NÃO é um adjetivo な.
+    -   É mais utilizado para coisas abstratas.
+-   <font size="5"><code><ruby>小<rt>ちい</rt></ruby>さな</code></font> Pequeno/Baixo
+    -   NÃO é um adjetivo な.
+    -   É mais utilizado para coisas abstratas.
 
 ## Adjetivos-verbo
 
@@ -154,5 +175,7 @@
 -   <font size="5"><code><ruby>好<rt>す</rt>き</ruby></code></font> Gostável `な`
     -   <font size="5"><code><ruby>大<rt>だい</rt>好<rt>す</rt>き</ruby></code></font> Amável `な`
 -   <font size="5"><code><ruby>嫌<rt>きら</rt>い</ruby></code></font> Desgostável/Odiável `な`
+    -   É mais utilizado com objetos e pessoas.
+    -   Tem uma conotação mais forte que `嫌`.
 -   <font size="5"><code><ruby>痛<rt>い</rt>たい</ruby></code></font> Doloroso/Vergonhoso
 -   `とくい` Ser bom em `な`

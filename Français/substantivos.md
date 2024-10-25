@@ -191,12 +191,15 @@
 -   `Batterie` Bateria
 -   `Écran` Tela 🚹
 -   `Aspirateur` Aspirador
+-   `Calculatrice` Calculadora
 
 ## Abstratos
 
 -   `Essence` Essência
 -   `Rendez-vous` Encontro/Compromisso/Consulta 🚹
 -   `Chose` Coisa
+-   `Truc` Truque/Coisa
+-   `Affaire` Assunto/Responsabilidade/Coisa 🚺
 -   `Réponse` Resposta
 -   `Idée` Ideia
 -   `Couleur` Cor
@@ -252,6 +255,7 @@
 -   `Secours` Socorro
 -   `Langue` Linguagem
 -   `Phrase` Frase
+-   `Paragraphe` Parágrafo
 -   `Information` Informação/Notícia
 -   `Vie` Vida
 -   `Souvenir` Lembrança
@@ -297,7 +301,6 @@
 -   `Ligne` Linha
 -   `Instruction` Instrução
 -   `Mariage` Casamento
--   `Truc` Truque/Coisa
 -   `Bazar` Velharia/Porcaria 🚹
 -   `Liste` Lista
 -   `Note` Nota
@@ -331,6 +334,9 @@
 -   `Accent` Sotaque
 -   `Mensonge` Mentira 🚹
 -   `Blague` Piada
+-   `Attitude` Atitude/Postura
+-   `Résultat` Resultado
+-   `Sens` Sentido/Significado
 
 ### Sentimentos e emoções
 
@@ -465,10 +471,10 @@
 
 -   `Matière` Matéria
 -   `Cours` Aula/Curso
+-   `Devoir` Tarefa/Dever
 -   `Examen` Prova
 -   `Manuel` Livro didático/Manual
 -   `Article` Artigo
--   `Médecine` Medicina
 -   `Diplôme` Diploma
 -   `Baccalauréat` Exame final do ensino médio
     -   `Le Bac` Abreviação
@@ -477,6 +483,7 @@
 -   `Tableau` Quadro
 -   `Règle` Régua
 -   `Gomme` Borracha
+-   `Rédaction` Redação
 
 #### Áreas do conhecimento
 
@@ -489,6 +496,7 @@
 -   `Physique` Física
 -   `Biologie` Biologia
 -   `Science` Ciência
+-   `Médecine` Medicina
 
 ### Esporte
 

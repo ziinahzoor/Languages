@@ -51,7 +51,7 @@
     </tr>
     <tr>
         <th>Tempos verbais</th>
-        <td>8: Presente simples, presente perfeito, aorista (pretérito simples), imperfeito, pretérito perfeito, pretérito contínuo, futuro simples, futuro contínuo, futuro perfeito</td>
+        <td>8: Presente simples, presente perfeito, aorista (pretérito simples), pretérito perfeito, pretérito contínuo, futuro simples, futuro contínuo, futuro perfeito</td>
     </tr>
     <tr>
         <th>Vozes verbais</th>
@@ -155,6 +155,10 @@
 -   Note que nos masculinos, exceto no plural acusativo, todas as formas perdem o `-ς` do nominativo.
 -   Note que nas terminações exclusivamente femininas singulares, somente o genitivo é diferente (acrescenta `-ς`).
 -   Note que nas terminações neutras, o nominativo e o acusativo são sempre iguais.
+
+### Dativo
+
+-   O dativo é formado pela preposição `σε` + artigo no acusativo + substantivo no acusativo.
 
 ## Artigos
 

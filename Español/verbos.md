@@ -148,6 +148,10 @@
 -   `Cortar`
 -   `Apurarse` Apressar-se
 -   `Sumar` Somar
+-   `Cruzar`
+-   `Escalar`
+-   `Contactar` Contatar
+-   `Subir`
 
 ## Los verbos -er
 

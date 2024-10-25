@@ -59,6 +59,7 @@
 -   `En realidad` Na verdade
 -   `De todas formas` De toda forma
     -   `De todas maneras` De toda maneira
+-   `Menos mal` Menos mal/Felizmente
 
 ## De modo
 

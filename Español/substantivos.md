@@ -22,6 +22,8 @@
 ### Materiais
 
 -   `Oro` Ouro
+-   `Plata` Prata
+-   `Plomo` Chumbo
 -   `Madera` Madeira
 -   `Cuero` Couro
 -   `Plástico`
@@ -144,6 +146,9 @@
 -   `Basurero` Lixeira 🚹
 -   `Tijera` Tesoura
 -   `Borrador` Borracha 🚹
+-   `Ascensor` Elevador
+-   `Almohada` Travesseiro 🚺
+-   `Pila` Pilha
 
 ## Abstratos
 
@@ -258,10 +263,17 @@
 -   `Ortografía` Ortografia
 -   `Vocabulario` Vocabulário
 -   `Espacio` Espaço
+-   `Cancelatión` Cancelamento
+-   `Manera` Maneira
+-   `Fila`
+-   `Indicación` Direção/Indicação
+-   `Alquiler` Aluguel
+-   `Tráfico` Tráfego/Trânsito
 
 ### Medidas
 
 -   `Litro`
+-   `Metro`
 -   `Kilómetro` Quilômetro
 -   `Kilogramo` Quilograma 🚹
     -   `Kilo` Quilo
@@ -281,6 +293,7 @@
     -   `Coche` Espanha
     -   `Baúl` Porta-malas
     -   `Motor`
+    -   `Neumático` Pneu
 -   `Bicicleta`
     -   `Bici`
 -   `Motocicleta` Moto
@@ -332,7 +345,7 @@
 
 -   `Cheque`
 -   `Dinero` Dinheiro
-    -   `Efectivo` Espécie
+    -   `Efectivo` Espécie/Dinheiro vivo
     -   `Euro` Euro
 -   `Centavo`
 -   `Tarjeta` Cartão

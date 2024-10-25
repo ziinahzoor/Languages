@@ -6,7 +6,7 @@
 > O conceito _obra musical_ (Piece) se refere a qualquer arranjo de som utilizando vocais e/ou instrumentos, enquanto uma _canção_ (Song) é uma obra musical que necessariamente possui vocais. Aqui, ambos os termos serão generalizados para _música_, exceto quando explicitado.
 
 > [!NOTE]
-> A _partitura_ (Sheet) é a representação visual da música, geralmente composta pela pauta, notas e outros elementos.
+> A _partitura_ (Sheet/Score) é a representação visual da música, geralmente composta pela pauta, notas e outros elementos.
 
 **_Música_ (Music) é o arranjo dos sons de maneira a formar conteúdo expressivo. É dividida fundamentalmente em [_ritmo_](ritmo) (Rhythm), [_melodia_](melodia) (Melody) e [_harmonia_](harmonia) (Harmony). A interação entre as três é chamada _textura_ (Texture).**
 
@@ -204,7 +204,7 @@
 </span>
 
 -   Ex.: Ao tocar a escala de G, que possui F#, podemos indicar pela armadura que toda nota F deve ser tocada como F♯, ao invés de marcar cada F como F♯.
--   Na armadura, os bemóis devem vir horizontalmente na ordem `B-E-A-D-G-C-F`, enquanto os sustenidos devem vir na ordem inversa `F-C-G-D-A-E-B`.
+-   Na armadura, os bemóis devem vir horizontalmente na ordem `B-E-A-D-G-C-F`, enquanto os sustenidos devem vir na ordem inversa `F-C-G-D-A-E-B`. [Veja mais em [Círculo de Quintas](escalas.md/#círculo-de-quintas)]
 -   A armadura define a leitura de toda as instâncias de determinada classe de altura, independente da oitava. Por exemplo, considerando a clave de Sol, se marcarmos na armadura um acidente no F na primeira linha superior, o F no primeiro espaço inferior da pauta também deve ser lido como uma nota acidental.
 -   Ao mudar a armadura durante a música, deve-se usar acidentes para "cancelar" acidentes anteriores.
 -   Uma armadura nunca vai ter bemois e sustenidos simultaneamente.

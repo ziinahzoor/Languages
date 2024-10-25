@@ -146,13 +146,15 @@
 
 **Uma _escala pentatônica_ (Pentatonic scale) é uma escala com cinco notas por oitava.**
 
+-   São caracterizadas por não conter os intervalos de semitom das escalas diatônicas.
+
 ### Maior
 
-**Pentatônica formada pela primeira, segunda, terceira, quinta e sexta notas da diatônica maior.**
+**Pentatônica formada por remover os graus 4 e 7 da diatônica maior.**
 
 # Clave/Tonalidade
 
-**A _clave_ ou _tonalidade_ (Key) é a coleção de notas que determina o clima e sentimento da música.**
+**A _clave_, _tonalidade_ ou simplesmente _tom_ (Key) é a coleção de notas que determina o clima e sentimento da música.**
 
 -   É um subconjunto não-ordenado de uma escala. Pode usar a quantidade de notas da escala que quiser, e na ordem que quiser.
     -   Em termos mais práticos, é a escala cujas notas mais são utilizadas na música.
@@ -162,9 +164,14 @@
 -   _Tonalidades relativas_ (Relative keys): Aquelas onde uma escala maior e outra menor compartilham as mesmas notas e armadura de clave. Ex.: C e Am.
     -   A tônica é o que geralmente diferencia a clave utilizada. Por exemplo, utilizar frequentemente a nota C indica que se está na clave C ao invés da de Am.
     -   O intervalo entre as tônicas de duas tonalidades relativas é de uma terça menor.
--   _Tonalidades sustenidas_ (Sharp keys) são aquelas cuja armadura de clave possuem somente sustenidos e _tonalidades bemóis_ (Flat keys) são aquelas cujas armaduras de clave possuem somente bemóis.
+-   _Tonalidades sustenidas_ (Sharp keys) são aquelas cuja armadura de clave possui somente sustenidos e _tonalidades bemóis_ (Flat keys) são aquelas cuja armadura de clave possui somente bemóis.
     -   Sustenidas: G, D, A, E, B, F♯, C♯, Em, Bm, F♯m, C♯m, G♯m, D♯m.
     -   Bemóis: F, B♭, E♭, A♭, D♭, G♭, C♭, Dm, Gm, Cm, Fm, B♭m, E♭m.
+
+> [!TIP]
+> Pela ordem horizontal de uma armadura de clave, podemos identificar a tonalidade da música.
+> Em tonalidades sustenidas, é um semitom acima da última nota da armadura.
+> Em tonalidades bemóis, é a penúltima nota da armadura.
 
 # Círculo de quintas
 
@@ -172,8 +179,12 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Circle_of_fifths_deluxe_4.svg" alt="Círculo de quintas" style="width:25rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;"/>
 
--   É chamado assim pelos intervalos entre cada tonalidade na sequência corresponderem à quintas perfeitas. Também pode-se analisar pelo ponto de vista de que a tônica de cada corresponde ao quinto grau da tonalidade anterior.
+-   É chamado assim pelos intervalos entre cada tonalidade na sequência corresponderem à quintas perfeitas. Também pode-se analisar pelo ponto de vista de que a tônica de cada corresponde ao quinto grau da tonalidade anterior. Pela mesma lógica, no sentido antihorario temos o círculo de quartas.
 -   O círculo é organizado partindo de C ou Am no topo, tonalidades que não possuem acidentes. Partindo disso:
     -   Cada tonalidade no sentido horário possui um sustenido a mais que o anterior.
     -   Cada tonalidade no sentido anti-horário possui um bemol a mais que o anterior.
 -   Duas tonalidades adjacentes no círculo possuem exatamente uma nota (classe de altura) diferente. Portanto, a distância entre duas tonalidades equivale a quantidade de notas diferentes que elas possuem. Ex.: C e D: dois passos de distância = duas notas diferentes.
+
+> [!TIP]
+> Partindo do sentido horário, cada tonalidade tem as notas acidentais da tonalidade anterior mais a sua própria nota anterior (ou a nota da penúltima tonalidade) sustenida. Ex.: G possui as acidentais da tonalidade anterior C (nenhuma) mais a nota anterior sustenida de G (F♯). D possui as acidentais da tonalidade anterior G (F♯) mais a sua nota anterior sustenida (C♯). É assim que a ordem das armaduras é formada.
+> No sentido antihorário, cada tonalidade tem as notas acidentais da tonalidade anterior mais a nota anterior da tonalidade anterior (ou a nota da próxima tonalidade) bemol. Ex.: F possui as acidentais da tonalidade anterior C (nenhuma) mais a nota anterior bemol de C (B♭). B♭ possui as acidentais da tonalidade anterior F (B♭) mais a nota anterior bemol de F (E♭).

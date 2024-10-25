@@ -43,7 +43,7 @@
     -   É um substantivo, não um advérbio.
 -   `これから` De agora em diante
 -   `さいご` Último
--   `ひま` Tempo livre
+-   <font size="5"><code><ruby>暇<rt>ひま</rt></ruby></code></font> Tempo livre
 -   <font size="5"><code><ruby>時<rt>とき</rt></ruby></code></font> Momento/Ocasião/Quando
 
 ### Prefixos

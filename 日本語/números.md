@@ -228,7 +228,7 @@
 ### <font size="5"><code><ruby>回<rt>かい</rt></ruby></code></font> Frequência, Parcelas
 
 -   Pode ser traduzido como "vezes"
--   Quando é incerto se vai repetir, usar <font size="5"><code><ruby>度<rt>ど</rt></ruby></code></font>
+-   Quando é incerto se vai repetir, usar <font size="5"><code><ruby>度<rt>ど</rt></ruby></code></font>. Também usar para ocorrências de um evento.
 
 ### <font size="5"><code><ruby>階<rt>かい</rt></ruby></code></font> Andares
 

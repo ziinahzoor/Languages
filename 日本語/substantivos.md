@@ -74,8 +74,8 @@
 -   `ひも` Fio
 -   `ケーブル` Cabo
 -   `かぎ` Chave
--   `えんぴつ` Lápis
-    -   <font size="5"><code><ruby>色<rt>いろ</rt></ruby>えんぴつ</code></font> Lápis de cor
+-   <font size="5"><code><ruby>鉛<rt>えん</rt>筆<rt>ぴつ</rt></ruby></code></font> Lápis
+    -   <font size="5"><code><ruby>色<rt>いろ</rt>鉛<rt>えん</rt>筆<rt>ぴつ</rt></ruby></code></font> Lápis de cor
     -   `シャーペン` Lapiseira
 -   `けしゴム` Borracha
 -   `はさみ` Tesoura
@@ -145,6 +145,7 @@
 -   <font size="5"><code><ruby>手<rt>て</rt>紙<rt>がみ</rt></ruby></code></font> Carta
 -   `きって` Selo de carta
 -   <font size="5"><code><ruby>布<rt>ふ</rt>団<rt>とん</rt></ruby></code></font> Futon
+-   <font size="5"><code><ruby>定<rt>じょう</rt>規<rt>ぎ</rt></ruby></code></font> Régua
 
 ## Elétricos e Eletrônicos
 
@@ -205,7 +206,8 @@
 -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby></code></font> Verdade
 -   `こと` Coisa (Intangível)
 -   `もの` Coisa (Tangível)
--   `しつもん` Pergunta
+-   <font size="5"><code><ruby>質<rt>しつ</rt>問<rt>もん</rt></ruby></code></font> Pergunta
+-   <font size="5"><code><ruby>答<rt>こた</rt></ruby>え</code></font> Resposta
 -   `しめきり` Deadline
 -   `あじ` Sabor
 -   <font size="5"><code><ruby>話<rt>はなし</rt></ruby></code></font> História
@@ -245,7 +247,8 @@
 -   <font size="5"><code><ruby>他<rt>ほか</rt></ruby></code></font> Outro
 -   `れつ` Linha/Fila
 -   `シーン` Cena
--   `もんだい` Problema
+-   <font size="5"><code><ruby>問<rt>もん</rt>題<rt>だい</rt></ruby></code></font> Problema
+    -   Também é usado para se referir a perguntas em testes e provas.
 -   `おごり` Agrado
 -   `あいさつ` Cumprimento
 -   `ジャンル` Gênero
@@ -257,6 +260,9 @@
 -   <font size="5"><code><ruby>声<rt>こえ</rt></ruby></code></font> Voz/Som de um animal
 -   <font size="5"><code><ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby></code></font> Palavra
 -   <font size="5"><code><ruby>意<rt>い</rt>味<rt>み</rt></ruby></code></font> Significado
+-   <font size="5"><code><ruby>愛<rt>あい</rt></ruby></code></font> Amor
+-   <font size="5"><code><ruby>気<rt>き</rt>分<rt>ぶん</rt></ruby></code></font> Humor
+-   <font size="5"><code><ruby>気<rt>き</rt>持<rt>も</rt></ruby>ち</code></font> Sentimento
 
 ### Condições
 
@@ -420,6 +426,7 @@
 -   `レッスン` Lição
 -   <font size="5"><code><ruby>宿<rt>しゅ</rt>題<rt>くだい</rt></ruby></code></font> Tarefa (Escolar)
 -   <font size="5"><code><ruby>授<rt>じゅ</rt>業<rt>ぎょう</rt></ruby></code></font> Aula
+-   `クラス` Turma/Classe
 -   <font size="5"><code><ruby>勉<rt>べん</rt>強<rt>きょう</rt></ruby></code></font> Estudo
 -   `せんこう` Curso de Graduação (Major)
 -   `そつぎょう` Graduação

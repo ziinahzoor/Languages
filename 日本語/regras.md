@@ -109,6 +109,7 @@
 -   Ao se referir a alguém pelo título ou por sua relação, usa-se `の`. Ex.: <font size="5"><code><ruby>妻<rt>つま</rt>のニヤ</ruby></code></font> "Minha esposa Nyah".
 -   Para dizer ambos, usa-se a expressão `。。。も。。。も`. Para dizer "nem um, nem outro", usa-se a expressão `。。。も。。。もない`.
     -   Se usados com adjetivos, estes devem usar a forma `く`.
+-   O japonês possui algumas palavras que são adaptações do inglês que não são realmente usadas no inglês, chamadas <font size="5"><code><ruby>和<rt>わ</rt>製<rt>せい</rt>英<rt>えい</rt>語<rt>ご</rt></ruby></code></font>. Ex: `ポケモン` e `ファミコン`.
 
 ## タメ<ruby>口<rt>ぐち</rt></ruby> - Conversa Informal
 

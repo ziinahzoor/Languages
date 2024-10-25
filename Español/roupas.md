@@ -40,6 +40,7 @@
 -   `Falda` Saia
 -   `Pantalones` Calças
 -   `Vaqueros` Calças jeans
+-   `Cinturón` Cinto
 
 ## Los Pies - Pés
 

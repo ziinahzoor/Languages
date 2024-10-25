@@ -65,7 +65,7 @@
 
 ---
 
-## <h1 id="var_konjunktiv">Subjuntivo</h1>
+<h1 id="var_konjunktiv">Subjuntivo</h1>
 
 ---
 

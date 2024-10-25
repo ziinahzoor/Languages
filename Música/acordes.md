@@ -2,17 +2,21 @@
 
 **Um _acorde_ (Chord) ou _harmonia_ (Harmony) é uma unidade de harmônica, consistindo de pelo menos duas notas distintas tocadas ao mesmo tempo. De forma simplificada, são notas tocadas simultaneamente.**
 
--   Acordes são construídos a partir de uma única nota, chamada _raíz_ (Root).
+-   São inerentemente relacionadas às aberturas.
+-   Acordes são construídos a partir de uma única nota, chamada _raíz_ (Root). A raíz costuma ser dobrada em acordes.
 -   A nota mais baixa de um acorde é chamada _baixo_ (Bass note).
 -   Acordes costumam ser indicados por sua tonalidade abaixo da pauta através de numerais romanos.
--   Uma nota pode se repetir dentro de um acorde, sendo tocada em outra oitava. Quando a nota se repete, sendo adicionada ao acorde, ela é chamada _abertura_ (Voicing).
+-   Quando um acorde é tocado com cada nota soando separadamente, isso é dito um _arpejo_ (Arpeggio).
 
 ## Tríades
 
-**Uma _tríade_ (Triad) é um acorde formado por três notas distintas: a raíz, sua terça e sua quinta. Aberturas permitem tocar mais de três notas em uma tríade, pois o acorde continua tendo três notas distintas.**
+**Uma _tríade_ (Triad) é um acorde formado por três notas distintas: a raíz, sua terça e sua quinta. Dobras permitem tocar mais de três alturas em uma tríade, pois o acorde continua tendo três notas distintas.**
 
 > [!TIP]
 > Uma tríade também podem ser interpretada como duas terças consecutivas, sendo assim chamada _harmonia terciária_ (Tertian harmony).
+
+> [!IMPORTANT]
+> Os intervalos de terça e quinta podem ser compostos, portanto sabendo as notas do acorde, estas podem ser tocadas em qualquer oitava.
 
 -   Uma tríade construída com uma terça maior é chamada _tríade maior_ (Major triad).
     -   R-M3-P5
@@ -42,26 +46,32 @@
 -   Inversões geralmente são indicadas abaixo do acorde na pauta através de dois números dispostos verticalmente. Tal indicação é chamada _baixo figurado_ ou _baixo cifrado_ (Figured bass).
 -   Quando a raíz é o baixo da tríade, a tríade é dita em _posição fundamental_ (Root position).
     -   Seu baixo figurado é um 5 em cima de um 3, ou simplesmente um 5. Geralmente nem sequer utiliza o baixo figurado para representação, já que é a posição padrão do acorde.
+    -   A raíz/baixo costuma ser dobrada.
 -   A _primeira inversão_ (First inversion) é feita subindo o baixo da tríade em uma oitava a partir da posição fundamental.
     -   O baixo do acorde é a terça.
     -   Seu baixo figurado é um 6 em cima de um 3.
+    -   A raíz costuma ser dobrada.
 -   A _segunda inversão_ (Second inversion) é feita subindo o baixo da tríade em uma oitava a partir da primeira inversão.
     -   O baixo do acorde é a quinta.
     -   Seu baixo figurado é um 6 em cima de um 4.
+    -   O baixo costuma ser dobrado.
 
 ## Acordes com sétima
 
-**Um _acorde com sétima_ (Seventh chord) é a combinação de uma tríade com uma sétima.**
+**Um _acorde com sétima_ (Seventh chord) é a combinação de uma tríade com uma sétima. São inerentemente dissonantes. Costumam usar um 7 à direita na notação.**
+
+> [!TIP]
+> Um acorde com sétima também pode ser visto como uma terça acima acima de uma tríade.
 
 -   Uma tríade maior e uma sétima menor formam um _acorde com sétima dominante_ (Dominant seventh chord).
     -   R-M3-P5-m7
-    -   Símbolo: 7.
+    -   Símbolo: 7 ou Mm.
 -   Uma tríade maior e uma sétima maior formam um _acorde com sétima maior_ (Major seventh chord).
     -   R-M3-P5-M7
-    -   Símbolo: M7.
+    -   Símbolo: M7 ou MM.
 -   Uma tríade menor e uma sétima menor formam um _acorde com sétima menor_ (Minor seventh chord).
     -   R-m3-P5-m7
-    -   Símbolo: m7.
+    -   Símbolo: m7 ou mm.
 -   Uma tríade diminuta e uma sétima menor formam um _acorde com sétima meio-diminuto_ (Half-diminished seventh chord).
     -   R-m3-dim5-m7
     -   Símbolo: ø7.
@@ -78,16 +88,26 @@
     -   R-M3-aug5-m7
     -   Símbolo: +7.
 
+> [!TIP]
+> As acorder com sétima supertônicos e subdominantes tendem a resolver nos dominantes.
+
 ### Inversões de acordes com sétima
 
 -   A _terceira inversão_ (Third inversion) é feita subindo o baixo da tríade em uma oitava a partir da segunda inversão.
     -   O baixo do acorde é a sétima.
+    -   Seu baixo figurado é um 4 em cima de um 2 ou simplesmente um 2.
+-   O baixo figurado da primeira inversão é 6 sobre 5 e o da segunda inversão é 4 sobre 3.
 
-## Acordes diatônicos
+## Campo harmônico
 
-**Os _acordes diatônicos_ (Diatonic chords) são os acordes produzidos a partir de cada nota de uma escala.**
+**O _campo harmônico_ (Harmonic field) é o conjunto de acordes formados tomando cada nota de uma escala como raíz.**
 
--   A partir da tônica, os acordes produzidos por cada nota são nomeados conforme os numerais romanos: I-II-III-IV-V-VI-VII.
+> [!IMPORTANT]
+> A partir da tônica, os acordes produzidos por cada nota são nomeados conforme os numerais romanos: I-II-III-IV-V-VI-VII.
+
+> [!NOTE]
+> Um _acorde diatônico_ (Diatonic chord) é um acorde produzido a partir de um grau de uma escala diatônica. Ou seja, é um acorde do campo harmônico da escala.
+
 -   Para as tríades, a representação romana segue:
     -   Tríades maiores: representadas em maiúsculo.
     -   Tríades menores: representadas em minúsculo.
@@ -95,17 +115,17 @@
     -   Tríades diminutas: representadas em minúsculo com um símbolo de circulo sobrescrito à direita.
     -   Primeira inversão: representada por um "6" sobrescrito à direita.
     -   Segunda inversão: representada por um "6" sobrescrito e um "4" subscrito à direita.
--   Acordes diatônicos de algumas escalas:
-    -   Maior: I-ii-iii-IV-V-vi-vii°
-    -   Menor natural: i-ii°-III-iv-v-VI-VII
-    -   Menor harmônica: i-ii°-III₊-iv-V-VI-vii°
-    -   Menor melódica: i-ii-III₊-IV-V-vi°-vii°
 -   Para os acordes com sétima, a representação romana apenas acrescenta um "7" sobrescrito à direita (se na posição fundamental), e:
     -   Acorde com sétima meio-diminuto: utiliza-se um traço diagonal sobre o símbolo de circulo.
     -   Acorde com sétima dominante: representado da mesma forma com que o com sétima maior.
     -   Primeira inversão: representada por um "6" sobrescrito e um "5" subscrito à direita.
     -   Segunda inversão: representada por um "4" sobrescrito e um "3" subscrito à direita.
     -   Terceira inversão: representada por um "2" sobrescrito à direita.
+-   Acordes diatônicos de algumas escalas:
+    -   Maior: I-ii-iii-IV-V-vi-vii°
+    -   Menor natural: i-ii°-III-iv-v-VI-VII
+    -   Menor harmônica: i-ii°-III₊-iv-V-VI-vii°
+    -   Menor melódica: i-ii-III₊-IV-V-vi°-vii°
 
 ## Progressões
 
