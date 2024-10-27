@@ -1,4 +1,4 @@
-# Ρήματα - Verbos ✴️
+# Τα Ρήματα - Verbos ✴️
 
 ## Verbos -ω
 

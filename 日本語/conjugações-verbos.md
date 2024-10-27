@@ -378,9 +378,22 @@
 
 <h2 id="var_outras-formas">Outras</h2>
 
+### Forma explicativa/clarificativa
+
+-   É usada para suavizar afirmações ou questionamentos.
+-   Quando usada com afirmações, tem um tom explicativo. Quando usada com perguntas, tem caráter clarificador, buscando uma explicação.
+-   Consiste de usar a partícula `の` antes de `だ` e `です`: `〜のだ`, `〜のです`.
+    -   A partícula `の` pode ser abreviada para `ん` em contextos mais casuais: `〜んだ`, `〜んです`.
+    -   A construção também pode ser simplificada para somente `の`, porém tem tom feminino e casual.
+
 ### Nominalizadores
 
 -   Pode-se adicionar `の` ao verbo para torná-lo um substantivo.
+    -   Obrigatoriamente usado com verbos perceptivos, como `見る` e `聞く`.
+-   Também pode-se usar `こと`.
+    -   Obrigatoriamente usado para frases terminadas em `だ`, `です` ou `である`,
+        -   Isso ocorre para não confundir com a forma explicativa.
+    -   Também deve ser usado para frases fixas, rotinas e regras, como `ことにする` e `ことがある`.
 
 ### Formas する
 

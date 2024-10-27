@@ -97,6 +97,7 @@
 
 -   No vocativo existe apenas a segunda pessoa: `εσύ` (singular) e `εσείς` (plural).
 -   Quando a forma fraca genitiva vem após alguma palavra proparoxítona, a última sílaba desta palavra também deve receber acento.
+-   Os possessivos costumam vir depois do substantivo, mas quando há um adjetivo, eles vêm depois do adjetivo e antes do substantivo.
 
 ## Demonstrativos
 

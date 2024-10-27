@@ -263,6 +263,7 @@
 -   <font size="5"><code><ruby>愛<rt>あい</rt></ruby></code></font> Amor
 -   <font size="5"><code><ruby>気<rt>き</rt>分<rt>ぶん</rt></ruby></code></font> Humor
 -   <font size="5"><code><ruby>気<rt>き</rt>持<rt>も</rt></ruby>ち</code></font> Sentimento
+-   <font size="5"><code><ruby>数<rt>かず</rt></ruby></code></font> Número (quantidade)
 
 ### Condições
 

@@ -66,7 +66,7 @@
 > Em uma armadura de clave com bemóis, a penúltima nota bemol mais à direita é a tônica da escala que dá a tonalidade da música.
 
 > [!NOTE]
-> Ao utilizar _diatônico_ como adjetivo, nos referimos à notas que fazem parte de determinada escala. Ex.: G é uma nota _diatônica_ na escala de C, mas G♯ é uma nota _não-diatônica_ na mesma escala.
+> Ao utilizar _diatônico_ como adjetivo, nos referimos à notas que fazem parte de determinada escala. Ex.: G é uma nota _diatônica_ na escala de C, mas G♯ é uma nota _não-diatônica_ ou _cromática_ (Chromatic) na mesma escala.
 
 ### Maior ou Modo Jônico/Jônio (Major scale/Ionian mode)
 

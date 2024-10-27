@@ -35,6 +35,7 @@
     -   Complemento sempre está no dativo.
 -   `Zoklākogon` Atrair/Encantar
 -   `Mijegon` Faltar/Não ter
+-   `Renigon` Tocar
 
 ## Verbos -agon
 
@@ -86,3 +87,7 @@
 -   `Pikībagon` Ler
 -   `Tymagon` Brincar/Jogar
 -   `Vīlībagon` Lutar
+-   `Onduragon` Pegar/Segurar
+-   `Pamagon` Esfregar
+    -   Acompanha com o que se esfrega no dativo.
+-   `О̄dragon` Machucar

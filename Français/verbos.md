@@ -13,7 +13,7 @@
 -   `Apprendre` Aprender
     -   `S'apprendre` Ensinar
 -   `Comprendre` Entender
--   `Rendre` Deixar (causar)
+-   `Rendre` Deixar/Fazer (causar)
 -   `Boire` Beber
 -   `Lire` Ler
 -   `Écrire` Escrever
@@ -27,6 +27,7 @@
     -   `Faire les bagages` Fazer as malas
     -   `Faire la queue` Fazer fila/Esperar na fila
     -   `Se faire mal` Machucar-se
+    -   `Faire plaisir à` Agradar
 -   `Défaire` Desfazer
 -   `Attendre` Esperar
 -   `Dire` Dizer
@@ -91,6 +92,7 @@
     -   `Jouer a` Jogar (esporte)
     -   `Jouer de` Tocar (instrumento)
 -   `Garder` Manter/Observar/Guardar
+    -   `Garder espoir` Ter esperança/Esperar
 -   `Regarder` Olhar/Assistir
 -   `Cuisiner` Cozinhar
 -   `Aider` Ajudar
@@ -106,6 +108,7 @@
 -   `Rentrer` Voltar (para casa)
 -   `Rester` Ficar
 -   `Tourner` Virar
+-   `Virer` Demitir
 -   `Retourner` Retornar
 -   `Ignorer` Ignorar
 -   `Laver` Lavar
@@ -223,6 +226,7 @@
 -   `S'habituer` Acostumar-se
 -   `Enseigner` Ensinar
 -   `Remercier` Agradecer
+-   `Refuser` Recusar
 -   `Accepter` Aceitar
 -   `Désirer` Desejar
 -   `Supposer` Supor
@@ -264,6 +268,7 @@
 -   `Tricoter` Tricotar
 -   `Adopter` Adotar
 -   `Prononcer` Pronunciar
+-   `Pardonner` Perdoar
 
 ## -ir Verbes
 

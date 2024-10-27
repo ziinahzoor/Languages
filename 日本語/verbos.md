@@ -13,10 +13,15 @@
     -   `で` é sua forma `て`, e daí vem o `では` e o `でも`.
         -   `じゃ` é uma contração de `では`. O último é mais honorífico.
     -   `なら` é sua forma hipotética.
+    -   `のだ` é sua forma explicativa.
+        -   `んだ` Casual
+        -   `の` Casual e feminino
     -   Possui tom assertivo.
 -   `です` Ser/Estar
-    -   Forma educada de `だ`.
-    -   Quando usado com adjetivos `い`, sua função é puramente tornar a frase educada.
+    -   Forma honorífica de `だ`.
+    -   `のです` é sua forma explicativa.
+        -   `んです` Casual
+    -   Quando usado com adjetivos `い`, sua função é puramente tornar a frase honorífica.
 -   `である` Ser/Estar
     -   É um verbo auxiliar, chamado verbo copulativo.
     -   É mais honorífico que `だ`.
@@ -27,7 +32,7 @@
         <tr>
             <th colspan="2"></th>
             <th>Plana</th>
-            <th>Educada</th>
+            <th>Honorífica</th>
         </tr>
     </thead>
     <tr>
@@ -248,6 +253,7 @@
 -   <font size="5"><code><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がる</code></font> Alimentar-se
 -   <font size="5"><code><ruby>知<rt>し</rt></ruby>る</code></font> Conhecer/Descobrir/Ficar sabendo
 -   <font size="5"><code><ruby>困<rt>こま</rt></ruby>る</code></font> Estar com problemas/Estar em apuros
+-   <font size="5"><code><ruby>売<rt>う</rt></ruby>る</code></font> Vender
 
 ## 一段 - Ichidan
 

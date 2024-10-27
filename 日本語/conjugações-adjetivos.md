@@ -99,7 +99,7 @@
         <td>だった・でした</td>
     </tr>
     <tr>
-        <th>Forma conectiva/adverbial</th>
+        <th>Forma continuativa/adverbial</th>
         <td>く</td>
         <td>に</td>
     </tr>
@@ -109,43 +109,63 @@
         <td>で</td>
     </tr>
     <tr>
-        <th>Forma condicional</th>
-        <td>ければ</td>
-        <td>なら（ば）・であれば</td>
+        <th>Forma nominal objetiva</th>
+        <td colspan="2">さ</td>
+    </tr>
+    <tr>
+        <th>Forma nominal subjetiva</th>
+        <td colspan="2">み</td>
+    </tr>
+    <tr>
+        <th>Forma pronomial</th>
+        <td colspan="2">の</td>
     </tr>
     <tr>
         <th>Forma aparente</th>
         <td colspan="2">そう</td>
     </tr>
     <tr>
-        <th>Forma de substantivo objetiva</th>
-        <td colspan="2">さ</td>
-    </tr>
-    <tr>
-        <th>Forma de substantivo subjetiva</th>
-        <td colspan="2">み</td>
+        <th>Forma condicional</th>
+        <td>ければ</td>
+        <td>なら（ば）・であれば</td>
     </tr>
 </table>
 
-> [!NOTE]
-> A forma condicional `であれば` vem de `である`, que antes de `だ・です` era usada como cópula.
+### Forma adverbial
 
-> [!NOTE]
-> Ao conectar adjetivos な com `で`, o `な` só deve ser utilizado no último adjetivo.
+-   Também é chamada continuativa pois permite o adjetivo se conectar com outros elementos, como a forma て e a forma negativa.
+-   A forma adverbial também costuma ser utilizada para tratar alguns adjetivos como substantivos no português (de certa forma como preposições). Ex: `遅く` "tarde" (literalmente "tardemente"), `近く` "perto" (literalmente "pertamente").
 
--   A forma adverbial costuma ser utilizada para tratar alguns adjetivos como substantivos no português (de certa forma como preposições). Ex: `遅く` "tarde", `近く` "perto".
--   A forma de substantivo objetiva é utilizada para expressar substantivos mensuráveis.
+### Forma て
+
+-   A forma `て` conecta dois estados, como um "e". - Pode ligar tanto adjetivos quanto orações. - A forma continuativa `く` faz a mesma coisa de maneira mais honorífica e intrínseca, sem poder ligar dois estados ou frases desconexos, enquanto a anterior pode.
+    > Ao conectar adjetivos な com `で`, o `な` só deve ser utilizado no último adjetivo.
+
+### Forma nominal
+
+-   A forma nominal objetiva é utilizada para expressar substantivos mensuráveis.
     -   É similar ao sufixo inglês "-ness".
     -   Também pode ser usada para substantivos subjetivos, tratando-os como verdades universais.
     -   Com os substantivos que se contrastam, o "positivo" é que geralmente é associado à ideia geral de medida.
-    -   A forma de substantivo também pode ser adicionada a outros sufixos, como `たい`, `やすい` e `にくい`.
-    -   O inverso da forma de substantivo geralmente é feito ao adicionar <font size="5"><code><ruby>的<rt>てき</rt></ruby></code></font> ao substantivo.
+    -   A forma nominal também pode ser adicionada a outros sufixos, como `たい`, `やすい` e `にくい`.
+    -   O inverso da forma nominal geralmente é feito ao adicionar <font size="5"><code><ruby>的<rt>てき</rt></ruby></code></font> ao substantivo.
 -   A forma subjetiva pode ser usada apenas com alguns adjetivos e indica algo que é específico para o locutor.
     -   Geralmente a forma verbal plana associada a tais adjetivos termina em `む` e quase sempre são relacionados a sentimentos e emoções. Também com adjetivos que usam o kanji de "sabor": <font size="5">`味`</font>.
--   A forma `て` conecta dois estados, como um "e".
-    -   A forma contínua `く` faz a mesma coisa de maneira mais honorífica e intrínseca, sem poder ligar dois estados ou frases desconexos, enquanto a anterior pode.
+
+### Forma pronomial
+
+-   Serve para se referir a um elemento previamente mencionado, utilizando somente sua caracterização por meio de um adjetivo.
+-   Para dizer "o (adjetivo)" (Ex.: "o vermelho"), usa-se a forma atributiva + `の`. Ex.: `赤いの...` "O vermelho..."; `カラフルなの...` "O colorido...".
+
+### Forma aparente
+
 -   Na forma aparente, troca-se o radical negativo `ない` por `なさそう`.
     -   Para adjetivos い também pode-se usar como alternativa a forma aparente positiva + `じゃない`, semelhante a um adjetivo な
 -   Quando algum adjetivo se refere a uma emoção, ele só pode ser usado para falar de si. Para se referir a outra pessoa, remove-se o `い` e adiciona-se o verbo auxiliar `がる`.
--   Para dizer "o (adjetivo)" (Ex.: "o vermelho"), usa-se a forma atributiva + `の`. Ex.: `赤いの...` "O vermelho..."; `カラフルなの...` "O colorido...".
+
+### Forma condicional
+
 -   A forma condicional dos adjetivos `な` também pode ser utilizada com substantivos.
+
+> [!NOTE]
+> A forma condicional `であれば` vem de `である`, que antes de `だ・です` era usada como cópula.

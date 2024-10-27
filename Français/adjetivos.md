@@ -14,6 +14,7 @@
 
 ## Nationalité - Nacionalidade
 
+-   `Étranger` Estrangeiro
 -   `Européen` Europeu
 -   `Africain` Africano
 -   `Anglais` Inglês
@@ -38,236 +39,292 @@
 -   `Portugais` Português
 -   `Irlandais` Irlandês
 
-## Vocabulaire - Vocabulário
+## Aparência
 
--   `Chéri` Querido
--   `Fatigué` Cansado
--   `Prêt` Pronto
--   `Super` Ótimo
--   `Grand` Grande/Alto
--   `Petit` Pequeno
--   `Large` Largo
--   `Long` Longo
--   `Court` Curto
--   `Gros` Gordo
--   `Mince` Magro
--   `Préferé` Preferido
--   `Seul` Único/Sozinho
--   `Cher` Caro
--   `Bon marché` Barato
--   `Meilleur` Melhor
--   `Pire` Pior
--   `Beau` Bonito
-    -   `Bel` Se começa com som de vogal
--   `Moche` Feio
--   `Possible` Possível
+-   `Bouclé` Cacheado
+-   `Raide` Liso (cabelo)
+-   `Chauve` Calvo/Careca
+-   `Blond` Loiro
+-   `Brun` Moreno
+-   `Roux` Ruivo
 -   `Élégant` Elegante
--   `Malade` Doente
--   `Amusant` Divertido
--   `Drôle` Engraçado
--   `Intelligent` Inteligente
--   `Content` Contente
--   `Heureux` Feliz
--   `Triste`
+-   `Clair` Claro
+-   `Foncé` Escuro
+-   `Sombre` Escuro
+-   `Brillant` Brilhante
+-   `Pâle` Pálido
+-   `Musclé` Musculoso
+
+## Idade
+
 -   `Neuf` Novo (Condição)
     -   `Tout neuf` Novo em folha
     -   Não é um adjetivo BAGS.
 -   `Nouveau` Novo (Pra mim)
     -   `Nouvel` Se começa com som de vogal
 -   `Nouvelle` Nova (Pra mim)
+-   `Jeune` Jovem
 -   `Vieux` Velho
     -   `Vieil` Se começa com som de vogal
 -   `Vielle` Velha
--   `Intéressant` Interessante
--   `Intéressé` Interessado
--   `Ennuyeux` Entediante
--   `Ouvert` Aberto
--   `Fermé` Fechado
--   `Végétarien` Vegetariano
--   `Joli` Amável
--   `Facile` Fácil
--   `Difficile` Difícil
--   `Dur` Complicado/Difícil
--   `Génial` Genial/Grande/Incrível
--   `Parfait` Perfeito
--   `Ensemble` Juntos
--   `Gentil`
--   `Sûre` Certo/Confiante
-    -   `Sure` Pós-reforma de 90
--   `Bon` Bom/Correto/Certo
--   `Bonne` Boa/Correta/Certa
--   `Super` Ótimo
--   `Mauvais` Ruim/Incorreto/Errado
--   `Pire` Pior
--   `Rapide` Rápido
--   `Sympa` Simpático/Legal (Nice)
--   `Célèbre` Famoso
--   `Juste` Justo
--   `Jeune` Jovem
--   `Blond` Loiro
--   `Brun` Moreno
--   `Roux` Ruivo
--   `Important` Importante
--   `Dangereux` Perigoso
--   `Marié` Casado
--   `Calme` Calmo
--   `Inquiet` Preocupado
--   `Stressé` Estressado
--   `Tôt` Adiantado
--   `Propre` Limpo
--   `Sale` Sujo
--   `Compris` Incluso
--   `Double` Duplo
+
+## Tamanho/Altura/Peso
+
+-   `Grand` Grande/Alto
+-   `Moyen` Médio
+-   `Petit` Pequeno
+-   `Large` Largo
+-   `Long` Longo
+-   `Court` Curto
+-   `Gros` Gordo
+-   `Mince` Magro
+-   `Léger` Leve
+-   `Lourd` Pesado
+-   `Profond` Profundo
+
+## Quantidade
+
+-   `Individuel` Individual
 -   `Simple` Singular/Simples/Único
--   `Interdit` Proibido
--   `Chaud` Quente/Calor
--   `Froid` Frio
-    -   Também é substantivo
--   `Riche` Rico
--   `Droit` Direito
--   `Gauche` Esquerdo
--   `Mal`
--   `Malade` Doente
--   `Même` Mesmo
--   `Occupé` Ocupado
--   `Sûr` Certo (de estar certo)
--   `Honnête` Honesto
--   `Entier` Inteiro
--   `Suivant` Seguinte/Próximo
--   `Prochain` Próximo
--   `Proche` Próximo (Perto)
--   `Excellent` Excelente
--   `Pauvre` Pobre
--   `Gratuite` Gratuito
--   `Cool` Legal
--   `Bizarre` Esquisito
--   `Tranquille` Tranquilo
--   `Timide` Tímido
--   `Fantastique` Fantástico
--   `Sérieux` Sério
--   `Agréable` Agradável
--   `Désagréable` Desagradável
--   `Insupportable` Insuportável
--   `Responsable` Responsável
--   `Paresseux` Preguiçoso
--   `Fou/Folle` Louco/Doido
--   `Perdu` Perdido
--   `Clair` Claro
--   `Foncé` Escuro
--   `Amoureux` Apaixonado
--   `Incroyable` Incrível/Inacreditável
--   `Populaire` Popular
--   `Absent` Ausente
--   `Délicieux` Delicioso
--   `Annulé` Cancelado
--   `Magnifique` Maravilhoso/Magnífico
--   `Grave` Sério/Grave
--   `Mignon` Fofo
--   `En ligne/Sur le web` Online
--   `Numérique` Numérico/Digital
--   `Portable` Portátil
--   `Électrique` Elétrico
--   `Crevé` Achatado/Furado
--   `Quotidien` Diário/Cotidiano
--   `Hebdomadaire` Semanal
--   `Spécial` Especial
--   `Déçu` Decepcionado
--   `Gratuit` Gratuito
--   `Salé` Salgado
--   `Sucré` Doce/Açucarado
--   `Vegan` Vegano
+-   `Double` Duplo
+-   `Seul` Único/Sozinho
+-   `Ensemble` Juntos
 -   `Vide` Vazio
 -   `Complet` Completo/Cheio
     -   Para "cheio" indica que atingiu a capacidade.
 -   `Plein` Cheio
 -   `Bondé` Lotado
--   `Frais` Fresco
--   `Libre` Livre
--   `Né` Nascido
--   `Célibataire` Solteiro
--   `Pressé` Apressado/Com pressa
--   `En panne` Quebrado (Temporariamente)
--   `Cassé` Quebrado
--   `Bruyant` Barulhento
--   `Mouillé` Molhado
--   `Sec` Seco
+-   `Entier` Inteiro
+-   `Suffisant` Suficiente
+
+## Forma
+
 -   `Rond` Redondo
 -   `Carré` Quadrado
+
+## Tempo
+
+-   `Rapide` Rápido
+-   `Quotidien` Diário/Cotidiano
+-   `Hebdomadaire` Semanal
+
+## Caráter/Estilo
+
+-   `Important` Importante
+-   `Dangereux` Perigoso
+-   `Juste` Justo
+-   `Insupportable` Insuportável
+-   `Sérieux` Sério
+-   `Agréable` Agradável
+-   `Désagréable` Desagradável
+-   `Cool` Legal
+-   `Bizarre` Esquisito
+-   `Mignon` Fofo
+-   `Bruyant` Barulhento
 -   `Fragile` Frágil
--   `Disponible` Disponível
+-   `Pressé` Apressado/Com pressa
+-   `Grave` Sério/Grave
 -   `Pratique` Prático
+-   `Classique` Clássico
 -   `Moderne` Moderno
 -   `Ridicule` Ridículo
--   `Nul` Ruim
--   `Horrible` Horrível
--   `Classique` Clássico
--   `Merveilleux` Maravilhoso
--   `Furieux` Furioso
--   `Étranger` Estrangeiro
--   `Turistique` Turístico
--   `Aimable` Amável
--   `Léger` Leve
--   `Lourd` Pesado
--   `Utile` Útil
--   `Doux` Macio
--   `Diplômé` Formado/Graduado/Diplomado
--   `Correct` Correto
--   `Sombre` Escuro
--   `Professionell` Profissional
 -   `Certain` Certo
--   `Satisfait` Satisfeito
+-   `Francophone` Francófono
+-   `Portable` Portátil
+-   `National` Nacional
+-   `International` Internacional
+-   `Mondial` Mundial
+-   `Positif` Positivo
+-   `Négatif` Negativo
+-   `Normal`
+-   `Dégoûtant` Nojento/Repugnante
+-   `Inacceptable` Inaceitável
+-   `Turistique` Turístico
+-   `Doux` Macio
+-   `Professionnel` Profissional
+-   `Sauvage` Selvagem
+-   `Bête` Besta/Bobo
+-   `Enchanté` Encantado
 -   `Fort` Forte/Intenso
--   `Obligé` Obrigado
+-   `Précieux` Precioso
+-   `Urgent` Urgente
+-   `Sportif` Esportivo
+-   `Habituel` Usual/Habitual
+-   `Responsable` Responsável
+-   `Stupide` Estúpido
+
+### Personalidade
+
+-   `Honnête` Honesto
+-   `Méchant` Mau
+-   `Gentil` Gentil/Bom
+-   `Aimable` Amável
+-   `Intelligent` Inteligente
+-   `Sympa` Simpático/Legal (Nice)
+-   `Paresseux` Preguiçoso
+-   `Créatif` Criativo
+-   `Fier` Orgulhoso
+-   `Patient` Paciente
+-   `Timide` Tímido
+-   `Égoïste` Egoísta
+-   `Généreux` Generoso
+
+## Gosto
+
+-   `Salé` Salgado
+-   `Sucré` Doce/Açucarado
+-   `Épicé` Apimentado/Picante/Condimentado
+
+## Condição/Estado
+
+-   `Ouvert` Aberto
+-   `Fermé` Fechado
+-   `Prêt` Pronto
+-   `Propre` Limpo
+-   `Sale` Sujo
+-   `Populaire` Popular
+-   `Célèbre` Famoso
+-   `Riche` Rico
+-   `Pauvre` Pobre
+-   `Cher` Caro
+-   `Bon marché` Barato
+-   `Gratuit` Gratuito
+-   `Né` Nascido
+-   `Célibataire` Solteiro
+-   `Marié` Casado
+-   `Tôt` Adiantado
+-   `Occupé` Ocupado
+-   `Interdit` Proibido
+-   `Annulé` Cancelado
+-   `Absent` Ausente
+-   `Perdu` Perdido
+-   `Sûr` Certo (de estar certo)
+-   `Spécial` Especial
+-   `Crevé` Achatado/Furado
+-   `En panne` Quebrado (Temporariamente)
+-   `Cassé` Quebrado
+-   `Mouillé` Molhado
+-   `Sec` Seco
+-   `Frais` Fresco
+-   `Satisfait` Satisfeito
+-   `Libre` Livre
+-   `Disponible` Disponível
+-   `Diplômé` Formado/Graduado/Diplomado
+-   `Utile` Útil
 -   `Rôti` Assado
 -   `Cuit` Cozido
 -   `Grillé` Grelhado
 -   `À point` Ao ponto
 -   `Saignant` Malpassado
 -   `Cru`
--   `Suffisant` Suficiente
--   `Cool` Legal
--   `Bête` Besta/Bobo
--   `Terrible` Terrível
--   `Pâle` Pálido
--   `Bouclé` Cacheado
--   `Raide` Liso (cabelo)
+-   `Pétillant` Gasoso/Espumante/Cintilante
+-   `Obligé` Obrigado
+-   `Abandonné` Abandonado
+-   `Bienvenu` Bem-vindo
+
+### Físicas/Emocionais
+
+-   `Fatigué` Cansado
+-   `Fatigant` Cansativo
+-   `Malade` Doente
+-   `Mal`
+-   `Malade` Doente
+-   `Chaud` Quente/Calor
+-   `Froid` Frio
+    -   Também é substantivo
+
+## Sentimento/Emoção
+
+-   `Amusant` Divertido
+-   `Drôle` Engraçado
+-   `Content` Contente
+-   `Heureux` Feliz
+-   `Malheureux` Infeliz
+-   `Triste`
+-   `Ennuyeux` Entediante
+-   `Intéressant` Interessante
+-   `Intéressé` Interessado
+-   `Calme` Calmo
+-   `Inquiet` Preocupado
+-   `Stressé` Estressado
+-   `Sûre` Certo/Confiante
+    -   `Sure` Pós-reforma de 90
+-   `Énervé` Irritado
+-   `Amoureux` Apaixonado
+-   `Fou/Folle` Louco/Doido
+-   `Tranquille` Tranquilo
+-   `Déçu` Decepcionado
+-   `Furieux` Furioso
+-   `Nerveux` Nervoso
 -   `En colère` Bravo/Irritado
--   `Moyen` Médio
--   `National` Nacional
--   `International` Internacional
--   `Mondial` Mundial
+-   `Jaloux` Invejoso/Com inveja/Ciumento
+
+## Qualidade
+
+-   `Correct` Correto
 -   `Vrai` Verdadeiro
 -   `Faux` Falso
--   `Habituel` Usual/Habitual
--   `Positif` Positivo
--   `Négatif` Negativo
--   `Nerveux` Nervoso
--   `Sportif` Esportivo
--   `Musclé` Musculoso
--   `Avancé` Avançado
--   `Capable` Capaz
--   `Normal`
--   `Sauvage` Selvagem
--   `Profond` Profundo
--   `Urgent` Urgente
--   `Individuel` Individual
--   `Précieux` Precioso
--   `Bienvenu` Bem-vindo
--   `Francophone` Francófono
--   `Enchanté` Encantado
--   `Abandonné` Abandonado
--   `Épicé` Apimentado/Picante/Condimentado
--   `Pétillant` Gasoso/Espumante/Cintilante
--   `Dégoûtant` Nojento/Repugnante
+-   `Terrible` Terrível
+-   `Horrible` Horrível
+-   `Nul` Ruim
+-   `Bon` Bom/Correto/Certo
+-   `Bonne` Boa/Correta/Certa
+-   `Joli` Amável
+-   `Mauvais` Ruim/Incorreto/Errado
+-   `Super` Ótimo
+-   `Génial` Genial/Grande/Incrível
+-   `Incroyable` Incrível/Inacreditável
+-   `Excellent` Excelente
+-   `Fantastique` Fantástico
+-   `Magnifique` Magnífico/Maravilhoso
+-   `Merveilleux` Maravilhoso
 -   `Formidable` Formidável
--   `Chauve` Calvo/Careca
--   `Créatif` Criativo
--   `Direct` Direto
+-   `Pire` Pior
+-   `Meilleur` Melhor
+-   `Moche` Feio
+-   `Beau` Bonito
+    -   `Bel` Se começa com som de vogal
+-   `Parfait` Perfeito
+-   `Délicieux` Delicioso
+
+## Capacidade
+
+-   `Capable` Capaz
+-   `Possible` Possível
+-   `Facile` Fácil
+-   `Difficile` Difícil
+-   `Dur` Complicado/Difícil
 -   `Compliqué` Complicado
+
+## Subjetivos
+
+-   `Chéri` Querido
+-   `Préferé` Preferido
+
+## Categoria
+
+-   `Végétarien` Vegetariano
+-   `Vegan` Vegano
+-   `Compris` Incluso
+-   `Même` Mesmo
+
+## Utilidade/Função
+
+-   `Électrique` Elétrico
 -   `Scolaire` Escolar
--   `Fatigant` Cansativo
--   `Fier` Orgulhoso
--   `Inacceptable` Inaceitável
--   `Énervé` Irritado
+-   `En ligne/Sur le web` Online
+-   `Numérique` Numérico/Digital
+
+## Direção/Posição/Ordem
+
+-   `Droit` Direito
+-   `Gauche` Esquerdo
+-   `Suivant` Seguinte/Próximo
+-   `Prochain` Próximo
+-   `Proche` Próximo (Perto)
+-   `Direct` Direto
+
+## Nível
+
 -   `Intermédiaire` Intermediário
--   `Brillant` Brilhante
+-   `Avancé` Avançado

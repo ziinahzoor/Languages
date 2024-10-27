@@ -55,6 +55,7 @@
 ## Locutions adverbiales - Locuções adverbiais
 
 -   `Quand même` Mesmo assim
+-   `Même pas` Nem mesmo
 -   `Plein de` Cheio/Repleto
     -   "Muitos/Bastante/O bastante", quando se refere a coisas quantificáveis.
 -   `Par contre` Porém/Por outro lado
@@ -62,6 +63,7 @@
 -   `Par terre` No chão
 -   `Tout de suite` Na hora/Imediatamente
 -   `N'importe où` Em qualquer lugar
+-   `Non plus` Também não/Tampouco
 -   `D'abord` Primeiramente
 -   `D'habitude` Geralmente
 -   `Du tout` De forma alguma
@@ -101,6 +103,7 @@
 -   `Typiquement` Tipicamente
 -   `Franchement` Sinceramente/Francamente
 -   `Absolument` Absolutamente
+-   `Complètement` Completamente
 
 ## Os Porquês
 

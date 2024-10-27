@@ -261,6 +261,7 @@
 -   `Souvenir` Lembrança
 -   `Fin` Fim 🚺
 -   `Écriture` Escrita
+-   `Part` Parte (Behalf)
 -   `Partie` Parte
 -   `Degré` Grau
 -   `Rupture` Término
@@ -337,9 +338,11 @@
 -   `Attitude` Atitude/Postura
 -   `Résultat` Resultado
 -   `Sens` Sentido/Significado
+-   `Amitié` Amizade
 
 ### Sentimentos e emoções
 
+-   `Sentiment` Sentimento
 -   `Humeur` Humor 🚺
 -   `Envie` Ciúme/Inveja/Desejo
 -   `Surprise` Surpresa
@@ -352,6 +355,8 @@
 -   `Départ` Partida 🚹
 -   `Arrivée` Chegada
 -   `Annonce` Anúncio 🚺
+-   `Plaisir` Prazer
+-   `Espoir` Esperança 🚹
 
 ### Unidades de medida
 

@@ -124,6 +124,7 @@
     -   `Quiénes` Plural
 -   `Cuál` Qual
 -   `Cuántos` Quantos
+-   `Dónde` Onde
 
 ## Demostrativos - Demonstrativos
 
@@ -144,3 +145,7 @@
 | Masculino | Aquel    | Aquellos |
 | Feminino  | Aquella  | Aquellas |
 | Neutro    | Aquello  | -        |
+
+## Relativos
+
+-   `Donde` Onde
