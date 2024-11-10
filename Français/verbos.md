@@ -6,6 +6,7 @@
 ## -re Verbes
 
 -   `Être` Ser/Estar
+    -   `Être en feu` Estar queimando
 -   `Prendre` Pegar
     -   `Prendre soin` Cuidar
     -   `Prendre rendez-vous` Marcar consulta
@@ -269,6 +270,11 @@
 -   `Adopter` Adotar
 -   `Prononcer` Pronunciar
 -   `Pardonner` Perdoar
+-   `Embrasser` Beijar
+-   `Engager` Comprometer
+-   `Exprimer` Expressar
+-   `Organiser` Organizar
+-   `Bronzer` Bronzear-se
 
 ## -ir Verbes
 

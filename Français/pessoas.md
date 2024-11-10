@@ -45,10 +45,12 @@
 -   `Étudiant` Estudante/Universitário
 -   `Patron` Patrão
 -   `Chef` Chefe
+-   `Patron` Patrão
 -   `Fumeur` Fumante
 -   `Auteur` Autor
 -   `Acteur` Ator
 -   `Actrice` Atriz
+-   `Comédien` Ator
 -   `Groupe de musique` Banda
     -   `Groupe`
 -   `Maitre-nageur` Salva-vidas
@@ -106,6 +108,11 @@
 -   `Président-directeur général (PDG)` CEO
 -   `Stagiaire` Estagiário
 -   `Guitariste` Guitarrista
+-   `Avocat` Advogado
+-   `Boulanger` Padeiro
+-   `Vétérinaire` Veterinário
+-   `Architecte` Arquiteto
+-   `Comptable` Contador
 
 ## La famille - Família
 

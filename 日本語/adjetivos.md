@@ -53,8 +53,8 @@
 -   <font size="5"><code><ruby>早<rt>はや</rt></ruby>い</code></font> Cedo
 -   <font size="5"><code><ruby>遅<rt>おそ</rt></ruby>い</code></font> Devagar/Lento/Tarde/Atrasado
 -   <font size="5"><code><ruby>長<rt>なが</rt></ruby>い</code></font> Longo
--   `みじかい` Curto
--   `あぶない` Perigoso
+-   <font size="5"><code><ruby>短<rt>みじか</rt></ruby>い</code></font> Curto
+-   <font size="5"><code><ruby>危<rt>あぶ</rt></ruby>ない</code></font> Perigoso
 -   <font size="5"><code><ruby>涼<rt>すず</rt></ruby>しい</code></font> Refrescante/Gelado
 -   <font size="5"><code><ruby>寒<rt>さむ</rt>い</ruby></code></font> Frio (Clima, Sensação)
     -   <font size="5"><code><ruby>冷<rt>つめ</rt>たい</ruby></code></font> Coisas
@@ -63,8 +63,11 @@
 -   <font size="5"><code><ruby>暖<rt>あたた</rt>かい</ruby></code></font> Morno/Quentinho (Clima, Sensação)
     -   <font size="5"><code><ruby>温<rt>あたた</rt>かい</ruby></code></font> Coisas
 -   `ぬるい` Morno/Em temperatura ambiente
--   <font size="5"><code><ruby>厚<rt>あつ</rt>い</ruby></code></font> Grosso
--   <font size="5"><code><ruby>甘<rt>あま</rt>い</ruby></code></font> Doce
+-   <font size="5"><code><ruby>太<rt>ふと</rt></ruby>い</code></font> Grosso (diâmetro)
+-   <font size="5"><code><ruby>細<rt>ほそ</rt></ruby>い</code></font> Fino (diâmetro)
+-   <font size="5"><code><ruby>厚<rt>あつ</rt></ruby>い</code></font> Grosso (camada)
+-   <font size="5"><code><ruby>薄<rt>うす</rt></ruby>い</code></font> Fino (camada)
+-   <font size="5"><code><ruby>甘<rt>あま</rt></ruby>い</code></font> Doce
 -   `にがい` Amargo
 -   <font size="5"><code><ruby>塩<rt>しょ</rt></ruby>っぱい</code></font> Salgado
 -   `すっぱい` Azedo
@@ -97,6 +100,7 @@
 -   <font size="5"><code><ruby>強<rt>つよ</rt></ruby>い</code></font> Forte
 -   `きつい` Complicado/Apertado
 -   `ゆるい` Solto/Frouxo
+-   <font size="5"><code><ruby>丸<rt>まる</rt></ruby>い</code></font> Redondo
 
 ## Adjetivos な
 
@@ -174,6 +178,7 @@
 -   <font size="5"><code><ruby>欲<rt>ほ</rt></ruby>しい</code></font> Querível
 -   <font size="5"><code><ruby>好<rt>す</rt>き</ruby></code></font> Gostável `な`
     -   <font size="5"><code><ruby>大<rt>だい</rt>好<rt>す</rt>き</ruby></code></font> Amável `な`
+    -   Também pode significar "preferível".
 -   <font size="5"><code><ruby>嫌<rt>きら</rt>い</ruby></code></font> Desgostável/Odiável `な`
     -   É mais utilizado com objetos e pessoas.
     -   Tem uma conotação mais forte que `嫌`.

@@ -48,7 +48,7 @@
 -   `ぶし` Guerreiro
 -   `コーチ` Treinador
 -   `マネージャー` Gerente
--   `うんてんしゅ` Motorista
+-   <font size="5"><code><ruby>運<rt>うん</rt>転<rt>てん</rt>手<rt>しゅ</rt></ruby></code></font> Motorista
 -   `ほんやくか` Tradutor
 -   `しゃしんか` Fotógrafo
 -   `せんしゅ` Jogador

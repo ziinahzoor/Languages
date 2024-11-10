@@ -18,6 +18,7 @@
 -   `Sin duda` Sem dúvida
 -   `¡Auxilio!` Ajuda!/Socorro!
 -   `Por cierto` Falando nisso/A propósito
+-   `El uno al otro` Um ao outro
 
 ## Gírias
 

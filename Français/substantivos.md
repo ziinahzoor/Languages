@@ -20,6 +20,10 @@
 -   `Colline` Colina
 -   `Vent` Vento
 -   `Rose` Rosa
+-   `Herbe` Grama
+-   `Étoile` Estrela
+-   `Sable` Areia 🚹
+-   `Feuille` Folha
 
 ### Materiais
 
@@ -100,7 +104,7 @@
 -   `Tableau` Quadro (Pintura)
 -   `Peinture` Pintura
 -   `Devoir` Tarefa
--   `Pelouse` Grama
+-   `Pelouse` Gramado
 -   `Papier` Papel
 -   `Cahier` Caderno
 -   `Crayon` Lápis
@@ -339,6 +343,10 @@
 -   `Résultat` Resultado
 -   `Sens` Sentido/Significado
 -   `Amitié` Amizade
+-   `Ambition` Ambição
+-   `Expérience` Experiência
+-   `Talent` Talento
+-   `Succès` Sucesso
 
 ### Sentimentos e emoções
 
@@ -448,6 +456,9 @@
 -   `Festival`
 -   `Exposition` Exposição
 -   `Photographie` Fotografia
+-   `Roman` Romance (livro)
+-   `Poème` Poema
+-   `Comédie` Comédia
 
 ### Compras
 
@@ -502,6 +513,7 @@
 -   `Biologie` Biologia
 -   `Science` Ciência
 -   `Médecine` Medicina
+-   `Droit` Direito
 
 ### Esporte
 

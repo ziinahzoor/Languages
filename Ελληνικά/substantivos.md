@@ -3,6 +3,12 @@
 ## Natureza
 
 -   `Πάγος` Gelo
+-   `Αέρας` Vento
+-   `Κρύο` Frio ✴️
+-   `Ζέστη` Calor 🚺
+-   `Ήλιος` Sol
+-   `Ομίχλη` Névoa
+-   `Συννεφιά` Nebulosidade
 
 ## Casa e objetos
 
@@ -22,6 +28,7 @@
 -   `Γάμος` Casamento
 -   `Ερώτηση` Pergunta
 -   `Απάντηση` Resposta
+-   `Συνταγή` Receita
 
 ## Atividades
 

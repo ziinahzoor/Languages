@@ -43,8 +43,10 @@
 -   `De vez en cuando` De vez em quando
 -   `Jamás` Jamais
 -   `Tampoco` Tampouco/Nem
+-   `Si mejor` Ao invés
 -   `A lo mejor` Talvez
 -   `Tal vez` Talvez
+-   `Quizás` Talvez/Quiçá
 -   `Donde` Onde
 -   `Excepto` Exceto
 -   `Así` Assim
@@ -60,6 +62,10 @@
 -   `De todas formas` De toda forma
     -   `De todas maneras` De toda maneira
 -   `Menos mal` Menos mal/Felizmente
+-   `Desde`
+-   `Abajo` Abaixo
+-   `Arriba` Acima
+-   `Tal como` Como/Tal como
 
 ## De modo
 
@@ -79,3 +85,4 @@
 -   `Possiblemente` Possivelmente
 -   `Finalmente`
 -   `Incluso` Até/Mesmo
+-   `Especialmente`

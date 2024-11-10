@@ -91,13 +91,24 @@
 
 **As formas fortes estão fora dos parênteses e as formas fracas dentro.**
 
+**O dativo faz parte do genitivo.**
+
 > [!IMPORTANT]
 > ◆ Os adjetivos possessivos possuem a mesma forma dos pronomes genitivos fracos e vêm depois do que estão se referindo. Já os pronomes possessivos são formados pelas palavras definidas na tabela + o pronome genitivo fraco referente e vêm antes do que estão se referindo.
 > Veja também que os pronomes acusativos fracos da terceira pessoa são iguais aos artigos definidos acusativos.
 
+-   Os pronomes pessoais precedem o verbo, exceto no gerúndio e no imperativo. O genitivo vem antes do acusativo.
 -   No vocativo existe apenas a segunda pessoa: `εσύ` (singular) e `εσείς` (plural).
 -   Quando a forma fraca genitiva vem após alguma palavra proparoxítona, a última sílaba desta palavra também deve receber acento.
--   Os possessivos costumam vir depois do substantivo, mas quando há um adjetivo, eles vêm depois do adjetivo e antes do substantivo.
+-   Os (adjetivos) possessivos costumam vir depois do substantivo, mas quando há um adjetivo, podem vir de três formas:
+    -   Artigo + adjetivo + substantivo + possessivo.
+    -   Artigo + adjetivo + possessivo + substantivo (mais comum).
+    -   Artigo + substantivo + possessivo + adjetivo.
+-   Quando um pronome pessoal é utilizado em uma posição que pode ser confundido com um adjetivo possessivo, é utilizado um acento no pronome para diferenciação. Ex.: `Η δασκάλα μου είπε` "MEU professor disse"/ `Η δασκάλα μού είπε` "O professor ME disse".
+    -   Quando ambos são utilizados, não é necessário o acento: `Η δασκάλα μου μου είπε` "Meu professor me disse".
+
+> [!TIP]
+> Na linguagem falada, os adjetivos possessivos costumam ser falados após o substantivo e os pronomes dativos após o verbo.
 
 ## Demonstrativos
 
@@ -185,3 +196,9 @@
 -   `Ποιος` Quem/Qual
     -   Conjugável
 -   `Τίνος` De quem
+
+## Indefinidos
+
+-   `Όλα` Tudo
+-   `Όλος` Todos
+    -   Conjugável

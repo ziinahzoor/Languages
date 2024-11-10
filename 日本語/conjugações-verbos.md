@@ -357,6 +357,7 @@
     -   `問う` → `問うた`
     -   `請う` → `請うた`
     -   `〜ない` → `〜なかった`
+-   A forma た pode ser utilizada com `ことがあります` para indicar experiências passadas.
 
 <h3 id="var_forma-te">て<ruby>形<rt>けい</rt></ruby> - Forma て</h3>
 
@@ -396,6 +397,9 @@
     -   Também deve ser usado para frases fixas, rotinas e regras, como `ことにする` e `ことがある`.
 
 ### Formas する
+
+> [!TIP]
+> A partícula `を` é opcional quando usada com verbos-する.
 
 #### にする
 

@@ -24,10 +24,11 @@
 -   <font size="5"><code><ruby>雨<rt>あめ</rt></ruby></code></font> Chuva
 -   <font size="5"><code><ruby>空<rt>そら</rt></ruby></code></font> Céu
 -   <font size="5"><code><ruby>風<rt>かぜ</rt></ruby></code></font> Vento
+-   `ダイヤモンド` Diamante
 
 ### Materiais
 
--   `かわ` Couro
+-   <font size="5"><code><ruby>革<rt>かわ</rt></ruby></code></font> Couro
 
 ## Casa e objetos
 
@@ -56,6 +57,7 @@
 -   <font size="5"><code>お<ruby>風<rt>ふ</rt>呂<rt>ろ</rt></ruby></code></font> Banho/Banheira
 -   `シャンプー` Xampu
 -   <font size="5"><code><ruby>鏡<rt>かがみ</rt></ruby></code></font> Espelho
+-   <font size="5"><code><ruby>石<rt>せっ</rt>鹸<rt>けん</rt></ruby></code></font> Sabão
 
 ### Sala de estar
 
@@ -73,7 +75,7 @@
 -   `かつら` Peruca
 -   `ひも` Fio
 -   `ケーブル` Cabo
--   `かぎ` Chave
+-   <font size="5"><code><ruby>鍵<rt>かぎ</rt></ruby></code></font> Chave
 -   <font size="5"><code><ruby>鉛<rt>えん</rt>筆<rt>ぴつ</rt></ruby></code></font> Lápis
     -   <font size="5"><code><ruby>色<rt>いろ</rt>鉛<rt>えん</rt>筆<rt>ぴつ</rt></ruby></code></font> Lápis de cor
     -   `シャーペン` Lapiseira
@@ -96,7 +98,7 @@
 -   `ざっし` Revista
 -   `ゴミ` Lixo
 -   `ゴミばこ` Lata de lixo
--   `かいだん` Escada
+-   <font size="5"><code><ruby>階<rt>かい</rt>段<rt>だん</rt></ruby></code></font> Escada
 -   `コインロッカー` Armário de armazenamento
 -   <font size="5"><code><ruby>棚<rt>たな</rt></ruby></code></font> Prateleira
 -   <font size="5"><code><ruby>本<rt>ほん</rt>棚<rt>だな</rt></ruby></code></font> Estante
@@ -111,6 +113,7 @@
 -   `ナプキン` Lenço de papel (Napkin)
 -   `ハンカチ` Lenço de pano (Handkerchief)
 -   `ティッシュ` Lenço (Tissue)
+-   <font size="5"><code><ruby>紙<rt>かみ</rt></ruby></code></font> Papel
 -   `おもちゃ` Brinquedo
 -   `ペン` Caneta
 -   `えんぴつ` Lápis
@@ -127,12 +130,13 @@
 -   `ケース` Caixa/Estojo/Capa
 -   `ボタン` Botão
 -   `ひきだし` Gaveta
--   `もん` Portão
+-   <font size="5"><code><ruby>門<rt>もん</rt></ruby></code></font> Portão
 -   `ドア` Porta
+-   <font size="5"><code><ruby>戸<rt>と</rt></ruby></code></font> Porta de correr/Porta japonesa
 -   `かぐ` Móvel
 -   `かびん` Vaso
 -   `カーテン` Cortina
--   `たばこ` Cigarro
+-   `タバコ` Cigarro
 -   `ひやけどめ` Protetor solar
 -   `ストロー` Canudo
 -   `デコレーション` Decoração
@@ -146,6 +150,7 @@
 -   `きって` Selo de carta
 -   <font size="5"><code><ruby>布<rt>ふ</rt>団<rt>とん</rt></ruby></code></font> Futon
 -   <font size="5"><code><ruby>定<rt>じょう</rt>規<rt>ぎ</rt></ruby></code></font> Régua
+-   <font size="5"><code><ruby>箱<rt>はこ</rt></ruby></code></font> Caixa
 
 ## Elétricos e Eletrônicos
 
@@ -264,6 +269,8 @@
 -   <font size="5"><code><ruby>気<rt>き</rt>分<rt>ぶん</rt></ruby></code></font> Humor
 -   <font size="5"><code><ruby>気<rt>き</rt>持<rt>も</rt></ruby>ち</code></font> Sentimento
 -   <font size="5"><code><ruby>数<rt>かず</rt></ruby></code></font> Número (quantidade)
+-   `ほう` Opção/Maneira
+    -   Muito utilizado em frases comparativas, geralmente acompanhando um demonstrativo determinante ou um substantivo + `の`. Indica um lado da comparação.
 
 ### Condições
 
@@ -274,6 +281,10 @@
 -   `しんぱい` Preocupação
 -   `どりょく` Esforço
 -   `インフルエンザ` Gripe
+
+### Formas
+
+-   <font size="5"><code><ruby>丸<rt>まる</rt></ruby></code></font> Círculo
 
 ## Hotel
 
@@ -286,6 +297,11 @@
 -   `インチ` Polegada
 -   `センチ` Centímetro
 -   `グラム` Grama
+-   `キログラム` Quilograma
+    -   `キロ` Abreviação
+-   `メートル` Metro
+-   `キロメートル` Quilômetro
+    -   `キロ` Abreviação
 
 ## Gêneros
 
@@ -323,7 +339,7 @@
 
 ## Viagem e Transporte
 
--   `きっぷ` Passagem (Trem, Ônibus)
+-   <font size="5"><code><ruby>切<rt>きっ</rt>符<rt>ぷ</rt></ruby></code></font> Passagem (Trem, Ônibus)
 -   `チケット` Passagem (Avião)
 -   `パスポート` Passaporte
 -   <font size="5"><code><ruby>荷<rt>に</rt>物<rt>もつ</rt></ruby></code></font> Bagagem
@@ -337,6 +353,7 @@
 -   `バス` Ônibus
 -   `きゅうきゅうしゃ` Ambulância
 -   <font size="5"><code><ruby>飛<rt>ひ</rt>行<rt>こう</rt>機<rt>き</rt></ruby></code></font> Avião
+-   <font size="5"><code><ruby>自<rt>じ</rt>動<rt>どう</rt>車<rt>しゃ</rt></ruby></code></font> Automóvel
 -   <font size="5"><code><ruby>車<rt>くるま</rt></ruby></code></font> Carro
     -   `タイヤ` Pneu
 -   `リムジン` Limusine
@@ -421,6 +438,7 @@
 -   `たっきゅう` Pingue-pongue/Tênis de mesa
 -   `じゅんび` Preparação
 -   `デート` Encontro
+-   <font size="5"><code><ruby>手<rt>て</rt>洗<rt>あら</rt><rt></rt></ruby>い</code></font> Lavar as mãos
 
 ### <ruby>学<rt>がっ</rt>校<rt>こう</rt></ruby> - Escola
 

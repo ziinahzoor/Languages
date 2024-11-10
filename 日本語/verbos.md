@@ -127,12 +127,13 @@
     -   "Começar a" quando ligado a outro verbo.
 -   <font size="5"><code><ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>す</code></font> Retirar
 -   `ひっこす` Mudar-se
--   `おす` Empurrar
 -   `さがす` Procurar
 -   `おとす` Derrubar/Derramar/Deixar cair
--   `おす` Empurrar/Apertar/Pressionar
+-   <font size="5"><code><ruby>押<rt>お</rt></ruby>す</code></font> Empurrar/Apertar/Pressionar
 -   <font size="5"><code><ruby>消<rt>け</rt></ruby>す</code></font> Apagar/Desligar
 -   <font size="5"><code><ruby>差<rt>さ</rt></ruby>す</code></font> Segurar (um guarda-chuvas)
+-   `なくす` Perder (algo)
+-   <font size="5"><code><ruby>外<rt>はず</rt></ruby>す</code></font> Tirar/Remover (óculos, cintos)
 -   `つづく` Continuar
 -   <font size="5"><code><ruby>聞<rt>き</rt></ruby>く</code></font> Ouvir/Perguntar
     -   Para perguntar geralmente acompanha o `に`
@@ -160,6 +161,7 @@
 -   <font size="5"><code><ruby>吹<rt>ふ</rt></ruby>く</code></font> Soprar
     -   Também é usado como "tocar" para instrumentos de sopro.
 -   <font size="5"><code><ruby>鳴<rt>な</rt></ruby>く</code></font> Fazer som (animal)
+-   <font size="5"><code><ruby>置<rt>お</rt></ruby>く</code></font> Colocar/Pôr
 -   <font size="5"><code><ruby>泳<rt>およ</rt></ruby>ぐ</code></font> Nadar
 -   `いそぐ` Apressar
 -   <font size="5"><code><ruby>脱<rt>ぬ</rt></ruby>ぐ</code></font> Despir/Tirar (roupa)
@@ -196,9 +198,9 @@
     -   <font size="5"><code><ruby>持<rt>も</rt></ruby>ってくる</code></font> Trazer
 -   <font size="5"><code><ruby>使<rt>つか</rt>う</ruby></code></font> Usar
 -   `わらう` Rir
--   `はらう` Pagar
--   <font size="5"><code><ruby>習<rt>なら</rt>う</ruby></code></font> Aprender (Com alguém ensinando)
--   `すう` Fumar
+-   <font size="5"><code><ruby>払<rt>はら</rt></ruby>う</code></font> Pagar
+-   <font size="5"><code><ruby>習<rt>なら</rt></ruby>う</code></font> Aprender (Com alguém ensinando)
+-   <font size="5"><code><ruby>吸<rt>す</rt></ruby>う</code></font> Fumar
 -   <font size="5"><code><ruby>作<rt>つく</rt></ruby>る</code></font> Produzir/Fazer
 -   `ひかる` Brilhar
 -   <font size="5"><code><ruby>走<rt>はし</rt></ruby>る</code></font> Correr
@@ -208,6 +210,7 @@
     -   Também é usado para indicar o valor de compras (o quanto resultou).
 -   <font size="5"><code><ruby>要<rt>い</rt></ruby>る</code></font> Precisar
 -   <font size="5"><code><ruby>入<rt>はい</rt></ruby>る</code></font> Entrar/Matricular
+    -   Também utilizado para "despejar" algo em algum recipiente.
 -   <font size="5"><code><ruby>減<rt>へ</rt></ruby>る</code></font> Diminuir
 -   <font size="5"><code><ruby>喋<rt>しゃべ</rt></ruby>る</code></font> Conversar/Papear
 -   `かかる` Custar/Demorar/Levar
@@ -224,14 +227,14 @@
     -   Serve para relacionamentos
 -   `おどる` Dançar
 -   <font size="5"><code><ruby>泊<rt>と</rt></ruby>まる</code></font> Ficar (em algum lugar)
--   <font size="5"><code><ruby>止<rt>と</rt></ruby>まる</code></font> Parar (Mais usado pra objetos)
+-   <font size="5"><code><ruby>止<rt>と</rt></ruby>まる</code></font> Parar (Movimento)
 -   <font size="5"><code><ruby>洗<rt>あら</rt></ruby>う</code></font> Lavar
 -   <font size="5"><code><ruby>分<rt>わ</rt>かる</ruby></code></font> Entender
     -   Geralmente acompanha o `が`
 -   `わたる` Atravessar/Cruzar
--   `きる` Cortar
--   <font size="5"><code><ruby>閉<rt>し</rt>まる</ruby></code></font> Fechar (I)
--   <font size="5"><code><ruby>上<rt>あ</rt>がる</ruby></code></font> Subir (I)
+-   <font size="5"><code><ruby>切<rt>き</rt></ruby>る</code></font> Cortar
+-   <font size="5"><code><ruby>閉<rt>し</rt></ruby>まる</code></font> Fechar (I)
+-   <font size="5"><code><ruby>上<rt>あ</rt></ruby>がる</code></font> Subir (I)
 -   <font size="5"><code><ruby>曲<rt>ま</rt></ruby>がる</code></font> Virar/Curvar
 -   `おくる` Mandar/Enviar
 -   `まわる` Girar/Andar em volta/Transitar
@@ -249,7 +252,8 @@
 -   <font size="5"><code><ruby>曇<rt>くも</rt></ruby>る</code></font> Embaçar/Nublar
 -   <font size="5"><code><ruby>通<rt>とお</rt></ruby>る</code></font> Passar/Atravessar
     -   <font size="5"><code>。。。のそばを<ruby>通<rt>とお</rt></ruby>る</code></font> Passar por
--   <font size="5"><code><ruby>登<rt>のぼ</rt></ruby>る</code></font> Escalar/Subir
+-   <font size="5"><code><ruby>登<rt>のぼ</rt></ruby>る</code></font> Escalar
+-   <font size="5"><code><ruby>上<rt>のぼ</rt></ruby>る</code></font> Subir
 -   <font size="5"><code><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がる</code></font> Alimentar-se
 -   <font size="5"><code><ruby>知<rt>し</rt></ruby>る</code></font> Conhecer/Descobrir/Ficar sabendo
 -   <font size="5"><code><ruby>困<rt>こま</rt></ruby>る</code></font> Estar com problemas/Estar em apuros
@@ -294,12 +298,13 @@
 -   `おくれる` Atrasar
 -   <font size="5"><code><ruby>着<rt>き</rt></ruby>る</code></font> Vestir/Usar (Parte superior ou roupa completa)
 -   `きがえる` Trocar de roupa
--   `わすれる` Esquecer
+-   <font size="5"><code><ruby>忘<rt>わす</rt></ruby>れる</code></font> Esquecer
 -   `なでる` Carinhar/Pentear
 -   `かりる` Pegar emprestado/Alugar
 -   <font size="5"><code><ruby>開<rt>あ</rt></ruby>ける</code></font> Abrir (T)
 -   <font size="5"><code><ruby>閉<rt>し</rt>める</ruby></code></font> Fechar (T)
 -   <font size="5"><code><ruby>止<rt>や</rt></ruby>める</code></font> Parar/Finalizar/Descontinuar
+    -   É mais abstrato
 -   <font size="5"><code><ruby>辞<rt>や</rt></ruby>める</code></font> Demitir-se/Retirar-se/Sair
 -   `こわれる` Quebrar (I)
 -   `やってみる` Experimentar/Tentar
@@ -319,6 +324,8 @@
     -   Geralmente se usa mais para dizer onde ou para quem se trabalha.
 -   <font size="5"><code><ruby>覚<rt>おぼ</rt></ruby>える</code></font> Lembrar/Memorizar
     -   Geralmente usado na forma `ている`
+-   <font size="5"><code><ruby>締<rt>し</rt></ruby>める</code></font> Amarrar/Colocar (cintos e gravatas)
+-   `はめる` Abotoar
 
 ## Verbos する
 

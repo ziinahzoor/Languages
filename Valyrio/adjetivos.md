@@ -42,6 +42,7 @@
 -   `Rōvēgrie` Enorme
 -   `Qumblie` Grosso
 -   `Arlie` Novo
+-   `Naenie` Muitos
 
 ## Sem classe definida
 

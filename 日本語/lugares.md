@@ -12,7 +12,7 @@
     -   <font size="5"><code><ruby>店<rt>てん</rt>内<rt>ない</rt></ruby></code></font> Dentro da loja
         -   Geralmente é usado para dizer que vai se consumir um produto no local ao invés de levar pra casa.
 -   `せかい` Mundo
--   `むら` Vila
+-   <font size="5"><code><ruby>村<rt>むら</rt></ruby></code></font> Vila
 -   `しゅと` Capital
 -   `ホテル` Hotel
 -   <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
@@ -29,15 +29,15 @@
     -   <font size="5"><code><ruby>高<rt>こう</rt>校<rt>こう</rt></ruby></code></font> Ensino Médio (3 séries)
 -   <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt></ruby></code></font> Universidade
 -   <font size="5"><code><ruby>教<rt>きょう</rt>室<rt>しつ</rt></ruby></code></font> Sala de aula
--   `としょかん` Biblioteca
+-   <font size="5"><code><ruby>図<rt>と</rt>書<rt>しょ</rt>館<rt>かん</rt></ruby></code></font> Biblioteca
 -   `ギム` Academia
 -   `きっさてん` Cafeteria
 -   `レストラン` Restaurante
     -   `ファミレス` Restaurante de família/Restaurante casual
 -   `キャンプ` Campo
 -   <font size="5"><code><ruby>空<rt>くう</rt>港<rt>こう</rt></ruby></code></font> Aeroporto
--   `とし` Cidade (City)
--   `まち` Cidade (Town)
+-   <font size="5"><code><ruby>都<rt>と</rt>市<rt>し</rt></ruby></code></font> Cidade (City)
+-   <font size="5"><code><ruby>町<rt>まち</rt></ruby></code></font> Cidade (Town)
 -   `いなか` Interior/Área rural
 -   `ホーム` Plataforma
 -   `かいさつ` Portão de embarque
@@ -108,7 +108,7 @@
 -   `みなと` Porto
 -   `かいがい` Exterior/Além-mar
 -   `リゾート` Resort
--   `はし` Ponte
+-   <font size="5"><code><ruby>橋<rt>はし</rt></ruby></code></font> Ponte
 -   `ギフトショップ` Loja de presentes
 -   `オフィス` Escritório
 -   `りょかん` Estalagem japonesa
@@ -121,6 +121,7 @@
 -   <font size="5"><code><ruby>居<rt>い</rt>酒<rt>ざか</rt>屋<rt>や</rt></ruby></code></font> Pub japonês
 -   `おくじょう` Telhado/Cobertura
 -   `マンション` Apartamento (de alto padrão)
+-   <font size="5"><code><ruby>交<rt>こう</rt>番<rt>ばん</rt></ruby></code></font> Posto policial
 
 ## <ruby>親<rt>しん</rt>戚<rt>せき</rt>所<rt>ところ</rt></ruby> - Lugares Relativos
 
@@ -159,10 +160,11 @@
 -   `うち` (Minha) Casa
 -   <font size="5"><code>ご<ruby>在<rt>ざい</rt>宅<rt>たく</rt></ruby></code></font> Em casa/Estar em casa
 -   `アパート` Apartamento
+-   <font size="5"><code><ruby>玄<rt>げん</rt>関<rt>かん</rt></ruby></code></font> Entrada/Porta da frente
 -   <font size="5"><code><ruby>部<rt>へ</rt>屋<rt>や</rt></ruby></code></font> Quarto/Cômodo
 -   <font size="5"><code><ruby>寝<rt>しん</rt>室<rt>しつ</rt></ruby></code></font> Quarto
 -   `きゃくしつ` Quarto de visitas
--   `おてあらい` Banheiro
+-   <font size="5"><code>お<ruby>手<rt>て</rt>洗<rt>あら</rt><rt></rt></ruby>い</code></font> Banheiro
     -   `トイレ` Casual
 -   <font size="5"><code><ruby>台<rt>だい</rt>所<rt>どころ</rt></ruby></code></font> Cozinha
     -   `キッチン` Geralmente usado com cozinhas industriais
@@ -171,6 +173,7 @@
 -   `プール` Piscina
 -   <font size="5"><code><ruby>庭<rt>にわ</rt></ruby></code></font> Quintal/Jardim
 -   <font size="5"><code><ruby>食<rt>しょく</rt>堂<rt>どう</rt></ruby></code></font> Sala de jantar/Cafeteria
+-   <font size="5"><code><ruby>廊<rt>ろう</rt>下<rt>か</rt></ruby></code></font> Corredor
 -   `ゆか` Piso
 -   `たたみ` Piso japonês
 -   `かべ` Parede

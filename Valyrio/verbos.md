@@ -91,3 +91,4 @@
 -   `Pamagon` Esfregar
     -   Acompanha com o que se esfrega no dativo.
 -   `О̄dragon` Machucar
+-   `Memēbagon` Marchar

@@ -10,6 +10,7 @@
 
 -   `Issa` Sim
 -   `Daor` Não
+-   `Sȳrī` Bem
 -   `Skorȳso` Por que/Por que/Porque
 -   `Drīvose` Na verdade
 -   `Arlī` De novo
@@ -18,3 +19,21 @@
     -   "Já", quando usado com verbo no pretérito perfeito.
 -   `Sesīr` Também/Até mesmo
 -   `Mērī` Só/Somente
+-   `Ēlī` Primeiro/Primeiramente
+-   `Pār` Então
+-   `Mēriot` Uma vez
+-   `Olvī` Muito
+-   `Dōrī` Nunca
+-   `Mirriot` Em algum lugar/Em qualquer lugar
+-   `Daoriot` Em lugar nenhum
+-   `Tolviot` Em todo lugar
+-   `Inkot` Atrás
+-   `Naejot` Em frente
+-   `Tolī` Acima
+    Memēpti marchar
+-   `Aderī` Rapidamente
+-   `Paerī` Devagar
+-   `Gevī` Lindamente
+-   `Kostōbirī` Fortemente/Poderosamente
+-   `Qubirī` Mal/Pobremente/Insuficientemente
+-   `Naenī` Muitos

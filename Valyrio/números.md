@@ -1,4 +1,4 @@
-# Números
+# Verdor - Números 🌱
 
 -   `Mēre ` Um
 -   `Lanta` Dois
@@ -29,6 +29,9 @@
 -   `Jēngār` Oitocentos
 -   `Vōrgār` Novecentos
 -   `Pyrys` Mil
+
+> [!TIP]
+> A idade de alguém é dita `... x jēdari ūndas` "... viu x anos".
 
 ## Ordinais
 

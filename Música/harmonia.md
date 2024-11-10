@@ -14,6 +14,7 @@
 -   A textura que utiliza mais de uma voz, ou seja, melodias independentes, é dita _polifonia_ (Polyphony).
     -   A mesma melodia sendo tocada em duas vozes, porém iniciando em momentos diferentes também consiste uma polifonia.
     -   A técnica de juntar duas melodias independentes em uma harmonia é dita _contraponto_ (Counterpoint).
+    -   A interação das vozes para a criação de harmonias é dita _condução de vozes_ (Voice leading).
 -   Note que a polifonia e a harmonia não se referem ao mesmo conceito: a harmonia complementa uma melodia sem ser independente dela.
 
 ## Aberturas
@@ -21,7 +22,8 @@
 **Uma _abertura_ (Voicing) é a disposição vertical das vozes.**
 
 > [!IMPORTANT]
-> Em uma abertura, quando a nota se repete ela é chamada _dobra_ (Doubling). De maneira conflitante, também pode ser chamada de _abertura_ (Voicing) da nota.
+> Em uma abertura, quando a nota se repete ela é chamada _dobra_ (Doubling). De maneira ambígua, também pode ser chamada de _abertura_ (Voicing) da nota. A última é mais comum, porém para diferenciação este documento utilizará o primeiro termo.
+> Na técnica de contraponto é evitável dobrar a sensível ou uma nota acidental.
 
 -   _Harmônia aberta_ (Open voicing/open harmony): quando a disposição vertical das notas permite encaixar outra nota entre elas.
     -   No SATB é preferível trabalhar com harmonias abertas.

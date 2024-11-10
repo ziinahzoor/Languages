@@ -1,6 +1,10 @@
 # Les Lieux - Lugares
 
-## Les pays et Continents - Países e Continentes
+## Les Mers et les Océans - Os Mares e Oceanos
+
+-   `Méditerranée` Mediterrâneo 🚺
+
+## Les Pays et les Continents - Países e Continentes
 
 ### Amérique du Nord - América do Norte
 
@@ -20,6 +24,7 @@
 
 -   `Royaume-Uni` Reino Unido
     -   `Angleterre` Inglaterre
+    -   `Écosse` Escócia
 -   `Espagne` Espanha
 -   `Allemagne` Alemanha
 -   `France` França
@@ -167,6 +172,7 @@
 -   `Place` Praça/Local/Lugar (público ou ocupado por algo)
 -   `Lieu` Lugar (geral)
 -   `Endroit` Lugar (específico)
+    -   Também é utilizado para falar de "lugar" de uma forma mais abstrata.
 -   `Cathédrale` Catedral
 -   `Capitale` Capital
 -   `Centre-ville` Centro
@@ -194,6 +200,7 @@
 -   `Quai` Plataforma 🚹
 -   `Désert` Deserto
 -   `Bois` Bosque
+-   `Forêt` Floresta
 -   `Champ` Campo
 -   `Aire de jeux` Parquinho 🚺
 -   `Urgences` Pronto-socorro 🚺
@@ -201,6 +208,7 @@
 -   `Cour` Pátio 🚺
 -   `Bistrot` Bistrô
 -   `Départs` Partidas (aeroporto) 🚹
+-   `Agence` Agência
 
 ## France - França
 

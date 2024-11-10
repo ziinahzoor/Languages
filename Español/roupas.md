@@ -27,6 +27,7 @@
 -   `Suéter`
 -   `Uniforme`
 -   `Pijama`
+-   `Impermeable` Capa de chuva
 
 ## Los Brazos - Braços
 
@@ -38,7 +39,10 @@
 ## Las Piernas - Pernas
 
 -   `Falda` Saia
--   `Pantalones` Calças
+-   `Pantalón` Calça
+    -   Geralmente usado no plural
+-   `Pantalón corto` Short
+    -   Geralmente usado no plural
 -   `Vaqueros` Calças jeans
 -   `Cinturón` Cinto
 

@@ -23,7 +23,8 @@
         <td><a href="#futuro-informal">Imediato</a></td>
     </tr>
     <tr>
-        <th colspan="8"><a href="#subjuntivo">Subjuntivo</a></th>
+        <th><a href="#subjuntivo">Subjuntivo</a></th>
+        <td><a href="#presente-subjuntivo">Simples</a></td>
     </tr>
     <tr>
         <th colspan="8"><a href="#imperativo">Imperativo</a></th>
@@ -254,6 +255,54 @@
 ---
 
 <h1 id="var_subjuntivo">El Subjuntivo</h1>
+
+<h2 id="var_presente-subjuntivo">El Presente - Presente</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Pronome</th>
+            <th>Verbos -ar</th>
+            <th>Verbos -er</th>
+            <th>Verbos -ir</th>
+        </tr>
+    </thead>
+    <tr>
+        <th>Yo</th>
+        <td>-e</td>
+        <td colspan="2">-a</td>
+    </tr>
+    <tr>
+        <th>Tú</th>
+        <td>-es</td>
+        <td colspan="2">-as</td>
+    </tr>
+    <tr>
+        <th>Vos</th>
+        <td>-és</td>
+        <td colspan="2">-ás</td>
+    </tr>
+    <tr>
+        <th>Él/Ella/Usted</th>
+        <td>-e</td>
+        <td colspan="2">-a</td>
+    </tr>
+    <tr>
+        <th>Nosotros</th>
+        <td>-emos</td>
+        <td colspan="3">-amos</td>
+    </tr>
+    <tr>
+        <th>Vosotros</th>
+        <td>-éis</td>
+        <td colspan="3">-áis</td>
+    </tr>
+    <tr>
+        <th>Ellos/Ellas/Ustedes</th>
+        <td>-en</td>
+        <td colspan="3">-an</td>
+    </tr>
+</table>
 
 ---
 

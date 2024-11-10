@@ -37,6 +37,7 @@
     -   `Quel dommage`
 -   `Être for en...` Ser bom em...
 -   `Oh là là` Uau
+-   `Bravo` Bem feito
 
 ## Verlan
 

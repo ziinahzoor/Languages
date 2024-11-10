@@ -73,6 +73,7 @@
 -   `Graduado` Formado/Graduado
 -   `Ganador` Ganhador
 -   `Principiante`
+-   `Visita`
 
 ## La Familia - Família
 

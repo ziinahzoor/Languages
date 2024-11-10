@@ -13,6 +13,7 @@
 -   <font size="5"><code><ruby>肉<rt>にく</rt></ruby></code></font> Carne
     -   <font size="5"><code><ruby>豚<rt>ぶた</rt>肉<rt>にく</rt></ruby></code></font> Carne suína
     -   <font size="5"><code><ruby>牛<rt>ぎゅう</rt>肉<rt>にく</rt></ruby></code></font> Carne bovina
+    -   <font size="5"><code><ruby>鶏<rt>とり</rt>肉<rt>にく</rt></ruby></code></font> Carne avina
 -   <font size="5"><code><ruby>卵<rt>たまご</rt></ruby></code></font> Ovo
 -   `かぶ` Nabo
 -   `ラテ` Latte
@@ -33,6 +34,7 @@
 -   `パスタ` Massa
 -   `デザート` Sobremesa
 -   <font size="5"><code>お<ruby>菓<rt>か</rt>子<rt>し</rt></ruby></code></font> Doce/Lanche
+-   <font size="5"><code><ruby>飴<rt>あめ</rt></ruby></code></font> Doce (duro)
 -   `クッキー` Cookie
 -   `ドーナツ` Donut
 -   `パイ` Torta
@@ -85,6 +87,7 @@
 -   `スパイス` Tempero
 -   `ガム` Chiclete
 -   `ミント` Hortelã
+-   `バター` Manteiga
 
 ## <ruby>果<rt>くだ</rt>物<rt>もの</rt></ruby> - Frutas
 

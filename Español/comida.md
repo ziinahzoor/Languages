@@ -43,6 +43,8 @@
 -   `Champiñon` Cogumelo
 -   `Zanahoria` Cenoura
 -   `Tortilla` Omelete
+-   `Crema` Creme 🚺
+-   `Ajo` Alho
 
 ## Las Frutas
 
@@ -55,6 +57,7 @@
 -   `Pera`
 -   `Limón` Limão
 -   `Melón` Melão
+-   `Uva`
 
 ## Los Vegetales - Verduras
 

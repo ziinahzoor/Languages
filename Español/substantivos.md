@@ -18,6 +18,11 @@
 -   `Mar`
 -   `Montaña` Montanha
 -   `Fuego` Fogo
+-   `Cielo` Céu
+-   `Nube` Nuvem
+-   `Tormenta` Tempestade
+-   `Niebla` Névoa
+-   `Aire` Ar
 
 ### Materiais
 
@@ -43,6 +48,7 @@
 -   `Teléfono` Telefone
 -   `Lavamanos` Pia (de banheiro) 🚹
 -   `Fregadero` Pia (de cozinha) 🚹
+-   `Lavaplatos` Pia (de cozinha) 🚹
 -   `Celular`
 -   `Maleta` Mala
 -   `Ventilador`
@@ -149,6 +155,10 @@
 -   `Ascensor` Elevador
 -   `Almohada` Travesseiro 🚺
 -   `Pila` Pilha
+-   `Parlante` Alto-falante
+-   `Gabinete` Armário
+-   `Pantalla` Tela
+-   `Juego` Jogo (de talheres, etc)
 
 ## Abstratos
 
@@ -269,6 +279,10 @@
 -   `Indicación` Direção/Indicação
 -   `Alquiler` Aluguel
 -   `Tráfico` Tráfego/Trânsito
+-   `Aviso`
+-   `Deseo` Desejo
+-   `Temperatura`
+-   `Rebanada` Fatia
 
 ### Medidas
 
@@ -276,6 +290,7 @@
 -   `Metro`
 -   `Kilómetro` Quilômetro
 -   `Kilogramo` Quilograma 🚹
+-   `Grado` Grau
     -   `Kilo` Quilo
 
 ### Formas abstratas
@@ -293,6 +308,7 @@
     -   `Coche` Espanha
     -   `Baúl` Porta-malas
     -   `Motor`
+    -   `Rueda` Roda
     -   `Neumático` Pneu
 -   `Bicicleta`
     -   `Bici`
@@ -340,6 +356,7 @@
 -   `Estudio` Estudo
 -   `Turismo`
 -   `Competencia` Competição/Torneio 🚺
+-   `Patada` Chute
 
 ### Compras
 
@@ -396,8 +413,9 @@
 -   `Pop`
 -   `Rock`
 -   `Rap`
+-   `Soul`
 
-### Instrumentos
+### Instrumentos musicales - Instrumentos musicais
 
 -   `Violín` Violino
 -   `Tambor` Tambor

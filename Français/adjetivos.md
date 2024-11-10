@@ -152,6 +152,7 @@
 -   `Habituel` Usual/Habitual
 -   `Responsable` Responsável
 -   `Stupide` Estúpido
+-   `Original`
 
 ### Personalidade
 
@@ -168,6 +169,7 @@
 -   `Timide` Tímido
 -   `Égoïste` Egoísta
 -   `Généreux` Generoso
+-   `Courageux` Corajoso
 
 ## Gosto
 
@@ -247,6 +249,7 @@
 -   `Calme` Calmo
 -   `Inquiet` Preocupado
 -   `Stressé` Estressado
+-   `Stressant` Estressante
 -   `Sûre` Certo/Confiante
     -   `Sure` Pós-reforma de 90
 -   `Énervé` Irritado

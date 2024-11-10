@@ -37,6 +37,8 @@
     -   Também é uma partícula conjuntiva e frasal.
     -   Determina que a primeira frase é uma razão para a segunda.
     -   Indica desde quando algo acontece.
+-   `より` Comparação
+    -   Geralmente vem após o que é "menos", enquanto `のほうが` vem após o que é "mais".
 
 ## <ruby>並<rt>へい</rt>立<rt>りつ</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> Marcadores paralelos
 

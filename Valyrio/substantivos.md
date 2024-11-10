@@ -42,6 +42,7 @@
 -   `Kostion` Poder 🌱
 -   `Gevives` Beleza ☀️
 -   `Tymptir` Jogo 🌊
+-   `Verdon` Quantidade/Soma/Montante 🌱
 
 ## Transporte
 

@@ -4,6 +4,7 @@
 -   `Mentys` Soldado ☀️
 -   `Mentyr` Exército 🌊
 -   `Mentyn` Esquadrão/Batalhão/Falange 🌱
+-   `Naena` Multidão/Horda 🌙
 -   `Jentys` Líder/Comandante ☀️
 -   `Ābra` Mulher 🌙
 -   `Ābrar` Humanidade 🌙

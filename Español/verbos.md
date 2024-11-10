@@ -151,7 +151,16 @@
 -   `Cruzar`
 -   `Escalar`
 -   `Contactar` Contatar
--   `Subir`
+-   `Llenar` Encher/Preencher
+-   `Guardar`
+-   `Desear` Desejar
+-   `Tocar`
+-   `Quitar` Tirar/Remover
+-   `Saltar` Pular
+-   `Besar` Beijar
+-   `Picar`
+    -   Também pode ser "fazer um lanche"
+-   `Importar`
 
 ## Los verbos -er
 
@@ -179,7 +188,7 @@
 -   `Doler` Doer
 -   `Poner` Por/Colocar
     -   `Ponerse` Vestir/Calçar/Sentir-se
--   `LLover` Chover
+-   `Llover` Chover
 -   `Poder`
 -   `Perder`
     -   `Perderse` Perder-se
@@ -193,7 +202,9 @@
 -   `Responder`
 -   `Caerse` Cair
     -   `Caerse bien` Gostar
+        -   Também vale para pessoas.
     -   `Caerse mal` Desgostar
+        -   Também vale para pessoas.
 -   `Mover` Mover/Mexer
 -   `Romper` Quebrar
 -   `Receber`
@@ -201,6 +212,9 @@
 -   `Vender`
 -   `Suceder` Acontecer
 -   `Crecer` Crescer
+-   `Ofrecer` Oferecer
+-   `Agradecer`
+-   `Pertenecer` Pertencer
 
 ## Los verbos -ir
 
@@ -220,6 +234,7 @@
 -   `Oír` Ouvir
 -   `Preferir`
 -   `Pedir`
+    -   `Pedir prestado` Pedir emprestado
 -   `Servir`
 -   `Pedir`
 -   `Morir` Morrer
@@ -235,3 +250,4 @@
     -   `Subirse` Subir/Entrar (em algum veículo)
 -   `Imprimir`
 -   `Conducir` Dirigir
+-   `Cubrir` Cobrir

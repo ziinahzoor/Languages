@@ -29,8 +29,11 @@
 -   `Crevette` Camarão 🚺
 -   `Mouton` Ovelha 🚹
     -   `Agneau` Cordeiro
--   `Grenouille` Rã
+-   `Grenouille` Sapo 🚺
 -   `Morue` Bacalhau 🚺
+-   `Pingouin` Pinguim
+-   `Papillon` Borboleta 🚹
+-   `Abeille` Abelha
 
 ## Relacionado
 

@@ -25,6 +25,7 @@
 -   `Allá` Lá
 -   `Al lado` Ao lado
 -   `Cerca` Próximo
+-   `Frente` 🚹
 -   `Enfrente` Em frente
 -   `Atrás` Atrás (Indica movimento)
 -   `Detrás` Atrás/Detrás
@@ -70,6 +71,7 @@
 -   `Garaje` Garagem
 -   `Portón` Portão
 -   `Pasillo` Corredor
+-   `Corredor`
 
 ## Outros
 
@@ -142,3 +144,4 @@
 -   `Cuadra` Quadra
 -   `Vestíbulo` Saguão
 -   `Mezquita` Mesquita
+-   `Escenario` Palco

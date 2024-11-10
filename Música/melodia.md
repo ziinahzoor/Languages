@@ -16,7 +16,7 @@
     -   Em tríades geralmente a nota dobrada é o baixo.
 
 > [!IMPORTANT]
-> Os alcances médios de cada voz no SATB:
+> Os alcances médios (chamados _Tessituras_) de cada voz no SATB:
 > <img src="../assets/images/ranges.png" alt="Alcances do SATB" style="width:40rem; padding: 1rem; background-color: #E8F9FD; border-radius: 10px; border: 2px black solid;"/>
 
 ## Resolução
@@ -30,3 +30,9 @@
 
 > [!IMPORTANT]
 > Uma nota ter tendência a se resolver em outra não quer dizer que ela DEVE se resolver nela.
+
+## Frase
+
+**Uma _frase_ (Phrase) é um trecho da música com um senso musical autônomo. É a menor unidade musical que transmite uma ideia musical completa.**
+
+-   Geralmente possuem quatro ou oito compassos.

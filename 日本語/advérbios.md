@@ -40,6 +40,7 @@
 -   <font size="5"><code><ruby>全<rt>ぜん</rt>然<rt>ぜん</rt></ruby></code></font> Nem um pouco/De forma alguma
     -   Usado com frases negativas
 -   `まっすぐ` Direto/Diretamente
+-   `ぴったり` Justo/Firmemente/Perfeitamente
 
 ## Intensidade/Quantidade
 
@@ -47,6 +48,7 @@
 -   `あまり` Não muito
     -   Geralmente usado com frases negativas
     -   Polar inverso de `とても`.
+-   `かなり` Bastante/Consideravelmente
 -   `たいへん` Muito/Extremamente
 -   `たくさん` Muito (Quantidade)
 -   `ちょっと` Um pouco (Pode ser usado pra recusar algo)
@@ -56,7 +58,7 @@
         -   Usado em contextos empresariais e na culinária.
     -   <font size="5"><code>ちょっとの<ruby>間<rt>あいだ</rt></ruby></code></font> Por um instante/Por um momento
 -   `もっと` Mais
--   `いちばん` O melhor/O mais...
+-   <font size="5"><code><ruby>一<rt>いち</rt>番<rt>ばん</rt></ruby></code></font> O melhor/O mais...
 -   `まあまあ` Mais ou menos/Razoável
     -   Também serve para confortar alguém, como um "calma, calma". Para animais se usa `どうどう`
 -   `ほとんど` Quase/Praticamente/Majoritariamente

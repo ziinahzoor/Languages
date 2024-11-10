@@ -53,6 +53,7 @@
 ## Arrependimento
 
 -   `すみません` Com licença/Desculpa
+    -   Pode ser usado com a forma て para indicar "desculpa por...".
 -   `ごめんなさい` Desculpa (Casual)
 -   `さあ` Não tenho certeza
 

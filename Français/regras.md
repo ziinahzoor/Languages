@@ -154,3 +154,4 @@ A negação geralmente é conjugada como `ne [verbo] pas`. Note que o `pas` é m
 
 -   `Voiture` Carro
 -   `Pourtant` Porém
+-   `Crier` Gritar

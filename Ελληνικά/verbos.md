@@ -71,3 +71,8 @@
 ## Verbos irregulares
 
 -   `Είμαι` Ser
+
+## Verbos impessoais
+
+-   `Χιονίζει` Nevar
+-   `Βρέχει` Chover

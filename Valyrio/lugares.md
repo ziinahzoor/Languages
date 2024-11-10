@@ -14,6 +14,7 @@
 
 ### Vesteros - Westeros ☀️
 
+-   `Sīkuda Dāria` Sete Reinos 🌱
 -   `Dāro Vilinion` Porto Real 🌱
     -   `Bykurlion` Baixada das Pulgas 🌱
 -   `Dorne` 🌙
@@ -62,3 +63,8 @@
 
 -   `Naejon` Frente 🌱
 -   `Vamiot` Perto
+
+### Direções
+
+-   `Geptot` Esquerda
+-   `Paktot` Direita

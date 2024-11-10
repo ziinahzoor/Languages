@@ -37,6 +37,7 @@
 -   `それから` Depois disso
 -   `。。。にとって` Do ponto de vista de...
 -   `あっちこっち` Pra lá e pra cá
+-   <font size="5"><code><ruby>大<rt>たい</rt>変<rt>へん</rt></ruby></code></font> Estou em apuros
 
 ## <ruby>相<rt>あい</rt>槌<rt>づち</rt></ruby> - Interjeições de atenção
 
@@ -72,7 +73,7 @@
 -   `もう` Chega!
 -   `いいなあ` Que inveja!
 
-## Xingamentos
+## <ruby>汚<rt>きたな</rt></ruby>い<ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby> - Linguagem de baixo calão
 
 -   `くたばれ` Caia morto/Vai se f\*
 -   `しんじまえ` Morra/Vá pro inferno

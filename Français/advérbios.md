@@ -67,6 +67,8 @@
 -   `D'abord` Primeiramente
 -   `D'habitude` Geralmente
 -   `Du tout` De forma alguma
+-   `De toute façon` De qualquer forma/De qualquer maneira
+-   `Sans le vouloir` Sem querer
 -   `À l'étage` Lá em cima
 -   `Au coin de` Na esquina de
 -   `En fait` Na verdade
@@ -89,6 +91,7 @@
 -   `Facilement` Facilmente
 -   `Rarement` Raramente
 -   `Certainement` Certamente
+-   `Sûrement` Certamente
 -   `Sérieusement` Seriamente
 -   `Récemment` Recentemente
 -   `Spécialement` Especialmente

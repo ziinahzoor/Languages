@@ -284,6 +284,8 @@
 
 -   1 e 2 usam wago.
 
+### <font size="5"><code><ruby>着<rt>ちゃく</rt></ruby></code></font> Roupas e trajes
+
 ## Transformação dos contadores
 
 <table>

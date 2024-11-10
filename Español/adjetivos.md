@@ -161,8 +161,9 @@
 -   `Alejado` Longe
 -   `Molesto` Chateado
 -   `Horrible` Horrível
--   `Usual` Normal
 -   `Normal`
+-   `Usual` Normal/Comum
+-   `Inusual` Incomum
 -   `Muerto` Morto
 -   `En forma` Em forma
 -   `Liso`
@@ -183,3 +184,11 @@
 -   `Atractivo` Atraente
 -   `Real`
 -   `Extranjero` Estrangeiro
+-   `Ruidoso` Barulhento
+-   `Rico` Gostoso
+-   `En línea` Online
+-   `Trasera` Traseira
+-   `Vivo`
+    -   Também tem o sentido de "brilhante" para cores.
+-   `Redondo`
+-   `Cuadrado` Quadrado

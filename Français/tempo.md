@@ -39,7 +39,8 @@
 -   `Début` Começo
 -   `Semestre`
 -   `Époque` Época
--   `Futur/Avenir` Futuro
+-   `Futur` Futuro
+-   `Avenir` Futuro
 -   `Passé` Passado
 -   `Sièce` Século
 

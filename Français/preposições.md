@@ -31,3 +31,4 @@
 -   `Depuis` Desde/A partir de/Por/Faz (temporal)
 -   `Dès` Assim que/Logo que/Desde (temporal)
 -   `À cause de` Por causa de
+-   `Au bord de` Na beira de
