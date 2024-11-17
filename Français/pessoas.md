@@ -113,6 +113,8 @@
 -   `Vétérinaire` Veterinário
 -   `Architecte` Arquiteto
 -   `Comptable` Contador
+-   `Athlète` Atleta
+-   `Couple` Casal
 
 ## La famille - Família
 

@@ -192,3 +192,4 @@
     -   Também tem o sentido de "brilhante" para cores.
 -   `Redondo`
 -   `Cuadrado` Quadrado
+-   `Seguro` Certo (de ter certeza)

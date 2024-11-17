@@ -15,6 +15,7 @@
     -   `S'apprendre` Ensinar
 -   `Comprendre` Entender
 -   `Rendre` Deixar/Fazer (causar)
+    -   `Se rendre compte` Se dar conta
 -   `Boire` Beber
 -   `Lire` Ler
 -   `Écrire` Escrever
@@ -29,6 +30,9 @@
     -   `Faire la queue` Fazer fila/Esperar na fila
     -   `Se faire mal` Machucar-se
     -   `Faire plaisir à` Agradar
+    -   `Faire de l'escalade` Escalar
+    -   `Faire confiance à` Confiar
+    -   `Faire peur` Assustar
 -   `Défaire` Desfazer
 -   `Attendre` Esperar
 -   `Dire` Dizer
@@ -72,6 +76,7 @@
 -   `Préférer` Preferir
 -   `Arriver` Chegar
     -   `Arriver à` Ser capaz de
+    -   Também possui uma forma impessoal que significa "acontecer"
 -   `Acheter` Comprar
 -   `Rencontrer` Conhecer
     -   Tem o sentido de conhecer pela primeira vez.
@@ -275,6 +280,11 @@
 -   `Exprimer` Expressar
 -   `Organiser` Organizar
 -   `Bronzer` Bronzear-se
+-   `S'entraîner` Treinar/Praticar
+-   `Assister` Assistir
+    -   Tem uma conotação presencial.
+-   `Discuter` Debater/Dialogar
+-   `Disputer` Discutir
 
 ## -ir Verbes
 
@@ -299,6 +309,7 @@
 -   `Dormir`
 -   `Partir` Sair (Leave)
 -   `Sortir` Sair (Get out, go out)
+    -   `Sortir avec` Sair com
 -   `Finir` Terminar
 -   `Courir` Correr
 -   `Choisir` Escolher

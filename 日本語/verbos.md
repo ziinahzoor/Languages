@@ -178,6 +178,7 @@
 -   <font size="5"><code><ruby>読<rt>よ</rt></ruby>む</code></font> Ler
 -   `たのしむ` Divertir-se/Satisfazer-se
 -   <font size="5"><code><ruby>進<rt>すす</rt></ruby>む</code></font> Avançar/Seguir em frente
+-   <font size="5"><code><ruby>頼<rt>たの</rt></ruby>む</code></font> Pedir/Solicitar/Implorar
 -   <font size="5"><code><ruby>呼<rt>よ</rt></ruby>ぶ</code></font> Chamar/Convidar
 -   <font size="5"><code><ruby>遊<rt>あそ</rt></ruby>ぶ</code></font> Passar tempo/Brincar/Jogar
 -   `まなぶ` Aprender
@@ -258,6 +259,7 @@
 -   <font size="5"><code><ruby>知<rt>し</rt></ruby>る</code></font> Conhecer/Descobrir/Ficar sabendo
 -   <font size="5"><code><ruby>困<rt>こま</rt></ruby>る</code></font> Estar com problemas/Estar em apuros
 -   <font size="5"><code><ruby>売<rt>う</rt></ruby>る</code></font> Vender
+-   <font size="5"><code><ruby>蹴<rt>け</rt></ruby>る</code></font> Chutar
 
 ## 一段 - Ichidan
 
@@ -326,6 +328,7 @@
     -   Geralmente usado na forma `ている`
 -   <font size="5"><code><ruby>締<rt>し</rt></ruby>める</code></font> Amarrar/Colocar (cintos e gravatas)
 -   `はめる` Abotoar
+-   <font size="5"><code><ruby>投<rt>な</rt></ruby>げる</code></font> Arremessar/Lançar/Jogar
 
 ## Verbos する
 

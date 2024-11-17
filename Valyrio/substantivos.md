@@ -33,6 +33,7 @@
 -   `Dēmalion` Trono 🌱
 -   `Qurdon` Mesa 🌱
 -   `Rūniapos` Carta ☀️
+-   `Sōlutty` Pergaminho 🌙
 
 ## Abstratos
 

@@ -5,13 +5,20 @@
 
 ## Adjetivos い
 
+> [!IMPORTANT]
+> Alguns adjetivos terminados em `いい` têm sua forma honorífica como <font size="5"><code><ruby>良<rt>よ</rt></ruby>い</code></font>.
+> A forma `いい` só pode ser utilizada no presente afirmativo, portanto a forma honorífica deve ser utilizada em todas as outras conjugações, como no passado e na forma negativa.
+> Apesar de `いい` poder ser escrito com o mesmo kanji da forma honorífica, a utilização deste geralmente indica a leitura da forma honorífica.
+
 -   `ない` Não ser/existir
 -   `いい` Bom
-    -   `よい` Bom (Honorífico). Esta é utilizada em todas as outras conjugações. Todos os outros adjetivos que usam `いい` como radical devem seguir a mesma ideia.
+    -   Adjetivo `いい`
+    -   <font size="5"><code><ruby>良<rt>よ</rt></ruby>い</code></font> Honorífico
         -   Forma aparente: `よさそう`
     -   `よろしい` Honorífico (Sonkeigo)
--   `かっこいい` Legal
+-   <font size="5"><code><ruby>格<rt>かっ</rt>好<rt>こ</rt></ruby>いい</code></font> Legal
     -   Adjetivo `いい`
+    -   Geralmente se escreve somente com kana
 -   `ダサい` Brega/Sem estilo
 -   <font size="5"><code><ruby>親<rt>しん</rt>切<rt>せつ</rt></ruby></code></font> Gentil, generoso
 -   <font size="5"><code><ruby>気<rt>き</rt>持<rt>も</rt></ruby>ちいい</code></font> Agradável/De sentimento agradável/Confortável
@@ -155,6 +162,8 @@
 -   <font size="5"><code><ruby>暇<rt>ひま</rt></ruby></code></font> Livre/Desocupado
 -   <font size="5"><code><ruby>嫌<rt>い</rt>い</ruby></code></font> Desgostável/Não querível/Relutante
     -   É mais utilizado com situações.
+-   <font size="5"><code><ruby>上手<rt>じょうず</rt></ruby></code></font> Hábil/Habilidoso/Bom em
+-   <font size="5"><code><ruby>下手<rt>へた</rt></ruby></code></font> Inábil/Ruim em
 
 ## Adjetivos たる
 

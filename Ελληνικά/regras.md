@@ -67,6 +67,8 @@
     </tr>
 </table>
 
+-   Em grego as expressões climáticas são ditas usando o verbo `Έχω` + o substantivo relacionado no acusativo. Ex.: "faz sol" ou "está ensolarado" é dito como `Έχει ήλιο` "tem sol".
+
 ## Adjetivos
 
 -   As formas masculinas costumam terminar em `-ος`, `-ύς` e `-ης`.

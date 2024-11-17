@@ -45,6 +45,7 @@
 -   `Tortilla` Omelete
 -   `Crema` Creme 🚺
 -   `Ajo` Alho
+-   `Salchicha` Salsicha
 
 ## Las Frutas
 

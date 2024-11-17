@@ -54,6 +54,7 @@
 -   `Brillant` Brilhante
 -   `Pâle` Pálido
 -   `Musclé` Musculoso
+-   `Costaud` Bombado
 
 ## Idade
 
@@ -153,6 +154,8 @@
 -   `Responsable` Responsável
 -   `Stupide` Estúpido
 -   `Original`
+-   `Impossible` Impossível
+-   `Hanté` Assombrado
 
 ### Personalidade
 

@@ -1,10 +1,10 @@
 # <ruby>数<rt>すう</rt>字<rt>じ</rt></ruby> - Números
 
-**ばんごう** é utilizado para se referir a números específicos, como um número de celular ou quarto.
+**<font size="5"><code><ruby>番<rt>ばん</rt>号<rt>ごう</rt></ruby></code></font>** é utilizado para se referir a números específicos que identifiquem alguma coisa (uma série de dígitos), como um número de celular ou quarto.
 
 **Usam as formas <font size="5"><code><ruby>和<rt>わ</rt>語<rt>ご</rt></ruby></code></font> (palavra nativa), <font size="5"><code><ruby>漢<rt>かん</rt>語<rt>ご</rt></ruby></code></font> (palavra chinesa), e <font size="5"><code><ruby>外<rt>がい</rt>来<rt>らい</rt>語<rt>ご</rt></ruby></code></font> (palavra estrangeira).**
 
-**Também existe o <font size="5"><code><ruby>大<rt>だい</rt>字<rt>じ</rt></ruby></code></font> para evitar fraudes, usado em dinheiro.**
+**Também existem os <font size="5"><code><ruby>大<rt>だい</rt>字<rt>じ</rt></ruby></code></font>, formas alternativas dos caracteres numéricos usadas em contextos financeiros (como em cédulas de dinheiro) para evitar fraudes.**
 
 **Em números de telefone, `の` demarca o traço separador.**
 

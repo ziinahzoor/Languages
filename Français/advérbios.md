@@ -77,6 +77,7 @@
 -   `En retard` Atrasado
 -   `En solde` De promoção
 -   `En promotion` De promoção
+-   `En ce moment` Neste momento
 -   `Sur Internet` Online
 
 ## De manière - De modo

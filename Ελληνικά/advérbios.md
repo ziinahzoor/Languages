@@ -7,3 +7,14 @@
 -   `Λίγο` Pouco
 -   `Καλά` Bem
 -   `Πώς` Como
+-   `Έξω` Fora
+-   `Μέσα` Em/No/Dentro
+-   `Ανάμεσα` Entre
+-   `Μεταξύ` Entre
+-   `Δίπλα` Próximo/Ao lado
+-   `Πίσω` Atrás
+-   `Πάνω` Acima/Em cima
+-   `Κάτω` Abaixo/Embaixo
+-   `Μετά` Depois
+-   `Κοντά` Perto
+-   `Εκτός` Exceto

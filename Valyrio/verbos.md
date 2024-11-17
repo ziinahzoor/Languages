@@ -30,12 +30,16 @@
 -   `Ropagon` Cair
 -   `Mōzugon` Beber
 -   `Ykynagon` Cheirar
+-   `Sylugon` Tentar
 -   `Sylutegon` Provar/Experimentar
 -   `Umāzigon` Vir/Chegar
     -   Complemento sempre está no dativo.
 -   `Zoklākogon` Atrair/Encantar
 -   `Mijegon` Faltar/Não ter
 -   `Renigon` Tocar
+-   `Rakegon` Participar
+-   `Gīmigon` Saber
+-   `Gūrogon` Pegar
 
 ## Verbos -agon
 
@@ -47,6 +51,7 @@
 -   `Rȳbagon` Ouvir/Obedecer
 -   `Jorrāelagon` Amar
 -   `Rijagon` Elogiar/Louvar
+-   `Rijībagon` Adorar (religiosamente)
 -   `Majaqagon` Admirar
 -   `Ipradagon` Comer
 -   `Ojehikagon` Abençoar
@@ -87,8 +92,16 @@
 -   `Pikībagon` Ler
 -   `Tymagon` Brincar/Jogar
 -   `Vīlībagon` Lutar
--   `Onduragon` Pegar/Segurar
+-   `Onduragon` Segurar/Pegar
 -   `Pamagon` Esfregar
     -   Acompanha com o que se esfrega no dativo.
 -   `О̄dragon` Machucar
 -   `Memēbagon` Marchar
+-   `Sēnagon` Matar
+-   `Dāeremagon` Libertar
+-   `Kostagon` Poder
+-   `Bēvilagon` Dever (de obrigação)
+-   `Sytilībagon` Dever/Ser para alguém (de compromisso ou obrigação com tom sugestivo)
+-   `Qrīdrughagon` Desistir/Abandonar/Jogar fora/Descartar
+-   `Rāenagon` Escovar
+-   `Sahagon` Forçar/Causar/Obrigar

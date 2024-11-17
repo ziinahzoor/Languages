@@ -271,6 +271,7 @@
 -   <font size="5"><code><ruby>数<rt>かず</rt></ruby></code></font> Número (quantidade)
 -   `ほう` Opção/Maneira
     -   Muito utilizado em frases comparativas, geralmente acompanhando um demonstrativo determinante ou um substantivo + `の`. Indica um lado da comparação.
+-   <font size="5"><code><ruby>字<rt>じ</rt></ruby></code></font> Escrita/Letra/Caractere
 
 ### Condições
 
@@ -413,7 +414,7 @@
 -   `ドラマ` Drama/Novela
 -   `どうが` Vídeo
 -   `アニメ` Anime
--   `まんが` Mangá
+-   <font size="5"><code><ruby>漫<rt>まん</rt>画<rt>が</rt></ruby></code></font> Mangá
 -   <font size="5"><code><ruby>映<rt>えい</rt>画<rt>が</rt></ruby></code></font> Filme
 -   `ニュース` Notícias
 -   `ジェットコースター` Montanha-russa
@@ -469,7 +470,7 @@
     ― `アメフト` Futebol Americano
 -   `バスケットボール` Basquete
 -   `バレーボール` Vôlei
--   `やきゅう` Beisebol
+-   <font size="5"><code><ruby>野<rt>や</rt>球<rt>きゅう</rt></ruby></code></font> Beisebol
 -   `からて` Caratê
 -   `テニス` Tênis
 -   `じゅうどう` Judô
@@ -482,6 +483,7 @@
 -   `たいかい` Torneio
 -   `ジョギング` Corrida
 -   `ボクシング` Boxe
+-   `ボール` Bola
 
 ## <ruby>音<rt>おん</rt>楽<rt>がく</rt></ruby> - Música
 

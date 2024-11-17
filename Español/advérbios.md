@@ -4,6 +4,8 @@
 -   `Sí` Sim
 -   `Dónde` Onde
 -   `Adónde` Aonde
+-   `Pero` Mas
+-   `Sin embargo` Porém/Entretanto
 -   `Muy` Muito (Very)
 -   `Mucho` Muito (A lot)
 -   `Poco` Pouco
@@ -66,6 +68,7 @@
 -   `Abajo` Abaixo
 -   `Arriba` Acima
 -   `Tal como` Como/Tal como
+-   `A la venta` À venda
 
 ## De modo
 

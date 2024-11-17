@@ -167,6 +167,7 @@
 -   `Calendrier` Calendário
 -   `Pelle` Pá
 -   `Bouquet` Buquê
+-   `Mouchoir` Lenço
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -365,6 +366,7 @@
 -   `Annonce` Anúncio 🚺
 -   `Plaisir` Prazer
 -   `Espoir` Esperança 🚹
+-   `Confiance` Confiança
 
 ### Unidades de medida
 
@@ -532,6 +534,7 @@
 -   `Hockey` Hóquei
 -   `Jeux Olympiques` Jogos Olímpicos
 -   `Club` Clube/Time
+-   `Raquette` Raquete
 
 ## Música
 

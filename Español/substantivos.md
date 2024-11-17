@@ -32,6 +32,7 @@
 -   `Madera` Madeira
 -   `Cuero` Couro
 -   `Plástico`
+-   `Lana` Lã
 
 ## Casa e objetos
 
@@ -65,6 +66,7 @@
 -   `Bolígrafo` Caneta 🚹
 -   `Examen` Prova 🚹
 -   `Computadora` Computador 🚺
+    -   `PC` 🚺
 -   `Portátil` Laptop
 -   `Silla` Cadeira
 -   `Sillón` Cadeirão/Poltrona
@@ -283,6 +285,9 @@
 -   `Deseo` Desejo
 -   `Temperatura`
 -   `Rebanada` Fatia
+-   `Costo` Custo
+-   `Colección` Coleção
+-   `Trozo` Pedaço
 
 ### Medidas
 
@@ -292,6 +297,7 @@
 -   `Kilogramo` Quilograma 🚹
 -   `Grado` Grau
     -   `Kilo` Quilo
+-   `Mitad` Metade
 
 ### Formas abstratas
 
@@ -373,6 +379,9 @@
     -   `Reserva` Espanha
 -   `Entrada` Ingresso
 -   `Menú` Cardápio
+-   `Propina` Gorjeta
+-   `Oferta`
+-   `Descuento` Desconto
 
 ### La Escuela - Escola
 

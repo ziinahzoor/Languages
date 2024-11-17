@@ -196,7 +196,7 @@
 > -   `Tolv-` Todos (Universal)
 > -   `Mir-` Algum (Existencial)
 > -   `Dōr-` Nenhum (Negativo)
-> -   `Tol-` Outro (Alternativo)
+> -   `Tol-` Outro/Mais um (Alternativo)
 
 <table>
 	<thead>
@@ -210,18 +210,18 @@
 	</thead>
 	<tr>
 		<th rowspan="2">Não-Determinante</th>
-		<th>Inanimado</th>
-		<td>Tolvȳn</td>
-		<td>Mirros</td>
-		<td>Daorun</td>
-		<td>Tolion</td>
-	</tr>
-	<tr>
 		<th>Animado</th>
 		<td>Tolvys</td>
 		<td>Mirtys</td>
 		<td>Daorys</td>
 		<td>Tolys</td>
+	</tr>
+	<tr>
+		<th>Inanimado</th>
+		<td>Tolvȳn</td>
+		<td>Mirros</td>
+		<td>Daorun</td>
+		<td>Tolion</td>
 	</tr>
 	<tr>
 		<th colspan="2">Determinante</th>
@@ -231,15 +231,28 @@
 		<td>Tolie</td>
 	</tr>
 	<tr>
+		<th rowspan="2">Dativo</th>
+		<th>Animado</th>
+		<td>Tolvot</td>
+		<td>Mirrot</td>
+		<td>Daorot</td>
+		<td>Tolot</td>
+	</tr>
+	<tr>
+		<th>Inanimado</th>
+		<td rowspan="2">Tolviot</td>
+		<td rowspan="2">Mirriot</td>
+		<td rowspan="2">Daoriot</td>
+		<td>Toliot</td>
+	</tr>
+	<tr>
 		<th colspan="2">Local</th>
-		<td>Tolviot</td>
-		<td>Mirriot</td>
-		<td>Daoriot</td>
 		<td></td>
 	</tr>
 </table>
 
 -   `Olvie` Muitos
+-   `Dorolvie` Poucos
 -   `Dōrī` Nunca
 -   `Tolkydoso` De outra maneira
 

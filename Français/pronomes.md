@@ -227,6 +227,7 @@
 -   `Tel` Alguém/Qualquer um
 -   `Rien` Nada
 -   `Alcun` Nenhum
+-   `Tous les deux` Ambos
 
 |           | Singular | Plural |
 | --------- | -------- | ------ |

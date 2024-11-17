@@ -4,3 +4,4 @@
 -   `Vellaros` Calça ☀️
 -   `Qībōños` Capa ☀️
 -   `Mīsvos` Armadura ☀️
+-   `Laodiapos` Máscara ☀️

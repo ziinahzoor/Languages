@@ -91,7 +91,7 @@
 
 ## Dúvida
 
--   `たぶん` Provavelmente
+-   <font size="5"><code><ruby>多<rt>た</rt>分<rt>ぶん</rt></ruby></code></font> Provavelmente
 
 ## Interrogativos
 

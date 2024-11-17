@@ -63,6 +63,7 @@
 -   `Viajar`
 -   `Cantar`
 -   `Quedar` Ficar/Juntar-se
+    -   `Quedarse` Manter
 -   `Cambiar` Trocar
 -   `Pensar`
 -   `Ahogar` Afogar
@@ -161,6 +162,8 @@
 -   `Picar`
     -   Também pode ser "fazer um lanche"
 -   `Importar`
+-   `Mezclar` Misturar
+-   `Agregar` Adicionar
 
 ## Los verbos -er
 
@@ -215,6 +218,8 @@
 -   `Ofrecer` Oferecer
 -   `Agradecer`
 -   `Pertenecer` Pertencer
+-   `Escoger` Escolher
+-   `Devolver`
 
 ## Los verbos -ir
 

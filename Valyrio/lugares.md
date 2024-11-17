@@ -58,6 +58,7 @@
 ## Lenton - Casa 🌱
 
 -   `Vumbiarzy` Quarto 🌙
+-   `Dōros` Parede ☀️
 
 ## Lugares Relativos
 

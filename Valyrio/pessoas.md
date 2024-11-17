@@ -34,6 +34,7 @@
 -   `Mittys` Idiota ☀️
 -   `Ozgūroty` Prisioneiro 🌙
 -   `Teptys` Professor ☀️
+-   `Hēdys` Açougueiro/Algoz ☀️
 
 ## Lentor - Família 🌊
 
