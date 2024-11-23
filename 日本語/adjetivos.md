@@ -3,7 +3,7 @@
 > [!TIP]
 > Para ver as regras de conjugação, clique [aqui](conjugações-adjetivos.md).
 
-## Adjetivos い
+## <ruby>形<rt>けい</rt>容<rt>よう</rt>詞<rt>し</rt></ruby> - Adjetivos い
 
 > [!IMPORTANT]
 > Alguns adjetivos terminados em `いい` têm sua forma honorífica como <font size="5"><code><ruby>良<rt>よ</rt></ruby>い</code></font>.
@@ -11,6 +11,8 @@
 > Apesar de `いい` poder ser escrito com o mesmo kanji da forma honorífica, a utilização deste geralmente indica a leitura da forma honorífica.
 
 -   `ない` Não ser/existir
+    -   `ありません` Contraparte honorífica (verbal)
+    -   `ね・ねえ` Contração (muito informal)
 -   `いい` Bom
     -   Adjetivo `いい`
     -   <font size="5"><code><ruby>良<rt>よ</rt></ruby>い</code></font> Honorífico
@@ -26,7 +28,7 @@
 -   <font size="5"><code><ruby>易<rt>やさ</rt></ruby>しい</code></font> Fácil
     -   É mais subjetivo.
 -   <font size="5"><code><ruby>難<rt>むずか</rt></ruby>しい</code></font> Difícil/Complexo
-    -   Se refere à dificuldade intrínseca de algo.
+    -   Se refere à dificuldade intrínseca de algo, a complexidade.
 -   <font size="5"><code><ruby>悪<rt>わる</rt></ruby>い</code></font> Ruim
 -   `うすい` Magro
 -   `おいしい` Gostoso
@@ -40,13 +42,14 @@
     -   É mais utilizado com coisas concretas.
 -   <font size="5"><code><ruby>明<rt>あか</rt></ruby>るい</code></font> Brilhante/Iluminado
 -   <font size="5"><code><ruby>暗<rt>く</rt></ruby>らい</code></font> Escuro
--   `かわいい` Fofo
+-   <font size="5"><code><ruby>可愛<rt>かわい</rt></ruby>い</code></font> Fofo
+    -   Geralmente escrito somente com kana.
 -   <font size="5"><code><ruby>面<rt>おも</rt>白<rt>しろ</rt></ruby>い</code></font> Interessante/Engraçado
 -   `つまらない` Entediante
 -   <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しい</code></font> Divertido/Aprazível
 -   `うるさい` Barulhento/Irritante
 -   <font size="5"><code><ruby>忙<rt>いそが</rt>しい</ruby></code></font> Ocupado
--   `あたまがいい` Inteligente
+-   <font size="5"><code><ruby>頭<rt>あたま</rt></ruby>がいい</code></font> Inteligente
     -   Adjetivo `いい`
 -   <font size="5"><code><ruby>若<rt>わか</rt></ruby>い</code></font> Jovem
 -   <font size="5"><code><ruby>新<rt>あたら</rt></ruby>しい</code></font> Novo
@@ -54,7 +57,7 @@
 -   <font size="5"><code><ruby>高<rt>たか</rt></ruby>い</code></font> Caro/Alto
 -   <font size="5"><code><ruby>安<rt>やす</rt></ruby>い</code></font> Barato
 -   <font size="5"><code><ruby>低<rt>ひく</rt></ruby>い</code></font> Baixo
--   <font size="5"><code><ruby>広<rt>ひろ</rt></ruby>い</code></font> Largo/Espaçoso
+-   <font size="5"><code><ruby>広<rt>ひろ</rt></ruby>い</code></font> Largo/Espaçoso/Vasto
 -   <font size="5"><code><ruby>狭<rt>せま</rt></ruby>い</code></font> Estreito/Apertado
 -   <font size="5"><code><ruby>速<rt>はや</rt></ruby>い</code></font> Rápido
 -   <font size="5"><code><ruby>早<rt>はや</rt></ruby>い</code></font> Cedo
@@ -108,8 +111,9 @@
 -   `きつい` Complicado/Apertado
 -   `ゆるい` Solto/Frouxo
 -   <font size="5"><code><ruby>丸<rt>まる</rt></ruby>い</code></font> Redondo
+-   <font size="5"><code><ruby>青<rt>あお</rt></ruby>い</code></font> Azul/Pálido
 
-## Adjetivos な
+## <ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos な
 
 -   `きれい` Limpo/Bonito
 -   `ナイス` Legal/Bom (Nice)
@@ -151,6 +155,7 @@
 -   `スペシャル` Especial
 -   `へん` Estranho/Esquisito
 -   `ヘルシー` Saudável
+-   <font size="5"><code><ruby>元<rt>げん</rt>気<rt>き</rt></ruby></code></font> Saudável/Vívido/Energético
 -   `さいこう` Fantástico
 -   `しあわせ` Feliz
 -   <font size="5"><code><ruby>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Resistente/Durável/Robusto
@@ -160,10 +165,12 @@
 -   <font size="5"><code><ruby>簡<rt>かん</rt>単<rt>たん</rt></ruby></code></font> Simples/Fácil/Descomplicado
     -   É mais objetivo.
 -   <font size="5"><code><ruby>暇<rt>ひま</rt></ruby></code></font> Livre/Desocupado
--   <font size="5"><code><ruby>嫌<rt>い</rt>い</ruby></code></font> Desgostável/Não querível/Relutante
+-   <font size="5"><code><ruby>嫌<rt>いや</rt></ruby></code></font> Desgostável/Não querível/Relutante
     -   É mais utilizado com situações.
 -   <font size="5"><code><ruby>上手<rt>じょうず</rt></ruby></code></font> Hábil/Habilidoso/Bom em
 -   <font size="5"><code><ruby>下手<rt>へた</rt></ruby></code></font> Inábil/Ruim em
+-   <font size="5"><code><ruby>危<rt>き</rt>険<rt>けん</rt></ruby></code></font> Perigoso
+-   <font size="5"><code><ruby>必<rt>ひつ</rt>要<rt>よう</rt></ruby></code></font> Necessário/Essencial/Indispensável
 
 ## Adjetivos たる
 
@@ -184,12 +191,12 @@
 
 **São adjetivos usados relacionados a sentimentos, onde em outras linguagens geralmente são verbos.**
 
--   <font size="5"><code><ruby>欲<rt>ほ</rt></ruby>しい</code></font> Querível
--   <font size="5"><code><ruby>好<rt>す</rt>き</ruby></code></font> Gostável `な`
-    -   <font size="5"><code><ruby>大<rt>だい</rt>好<rt>す</rt>き</ruby></code></font> Amável `な`
+-   <font size="5"><code><ruby>欲<rt>ほ</rt></ruby>しい</code></font> Querível (Querer)
+-   <font size="5"><code><ruby>好<rt>す</rt>き</ruby></code></font> Gostável (Gostar) `な`
+    -   <font size="5"><code><ruby>大<rt>だい</rt>好<rt>す</rt>き</ruby></code></font> Amável (Amar) `な`
     -   Também pode significar "preferível".
--   <font size="5"><code><ruby>嫌<rt>きら</rt>い</ruby></code></font> Desgostável/Odiável `な`
+-   <font size="5"><code><ruby>嫌<rt>きら</rt>い</ruby></code></font> Desgostável/Odiável (Desgostar) `な`
     -   É mais utilizado com objetos e pessoas.
     -   Tem uma conotação mais forte que `嫌`.
--   <font size="5"><code><ruby>痛<rt>い</rt>たい</ruby></code></font> Doloroso/Vergonhoso
+-   <font size="5"><code><ruby>痛<rt>い</rt>たい</ruby></code></font> Doloroso/Vergonhoso (Doer)
 -   `とくい` Ser bom em `な`

@@ -44,8 +44,9 @@
 **Usadas em conversas para demonstrar que está prestando atenção**
 
 -   `あ` Ah!
--   `そうだ` Ah! (Ao se lembrar de algo)
 -   `うわー` Ah (Desapontamento)
+-   `そうだ` Ah! (Ao se lembrar de algo)
+-   `なんだ` O quê?!
 -   `そうです` Está certo
 -   `そうか` É mesmo? (Retórico)/Entendo
     -   `そうなんですか` É mesmo? (Sobre um fato desconhecido)
@@ -66,7 +67,7 @@
 -   `え` Hein/Huh/Anem
 -   `えー・えーと・うーん・うーんと` Hmmm... (Pensando no que dizer)
 -   `うそー` Não acredito!/Mentira!
--   `あれ` O quê? (Algo está errado)
+-   `あれ` O quê? (Algo está errado, surpresa, suspeita)
 -   `あっちゃー・あちゃー・しまった` Ah não (Cometeu-se um erro)
 -   `おお` Oh! (Impressionado)
 -   `やれやれ` Ok, ok/Ah coitado (Ao confortar ou ajudar alguém)

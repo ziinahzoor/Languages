@@ -8,6 +8,7 @@
 -   `Que`
 -   `Pues` Bem/Pois
 -   `Si` Se
+-   `Sino` Mas/Senão
 
 ## Locuções conjuntivas
 

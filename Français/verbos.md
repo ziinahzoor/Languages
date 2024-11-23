@@ -285,6 +285,8 @@
     -   Tem uma conotação presencial.
 -   `Discuter` Debater/Dialogar
 -   `Disputer` Discutir
+-   `Sonner` Soar/Tocar/Bater
+    -   Usado para telefones, portas, campainhas, sinos, etc.
 
 ## -ir Verbes
 

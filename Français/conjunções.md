@@ -11,6 +11,7 @@
 -   `Donc` Então/Portanto
     -   Indica causalidade, consequência.
     -   Pode ser substituído por `alors` (o contrário não necessariamente).
+-   `Dès que` Assim que/Desde que
 
 # Interjections - Interjeições
 

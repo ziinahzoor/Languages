@@ -49,6 +49,8 @@
 
 **[Gramática japonesa](https://www.tofugu.com/japanese-grammar/)**
 
+**[Gramática 2](https://imabi.org/)**
+
 **[Radicais dos kanji](https://docs.google.com/spreadsheets/d/1PDY4D8TPz7b-KEFVMyV-uyrEVteopqs6hFoFERfXY-4/edit#gid=1180165444)**
 
 **[Kanji explicado de forma simples](https://www.kanjidamage.com/)**

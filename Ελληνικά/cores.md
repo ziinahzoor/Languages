@@ -6,6 +6,7 @@
     -   `Γαλάζιο` Azul claro
 -   `Μαύρο` Preto
 -   `Καφέ` Marrom
+    -   `Καστανό` Marrom/Castanho
 -   `Μοβ` Roxo
 -   `Πράσινο` Verde
 -   `Κόκκινο` Vermelho

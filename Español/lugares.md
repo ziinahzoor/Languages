@@ -137,7 +137,7 @@
 -   `Puente` Ponte 🚹
 -   `Área`
 -   `Colina`
--   `Departamento`
+-   `Departamento` Departamento/Apartamento
 -   `Concejo municipal` Conselho municipal
 -   `Salida` Saída
 -   `Andén` Plataforma 🚹

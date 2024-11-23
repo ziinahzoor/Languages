@@ -38,7 +38,8 @@
 
 ## Felicitações
 
--   `Felicitaciones` Parabéns
+-   `¡Felicitaciones!` Parabéns!
+-   `¡Felicidades!` Parabéns!
 
 ## Agradecimento
 

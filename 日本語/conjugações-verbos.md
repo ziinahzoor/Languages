@@ -135,8 +135,7 @@
 
 <h3 id="var_negativa"><ruby>否<rt>ひ</rt>定<rt>てい</rt>形<rt>けい</rt></ruby> - Forma negativa (ない)</h3>
 
--   Utiliza o adjetivo de negação `ない`.
--   `ない` é a negação de `ある`.
+-   Utiliza o verbo/adjetivo auxiliar `ない`, que é a negação (irregular) de `ある`.
 -   Transforma verbos em sua forma negativa.
 -   A forma negativa + a partícula interrogativa `か` ou um tom interrogativo geralmente é usada para fazer um convite ou sugestão, como "Você gostaria de...?" ou "Que tal se...?".
     -   Também vale para a forma educada negativa.
@@ -169,17 +168,22 @@
 
 <h2 id="var_base-i"><ruby>連<rt>れん</rt>用<rt>よう</rt>形<rt>けい</rt></ruby> - Base い (Conjuntiva)</h2>
 
-<h3 id="var_nominal"><ruby>動<rt>どう</rt>名<rt>めい</rt>詞<rt>し</rt></ruby> - Forma nominal ou Gerúndio</h3>
+<h3 id="var_nominal"><ruby>動<rt>どう</rt>名<rt>めい</rt>詞<rt>し</rt></ruby> - Forma nominal ou gerúndio</h3>
+
+> [!IMPORTANT]
+> Esta forma muitas vezes não é intercambiável com a nominalização de verbos com a partícula `の` e é mais utilizada com função de nominalização em PALAVRAS COMPOSTAS.
 
 -   É como se usam verbos como substantivos.
 -   Usa apenas a forma do verbo com o radical `い`.
--   Indica um verbo composto.
+-   Indica uma palavra composta. Isto é, um verbo que acompanha outro verbo ou um substantivo.
 -   Indica o ato do verbo em si. Ex.: `買い` Ato de comprar.
 -   Pode acompanhar particulas. Ex.: `買いに行く` Vou para comprar.
+-   Para verbos ichidan, consiste apenas de retirar a terminação `る`.
+-   As formas nominais de `する` e `来る` são `し` e `き`, respectivamente.
 
 <h3 id="var_educada"><ruby>丁<rt>てい</rt>寧<rt>ねい</rt>形<rt>けい</rt></ruby> - Forma educada (ます)</h3>
 
--   `ます` é um verbo auxiliar que só serve para o discurso honorífico.
+-   `ます` é um verbo auxiliar que serve somente para o discurso honorífico.
 -   Usa o radical negativo `せん` ao invés de `さない` pois deriva do japonês antigo.
 
 <h3 id="var_desejo">たい<ruby>形<rt>けい</rt></ruby> - Forma de desejo (たい)</h3>
@@ -220,6 +224,10 @@
 
 -   É igual à forma de dicionário.
 -   É a forma em que se descreve um substantivo adjetivamente. Ex.: `学ぶ学生` "Estudante que estuda"
+-   É como se formam as orações relativas: basta usar o verbo na forma plana antes de um substantivo, fazendo com que o verbo o descreva.
+    -   Em orações relativas não se usa a forma educada. Costuma-se usar o passado ou a forma continuativa.
+    -   As orações relativas sempre vêm depois da partícula `が`, que muitas das vezes pode ser substituída por `の`. Em orações relativas não se usa a partícula `は`.
+    -   Ex.: `ウサギは服を着ている` significa "O coelho usa roupa". Para dizer "O coelho que usa roupa", inverte-se: `服をきているうさぎ`.
 
 ---
 
@@ -255,7 +263,7 @@
 -   Exceções:
     -   `くださる` → `ください`
     -   `ある` → `あれ`
--   Para comandos negativos, pode-se usar a forma de dicionário + `な`. Para ser menos rude, pode-se usar a forma `ない`＋`で`+`ください`.
+-   Para comandos negativos (forma proibitiva), pode-se usar a forma de dicionário + `な`. Para ser menos rígido, pode-se usar a forma `ない`＋`で`+`ください`.
 
 ---
 
@@ -286,9 +294,13 @@
 </table>
 
 -   `よう` para verbos ichidan.
--   Indica vontade de ou incentivo ao realizar alguma ação: `Vamos...!`.
+-   Indica vontade, intenção ou sugestão de realizar alguma ação: `Vamos...!`.
 -   Pode ser utilizado com o auxiliar `ます`, se tornando `ましょう`.
--   Para `だ` é `だろう` e `です` é `でしょう`. Geralmente indica probabilidade.
+-   Para `だ` é `だろう` e `です` é `でしょう`.
+    -   Tem a função de supor, especular ou conjecturar, como "eu acho que" ou "pode ser que".
+    -   Geralmente indica a possibilidade de algo ou que algo parece acontecer. Indica que tudo leva a crer que algo é verdade.
+    -   `でしょう` pode ser abreviado para `でしょ`.
+    -   É volitivo pois sugere a opinião de quem fala, dizendo o que tem a intenção de acontecer.
 -   Exceções:
     -   `〜ます` → `〜ましょう`
     -   `〜ない` → `〜なかろう`
@@ -368,6 +380,7 @@
 -   Serve para conectar diversos verbos como uma sequência de eventos ou um "e".
 -   Também serve como "então" em alguns contextos. Como um conector de frases.
 -   No final da frase serve como comando ou pedido. No último caso é bom adicionar `ください` para ser educado
+    -   No negativo, fica `ないで`.
     -   Note que para ser ainda mais honorífico (contextos empresariais), pode-se usar `お` + radical `い` + `ください` ao invés da forma `て`.
 -   Exceções às mudanças eufônicas:
     -   `行く` → `行って`
@@ -399,12 +412,20 @@
 ### Formas する
 
 > [!TIP]
-> A partícula `を` é opcional quando usada com verbos-する.
+> A partícula `を` é opcional quando usada com verbos-する, não alterando a semântica da frase. Entretanto, a partícula é obrigatória quando o verbo-する vem depois de um adjetivo.
+> Quando há um objeto direto, a partícula pode vir em duas posições, sem perder o sentido sintático:
+>
+> -   Objeto + を + verbo + する.
+> -   Objeto + の + verbo + を + する.
 
 #### にする
 
 -   Transformar algo em outra coisa. Contraparte transitiva do verbo `なる`.
 -   Decidir sobre algo.
+
+#### ことにする
+
+-   Decidir realizar alguma coisa.
 
 #### とする
 
@@ -415,12 +436,3 @@
 -   Sentido parecido com とする, porém tem o intuito de analisar sob a luz do que é considerado (analisar algo sobre essa consideração). Ex.: `外国人として彼の日本語がいいです` (Para um estrangeiro, seu japonês é muito bom).
 
 ---
-
-# Regras
-
--   Quanto ao verbo existir, `います` é usado para coisas vivas, `あります` para coisa não vivas.
-    -   Geralmente são acompanhados pela partícula `が`
-    -   Robôs são considerados vivos. Pessoas e animais mortos não são considerados vivos. Plantas também não
-    -   `あります` também pode significar "ter".
--   Verbos auxiliares são chamados `じょどうし`.
--   `ウサギは服を着ている` significa "O coelho usa roupa". Para dizer "O coelho que usa roupa", inverte-se: `服をきているうさぎ`.

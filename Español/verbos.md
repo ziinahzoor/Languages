@@ -18,7 +18,8 @@
 -   `Amar`
 -   `Llamar` Chamar
     -   `Llamarse` Chamar-se
--   `Caminar` Andar
+-   `Andar`
+-   `Caminar` Caminhar
 -   `Comprar`
 -   `Estudiar` Estudar
 -   `Tomar` Pegar (Take)/Beber
@@ -37,6 +38,7 @@
 -   `Limpiar` Limpar
 -   `Nadar`
 -   `Dibujar` Desenhar
+-   `Diseñar` Projetar/Planejar
 -   `Ducharse` Banhar-se
 -   `Lavar`
 -   `Lavarse` Lavar-se
@@ -164,6 +166,14 @@
 -   `Importar`
 -   `Mezclar` Misturar
 -   `Agregar` Adicionar
+-   `Tumbarse` Deitar-se
+-   `Organizar`
+-   `Señalar` Apontar
+-   `Estacionar`
+-   `Retrasar` Atrasar
+-   `Doblar` Dobrar/Virar
+-   `Sonar` Soar/Tocar/Bater
+    -   Usado para telefones, portas, campainhas, sinos, etc.
 
 ## Los verbos -er
 
@@ -184,6 +194,7 @@
 -   `Volver` Voltar
     -   `Volverse` Tornar-se
 -   `Hacer` Fazer
+    -   `Hacer clic` Clicar
 -   `Creer` Acreditar
 -   `Toucher` Tocar
 -   `Ver`
@@ -210,7 +221,6 @@
         -   Também vale para pessoas.
 -   `Mover` Mover/Mexer
 -   `Romper` Quebrar
--   `Receber`
 -   `Nacer` Nascer
 -   `Vender`
 -   `Suceder` Acontecer
@@ -256,3 +266,6 @@
 -   `Imprimir`
 -   `Conducir` Dirigir
 -   `Cubrir` Cobrir
+-   `Recibir` Receber
+-   `Construir`
+-   `Describir` Descrever

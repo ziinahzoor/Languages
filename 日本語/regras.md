@@ -110,17 +110,19 @@
 -   Para dizer ambos, usa-se a expressão `。。。も。。。も`. Para dizer "nem um, nem outro", usa-se a expressão `。。。も。。。もない`.
     -   Se usados com adjetivos, estes devem usar a forma `く`.
 -   O japonês possui algumas palavras que são adaptações do inglês que não são realmente usadas no inglês, chamadas <font size="5"><code><ruby>和<rt>わ</rt>製<rt>せい</rt>英<rt>えい</rt>語<rt>ご</rt></ruby></code></font>. Ex: `ポケモン` e `ファミコン`.
+-   O japonês costuma evitar pleonasmos (<font size="5"><code><ruby>重<rt>かさ</rt></ruby>ね<ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby></code></font>), usando construções gramaticais para isso.
 
 ## タメ<ruby>口<rt>ぐち</rt></ruby> - Conversa Informal
 
 -   Abreviar `です` para `っす`
 -   Abreviar a forma `ている` para `てる`.
+-   Usar `って` ao invés de `は`.
 
 ## そらにことば - Falsos cognatos
 
-## Classificação das palavras
+## <ruby>品<rt>ひん</rt>詞<rt>し</rt></ruby> - Classificação gramatical
 
-<img src="https://cdn.innovativelanguage.com/sns/em/blog/21/Grammar/pasted+image+0.png" alt="Classificação das palavras" style="width:50rem; background-color: #E8F9FD; border-radius: 10px; padding: 5px;border: 5px black solid;
+<img src="https://cdn.innovativelanguage.com/sns/em/blog/21/Grammar/pasted+image+0.png" alt="Classificação gramatical" style="width:50rem; background-color: #E8F9FD; border-radius: 10px; padding: 5px;border: 5px black solid;
 "/>
 
 <!-- prettier-ignore-start -->

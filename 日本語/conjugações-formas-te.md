@@ -23,13 +23,14 @@
 <h2 id="var_progressivo-resultativa">Forma て+いる - Progressivo-resultativa</h2>
 
 -   Forma continuativa e resultativa.
+-   Consiste em conjugar o verbo na forma `て` e então acrescentar a conjugação de `いる`
 -   É como se forma o gerúndio (continuativa) e também indica o estado causado por algum verbo (resultativa).
     -   No último caso, é como se transformassemos o verbo em um adjetivo (algo está...ado/ido). Ex.: `水を飲んでいます` pode ser tanto "Estou bebendo água" quanto "A água está bebida (por mim)". Nestes casos, o sentido é dado pelos advérbios, como `もう` indicaria o último caso.
 -   Ou "fiz algo e continuo fazendo/estando assim".
 -   Também pode-se pensar como uma forma estática do verbo, como um adjetivo. Ex.: `開いている` pode ser tanto "abrindo" quanto "estar aberto".
 -   Também deve ser usada para verbos que indicam mudança instantânea de estado, como desligar e morrer. Descreve o resultado de uma mudança.
 -   Se usada com `もう` e `まだ`, indica que algo já aconteceu ou ainda não aconteceu, respectivamente.
--   Consiste em conjugar o verbo na forma `て` e então acrescentar a conjugação de `いる`
+-   A forma `て+いる` é muitas vezes casualmente contraída para `て+る`.
 
 <h2 id="var_resultativa">Forma て+ある - Resultativa</h2>
 

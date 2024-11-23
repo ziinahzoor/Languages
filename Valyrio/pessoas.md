@@ -35,6 +35,8 @@
 -   `Ozgūroty` Prisioneiro 🌙
 -   `Teptys` Professor ☀️
 -   `Hēdys` Açougueiro/Algoz ☀️
+-   `Dothraki` 🌙
+-   `Valyry` Valiriano 🌙
 
 ## Lentor - Família 🌊
 
@@ -62,43 +64,53 @@
 
 ## As Crônicas de Gelo e Fogo
 
--   `Āegon` Aegon 🌱
--   `Visenia` Visenya 🌙
--   `Aria` Arya 🌙
--   `Daemon` 🌱
--   `Daenerys` ☀️
--   `Dārio` Daario 🌙
--   `Dāeron` Daeron 🌱
--   `Brandon` 🌱
--   `Iēmi` Jaime 🌙
--   `Iōnos` Jon/Jonos ☀️
--   `Helaena` 🌙
--   `Jaehaerys` ☀️
--   `Jaqen` 🌙
--   `Kātelin` Catelyn 🌙
--   `Lukerys` Lucerys ☀️
--   `Rhaegar` 🌱
--   `Rhaenyra` 🌙
--   `Roberti` Robert 🌙
--   `Sersi` Cersei 🌙
--   `Tyrion` 🌱
--   `Varys` ☀️
--   `Viserys` ☀️
--   `Aemon` 🌱
--   `Aerys` ☀️
--   `Alysanne` 🌙
--   `Baelon` 🌱
--   `Baelor` 🌊
--   `Jakaerys` Jacaerys ☀️
--   `Rhaella` 🌙
--   `Rhaenys` ☀️
--   `Stefan` Steffon 🌙
--   `Melisandre` 🌙
--   `Rullor` R'hllor ☀️
-
 ### Famílias
 
 -   `Targārien` Targaryen 🌱
+    -   `Āegon` Aegon 🌱
+    -   `Visenia` Visenya 🌙
+    -   `Rhaenys` ☀️
+    -   `Jaehaerys` ☀️
+    -   `Alysanne` 🌙
+    -   `Baelon` 🌱
+    -   `Viserys` ☀️
+    -   `Daemon` 🌱
+    -   `Rhaenyra` 🌙
+    -   `Helaena` 🌙
+    -   `Dāeron` Daeron 🌱
+    -   `Baelor` 🌊
+    -   `Aemon` 🌱
+    -   `Aerys` ☀️
+    -   `Rhaella` 🌙
+    -   `Rhaegar` 🌱
+    -   `Daenerys` ☀️
 -   `Velarion` Velaryon 🌱
--   `Darklin` Darklyn 🌙
+    -   `Jakaerys` Jacaerys ☀️
+    -   `Lukerys` Lucerys ☀️
 -   `Lannister` 🌙
+    -   `Iēmi` Jaime 🌙
+    -   `Sersi` Cersei 🌙
+    -   `Tyrion` 🌱
+-   Stark
+    -   `Edardi` Eddard 🌙
+    -   `Kātelin` Catelyn 🌙
+    -   `Iōnos` Jon/Jonos ☀️
+    -   `Sansa` 🌙
+    -   `Aria` Arya 🌙
+    -   `Brandon` 🌱
+    -   `Rikon` Rickon 🌱
+-   Baratheon
+    -   `Roberti` Robert 🌙
+-   `Darklin` Darklyn 🌙
+    -   `Stefan` Steffon 🌙
+
+### Outros
+
+-   `Rullor` R'hllor ☀️
+-   `Melisandre` 🌙
+-   `Thoros` ☀️
+-   `Dārio` Daario 🌙
+-   `Syrio` 🌙
+-   `Jaqen` 🌙
+-   `Illyrio` 🌙
+-   `Varys` ☀️

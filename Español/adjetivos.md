@@ -193,3 +193,7 @@
 -   `Redondo`
 -   `Cuadrado` Quadrado
 -   `Seguro` Certo (de ter certeza)
+-   `Común` Comum
+-   `Libre` Livre
+-   `Perdido` Perdido/Desaparecido
+-   `Clásico` Clássico

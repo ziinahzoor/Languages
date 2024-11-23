@@ -59,6 +59,7 @@
 -   `Limón` Limão
 -   `Melón` Melão
 -   `Uva`
+-   `Aguacate` Abacate
 
 ## Los Vegetales - Verduras
 

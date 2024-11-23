@@ -30,7 +30,7 @@
 
 ## Profissões
 
--   `いしゃ` Médico
+-   <font size="5"><code><ruby>医<rt>い</rt>者<rt>しゃ</rt></ruby></code></font> Médico
 -   <font size="5"><code><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></code></font> Professor/Doutor (Médico)
 -   <font size="5"><code><ruby>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante
     -   <font size="5"><code><ruby>留<rt>りゅう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante de intercâmbio

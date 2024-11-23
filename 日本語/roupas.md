@@ -6,7 +6,7 @@
 
 -   <font size="5"><code><ruby>帽<rt>ぼう</rt>子<rt>し</rt></ruby></code></font> Chapéu
 -   `キャップ` Boné
--   `めがね` Óculos
+-   <font size="5"><code><ruby>眼<rt>め</rt>鏡<rt>がね</rt></ruby></code></font> Óculos
     -   `サングラス` Óculos de sol
 -   `マスク` Máscara
 -   `イアリング` Brinco

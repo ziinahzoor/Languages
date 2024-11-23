@@ -27,6 +27,7 @@
 -   `Je m'appelle...` Eu me chamo...
 -   `Moi c'est...` Eu sou...
 -   `Enchanté` Prazer em conhecer
+-   `Quel âge avez-vous?` Quantos anos você tem?
 
 ## Solicitações
 

@@ -17,14 +17,15 @@
         -   `んだ` Casual
         -   `の` Casual e feminino
     -   Possui tom assertivo.
+    -   Não pode ser usado com adjetivos-い.
 -   `です` Ser/Estar
-    -   Forma honorífica de `だ`.
+    -   É uma palavra de discurso educado, muitas vezes referido como a forma honorífica de `だ`, apesar de tecnicamente não ser.
     -   `のです` é sua forma explicativa.
         -   `んです` Casual
     -   Quando usado com adjetivos `い`, sua função é puramente tornar a frase honorífica.
 -   `である` Ser/Estar
     -   É um verbo auxiliar, chamado verbo copulativo.
-    -   É mais honorífico que `だ`.
+    -   É tecnicamente a forma honorífica de `だ`.
     -   Possui tom mais explicativo do que assertivo.
 
 <table>
@@ -80,7 +81,10 @@
 
 ## <ruby>不<rt>ふ</rt>規<rt>き</rt>則<rt>そく</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Irregulares
 
--   `する` Fazer
+> [!NOTE]
+> Os dois verbos irregulares possuem as qualidades tanto dos verbos ichidan (perdem o radical `る`), quanto dos godan (a primeira sílaba é conjugada: `す` em `する` e `く` em `くる`)
+
+-   <font size="5"><code><ruby>為<rt>す</rt></ruby>る</code></font> Fazer
     -   Pode ser ligado a substantivos, e a particula `を` é opcional
     -   Forma `imasu`: `します`.
     -   Forma `nai`: `しない`.
@@ -88,6 +92,7 @@
     -   Forma `te`: `して`.
     -   `なさる` Sonkeigo (Godan).
     -   `いたす` Kenjougo (Godan).
+    -   Costuma ser escrito somente com kana.
 -   <font size="5"><code><ruby>来<rt>く</rt></ruby>る</code></font> Vir (I)
     -   Geralmente acompanha o `に`
     -   Forma `imasu`: `きます`.
@@ -98,14 +103,17 @@
 
 ## 五段 - Godan
 
--   `ある` Existir
+-   <font size="5"><code><ruby>有<rt>あ</rt></ruby>る</code></font> Existir (Inanimado)
     -   `ござる` Teneigo (Yodan, arcaico). Origem do ございます.
     -   Forma `nai`: `ない`
+    -   Geralmente acompanha a partícula `が`.
+    -   Costuma ser escrito tanto com kanji quanto somente com kana.
+    -   Pessoas, plantas e animais mortos são considerados inanimados.
 -   `なる` Tornar(-se)
 -   `がる` Parecer/Sentir que
     -   Verbo auxiliar para descrever o que a outra pessoa está sentindo.
 -   <font size="5"><code><ruby>言<rt>い</rt></ruby>う</code></font> Dizer/Contar
-    -   Geralmente acompanha o `と` para indicar o que foi dito, como um delimitador de aspas.
+    -   Geralmente acompanha a partícula `と` para indicar o que foi dito, como um delimitador de aspas.
     -   Também pode qualificar como algo é chamado (geralmente escrito em kana). Ex.: `ホビットの冒険という本` (Um livro chamado "O Hobbit")
         -   Pode ser reduzido para `っていう` ou simplesmente `って`. Ex.: `ホビットの冒険って本`.
     -   `おっしゃる` Sonkeigo (Godan).
@@ -134,6 +142,9 @@
 -   <font size="5"><code><ruby>差<rt>さ</rt></ruby>す</code></font> Segurar (um guarda-chuvas)
 -   `なくす` Perder (algo)
 -   <font size="5"><code><ruby>外<rt>はず</rt></ruby>す</code></font> Tirar/Remover (óculos, cintos)
+-   <font size="5"><code><ruby>返<rt>かえ</rt>す</ruby></code></font> Devolver
+-   <font size="5"><code><ruby>貸<rt>か</rt></ruby>す</code></font> Emprestar
+-   <font size="5"><code><ruby>渡<rt>わた</rt></ruby>す</code></font> Entregar
 -   `つづく` Continuar
 -   <font size="5"><code><ruby>聞<rt>き</rt></ruby>く</code></font> Ouvir/Perguntar
     -   Para perguntar geralmente acompanha o `に`
@@ -142,7 +153,7 @@
     -   Forma `ta`: `行った`
     -   Forma `te`: `行って`
     -   `いらっしゃる` Sonkeigo (Godan).
-    -   `Radical de outro verbo` + `に行く` Ir para (realizar ação do verbo)
+    -   Forma nominal do verbo + `に行く` Ir para (realizar ação do verbo)
 -   `つく` Chegar
 -   <font size="5"><code><ruby>弾<rt>ひ</rt>く</ruby></code></font> Tocar instrumento (com cordas ou teclas)
 -   <font size="5"><code><ruby>引<rt>ひ</rt>く</ruby></code></font> Puxar/Consultar (alguma fonte)
@@ -162,6 +173,7 @@
     -   Também é usado como "tocar" para instrumentos de sopro.
 -   <font size="5"><code><ruby>鳴<rt>な</rt></ruby>く</code></font> Fazer som (animal)
 -   <font size="5"><code><ruby>置<rt>お</rt></ruby>く</code></font> Colocar/Pôr
+-   <font size="5"><code><ruby>磨<rt>みが</rt></ruby>く</code></font> Escovar/Polir
 -   <font size="5"><code><ruby>泳<rt>およ</rt></ruby>ぐ</code></font> Nadar
 -   `いそぐ` Apressar
 -   <font size="5"><code><ruby>脱<rt>ぬ</rt></ruby>ぐ</code></font> Despir/Tirar (roupa)
@@ -182,7 +194,7 @@
 -   <font size="5"><code><ruby>呼<rt>よ</rt></ruby>ぶ</code></font> Chamar/Convidar
 -   <font size="5"><code><ruby>遊<rt>あそ</rt></ruby>ぶ</code></font> Passar tempo/Brincar/Jogar
 -   `まなぶ` Aprender
--   `ならぶ` Alinhar/Formar fila
+-   <font size="5"><code><ruby>並<rt>なら</rt></ruby>ぶ</code></font> Alinhar/Formar fila
 -   `よろこぶ` Alegrar
 -   `ころぶ` Cair
 -   `えらぶ` Escolher
@@ -220,6 +232,9 @@
 -   <font size="5"><code><ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>る</code></font> Levar (pra casa)
     -   Geralmente usado para refeições em restaurantes.
 -   `もどる` Voltar/Retornar
+-   <font size="5"><code><ruby>取<rt>と</rt>る</ruby></code></font> Pegar
+    -   <font size="5"><code><ruby>年<rt>とし</rt></ruby>を<ruby>取<rt>と</rt></ruby>る</code></font> Envelhecer
+        -   <font size="5"><code><ruby>年<rt>とし</rt></ruby>を<ruby>取<rt>と</rt></ruby>っている</code></font> Ser velho
 -   <font size="5"><code><ruby>撮<rt>と</rt>る</ruby></code></font> Tirar foto/Gravar/Filmar
 -   <font size="5"><code><ruby>乗<rt>の</rt></ruby>る</code></font> Andar de/Embarcar/Pegar (transporte)
 -   <font size="5"><code><ruby>始<rt>はじ</rt></ruby>まる</code></font> Começar (I)
@@ -260,11 +275,15 @@
 -   <font size="5"><code><ruby>困<rt>こま</rt></ruby>る</code></font> Estar com problemas/Estar em apuros
 -   <font size="5"><code><ruby>売<rt>う</rt></ruby>る</code></font> Vender
 -   <font size="5"><code><ruby>蹴<rt>け</rt></ruby>る</code></font> Chutar
+-   <font size="5"><code><ruby>太<rt>ふと</rt></ruby>る</code></font> Engordar
 
 ## 一段 - Ichidan
 
--   `いる` Existir
+-   <font size="5"><code><ruby>居<rt>い</rt></ruby>る</code></font> Existir (Animado)
     -   `いらっしゃる` Sonkeigo (Godan).
+    -   Geralmente acompanha a partícula `が`.
+    -   Costuma ser escrito tanto com kanji quanto somente com kana.
+    -   Robôs são considerados animados.
 -   <font size="5"><code><ruby>食<rt>た</rt></ruby>べる</code></font> Comer
     -   <font size="5"><code><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がる</code></font> Sonkeigo (Godan).
 -   <font size="5"><code><ruby>見<rt>み</rt></ruby>る</code></font> Assistir/Olhar
@@ -302,7 +321,7 @@
 -   `きがえる` Trocar de roupa
 -   <font size="5"><code><ruby>忘<rt>わす</rt></ruby>れる</code></font> Esquecer
 -   `なでる` Carinhar/Pentear
--   `かりる` Pegar emprestado/Alugar
+-   <font size="5"><code><ruby>借<rt>か</rt></ruby>りる</code></font> Pegar emprestado/Alugar
 -   <font size="5"><code><ruby>開<rt>あ</rt></ruby>ける</code></font> Abrir (T)
 -   <font size="5"><code><ruby>閉<rt>し</rt>める</ruby></code></font> Fechar (T)
 -   <font size="5"><code><ruby>止<rt>や</rt></ruby>める</code></font> Parar/Finalizar/Descontinuar
@@ -329,6 +348,7 @@
 -   <font size="5"><code><ruby>締<rt>し</rt></ruby>める</code></font> Amarrar/Colocar (cintos e gravatas)
 -   `はめる` Abotoar
 -   <font size="5"><code><ruby>投<rt>な</rt></ruby>げる</code></font> Arremessar/Lançar/Jogar
+-   <font size="5"><code><ruby>痩<rt>や</rt></ruby>せる</code></font> Emagrecer
 
 ## Verbos する
 
@@ -348,7 +368,7 @@
 -   <font size="5"><code><ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby></code></font> Fazer compras
 -   `ほんやく` Traduzir
 -   `うんてん` Dirigir/Operar
--   `うんどう` Exercitar
+-   <font size="5"><code><ruby>運<rt>うん</rt>動<rt>どう</rt></ruby></code></font> Exercitar
 -   <font size="5"><code><ruby>練<rt>れん</rt>習<rt>しゅう</rt></ruby></code></font> Praticar/Treinar/Exercitar
 -   <font size="5"><code><ruby>乾<rt>かん</rt>杯<rt>ぱい</rt></ruby></code></font> Brindar
 -   `よやく` Reservar

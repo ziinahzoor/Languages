@@ -14,5 +14,19 @@
 -   `Ανοιχτόχρωμος` De cor clara
 -   `Σκουρόχρωμος` De cor escura
 -   `Πολύχρωμος` Colorido
+-   `Όμορφος` Bonito
+-   `Άσχημος` Feio
+-   `Νέος` Jovem/Novo
+-   `Ψηλός` Alto
+-   `Κοντός` Baixo
+-   `Μελαχρινός` Moreno
+-   `Ξανθός` Loiro
+-   `Κοκκινομάλλης` Ruivo
+-   `Καθαρός` Limpo
+-   `Βρόμικος` Sujo
+-   `Δυνατός` Forte
+-   `Αδύναμος` Fraco
+-   `Χοντρός` Gordo
+-   `Αδύνατος` Magro
 
 ## Nacionalidades

@@ -70,6 +70,7 @@
 -   `De toute façon` De qualquer forma/De qualquer maneira
 -   `Sans le vouloir` Sem querer
 -   `À l'étage` Lá em cima
+-   `À ce moment-là` Logo então
 -   `Au coin de` Na esquina de
 -   `En fait` Na verdade
 -   `En avance` Antecipadamente
@@ -79,6 +80,7 @@
 -   `En promotion` De promoção
 -   `En ce moment` Neste momento
 -   `Sur Internet` Online
+-   `Comme d'habitude` Como sempre
 
 ## De manière - De modo
 

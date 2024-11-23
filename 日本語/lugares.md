@@ -62,7 +62,7 @@
 -   <font size="5"><code><ruby>寿<rt>す</rt>司<rt>し</rt>屋<rt>や</rt></ruby></code></font> Loja de sushi
 -   <font size="5"><code><ruby>病<rt>びょう</rt>院<rt>いん</rt></ruby></code></font> Hospital
 -   <font size="5"><code><ruby>海<rt>`うみ`</rt></ruby></code></font> Mar/Praia
--   <font size="5"><code><ruby>公<rt>こう</rt>園<rt>えん</rt></ruby></code></font> Parque
+-   <font size="5"><code><ruby>公<rt>こう</rt>園<rt>えん</rt></ruby></code></font> Parque público
 -   `ゆうえんち` Parque temático
 -   <font size="5"><code><ruby>動<rt>どう</rt>物<rt>ぶつ</rt>園<rt>えん</rt></ruby></code></font> Zoológico
 -   `すいぞくかん` Aquário

@@ -5,8 +5,10 @@
 -   `それで` Por isso/Portanto/Consequentemente
 -   `それでも` Apesar disso
 -   `でも` Mas/Entretanto/Porém (Começo de frase)
+    -   Tem uma nuance mais "e também...".
     -   `しかし` Honorífico
 -   `けど` Mas/Apesar de (Fim de frase)
+    -   `だけど` Usado depois de substantivos e adjetivos-な.
     -   `けれども` Teineigo
 -   `では` Ok então.../Então.../Bem...
     -   `じゃあ`
@@ -15,8 +17,8 @@
 -   `また` Também
 -   `ところで` A propósito
 -   `たとえば` Por exemplo
--   `だから` Então (para explicar causa) (Depois de substantivo)
-    -   `から` Depois de adjetivos e verbos.
+-   `から` Então (para explicar causa, depois de adjetivos-い e verbos)
+    -   `だから` Usado depois de substantivos e adjetivos-な para diferenciar da função de "origem" da partícula `から`.
     -   `ので` Honorífico
 -   `だって` Porque/Mas/Mesmo que/Afinal
     -   A tradução correta seria "é dito que...", o que justifica todos os usos contrastantes.

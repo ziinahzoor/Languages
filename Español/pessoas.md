@@ -9,6 +9,7 @@
 -   `Chica` Moça
 -   `Mujer` Mulher
 -   `Hombre` Homem
+-   `Tipo` Cara
 -   `Doctor` Doutor
 -   `Médico`
 -   `Alumno` Aluno

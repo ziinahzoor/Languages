@@ -131,6 +131,8 @@
     -   <font size="5"><code><ruby>何<rt>なん</rt>の</ruby></code></font> Que/Qual(is)/De que/De qual(is)
 -   <font size="5"><code><ruby>誰<rt>だれ</rt></ruby></code></font> Quem
     -   <font size="5"><code><ruby>何方<rt>どなた</rt></ruby></code></font> Honorífico (Sonkeigo)
+        -   Geralmente escrito somente com kana.
+    -   <font size="5"><code>どちら<ruby>様<rt>さま</rt></ruby></code></font> Honorífico (Sonkeigo)
 -   `いつ` Quando
 -   `いくつ` Quanto/Quantos
 

@@ -71,7 +71,7 @@
 
 ### Outros
 
--   `くすり` Medicina/Remédio
+-   <font size="5"><code><ruby>薬<rt>くすり</rt></ruby></code></font> Medicamento/Remédio
 -   `かつら` Peruca
 -   `ひも` Fio
 -   `ケーブル` Cabo
@@ -95,7 +95,7 @@
 -   <font size="5"><code><ruby>新<rt>しん</rt>聞<rt>ぶん</rt></ruby></code></font> Jornal
 -   <font size="5"><code><ruby>本<rt>ほん</rt></ruby></code></font> Livro
     -   <font size="5"><code><ruby>絵<rt>え</rt>本<rt>ほん</rt></ruby></code></font> Livro ilustrado
--   `ざっし` Revista
+-   <font size="5"><code><ruby>雑<rt>ざっ</rt>誌<rt>し</rt></ruby></code></font> Revista
 -   `ゴミ` Lixo
 -   `ゴミばこ` Lata de lixo
 -   <font size="5"><code><ruby>階<rt>かい</rt>段<rt>だん</rt></ruby></code></font> Escada
@@ -151,6 +151,8 @@
 -   <font size="5"><code><ruby>布<rt>ふ</rt>団<rt>とん</rt></ruby></code></font> Futon
 -   <font size="5"><code><ruby>定<rt>じょう</rt>規<rt>ぎ</rt></ruby></code></font> Régua
 -   <font size="5"><code><ruby>箱<rt>はこ</rt></ruby></code></font> Caixa
+-   `ノート` Nota
+-   `ページ` Página
 
 ## Elétricos e Eletrônicos
 
@@ -210,6 +212,7 @@
 -   `しゅっしん` De onde (Cidade natal)
 -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby></code></font> Verdade
 -   `こと` Coisa (Intangível)
+    -   É muito utilizado como <font size="5"><code><ruby>形<rt>けい</rt>式<rt>しき</rt>名<rt>めい</rt>詞<rt>し</rt></ruby></code></font> para abstrair ou focar em conceitos (como pronomes por exemplo), criando uma camada de indireção na conversa.
 -   `もの` Coisa (Tangível)
 -   <font size="5"><code><ruby>質<rt>しつ</rt>問<rt>もん</rt></ruby></code></font> Pergunta
 -   <font size="5"><code><ruby>答<rt>こた</rt></ruby>え</code></font> Resposta
@@ -271,11 +274,15 @@
 -   <font size="5"><code><ruby>数<rt>かず</rt></ruby></code></font> Número (quantidade)
 -   `ほう` Opção/Maneira
     -   Muito utilizado em frases comparativas, geralmente acompanhando um demonstrativo determinante ou um substantivo + `の`. Indica um lado da comparação.
--   <font size="5"><code><ruby>字<rt>じ</rt></ruby></code></font> Escrita/Letra/Caractere
+-   <font size="5"><code><ruby>字<rt>じ</rt></ruby></code></font> Caligrafia/Letra/Caractere
+-   <font size="5"><code><ruby>文<rt>ぶん</rt>章<rt>しょう</rt></ruby></code></font> Passagem de texto
+-   <font size="5"><code><ruby>危<rt>き</rt>険<rt>けん</rt></ruby></code></font> Perigo
+-   <font size="5"><code><ruby>背<rt>せ</rt></ruby></code></font> Altura/Estatura
 
 ### Condições
 
 -   `ぐあい` Condição/Saúde
+-   <font size="5"><code><ruby>病<rt>びょう</rt>気<rt>き</rt></ruby></code></font> Doença
 -   <font size="5"><code><ruby>風邪<rt>かぜ</rt></ruby></code></font> Resfriado
 -   `アレルギー` Alergia
 -   `ねつ` Febre
@@ -358,7 +365,7 @@
 -   <font size="5"><code><ruby>車<rt>くるま</rt></ruby></code></font> Carro
     -   `タイヤ` Pneu
 -   `リムジン` Limusine
--   <font size="5"><code><ruby>自<rt>じ</rt>転<rt>てん</rt>車<rt>しゃ</rt></ruby></code></font> `` Bicicleta
+-   <font size="5"><code><ruby>自<rt>じ</rt>転<rt>てん</rt>車<rt>しゃ</rt></ruby></code></font> Bicicleta
 -   `バイク` Moto
 -   `ふね` Navio
 
@@ -391,7 +398,7 @@
 -   <font size="5"><code><ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby></code></font> Compras
 -   `ほんやく` Tradução
 -   `うんてん` Direção/Operação
--   `うんどう` Exercício
+-   <font size="5"><code><ruby>運<rt>うん</rt>動<rt>どう</rt></ruby></code></font> Exercício
 -   <font size="5"><code><ruby>練<rt>れん</rt>習<rt>しゅう</rt></ruby></code></font> Prática/Treino/Exercício
 -   `パズル` Quebra-cabeças
 -   `ゲーム` Jogo/Videogame
@@ -453,6 +460,7 @@
 -   `りゅうがく` Intercâmbio
 -   `せいせき` Notas
 -   <font size="5"><code><ruby>教<rt>きょう</rt>科<rt>か</rt>書<rt>しょ</rt></ruby></code></font> Livro-texto
+-   <font size="5"><code><ruby>作<rt>さく</rt>文<rt>ぶん</rt></ruby></code></font> Redação
 
 #### Áreas de Estudo
 

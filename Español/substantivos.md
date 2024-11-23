@@ -161,6 +161,9 @@
 -   `Gabinete` Armário
 -   `Pantalla` Tela
 -   `Juego` Jogo (de talheres, etc)
+-   `Hoja de papel` Folha de papel
+-   `Ratón` Mouse
+-   `Cadena` Corrente
 
 ## Abstratos
 
@@ -287,7 +290,11 @@
 -   `Rebanada` Fatia
 -   `Costo` Custo
 -   `Colección` Coleção
+-   `Pezado` Pedaço
 -   `Trozo` Pedaço
+-   `Modelo`
+-   `Lado`
+-   `Carrera` Carreira
 
 ### Medidas
 
@@ -344,6 +351,7 @@
 -   `Juguete` Brinquedo
 -   `Juego de mesa` Jogo de tabuleiro
 -   `Internet`
+    -   `Red` Rede
 -   `Carrera` Corrida
 -   `Dibujo` Desenho
 -   `Dibujo animado` Desenho animado

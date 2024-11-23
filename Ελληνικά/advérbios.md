@@ -18,3 +18,5 @@
 -   `Μετά` Depois
 -   `Κοντά` Perto
 -   `Εκτός` Exceto
+-   `Δις` Duas vezes
+-   `Πολλάκις` Muitas vezes/Frequentemente

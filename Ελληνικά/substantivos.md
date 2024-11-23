@@ -29,6 +29,8 @@
 -   `Ερώτηση` Pergunta
 -   `Απάντηση` Resposta
 -   `Συνταγή` Receita
+-   `Φορά` Vez
+    -   Também serve para o contexto matemático
 
 ## Atividades
 

@@ -69,6 +69,7 @@
 -   `Arriba` Acima
 -   `Tal como` Como/Tal como
 -   `A la venta` À venda
+-   `Igual`
 
 ## De modo
 
@@ -89,3 +90,4 @@
 -   `Finalmente`
 -   `Incluso` Até/Mesmo
 -   `Especialmente`
+-   `Exactamente` Exatamente

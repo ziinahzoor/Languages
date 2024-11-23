@@ -26,6 +26,7 @@
 -   `Harrenka` Apropriado/Adequado
 -   `Korzita` Firme/Esticado
 -   `Ēngenka` Gostoso
+-   `Ghīska` Ghiscari
 
 ## Classe II
 

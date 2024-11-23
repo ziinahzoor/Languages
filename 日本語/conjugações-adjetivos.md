@@ -10,7 +10,7 @@
 
 **Também conhecidos como adjetivos verbais ou verbos-adjetivo por serem sintaticamente verbos.**
 
-**Podem ser conjugados, portanto adicionar `です` só indica cortesia.**
+**Podem ser conjugados, portanto adicionar `です` só indica cortesia. `です` também é a única conjugação da cópula que pode ser utilizada.**
 
 **Nunca terminam em kana com radical `え` + `い`.**
 
@@ -42,10 +42,16 @@
 </table>
 
 > [!NOTE]
-> A palavra `ない` é um adjetivo. Portanto na forma negativa flexionamos o adjetivo-base na forma `く` e o adicionamos. De forma semelhante, o colocamos no passado com `かった` → `なかった`.
+> A palavra `ない` é um adjetivo-い. Portanto na forma negativa flexionamos o adjetivo-base na forma `く` e o adicionamos. De forma semelhante, o colocamos no passado com `かった` → `なかった`.
 
 > [!TIP]
 > Na forma negativa, pode-se usar `くはない` para indicar que um substantivo não é _necessariamente_ qualificado com o adjetivo.
+
+> [!IMPORTANT]
+> Adjetivos-い não podem ser utilizados com `だ`, inclusive na forma negativa.
+
+> [!TIP]
+> Quase todos os adjetivos-い são palavras de origem japonesa.
 
 ---
 
@@ -60,6 +66,9 @@
 -   Com exceção de `嫌い`, todos os que terminam em `い` não possuem okurigana.
 
 **Não são flexionados como os `い`, dependendo de outras palavras para indicar o modo e o tempo. Geralmente são usadas as conjugações de `です`.**
+
+> [!TIP]
+> A maioria dos adjetivos-な são palavras de origem estrangeira (em maior parte chinesa e inglesa).
 
 ## ト・タル<ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos `たる`
 
@@ -99,7 +108,7 @@
         <td>だった・でした</td>
     </tr>
     <tr>
-        <th>Forma continuativa/adverbial</th>
+        <th>Forma conjuntiva/adverbial</th>
         <td>く</td>
         <td>に</td>
     </tr>
@@ -133,7 +142,7 @@
 
 ### Forma adverbial
 
--   Também é chamada continuativa pois permite o adjetivo se conectar com outros elementos, como a forma て e a forma negativa.
+-   Também é chamada conjuntiva ou continuativa pois permite o adjetivo se conectar com outros elementos, como a forma て e a forma negativa.
 -   A forma adverbial também costuma ser utilizada para tratar alguns adjetivos como substantivos no português (de certa forma como preposições). Ex: `遅く` "tarde" (literalmente "tardemente"), `近く` "perto" (literalmente "pertamente").
 
 ### Forma て

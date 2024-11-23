@@ -30,6 +30,7 @@
 
 -   `Valyria` Valíria 🌙
 -   `Qarthi` Qarth 🌙
+    -   `Qarth` Forma alternativa
 -   `Ghīs` Ghis ☀️
 
 #### Cidades Livres
