@@ -4,6 +4,7 @@
 
 -   `ll` é pronunciado [ʎ] (Lleísmo).
 -   `z` e `c` suaves são pronunciados [θ]. (Ceceo)
+-   Na Andaluzia não se pronuncia o "d" no sufixo `-ado`, tornando-se `-ao`.
 -   Carro é `coche`.
 -   Computador é `ordenador`.
 -   O espanhol é chamado de `castellano`.

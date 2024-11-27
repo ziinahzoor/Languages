@@ -7,7 +7,9 @@
 -   `Εντάξει` Ok
 -   `Δερμάτινος` De couro
 -   `Μάλλινος` De lã
--   `Ανοιχτός` Claro/Pálido
+-   `Ξύλινος` De madeira
+-   `Κλειστός` Fechado
+-   `Ανοιχτός` Aberto/Claro/Pálido
 -   `Βαθύς` Escuro/Profundo
 -   `Σκούρος` Escuro
     -   Geralmente usado com cores e tons.
@@ -28,5 +30,38 @@
 -   `Αδύναμος` Fraco
 -   `Χοντρός` Gordo
 -   `Αδύνατος` Magro
+-   `Κουρασμένος` Cansado
+-   `Ωραίος` Bom/Agradável/Bonito
+-   `Υπέροχος` Maravilhoso
+-   `Εξαιρετικός` Excelente
+-   `Γενικός` Geral
+-   `Σκέτος` Puro
+-   `Τοπικός` Local
+-   `Πραγματικός` Real/Factual
+-   `Επόμενος` Próximo/Seguinte
+-   `Ιδιαίτερος` Especial
+-   `Δίγλωσσος` Bilíngue
+-   `Βασικός` Básico
+-   `Εύκολος` Fácil
+-   `Δύσκολος` Difícil
+-   `Πρόσφατος` Recente
+-   `Αριστερός` Esquerdo
+-   `Διαφορετικός` Diferente
+-   `Προσωπικός` Pessoal/Privado
+-   `Ζεστός` Quente/Morno
+-   `Νόμιμος` Legal (dentro da Lei)
+-   `Πιθανός` Possível/Provável
+-   `Σημαντικός` Importante/Significativo
+-   `Επίσημος` Formal/Oficial
+-   `Απαραίτητος` Necessário
+-   `φυσιολογικός` Normal/Natural
+-   `Ολόκληρος` Inteiro
+-   `Τελικός` Último
+-   `Στρατιωτικός` Militar
+-   `Γρήγορος` Rápido
+-   `Ζωντανός` Vivo
+-   `Ακριβός` Caro
+-   `Τέλειος` Perfeito
+-   `Διάσημος` Famoso
 
 ## Nacionalidades

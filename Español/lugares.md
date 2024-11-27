@@ -119,6 +119,7 @@
 -   `Gimnasio` Academia
 -   `Empresa`
 -   `Compañía` Empresa
+-   `Sucursal` Filial
 -   `Teatro`
 -   `Iglesia` Igreja
 -   `Bar`

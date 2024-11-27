@@ -7,6 +7,8 @@
 **Para indicar uma loja que vende alguma coisa, é só adicionar o sufixo <font size="5"><code><ruby>屋<rt>や</rt></ruby></code></font>. Ex.: <font size="5"><code>ぴざ<ruby>屋<rt>や</rt></ruby></code></font> é pizzaria. Para outras instituições mais formais se usa `かん`.**
 
 -   `かいじょう` Local
+-   <font size="5"><code><ruby>辺<rt>へん</rt></ruby></code></font> Área/Região
+-   <font size="5"><code><ruby>辺<rt>あた</rt></ruby>り</code></font> Vizinhança
 -   <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
     -   <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby></code></font> Honorífico (Teineigo)
     -   <font size="5"><code><ruby>店<rt>てん</rt>内<rt>ない</rt></ruby></code></font> Dentro da loja
@@ -31,12 +33,14 @@
 -   <font size="5"><code><ruby>教<rt>きょう</rt>室<rt>しつ</rt></ruby></code></font> Sala de aula
 -   <font size="5"><code><ruby>図<rt>と</rt>書<rt>しょ</rt>館<rt>かん</rt></ruby></code></font> Biblioteca
 -   `ギム` Academia
--   `きっさてん` Cafeteria
+-   <font size="5"><code><ruby>喫<rt>きっ</rt>茶<rt>さ</rt>店<rt>てん</rt></ruby></code></font> Cafeteria
+    -   São cafeterias japonesas mais tradicionais. Geralmente oferecem serviços como uma lanchonete.
 -   `レストラン` Restaurante
     -   `ファミレス` Restaurante de família/Restaurante casual
 -   `キャンプ` Campo
 -   <font size="5"><code><ruby>空<rt>くう</rt>港<rt>こう</rt></ruby></code></font> Aeroporto
 -   <font size="5"><code><ruby>都<rt>と</rt>市<rt>し</rt></ruby></code></font> Cidade (City)
+    -   <font size="5"><code><ruby>都<rt>と</rt>会<rt>かい</rt></ruby></code></font> Cidade urbana/Metrópole
 -   <font size="5"><code><ruby>町<rt>まち</rt></ruby></code></font> Cidade (Town)
 -   `いなか` Interior/Área rural
 -   `ホーム` Plataforma
@@ -106,12 +110,12 @@
 -   `バスターミナル` Terminal de ônibus
 -   `しま` Ilha
 -   `みなと` Porto
--   `かいがい` Exterior/Além-mar
+-   <font size="5"><code><ruby>海<rt>かい</rt>外<rt>がい</rt></ruby></code></font> Exterior/Além-mar
 -   `リゾート` Resort
 -   <font size="5"><code><ruby>橋<rt>はし</rt></ruby></code></font> Ponte
 -   `ギフトショップ` Loja de presentes
 -   `オフィス` Escritório
--   `りょかん` Estalagem japonesa
+-   <font size="5"><code><ruby>旅<rt>りょ</rt>館<rt>かん</rt></ruby></code></font> Estalagem japonesa
 -   `クリニック` Clínica
 -   `やっきょく` Farmácia
 -   `こうがい` Subúrbio
@@ -133,6 +137,7 @@
     -   Expressa tudo que se está ao redor.
 -   `まわり` Arredor/Arredores
 -   <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Frente/Face
+    -   Não precisa de partícula para se ligar a um verbo.
 -   <font size="5"><code><ruby>後<rt>うし</rt>ろ</ruby></code></font> Atrás/Detrás
 -   `まんなか` Meio
 -   <font size="5"><code><ruby>向<rt>む</rt></ruby>こう</code></font> Do outro lado
@@ -158,6 +163,7 @@
 ## <ruby>家<rt>いえ</rt></ruby> - Casa
 
 -   `うち` (Minha) Casa
+-   <font size="5"><code><ruby>家<rt>か</rt>庭<rt>てい</rt></ruby></code></font> Lar
 -   <font size="5"><code>ご<ruby>在<rt>ざい</rt>宅<rt>たく</rt></ruby></code></font> Em casa/Estar em casa
 -   `アパート` Apartamento
 -   <font size="5"><code><ruby>玄<rt>げん</rt>関<rt>かん</rt></ruby></code></font> Entrada/Porta da frente
@@ -293,24 +299,34 @@
 
 #### <ruby>特<rt>とく</rt>別<rt>べつ</rt>区<rt>く</rt>・</ruby><ruby>区<rt>く</rt></ruby> Alas especiais
 
--   `あらかわ` Arakawa
--   `ちよだ` Chiyoda
-    -   `あきはばら` Akihabara
--   `ちゅうお` Chuo
-    -   `ぎんざ` Ginza
--   `しぶや` Shibuya
-    -   `はらじゅく` Harajuku
--   `しんじゅく` Shinjuku
-    -   `かぶきちょう` Kabukicho
--   `たいとう` Taito
-    -   `あさくさ` Asakusa
+-   <font size="5"><code><ruby>荒<rt>あら</rt>川<rt>かわ</rt></ruby></code></font> Arakawa
+-   <font size="5"><code><ruby>千<rt>ち</rt>代<rt>よ</rt>田<rt>だ</rt></ruby></code></font> Chiyoda
+    -   <font size="5"><code><ruby>秋<rt>あき</rt>葉<rt>は</rt>原<rt>ばら</rt></ruby></code></font> Akihabara
+    -   <font size="5"><code><ruby>皇<rt>こう</rt>居<rt>きょ</rt></ruby></code></font> Palácio Imperial
+-   <font size="5"><code><ruby>中<rt>ちゅう</rt>央<rt>おう</rt></ruby></code></font> Chuo
+    -   <font size="5"><code><ruby>銀<rt>ぎん</rt>座<rt>ざ</rt></ruby></code></font> Ginza
+-   <font size="5"><code><ruby>江<rt>こう</rt>東<rt>とう</rt></ruby></code></font> Koto
+    -   <font size="5"><code>お<ruby>台<rt>だい</rt>場<rt>ば</rt></ruby></code></font> Odaiba
+-   <font size="5"><code><ruby>港<rt>みなと</rt></ruby></code></font> Minato
+    -   <font size="5"><code><ruby>新<rt>しん</rt>橋<rt>ばし</rt></ruby></code></font> Shinbashi
+    -   <font size="5"><code><ruby>青<rt>あお</rt>山<rt>やま</rt></ruby></code></font> Aoyama
+    -   <font size="5"><code><ruby>六<rt>ろっ</rt>本<rt>ぽん</rt>木<rt>ぎ</rt></ruby></code></font> Roppongi
+-   <font size="5"><code><ruby>渋<rt>しぶ</rt>谷<rt>や</rt></ruby></code></font> Shibuya
+    -   <font size="5"><code><ruby>原<rt>はら</rt>宿<rt>じゅく</rt></ruby></code></font> Harajuku
+    -   <font size="5"><code><ruby>表<rt>おもて</rt>参<rt>さん</rt>道<rt>どう</rt></ruby></code></font> Omotesando
+-   <font size="5"><code><ruby>新<rt>しん</rt>宿<rt>じゅく</rt></ruby></code></font> Shinjuku
+    -   <font size="5"><code><ruby>歌<rt>か</rt>舞<rt>ぶ</rt>伎<rt>き</rt>町<rt>ちょう</rt></ruby></code></font> Kabukicho
+-   <font size="5"><code><ruby>台<rt>たい</rt>東<rt>とう</rt></ruby></code></font> Taito
+    -   <font size="5"><code><ruby>浅<rt>あさ</rt>草<rt>くさ</rt></ruby></code></font> Asakusa
     -   <font size="5"><code><ruby>上<rt>うえ</rt>野<rt>の</rt></ruby></code></font> Ueno
--   `としま` Toshima
-    -   `いけぶくろ` Ikebukuro
+-   <font size="5"><code><ruby>豊<rt>と</rt>島<rt>しま</rt></ruby></code></font> Toshima
+    -   <font size="5"><code><ruby>池<rt>いけ</rt>袋<rt>ぶくろ</rt></ruby></code></font> Ikebukuro
 
 #### <ruby>市<rt>し</rt></ruby> - Cidades
 
--   `ちば` Chiba
+-   <font size="5"><code><ruby>千<rt>ち</rt>葉<rt>ば</rt></ruby></code></font> Chiba
+-   <font size="5"><code><ruby>武<rt>む</rt>蔵<rt>さし</rt>野<rt>の</rt></ruby></code></font> Musashino
+    -   <font size="5"><code><ruby>吉<rt>きち</rt>祥<rt>じょう</rt>寺<rt>じ</rt></ruby></code></font> Kichijoji
 
 #### <ruby>町<rt>まち</rt></ruby> - Municípios/Blocos
 
@@ -322,23 +338,26 @@
 
 -   <font size="5"><code><ruby>京<rt>きょう</rt>都<rt>と</rt></ruby></code></font> Quioto
 -   <font size="5"><code><ruby>大<rt>おお</rt>阪<rt>さか</rt></ruby></code></font> Osaka
-    -   `どうとんぼり` Dotonbori
+    -   <font size="5"><code><ruby>中<rt>ちゅう</rt>央<rt>おう</rt></ruby></code></font> Chuo
+        -   <font size="5"><code><ruby>道<rt>どう</rt>頓<rt>とん</rt>堀<rt>ぼり</rt></ruby></code></font> Dotonbori
 
 ### <ruby>県<rt>けん</rt></ruby> - Prefeituras
 
 **Existem 43.**
 
--   `あいち` Aichi
-    -   `なごや` Nagoya
--   `かながわ` Kanagawa
-    -   `よこはま` Yokohama
--   `ふくおか` Fukuoka
--   `ふくしま` Fukushima
--   `ひろしま` Hiroshima
--   `ながさき` Nagasaki
--   `なら` Nara
--   `さいたま` Saitama
--   `おきなわ` Okinawa
+-   <font size="5"><code><ruby>愛<rt>あい</rt>知<rt>ち</rt></ruby></code></font> Aichi
+    -   <font size="5"><code><ruby>名<rt>な</rt>古<rt>ご</rt>屋<rt>や</rt></ruby></code></font> Nagoya
+-   <font size="5"><code><ruby>神奈川<rt>かながわ</rt></ruby></code></font> Kanagawa
+    -   <font size="5"><code><ruby>横<rt>よこ</rt>浜<rt>はま</rt></ruby></code></font> Yokohama
+-   <font size="5"><code><ruby>福<rt>ふく</rt>岡<rt>おか</rt></ruby></code></font> Fukuoka
+-   <font size="5"><code><ruby>福<rt>ふく</rt>島<rt>しま</rt></ruby></code></font> Fukushima
+-   <font size="5"><code><ruby>広<rt>ひろ</rt>島<rt>しま</rt></ruby></code></font> Hiroshima
+-   <font size="5"><code><ruby>長<rt>なが</rt>崎<rt>さき</rt></ruby></code></font> Nagasaki
+-   <font size="5"><code><ruby>奈<rt>な</rt>良<rt>ら</rt></ruby></code></font> Nara
+-   <font size="5"><code><ruby>埼<rt>さい</rt>玉<rt>たま</rt></ruby></code></font> Saitama
+-   <font size="5"><code><ruby>沖<rt>おき</rt>縄<rt>なわ</rt></ruby></code></font> Okinawa
+-   <font size="5"><code><ruby>静<rt>しず</rt>岡<rt>おか</rt></ruby>と<ruby>山<rt>やま</rt>梨<rt>なし</rt></ruby></code></font> Shizuoka e Yamanashi
+    -   <font size="5"><code><ruby>富<rt>ふ</rt>士<rt>じ</rt>山<rt>さん</rt></ruby></code></font> Monte Fuji
 
 ### <ruby>日<rt>に</rt>本<rt>ほん</rt>地<rt>ち</rt>図<rt>ず</rt></ruby> - Mapa do Japão
 

@@ -174,6 +174,13 @@
 -   `Doblar` Dobrar/Virar
 -   `Sonar` Soar/Tocar/Bater
     -   Usado para telefones, portas, campainhas, sinos, etc.
+-   `Encargarse` Encarregar-se
+-   `Degradar` Rebaixar
+-   `Empujar` Empurrar
+-   `Halar` Puxar
+-   `Lanzar` Lançar
+-   `Molestar` Incomodar
+-   `Grabar` Gravar
 
 ## Los verbos -er
 
@@ -230,6 +237,7 @@
 -   `Pertenecer` Pertencer
 -   `Escoger` Escolher
 -   `Devolver`
+-   `Ascender` Promover
 
 ## Los verbos -ir
 
@@ -269,3 +277,4 @@
 -   `Recibir` Receber
 -   `Construir`
 -   `Describir` Descrever
+-   `Incluir`

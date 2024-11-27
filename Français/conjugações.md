@@ -6,6 +6,9 @@
 > [!NOTE]
 > A voz passiva é formada pelo verbo `être` + particípio do pretérito.
 
+> [!CAUTION]
+> Quando `avoir` é usado como verbo auxiliar e o objeto direto vem antes do verbo, o verbo principal (particípio) deve ser flexionado conforme o objeto direto ao invés do sujeito. Ex.: `J'ai mangÉ une pomme` → `La pomme que j'ai mangÉE`.
+
 <table>
     <thead>
         <tr>

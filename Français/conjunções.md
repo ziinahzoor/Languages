@@ -34,3 +34,6 @@
 -   `Ben` Bem
 -   `Dommage` Pena
 -   `Waouh` Uau
+-   `Tiens` Sabe.../Tipo...
+    -   Também pode ser usado ao dar algo para alguém.
+-   `Claire` Claro

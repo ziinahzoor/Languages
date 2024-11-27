@@ -36,6 +36,7 @@
 -   `つい` Sem querer/Por engano
 -   `うっかり` Descuidadamente
 -   <font size="5"><code><ruby>結<rt>けっ</rt>構<rt>こう</rt></ruby></code></font> Satisfatoriamente/Bastante/Quase sempre
+    -   Também pode ser utilizado para recusar alguma coisa.
 -   `まったく` Inteiramente/Completamente
 -   <font size="5"><code><ruby>全<rt>ぜん</rt>然<rt>ぜん</rt></ruby></code></font> Nem um pouco/De forma alguma
     -   Usado com frases negativas
@@ -54,7 +55,7 @@
 -   `ちょっと` Um pouco (Pode ser usado pra recusar algo)
     -   <font size="5"><code><ruby>少<rt>すこ</rt>し</ruby></code></font> Um pouco (Honorífico)
         -   Pode ser usado para indicar hesitação.
-    -   <font size="5"><code><ruby>少<rt>しょう</rt>々<rt>しょう</rt></ruby></code></font> Um pouco (Honorífico)
+    -   <font size="5"><code><ruby>少<rt>しょう</rt>々</ruby></code></font> Um pouco (Honorífico)
         -   Usado em contextos empresariais e na culinária.
     -   <font size="5"><code>ちょっとの<ruby>間<rt>あいだ</rt></ruby></code></font> Por um instante/Por um momento
 -   `もっと` Mais
@@ -65,6 +66,7 @@
     -   Em frases negativas significa "dificilmente", "quase não".
 -   <font size="5"><code><ruby>半<rt>はん</rt>分<rt>ぶん</rt></ruby></code></font> Metade
 -   <font size="5"><code><ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby></code></font> Totalmente
+-   <font size="5"><code><ruby>段<rt>だん</rt>々</ruby></code></font> Gradualmente
 
 ## Tempo
 
@@ -105,7 +107,7 @@
     -   Não é advérbio, está aqui por conveniência
 -   `どうして` Por que/Por quê
     -   `なぜ` Honorífico
--   `なぜなら。。。からです` Porque
+-   `なぜなら…からです` Porque
 
 ## Ordem
 
@@ -120,7 +122,8 @@
 -   `ひとりで` Sozinho
 -   <font size="5"><code><ruby>一<rt>いっ</rt>緒<rt>しょ</rt></ruby>に</code></font> Juntos
 -   `とちゅう` No caminho
--   `どうぞ` Por favor (ao oferecer algo)
+-   `どうぞ` Gentilmente
+    -   Por favor (ao oferecer algo)
     -   Vá em frente (ao permitir algo)
     -   Aqui está (ao dar algo para alguém)
 -   <font size="5"><code><ruby>他<rt>ほか</rt></ruby>に</code></font> Outro/Além desse

@@ -226,6 +226,7 @@
 -   `Obligé` Obrigado
 -   `Abandonné` Abandonado
 -   `Bienvenu` Bem-vindo
+-   `Enceinte` Grávida
 
 ### Físicas/Emocionais
 

@@ -190,10 +190,11 @@
 
 -   `たい` é um adjetivo auxiliar que significa "querer".
 -   Serve para expressar o desejo de fazer alguma ação.
--   É um sufixo intransitivo, portanto, se o verbo que o acompanha for intransitivo, pode usar ambas a partículas `が` e `を`.
+-   É um sufixo intransitivo, portanto, se o verbo que o acompanha for intransitivo, pode usar ambas a partículas `が` e `を`. A primeira só dá um pouco mais ênfase no quanto se quer.
 -   Só serve para se referir a si. Para se referir ao que outra pessoa quer, usar `たがる`.
 -   Pode usar a cópula para o discurso honorífico.
 -   Para ser ainda mais educado, pode-se usar a forma de desejo + `のですが・んですが` para dizer algo como "Eu gostaria de...".
+-   Não serve para convidar. Neste caso, usa-se `～ませんか`.
 
 <h3 id="var_aparente">そう<ruby>形<rt>けい</rt></ruby> - Forma aparente (そう)</h3>
 
@@ -228,6 +229,7 @@
     -   Em orações relativas não se usa a forma educada. Costuma-se usar o passado ou a forma continuativa.
     -   As orações relativas sempre vêm depois da partícula `が`, que muitas das vezes pode ser substituída por `の`. Em orações relativas não se usa a partícula `は`.
     -   Ex.: `ウサギは服を着ている` significa "O coelho usa roupa". Para dizer "O coelho que usa roupa", inverte-se: `服をきているうさぎ`.
+-   Também pode ser usado com `つもり` para indicar a intenção de fazer algo.
 
 ---
 
@@ -369,7 +371,7 @@
     -   `問う` → `問うた`
     -   `請う` → `請うた`
     -   `〜ない` → `〜なかった`
--   A forma た pode ser utilizada com `ことがあります` para indicar experiências passadas.
+-   A forma た pode ser utilizada com `ことがある` para indicar experiências passadas. Ex.: "eu já...", "você já...?".
 
 <h3 id="var_forma-te">て<ruby>形<rt>けい</rt></ruby> - Forma て</h3>
 
@@ -377,7 +379,7 @@
 > A forma て é utilizada em diversas estruturais gramaticais, que podem ser encontradas [aqui](conjugações-formas-te.md).
 
 -   Similar à forma た, apenas alterando para `て` e `で`.
--   Serve para conectar diversos verbos como uma sequência de eventos ou um "e".
+-   Serve para conectar diversos verbos como uma sequência de eventos ou um "e". Tais eventos ocorrem em ordem.
 -   Também serve como "então" em alguns contextos. Como um conector de frases.
 -   No final da frase serve como comando ou pedido. No último caso é bom adicionar `ください` para ser educado
     -   No negativo, fica `ないで`.
@@ -422,6 +424,7 @@
 
 -   Transformar algo em outra coisa. Contraparte transitiva do verbo `なる`.
 -   Decidir sobre algo.
+    -   Em um sentido que tem-se controle do resultado, em que a escolha pode ser feita arbitrariamente, não dependendo de uma limitação.
 
 #### ことにする
 
@@ -429,10 +432,19 @@
 
 #### とする
 
--   Além de significar "tentar" usando o volitivo, também serve para dizer que algo é considerado como outra coisa. Ex.: `かばんをまくらとする` (Usar a mochila como travesseiro).
+-   Significa "tentar" usando o verbo anterior no volitivo.
+-   Tem a mesma função de "decidir" de `にする` depois da forma plana de um verbo.
+    -   Porém tem uma nuance mais focada no resultado do que no processo de fazer.
+    -   Tem-se menos controle do resultado, como se a escolha fosse dada e não inteiramente livre.
+-   Serve para dizer que algo é considerado como outra coisa. Ex.: `かばんをまくらとする` (Usar a mochila como travesseiro).
 
 #### として
 
 -   Sentido parecido com とする, porém tem o intuito de analisar sob a luz do que é considerado (analisar algo sobre essa consideração). Ex.: `外国人として彼の日本語がいいです` (Para um estrangeiro, seu japonês é muito bom).
 
 ---
+
+### になる
+
+-   Sentido de algo "se tornar".
+-   Com adjetivos-い é `くなる`.

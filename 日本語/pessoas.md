@@ -27,6 +27,7 @@
 -   `おきゃくさん` Visitante/Convidado
     -   `ゲスト` Convidado (Evento)
 -   <font size="5"><code>きんじょの<ruby>人<rt>ひと</rt></ruby></code></font> Vizinho
+-   <font size="5"><code>こそ<ruby>泥<rt>どろ</rt></ruby></code></font> Ladrão sorrateiro
 
 ## Profissões
 
@@ -38,6 +39,7 @@
     -   <font size="5"><code><ruby>中<rt>ちゅう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante do secundário
     -   <font size="5"><code><ruby>高<rt>こう</rt>校<rt>こう</rt>生<rt>せい</rt></ruby></code></font> Estudante do ensino médio
     -   <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Universitário
+-   <font size="5"><code><ruby>生<rt>せい</rt>徒<rt>と</rt></ruby></code></font> Pupilo/Aprendiz/Estudante (do fundamental ou médio)
 -   `べんごし` Advogado
 -   `かしゅ` Cantor
 -   `ちょしゃ` Autor
@@ -125,13 +127,27 @@
 -   `ベジタリアン` Vegetariano
 -   <font size="5"><code><ruby>独<rt>どく</rt>身<rt>しん</rt></ruby></code></font> Solteiro
 -   `にんげん` Humano
+-   `アイヌ` Ainu
 
 ## Conjuntos
 
 -   `チーム` Time
 -   `バンド` Banda
 
-## Criaturas
+## Criaturas ocidentais
 
 -   `にんぎょ` Sereia
 -   `ゾンビ` Zumbi
+
+## Folclore japonês
+
+### <ruby>妖<rt>よう</rt>怪<rt>かい</rt></ruby> - Youkais
+
+**Espíritos que podem ser maléficos, benéficos ou travessos. Geralmente o termo abrange qualquer criatura sobrenatural japonesa.**
+
+-   <font size="5"><code><ruby>河<rt>かっ</rt>童<rt>ぱ</rt></ruby></code></font> Kappa
+    -   Youkai anfíbio que pode ser benéfico ou maléfico. Carrega sempre uma espécie de pires cheio de água na cabeça.
+-   <font size="5"><code><ruby>鬼<rt>おに</rt></ruby></code></font> Oni
+    -   Youkai semelhante a um ogro, geralmente vermelhos ou azuis, com dentes protuberantes e chifres. Costumam ser maléficos, mas às vezes podem ser protetores. Costumam carregar porretes.
+-   <font size="5"><code><ruby>天<rt>てん</rt>狗<rt>ぐ</rt></ruby></code></font>
+    -   Youkai semelhante a um goblin, com um nariz protuberante, asas e na maior parte das vezes barba. Vive em florestas e montanhas. Prega peças em pessoas imorais.

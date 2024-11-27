@@ -184,6 +184,7 @@
 -   `Atractivo` Atraente
 -   `Real`
 -   `Extranjero` Estrangeiro
+    -   "Exterior" quando falando de lugares.
 -   `Ruidoso` Barulhento
 -   `Rico` Gostoso
 -   `En línea` Online
@@ -197,3 +198,4 @@
 -   `Libre` Livre
 -   `Perdido` Perdido/Desaparecido
 -   `Clásico` Clássico
+-   `Cariño` Querido

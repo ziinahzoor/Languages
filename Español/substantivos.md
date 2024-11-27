@@ -295,6 +295,7 @@
 -   `Modelo`
 -   `Lado`
 -   `Carrera` Carreira
+-   `Lunar` Bolinha (padrão de bolinhas) 🚹
 
 ### Medidas
 
@@ -309,6 +310,7 @@
 ### Formas abstratas
 
 -   `Cuadrado` Quadrado
+-   `Círculo`
 
 ## Transporte
 
@@ -371,6 +373,7 @@
 -   `Turismo`
 -   `Competencia` Competição/Torneio 🚺
 -   `Patada` Chute
+-   `Boda` Cerimônia de casamento
 
 ### Compras
 

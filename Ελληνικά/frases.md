@@ -5,6 +5,9 @@
     -   `Γεια σας` Formal/Plural
 -   `Πώς είσαι;` Como vai?
     -   `Πώς είστε;` Formal/Plural
+-   `Τι κάνεις;` Como vai?/O que você tá fazendo?
+    -   `Τι κάνετε;` Formal/Plural
+-   `Τι γίνεται;` E aí?
 -   `Είσαι καλά;` Tudo bem?
 -   `Είμαι καλά` Estou bem
 -   `Ευχαριστώ` Obrigado
@@ -13,7 +16,7 @@
 -   `Τα λέμε` Até logo
 -   `Συγγνώμη` Desculpa
 -   `Καλημέρα` Bom dia
--   `Καλησπέρα` Boa noite (Evening)
+-   `Καλησπέρα` Boa tarde (Depois das 13:00)
 -   `Καληνύχτα` Boa noite
 -   `Χάρηκα` Prazer em conhecê-lo
 -   `Ορίστε` Aqui está

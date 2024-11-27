@@ -15,7 +15,8 @@
     </tr>
 	<tr>
         <td><a href="#solicitativa">Solicitativa (て+いいですか)</a></td>
-        <td><a href="#solicitativa-optativa">Solicitativa optativa(て+もいいですか)</a></td>
+        <td><a href="#solicitativa-optativa">Solicitativa optativa (て+もいいですか)</a></td>
+        <td><a href="#sequencial">Sequencial (て+から)</a></td>
         <td><a href="#benefactiva">Benefactiva</a></td>
 	</tr>
 </table>
@@ -31,6 +32,9 @@
 -   Também deve ser usada para verbos que indicam mudança instantânea de estado, como desligar e morrer. Descreve o resultado de uma mudança.
 -   Se usada com `もう` e `まだ`, indica que algo já aconteceu ou ainda não aconteceu, respectivamente.
 -   A forma `て+いる` é muitas vezes casualmente contraída para `て+る`.
+
+> [!TIP]
+> A forma progressiva muitas vezes pode ter o mesmo sentido do pretérito de outras linguagens. Para definir se em japonês esse verbo usa a forma progressiva, na maioria das vezes se o verbo não pode ocorrer novamente sem ter mudado de estado antes, então ele usa a forma progressiva. Ex.: `死ぬ` "Morrer" não pode ocorrer duas vezes, então "estar morto" ou "ter morrido" é `死んでいる`.
 
 <h2 id="var_resultativa">Forma て+ある - Resultativa</h2>
 
@@ -80,7 +84,12 @@
 <h2 id="var_solicitativa-optativa">Forma て+もいいですか - Solicitativa optativa</h2>
 
 -   Funciona como a forma de solicitação de permissão, porém tem um caráter mais optativo: Pede-se permissão para determinada ação, porém ela não necessariamente será realizada, ou seja, pede-se permissão para a POSSIBILIDADE de realizar a ação.
+-   Apesar da nuance, no dia-a-dia só é um pouco mais formal que a forma solicitativa.
+
+<h2 id="var_sequencial">Forma て+から - Sequencial</h2>
+
+-   Indica que a frase seguinte vai ocorrer depois que a primeira ocorrer. Não indica uma implicação lógica, apenas uma ordem para as ações.
 
 <h2 id="var_benefactiva">Forma て+Verbo de transferência - Benefactiva/De favor'</h2>
 
--   Ao usar a forma `て` com algum verbo de transferência como `あげる`, `やる`, `くださる`, `もらう` e `いただく`, indica-se que se está fazendo algo para alguém ou vice-versa, para si mesmo ou alguém está fazendo algo para outra pessoa. Ex.: `。。。花を買ってくれた` "...comprou flores para mim".
+-   Ao usar a forma `て` com algum verbo de transferência como `あげる`, `やる`, `くださる`, `もらう` e `いただく`, indica-se que se está fazendo algo para alguém ou vice-versa, para si mesmo ou alguém está fazendo algo para outra pessoa. Ex.: `…花を買ってくれた` "...comprou flores para mim".

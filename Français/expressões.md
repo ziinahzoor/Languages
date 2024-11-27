@@ -38,6 +38,10 @@
 -   `Être for en...` Ser bom em...
 -   `Oh là là` Uau
 -   `Bravo` Bem feito
+-   `C'est trop de la balle` Isso é muito da hora
+-   `C'est de la bombe/C'est de la boulette` Isso é demais/Isso é o máximo
+-   `C'est une tuerie` Isso é do caramba/Esse é o negócio
+-   `Qui dit..., dit...` Onde há fumaça, há fogo
 
 ## Verlan
 

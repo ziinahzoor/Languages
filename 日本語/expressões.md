@@ -1,7 +1,7 @@
 # Expressões
 
 -   `それにしても` De qualquer maneira
--   <font size="5"><code><ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby>で。。。</code></font> No total...
+-   <font size="5"><code><ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby>で…</code></font> No total...
 -   `いいですね` Parece ótimo
 -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby>ですか</code></font> Sério?/De verdade?
     -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby></code></font> Casual
@@ -28,16 +28,18 @@
 -   `〜ようにする` Tentar/Garantir que
     -   Tem o sentido de fazer um esforço para que algo aconteça
     -   `〜ように` Outra forma de fazer o imperativo se usado no fim da frase.
--   `について。。。` Sobre.../A respeito de...
--   `。。。とおり` Como esperado/Como prometido
+-   `について…` Sobre.../A respeito de...
+-   `…とおり` Como esperado/Como prometido
 -   `ところ` Acabou de.../Está prestes a...
     -   Usado com verbos na forma plana
--   `。。。として` Como.../Do ponto de vista de...
--   `。。。によると・によれば` De acordo com...
+-   `…として` Como.../Do ponto de vista de...
+-   `…によると・によれば` De acordo com...
 -   `それから` Depois disso
--   `。。。にとって` Do ponto de vista de...
+-   `…にとって` Do ponto de vista de...
 -   `あっちこっち` Pra lá e pra cá
 -   <font size="5"><code><ruby>大<rt>たい</rt>変<rt>へん</rt></ruby></code></font> Estou em apuros
+-   `ははーん` A-ha!
+-   <font size="5"><code>…の<ruby>中<rt>なか</rt></ruby>で…が<ruby>一<rt>いち</rt>番<rt>ばん</rt></ruby></code></font> De todos..., ...é o melhor.
 
 ## <ruby>相<rt>あい</rt>槌<rt>づち</rt></ruby> - Interjeições de atenção
 
@@ -66,6 +68,7 @@
     -   `は` Rude
 -   `え` Hein/Huh/Anem
 -   `えー・えーと・うーん・うーんと` Hmmm... (Pensando no que dizer)
+-   `あの・あのー・あのう` Bem..., Então..., Hmmm... (Pensando no que dizer)
 -   `うそー` Não acredito!/Mentira!
 -   `あれ` O quê? (Algo está errado, surpresa, suspeita)
 -   `あっちゃー・あちゃー・しまった` Ah não (Cometeu-se um erro)

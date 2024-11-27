@@ -12,7 +12,7 @@
 -   `ようこそ` Bem-vindo
     -   `いらっしゃいませ` Bem-vindo (Usado em estabelecimentos)
     -   `おかえりなさい` Bem-vindo de volta (à casa)
--   `しつれいします` Com licença (Ao entrar ou sair de uma sala)
+-   <font size="5"><code><ruby>失<rt>しつ</rt>礼<rt>れい</rt></ruby>します</code></font> Com licença (Ao entrar ou sair de uma sala)
 
 ### Ao partir
 
@@ -23,8 +23,8 @@
 -   <font size="5"><code><ruby>行<rt>い</rt></ruby>ってきます</code></font> Estou indo
     -   `いって` Indo + `きます` Vir = Estou indo, e vou voltar
 -   <font size="5"><code><ruby>行<rt>い</rt></ruby>ってらっしゃい</code></font> Tenha cuidado/Estarei esperando
--   `おさきにしつれいします` Desculpe por sair (mais cedo que você)
-    -   `おつかれさまでした` Não tem problema, você trabalhou muito
+-   <font size="5"><code>お<ruby>先<rt>さき</rt></ruby>に<ruby>失<rt>しつ</rt>礼<rt>れい</rt></ruby>します</code></font> Desculpe por sair (mais cedo que você)
+    -   <font size="5"><code>お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした</code></font> Não tem problema, você trabalhou muito
 
 ### Apresentação
 
@@ -36,11 +36,11 @@
 -   <font size="5"><code>お<ruby>名<rt>な</rt>前<rt>まえ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか</code></font> Qual é o seu nome?
     -   <font size="5"><code>お<ruby>名<rt>な</rt>前<rt>まえ</rt></ruby>は</code></font>
 -   `おいくつですか` Quantos anos você tem?
--   `。。。です` Eu sou...
-    -   <font size="5"><code><ruby>私<rt>わたし</rt></ruby>は。。。です</code></font>
--   <font size="5"><code>。。。と<ruby>言<rt>い</rt></ruby>います</code></font> Me chamo...
-    -   <font size="5"><code>。。。と<ruby>申<rt>もう</rt></ruby>します</code></font> Forma humilde
--   `。。。にすんでいます` Em moro em/no/na...
+-   `…です` Eu sou...
+    -   <font size="5"><code><ruby>私<rt>わたし</rt></ruby>は…です</code></font>
+-   <font size="5"><code>…と<ruby>言<rt>い</rt></ruby>います</code></font> Me chamo...
+    -   <font size="5"><code>…と<ruby>申<rt>もう</rt></ruby>します</code></font> Forma humilde
+-   `…にすんでいます` Em moro em/no/na...
 
 ## Solicitações
 
@@ -48,13 +48,15 @@
 -   `おねがいします` Por favor (Para serviços)
 -   `さあ` Vamos/Bora
 -   <font size="5"><code>ちょっと<ruby>待<rt>ま</rt></ruby>って</code></font> Espere um pouco
-    -   <font size="5"><code><ruby>少<rt>しょう</rt>々<rt>しょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちください</code></font> Espere um pouco por favor
+    -   <font size="5"><code><ruby>少<rt>しょう</rt>々</ruby>お<ruby>待<rt>ま</rt></ruby>ちください</code></font> Espere um pouco por favor
 
 ## Arrependimento
 
 -   `すみません` Com licença/Desculpa
     -   Pode ser usado com a forma て para indicar "desculpa por...".
--   `ごめんなさい` Desculpa (Casual)
+    -   `ごめんなさい` Desculpa (Casual)
+    -   <font size="5"><code><ruby>失<rt>しつ</rt>礼<rt>れい</rt></ruby>します</code></font> Teineigo
+        -   Literalmente "estou sendo rude".
 -   `さあ` Não tenho certeza
 
 ## Felicitações
@@ -69,7 +71,7 @@
 -   `どういたしまして` De nada
     -   `いいえ` Mais comum
 -   `ごちそうさまでした` Obrigado pela comida
--   `おつかれさまです` Você está fazendo um bom trabalho (no trabalho)
+-   <font size="5"><code>お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>です</code></font> Você está fazendo um bom trabalho (no trabalho)
 -   <font size="5"><code><ruby>結<rt>けっ</rt>構<rt>こう</rt></ruby></code></font> Não, obrigado/Não precisa/Estou cheio
 
 ## Concordância

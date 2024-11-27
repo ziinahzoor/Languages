@@ -43,8 +43,10 @@
 
 ### には
 
--   `Função de enfatização da partícula に`: enfatiza que se está falando especificamente sobre o destino da ação.
+-   `Função de enfatização da partícula に`: enfatiza que se está falando especificamente sobre o destino da ação. Ex.: `パン屋にはパンがある` NA PADARIA tem pão.
     -   Geralmente indica propósito.
+-   `Função de associação`: pode indicar associação ou posse para conceitos abstratos, como relacionamentos. Ex.: `私には妹がある` EU TENHO uma irmã.
+    -   Nestes casos se usarmos somente uma das partículas a frase não soa natural.
 
 ### へ
 
@@ -140,6 +142,7 @@
 ### ぐらい・くらい
 
 -   `Função de grau ou quantidade aproximada`: Aproximadamente
+    -   `ぐらい` é mais comum na fala.
 
 ### まで
 
@@ -221,7 +224,8 @@
 
 -   `Função contrastiva`: mas, apesar
     -   `けれども` Honorífico (Teineigo)
-    -   Quando usada com substantivos e adjetivos-な, usa o prefixo `だ`, tornando-se `だけど`
+    -   Quando usada com substantivos e adjetivos-な, usa o prefixo `だ`, tornando-se `だけど`.
+    -   Não é necessariamente contraditória, pode apenas ser um contraste positivo.
 
 ### たら
 
@@ -231,6 +235,12 @@
     -   Também tem função "Se... então..."
     -   Basta adicionar `ら` à forma `た` do verbo (ou passado do adjetivo `い`) ou `ったら` à substantivos e adjetivos `な`
     -   Quando associada com uma conjugação no passado, é subentendido que a segunda frase é um evento inesperado.
+
+### たり・だり
+
+-   `Função de listagem não-ordenada de eventos`: Funciona exatamente como a forma-て (inclusive na conjugação), porém lista eventos de forma não-ordenada.
+-   O último item da lista quase sempre acompanha uma conjugação de `する`. Se ele for um verbo-する, o `たり` costuma ser omitido.
+-   Pode ser usado com um único item. "Fazer coisas como X".
 
 ## <ruby>準<rt>じゅん</rt>体<rt>たい</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Frasais
 

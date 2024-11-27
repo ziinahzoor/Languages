@@ -71,6 +71,7 @@
     </tr>
 </table>
 
+-   O japonês usa bastante gestos e reverências (<font size="5"><code>お<ruby>辞<rt>じ</rt>儀<rt>ぎ</rt></ruby></code></font>) na comunicação.
 -   Saudações geralmente vêm depois do nome.
 -   Para perguntas, basta adicionar `か` após a frase. Note que o ponto ainda é necessário.
 -   As coisas costumam partir das mais gerais para específicas: o sobrenome vem antes do nome, ano antes de mês e dia em datas, prefeitura antes de cidade e rua em endereços.
@@ -107,7 +108,7 @@
 -   A diferença entre `そうだ` e `らしい` é que o primeiro tem a nuance de a dedução ser feita a partir de outra fonte (ouvi dizer), enquanto a última se baseia em observações pessoais ou de outras fontes.
 -   Ao falar "qual [lugar]", usar `どこの` ao invés de `どの`
 -   Ao se referir a alguém pelo título ou por sua relação, usa-se `の`. Ex.: <font size="5"><code><ruby>妻<rt>つま</rt>のニヤ</ruby></code></font> "Minha esposa Nyah".
--   Para dizer ambos, usa-se a expressão `。。。も。。。も`. Para dizer "nem um, nem outro", usa-se a expressão `。。。も。。。もない`.
+-   Para dizer ambos, usa-se a expressão `…も…も`. Para dizer "nem um, nem outro", usa-se a expressão `…も…もない`.
     -   Se usados com adjetivos, estes devem usar a forma `く`.
 -   O japonês possui algumas palavras que são adaptações do inglês que não são realmente usadas no inglês, chamadas <font size="5"><code><ruby>和<rt>わ</rt>製<rt>せい</rt>英<rt>えい</rt>語<rt>ご</rt></ruby></code></font>. Ex: `ポケモン` e `ファミコン`.
 -   O japonês costuma evitar pleonasmos (<font size="5"><code><ruby>重<rt>かさ</rt></ruby>ね<ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby></code></font>), usando construções gramaticais para isso.

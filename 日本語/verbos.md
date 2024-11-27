@@ -172,6 +172,7 @@
 -   <font size="5"><code><ruby>吹<rt>ふ</rt></ruby>く</code></font> Soprar
     -   Também é usado como "tocar" para instrumentos de sopro.
 -   <font size="5"><code><ruby>鳴<rt>な</rt></ruby>く</code></font> Fazer som (animal)
+    -   Geralmente se usam onomatopeias com o verbo para representar o som.
 -   <font size="5"><code><ruby>置<rt>お</rt></ruby>く</code></font> Colocar/Pôr
 -   <font size="5"><code><ruby>磨<rt>みが</rt></ruby>く</code></font> Escovar/Polir
 -   <font size="5"><code><ruby>泳<rt>およ</rt></ruby>ぐ</code></font> Nadar
@@ -192,7 +193,8 @@
 -   <font size="5"><code><ruby>進<rt>すす</rt></ruby>む</code></font> Avançar/Seguir em frente
 -   <font size="5"><code><ruby>頼<rt>たの</rt></ruby>む</code></font> Pedir/Solicitar/Implorar
 -   <font size="5"><code><ruby>呼<rt>よ</rt></ruby>ぶ</code></font> Chamar/Convidar
--   <font size="5"><code><ruby>遊<rt>あそ</rt></ruby>ぶ</code></font> Passar tempo/Brincar/Jogar
+-   <font size="5"><code><ruby>遊<rt>あそ</rt></ruby>ぶ</code></font> Passar tempo/Divertir-se/Brincar/Jogar
+    -   Geralmente é usado para convidar alguém para casa.
 -   `まなぶ` Aprender
 -   <font size="5"><code><ruby>並<rt>なら</rt></ruby>ぶ</code></font> Alinhar/Formar fila
 -   `よろこぶ` Alegrar
@@ -267,7 +269,7 @@
     -   Geralmente acompanha o `が`
 -   <font size="5"><code><ruby>曇<rt>くも</rt></ruby>る</code></font> Embaçar/Nublar
 -   <font size="5"><code><ruby>通<rt>とお</rt></ruby>る</code></font> Passar/Atravessar
-    -   <font size="5"><code>。。。のそばを<ruby>通<rt>とお</rt></ruby>る</code></font> Passar por
+    -   <font size="5"><code>…のそばを<ruby>通<rt>とお</rt></ruby>る</code></font> Passar por
 -   <font size="5"><code><ruby>登<rt>のぼ</rt></ruby>る</code></font> Escalar
 -   <font size="5"><code><ruby>上<rt>のぼ</rt></ruby>る</code></font> Subir
 -   <font size="5"><code><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がる</code></font> Alimentar-se
@@ -276,6 +278,8 @@
 -   <font size="5"><code><ruby>売<rt>う</rt></ruby>る</code></font> Vender
 -   <font size="5"><code><ruby>蹴<rt>け</rt></ruby>る</code></font> Chutar
 -   <font size="5"><code><ruby>太<rt>ふと</rt></ruby>る</code></font> Engordar
+    -   <font size="5"><code><ruby>太<rt>ふと</rt></ruby>っている</code></font> Ser gordo
+-   <font size="5"><code><ruby>告<rt>こく</rt></ruby>る</code></font> Declarar os sentimentos
 
 ## 一段 - Ichidan
 
@@ -349,6 +353,7 @@
 -   `はめる` Abotoar
 -   <font size="5"><code><ruby>投<rt>な</rt></ruby>げる</code></font> Arremessar/Lançar/Jogar
 -   <font size="5"><code><ruby>痩<rt>や</rt></ruby>せる</code></font> Emagrecer
+    -   <font size="5"><code><ruby>痩<rt>や</rt></ruby>せている</code></font> Ser magro
 
 ## Verbos する
 
@@ -395,3 +400,8 @@
 -   <font size="5"><code><ruby>離<rt>り</rt>婚<rt>こん</rt></ruby></code></font> Divorciar
 -   `デート` Ter um encontro
 -   <font size="5"><code><ruby>愛<rt>あい</rt></ruby></code></font> Amar
+-   <font size="5"><code><ruby>一<rt>いっ</rt>周<rt>しゅう</rt></ruby></code></font> Dar uma volta
+-   <font size="5"><code><ruby>過<rt>す</rt></ruby>ぎる</code></font> Exceder
+    -   <font size="5"><code><ruby>過<rt>す</rt></ruby>ぎ</code></font> Abreviação
+    -   Costuma auxiliar outro verbo no afirmativo para dizer "demais", ou no negativo para dizer "não... o suficiente".
+    -   Quando o próprio verbo é usado no negativo, tem a nuance de "não tão demais", "não ocorre tanto assim".

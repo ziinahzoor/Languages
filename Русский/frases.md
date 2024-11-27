@@ -11,7 +11,10 @@
 -   `Здра́вствуйте` Oi/Olá (Formal)
 -   `Пока` Tchau (Informal)
 -   `До свида́ния` Tchau (Formal)
+-   `Как ты?` Como vai?
 -   `Всё хорошо́` Tudo bem
+    -   `Хорошо́` Bem
+-   `А ты?` E você?
 -   `До за́втра` Até amanhã
 -   `Извини́` Com licença/Desculpa (Informal)
 -   `Извини́те` Com licença/Desculpa (Formal)
@@ -20,3 +23,4 @@
 -   `Что не так` O que há de errado
 -   `Можете сказать ещё раз` Pode repetir
 -   `Молоде́ц` Bom trabalho
+-   `Я...` Eu sou...

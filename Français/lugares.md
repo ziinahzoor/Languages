@@ -210,6 +210,8 @@
 -   `Bistrot` Bistrô
 -   `Départs` Partidas (aeroporto) 🚹
 -   `Agence` Agência
+-   `Ferme` Fazenda
+-   `Jungle` Selva
 
 ## France - França
 

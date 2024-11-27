@@ -34,6 +34,9 @@
 -   `Pingouin` Pinguim
 -   `Papillon` Borboleta 🚹
 -   `Abeille` Abelha
+-   `Mouche` Mosquito 🚺
+-   `Tigre`
+-   `Girafe` Girafa
 
 ## Relacionado
 

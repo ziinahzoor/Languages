@@ -17,10 +17,12 @@
 -   <font size="5"><code><ruby>明<rt>あ</rt>後日<rt>さって</rt></ruby></code></font> Depois de amanhã
 -   <font size="5"><code><ruby>日<rt>にち・ひ</rt></ruby></code></font> Dia
     -   Geralmente é lido `ひ` quando se refere ao período ou evento temporal e `にち` quando se refere à dias específicos e durações, como dias da semana ou do mês (geralmente palavras compostas).
+-   <font size="5"><code><ruby>朝<rt>あさ</rt>日<rt>ひ</rt></ruby></code></font> Nascer do Sol
 -   <font size="5"><code><ruby>朝<rt>あさ</rt></ruby></code></font> Manhã
 -   <font size="5"><code><ruby>昼<rt>ひる</rt></ruby></code></font> Dia (Período antes da noite)/Meio dia
 -   <font size="5"><code><ruby>昼<rt>ひる</rt>間<rt>ま</rt></ruby></code></font> Dia (Período antes da noite)
     -   Mais comumente usado.
+-   <font size="5"><code><ruby>夕<rt>ゆう</rt>日<rt>ひ</rt></ruby></code></font> Pôr do Sol
 -   <font size="5"><code><ruby>夕<rt>ゆう</rt>方<rt>がた</rt></ruby></code></font> Anoitecer (Até cerca de 7 horas)
 -   <font size="5"><code><ruby>晩<rt>ばん</rt></ruby></code></font> Anoitecer (Depois das 7)
 -   <font size="5"><code><ruby>夜<rt>よる</rt></ruby></code></font> Noite

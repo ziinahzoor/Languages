@@ -1,5 +1,21 @@
 # Utilidades
 
+## Plataformas
+
+**[Duolingo](https://duolingo.com)**
+
+**[Busuu](https://busuu.com)**
+
+**[Mango Languages](https://mangolanguages.com)**
+
+**[Bunpro](https://bunpro.jp)**
+
+**[Talk To Me In Korean](https://courses.talktomeinkorean.com/)**
+
+**[YoYo Chinese](https://yoyochinese.com/)**
+
+**[Chinese For Us](https://chinesefor.us/)**
+
 ## Geral
 
 **[Definições de palavras](https://wiktionary.org/wiki) - Usar `[linguagem].wiktionary.org/wiki/[palavra]`**
@@ -41,25 +57,36 @@
 
 ## Mandarim
 
-**[Dicionário de mandarim](hanzii.net)**
+**[Dicionário de mandarim](https://dictionary.writtenchinese.com/)**
+**[Dicionário de mandarim (link alternativo)](https://hanzii.net)**
 
 ## Japonês
 
 **[Dicionário de japonês](https://jisho.org/)**
 
+**[Playlist - Cure Dolly Sensei](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)**
+
+### Gramática
+
 **[Gramática japonesa](https://www.tofugu.com/japanese-grammar/)**
 
-**[Gramática 2](https://imabi.org/)**
+**[Gramática (link alternativo)](https://imabi.org/)**
+
+**[は vs が](https://8020japanese.com/wa-vs-ga/)**
+
+**[Verbos transitivos e intransitivos](https://www.mlcjapanese.co.jp/Download/ViVt.pdf)**
+
+**[Playlist de gramática - Jouzu Juls](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV)**
+
+### Kanji
 
 **[Radicais dos kanji](https://docs.google.com/spreadsheets/d/1PDY4D8TPz7b-KEFVMyV-uyrEVteopqs6hFoFERfXY-4/edit#gid=1180165444)**
 
 **[Kanji explicado de forma simples](https://www.kanjidamage.com/)**
 
+### Curiosidades
+
 **[Prefeituras do Japão](https://thejapanesepage.com/prefectures-of-japan/)**
-
-**[は vs が](https://8020japanese.com/wa-vs-ga/)**
-
-**[Verbos transitivos e intransitivos](https://www.mlcjapanese.co.jp/Download/ViVt.pdf)**
 
 ## Latim
 
@@ -83,7 +110,7 @@
 
 **[Aprender Alto Valiriano](https://wiki.languageinvention.com/index.php?title=High_Valyrian_language)**
 
-**[Aprender Alto Valiriano 2](https://web.archive.org/web/20220322023216/https://wiki.dothraki.org/Learning_High_Valyrian)**
+**[Aprender Alto Valiriano (link alternativo)](https://web.archive.org/web/20220322023216/https://wiki.dothraki.org/Learning_High_Valyrian)**
 
 **[Aprender Valiriano Astapori](https://wiki.languageinvention.com/index.php?title=Astapori_Valyrian_language)**
 
@@ -93,11 +120,15 @@
 
 **[Dicionário](valyrian-dictionary.com)**
 
-**[Definições de palavras 1](https://wiki.languageinvention.com/) - Usar `https://wiki.languageinvention.com/index.php?title=[Palavra]`**
+**[Definições de palavras](https://wiki.languageinvention.com/) - Usar `https://wiki.languageinvention.com/index.php?title=[Palavra]`**
 
-**[Definições de palavras 2](https://linguifex.com/) - Usar `https://linguifex.com/w/index.php?title=Contionary:[palavra]`**
+**[Definições de palavras (link alternativo)](https://linguifex.com/) - Usar `https://linguifex.com/w/index.php?title=Contionary:[palavra]`**
 
 ## Música
+
+**[Aprender teoria musical básica](https://www.musictheory.net/lessons)**
+
+**[Livro de teoria musical](https://milnepublishing.geneseo.edu/fundamentals-function-form/)**
 
 **[Conceitos básicos de partituras](https://musica.ufma.br/bordini/ext/unidades/unidade_01a.html)**
 

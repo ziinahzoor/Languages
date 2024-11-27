@@ -3,7 +3,6 @@
 ## I Saluti - Saudações
 
 -   `Salve` Olá
--   `Salve` Olá
 -   `Ciao` Oi/Tchau
 -   `Grazie` Obrigado
 -   `Buongiorno` Bom dia/Boa tarde
@@ -23,3 +22,5 @@
 -   `Prego` De nada
 -   `A presto` Até logo
 -   `Come stai?` Como vai?
+-   `Come ti chiami?` Como você se chama?
+-   `Mi chiamo...` Me chamo...

@@ -70,6 +70,7 @@
 -   `Tal como` Como/Tal como
 -   `A la venta` À venda
 -   `Igual`
+-   `Contra`
 
 ## De modo
 

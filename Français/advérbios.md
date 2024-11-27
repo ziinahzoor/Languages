@@ -51,6 +51,7 @@
 -   `Autant` Tanto
 -   `Juste` Só/Somente
 -   `Enfin` Enfim/Finalmente
+-   `Surtout` Principalmente/Sobretudo
 
 ## Locutions adverbiales - Locuções adverbiais
 
@@ -71,6 +72,7 @@
 -   `Sans le vouloir` Sem querer
 -   `À l'étage` Lá em cima
 -   `À ce moment-là` Logo então
+-   `À mon avis` Na minha opinião
 -   `Au coin de` Na esquina de
 -   `En fait` Na verdade
 -   `En avance` Antecipadamente
@@ -110,6 +112,7 @@
 -   `Franchement` Sinceramente/Francamente
 -   `Absolument` Absolutamente
 -   `Complètement` Completamente
+-   `Carrément` Definitivamente/Absolutamente
 
 ## Os Porquês
 

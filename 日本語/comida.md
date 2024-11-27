@@ -93,6 +93,7 @@
 
 -   `すいか` Melancia
 -   `ナシ` Pera
+    -   <font size="5"><code><ruby>梨<rt>なし</rt></ruby></code></font> Pera japonesa
 -   `いちご` Morango
 -   `りんご` Maçã
 -   `オレンジ` Laranja
@@ -126,7 +127,7 @@
 
 ## <ruby>日<rt>に</rt>本<rt>ほん</rt>料<rt>りょう</rt>理<rt>り</rt></ruby>と<ruby>中<rt>ちゅう</rt>華<rt>か</rt>料<rt>りょう</rt>理<rt>り</rt></ruby> - Comida japonesa e chinesa
 
-### Caldos e molhos
+### Caldos, molhos e temperos
 
 -   `だし` Dashi
     -   Caldo feito de diferentes ingredientes, como kombu e ossos ou carne de animais.
@@ -138,6 +139,8 @@
     -   Molho feito aquecendo e misturando, shoyu, sake (ou mirin) e açúcar (ou mel).
     -   `てりやき` Teriyaki
         -   Técnica em que o tarê é utilizado para marinar a comida antes de grelhá-la.
+-   <font size="5"><code><ruby>振<rt>ふ</rt></ruby>り<ruby>掛<rt>か</rt></ruby>け</code></font> Furikake
+    -   Tempero para arroz que geralmente contém peixe seco, algas e gergelim.
 
 ### Comida
 
@@ -197,6 +200,8 @@
         -   Arroz servido com tonkatsu no topo. Geralmente acompanha ovos e cebolas.
     -   `みそかつ` Misokatsu
         -   Variação com molho miso
+-   <font size="5"><code><ruby>串<rt>くし</rt></ruby>カツ</code></font> Kushikatsu
+    -   Espetinhos de carne e vegetais fritos
 -   `とうふ` Tofu
     -   Blocos de leite de soja fermentado.
     -   `マーボーどうふ` Mapo tofu
@@ -208,6 +213,14 @@
 -   `おかゆ` Mingau de arroz
 -   `なっとう` Soja fermentada
 -   <font size="5"><code><ruby>肉<rt>にく</rt></ruby>まん</code></font> Pãozinho de carne no vapor
+-   <font size="5"><code>お<ruby>好<rt>この</rt></ruby>み<ruby>焼<rt>や</rt></ruby>き</code></font> Okonomiyaki
+    -   Panqueca frita com vegetais, carne e/ou frutos do mar e coberta com vários molhos e condimentos.
+-   <font size="5"><code><ruby>卵<rt>たまご</rt></ruby>かけご<ruby>飯<rt>はん</rt></ruby></code></font> Tamago kake gohan
+    -   Arroz com ovo cru e shoyu.
+-   `しゃぶしゃぶ` Shabu-shabu
+    -   Ensopado de carne em pedaços finos cozida com vegetais. A carne e os vegetais são retirados, deixando o caldo. O prato então geralmente é consumido com molhos para mergulhar.
+-   <font size="5"><code><ruby>角<rt>かく</rt>煮<rt>に</rt></ruby></code></font> Kakuni
+    -   Cubos de barriga de porco ou atum fervidos em dashi, shoyu, mirin, açúcar e saquê.
 
 ## Refeições
 

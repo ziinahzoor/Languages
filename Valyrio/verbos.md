@@ -40,6 +40,12 @@
 -   `Rakegon` Participar
 -   `Gīmigon` Saber
 -   `Gūrogon` Pegar
+-   `Geltigon` Cobrir
+-   `Indigon` Empurrar
+-   `Qlādugon` Arrastar
+-   `Kȳvagon` Planejar
+-   `Ellagon` Abraçar
+-   `Pryjagon` Destruir
 
 ## Verbos -agon
 

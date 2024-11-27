@@ -115,6 +115,7 @@
 -   `Comptable` Contador
 -   `Athlète` Atleta
 -   `Couple` Casal
+-   `Habitant` Habitante
 
 ## La famille - Família
 

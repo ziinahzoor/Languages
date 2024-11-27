@@ -24,3 +24,10 @@
 
 -   `Perro oso` Que vergonha/Vergonha alheia
 -   `Duérmete un rato` Dorme um pouco/Tirar um cochilo
+
+### Gírias da internet
+
+**Costuma-se trocar `qu` por `k`.**
+
+-   `K/Q` Qué
+-   `Aki` Aquí

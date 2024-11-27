@@ -6,6 +6,7 @@
         -   <font size="5"><code><ruby>目<rt>め</rt></ruby></code></font> Olho
             -   `なみだ` Lágrimas
         -   <font size="5"><code><ruby>鼻<rt>はな</rt></ruby></code></font> Nariz
+            -   <font size="5"><code><ruby>鼻<rt>はな</rt>水<rt>みず</rt></ruby></code></font> Muco nasal/Nariz escorrendo
         -   <font size="5"><code><ruby>口<rt>くち</rt></ruby></code></font> Boca
             -   <font size="5"><code><ruby>歯<rt>は</rt></ruby></code></font> Dente
         -   `ひげ` Barba

@@ -33,6 +33,9 @@
     -   `Faire de l'escalade` Escalar
     -   `Faire confiance à` Confiar
     -   `Faire peur` Assustar
+    -   `Faire la fête` Festar
+        -   `Teufer` Verlan
+    -   `Faire nuit` Estar de noite/Estar escuro
 -   `Défaire` Desfazer
 -   `Attendre` Esperar
 -   `Dire` Dizer
@@ -58,6 +61,8 @@
 -   `Naître` Nascer
 -   `Décrire` Descrever
 -   `Plaire` Agradar/Gostar
+-   `Réduire` Reduzir
+-   `Se battre` Brigar
 
 ## -er Verbes
 
@@ -287,6 +292,12 @@
 -   `Disputer` Discutir
 -   `Sonner` Soar/Tocar/Bater
     -   Usado para telefones, portas, campainhas, sinos, etc.
+-   `Triper` Viajar (de se divertir)
+-   `Protéger` Proteger
+-   `Respecter` Respeitar
+-   `Trier` Ordenar/Classificar/Pôr em ordem
+-   `Recycler` Reciclar
+-   `Se cacher` Esconder-se
 
 ## -ir Verbes
 
@@ -300,6 +311,7 @@
     -   `Avoir raison` Ter razão
     -   `Avoir tort` Não ter razão
     -   `Avoir rendez-vous` Ter um encontro
+    -   `Avoir du mal à` Ter dificuldade em
 -   `Voir` Ver
 -   `Revoir` Rever
 -   `Vouloir` Querer

@@ -106,6 +106,9 @@
 -   `Bière` Cerveja
 -   `Lait` Leite
 -   `Vin` Vinho
+    -   `Rouge` Tinto
+    -   `Blanc` Branco
+    -   `Rosé`
 -   `Soda` Refrigerante
 -   `Limonade` Limonada com gás
 -   `Champagne` Champanhe

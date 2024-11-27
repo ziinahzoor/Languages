@@ -180,6 +180,7 @@ const japanese = {
 		{ page: 'conjunções', displayName: 'Conjunções' },
 		{ page: 'cores', displayName: 'Cores' },
 		{ page: 'corpo', displayName: 'Corpo' },
+		{ page: 'dialetos', displayName: 'Dialetos' },
 		{ page: 'expressões', displayName: 'Expressões' },
 		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'honoríficos', displayName: 'Honoríficos' },
@@ -205,11 +206,15 @@ const chinese = {
 	subpages: [
 		{ page: 'regras', displayName: '◆ Regras' },
 		{ page: 'fonética', displayName: '◆ Fonética e Fonologia' },
+		{ page: 'adjetivos', displayName: 'Adjetivos' },
 		{ page: 'comida', displayName: 'Comida' },
 		{ page: 'conjugações', displayName: 'Conjugações' },
 		{ page: 'conjunções', displayName: 'Conjunções' },
+		{ page: 'frases', displayName: 'Frases' },
+		{ page: 'partículas', displayName: 'Partículas' },
 		{ page: 'pinyin', displayName: 'Pinyin' },
 		{ page: 'pronomes', displayName: 'Pronomes' },
+		{ page: 'tempo', displayName: 'Tempo' },
 		{ page: 'verbos', displayName: 'Verbos' },
 	]
 
@@ -307,6 +312,7 @@ const dutch = {
 	subpages: [
 		{ page: 'regras', displayName: '◆ Regras' },
 		{ page: 'conjunções', displayName: 'Conjunções' },
+		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'pessoas', displayName: 'Pessoas' },
 		{ page: 'pronomes', displayName: 'Pronomes' },
 		{ page: 'substantivos', displayName: 'Substantivos' },
@@ -392,6 +398,7 @@ const arabic = {
 		{ page: '../Alfabetos/al-ʾabjadiyyah', displayName: '◆ Alfabeto' },
 		{ page: 'adjetivos', displayName: 'Adjetivos' },
 		{ page: 'conjunções', displayName: 'Conjunções' },
+		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'roupas', displayName: 'Roupas' },
 		{ page: 'substantivos', displayName: 'Substantivos' },
@@ -426,6 +433,7 @@ const korean = {
 		{ page: 'animais', displayName: 'Animais' },
 		{ page: 'comida', displayName: 'Comida' },
 		{ page: 'conjunções', displayName: 'Conjunções' },
+		{ page: 'frases', displayName: 'Frases' },
 		{ page: 'lugares', displayName: 'Lugares' },
 		{ page: 'pessoas', displayName: 'Pessoas' },
 		{ page: 'pronomes', displayName: 'Pronomes' },

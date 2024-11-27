@@ -24,7 +24,7 @@
 -   `クモ` Aranha
 -   `タカ` Falcão
 -   `サソリ` Escorpião
--   `ワニ` Jacaré
+-   <font size="5"><code><ruby>鰐<rt>わに</rt></ruby></code></font> Jacaré
 -   `ホタル` Vagalume
 -   `キツネ` Raposa
 -   `カエル` Sapo
@@ -47,3 +47,5 @@
 -   <font size="5"><code><ruby>鹿<rt>しか</rt></ruby></code></font> Veado
 -   <font size="5"><code><ruby>牛<rt>うし</rt></ruby></code></font> Vaca
 -   <font size="5"><code><ruby>馬<rt>うま</rt></ruby></code></font> Cavalo
+-   <font size="5"><code><ruby>海胆<rt>うに</rt></ruby></code></font> Ouriço-do-mar
+-   <font size="5"><code><ruby>河豚<rt>ふぐ</rt></ruby></code></font> Baiacu

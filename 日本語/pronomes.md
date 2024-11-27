@@ -7,9 +7,10 @@
 **Para o plural, adicionar `たち`.**
 
 -   <font size="5"><code><ruby>私<rt>わたし</rt></ruby></code></font> Eu
-    -   É neutro em conversas formais e feminino em casuais.
-    -   <font size="5"><code><ruby>僕<rt>ぼく</rt></ruby></code></font> é mais masculino em conversas casuais.
+    -   É neutro em contextos formais e feminino em casuais.
+    -   <font size="5"><code><ruby>僕<rt>ぼく</rt></ruby></code></font> é mais masculino em contextos casuais.
     -   <font size="5"><code><ruby>俺<rt>おれ</rt></ruby></code></font> é ainda mais masculino e até mesmo vulgar.
+        -   Usado em contextos onde busca-se demonstrar masculinidade, como bares e encontros românticos.
     -   `うち` é bastante comum entre mulheres.
 -   <font size="5"><code><ruby>貴<rt>あな</rt>方<rt>た</rt></ruby></code></font> Tu/Você
     -   <font size="5"><code>お<ruby>前<rt>まえ</rt></ruby></code></font> Amistoso e casual com amigos, rude com estranhos
@@ -25,7 +26,7 @@
 
 **Determinante quer dizer que descreve alguma coisa. Ex.: "Este livro" ao invés "Este".**
 
--   Usar `どれ` para três ou mais itens e `どちら` para dois.
+-   Usar `どれ・どの` para três ou mais itens e `どちら` para dois.
     -   O último é o único sentido que `どっち` pode ter
 
 **Os casos "não-determinante" e "pessoa" podem ser colocados no plural pelo sufixo `ら`.**
@@ -194,6 +195,7 @@
 
 > [!TIP]
 > Os universais/negativos aceitam partículas antes. Ex: `だれにも` "Para alguém/ninguém", `だれとも` "Com alguém/ninguém".
+> Para determinantes, o que se determina vem no meio da construção. Ex.: `どの色でも` "Qualquer cor".
 
 ## Possessivos
 

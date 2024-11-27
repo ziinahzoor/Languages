@@ -2,7 +2,7 @@
 
 ## Tons
 
-**Tons geralmente mudam na pronúncia em três casos principais: no terceiro tom, com o caractere `一` e com o caractere `不`.**
+**Tons geralmente mudam na pronúncia (`Tone sandhi`) em três casos principais: no terceiro tom, com o caractere `一` e com o caractere `不`.**
 
 ### Primeiro tom
 

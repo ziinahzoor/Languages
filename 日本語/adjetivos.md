@@ -112,6 +112,7 @@
 -   `ゆるい` Solto/Frouxo
 -   <font size="5"><code><ruby>丸<rt>まる</rt></ruby>い</code></font> Redondo
 -   <font size="5"><code><ruby>青<rt>あお</rt></ruby>い</code></font> Azul/Pálido
+-   <font size="5"><code><ruby>臭<rt>くさ</rt></ruby>い</code></font> Fedido/Fétido
 
 ## <ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos な
 
@@ -132,7 +133,7 @@
     -   Quando ligado a um verbo na forma te, dá a ideia de "gostaria de tentar" alguma coisa.
 -   <font size="5"><code><ruby>色<rt>いろ</rt>々</ruby></code></font> Diversos/Vários/Todo tipo
 -   <font size="5"><code><ruby>大<rt>たい</rt>変<rt>へん</rt></ruby></code></font> Difícil/Muito (Extremamante)
--   `べんり` Conveniente
+-   <font size="5"><code><ruby>便<rt>べん</rt>利<rt>り</rt></ruby></code></font> Conveniente
 -   `ふべん` Inconveniente
 -   `たのしみ` Ansioso (de antecipação)
     -   Geralmente acompanha o `が`

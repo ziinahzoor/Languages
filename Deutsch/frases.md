@@ -4,6 +4,7 @@
 -   `Danke` Obrigado
 -   `Tschüss` Tchau
 -   `Hallo` Olá
+    -   `Hi` Abreviação
 -   `Guten Morgen` Bom dia
 -   `Guten Tag` Boa tarde
 -   `Guten Abend` Boa noite (Evening)
@@ -17,3 +18,7 @@
 -   `Entschuldigung` Com licença
 -   `Bis bald` Até logo
 -   `Keine Ahnung` Não tenho ideia
+-   `Wie heißt du?` Como você se chama?
+-   `Ich heiße...` Eu me chamo...
+-   `Freut mich` Prazer em conhecer
+    -   `Freut mich auch` Também é um prazer

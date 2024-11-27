@@ -24,6 +24,8 @@
 -   `Étoile` Estrela
 -   `Sable` Areia 🚹
 -   `Feuille` Folha
+-   `Environnement` Meio-ambiente
+-   `Pollution` Poluição
 
 ### Materiais
 
@@ -168,6 +170,7 @@
 -   `Pelle` Pá
 -   `Bouquet` Buquê
 -   `Mouchoir` Lenço
+-   `Déchet` Dejeto/Lixo
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -348,6 +351,7 @@
 -   `Expérience` Experiência
 -   `Talent` Talento
 -   `Succès` Sucesso
+-   `Argot` Gíria 🚹
 
 ### Sentimentos e emoções
 
@@ -539,6 +543,7 @@
 ## Música
 
 -   `Musique` Música
+    -   `Zik` Verlan
 -   `Chanson` Canção
 -   `Album` Álbum
 -   `Rap`

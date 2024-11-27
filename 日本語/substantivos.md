@@ -25,6 +25,7 @@
 -   <font size="5"><code><ruby>空<rt>そら</rt></ruby></code></font> Céu
 -   <font size="5"><code><ruby>風<rt>かぜ</rt></ruby></code></font> Vento
 -   `ダイヤモンド` Diamante
+-   <font size="5"><code><ruby>土<rt>つち</rt></ruby></code></font> Terra/Solo/Lama
 
 ### Materiais
 
@@ -104,11 +105,12 @@
 -   <font size="5"><code><ruby>本<rt>ほん</rt>棚<rt>だな</rt></ruby></code></font> Estante
 -   `テーブル` Mesa
 -   <font size="5"><code><ruby>机<rt>つくえ</rt></ruby></code></font> Escrivaninha
--   <font size="5"><code><ruby>椅<rt>い</rt>子<rt>す</rt></ruby></code></font> Cadeira
+-   <font size="5"><code><ruby>椅<rt>い</rt>子<rt>す</rt></ruby></code></font> Cadeira/Banquinho
 -   `はなび` Fogos de artifício
 -   `スーツケース` Maleta
 -   <font size="5"><code><ruby>絵<rt>え</rt></ruby></code></font> Pintura
 -   `テスト` Prova
+    -   <font size="5"><code><ruby>〇<rt>まる</rt>×<rt>ばつ</rt></ruby>テスト</code></font> Prova de verdadeiro ou falso
 -   `じしょ` Dicionário
 -   `ナプキン` Lenço de papel (Napkin)
 -   `ハンカチ` Lenço de pano (Handkerchief)
@@ -278,6 +280,9 @@
 -   <font size="5"><code><ruby>文<rt>ぶん</rt>章<rt>しょう</rt></ruby></code></font> Passagem de texto
 -   <font size="5"><code><ruby>危<rt>き</rt>険<rt>けん</rt></ruby></code></font> Perigo
 -   <font size="5"><code><ruby>背<rt>せ</rt></ruby></code></font> Altura/Estatura
+-   <font size="5"><code><ruby>告<rt>こく</rt>白<rt>はく</rt></ruby></code></font> Confissão/Admissão/Declaração de amor
+-   `つもり` Intenção/Propósito
+-   <font size="5"><code><ruby>一<rt>いっ</rt>周<rt>しゅう</rt></ruby></code></font> Uma volta
 
 ### Condições
 
@@ -293,6 +298,9 @@
 ### Formas
 
 -   <font size="5"><code><ruby>丸<rt>まる</rt></ruby></code></font> Círculo
+    -   <font size="5"><code><ruby>○<rt>まる</rt></ruby></code></font> Usado em provas para marcar alternativas corretas.
+-   <font size="5"><code><ruby>罰<rt>ばっ</rt>点<rt>てん</rt></ruby></code></font> X/Cruz
+    -   <font size="5"><code><ruby>ｘ<rt>ばつ</rt></ruby></code></font> Usado em provas para marcar alternativas incorretas.
 
 ## Hotel
 
@@ -438,6 +446,7 @@
 -   `サイクリング` Ciclismo
 -   `サーフィン` Surf
 -   <font size="5"><code><ruby>結<rt>けっ</rt>婚<rt>こん</rt>式<rt>しき</rt></ruby></code></font> Casamento
+    -   `プロポーズ` Pedido de casamento
 -   `スピーチ` Discurso
 -   `ボウリング` Boliche
 -   `プログラミング` Programação
@@ -447,6 +456,7 @@
 -   `じゅんび` Preparação
 -   `デート` Encontro
 -   <font size="5"><code><ruby>手<rt>て</rt>洗<rt>あら</rt><rt></rt></ruby>い</code></font> Lavar as mãos
+-   <font size="5"><code><ruby>七夕<rt>たなばた</rt></ruby></code></font> Festival das Estrelas
 
 ### <ruby>学<rt>がっ</rt>校<rt>こう</rt></ruby> - Escola
 

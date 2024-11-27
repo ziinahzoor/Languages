@@ -259,7 +259,7 @@
     -   Também possui uma função partitiva, ou seja, que se refere a uma parte de um todo.
         -   `J'achète cinq pommes` → `J'en achète cinq`.
     -   Não pode substituir uma pessoa. Deve-se usar um pronome pessoal.
--   `Y` Aqui/Lá
+-   `Y` Lá/Aqui
     -   Substitui uma parte da frase introduzida pelas proposições `à` ou `en` ou derivados.
         -   `Je vais à l'école` → `J'y vais`;
         -   `Il habite en ville` → `Il y habite`.
