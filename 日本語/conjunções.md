@@ -10,7 +10,7 @@
 -   `けど` Mas/Apesar de (Fim de frase)
     -   `だけど` Usado depois de substantivos e adjetivos-な.
     -   `けれども` Teineigo
--   `では` Ok então.../Então.../Bem...
+-   `では` Nesse caso.../Ok então.../Então.../Bem...
     -   `じゃあ`
 -   `それでは` Então.../Bem.../Se este é o caso...
     -   Geralmente usado pra encerrar conversas ou introduzir observações.
@@ -23,6 +23,7 @@
 -   `だって` Porque/Mas/Mesmo que/Afinal
     -   A tradução correta seria "é dito que...", o que justifica todos os usos contrastantes.
 -   <font size="5"><code><ruby>次<rt>つぎ</rt></ruby>に</code></font> Em seguida/Depois disso
+-   `ないで` Sem fazer
 
 # <ruby>感<rt>かん</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Interjeições
 

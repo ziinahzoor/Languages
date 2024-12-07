@@ -55,6 +55,7 @@
 -   `Pâle` Pálido
 -   `Musclé` Musculoso
 -   `Costaud` Bombado
+-   `Chic` Chique/Estiloso
 
 ## Idade
 
@@ -68,6 +69,7 @@
 -   `Vieux` Velho
     -   `Vieil` Se começa com som de vogal
 -   `Vielle` Velha
+-   `Ancien` Antigo
 
 ## Tamanho/Altura/Peso
 
@@ -147,6 +149,7 @@
 -   `Bête` Besta/Bobo
 -   `Enchanté` Encantado
 -   `Fort` Forte/Intenso
+-   `Faible` Fraco
 -   `Précieux` Precioso
 -   `Urgent` Urgente
 -   `Sportif` Esportivo
@@ -156,6 +159,8 @@
 -   `Original`
 -   `Impossible` Impossível
 -   `Hanté` Assombrado
+-   `Propre` Próprio
+-   `Rangé` Arrumado
 
 ### Personalidade
 
@@ -226,7 +231,6 @@
 -   `Obligé` Obrigado
 -   `Abandonné` Abandonado
 -   `Bienvenu` Bem-vindo
--   `Enceinte` Grávida
 
 ### Físicas/Emocionais
 
@@ -238,6 +242,10 @@
 -   `Chaud` Quente/Calor
 -   `Froid` Frio
     -   Também é substantivo
+-   `Enceinte` Grávida
+-   `Allergique` Alérgico
+-   `Aveugle` Cego
+-   `Sourd` Surdo
 
 ## Sentimento/Emoção
 

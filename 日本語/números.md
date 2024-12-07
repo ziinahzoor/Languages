@@ -8,8 +8,6 @@
 
 **Em números de telefone, `の` demarca o traço separador.**
 
-**<font size="5"><code><ruby>歳<rt>さい</rt></ruby></code></font> após um número se refere à idade da pessoa. Mas para perguntar a idade de maneira educada usa-se `おいくつですか`.**
-
 <table>
     <thead>
         <tr>
@@ -152,13 +150,7 @@
 
 **<font size="5"><code><ruby>点<rt>てん</rt></ruby></code></font> demarca o ponto decimal.**
 
-**O Japão só usa 4 notas, que usam as seguintes formas seguindo o `大字`: `千円` (1000), `弐千円` (2000), `五千円` (5000), `壱万円` (10000).**
-
--   O zero antes do ponto decimal deve ser lido como `れい`. Os outros tanto faz.
-
 **Ao falar, costuma-se pausar a cada 4 números. O ponto decimal é considerado como um.**
-
-**Vinte anos é a idade em que alguém se torna adulto no Japão. Usa-se `はたち` ao invés de `二十`**
 
 ## <ruby>助<rt>じょ</rt>数<rt>すう</rt>詞<rt>し</rt></ruby> - Contadores
 
@@ -225,6 +217,10 @@
 
 ### <font size="5"><code><ruby>歳<rt>さい</rt></ruby></code></font> Idade
 
+**Para perguntar a idade de maneira educada usa-se `おいくつですか`.**
+
+**Vinte anos é a idade em que alguém se torna adulto no Japão. Usa-se `はたち` ao invés de `二十`**
+
 ### <font size="5"><code><ruby>回<rt>かい</rt></ruby></code></font> Frequência, Parcelas
 
 -   Pode ser traduzido como "vezes"
@@ -236,6 +232,10 @@
 -   Usar o sufixo <font size="5"><code><ruby>建<rt>だ</rt></ruby>て</code></font> para dizer que algo tem X andares.
 
 ### <font size="5"><code><ruby>円<rt>えん</rt></ruby></code></font> Dinheiro
+
+**O Japão só usa 4 notas, que usam as seguintes formas seguindo o `大字`: `千円` (1000), `弐千円` (2000), `五千円` (5000), `壱万円` (10000).**
+
+-   O zero antes do ponto decimal deve ser lido como `れい`. Os outros tanto faz.
 
 ### <font size="5"><code><ruby>本<rt>ほん</rt></ruby></code></font> Coisas alongadas ou que se extendem
 

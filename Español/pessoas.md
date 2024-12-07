@@ -5,8 +5,10 @@
 -   `Adulto`
 -   `Niño` Menino
 -   `Chico` Rapaz
--   `Ninã` Menina
+-   `Muchacho` Rapaz
+-   `Niña` Menina
 -   `Chica` Moça
+-   `Muchacha` Moça
 -   `Mujer` Mulher
 -   `Hombre` Homem
 -   `Tipo` Cara

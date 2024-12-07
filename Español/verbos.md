@@ -7,6 +7,7 @@
 
 -   `Estar`
     -   `Estar de acuerdo` Estar de acordo
+    -   `Estar listo` Estar pronto
 -   `Hablar` Falar
 -   `Necesitar` Necessitar
 -   `Pagar`
@@ -181,6 +182,8 @@
 -   `Lanzar` Lançar
 -   `Molestar` Incomodar
 -   `Grabar` Gravar
+-   `Golpear` Acertar/Bater
+-   `Dejar` Deixar
 
 ## Los verbos -er
 
@@ -238,6 +241,8 @@
 -   `Escoger` Escolher
 -   `Devolver`
 -   `Ascender` Promover
+-   `Suponer` Supor
+-   `Mantener` Manter
 
 ## Los verbos -ir
 
@@ -278,3 +283,4 @@
 -   `Construir`
 -   `Describir` Descrever
 -   `Incluir`
+-   `Destruir`

@@ -9,6 +9,7 @@
 -   `かいじょう` Local
 -   <font size="5"><code><ruby>辺<rt>へん</rt></ruby></code></font> Área/Região
 -   <font size="5"><code><ruby>辺<rt>あた</rt></ruby>り</code></font> Vizinhança
+-   <font size="5"><code><ruby>住<rt>じゅう</rt>所<rt>しょ</rt></ruby></code></font> Endereço
 -   <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
     -   <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby></code></font> Honorífico (Teineigo)
     -   <font size="5"><code><ruby>店<rt>てん</rt>内<rt>ない</rt></ruby></code></font> Dentro da loja
@@ -71,7 +72,8 @@
 -   <font size="5"><code><ruby>動<rt>どう</rt>物<rt>ぶつ</rt>園<rt>えん</rt></ruby></code></font> Zoológico
 -   `すいぞくかん` Aquário
 -   `ひろば` Praça
--   `おんせん` Fontes termais
+-   <font size="5"><code><ruby>温<rt>おん</rt>泉<rt>せん</rt></ruby></code></font> Fontes termais
+-   <font size="5"><code><ruby>温<rt>おん</rt>泉<rt>せん</rt>宿<rt>やど</rt></ruby></code></font> Hotel termal
 -   <font size="5"><code><ruby>会<rt>かい</rt>社<rt>しゃ</rt></ruby></code></font> Empresa
 -   `トンネル` Túnel
 -   `はくぶつかん` Museu
@@ -102,7 +104,7 @@
 -   <font size="5"><code><ruby>電<rt>でん</rt>気<rt>き</rt>屋<rt>や</rt></ruby></code></font> Loja de eletrodomésticos
 -   `ステージ` Palco
 -   `スタジアム` Estádio
--   `ゆうびんきょく` Correios
+-   <font size="5"><code><ruby>郵<rt>ゆう</rt>便<rt>びん</rt>局<rt>きょく</rt></ruby></code></font> Correios
 -   <font size="5"><code><ruby>銀<rt>ぎん</rt>行<rt>こう</rt></ruby></code></font> Banco
 -   `コート` Quadra de esportes
 -   `ドラッグストア` Drogaria
@@ -163,6 +165,7 @@
 ## <ruby>家<rt>いえ</rt></ruby> - Casa
 
 -   `うち` (Minha) Casa
+-   <font size="5"><code>お<ruby>宅<rt>たく</rt></ruby></code></font> (Sua) Casa (Sonkeigo)
 -   <font size="5"><code><ruby>家<rt>か</rt>庭<rt>てい</rt></ruby></code></font> Lar
 -   <font size="5"><code>ご<ruby>在<rt>ざい</rt>宅<rt>たく</rt></ruby></code></font> Em casa/Estar em casa
 -   `アパート` Apartamento

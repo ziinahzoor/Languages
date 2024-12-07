@@ -9,6 +9,8 @@
 -   `Dārion` País/Reino 🌱
 -   `Zenturlion` Hotel/Estalagem 🌱
 -   `Īlilion` Encruzilhada 🌱
+-   `Ninkion` Planície/Campo 🌱
+-   `Vȳs` Planeta/Mundo ☀️
 
 ## Dārior - Reinos 🌱
 

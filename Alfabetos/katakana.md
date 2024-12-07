@@ -1,5 +1,10 @@
 # <ruby>片<rt>かた</rt>仮<rt>か</rt>名<rt>な</rt></ruby> - Katakana
 
+> [!NOTE]
+> O silabário japonês é chamado <font size="5"><code><ruby>五<rt>ご</rt>十<rt>じゅう</rt>音<rt>おん</rt></ruby></code></font>.
+> As linhas de consoantes são chamadas <font size="5"><code><ruby>行<rt>ぎょう</rt></ruby></code></font>. Ex.: A linha `カ` é dita <font size="5"><code>カ<ruby>行<rt>ぎょう</rt></ruby></code></font>
+> As colunas das vogais são chamadas <font size="5"><code><ruby>段<rt>だん</rt></ruby></code></font> ou <font size="5"><code><ruby>列<rt>れつ</rt></ruby></code></font>. Ex.: A coluna `イ` é dita <font size="5"><code>イ<ruby>段<rt>だん</rt></ruby></code></font> ou <font size="5"><code>イ<ruby>烈<rt>れつ</rt></ruby></code></font>.
+
 | **ア** | **イ** | **ウ** | **エ** | **オ** |
 | :----: | :----: | :----: | :----: | :----: |
 |   a    |   i    |   u    |   e    |   o    |
@@ -24,13 +29,18 @@
 | **ン** |
 |   n    |
 
-**Chamadas <font size="5"><code><ruby>五<rt>ご</rt>十<rt>じゅう</rt>音<rt>おん</rt></ruby></code></font>, monografos.**
+> [!IMPORTANT]
+> O kana `ヲ` É sempre pronunciado "o". Hoje em dia, é muito raro usá-lo em katakana.
+
+> [!NOTE]
+> Em katakana, o "v" pode ser representado tanto usando sons de "b", quanto `ウ`.
 
 **O `ん` é chamado <font size="5"><code><ruby>撥<rt>はつ</rt>音<rt>おん</rt></ruby></code></font>.**
 
 ## <ruby>濁<rt>だく</rt>点<rt>てん</rt></ruby>と<ruby>半<rt>はん</rt>濁<rt>だく</rt>点<rt>てん</rt></ruby> - Marcas de vocalização
 
--   Alteram a fonética das sílabas
+-   Alteram a fonética das sílabas não-vocalizadas para vocalizadas.
+-   O <font size="5"><code><ruby>濁<rt>だく</rt>点<rt>てん</rt></ruby></code></font> se refere ao símbolo `゛`. O <font size="5"><code><ruby>半<rt>はん</rt>濁<rt>だく</rt>点<rt>てん</rt></ruby></code></font> se refere ao símbolo `゜`.
 
 | **ガ** | **ギ** | **グ** | **ゲ** | **ゴ** |
 | :----: | :----: | :----: | :----: | :----: |

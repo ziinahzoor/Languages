@@ -301,6 +301,8 @@
 
 -   `Litro`
 -   `Metro`
+-   `Gramo` Grama 🚹
+-   `Centímetro`
 -   `Kilómetro` Quilômetro
 -   `Kilogramo` Quilograma 🚹
 -   `Grado` Grau
@@ -311,6 +313,7 @@
 
 -   `Cuadrado` Quadrado
 -   `Círculo`
+-   `Recta` Reta
 
 ## Transporte
 

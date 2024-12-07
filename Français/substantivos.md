@@ -171,6 +171,7 @@
 -   `Bouquet` Buquê
 -   `Mouchoir` Lenço
 -   `Déchet` Dejeto/Lixo
+-   `Cachet` Comprimido
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -205,6 +206,7 @@
 
 -   `Essence` Essência
 -   `Rendez-vous` Encontro/Compromisso/Consulta 🚹
+    -   `Rencard` Informal
 -   `Chose` Coisa
 -   `Truc` Truque/Coisa
 -   `Affaire` Assunto/Responsabilidade/Coisa 🚺
@@ -341,6 +343,7 @@
 -   `Loyer` Aluguel
 -   `Culture` Cultura
 -   `Accent` Sotaque
+-   `Vérité` Verdade
 -   `Mensonge` Mentira 🚹
 -   `Blague` Piada
 -   `Attitude` Atitude/Postura
@@ -351,9 +354,16 @@
 -   `Expérience` Experiência
 -   `Talent` Talento
 -   `Succès` Sucesso
+-   `Réussite` Sucesso/Êxito 🚺
 -   `Argot` Gíria 🚹
+-   `Départ` Partida 🚹
+-   `Arrivée` Chegada
+-   `Annonce` Anúncio 🚺
+-   `Régime` Regime/Dieta
+-   `Responsabilité` Responsabilidade
+-   `Livraison` Entrega
 
-### Sentimentos e emoções
+### Sentimentos, condições e emoções
 
 -   `Sentiment` Sentimento
 -   `Humeur` Humor 🚺
@@ -365,12 +375,14 @@
 -   `Douleur` Dor
 -   `Amour` Amor
     -   `Grand amour` Amor verdadeiro
--   `Départ` Partida 🚹
--   `Arrivée` Chegada
--   `Annonce` Anúncio 🚺
 -   `Plaisir` Prazer
 -   `Espoir` Esperança 🚹
 -   `Confiance` Confiança
+-   `Fièvre` Febre
+-   `Rhume` Resfriado
+-   `Grippe` Gripe
+-   `Maladie` Doença
+-   `Urgence` Urgência/Emergência
 
 ### Unidades de medida
 
@@ -421,6 +433,7 @@
     -   `Boulot` Trampo
 -   `Métier` Ocupação/Trabalho
 -   `Profession` Profissão
+-   `Emploi` Emprego
 -   `Carrière` Carreira
 -   `Réseaux sociaux` Redes sociais
 -   `Pêche` Pesca
@@ -488,6 +501,7 @@
 -   `Caisse` Caixa
 -   `Solde` Promoção
 -   `Souvenir` Lembrancinha
+-   `Produit` Produto
 
 ### L'Étude - Estudo 🚺
 

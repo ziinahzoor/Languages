@@ -242,6 +242,7 @@
 -   `Désirer` Desejar
 -   `Supposer` Supor
 -   `Déranger` Incomodar/Perturbar
+-   `Gêner` Incomodar/Importunar
 -   `Crier` Gritar
 -   `Déplacer` Mover
 -   `Manifester` Protestar
@@ -298,6 +299,10 @@
 -   `Trier` Ordenar/Classificar/Pôr em ordem
 -   `Recycler` Reciclar
 -   `Se cacher` Esconder-se
+-   `Fumer` Fumar
+-   `Se raser` Barbear-se
+-   `Remarquer` Notar
+-   `Supporter` Suportar
 
 ## -ir Verbes
 

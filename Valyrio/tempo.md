@@ -1,7 +1,7 @@
 # Tempo
 
 -   `Tubis` Dia ☀️
--   `Jelmior` Clima 🌊
+-   `Jelmior` Clima 🌙
 -   `Jēdar` Ano 🌊
 -   `Sīrgō` Antes
 -   `Sīr` Agora
@@ -14,4 +14,4 @@
 -   `Kiōs` Primavera ☀️
 -   `Jaedos` Verão ☀️
 -   `Iosrūlirion` Outono 🌱
--   `Sōnar` Inverno 🌊
+-   `Sōnar` Inverno 🌙

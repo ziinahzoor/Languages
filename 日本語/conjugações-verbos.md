@@ -34,13 +34,8 @@
         <td colspan="2"><a href="#imperativa">Imperativa</a></td>
     </tr>
     <tr>
-        <th rowspan="2"><a href="#base-o">Base お</a></th>
+        <th><a href="#base-o">Base お</a></th>
         <td colspan="5"><a href="#volicional">Volicional</a></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td colspan="3"><a href="#especulativa">Especulativa</a></td>
-        <td></td>
     </tr>
     <tr>
         <th rowspan="3"><a href="#base-eufonica">Base Eufônica</a></th>
@@ -56,9 +51,10 @@
     -   Verbos `いちだん` terminam em `る`. Também chamados de "Grupo 2".
         -   Classificados em <font size="5"><code><ruby>上<rt>かみ</rt>一<rt>いち</rt>段<rt>だん</rt></ruby></code></font> (terminam em ～いる) e <font size="5"><code><ruby>下<rt>しも</rt>一<rt>いち</rt>段<rt>だん</rt></ruby></code></font> (terminam em ～える).
         -   Em todas as formas o radical `る` é substituído pelo radical da forma.
-    -   Verbos `ごだん` terminam em algum radical kana da forma `う`. Alguns verbos terminados em `る` também pertencem a esta classe. Também chamados de "Grupo 1".
+    -   Verbos `ごだん` terminam em algum radical kana da forma `う`. Também chamados de "Grupo 1".
         -   Nas formas que usam o radical kana `あ`, se o verbo com o kana `う`, substitui-se por `わ` ao invés de `あ`.
-        -   Verbos godan também podem terminar em `る`.
+        -   Verbos godan, assim como os ichidan, também podem terminar em `る`.
+            -   Se o radical kana antes de `る` é `あ`, `う` ou `お`, então o verbo só pode ser godan.
         -   As tabelas abaixo mostram os sufixos utilizados em determinadas formas, mas também deve-se considerar a modificação do radical de cada forma.
     -   Existem apenas dois irregulares: `する` e `くる`.
         -   Apesar disso, alguns verbos possuem pequenas conjugações irregulares.
@@ -139,6 +135,7 @@
 -   Transforma verbos em sua forma negativa.
 -   A forma negativa + a partícula interrogativa `か` ou um tom interrogativo geralmente é usada para fazer um convite ou sugestão, como "Você gostaria de...?" ou "Que tal se...?".
     -   Também vale para a forma educada negativa.
+-   Se usada com o sufixo `で` (uma espécie de forma-て), forma uma conjunção que é utilizada para indicar que uma ação é feita sem fazer outra ação. Quando essa conjugação é utilizada no fim da frase, indica uma proibição.
 -   Exceções:
     -   `〜ます` → `〜ません`
 
@@ -229,7 +226,8 @@
     -   Em orações relativas não se usa a forma educada. Costuma-se usar o passado ou a forma continuativa.
     -   As orações relativas sempre vêm depois da partícula `が`, que muitas das vezes pode ser substituída por `の`. Em orações relativas não se usa a partícula `は`.
     -   Ex.: `ウサギは服を着ている` significa "O coelho usa roupa". Para dizer "O coelho que usa roupa", inverte-se: `服をきているうさぎ`.
--   Também pode ser usado com `つもり` para indicar a intenção de fazer algo.
+-   Também pode ser usada com `つもり` para indicar a intenção de fazer algo.
+-   Também pode ser usada com <font size="5"><code><ruby>方<rt>ほう</rt></ruby>がいい</code></font> para opiniões gerais sobre como decisões. Ex.: "é melhor...".
 
 ---
 
@@ -241,7 +239,7 @@
 
 -   `れば` para verbos ichidan.
 -   Exceções:
-    -   `〜ない` → `〜なければ` (Reduzido coloquialmente para `なきゃ` ou `なくちゃ`)
+    -   `〜ない` → `〜なければ` (Reduzido coloquialmente para `なきゃ`, `なけりゃ` (mais masculino) ou `なくちゃ`)
 -   Torna a ação do verbo uma condição para o que vem a seguir na frase. Ex.: `見れば分かる` "Se você ver, você vai entender"
 
 <h3 id="var_potencial"><ruby>可<rt>か</rt>能<rt>のう</rt>形<rt>けい</rt></ruby> - Forma potencial</h3>
@@ -262,10 +260,10 @@
 -   Percebida como confrontacional ou agressiva. Para ser menos rude, usar a forma `て` + `ください`, ou usar a partícula `よ`.
 -   Para verbos godan basta usar o verbo com o radical `え`.
 -   Para verbos ichidan o kana é substituído por `ろ` na conversação e `よ` na escrita.
+-   Para comandos negativos (forma proibitiva), pode-se usar a forma de dicionário + `な`. Para ser menos rígido, pode-se usar a forma `ない`＋`で`+`ください`.
 -   Exceções:
     -   `くださる` → `ください`
     -   `ある` → `あれ`
--   Para comandos negativos (forma proibitiva), pode-se usar a forma de dicionário + `な`. Para ser menos rígido, pode-se usar a forma `ない`＋`で`+`ください`.
 
 ---
 
@@ -298,18 +296,15 @@
 -   `よう` para verbos ichidan.
 -   Indica vontade, intenção ou sugestão de realizar alguma ação: `Vamos...!`.
 -   Pode ser utilizado com o auxiliar `ます`, se tornando `ましょう`.
+    -   Quando usado com a partícula interrogativa `か` ou um tom interrogativo geralmente indica proatividade e intenção de realizar alguma ação, como "Devo...?" ou "Devemos...?".
 -   Para `だ` é `だろう` e `です` é `でしょう`.
     -   Tem a função de supor, especular ou conjecturar, como "eu acho que" ou "pode ser que".
     -   Geralmente indica a possibilidade de algo ou que algo parece acontecer. Indica que tudo leva a crer que algo é verdade.
-    -   `でしょう` pode ser abreviado para `でしょ`.
+    -   `だろう` pode ser abreviado para `だろ`, e `でしょう` para `でしょ`.
     -   É volitivo pois sugere a opinião de quem fala, dizendo o que tem a intenção de acontecer.
 -   Exceções:
     -   `〜ます` → `〜ましょう`
     -   `〜ない` → `〜なかろう`
-
-<h4 id="var_especulativa">Forma う + とする</h4>
-
--   Significa tentar fazer alguma ação (sem saber se a pessoa é capaz).
 
 ---
 
@@ -372,6 +367,9 @@
     -   `請う` → `請うた`
     -   `〜ない` → `〜なかった`
 -   A forma た pode ser utilizada com `ことがある` para indicar experiências passadas. Ex.: "eu já...", "você já...?".
+    -   No negativo, basta substituir `ある` por `ない` (sua forma negativa).
+-   A forma た pode ser utilizada com <font size="5"><code><ruby>方<rt>ほう</rt></ruby>がいい</code></font> para aconselhar decisões. Ex.: "seria melhor se...", "você deveria...".
+    -   No negativo, usa-se somente a forma negativa do verbo, sem a necessidade da forma た.
 
 <h3 id="var_forma-te">て<ruby>形<rt>けい</rt></ruby> - Forma て</h3>
 
@@ -404,14 +402,23 @@
 
 ### Nominalizadores
 
--   Pode-se adicionar `の` ao verbo para torná-lo um substantivo.
-    -   Obrigatoriamente usado com verbos perceptivos, como `見る` e `聞く`.
--   Também pode-se usar `こと`.
-    -   Obrigatoriamente usado para frases terminadas em `だ`, `です` ou `である`,
-        -   Isso ocorre para não confundir com a forma explicativa.
-    -   Também deve ser usado para frases fixas, rotinas e regras, como `ことにする` e `ことがある`.
+**São usados para tornar verbos substantivos.**
 
-### Formas する
+#### の
+
+-   É quase sempre utilizado com frases terminadas em adjetivos e substantivos.
+-   Obrigatoriamente usado com verbos perceptivos, como `見る` e `聞く` e de paragem, como `止める` e `やめる`.
+-   Tem um senso de imediatismo.
+
+#### こと
+
+-   Quase sempre usado para frases terminadas em verbos.
+    -   `だ`, `です` e `である` estão inclusos, para que não haja confusão com a forma explicativa.
+-   Quando usado com frases terminadas em adjetivos e substantivos, tem um senso de observar as coisas de um ponto de vista mais abstrato, menos urgente que o imediatismo de `の`.
+-   Também deve ser usado para frases fixas, rotinas e regras.
+    -   `ことにする`, `ことになる` `ことがある`, `ことができる`.
+
+### Formas なる・する
 
 > [!TIP]
 > A partícula `を` é opcional quando usada com verbos-する, não alterando a semântica da frase. Entretanto, a partícula é obrigatória quando o verbo-する vem depois de um adjetivo.
@@ -420,20 +427,30 @@
 > -   Objeto + を + verbo + する.
 > -   Objeto + の + verbo + を + する.
 
+### になる
+
+-   Sentido de algo "se tornar".
+    -   O verbo se liga diretamente (sem a partícula) com adjetivos-い, se tornando `くなる`.
+
 #### にする
 
--   Transformar algo em outra coisa. Contraparte transitiva do verbo `なる`.
--   Decidir sobre algo.
+-   Contraparte transitiva (e causativa) do verbo `なる`.
+-   É utilizado com adjetivos e substantivos.
+-   Quando usado com adjetivos significa "transformar algo em outra coisa", "fazer algo ser...".
+    -   O verbo se liga diretamente (sem a partícula) com adjetivos-い, se tornando `くする`.
+-   Quando usado com substantivos significa "decidir sobre algo".
     -   Em um sentido que tem-se controle do resultado, em que a escolha pode ser feita arbitrariamente, não dependendo de uma limitação.
 
-#### ことにする
+##### ことにする
 
 -   Decidir realizar alguma coisa.
+-   Usado com verbos.
 
 #### とする
 
--   Significa "tentar" usando o verbo anterior no volitivo.
--   Tem a mesma função de "decidir" de `にする` depois da forma plana de um verbo.
+-   Quando usado com um verbo no volitivo significa "tentar".
+    -   Tem a nuance de não saber se a pessoa é capaz de realizar.
+-   Quando usado com um verbo na forma plana tem a mesma função de "decidir" de `にする`.
     -   Porém tem uma nuance mais focada no resultado do que no processo de fazer.
     -   Tem-se menos controle do resultado, como se a escolha fosse dada e não inteiramente livre.
 -   Serve para dizer que algo é considerado como outra coisa. Ex.: `かばんをまくらとする` (Usar a mochila como travesseiro).
@@ -441,10 +458,3 @@
 #### として
 
 -   Sentido parecido com とする, porém tem o intuito de analisar sob a luz do que é considerado (analisar algo sobre essa consideração). Ex.: `外国人として彼の日本語がいいです` (Para um estrangeiro, seu japonês é muito bom).
-
----
-
-### になる
-
--   Sentido de algo "se tornar".
--   Com adjetivos-い é `くなる`.

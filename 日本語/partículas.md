@@ -15,6 +15,8 @@
 -   `Função conjuntiva contrastiva`: entretanto
     -   Quando usada com substantivos e adjetivos-な, usa o prefixo `だ`, tornando-se `だが`.
     -   É a partícula conjuntiva constrastiva mais formal, e portanto mais literária.
+-   `Função de expectativa`: quando no fim da frase, cria um tom de indireção, esperando a interpretação ou interação de quem ouve.
+    -   Bastante usado quando não se sabe como agir, como por exemplo "Eu gostaria de comprar um ingresso..." (espera-se que o vendedor explique).
 
 ### の
 
@@ -81,6 +83,7 @@
     -   Determina que a primeira frase é uma razão para a segunda.
 -   `Função de justificativa`: indica o motivo de uma ação acontecer.
     -   Neste caso é uma função conjuntiva.
+    -   Tem ênfase na causa.
     -   Não foge da função de "origem da ação": a justificativa é a origem.
     -   Quando usada com substantivos e adjetivos-な, usa o prefixo `だ`, tornando-se `だから`
 -   Também é uma partícula conjuntiva e frasal.
@@ -88,7 +91,8 @@
 ### より
 
 -   `Função de comparação`: compara algo a outra coisa.
-    -   Geralmente vem após o que é "menos", enquanto `のほうが` vem após o que é "mais".
+    -   Geralmente vem após o que é "menos", enquanto <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> vem após o que é "mais".
+    -   Quando <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> não é utilizado, `より` costuma indicar o que é "mais" (parece ter invertido a função, mas é apenas a omissão da construção completa).
 
 ## <ruby>並<rt>へい</rt>立<rt>りつ</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Marcadoras paralelas
 
@@ -150,6 +154,12 @@
     -   O ponto final pode ser um ponto no tempo, um ponto espacial, uma motivação, etc.
     -   Determina que a primeira frase é uma conclusão da segunda.
 
+### までに
+
+-   `Função de limite temporal`: indica o ponto limite de uma ação, um prazo.
+    -   Indica que certa ação deve ser completada até certo ponto, tendo flexibilidade para ser completada antes.
+    -   É mais utilizado para ações curtas, diferente de `まで`.
+
 ### だけ
 
 -   `Função de limitação neutra`: limita opções, como um "só" ou "somente".
@@ -207,8 +217,9 @@
 
 ### ので
 
--   `Função explicativa ou justificativa`: por causa de..., porque...
+-   `Função explicativa ou justificativa`: por causa de..., porque..., já que...
     -   Vem no final da frase.
+    -   Tem ênfase no efeito causado.
     -   Indica causalidade: porque "uma coisa", então "outra coisa".
     -   Adjetivos-な e substantivos devem utilizar o sufixo `な`.
 -   `んで` Abreviação
@@ -224,6 +235,7 @@
 
 -   `Função contrastiva`: mas, apesar
     -   `けれども` Honorífico (Teineigo)
+        -   O `も` é opcional em contextos mais casuais.
     -   Quando usada com substantivos e adjetivos-な, usa o prefixo `だ`, tornando-se `だけど`.
     -   Não é necessariamente contraditória, pode apenas ser um contraste positivo.
 

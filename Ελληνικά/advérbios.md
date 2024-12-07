@@ -6,7 +6,8 @@
 -   `Πολύ` Muito
 -   `Λίγο` Pouco
 -   `Καλά` Bem
--   `Πώς` Como
+-   `Πώς` Como (maneira)
+-   `Ως` Como (de tal maneira que)
 -   `Έξω` Fora
 -   `Μέσα` Em/No/Dentro
 -   `Ανάμεσα` Entre
@@ -15,8 +16,11 @@
 -   `Πίσω` Atrás
 -   `Πάνω` Acima/Em cima
 -   `Κάτω` Abaixo/Embaixo
+-   `Πριν` Antes/Atrás
 -   `Μετά` Depois
 -   `Κοντά` Perto
 -   `Εκτός` Exceto
 -   `Δις` Duas vezes
 -   `Πολλάκις` Muitas vezes/Frequentemente
+-   `Πάλι` De novo
+-   `Μέχρι` Até

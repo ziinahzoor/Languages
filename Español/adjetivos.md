@@ -186,16 +186,20 @@
 -   `Extranjero` Estrangeiro
     -   "Exterior" quando falando de lugares.
 -   `Ruidoso` Barulhento
--   `Rico` Gostoso
+-   `Rico`
+    -   Quando usado com comida ou para elogiar alguém, significa "gostoso" (geralmente quando usado com `estar`).
 -   `En línea` Online
 -   `Trasera` Traseira
 -   `Vivo`
     -   Também tem o sentido de "brilhante" para cores.
 -   `Redondo`
 -   `Cuadrado` Quadrado
--   `Seguro` Certo (de ter certeza)
+-   `Seguro`
+    -   Também pode significar "certo" (de ter certeza) quando usado com `estar`.
 -   `Común` Comum
 -   `Libre` Livre
 -   `Perdido` Perdido/Desaparecido
 -   `Clásico` Clássico
 -   `Cariño` Querido
+-   `Individual`
+-   `Recto` Reto

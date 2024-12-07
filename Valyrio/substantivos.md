@@ -5,7 +5,7 @@
 -   `Hūra` Lua 🌙
 -   `Vēzos` Sol ☀️
 -   `Embar` Mar 🌊
--   `Tegon` Terra 🌱
+-   `Tegon` Terra/Chão 🌱
 -   `Qelbar` Rio 🌊
 -   `Nāvar` Lago 🌊
 -   `Perzys` Fogo ☀️
@@ -17,6 +17,11 @@
 -   `Jelmāzma` Tempestade 🌙
 -   `Blēnon` Montanha 🌱
 -   `Rūklon` Flor 🌱
+-   `Rizmon` Areia 🌱
+-   `Guēse` Árvore 🌙
+-   `Parmon` Grama 🌱
+-   `Qēlos` Estrela ☀️
+-   `Temby` Folha 🌙
 
 ## Materiais
 

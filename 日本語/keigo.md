@@ -7,7 +7,7 @@
 
 **Usada com os conceitos de <font size="5"><code><ruby>内<rt>うち</rt></ruby></code></font> e <font size="5"><code><ruby>外<rt>そと</rt></ruby></code></font>, que são, respectivamente, um círculo social do qual se faz parte e outro externo.**
 
-## <ruby>丁<rt>てい</rt>寧<rt>ねい</rt>語<rt>ご</rt></ruby> - Forma cortês
+## <ruby>丁<rt>てい</rt>寧<rt>ねい</rt>語<rt>ご</rt></ruby> - Forma educada ou cortês
 
 -   A mais comum
 -   Geralmente usada com os verbos na forma imasu
@@ -24,5 +24,5 @@
 
 ## <ruby>謙<rt>けん</rt>譲<rt>じょう</rt>語<rt>ご</rt></ruby> - Forma humilde
 
--   Usada para falar de si ou de um grupo a qual pertence de maneira humilde.
+-   Tem o objetivo de se rebaixar. Usada para falar de si ou de um grupo a qual pertence de maneira humilde.
     -   Fala-se de suas ações, e não especificamente de si.

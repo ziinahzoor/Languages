@@ -20,13 +20,21 @@
 -   `Kostōba` Poderoso/Forte
 -   `Byka` Pequeno
 -   `Rōva` Grande
--   `Āegenka` Ferroso/Feito de ferro
 -   `Mība` Baixo/Curto
 -   `Bōsa` Alto/Longo
 -   `Harrenka` Apropriado/Adequado
 -   `Korzita` Firme/Esticado
 -   `Ēngenka` Gostoso
 -   `Ghīska` Ghiscari
+-   `Qapa` Frio
+-   `Dija` Quente
+-   `Rhinka` Áspero
+-   `Rāpa` Macio
+-   `Quba` Ruim
+-   `Āegenka` Ferroso/Feito de ferro
+-   `Rongenka` De couro
+-   `Kyrstenka` De tecido/De pano
+-   `Kȳdrenka` De seda
 
 ## Classe II
 
@@ -35,6 +43,7 @@
 -   `Dāez` Livre
 -   `Biare` Sortudo
 -   `Dārōñe` Real (de realeza)
+-   `Litse` Fofo/Belo
 
 ## Classe III
 
@@ -44,6 +53,7 @@
 -   `Qumblie` Grosso
 -   `Arlie` Novo
 -   `Naenie` Muitos
+-   `Albie` Brilhante
 
 ## Sem classe definida
 

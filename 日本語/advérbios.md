@@ -30,7 +30,7 @@
 -   `はやく` Cedo/Rapidamente
 -   `おそく` Tarde/Vagarosamente
 -   `ゆっくり` Vagarosamente/Sem pressa
--   `はじめて` Pela primeira vez
+-   <font size="5"><code><ruby>初<rt>はじ</rt></ruby>めて</code></font> Pela primeira vez
 -   `ゆっくり` Devagar/Sem pressa
 -   `できるだけ` O tanto quanto possível
 -   `つい` Sem querer/Por engano

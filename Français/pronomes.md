@@ -214,7 +214,7 @@
 -   `Tout` Tudo/Todos/Todas
 -   `Tout le monde` Todo mundo
 -   `Chaque` Cada
--   `Chacun(e)` Cada um
+-   `Chacun(e)` Cada um/Todo mundo
 -   `Certain(e)s` Certos
 -   `Quelque` Algum
 -   `Quelque chose` Algo

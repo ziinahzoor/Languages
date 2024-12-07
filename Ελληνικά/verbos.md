@@ -41,6 +41,7 @@
 -   `Κοστίζω` Custar
 -   `Βάζω` Colocar
 -   `Παίρνω` Pegar
+    -   Também pode ser "chamar".
 -   `Σχεδιάζω` Desenhar/Planejar
 -   `Πέφτω` Cair
 -   `Βρίσκω` Achar/Descobrir/Localizar

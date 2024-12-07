@@ -5,15 +5,15 @@
 -   `Sagon` Ser/Existir
 -   `Ilagon` Estar/Existir
 -   `Jagon` Ir
+-   `Dijemagon` Esquentar
 
-## Verbos -gon
+## Verbos final-vogal (-gon)
 
 -   `Nagegon` Suar
 -   `Līrigon` Sorrir
 -   `Ēdrugon` Dormir
 -   `Urnegon` Ver
 -   `Iotāptegon` Respeitar/Considerar
--   `Ȳdragon` Falar
 -   `Idakogon` Atacar
 -   `Nevegon` Carregar
 -   `Keligon` Parar
@@ -25,13 +25,10 @@
 -   `Pilogon` Segurar
 -   `Nektogon` Cortar/Fatiar
 -   `Angogon` Morder
--   `Dēmagon` Sentar
--   `Limagon` Chorar
--   `Ropagon` Cair
 -   `Mōzugon` Beber
--   `Ykynagon` Cheirar
 -   `Sylugon` Tentar
 -   `Sylutegon` Provar/Experimentar
+-   `Māzigon` Vir/Chegar
 -   `Umāzigon` Vir/Chegar
     -   Complemento sempre está no dativo.
 -   `Zoklākogon` Atrair/Encantar
@@ -43,11 +40,20 @@
 -   `Geltigon` Cobrir
 -   `Indigon` Empurrar
 -   `Qlādugon` Arrastar
+-   `Jonevegon` Vestir/Usar
+
+### Terminados em -agon
+
+-   `Ȳdragon` Falar
+-   `Dēmagon` Sentar
+-   `Limagon` Chorar
+-   `Ropagon` Cair
+-   `Ykynagon` Cheirar
 -   `Kȳvagon` Planejar
 -   `Ellagon` Abraçar
 -   `Pryjagon` Destruir
 
-## Verbos -agon
+## Verbos final-consoante (-agon)
 
 -   `Vāedagon` Cantar
 -   `Morghūljagon` Morrer
@@ -111,3 +117,5 @@
 -   `Qrīdrughagon` Desistir/Abandonar/Jogar fora/Descartar
 -   `Rāenagon` Escovar
 -   `Sahagon` Forçar/Causar/Obrigar
+-   `Davābagon` Chover
+-   `Jehikagon` Brilhar

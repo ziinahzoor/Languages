@@ -118,8 +118,6 @@
 
 **As palavras de tipo são determinantes. Para as não-determinantes acrescenta-se a partícula `に`.**
 
--   Para comparações, ao invés da forma não-determinante, utiliza-se a forma determinante + `ほう`.
-
 ## <ruby>疑<rt>ぎ</rt>問<rt>もん</rt>代<rt>だい</rt>名<rt>めい</rt>詞<rt>し</rt></ruby> - Interrogativos
 
 **Geralmente acompanham a partícula `が`.**
@@ -196,6 +194,7 @@
 > [!TIP]
 > Os universais/negativos aceitam partículas antes. Ex: `だれにも` "Para alguém/ninguém", `だれとも` "Com alguém/ninguém".
 > Para determinantes, o que se determina vem no meio da construção. Ex.: `どの色でも` "Qualquer cor".
+> Ao usar os dois ao mesmo tempo, `か` vem antes de `も`.
 
 ## Possessivos
 

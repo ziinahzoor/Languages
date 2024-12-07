@@ -1,7 +1,7 @@
 # Adjetivos
 
--   `Μεγάλος` Grande
--   `Μικρός` Pequeno
+-   `Μεγάλος` Grande/Longo
+-   `Μικρός` Pequeno/Curto
 -   `Νόστιμος` Saboroso/Delicioso/Gostoso
 -   `φρέσκος` Fresco
 -   `Εντάξει` Ok

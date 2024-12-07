@@ -21,6 +21,7 @@
 -   `Ποτήρι` Copo ✴️
 -   `Πιάτο` Prato ✴️
 -   `Κόσμημα` Joia ✴️
+-   `Ημερολόγιο` Calendário/Diário ✴️
 
 ## Abstrato
 
@@ -31,10 +32,19 @@
 -   `Συνταγή` Receita
 -   `Φορά` Vez
     -   Também serve para o contexto matemático
+-   `Αρχή` Começo 🚺
+-   `Τέλος` Fim ✴️
+-   `Ηλικία` Idade
+-   `Γέννηση` Nascimento 🚺
+-   `Μοντέλο` Modelo ✴️
 
 ## Atividades
 
 -   `Βίντεο` Vídeo ✴️
+-   `Δουλειά` Trabalho 🚺
+-   `Εργασία` Trabalho (formal) 🚺
+-   `Επάγγελμα` Profissão ✴️
+-   `Καριέρα` Carreira
 
 ### Compras
 

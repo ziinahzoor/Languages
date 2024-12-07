@@ -55,6 +55,7 @@
 -   <font size="5"><code><ruby>新<rt>あたら</rt></ruby>しい</code></font> Novo
 -   <font size="5"><code><ruby>古<rt>ふる</rt></ruby>い</code></font> Velho
 -   <font size="5"><code><ruby>高<rt>たか</rt></ruby>い</code></font> Caro/Alto
+    -   <font size="5"><code><ruby>背<rt>せ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い</code></font> Alto (pessoa)
 -   <font size="5"><code><ruby>安<rt>やす</rt></ruby>い</code></font> Barato
 -   <font size="5"><code><ruby>低<rt>ひく</rt></ruby>い</code></font> Baixo
 -   <font size="5"><code><ruby>広<rt>ひろ</rt></ruby>い</code></font> Largo/Espaçoso/Vasto
@@ -81,7 +82,7 @@
 -   `にがい` Amargo
 -   <font size="5"><code><ruby>塩<rt>しょ</rt></ruby>っぱい</code></font> Salgado
 -   `すっぱい` Azedo
--   `からい` Picante
+-   <font size="5"><code><ruby>辛<rt>から</rt></ruby>い</code></font> Picante
 -   `かたじけない` Agradecido
 -   <font size="5"><code><ruby>怖<rt>こわ</rt></ruby>い</code></font> Assustador
 -   <font size="5"><code><ruby>少<rt>すく</rt>ない</ruby></code></font> Pouco(s)/Insuficiente
@@ -133,7 +134,7 @@
     -   Quando ligado a um verbo na forma te, dá a ideia de "gostaria de tentar" alguma coisa.
 -   <font size="5"><code><ruby>色<rt>いろ</rt>々</ruby></code></font> Diversos/Vários/Todo tipo
 -   <font size="5"><code><ruby>大<rt>たい</rt>変<rt>へん</rt></ruby></code></font> Difícil/Muito (Extremamante)
--   <font size="5"><code><ruby>便<rt>べん</rt>利<rt>り</rt></ruby></code></font> Conveniente
+-   <font size="5"><code><ruby>便<rt>べん</rt>利<rt>り</rt></ruby></code></font> Conveniente/Útil
 -   `ふべん` Inconveniente
 -   `たのしみ` Ansioso (de antecipação)
     -   Geralmente acompanha o `が`
@@ -169,6 +170,7 @@
 -   <font size="5"><code><ruby>嫌<rt>いや</rt></ruby></code></font> Desgostável/Não querível/Relutante
     -   É mais utilizado com situações.
 -   <font size="5"><code><ruby>上手<rt>じょうず</rt></ruby></code></font> Hábil/Habilidoso/Bom em
+    -   <font size="5"><code><ruby>得<rt>とく</rt>意<rt>い</rt></ruby></code></font> Kenjougo
 -   <font size="5"><code><ruby>下手<rt>へた</rt></ruby></code></font> Inábil/Ruim em
 -   <font size="5"><code><ruby>危<rt>き</rt>険<rt>けん</rt></ruby></code></font> Perigoso
 -   <font size="5"><code><ruby>必<rt>ひつ</rt>要<rt>よう</rt></ruby></code></font> Necessário/Essencial/Indispensável
@@ -195,9 +197,8 @@
 -   <font size="5"><code><ruby>欲<rt>ほ</rt></ruby>しい</code></font> Querível (Querer)
 -   <font size="5"><code><ruby>好<rt>す</rt>き</ruby></code></font> Gostável (Gostar) `な`
     -   <font size="5"><code><ruby>大<rt>だい</rt>好<rt>す</rt>き</ruby></code></font> Amável (Amar) `な`
-    -   Também pode significar "preferível".
+    -   Também pode significar "preferível/preferido". "Preferido" também pode ser representado pelo substantivo <font size="5"><code>お<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>り</code></font> (Teineigo), que possui uma nuance de ser algo mais especial.
 -   <font size="5"><code><ruby>嫌<rt>きら</rt>い</ruby></code></font> Desgostável/Odiável (Desgostar) `な`
     -   É mais utilizado com objetos e pessoas.
     -   Tem uma conotação mais forte que `嫌`.
 -   <font size="5"><code><ruby>痛<rt>い</rt>たい</ruby></code></font> Doloroso/Vergonhoso (Doer)
--   `とくい` Ser bom em `な`

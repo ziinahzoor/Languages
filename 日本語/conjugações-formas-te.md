@@ -11,12 +11,15 @@
         <td><a href="#tentativa">Tentativa (て+みる)</a></td>
         <td><a href="#concessiva">Concessiva (て+も)</a></td>
         <td><a href="#implicativa">Implicativa (て+は)</a></td>
-        <td><a href="#proibitiva">Proibitiva (て+はいけません)</a></td>
+        <td><a href="#proibitiva">Proibitiva (て+はいけない)</a></td>
     </tr>
 	<tr>
+        <td><a href="#obrigativa">Obrigativa (なく+て+はいけない)</a></td>
         <td><a href="#solicitativa">Solicitativa (て+いいですか)</a></td>
         <td><a href="#solicitativa-optativa">Solicitativa optativa (て+もいいですか)</a></td>
         <td><a href="#sequencial">Sequencial (て+から)</a></td>
+	</tr>
+	<tr>
         <td><a href="#benefactiva">Benefactiva</a></td>
 	</tr>
 </table>
@@ -27,9 +30,12 @@
 -   Consiste em conjugar o verbo na forma `て` e então acrescentar a conjugação de `いる`
 -   É como se forma o gerúndio (continuativa) e também indica o estado causado por algum verbo (resultativa).
     -   No último caso, é como se transformassemos o verbo em um adjetivo (algo está...ado/ido). Ex.: `水を飲んでいます` pode ser tanto "Estou bebendo água" quanto "A água está bebida (por mim)". Nestes casos, o sentido é dado pelos advérbios, como `もう` indicaria o último caso.
--   Ou "fiz algo e continuo fazendo/estando assim".
--   Também pode-se pensar como uma forma estática do verbo, como um adjetivo. Ex.: `開いている` pode ser tanto "abrindo" quanto "estar aberto".
+-   Tem o sentido de "existir no estado de alguma ação".
+    -   "Fiz algo e continuo fazendo/estando assim".
+    -   Também pode-se pensar como uma forma estática do verbo, como um adjetivo. Ex.: `開いている` pode ser tanto "abrindo" quanto "estar aberto" (existir no estado aberto).
 -   Também deve ser usada para verbos que indicam mudança instantânea de estado, como desligar e morrer. Descreve o resultado de uma mudança.
+-   Também indica hábitos e atividades que se repetem.
+    -   Neste caso costuma acompanhar expressões de tempo.
 -   Se usada com `もう` e `まだ`, indica que algo já aconteceu ou ainda não aconteceu, respectivamente.
 -   A forma `て+いる` é muitas vezes casualmente contraída para `て+る`.
 
@@ -71,9 +77,18 @@
     -   Comumente usado com `だめ`, `いけない` e `ならない`.
 -   `ては` pode ser abreviado para `ちゃ` e `では` pode ser abreviado para `じゃ`.
 
-<h2 id="var_proibitiva">Forma て+はいけません - Proibitiva</h2>
+<h2 id="var_proibitiva">Forma て+はいけない - Proibitiva</h2>
 
 -   Forma proibitiva: "não se deve fazer...".
+-   É mais autoritária e restritiva que `ないで`, que tem um tom de aviso ou pedido.
+-   `いけない` pode ser trocado pela versão mais educada `いけません`, ou de forma mais comum na escrita, `ならない`. Informalmente também pode ser trocado por `ダメ` na conversação.
+-   Muitas vezes o `ては` também é abreviado para `ちゃ` (e o `では` para `じゃ`).
+
+<h2 id="var_obrigativa">Forma なく+て+はいけない - Obrigativa</h2>
+
+-   Indica que deve-se fazer alguma ação.
+-   É uma negação dupla da forma proibitiva, fazendo uma afirmação: "não se deve não fazer...".
+-   Muitas vezes a forma completa é abreviada apenas para `なくちゃ`.
 
 <h2 id="var_solicitativa">Forma て+いいですか - Solicitativa</h2>
 
@@ -90,6 +105,6 @@
 
 -   Indica que a frase seguinte vai ocorrer depois que a primeira ocorrer. Não indica uma implicação lógica, apenas uma ordem para as ações.
 
-<h2 id="var_benefactiva">Forma て+Verbo de transferência - Benefactiva/De favor'</h2>
+<h2 id="var_benefactiva">Forma て+Verbo de transferência - Benefactiva/De favor</h2>
 
 -   Ao usar a forma `て` com algum verbo de transferência como `あげる`, `やる`, `くださる`, `もらう` e `いただく`, indica-se que se está fazendo algo para alguém ou vice-versa, para si mesmo ou alguém está fazendo algo para outra pessoa. Ex.: `…花を買ってくれた` "...comprou flores para mim".

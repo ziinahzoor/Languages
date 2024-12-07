@@ -149,12 +149,25 @@
 -   `コピー` Cópia
 -   `スキャン` Digitalização
 -   <font size="5"><code><ruby>手<rt>て</rt>紙<rt>がみ</rt></ruby></code></font> Carta
--   `きって` Selo de carta
+-   <font size="5"><code><ruby>切<rt>きっ</rt>手<rt>て</rt></ruby></code></font> Selo de carta
 -   <font size="5"><code><ruby>布<rt>ふ</rt>団<rt>とん</rt></ruby></code></font> Futon
 -   <font size="5"><code><ruby>定<rt>じょう</rt>規<rt>ぎ</rt></ruby></code></font> Régua
 -   <font size="5"><code><ruby>箱<rt>はこ</rt></ruby></code></font> Caixa
 -   `ノート` Nota
 -   `ページ` Página
+-   <font size="5"><code><ruby>郵<rt>ゆう</rt>便<rt>びん</rt></ruby></code></font> Correio
+    -   <font size="5"><code><ruby>船<rt>ふな</rt>便<rt>びん</rt></ruby></code></font> Correio terrestre e marítmo
+    -   <font size="5"><code><ruby>航<rt>こう</rt>空<rt>くう</rt>便<rt>びん</rt></ruby></code></font> Correio aéreo
+    -   <font size="5"><code><ruby>書<rt>かき</rt>留<rt>とめ</rt></ruby></code></font> Correio registrado
+-   `ポストカード` Cartão postal
+    -   Geralmente artísticos ou turísticos
+-   <font size="5"><code><ruby>葉<rt>は</rt>書<rt>がき</rt></ruby></code></font> Cartão postal
+    -   Geralmente oficiais, formais ou comemorativos.
+    -   Geralmente escrito em katakana.
+-   <font size="5"><code><ruby>封<rt>ふう</rt>筒<rt>とう</rt></ruby></code></font> Envelope
+-   `ポスト` Caixa de correio
+-   <font size="5"><code><ruby>小<rt>こ</rt>包<rt>づつみ</rt></ruby></code></font> Pacote (de correio)
+-   <font size="5"><code><ruby>包<rt>つつ</rt></ruby>み</code></font> Pacote (embrulho)
 
 ## Elétricos e Eletrônicos
 
@@ -219,7 +232,6 @@
 -   <font size="5"><code><ruby>質<rt>しつ</rt>問<rt>もん</rt></ruby></code></font> Pergunta
 -   <font size="5"><code><ruby>答<rt>こた</rt></ruby>え</code></font> Resposta
 -   `しめきり` Deadline
--   `あじ` Sabor
 -   <font size="5"><code><ruby>話<rt>はなし</rt></ruby></code></font> História
 -   `ファッション` Fashion
 -   <font size="5"><code><ruby>違<rt>ちが</rt>い</ruby></code></font> Diferença
@@ -251,8 +263,6 @@
 -   `レシピ` Receita
 -   `てづくり` Feito à mão/Artesanal
 -   `よやく` Reserva/Consulta/Compromisso
--   `ストレス` Estresse
--   `きず` Machucado/Ferida/Corte
 -   `やつ` Coisa
 -   <font size="5"><code><ruby>他<rt>ほか</rt></ruby></code></font> Outro
 -   `れつ` Linha/Fila
@@ -268,21 +278,32 @@
 -   <font size="5"><code><ruby>結<rt>けっ</rt>婚<rt>こん</rt></ruby></code></font> Casamento
 -   <font size="5"><code><ruby>離<rt>り</rt>婚<rt>こん</rt></ruby></code></font> Divórcio
 -   <font size="5"><code><ruby>声<rt>こえ</rt></ruby></code></font> Voz/Som de um animal
+-   <font size="5"><code><ruby>単<rt>たん</rt>語<rt>ご</rt></ruby></code></font> Palavra
+    -   Tem um sentido mais unitário de "palavra".
 -   <font size="5"><code><ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby></code></font> Palavra
+    -   Tem um sentido mais amplo, geralmente usado com "palavras" no plural.
 -   <font size="5"><code><ruby>意<rt>い</rt>味<rt>み</rt></ruby></code></font> Significado
--   <font size="5"><code><ruby>愛<rt>あい</rt></ruby></code></font> Amor
--   <font size="5"><code><ruby>気<rt>き</rt>分<rt>ぶん</rt></ruby></code></font> Humor
--   <font size="5"><code><ruby>気<rt>き</rt>持<rt>も</rt></ruby>ち</code></font> Sentimento
 -   <font size="5"><code><ruby>数<rt>かず</rt></ruby></code></font> Número (quantidade)
--   `ほう` Opção/Maneira
+-   <font size="5"><code><ruby>方<rt>ほう</rt></ruby></code></font> Opção/Maneira
     -   Muito utilizado em frases comparativas, geralmente acompanhando um demonstrativo determinante ou um substantivo + `の`. Indica um lado da comparação.
 -   <font size="5"><code><ruby>字<rt>じ</rt></ruby></code></font> Caligrafia/Letra/Caractere
 -   <font size="5"><code><ruby>文<rt>ぶん</rt>章<rt>しょう</rt></ruby></code></font> Passagem de texto
--   <font size="5"><code><ruby>危<rt>き</rt>険<rt>けん</rt></ruby></code></font> Perigo
 -   <font size="5"><code><ruby>背<rt>せ</rt></ruby></code></font> Altura/Estatura
 -   <font size="5"><code><ruby>告<rt>こく</rt>白<rt>はく</rt></ruby></code></font> Confissão/Admissão/Declaração de amor
 -   `つもり` Intenção/Propósito
 -   <font size="5"><code><ruby>一<rt>いっ</rt>周<rt>しゅう</rt></ruby></code></font> Uma volta
+-   <font size="5"><code><ruby>中<rt>なか</rt>身<rt>み</rt></ruby></code></font> Conteúdo/Interior/Preenchimento
+-   <font size="5"><code><ruby>通<rt>つう</rt>知<rt>ち</rt></ruby></code></font> Aviso/Notificação
+-   <font size="5"><code><ruby>変<rt>へん</rt>更<rt>こう</rt></ruby></code></font> Mudança/Modificação/Alteração
+-   <font size="5"><code><ruby>配<rt>はい</rt>達<rt>たつ</rt></ruby></code></font> Entrega (de algum item)
+
+### <ruby>気<rt>き</rt>持<rt>も</rt>ち</ruby> - Sentimentos e Sensações
+
+-   <font size="5"><code><ruby>気<rt>き</rt>分<rt>ぶん</rt></ruby></code></font> Humor
+-   <font size="5"><code><ruby>愛<rt>あい</rt></ruby></code></font> Amor
+-   <font size="5"><code><ruby>危<rt>き</rt>険<rt>けん</rt></ruby></code></font> Perigo
+-   `ストレス` Estresse
+-   `あじ` Sabor
 
 ### Condições
 
@@ -294,6 +315,7 @@
 -   `しんぱい` Preocupação
 -   `どりょく` Esforço
 -   `インフルエンザ` Gripe
+-   `きず` Machucado/Ferida/Corte
 
 ### Formas
 
@@ -345,7 +367,6 @@
 -   `レシート` Recibo
 -   `グッズ` Produto
 -   `やたい` Barraca de comida
--   `ポストカード` Cartão postal
 -   <font size="5"><code>お<ruby>土産<rt>みやげ</rt></ruby></code></font> Lembrancinha
 -   `クレジットカード` Cartão de crédito
 -   `プレゼント` Presente
@@ -474,6 +495,7 @@
 
 #### Áreas de Estudo
 
+-   <font size="5"><code><ruby>文<rt>ぶん</rt>法<rt>ぽう</rt></ruby></code></font> Gramática
 -   `すうがく` Matemática
 -   `ぶんがく` Literatura
 -   `せいぶつがく` Biologia
@@ -505,6 +527,7 @@
 
 ## <ruby>音<rt>おん</rt>楽<rt>がく</rt></ruby> - Música
 
+-   <font size="5"><code><ruby>曲<rt>きょく</rt></ruby></code></font> Composição
 -   <font size="5"><code><ruby>歌<rt>うた</rt></ruby></code></font> Canção
 -   `ロック` Rock
 -   `ジャズ` Jazz

@@ -9,6 +9,40 @@
 -   `Αρχιτέκτονας` Arquiteto
 -   `Χορτοφάγος` Vegetariano
 -   `Φίλος` Amigo
+-   `Μαθητής` Aluno/Estudante
+-   `Παπάς` Padre
+-   `Γιατρός` Médico
+-   `Προσωπικό` Pessoal/Funcionários ✴️
+-   `Μοντέλο` Modelo ✴️
+-   `Συγγραφέας` Escritor
+-   `Καλλιτέχνης` Artista
+-   `Αστυνομία` Polícia
+-   `Αστυνομικός` Policial
+-   `Διευθυντής` Diretor
+-   `Γραμματέας` Secretário/Recepcionista
+-   `Επαγγελματίας` Profissional
+-   `Εργάτης` Trabalhador
+-   `Δικηγόρος` Advogado
+-   `Δικαστής` Juíz
+-   `Στρατιώτης` Soldado
+-   `Καπετάνιος` Capitão
+-   `Φρουρός` Guarda
+-   `Αξιωματικός` Oficial
+-   `Προϊστάμενος` Superior/Gerente
+-   `Ηθοποιός` Ator
+-   `Συντάκτης` Editor
+-   `Μάγειρας` Cozinheiro
+-   `Σερβιτόρος` Garçom
+-   `Αγρότης` Fazendeiro
+-   `Αφεντικό` Chefe ✴️
+-   `Μηχανικός` Mecânico/Engenheiro
+-   `Πυροσβέστης` Bombeiro
+-   `Καθαριστής` Limpador
+-   `Κτηνίατρος` Veterinário
+-   `Οδηγός` Motorista
+-   `Υδραυλικός` Encanador
+-   `Οικοδόμος` Construtor
+-   `Ηλεκτρολόγος` Eletricista
 
 ## Η Οικογένεια - Família
 

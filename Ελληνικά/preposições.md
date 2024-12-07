@@ -15,3 +15,5 @@
 -   `Κατά` Contra
 -   `Προς` Em direção a/Para
 -   `Αντί` Ao invés de
+-   `Παρά` Menos
+    -   Ao falar de tempo, significa "para", no mesmo sentido. Ex.: `έξι παρά είκοσι πέντε` "vinte e cinco para as seis".

@@ -4,7 +4,7 @@
     -   `Cheveu` Cabelo
         -   `Coupe de cheveux` Corte de cabelo
     -   `Visage` Rosto
-        -   `Front` Testa
+        -   `Front` Testa 🚹
         -   `Oreille` Orelha
         -   `Œil` Olho
             -   `Yeux` Olhos
@@ -13,8 +13,10 @@
         -   `Bouche` Boca
             -   `Dent` Dente 🚺
         -   `Moustache` Bigode 🚺
+        -   `Menton` Queixo
         -   `Barbe` Barba
 -   `Cou` Pescoço
+    -   `Gorge` Garganta
 -   `Ventre` Barriga 🚹
 -   `Dos` Costas 🚹
 -   `Bras` Braço

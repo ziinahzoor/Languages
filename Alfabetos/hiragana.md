@@ -1,5 +1,10 @@
 # <ruby>平<rt>ひら</rt>仮<rt>が</rt>名<rt>な</rt></ruby> - Hiragana
 
+> [!NOTE]
+> O silabário japonês é chamado <font size="5"><code><ruby>五<rt>ご</rt>十<rt>じゅう</rt>音<rt>おん</rt></ruby></code></font>.
+> As linhas de consoantes são chamadas <font size="5"><code><ruby>行<rt>ぎょう</rt></ruby></code></font>. Ex.: A linha `か` é dita <font size="5"><code>か<ruby>行<rt>ぎょう</rt></ruby></code></font>
+> As colunas das vogais são chamadas <font size="5"><code><ruby>段<rt>だん</rt></ruby></code></font> ou <font size="5"><code><ruby>列<rt>れつ</rt></ruby></code></font>. Ex.: A coluna `い` é dita <font size="5"><code>い<ruby>段<rt>だん</rt></ruby></code></font> ou <font size="5"><code>い<ruby>烈<rt>れつ</rt></ruby></code></font>.
+
 | **あ** | **い** | **う** | **え** | **お** |
 | :----: | :----: | :----: | :----: | :----: |
 |   a    |   i    |   u    |   e    |   o    |
@@ -20,20 +25,19 @@
 | **ら** | **り** | **る** | **れ** | **ろ** |
 |   ra   |   ri   |   ru   |   re   |   ro   |
 | **わ** |        |        |        | **を** |
-|   wa   |        |        |        |  wo\*  |
+|   wa   |        |        |        |   wo   |
 | **ん** |
 |   n    |
 
-> [!NOTE]
-> Geralmente "o".
-
-**Chamadas <font size="5"><code><ruby>五<rt>ご</rt>十<rt>じゅう</rt>音<rt>おん</rt></ruby></code></font>, monografos.**
+> [!IMPORTANT]
+> O kana `を` É sempre pronunciado "o". Hoje em dia é usado quase exclusivamente como partícula.
 
 **O `ん` é chamado <font size="5"><code><ruby>撥<rt>はつ</rt>音<rt>おん</rt></ruby></code></font>.**
 
 ## <ruby>濁<rt>だく</rt>点<rt>てん</rt></ruby>と<ruby>半<rt>はん</rt>濁<rt>だく</rt>点<rt>てん</rt></ruby> - Marcas de vocalização
 
--   Alteram a fonética das sílabas
+-   Alteram a fonética das sílabas não-vocalizadas para vocalizadas.
+-   O <font size="5"><code><ruby>濁<rt>だく</rt>点<rt>てん</rt></ruby></code></font> se refere ao símbolo `゛`. O <font size="5"><code><ruby>半<rt>はん</rt>濁<rt>だく</rt>点<rt>てん</rt></ruby></code></font> se refere ao símbolo `゜`.
 
 | **が** | **ぎ** | **ぐ** | **げ** | **ご** |
 | :----: | :----: | :----: | :----: | :----: |

@@ -21,10 +21,10 @@
 -   `Plus` Mais
 -   `Moins` Menos
 -   `Même` Mesmo
--   `Toujours` Sempre/Ainda
+-   `Toujours` Sempre/Ainda (de continuar sendo/acontecendo)
     -   `Toujours pas` Ainda assim
     -   É menos ambíguo que `encore` para significar "ainda".
--   `Encore` Novamente/Ainda
+-   `Encore` Novamente/Ainda (até mesmo)
 -   `Souvent` Frequentemente
 -   `Chaque` Cada/Todo
 -   `Parfois` Às vezes
@@ -83,6 +83,7 @@
 -   `En ce moment` Neste momento
 -   `Sur Internet` Online
 -   `Comme d'habitude` Como sempre
+-   `Nulle part` Em nenhum lugar
 
 ## De manière - De modo
 
@@ -113,6 +114,7 @@
 -   `Absolument` Absolutamente
 -   `Complètement` Completamente
 -   `Carrément` Definitivamente/Absolutamente
+-   `Actuellement` Atualmente
 
 ## Os Porquês
 
