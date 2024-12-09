@@ -77,6 +77,7 @@
 -   `ひも` Fio
 -   `ケーブル` Cabo
 -   <font size="5"><code><ruby>鍵<rt>かぎ</rt></ruby></code></font> Chave
+-   `ペン` Caneta
 -   <font size="5"><code><ruby>鉛<rt>えん</rt>筆<rt>ぴつ</rt></ruby></code></font> Lápis
     -   <font size="5"><code><ruby>色<rt>いろ</rt>鉛<rt>えん</rt>筆<rt>ぴつ</rt></ruby></code></font> Lápis de cor
     -   `シャーペン` Lapiseira
@@ -117,8 +118,6 @@
 -   `ティッシュ` Lenço (Tissue)
 -   <font size="5"><code><ruby>紙<rt>かみ</rt></ruby></code></font> Papel
 -   `おもちゃ` Brinquedo
--   `ペン` Caneta
--   `えんぴつ` Lápis
 -   `だんぼう` Aquecedor
 -   `ブランケット` Cobertor
 -   `ベンチ` Banco
@@ -168,6 +167,7 @@
 -   `ポスト` Caixa de correio
 -   <font size="5"><code><ruby>小<rt>こ</rt>包<rt>づつみ</rt></ruby></code></font> Pacote (de correio)
 -   <font size="5"><code><ruby>包<rt>つつ</rt></ruby>み</code></font> Pacote (embrulho)
+-   <font size="5"><code><ruby>灰<rt>はい</rt>皿<rt>ざら</rt></ruby></code></font> Cinzeiro
 
 ## Elétricos e Eletrônicos
 
@@ -181,7 +181,8 @@
 -   <font size="5"><code><ruby>携<rt>けい</rt>帯<rt>たい</rt></ruby></code></font> Celular
 -   `スマホ` Smartphone
 -   `タブレット` Tablet
--   `パソコン` Computador
+-   `コンピューター` Computador
+    -   `パソコン` PC
 -   `ノート` Notebook
 -   `モニター` Monitor
 -   `マウス` Mouse

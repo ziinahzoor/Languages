@@ -172,6 +172,7 @@
 -   `Mouchoir` Lenço
 -   `Déchet` Dejeto/Lixo
 -   `Cachet` Comprimido
+-   `Bougie` Vela
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 

@@ -23,6 +23,7 @@
 -   `Tormenta` Tempestade
 -   `Niebla` Névoa
 -   `Aire` Ar
+-   `Humo` Fumaça 🚹
 
 ### Materiais
 

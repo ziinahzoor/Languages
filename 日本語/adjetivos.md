@@ -24,7 +24,7 @@
 -   `ダサい` Brega/Sem estilo
 -   <font size="5"><code><ruby>親<rt>しん</rt>切<rt>せつ</rt></ruby></code></font> Gentil, generoso
 -   <font size="5"><code><ruby>気<rt>き</rt>持<rt>も</rt></ruby>ちいい</code></font> Agradável/De sentimento agradável/Confortável
--   `やさしい` Gentil, agradável
+-   <font size="5"><code><ruby>優<rt>やさ</rt></ruby>しい</code></font> Gentil, agradável
 -   <font size="5"><code><ruby>易<rt>やさ</rt></ruby>しい</code></font> Fácil
     -   É mais subjetivo.
 -   <font size="5"><code><ruby>難<rt>むずか</rt></ruby>しい</code></font> Difícil/Complexo

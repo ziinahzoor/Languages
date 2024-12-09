@@ -6,6 +6,7 @@
     -   `Στο` Contração de `σε το`. As contrações dos outros artigos seguem a mesma lógica.
 -   `Από` De/Do/Da
 -   `Για` Para
+    -   Também pode ser "sobre" para se referir a algo.
 -   `Σαν` Como
     -   Mais usado para comparações.
 -   `Όπως` Como

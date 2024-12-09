@@ -28,9 +28,16 @@
 -   `Horaire` Horário
 -   `Date` Data
 -   `Férié` Feriado
+-   `Avant-hier` Anteontem
+    -   `L’avant-veille` Dois dias antes
 -   `Hier` Ontem
+    -   `La veille` O dia anterior
 -   `Aujourd'hui` Hoje
+    -   `Ce jour-là` Aquele dia
 -   `Demain` Amanhã
+    -   `Le lendemain` O dia depois
+-   `Après-demain` Depois de amanhã
+    -   `Le surlendemain` Dois dias depois
 -   `Maintenant` Agora
 -   `Tôt` Cedo
 -   `Tard` Tarde

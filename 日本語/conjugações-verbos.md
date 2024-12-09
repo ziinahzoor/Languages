@@ -58,7 +58,7 @@
         -   As tabelas abaixo mostram os sufixos utilizados em determinadas formas, mas também deve-se considerar a modificação do radical de cada forma.
     -   Existem apenas dois irregulares: `する` e `くる`.
         -   Apesar disso, alguns verbos possuem pequenas conjugações irregulares.
--   Os verbos também podem ser <font size="5"><code><ruby>他<rt>た</rt>動<rt>どう</rt>詞<rt>し</rt></ruby></code></font> (transitivos) e <font size="5"><code><ruby>自<rt>じ</rt>動<rt>どう</rt>詞<rt>し</rt></ruby></code></font> (intransitivos). O primeiro indica uma transferência do sujeito para o objeto, o segundo indica uma alteração no sujeito.
+-   Os verbos também podem ser <font size="5"><code><ruby>他<rt>た</rt>動<rt>どう</rt>詞<rt>し</rt></ruby></code></font> (transitivos, ou verbos "outros") e <font size="5"><code><ruby>自<rt>じ</rt>動<rt>どう</rt>詞<rt>し</rt></ruby></code></font> (intransitivos, ou verbos "próprios"). O primeiro indica uma transferência do sujeito para o objeto, o segundo indica uma alteração no sujeito.
     -   Os transitivos são acompanhados da partícula `を` e os intransitivos da partícula `が`.
     -   Frases transitivas em português podem ser intransitivas em japonês, como "José entende japonês" é `ジョセフは日本語がわかります`, pois o sujeito (José) não transfere nada para o objeto (japonês).
     -   O verbo `する` é o "pai" dos transitivos e o verbo `ある` é a "mãe" dos intransitivos.

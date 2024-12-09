@@ -230,6 +230,9 @@
 -   `やく` Assar/Fritar/Queimar/Torrar
     -   Usado para todos os verbos quem envolvam fogo na culinária.
 -   <font size="5"><code><ruby>開<rt>あ</rt></ruby>く</code></font> Abrir (I)
+    -   Tem a nuance de criar uma abertura ou espaço vazio.
+-   <font size="5"><code><ruby>開<rt>ひら</rt></ruby>く</code></font> Abrir (T/I)
+    -   Tem a nuance de ser um movimento tridimensional, como algo se "desdobrar" ao abrir. Quando intercambiável com <font size="5"><code><ruby>開<rt>あ</rt></ruby>く</code></font>, tem mais foco no movimento de abrir do que na ação de abrir.
 -   <font size="5"><code><ruby>歩<rt>ある</rt></ruby>く</code></font> Andar
 -   <font size="5"><code><ruby>咲<rt>さ</rt></ruby>く</code></font> Florescer
 -   `すく` Esvaziar
@@ -311,6 +314,7 @@
 -   `たのしむ` Divertir-se/Satisfazer-se
 -   <font size="5"><code><ruby>進<rt>すす</rt></ruby>む</code></font> Avançar/Seguir em frente
 -   <font size="5"><code><ruby>頼<rt>たの</rt></ruby>む</code></font> Pedir/Solicitar/Implorar
+-   <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しむ</code></font> Divertir-se
 
 ## 一段 - Ichidan
 
@@ -373,6 +377,9 @@
 -   <font size="5"><code><ruby>忘<rt>わす</rt></ruby>れる</code></font> Esquecer
 -   `なでる` Carinhar/Pentear
 -   <font size="5"><code><ruby>開<rt>あ</rt></ruby>ける</code></font> Abrir (T)
+    -   Tem a nuance de criar uma abertura ou espaço vazio.
+-   <font size="5"><code><ruby>開<rt>ひら</rt></ruby>ける</code></font> Abrir (I)
+    -   Tem a nuance de ser um movimento tridimensional, como algo se "desdobrar" ao abrir. Quando intercambiável com <font size="5"><code><ruby>開<rt>あ</rt></ruby>ける</code></font>, tem mais foco no movimento de abrir do que na ação de abrir.
 -   <font size="5"><code><ruby>閉<rt>し</rt>める</ruby></code></font> Fechar (T)
 -   <font size="5"><code><ruby>止<rt>や</rt></ruby>める</code></font> Parar/Finalizar/Descontinuar
     -   É mais abstrato
@@ -451,3 +458,4 @@
 -   <font size="5"><code><ruby>変<rt>へん</rt>更<rt>こう</rt></ruby></code></font> Mudar/Modificar/Alterar
 -   <font size="5"><code><ruby>配<rt>はい</rt>達<rt>たつ</rt></ruby></code></font> Entregar (transportar um item)
     -   Tem a nuance de usar um serviço de entregas.
+-   <font size="5"><code><ruby>話<rt>はなし</rt></ruby></code></font> Ter uma conversa/Contar uma história
