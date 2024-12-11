@@ -49,8 +49,8 @@
 
 -   [Alto Valiriano](Valyrio/regras.md)
 -   [Klingon](tlhIngan%20Hol/regras.md)
--   [Quenya](Quenya/regras.md)
--   [Sindarin](Sindarin/regras.md)
+-   [Quenya](Eldarin/Quenya/regras.md)
+-   [Sindarin](Eldarin/Sindarin/regras.md)
 -   Dothraki
 -   Huttês
 -   Simlish
