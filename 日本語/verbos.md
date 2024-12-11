@@ -153,7 +153,7 @@
 -   <font size="5"><code><ruby>曲<rt>ま</rt></ruby>がる</code></font> Virar/Curvar
 -   <font size="5"><code><ruby>送<rt>おく</rt></ruby>る</code></font> Mandar/Enviar
 -   `まわる` Girar/Andar em volta/Transitar
--   `おこる` Irritar-se
+-   <font size="5"><code><ruby>怒<rt>おこ</rt></ruby>る</code></font> Irritar-se
 -   `がんばる` Fazer o melhor/Persistir/Perseverar
 -   `やる` Fazer/Dar
     -   Mais utilizado casualmente e para ações físicas feitas ativamente.
@@ -180,6 +180,7 @@
 -   <font size="5"><code><ruby>貼<rt>は</rt></ruby>る</code></font> Colar/Prender/Pregar/Afixar
 -   <font size="5"><code><ruby>亡<rt>な</rt></ruby>くなる</code></font> Falecer
 -   <font size="5"><code><ruby>鍵<rt>かぎ</rt></ruby>がかかる</code></font> Trancar (I)
+-   <font size="5"><code><ruby>渡<rt>わた</rt></ruby>る</code></font> Atravessar
 
 ### う
 
@@ -245,7 +246,9 @@
     -   Geralmente se usam onomatopeias com o verbo para representar o som.
 -   <font size="5"><code><ruby>置<rt>お</rt></ruby>く</code></font> Colocar/Pôr
 -   <font size="5"><code><ruby>磨<rt>みが</rt></ruby>く</code></font> Escovar/Polir
--   <font size="5"><code><ruby>届<rt>とど</rt></ruby>く</code></font> Chegar/Ser entregue
+-   <font size="5"><code><ruby>届<rt>とど</rt></ruby>く</code></font> Alcançar/Chegar/Ser entregue
+    -   <font size="5"><code><ruby>手<rt>て</rt></ruby>が<ruby>届<rt>とど</rt></ruby>く</code></font> Conseguir alcançar
+-   <font size="5"><code><ruby>泣<rt>な</rt></ruby>く</code></font> Chorar
 
 ### ぐ
 
@@ -407,6 +410,7 @@
 -   <font size="5"><code><ruby>届<rt>とど</rt></ruby>ける</code></font> Entregar (transportar para alguém)
     -   Tem a nuance da pessoa estar envolvida no processo de entrega.
 -   <font size="5"><code><ruby>書<rt>か</rt></ruby>き<ruby>留<rt>と</rt></ruby>める</code></font> Anotar
+-   <font size="5"><code><ruby>捨<rt>す</rt></ruby>てる</code></font> Descartar/Jogar fora
 
 ## Verbos する
 

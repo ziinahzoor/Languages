@@ -1,5 +1,6 @@
 # Fonética e Fonologia
 
+-   A sílaba tônica, exceto quando denotada por acentos, é a última.
 -   Geralmente se ignora a pronúncia das últimas consoantes da palavra. Quanto às últimas vogais, geralmente são mudas.
 -   Liaisons (Ligações): Ao pronunciar, quando uma palavra termina em consoante e a próxima em vogal, carrega-se a consoante para a pronúncia da próxima palavra.
 -   Enchaînements (Encadeamentos) Similar à ligação, mas acontece quando a palavra termina em vogal mas se carrega o som da última consoante para a próxima palavra.

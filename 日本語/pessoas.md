@@ -46,7 +46,7 @@
 -   `エンジニア` Engenheiro
 -   `かいしゃいん` Trabalhador de escritório
 -   `かんごし` Enfermeiro
--   `けいさつ` Polícia
+-   <font size="5"><code><ruby>警<rt>けい</rt>察<rt>さつ</rt></ruby></code></font> Polícia
 -   `ぶし` Guerreiro
 -   `コーチ` Treinador
 -   `マネージャー` Gerente

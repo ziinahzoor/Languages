@@ -70,7 +70,6 @@
 -   <font size="5"><code><ruby>砂<rt>さ</rt>糖<rt>とう</rt></ruby></code></font> Açúcar
 -   `こむぎこ` Farinha
 -   `シリアル` Cereal
--   `あめ` Doce
 -   `にんじん` Cenoura
 -   `ヨーグルト` Iogurte
 -   `かきこおり` Raspadinha

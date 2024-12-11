@@ -386,7 +386,7 @@
 
 -   <font size="5"><code><ruby>電<rt>でん</rt>車<rt>しゃ</rt></ruby></code></font> Trem (elétrico)
 -   <font size="5"><code><ruby>地<rt>ち</rt>下<rt>か</rt>鉄<rt>てつ</rt></ruby></code></font> Metrô
--   `しんかんせん` Trem-bala
+-   <font size="5"><code><ruby>新<rt>しん</rt>幹<rt>かん</rt>線<rt>せん</rt></ruby></code></font> Trem-bala
 -   `タクシー` Táxi
 -   `バス` Ônibus
 -   `きゅうきゅうしゃ` Ambulância
@@ -404,6 +404,7 @@
 -   `カラオケ` Karaoke
 -   `プロジェクト` Projeto
 -   `ミーティング` Reunião
+-   <font size="5"><code><ruby>会<rt>かい</rt>議<rt>ぎ</rt></ruby></code></font> Reunião/Conferência
 -   <font size="5"><code><ruby>旅<rt>りょ</rt>行<rt>こう</rt></ruby></code></font> Viagem
 -   `かんこう` Passeio turístico
 -   `イベント` Evento

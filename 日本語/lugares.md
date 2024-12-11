@@ -22,7 +22,8 @@
 -   `ぶんぼうぐ` Papelaria
 -   `コンビニ` Loja de conveniência
 -   `デパート` Loja de departamento
--   `バスてい` Ponto de ônibus
+-   <font size="5"><code><ruby>停<rt>てい</rt>留<rt>りゅう</rt>所<rt>じょ</rt></ruby></code></font> Ponto/Parada/Estação
+    -   <font size="5"><code>バス<ruby>停<rt>てい</rt></ruby></code></font> Ponto de ônibus
 -   `しゅうてん` Última parada
 -   <font size="5"><code><ruby>駅<rt>えき</rt></ruby></code></font> Estação de trem
 -   <font size="5"><code><ruby>学<rt>がっ</rt>校<rt>こう</rt></ruby></code></font> Escola

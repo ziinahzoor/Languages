@@ -8,6 +8,8 @@
 
 **[Mango Languages](https://mangolanguages.com)**
 
+**[Wlingua](https://wlingua.com/pt/)**
+
 **[Bunpro](https://bunpro.jp)**
 
 **[Talk To Me In Korean](https://courses.talktomeinkorean.com/)**

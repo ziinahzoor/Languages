@@ -85,6 +85,7 @@
 ### Definidos
 
 -   `El` O
+    -   `Lo` Usado antes de adjetivos, particípios, advérbios e o pronome "que".
 -   `La` A
 
 ### Indefinidos

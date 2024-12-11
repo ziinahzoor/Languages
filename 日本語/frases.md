@@ -7,6 +7,7 @@
 -   `こんにちは` Olá
 -   `もしもし` Alô
 -   `おはようございます` Bom dia
+    -   `おはよう` Casual
 -   `こんばんは` Boa noite
 -   `ただいま` Cheguei em casa
 -   `ようこそ` Bem-vindo

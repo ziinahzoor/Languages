@@ -21,46 +21,47 @@
 -   [Espanhol](Español/regras.md)
 -   [Francês](Français/regras.md)
 -   [Japonês](日本語/regras.md)
+-   [Grego](Ελληνικά/regras.md)
 
 ## Próximas linguagens
 
 -   [Alemão](Deutsch/regras.md)
--   [Latim](Latinum/regras.md)
--   [Romeno](Română/regras.md)
 -   [Italiano](Italiano/regras.md)
--   [Chinês](中文/regras.md)
--   Árabe
--   Libras
--   Coreano
--   Sueco
--   Esperanto
+-   [Chinês (Mandarim)](中文/regras.md)
+-   [Latim](Latinum/regras.md)
+-   [Sueco](Svenska/regras.md)
+-   [Dinamarquês](Dansk/regras.md)
 -   Norueguês
--   Dinamarquês
--   Finlandês
--   Navajo
+-   [Coreano](한국어/regras.md)
+-   [Russo](Русский/regras.md)
+-   [Árabe](العربية/regras.md)
+-   [Esperanto](Esperanto/regras.md)
+-   [Finlandês](Suomi/regras.md)
+-   [Holandês](Nederlands/regras.md)
 -   Tupi
--   Irlandês
--   Havaiano
--   Holandês
--   Russo
--   Grego
+-   Libras
+-   [Havaiano](ʻŌlelo%20Hawaiʻi/regras.md)
+-   [Romeno](Română/regras.md)
+-   [Catalão](Català/regras.md)
+-   [Hindi](हिंदी/regras.md)
 
 ## Linguagens fictícias
 
 -   [Alto Valiriano](Valyrio/regras.md)
 -   [Klingon](tlhIngan%20Hol/regras.md)
--   [Quenya](Eldarin/quenya.md)
--   [Sindarin](Eldarin/sindarin.md)
+-   [Quenya](Quenya/regras.md)
+-   [Sindarin](Sindarin/regras.md)
 -   Dothraki
 -   Huttês
 -   Simlish
+-   Dracônico
 
 ## Alfabetos e sistemas de escrita
 
 -   [Aurabesh `Star Wars`](Alfabetos/aurabesh.md)
 -   [Braile](Alfabetos/braille.md)
 -   [Daedrico `Skyrim`](Alfabetos/daedric.md)
--   [Dracônico `Skyrim`](Dovahzul/runas.md)
+-   [Dracônico `Skyrim`](Alfabetos/dovahzul.md)
 -   [Morse](Alfabetos/morse.md)
--   [Tengwar `Senhor dos Anéis`](Eldarin/tengwar.md)
--   [pIqaD `Star Trek`](tlhIngan%20Hol/pIqaD.md)
+-   [Tengwar `Senhor dos Anéis`](Alfabetos/tengwar.md)
+-   [pIqaD `Star Trek`](Alfabetos/pIqaD.md)
