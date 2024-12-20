@@ -76,6 +76,7 @@
 -   `やれやれ` Ok, ok/Ah coitado (Ao confortar ou ajudar alguém)
 -   `もう` Chega!
 -   `いいなあ` Que inveja!
+-   `どうしよう` O que eu faço?!
 
 ## <ruby>汚<rt>きたな</rt></ruby>い<ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby> - Linguagem de baixo calão
 

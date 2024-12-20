@@ -39,6 +39,10 @@
 -   `Qurdon` Mesa 🌱
 -   `Rūniapos` Carta ☀️
 -   `Sōlutty` Pergaminho 🌙
+-   `Ilvos` Cama ☀️
+-   `Tembyr` Livro 🌙
+-   `Irūdy` Presente 🌙
+-   `Rhakiāzma` Tapeçaria 🌙
 
 ## Abstratos
 
@@ -49,6 +53,7 @@
 -   `Gevives` Beleza ☀️
 -   `Tymptir` Jogo 🌊
 -   `Verdon` Quantidade/Soma/Montante 🌱
+-   `Vēdros` Raiva ☀️
 
 ## Transporte
 
@@ -65,3 +70,6 @@
 -   `Somby` Escudo 🌙
 
 ## Atividades
+
+-   `Vāedar` Canção 🌊
+-   `Vāedrar` Concerto 🌊

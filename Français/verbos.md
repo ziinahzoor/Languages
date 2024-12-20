@@ -28,7 +28,6 @@
     -   `Faire le ménage` Limpar a casa
     -   `Faire les bagages` Fazer as malas
     -   `Faire la queue` Fazer fila/Esperar na fila
-    -   `Se faire mal` Machucar-se
     -   `Faire plaisir à` Agradar
     -   `Faire de l'escalade` Escalar
     -   `Faire confiance à` Confiar
@@ -36,6 +35,8 @@
     -   `Faire la fête` Festar
         -   `Teufer` Verlan
     -   `Faire nuit` Estar de noite/Estar escuro
+    -   `Se faire mal` Machucar-se
+    -   `Se faire la bise` Beijar-se (na bochecha)
 -   `Défaire` Desfazer
 -   `Attendre` Esperar
 -   `Dire` Dizer
@@ -43,8 +44,10 @@
 -   `Peindre` Pintar
 -   `Connaitre` Conhecer
     -   Tem o sentido de "ter familiaridade"
+    -   `Se connaitre` Conhecer-se
 -   `Entendre` Ouvir
     -   `S'entendre` Entender-se (com alguém)
+        -   `S'entendre bien` Dar-se bem (com alguém)
 -   `Croire` Acreditar/Crer
 -   `Répondre` Responder
 -   `Éteindre` Apagar/Desligar
@@ -63,21 +66,26 @@
 -   `Plaire` Agradar/Gostar
 -   `Réduire` Reduzir
 -   `Se battre` Brigar
+-   `Suivre` Seguir
 
 ## -er Verbes
 
 -   `Manger` Comer
 -   `S'appeller` Chamar-se
 -   `Parler` Falar
+    -   `Se parler` Falar-se
 -   `Habiter` Morar
 -   `Étudier` Estudar
 -   `Travailler` Trabalhar
 -   `Aller` Ir
+    -   `S'en aller` Ir embora
     -   `S'aller` Cair/Combinar (roupas)
 -   `Aimer` Amar (pessoas)/Gostar (coisas)
     -   Significa "amar" quando se refere a pessoas e "gostar" quando se refere a outras coisas (inclusive animais). Para falar que ama outra coisa, usar `adorer`
--   `Adorer` Amar (coisas)
+-   `Adorer` Amar/Adorar
+    -   `S'adorer` Amar-se/Adorar-se
 -   `Détester` Odiar
+    -   `Se détester` Odiar-se
 -   `Préférer` Preferir
 -   `Arriver` Chegar
     -   `Arriver à` Ser capaz de
@@ -88,6 +96,7 @@
 -   `Payer` Pagar
 -   `Trouver` Achar/Encontrar
     -   Também serve para o sentido abstrato de "achar" (pensar, expressar uma opinião).
+    -   `Se trouver` Encontrar-se/Localizar-se
 -   `S'inquiéter` Preocupar-se
 -   `Retrouver` Reencontrar
 -   `Chercher` Procurar/Buscar
@@ -138,6 +147,7 @@
 -   `Se lever` Levantar-se
 -   `S'allonger` Deitar-se/Reclinar-se/Recostar-se
 -   `Se coucher` Deitar-se (Para dormir)
+    -   `Se pieuter` Informal
 -   `Se préparer` Preparar-se
 -   `Se brosser` Escovar(-se)
 -   `Se coiffer` Pentear-se
@@ -148,7 +158,12 @@
 -   `Porter` Vestir
 -   `Éternuer` Espirrar
 -   `Demander` Perguntar/Pedir
--   `Apporter` Trazer
+-   `Emporter` Levar (objetos inanimados)
+-   `Emmener` Levar (objetos animados e veículos)
+    -   Tem a nuance de levar a algum lugar e permanecer lá.
+-   `Apporter` Trazer (objetos inanimados)
+-   `Amener` Trazer (objetos animados e veículos)
+    -   No francês coloquial também é usado para objetos inanimados, e também é usado como "levar". Costuma cobrir as funções de `emporter`, `emmener` e `apporter`. Neste uso, tem a nuance mais de levar a algum lugar, mas não permanecer lá.
 -   `Inviter` Convidar
 -   `Monter` Subir/Montar/Aumentar
 -   `Montrer` Mostrar
@@ -158,12 +173,14 @@
 -   `Pêcher` Pescar
 -   `Voler` Voar/Roubar
 -   `Ressembler` Parecer
+    -   `Se ressembler` Parecer-se
 -   `Arroser` Regar
 -   `Fermer` Fechar
 -   `Laver` Lavar
 -   `Vérifier` Verificar/Checar
 -   `Changer` Mudar/Alterar/Trocar
 -   `Envoyer` Enviar
+    -   `S'envoyer` Enviar-se
 -   `Envier` Invejar
 -   `Frapper` Bater
 -   `Prêter` Emprestar
@@ -224,6 +241,7 @@
     -   `Faire un cauchemar` Ter um pesadelo
 -   `Pleurer` Chorar
 -   `Casser` Quebrar
+    -   `Casser la dalle` Matar a fome
 -   `Pousser` Empurrar
 -   `Blesser` Machucar/Ferir
     -   `Se blesser` Machucar-se
@@ -303,6 +321,8 @@
 -   `Se raser` Barbear-se
 -   `Remarquer` Notar
 -   `Supporter` Suportar
+-   `Flâner` Vagar
+-   `Congeler` Congelar
 
 ## -ir Verbes
 
@@ -317,7 +337,9 @@
     -   `Avoir tort` Não ter razão
     -   `Avoir rendez-vous` Ter um encontro
     -   `Avoir du mal à` Ter dificuldade em
+    -   `Avoir la dalle` Ter fome
 -   `Voir` Ver
+    -   `Se voir` Ver-se
 -   `Revoir` Rever
 -   `Vouloir` Querer
 -   `Ouvrir` Abrir
@@ -325,6 +347,7 @@
 -   `Savoir` Saber
 -   `Venir` Vir
 -   `Revenir` Voltar
+    -   `Revenir en arrière` Voltar atrás/Voltar para atrás
 -   `Dormir`
 -   `Partir` Sair (Leave)
 -   `Sortir` Sair (Get out, go out)

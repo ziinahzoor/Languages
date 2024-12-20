@@ -42,6 +42,7 @@
     -   Usado com frases negativas
 -   `まっすぐ` Direto/Diretamente
 -   `ぴったり` Justo/Firmemente/Perfeitamente
+-   `うまく` Habilmente/Habilidosamente
 
 ## Intensidade/Quantidade
 
@@ -106,12 +107,15 @@
 -   `どうやって` Como/De que maneira
     -   Não é advérbio, está aqui por conveniência
 -   `どうして` Por que/Por quê
+    -   `なんで` Casual
     -   `なぜ` Honorífico
+        -   Também é mais "racional", usado mais para saber a motivação sem nuances de emoção.
 -   `なぜなら…からです` Porque
 
 ## Ordem
 
 -   <font size="5"><code><ruby>次<rt>つぎ</rt></ruby></code></font> Próximo (Ordem)
+-   <font size="5"><code><ruby>最<rt>さい</rt>初<rt>しょ</rt></ruby></code></font> Inicialmente
 -   `まず` Primeiramente
 -   `はじめに` Primeiramente
 -   `やっと` Por fim/Finalmente

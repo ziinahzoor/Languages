@@ -4,18 +4,27 @@
 
 -   `Sagon` Ser/Existir
 -   `Ilagon` Estar/Existir
+    -   `Vilagon` Estar/Jazer em algum lugar (Locativo-aplicativo)
+        -   Acompanha o genitivo para um único objeto antes de verbo e o dativo em qualquer outro caso.
 -   `Jagon` Ir
 -   `Dijemagon` Esquentar
+-   `Gīmīmagon` Informar/Ensinar/Instruir
 
 ## Verbos final-vogal (-gon)
 
 -   `Nagegon` Suar
 -   `Līrigon` Sorrir
 -   `Ēdrugon` Dormir
+    -   `Vēdrugon` Dormir sobre (Locativo-aplicativo)
+        -   Acompanha o genitivo para um único objeto antes de verbo e o dativo em qualquer outro caso.
 -   `Urnegon` Ver
+    -   `Vurnegon` Inspecionar/Avaliar (Locativo-aplicativo)
+        -   Acompanha o genitivo para um único objeto antes de verbo e o dativo em qualquer outro caso.
+    -   `Jurnegon` Olhar para/Examinar (Oblíquo-aplicativo)
 -   `Iotāptegon` Respeitar/Considerar
 -   `Idakogon` Atacar
 -   `Nevegon` Carregar
+    -   `Sytinevegon` Sair com/Namorar (Oblíquo-aplicativo)
 -   `Keligon` Parar
 -   `Sindigon` Comprar
 -   `Vūjigon` Beijar
@@ -24,50 +33,75 @@
 -   `Arghugon` Caçar
 -   `Pilogon` Segurar
 -   `Nektogon` Cortar/Fatiar
+    -   `Anektogon` Instrumental-passivo
+    -   `Unektogon` Cortar fora (Locativo-aplicativo)
+        -   Acompanha o dativo.
 -   `Angogon` Morder
 -   `Mōzugon` Beber
 -   `Sylugon` Tentar
 -   `Sylutegon` Provar/Experimentar
 -   `Māzigon` Vir/Chegar
--   `Umāzigon` Vir/Chegar
-    -   Complemento sempre está no dativo.
+    -   `Umāzigon` Locativo-aplicativo
 -   `Zoklākogon` Atrair/Encantar
 -   `Mijegon` Faltar/Não ter
 -   `Renigon` Tocar
+    -   `Jenigon` Instrumental-passivo
 -   `Rakegon` Participar
 -   `Gīmigon` Saber
 -   `Gūrogon` Pegar
 -   `Geltigon` Cobrir
+    -   `Zgeltigon` Instrumental-passivo
 -   `Indigon` Empurrar
 -   `Qlādugon` Arrastar
 -   `Jonevegon` Vestir/Usar
+-   `Sētegon` Fazer/Criar
+-   `Usōvegon` Desculpar-se
+-   `Hōzigon` Inchar
+    -   `Jōzigon` Orgulhar-se (Oblíquo-aplicativo)
+-   `Lurugon` Dobrar
+-   `Korigon` Procurar
+-   `Īligon` Atravessar
+-   `Rhakigon` Tecer/Trançar
+-   `Bughegon` Nadar
+-   `Dakogon` Correr
+-   `Ñepegon` Costurar
+-   `Jentegon` Comandar/Liderar
 
 ### Terminados em -agon
 
 -   `Ȳdragon` Falar
+    -   `Rȳvȳdragon` Mediar (Locativo-aplicativo)
+        -   Acompanha o genitivo para um único objeto antes de verbo e o dativo em qualquer outro caso.
 -   `Dēmagon` Sentar
+    -   `Zdēmagon` Estar em cima (Instrumental-passivo)
+    -   `Udēmagon` Sentar em (Locativo-aplicativo)
+        -   Acompanha o dativo.
 -   `Limagon` Chorar
+    -   `Ilimagon` Chorar por (Oblíquo-aplicativo)
 -   `Ropagon` Cair
 -   `Ykynagon` Cheirar
 -   `Kȳvagon` Planejar
 -   `Ellagon` Abraçar
--   `Pryjagon` Destruir
+-   `Pryjagon` Destruir/Quebrar
+    -   `Spryjagon` Instrumental-passivo
 
 ## Verbos final-consoante (-agon)
 
 -   `Vāedagon` Cantar
 -   `Morghūljagon` Morrer
 -   `Vaoresagon` Preferir/Favorecer
-    -   Complemento costuma estar no genitivo.
+    -   Geralmente acompanha o genitivo.
     -   Gostar (Dativo)
 -   `Rȳbagon` Ouvir/Obedecer
 -   `Jorrāelagon` Amar
+    -   `Ajorrāelagon` Precisar (Instrumental-passivo)
 -   `Rijagon` Elogiar/Louvar
 -   `Rijībagon` Adorar (religiosamente)
 -   `Majaqagon` Admirar
 -   `Ipradagon` Comer
 -   `Ojehikagon` Abençoar
 -   `Emagon` Ter
+    -   `Aemagon` Ter/Conter (Instrumental-passivo)
 -   `Belmuragon` Acorrentar
 -   `Ossȳngagon` Aterrorizar
 -   `Izūgagon` Ter medo
@@ -79,17 +113,24 @@
 -   `Epagon` Perguntar
 -   `Lioragon` Vender
 -   `Udekuragon` Aproximar-se
-    -   Complemento sempre está no dativo.
+    -   Acompanha o dativo.
 -   `Maghagon` Trazer/Carregar
 -   `Gōvilemagon` Colocar embaixo
-    -   Complemento sempre está no dativo.
+    -   Acompanha o dativo.
 -   `Aerēbagon` Viajar
 -   `Tepagon` Dar
 -   `Irughagon` Dar (Quando o sujeito e os complementos estão na terceira pessoa)
 -   `Botagon` Trabalhar
 -   `Glaesagon` Viver/Morar
--   `Iōragon` Ficar
+-   `Iōragon` Ficar/Estar de pé
+    -   `Hiōragon` Instrumental-passivo
+    -   `Viōragon` Estar em cima de algo (Locativo-aplicativo)
+        -   Acompanha o dativo.
+    -   `Jiōragon` Aceitar/Receber/Dar as boas-vindas (Oblíquo-aplicativo)
 -   `Umbagon` Esperar/Aguardar
+    -   `Bēvumbagon` Flutuar/Planar sobre (Locativo-aplicativo)
+        -   Acompanha o dativo
+    -   `Jumbagon` Esperar por (Oblíquo-aplicativo)
 -   `Baelagon` Ajudar
 -   `Kisikagon` Alimentar
     -   Acompanha o que é alimentado no instrumental.
@@ -110,6 +151,7 @@
 -   `О̄dragon` Machucar
 -   `Memēbagon` Marchar
 -   `Sēnagon` Matar
+    -   `Asēnagon` Instrumental-passivo
 -   `Dāeremagon` Libertar
 -   `Kostagon` Poder
 -   `Bēvilagon` Dever (de obrigação)
@@ -119,3 +161,22 @@
 -   `Sahagon` Forçar/Causar/Obrigar
 -   `Davābagon` Chover
 -   `Jehikagon` Brilhar
+-   `Buqagon` Odiar
+-   `Mundagon` Estar triste
+    -   `Imundagon` Simpatizar com (Oblíquio-aplicativo)
+-   `Jaelagon` Querer/Desejar/Esperar
+-   `Ozmijegon` Sentir saudade
+    -   Acompanha uma pessoa no comitativo ou alguma coisa no instrumental.
+-   `Raqagon` Gostar
+-   `Sōpagon` Rir/Rir de
+-   `Aeragon` Mover/Mexer
+    -   `Haeragon` Instrumental-passivo
+-   `Iāragon` Fluir/Correr
+    -   `Gōviāragon` Fluir embaixo
+        -   Acompanha o genitivo para um único objeto antes de verbo e o dativo em qualquer outro caso.
+-   `Derēbagon` Reunir/Coletar/Escolher
+    -   `Iderēbagon` Escolher/Selecionar (Oblíquo-aplicativo)
+-   `Otāpagon` Pensar/Opinar/Adivinhar
+    -   `Sytiotāpagon` Aconselhar (Oblíquo-aplicativo)
+-   `Dekurūbagon` Andar
+-   `Giēñēbagon` Recuperar

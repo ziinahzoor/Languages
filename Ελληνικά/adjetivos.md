@@ -9,7 +9,7 @@
 -   `Μάλλινος` De lã
 -   `Ξύλινος` De madeira
 -   `Κλειστός` Fechado
--   `Ανοιχτός` Aberto/Claro/Pálido
+-   `Ανοιχτός` Aberto/Ligado/Aceso/Claro/Pálido
 -   `Βαθύς` Escuro/Profundo
 -   `Σκούρος` Escuro
     -   Geralmente usado com cores e tons.
@@ -63,5 +63,8 @@
 -   `Ακριβός` Caro
 -   `Τέλειος` Perfeito
 -   `Διάσημος` Famoso
+-   `Μόνος` Sozinho/Solitário/Único
+    -   Quando usado com o reflexivo, tem o sentido de "sozinho/por si próprio".
+-   `Ίδιος` O mesmo/Igual/Próprio
 
 ## Nacionalidades

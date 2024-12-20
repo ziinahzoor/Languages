@@ -10,22 +10,22 @@
     -   Em traços diagonais, o da direita pra esquerda vem primeiro.
     -   Se um traço vertical atravessa vários horizontais, ele deve ser escrito após todos os horizontais.
     -   Se o traço é uma pequena "vírgula", ele deve ser o último, exceto se estiver no topo, onde deve ser o primeiro.
+-   São formados por <font size="5"><code><ruby>部<rt>ぶ</rt>首<rt>しゅ</rt></ruby></code></font> (radicais):
+    -   <font size="5"><code><ruby>偏<rt>へん</rt></ruby></code></font>: Radical que fica na esquerda do kanji.
+    -   <font size="5"><code><ruby>旁<rt>つくり</rt></ruby></code></font>: Radical que fica na direita do kanji.
+    -   <font size="5"><code><ruby>冠<rt>かんむり</rt></ruby></code></font>: Radical que fica no topo do kanji.
+    -   <font size="5"><code><ruby>脚<rt>あし</rt></ruby></code></font>: Radical que fica na parte de baixo do kanji.
+    -   <font size="5"><code><ruby>垂<rt>たれ</rt></ruby></code></font>: Radical que fica no topo e na esquerda do kanji.
+    -   <font size="5"><code><ruby>繞<rt>にょう</rt></ruby></code></font>: Radical que fica na parte de baixo e na esquerda do kanji.
+    -   <font size="5"><code><ruby>構<rt>かまえ</rt></ruby></code></font>: Radical que envolve o kanji.
 
-## Números
+<img src="../assets/images/bushu.png" alt="Classificação gramatical" style="width:15rem; background-color: #E8F9FD; border-radius: 10px; padding: 5px;border: 5px black solid;
+"/>
 
--   `一` `いち` Um
--   `ニ` `に` Dois
--   `三` `さん` Três
--   `四` `よん` Quatro
--   `五` `ご` Cinco
--   `六` `ろく` Seis
--   `七` `なな` Sete
--   `八` `はち` Oito
--   `九` `きゅう` Nove
--   `十` `じゅう` Dez
--   `百` `ひゃく` Cem
--   `千` `せん` Mil
--   `半` `はん` Meio
+## Radicais
+
+> [!NOTE]
+> Existem cerca de 214 radicais.
 
 ## Nomes
 
@@ -33,27 +33,3 @@
 -   `中` Naka
 -   `山` Yama
 -   `口` Guchi
-
-## Outros
-
--   `本` `ほん` Livro
--   `私` `わたし` Eu
--   `京` Kyou
--   `東` Tou
--   `都` To
--   `父` `ちち` Pai
--   `母` `はは` Mãe
--   `時` `じ` Hora
--   `水` `みず` Água
-
-## Adjetivos
-
--   `新` `あたら` Novo
--   `古` `ふる` Velho
--   `大` `おお` Grande
--   `小` `ちい` Pequeno
-
-## Verbos
-
--   `見` `み` Ver/Assistir
--   `読` `よ` Ler

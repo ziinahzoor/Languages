@@ -30,6 +30,11 @@
 ### Materiais
 
 -   <font size="5"><code><ruby>革<rt>かわ</rt></ruby></code></font> Couro
+-   <font size="5"><code><ruby>金<rt>きん</rt>属<rt>ぞく</rt></ruby></code></font> Metal
+-   <font size="5"><code><ruby>金<rt>きん</rt></ruby></code></font> Ouro
+-   <font size="5"><code><ruby>銀<rt>ぎん</rt></ruby></code></font> Prata
+-   <font size="5"><code><ruby>銅<rt>どう</rt></ruby></code></font> Bronze
+-   <font size="5"><code><ruby>木<rt>き</rt></ruby></code></font> Madeira
 
 ## Casa e objetos
 
@@ -110,7 +115,8 @@
 -   `はなび` Fogos de artifício
 -   `スーツケース` Maleta
 -   <font size="5"><code><ruby>絵<rt>え</rt></ruby></code></font> Pintura
--   `テスト` Prova
+-   <font size="5"><code><ruby>試<rt>し</rt>験<rt>けん</rt></ruby></code></font> Prova/Exame
+-   `テスト` Teste/Prova/Exame
     -   <font size="5"><code><ruby>〇<rt>まる</rt>×<rt>ばつ</rt></ruby>テスト</code></font> Prova de verdadeiro ou falso
 -   `じしょ` Dicionário
 -   `ナプキン` Lenço de papel (Napkin)
@@ -135,7 +141,7 @@
 -   `ドア` Porta
 -   <font size="5"><code><ruby>戸<rt>と</rt></ruby></code></font> Porta de correr/Porta japonesa
 -   `かぐ` Móvel
--   `かびん` Vaso
+-   <font size="5"><code><ruby>花<rt>か</rt>瓶<rt>びん</rt></ruby></code></font> Vaso de flores
 -   `カーテン` Cortina
 -   `タバコ` Cigarro
 -   `ひやけどめ` Protetor solar
@@ -168,6 +174,7 @@
 -   <font size="5"><code><ruby>小<rt>こ</rt>包<rt>づつみ</rt></ruby></code></font> Pacote (de correio)
 -   <font size="5"><code><ruby>包<rt>つつ</rt></ruby>み</code></font> Pacote (embrulho)
 -   <font size="5"><code><ruby>灰<rt>はい</rt>皿<rt>ざら</rt></ruby></code></font> Cinzeiro
+-   `メダル` Medalha
 
 ## Elétricos e Eletrônicos
 
@@ -242,7 +249,7 @@
 -   `ぜんぶ` Total/Totalidade
 -   `パスワード` Senha
 -   `むりょう` De graça
--   `ぶんか` Cultura
+-   <font size="5"><code><ruby>文<rt>ぶん</rt>化<rt>か</rt></ruby></code></font> Cultura
 -   `サイン` Autógrafo
 -   `メンズ` Masculino
 -   `レディース` Feminino
@@ -289,6 +296,9 @@
     -   Muito utilizado em frases comparativas, geralmente acompanhando um demonstrativo determinante ou um substantivo + `の`. Indica um lado da comparação.
 -   <font size="5"><code><ruby>字<rt>じ</rt></ruby></code></font> Caligrafia/Letra/Caractere
 -   <font size="5"><code><ruby>文<rt>ぶん</rt>章<rt>しょう</rt></ruby></code></font> Passagem de texto
+-   <font size="5"><code><ruby>段<rt>だん</rt>落<rt>らく</rt></ruby></code></font> Parágrafo
+-   <font size="5"><code><ruby>文<rt>ぶん</rt></ruby></code></font> Frase
+-   <font size="5"><code><ruby>文<rt>ぶん</rt>節<rt>せつ</rt></ruby></code></font> Locução
 -   <font size="5"><code><ruby>背<rt>せ</rt></ruby></code></font> Altura/Estatura
 -   <font size="5"><code><ruby>告<rt>こく</rt>白<rt>はく</rt></ruby></code></font> Confissão/Admissão/Declaração de amor
 -   `つもり` Intenção/Propósito
@@ -297,6 +307,13 @@
 -   <font size="5"><code><ruby>通<rt>つう</rt>知<rt>ち</rt></ruby></code></font> Aviso/Notificação
 -   <font size="5"><code><ruby>変<rt>へん</rt>更<rt>こう</rt></ruby></code></font> Mudança/Modificação/Alteração
 -   <font size="5"><code><ruby>配<rt>はい</rt>達<rt>たつ</rt></ruby></code></font> Entrega (de algum item)
+-   <font size="5"><code><ruby>伝<rt>でん</rt>説<rt>せつ</rt></ruby></code></font> Lenda/Folclore
+-   `レベル` Nível
+-   <font size="5"><code><ruby>最<rt>さい</rt>初<rt>しょ</rt></ruby></code></font> Começo/Primeiro (antes)
+-   <font size="5"><code><ruby>呼<rt>よ</rt></ruby>び<ruby>捨<rt>す</rt></ruby>て</code></font> Ato de chamar alguém sem o título honorífico
+    -   Só pode ser feito com pessoas com quem se tem intimidade.
+-   `ダイエット` Dieta
+-   <font size="5"><code><ruby>数<rt>かず</rt></ruby></code></font> Quantidade
 
 ### <ruby>気<rt>き</rt>持<rt>も</rt>ち</ruby> - Sentimentos e Sensações
 
@@ -305,6 +322,7 @@
 -   <font size="5"><code><ruby>危<rt>き</rt>険<rt>けん</rt></ruby></code></font> Perigo
 -   `ストレス` Estresse
 -   `あじ` Sabor
+-   <font size="5"><code><ruby>心<rt>しん</rt>配<rt>ぱい</rt></ruby></code></font> Preocupação
 
 ### Condições
 
@@ -368,7 +386,7 @@
 -   `レシート` Recibo
 -   `グッズ` Produto
 -   `やたい` Barraca de comida
--   <font size="5"><code>お<ruby>土産<rt>みやげ</rt></ruby></code></font> Lembrancinha
+-   <font size="5"><code>お<ruby>土産<rt>みやげ</rt></ruby></code></font> Lembrancinha/Souvenir
 -   `クレジットカード` Cartão de crédito
 -   `プレゼント` Presente
 -   `はんがく` Metade do preço
@@ -385,6 +403,7 @@
 ### Veículos
 
 -   <font size="5"><code><ruby>電<rt>でん</rt>車<rt>しゃ</rt></ruby></code></font> Trem (elétrico)
+-   `メトロ` Metrô (sistema)
 -   <font size="5"><code><ruby>地<rt>ち</rt>下<rt>か</rt>鉄<rt>てつ</rt></ruby></code></font> Metrô
 -   <font size="5"><code><ruby>新<rt>しん</rt>幹<rt>かん</rt>線<rt>せん</rt></ruby></code></font> Trem-bala
 -   `タクシー` Táxi
@@ -401,6 +420,7 @@
 
 ## Atividades
 
+-   <font size="5"><code><ruby>種<rt>しゅ</rt>目<rt>もく</rt></ruby></code></font> Evento
 -   `カラオケ` Karaoke
 -   `プロジェクト` Projeto
 -   `ミーティング` Reunião
@@ -408,7 +428,6 @@
 -   <font size="5"><code><ruby>旅<rt>りょ</rt>行<rt>こう</rt></ruby></code></font> Viagem
 -   `かんこう` Passeio turístico
 -   `イベント` Evento
--   `マラソン` Maratona
 -   `ハイキング` Caminhada
 -   `キャンプ` Acampamento
 -   `ヨガ` Yoga
@@ -439,7 +458,7 @@
 -   `プレゼン` Apresentação
 -   `パフォーマンス` Performance
 -   `カラオケ` Karaokê
--   `しあい` Partida/Jogo
+-   <font size="5"><code><ruby>試合<rt>しあい</rt></ruby></code></font> Partida/Jogo
 -   `バレエ` Balé
 -   `パフォーマンス` Atuação
 -   `ブログ` Blog
@@ -461,13 +480,10 @@
 -   <font size="5"><code><ruby>散<rt>さん</rt>歩<rt>ぽ</rt></ruby></code></font> Passeio
 -   `SNS` Rede social
 -   `こうこく` Propaganda
--   `すいえい` Nado
 -   `けんか` Briga
 -   `えんぎ` Atuação
 -   `アプリ` Aplicativo
 -   `きんトレ` Musculação
--   `サイクリング` Ciclismo
--   `サーフィン` Surf
 -   <font size="5"><code><ruby>結<rt>けっ</rt>婚<rt>こん</rt>式<rt>しき</rt></ruby></code></font> Casamento
     -   `プロポーズ` Pedido de casamento
 -   `スピーチ` Discurso
@@ -475,11 +491,15 @@
 -   `プログラミング` Programação
 -   `しゅみ` Hobby
 -   `つり` Pesca
--   `たっきゅう` Pingue-pongue/Tênis de mesa
 -   `じゅんび` Preparação
 -   `デート` Encontro
 -   <font size="5"><code><ruby>手<rt>て</rt>洗<rt>あら</rt><rt></rt></ruby>い</code></font> Lavar as mãos
 -   <font size="5"><code><ruby>七夕<rt>たなばた</rt></ruby></code></font> Festival das Estrelas
+-   `じゃんけん` Pedra-papel-tesoura
+    -   `じゃんけんポン` Ao jogar
+    -   `グー` Pedra
+    -   `パー` Papel
+    -   `チョキ` Tesoura
 
 ### <ruby>学<rt>がっ</rt>校<rt>こう</rt></ruby> - Escola
 
@@ -492,7 +512,7 @@
 -   `そつぎょう` Graduação
 -   `りゅうがく` Intercâmbio
 -   `せいせき` Notas
--   <font size="5"><code><ruby>教<rt>きょう</rt>科<rt>か</rt>書<rt>しょ</rt></ruby></code></font> Livro-texto
+-   <font size="5"><code><ruby>教<rt>きょう</rt>科<rt>か</rt>書<rt>しょ</rt></ruby></code></font> Livro didático
 -   <font size="5"><code><ruby>作<rt>さく</rt>文<rt>ぶん</rt></ruby></code></font> Redação
 
 #### Áreas de Estudo
@@ -502,7 +522,7 @@
 -   `ぶんがく` Literatura
 -   `せいぶつがく` Biologia
 -   `けいざいがく` Economia
--   `れきし` História
+-   <font size="5"><code><ruby>歴<rt>れき</rt>史<rt>し</rt></ruby></code></font> História
 -   `たいいく` Educação Física
 -   `びじゅつ` Arte
 
@@ -513,9 +533,9 @@
 -   `バスケットボール` Basquete
 -   `バレーボール` Vôlei
 -   <font size="5"><code><ruby>野<rt>や</rt>球<rt>きゅう</rt></ruby></code></font> Beisebol
--   `からて` Caratê
+-   <font size="5"><code><ruby>空<rt>から</rt>手<rt>て</rt></ruby></code></font> Caratê
 -   `テニス` Tênis
--   `じゅうどう` Judô
+-   <font size="5"><code><ruby>柔<rt>じゅう</rt>道<rt>どう</rt></ruby></code></font> Judô
 -   `バドミントン` Badminton
 -   `スケート` Patinação no gelo
 -   `スキー` Esqui
@@ -526,6 +546,14 @@
 -   `ジョギング` Corrida
 -   `ボクシング` Boxe
 -   `ボール` Bola
+-   `オリンピック` Olimpíadas
+-   <font size="5"><code><ruby>水<rt>すい</rt>泳<rt>えい</rt></ruby></code></font> Nado
+-   <font size="5"><code><ruby>陸<rt>りく</rt>上<rt>じょう</rt></ruby></code></font> Atletismo
+-   <font size="5"><code><ruby>体<rt>たい</rt>操<rt>そう</rt></ruby></code></font> Ginástica/Aquecimento
+-   `マラソン` Maratona
+-   `サイクリング` Ciclismo
+-   `サーフィン` Surf
+-   <font size="5"><code><ruby>卓<rt>たっ</rt>球<rt>きゅう</rt></ruby></code></font> Pingue-pongue/Tênis de mesa
 
 ## <ruby>音<rt>おん</rt>楽<rt>がく</rt></ruby> - Música
 

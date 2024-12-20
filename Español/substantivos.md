@@ -165,6 +165,7 @@
 -   `Hoja de papel` Folha de papel
 -   `Ratón` Mouse
 -   `Cadena` Corrente
+-   `Monumento`
 
 ## Abstratos
 
@@ -297,6 +298,8 @@
 -   `Lado`
 -   `Carrera` Carreira
 -   `Lunar` Bolinha (padrão de bolinhas) 🚹
+-   `Uso`
+-   `Mayoría` Maioria
 
 ### Medidas
 
@@ -378,6 +381,7 @@
 -   `Competencia` Competição/Torneio 🚺
 -   `Patada` Chute
 -   `Boda` Cerimônia de casamento
+-   `Festival`
 
 ### Compras
 

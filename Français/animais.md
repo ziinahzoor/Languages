@@ -5,10 +5,12 @@
 -   `Chien` Cachorro 🚹
 -   `Chouette` Coruja 🚺
 -   `Cochon` Porco
--   `Poisson` Peixe
 -   `Vache` Vaca
 -   `Perroquet` Papagaio
 -   `Poisson` Peixe
+    -   `Saumon` Salmão
+    -   `Morue` Bacalhau 🚺
+    -   `Thon` Atum
 -   `Dinosaur` Dinossauro
 -   `Singe` Macaco
 -   `Souris` Rato 🚺
@@ -30,7 +32,6 @@
 -   `Mouton` Ovelha 🚹
     -   `Agneau` Cordeiro
 -   `Grenouille` Sapo 🚺
--   `Morue` Bacalhau 🚺
 -   `Pingouin` Pinguim
 -   `Papillon` Borboleta 🚹
 -   `Abeille` Abelha

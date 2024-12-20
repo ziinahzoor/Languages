@@ -24,6 +24,7 @@
 -   `Vaokses` Aranha ☀️
 -   `Vōljes` Corvo (Raven) ☀️
 -   `Vandis` Touro ☀️
+-   `Qryldes` Javali ☀️
 
 ## Lunares
 

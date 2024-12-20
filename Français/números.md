@@ -78,6 +78,10 @@
 -   `Demi` Meio
 -   `Moitié` Metade
 
+## Coletivos
+
+-   `Douzaine` Dúzia
+
 ## L'Argent - Dinheiro
 
 -   `Centime` Centavo

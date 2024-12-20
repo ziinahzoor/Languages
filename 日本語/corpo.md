@@ -11,7 +11,7 @@
             -   <font size="5"><code><ruby>歯<rt>は</rt></ruby></code></font> Dente
         -   `ひげ` Barba
     -   <font size="5"><code><ruby>耳<rt>みみ</rt></ruby></code></font> Orelha
--   `くび` Pescoço
+-   <font size="5"><code><ruby>首<rt>くび</rt></ruby></code></font> Pescoço
     -   `のど` Garganta
 -   `うで` Braço
     -   <font size="5"><code><ruby>手<rt>て</rt></ruby></code></font> Mão

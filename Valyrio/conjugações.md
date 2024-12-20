@@ -201,10 +201,38 @@
 -   O agente pode ser introduzido conjugando `ondos` no genitivo de forma pospositiva ao substantivo agente. Ex.: `... valo ondoso...` "... pelo homem".
     -   Se `ondos` é utilizado, o agente pode ser definido ou indefinido, se não é utilizado o agente é sempre indefinido ou genérico.
 
-## Instrumental-passivo
+## Afixos verbais
 
--   Coisas inanimadas não podem tecnicamente ser os sujeitos de verbos, como por exemplo "a faca corta". Então é necessário conjugar o verbo na voz ativa com um prefixo para formar o instrumental-passivo:
+### Continuativo
+
+-   Indica que algo continua a acontecer.
+-   Prefixa-se `jor-` antes de vogais e `r`, e `jo-` antes de consoantes.
+
+### Oblíquo-aplicativo
+
+-   É um marcador de valência: Tranforma um objeto indireto em objeto direto.
+-   Prefixa-se `i-` ou `j-` ao verbo.
+    -   As regras não são claras quanto a qual utilizar.
+-   Prefixos adicionais (vêm antes dos prefixos oblíquo-aplicativos):
+    -   `syt-`: "Para" ou "com" algo/alguém.
+
+### Locativo-aplicativo
+
+-   É um marcador de valência: Transforma uma locução adposicional em um objeto indireto.
+-   Formação do locativo-aplicativo:
+    -   Verbos começando com `i` e `u`: Prefixar `v-`.
+    -   Qualquer outro verbo: Prefixar `u-`.
+-   Prefixos adicionais (vêm antes dos prefixos locativo-aplicativos):
+    -   `bē-`: "Sobre" algo.
+    -   `gō-` "Embaixo" ou "abaixo" de algo.
+    -   `rȳ-`: "Através de" ou "entre" algo.
+
+### Instrumental-passivo
+
+-   É um marcador de valência: Transforma um instrumento no sujeito da frase.
+-   Coisas inanimadas não podem tecnicamente ser os sujeitos de verbos, como por exemplo "a faca corta".
+-   Formação do instrumental-passivo:
     -   Verbos começando com `p`, `t`, `k`, e `q`: Prefixar `s-`.
     -   Verbos começando com `b`, `d`, `g`, `l` e `r`: Prefixar `z-`.
-    -   Verbos começando com qualquer vogal exceto `e` e `o`: Prefixar `h-`.
+    -   Verbos começando com qualquer vogal exceto `e` e `o` curtos: Prefixar `h-`.
     -   Qualquer outro verbo: Prefixar `a-`.

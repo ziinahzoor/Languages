@@ -116,6 +116,7 @@
 -   `Athlète` Atleta
 -   `Couple` Casal
 -   `Habitant` Habitante
+-   `Piéton` Pedestre
 
 ## La famille - Família
 

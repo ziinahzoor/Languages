@@ -183,7 +183,6 @@ const japanese = {
 		{ page: 'dialetos', displayName: 'Dialetos' },
 		{ page: 'expressões', displayName: 'Expressões' },
 		{ page: 'frases', displayName: 'Frases' },
-		{ page: 'honoríficos', displayName: 'Honoríficos' },
 		{ page: 'ideofones', displayName: 'Ideofones' },
 		{ page: 'kanji', displayName: 'Kanji' },
 		{ page: 'keigo', displayName: 'Keigo' },

@@ -73,6 +73,7 @@
 ### La Chambre - Quarto
 
 -   `Lit` Cama 🚹
+    -   `Pieu` Gíria 🚹
 -   `Armoire` Guarda-roupas
 
 ### Outros
@@ -159,6 +160,7 @@
 -   `Crème solaire` Protetor solar 🚺
 -   `Affiche` Poster 🚺
 -   `Canette` Lata
+    -   `Boîte de conserve` Lata de comida enlatada
 -   `Serviette` Guardanapo 🚺
 -   `Seau` Balde
 -   `Serpillère` Esfregão 🚺
@@ -173,6 +175,9 @@
 -   `Déchet` Dejeto/Lixo
 -   `Cachet` Comprimido
 -   `Bougie` Vela
+-   `Panneau` Placa/Painel 🚹
+-   `Fontaine` Fonte
+-   `Pot` Pote
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -189,6 +194,7 @@
 -   `Radio` Rádio 🚺
 -   `Réfrigérateur` Refrigerador
     -   `Frigo` Geladeira 🚹
+-   `Congélateur` Congelador
 -   `Imprimante` Impressora
 -   `Machine à laver` Máquina de lavar
 -   `Caméra` Filmadora
@@ -363,6 +369,12 @@
 -   `Régime` Regime/Dieta
 -   `Responsabilité` Responsabilidade
 -   `Livraison` Entrega
+-   `Retrouvaille` Reencontro
+-   `Dépaysement` Mudança de ambiente ou hábitos
+-   `Intention` Intenção
+-   `Mélange` Mistura 🚺
+-   `Odeur` Cheiro
+-   `Saveur` Sabor 🚺
 
 ### Sentimentos, condições e emoções
 
@@ -406,6 +418,8 @@
 -   `Bagage` Bagagem
 -   `Billet` Passagem 🚹
 -   `Voiture` Carro 🚺
+    -   `Bagnole/Caisse` Gírias 🚺
+-   `Camion` Caminhão
 -   `Train` Trem 🚺
 -   `Avión` Avião
 -   `Métro` Metrô (Veículo)
@@ -479,6 +493,7 @@
 -   `Roman` Romance (livro)
 -   `Poème` Poema
 -   `Comédie` Comédia
+-   `Toboggan` Escorregador/Tobogã
 
 ### Compras
 

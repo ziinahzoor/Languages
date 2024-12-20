@@ -184,6 +184,9 @@
 -   `Grabar` Gravar
 -   `Golpear` Acertar/Bater
 -   `Dejar` Deixar
+-   `Secar`
+-   `Bajarse` Descer
+-   `Funcionar`
 
 ## Los verbos -er
 
@@ -205,6 +208,7 @@
     -   `Volverse` Tornar-se
 -   `Hacer` Fazer
     -   `Hacer clic` Clicar
+    -   `Hacer cola` Fazer fila
 -   `Creer` Acreditar
 -   `Toucher` Tocar
 -   `Ver`

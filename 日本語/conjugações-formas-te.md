@@ -81,7 +81,7 @@
 
 -   Forma proibitiva: "não se deve fazer...".
 -   É mais autoritária e restritiva que `ないで`, que tem um tom de aviso ou pedido.
--   `いけない` pode ser trocado pela versão mais educada `いけません`, ou de forma mais comum na escrita, `ならない`. Informalmente também pode ser trocado por `ダメ` na conversação.
+-   `いけない` pode ser trocado pela versão mais educada `いけません`, ou de forma mais comum na escrita, `ならない`. Casualmente também pode ser trocado por `ダメ` na conversação.
 -   Muitas vezes o `ては` também é abreviado para `ちゃ` (e o `では` para `じゃ`).
 
 <h2 id="var_obrigativa">Forma なく+て+はいけない - Obrigativa</h2>

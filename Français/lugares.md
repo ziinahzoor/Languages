@@ -79,6 +79,7 @@
 
 ## La Maison - Casa
 
+-   `Baraque` Barraco (Gíria) 🚺
 -   `Foyer` Lar
 -   `Appartement` Apartamento
 -   `Toilette` Banheiro
@@ -121,6 +122,7 @@
 -   `Aéroport` Aeroporto
 -   `Hôpital` Hospital
 -   `Hôtel` Hotel
+-   `Épicerie` Mercearia
 -   `Supermarché` Supermercado
     -   `Marché` Mercado
 -   `Magasin` Loja
@@ -167,6 +169,7 @@
 -   `Monde` Mundo
 -   `Entreprise` Empresa
 -   `Bureau de Poste` Correios
+    -   `Poste` Abreviação 🚺
 -   `Arrondissement` Distrito
 -   `Quartier` Bairro
 -   `Hôtel de ville` Prefeitura
@@ -212,6 +215,8 @@
 -   `Agence` Agência
 -   `Ferme` Fazenda
 -   `Jungle` Selva
+-   `Cirque` Circo
+-   `Carrefour` Encruzilhada/Cruzamento/Interseção 🚹
 
 ## France - França
 

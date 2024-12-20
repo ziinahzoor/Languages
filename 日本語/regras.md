@@ -112,8 +112,10 @@
     -   Se usados com adjetivos, estes devem usar a forma `く`.
 -   O japonês possui algumas palavras que são adaptações do inglês que não são realmente usadas no inglês, chamadas <font size="5"><code><ruby>和<rt>わ</rt>製<rt>せい</rt>英<rt>えい</rt>語<rt>ご</rt></ruby></code></font>. Ex: `ポケモン` e `ファミコン`.
 -   O japonês costuma evitar pleonasmos (<font size="5"><code><ruby>重<rt>かさ</rt></ruby>ね<ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby></code></font>), usando construções gramaticais para isso.
+-   `分からない` e `知らない` possuem uma certa sobreposição nos seus significados (principalmente para dizer "não sei"). Mas o primeiro é mais usado para se referir a si, enquanto o segundo é mais usado para se referir a outra pessoa.
+    -   Exceto em perguntas envolvendo um dos verbos diretamente, pois nesse caso, se responde com o mesmo verbo usado pra pergunta.
 
-## タメ<ruby>口<rt>ぐち</rt></ruby> - Conversa Informal
+## タメ<ruby>口<rt>ぐち</rt></ruby> - Conversa Casual/Informal
 
 -   Abreviar `です` para `っす`
 -   Abreviar a forma `ている` para `てる`.

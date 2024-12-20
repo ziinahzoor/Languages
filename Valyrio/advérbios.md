@@ -37,3 +37,7 @@
 -   `Kostōbirī` Fortemente/Poderosamente
 -   `Qubirī` Mal/Pobremente/Insuficientemente
 -   `Naenī` Muitos
+-   `Dōnirī` Docemente/Agradavelmente
+-   `Lykirī` Calmamente/Silenciosamente
+-   `Kōrī` Malignamente
+-   `Mandirī` Gentilmente/Cordialmente

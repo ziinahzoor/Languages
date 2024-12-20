@@ -6,3 +6,7 @@
     -   Complemento geralmente está no locativo.
 -   `Hae` Como (Da mesma maneira que)
     -   Complemento geralmente está no locativo.
+
+# Posposições
+
+-   `Syt` Por/No nome de

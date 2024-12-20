@@ -23,6 +23,7 @@
 -   `Bello` Belo
 -   `Bonito`
 -   `Hermoso` Bonito
+-   `Lindo`
 -   `Guapo` Bonito (Pessoas)
 -   `Perfecto` Perfeito
 -   `Interesante` Interessante
@@ -203,3 +204,6 @@
 -   `Cariño` Querido
 -   `Individual`
 -   `Recto` Reto
+-   `Enorme`
+-   `Entero` Inteiro
+-   `Principal`

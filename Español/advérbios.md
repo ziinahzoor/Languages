@@ -71,6 +71,7 @@
 -   `A la venta` À venda
 -   `Igual`
 -   `Contra`
+-   `A través` Através
 
 ## De modo
 
@@ -92,3 +93,4 @@
 -   `Incluso` Até/Mesmo
 -   `Especialmente`
 -   `Exactamente` Exatamente
+-   `Solamente` Somente

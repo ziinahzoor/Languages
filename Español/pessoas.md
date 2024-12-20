@@ -2,6 +2,7 @@
 
 -   `Multitud` Multidão
 -   `Miembro` Membro
+-   `Habitante`
 -   `Adulto`
 -   `Niño` Menino
 -   `Chico` Rapaz

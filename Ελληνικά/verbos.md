@@ -6,7 +6,7 @@
 -   `Κάνω` Fazer (Realizar uma ação)
     -   Também pode significar "custar"
 -   `Φτιάχνω` Fazer/Criar/Construir
--   `Θέλω` Querer
+-   `Θέλω` Querer/Necessitar/Requerer
 -   `Πίνω` Beber
 -   `Τρώω` Comer
 -   `Διαβάζω` Ler/Estudar

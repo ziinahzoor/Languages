@@ -106,6 +106,8 @@
     -   Artigo + substantivo + possessivo + adjetivo.
 -   Quando um pronome pessoal é utilizado em uma posição que pode ser confundido com um adjetivo possessivo, é utilizado um acento no pronome para diferenciação. Ex.: `Η δασκάλα μου είπε` "MEU professor disse"/ `Η δασκάλα μού είπε` "O professor ME disse".
     -   Quando ambos são utilizados, não é necessário o acento: `Η δασκάλα μου μου είπε` "Meu professor me disse".
+-   O reflexivo é formado por artigo + conjugação do adjetivo `εαυτός` em caso + genitivo fraco.
+    -   `εαυτός` é sempre masculino neste caso, portanto o artigo deve seguir o masculino também. Já o pronome genitivo segue o gênero real da pessoa.
 
 > [!TIP]
 > Na linguagem falada, os adjetivos possessivos costumam ser falados após o substantivo e os pronomes dativos após o verbo.
@@ -190,6 +192,7 @@
 -   `Πότε` Quando
 -   `Πού` Onde
 -   `Γιατί` Por que/Por quê/Porque
+-   `Για τι` Para que
 -   `Πώς` Como
 -   `Πόσος` Quanto/Quantos/Quantas
     -   Conjugável

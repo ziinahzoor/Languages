@@ -37,6 +37,8 @@
 -   `Hēdys` Açougueiro/Algoz ☀️
 -   `Dothraki` 🌙
 -   `Valyry` Valiriano 🌙
+-   `Jollōriros` Estudante ☀️
+-   `Uēpys` Ancião ☀️
 
 ## Lentor - Família 🌊
 
@@ -114,3 +116,4 @@
 -   `Jaqen` 🌙
 -   `Illyrio` 🌙
 -   `Varys` ☀️
+-   `Lyki Mandī` Irmãs Silenciosas 🌙

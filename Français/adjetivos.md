@@ -42,6 +42,7 @@
 ## Aparência
 
 -   `Bouclé` Cacheado
+-   `Frisé` Encaracolado
 -   `Raide` Liso (cabelo)
 -   `Chauve` Calvo/Careca
 -   `Blond` Loiro
@@ -70,6 +71,9 @@
     -   `Vieil` Se começa com som de vogal
 -   `Vielle` Velha
 -   `Ancien` Antigo
+-   `Âgé` Idoso
+-   `Aîné` Primogênito/Mais velho (relativo)
+    -   `Ainé` Pós-reforma de 90
 
 ## Tamanho/Altura/Peso
 
@@ -90,7 +94,8 @@
 -   `Individuel` Individual
 -   `Simple` Singular/Simples/Único
 -   `Double` Duplo
--   `Seul` Único/Sozinho
+-   `Seul` Só/Único
+-   `Unique` Único
 -   `Ensemble` Juntos
 -   `Vide` Vazio
 -   `Complet` Completo/Cheio
@@ -161,6 +166,8 @@
 -   `Hanté` Assombrado
 -   `Propre` Próprio
 -   `Rangé` Arrumado
+-   `Municipal`
+-   `Fait maison` Caseiro
 
 ### Personalidade
 
@@ -168,6 +175,7 @@
 -   `Méchant` Mau
 -   `Gentil` Gentil/Bom
 -   `Aimable` Amável
+-   `Adorable` Adorável
 -   `Intelligent` Inteligente
 -   `Sympa` Simpático/Legal (Nice)
 -   `Paresseux` Preguiçoso
@@ -178,6 +186,7 @@
 -   `Égoïste` Egoísta
 -   `Généreux` Generoso
 -   `Courageux` Corajoso
+-   `Antipathique` Antipático
 
 ## Gosto
 
@@ -231,6 +240,9 @@
 -   `Obligé` Obrigado
 -   `Abandonné` Abandonado
 -   `Bienvenu` Bem-vindo
+-   `Debout` Em pé/De pé
+-   `Seul` Sozinho/Solitário
+-   `Divorcé` Divorciado
 
 ### Físicas/Emocionais
 
@@ -242,6 +254,7 @@
 -   `Chaud` Quente/Calor
 -   `Froid` Frio
     -   Também é substantivo
+-   `Frileux` Friorento
 -   `Enceinte` Grávida
 -   `Allergique` Alérgico
 -   `Aveugle` Cego

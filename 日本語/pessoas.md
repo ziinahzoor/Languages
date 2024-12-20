@@ -1,10 +1,16 @@
 # <ruby>人<rt>ひと</rt>々<rt>びと</rt></ruby> - Pessoas
 
+## Genéricas e grupos
+
 -   <font size="5"><code><ruby>方<rt>かた</rt></ruby></code></font> Pessoa (Honorífico [Sonkeigo])
     -   Geralmente pode substituir `人`.
 -   <font size="5"><code><ruby>皆<rt>みんな</rt></ruby></code></font> Todos/Pessoal/Todo mundo
     -   É escrito `みな` quando usado com algum honorífico.
 -   <font size="5"><code><ruby>大<rt>おお</rt>勢<rt>ぜい</rt></ruby></code></font> Multidão
+-   <font size="5"><code><ruby>人<rt>じん</rt>口<rt>こう</rt></ruby></code></font> População
+
+## Específicas
+
 -   <font size="5"><code><ruby>外<rt>がい</rt>国<rt>こく</rt>人<rt>じん</rt></ruby></code></font> Estrangeiro
 -   <font size="5"><code><ruby>大人<rt>おとな</rt></ruby></code></font> Adulto
 -   <font size="5"><code><ruby>女<rt>おんな</rt></ruby></code></font> Mulher
@@ -28,11 +34,15 @@
     -   `ゲスト` Convidado (Evento)
 -   <font size="5"><code>きんじょの<ruby>人<rt>ひと</rt></ruby></code></font> Vizinho
 -   <font size="5"><code>こそ<ruby>泥<rt>どろ</rt></ruby></code></font> Ladrão sorrateiro
+-   <font size="5"><code><ruby>住<rt>じゅう</rt>民<rt>みん</rt></ruby></code></font> Morador
 
 ## Profissões
 
 -   <font size="5"><code><ruby>医<rt>い</rt>者<rt>しゃ</rt></ruby></code></font> Médico
--   <font size="5"><code><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></code></font> Professor/Doutor (Médico)
+-   <font size="5"><code><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></code></font> Professor/Doutor (Médico)/Advogado
+    -   É um título, mais generalizado como "mestre".
+    -   Não deve ser usado para falar de si.
+-   <font size="5"><code><ruby>教<rt>きょう</rt>師<rt>し</rt></ruby></code></font> Professor (escolar/universitário)
 -   <font size="5"><code><ruby>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante
     -   <font size="5"><code><ruby>留<rt>りゅう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante de intercâmbio
     -   <font size="5"><code><ruby>小<rt>しょう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante do primário
@@ -45,6 +55,8 @@
 -   `ちょしゃ` Autor
 -   `エンジニア` Engenheiro
 -   `かいしゃいん` Trabalhador de escritório
+-   `サラリーマン` Trabalhador de escritório
+-   <font size="5"><code><ruby>社<rt>しゃ</rt>長<rt>ちょう</rt></ruby></code></font> Diretor/Presidente (empresa)
 -   `かんごし` Enfermeiro
 -   <font size="5"><code><ruby>警<rt>けい</rt>察<rt>さつ</rt></ruby></code></font> Polícia
 -   `ぶし` Guerreiro
@@ -63,6 +75,10 @@
 -   `アーティスト` Artista
 -   `まんがか` Mangaká
 -   `シェフ` Chef
+-   `オタク` Otaku/Nerd
+-   `ボス` Chefe (de jogos)
+-   `メイド` Empregado doméstico
+-   <font size="5"><code><ruby>選<rt>せん</rt>手<rt>しゅ</rt></ruby></code></font> Atleta
 
 ## <ruby>家<rt>か</rt>族<rt>ぞく</rt></ruby> - Família
 
@@ -128,6 +144,10 @@
 -   <font size="5"><code><ruby>独<rt>どく</rt>身<rt>しん</rt></ruby></code></font> Solteiro
 -   `にんげん` Humano
 -   `アイヌ` Ainu
+
+## Status
+
+-   <font size="5"><code><ruby>初<rt>しょ</rt>心<rt>しん</rt>者<rt>しゃ</rt></ruby></code></font> Iniciante
 
 ## Conjuntos
 

@@ -6,9 +6,10 @@
 
 **Para indicar uma loja que vende alguma coisa, é só adicionar o sufixo <font size="5"><code><ruby>屋<rt>や</rt></ruby></code></font>. Ex.: <font size="5"><code>ぴざ<ruby>屋<rt>や</rt></ruby></code></font> é pizzaria. Para outras instituições mais formais se usa `かん`.**
 
--   `かいじょう` Local
+-   <font size="5"><code><ruby>会<rt>かい</rt>場<rt>じょう</rt></ruby></code></font> Local
 -   <font size="5"><code><ruby>辺<rt>へん</rt></ruby></code></font> Área/Região
--   <font size="5"><code><ruby>辺<rt>あた</rt></ruby>り</code></font> Vizinhança
+-   <font size="5"><code><ruby>近<rt>きん</rt>所<rt>じょ</rt></ruby></code></font> Vizinhança
+-   <font size="5"><code><ruby>辺<rt>あた</rt></ruby>り</code></font> Proximidades/Em volta
 -   <font size="5"><code><ruby>住<rt>じゅう</rt>所<rt>しょ</rt></ruby></code></font> Endereço
 -   <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
     -   <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby></code></font> Honorífico (Teineigo)
@@ -16,7 +17,7 @@
         -   Geralmente é usado para dizer que vai se consumir um produto no local ao invés de levar pra casa.
 -   `せかい` Mundo
 -   <font size="5"><code><ruby>村<rt>むら</rt></ruby></code></font> Vila
--   `しゅと` Capital
+-   <font size="5"><code><ruby>首<rt>しゅ</rt>都<rt>と</rt></ruby></code></font> Capital
 -   `ホテル` Hotel
 -   <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
 -   `ぶんぼうぐ` Papelaria
@@ -61,7 +62,8 @@
     -   `にしぐち` Saída oeste
 -   `じんじゃ` Santuário Xintoísta
 -   `おてら` Templo Budista
--   <font size="5"><code><ruby>建<rt>たて</rt>物<rt>もの</rt></ruby></code></font> Prédio
+-   <font size="5"><code><ruby>建<rt>たて</rt>物<rt>もの</rt></ruby></code></font> Edifício/Edificação/Imóvel
+-   `ビル` Prédio (com vários andares)
 -   <font size="5"><code>パン<ruby>屋<rt>や</rt></ruby></code></font> Padaria
 -   <font size="5"><code>ぴざ<ruby>屋<rt>や</rt></ruby></code></font> Pizzaria
 -   <font size="5"><code>ラーメン<ruby>屋<rt>や</rt></ruby></code></font> Loja de lámen
@@ -72,7 +74,7 @@
 -   `ゆうえんち` Parque temático
 -   <font size="5"><code><ruby>動<rt>どう</rt>物<rt>ぶつ</rt>園<rt>えん</rt></ruby></code></font> Zoológico
 -   `すいぞくかん` Aquário
--   `ひろば` Praça
+-   <font size="5"><code><ruby>広<rt>ひろ</rt>場<rt>ば</rt></ruby></code></font> Praça
 -   <font size="5"><code><ruby>温<rt>おん</rt>泉<rt>せん</rt></ruby></code></font> Fontes termais
 -   <font size="5"><code><ruby>温<rt>おん</rt>泉<rt>せん</rt>宿<rt>やど</rt></ruby></code></font> Hotel termal
 -   <font size="5"><code><ruby>会<rt>かい</rt>社<rt>しゃ</rt></ruby></code></font> Empresa
@@ -129,6 +131,7 @@
 -   `おくじょう` Telhado/Cobertura
 -   `マンション` Apartamento (de alto padrão)
 -   <font size="5"><code><ruby>交<rt>こう</rt>番<rt>ばん</rt></ruby></code></font> Posto policial
+-   <font size="5"><code><ruby>交<rt>こう</rt>差<rt>さ</rt>点<rt>てん</rt></ruby></code></font> Cruzamento/Interseção
 
 ## <ruby>親<rt>しん</rt>戚<rt>せき</rt>所<rt>ところ</rt></ruby> - Lugares Relativos
 
@@ -226,6 +229,7 @@
 -   `マレーシア` Malásia
 -   `フィリピン` Filipinas
 -   `タイ` Thailândia
+-   `インド` Índia
 
 ### ヨーロッパ - Europa
 
@@ -378,3 +382,10 @@
         <span style="color:#CC79EF">Shikoku</span>,
         <span style="color:#B4B4B4">Kyushu</span>
     </strong>
+
+### Linhas de metrô de Tóquio
+
+-   <font size="5"><code><ruby>山<rt>やま</rt>手<rt>のて</rt>線<rt>せん</rt></ruby></code></font> Linha Yamanote (Linha verde-amarelada)
+    -   Conecta Ginza, Shibuya, Shinkuju e Ikebukuro.
+    -   Pertence à empresa JR East, e não à Tokyo Metro Co.
+-   <font size="5"><code><ruby>銀<rt>ぎん</rt>座<rt>ざ</rt>線<rt>せん</rt></ruby></code></font> Linha Ginza (Linha 3 - Laranja)

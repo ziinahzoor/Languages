@@ -17,7 +17,7 @@
 -   `Non` Não (Interjeição)
 -   `Pas` Não
 -   `Aussi` Também (geralmente vem depois do verbo)
-    -   Em comparações, significa "tão"
+    -   `Aussi... que...` Tão... quanto...
 -   `Plus` Mais
 -   `Moins` Menos
 -   `Même` Mesmo
@@ -69,6 +69,7 @@
 -   `D'habitude` Geralmente
 -   `Du tout` De forma alguma
 -   `De toute façon` De qualquer forma/De qualquer maneira
+-   `Tout à l'heure` Daqui a pouco
 -   `Sans le vouloir` Sem querer
 -   `À l'étage` Lá em cima
 -   `À ce moment-là` Logo então
@@ -104,7 +105,7 @@
 -   `Correctement` Corretamente
 -   `Heureusement` Felizmente
 -   `Malheureusement` Infelizmente
--   `Finalement` Finalmente
+-   `Finalement` No fim das contas
 -   `Gravement` Gravemente
 -   `Exactement` Exatamente
 -   `Clairement` Claramente
@@ -115,6 +116,7 @@
 -   `Complètement` Completamente
 -   `Carrément` Definitivamente/Absolutamente
 -   `Actuellement` Atualmente
+-   `Parfaitement` Perfeitamente
 
 ## Os Porquês
 

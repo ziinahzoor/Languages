@@ -35,6 +35,12 @@
 -   `Rongenka` De couro
 -   `Kyrstenka` De tecido/De pano
 -   `Kȳdrenka` De seda
+-   `Dōna` Doce/Agradável
+-   `Jorrāeliarza` Querido/Amado
+-   `Hobrenka` Estúpido/Idiota/Imbecil
+-   `Lyka` Calmo/Quieto/Silencioso
+-   `Manda` Gentil
+-   `Kara` Grandioso/Magnífico
 
 ## Classe II
 
@@ -44,6 +50,8 @@
 -   `Biare` Sortudo
 -   `Dārōñe` Real (de realeza)
 -   `Litse` Fofo/Belo
+-   `Mēre` Só/Sozinho/Único
+-   `Kōz` Mau
 
 ## Classe III
 

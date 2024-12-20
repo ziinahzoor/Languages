@@ -72,6 +72,7 @@
 -   `Portón` Portão
 -   `Pasillo` Corredor
 -   `Corredor`
+-   `Terraza` Terraço/Varanda 🚺
 
 ## Outros
 
@@ -107,6 +108,7 @@
 -   `Librería` Livraria
 -   `Dirección` Endereço
 -   `Piso` Andar
+-   `Plaza` Praça
 -   `Playa` Praia
 -   `Piscina`
 -   `Cine` Cinema
@@ -146,3 +148,9 @@
 -   `Vestíbulo` Saguão
 -   `Mezquita` Mesquita
 -   `Escenario` Palco
+-   `Barrio` Bairro
+-   `Circo`
+-   `Panadería` Padaria
+-   `Frutería` Frutaria
+-   `Quiosco` Banca de jornal 🚹
+-   `Afueras` Periferia

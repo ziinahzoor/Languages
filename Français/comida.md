@@ -1,5 +1,8 @@
 # Les Nourritures - Comida
 
+-   `Ingrédient` Ingrediente
+-   `Casse-dalle` Quebra-fome (Gíria)
+    -   Significa algum aperitivo ou lanche, geralmente um sanduíche de baguete.
 -   `Pizza`
 -   `Croissant`
 -   `Sucre` Açúcar
@@ -41,16 +44,10 @@
 -   `Purée` Purê/Mingau
 -   `Pain grillé` Torrada 🚹
 -   `Jambon` Presunto
--   `Oignon` Cebola
-    -   `Ognon` Pós-reforma de 90
--   `Champignon` Cogumelo
--   `Carotte` Cenoura
 -   `Bonbon` Doce
 -   `Sushi`
 -   `Frite salée` Batata frita
--   `Piment` Pimenta 🚹
 -   `Poivre` Pimenta (Tempero)
--   `Poivron` Pimentão
 -   `Épice` Tempero 🚺
 -   `Omelette` Omelete
 -   `Crème fraîche` Nata
@@ -64,12 +61,25 @@
 -   `Moutarde` Mostarda
 -   `Sauce` Molho 🚺
 -   `Tarte` Torta
+-   `Cacahuète` Amendoim 🚺
+-   `Lardon` Bacon
 
 ## Les Légumes - Vegetais
 
 -   `Pomme de terre` Batata
 -   `Riz` Arroz
 -   `Haricot` Feijão
+-   `Brocoli` Brócolis
+-   `Concombre` Pepino
+-   `Poivron` Pimentão
+-   `Oignon` Cebola
+    -   `Ognon` Pós-reforma de 90
+-   `Piment` Pimenta 🚹
+-   `Champignon` Cogumelo
+-   `Carotte` Cenoura
+-   `Épinard` Espinafre
+-   `Maïs` Milho
+-   `Petit pois` Ervilha 🚹
 
 ## Les Fruits - Frutas 🚹
 
@@ -78,7 +88,7 @@
 -   `Fraise` Morango 🚺
 -   `Banane` Banana
 -   `Pomme` Maçã
--   `Pêche` Pêssego
+-   `Pêche` Pêssego 🚺
 -   `Citron` Limão (amarelo)
 -   `Lime` Limão (verde) F
     -   `Limon`
@@ -109,12 +119,13 @@
     -   `Rouge` Tinto
     -   `Blanc` Branco
     -   `Rosé`
+    -   `Pinard` Vinho barato (Gíria)
 -   `Soda` Refrigerante
 -   `Limonade` Limonada com gás
 -   `Champagne` Champanhe
 -   `Chocolat chaud` Chocolate quente
 
-## Les repas - Refeições
+## Les Repas - Refeições
 
 -   `Repas` Refeição 🚹
 -   `Petit déjeuner` Café da manhã

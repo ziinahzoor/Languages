@@ -75,3 +75,7 @@
     -   Traje tradicional japonês.
 -   <font size="5"><code><ruby>浴衣<rt>ゆかた</rt></ruby></code></font> Yukata
     -   Kimono de algodão leve usado no verão ou como roupão de banho.
+
+## Outros
+
+-   `コスプレ` Cosplay

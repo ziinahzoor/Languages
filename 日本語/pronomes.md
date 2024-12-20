@@ -199,3 +199,7 @@
 ## Possessivos
 
 -   Para formar o possessivo, basta adicionar `の` ao pronome pessoal.
+
+## Reflexivos
+
+-   Se usa somente o pronome <font size="5"><code><ruby>自<rt>じ</rt>分<rt>ぶん</rt></ruby></code></font> com qualquer pessoa, sendo esta definida pelo contexto da conversa.

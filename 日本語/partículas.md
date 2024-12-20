@@ -23,7 +23,7 @@
 -   Também pode ser marcadora paralela e finalizadora.
 -   `Função genitiva`: indica a posse ou a caracterização de alguma coisa.
     -   Funciona como o apóstrofe em inglês.
--   `Função interrogativa informal`: pode substituir a partícula `か` em perguntas, dando um tom mais casual e suave.
+-   `Função interrogativa casual`: pode substituir a partícula `か` em perguntas, dando um tom mais casual e suave.
     -   Adjetivos-な e substantivos devem utilizar o sufixo `な`.
 -   `Função nominalizadora`: transforma verbos e adjetivos em substantivos.
     -   É a base das expressões explicativas `のだ` e `のです`.

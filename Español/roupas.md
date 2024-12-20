@@ -50,6 +50,7 @@
 
 -   `Media` Meia
 -   `Zapato` Sapato
+    -   `Zapato deportivo` Tênis
 -   `Botas`
 -   `Calcetín` Meia 🚹
 -   `Patín` Patins
@@ -60,3 +61,4 @@
 -   `Cartera` Carteira/Bolsa
 -   `Bolsa`
 -   `Collar` Colar
+-   `Bolsillo` Bolso

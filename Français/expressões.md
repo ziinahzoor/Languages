@@ -42,22 +42,32 @@
 -   `C'est de la bombe/C'est de la boulette` Isso é demais/Isso é o máximo
 -   `C'est une tuerie` Isso é do caramba/Esse é o negócio
 -   `Qui dit..., dit...` Onde há fumaça, há fogo
+-   `Se prendre un râteau` Ser rejeitado
+-   `Poser un lapin` Dar um bolo
+-   `Être fauché comme les blés` Estar quebrado/Pobre
+-   `Courir sur le haricot` Dar nos nervos de alguém
+-   `Être rond comme une queue de pelle` Estar completamente bêbado
+-   `Avoir le cul bordé de nouilles` Ter muita sorte
+-   `Ça ne casse pas trois pattes à un canard` Não é nada demais
 
 ## Verlan
 
 **`Verlan` são gírias formadas pela inversão das sílabas de uma palavra. É `L'inverse` ao contrário**
 
+-   `Cimer` Obrigado
+-   `Venere/Vener` Irritado
 -   `Teuf` Festa
+    -   `Résoi` Mais usado pelos jovens
 -   `Meuf` Mulher
 -   `Reuf` Irmão
 -   `Reum` Mãe
--   `Relou` Irritante
+-   `Relou` Irritante/Chato
 -   `Vénère` Irritado
--   `Chelou` Suspeito
+-   `Chelou` Suspeito/Esquisito
 -   `Ouf` Doido/Irado
 -   `Tromé` Metrô
 -   `Oit et Oim` Tu e eu
--   `Chanmé` Legal
+-   `Chanmé` Legal/Fantástico/Incrível
 -   `À donf` Ao máximo
 -   `À oilpé` Pelado
 -   `Reuch` Caro
@@ -65,3 +75,24 @@
 -   `Teubé` Estúpid
 -   `Barbe` Barba
 -   `Tof` Foto
+-   `Keuf` Polícia
+-   `Nawak` Mentira
+
+## Ofensas e linguagem de baixo calão
+
+-   `Andouille` Burro/Estúpido
+-   `Glandu` Burro
+-   `Tabarnak` Caramba (Quebecois)
+-   `Beauf` Bruto/Estúpido
+-   `Naze` Idiota
+-   `Chiant` Pé no saco
+-   `Branleur` Preguiçoso/P\*nheteiro
+-   `Blaireau` Imbecil
+-   `Ta gueule` Cala a boca
+    -   `Ferme-la/La ferme` Menos rude
+-   `Sac à merde` Saco de b\*sta/Pedaço de m\*rda
+-   `Trou de balle/Trou du cul` C\*zão
+-   `Va te faire foutre` Vai se f\*der
+-   `Enculé` F\*dido
+-   `Fils de pute` Filho da p\*ta
+-   `Nique ta mère/Baise ta mère` F\*der a mãe

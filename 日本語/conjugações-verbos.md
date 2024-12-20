@@ -4,12 +4,12 @@
     <thead>
         <tr>
             <th>Base</th>
-            <th colspan="5">Forma</th>
+            <th colspan="6">Forma</th>
         </tr>
     </thead>
     <tr>
         <th><a href="#base-a">Base あ</a></th>
-        <td><a href="#negativa">Negativa</a></td>
+        <td colspan="2"><a href="#negativa">Negativa</a></td>
         <td><a href="#passiva">Passiva</a></td>
         <td><a href="#causativa">Causativa</a></td>
         <td colspan="2"><a href="#causativo-passiva">Causativo-passiva</a></td>
@@ -18,32 +18,33 @@
         <th><a href="#base-i">Base い</a></th>
         <td><a href="#nominal">Nominal (Gerúndio)</a></td>
         <td><a href="#educada">Educada</a></td>
+        <td><a href="#pejorativa">Pejorativa</a></td>
         <td><a href="#desejo">Desejo</a></td>
         <td><a href="#aparente">Aparente</a></td>
         <td><a href="#composta">Composta</a></td>
     </tr>
     <tr>
         <th><a href="#base-u">Base う</a></th>
-        <td colspan="2"><a href="#plana">Plana</a></td>
+        <td colspan="3"><a href="#plana">Plana</a></td>
         <td colspan="3"><a href="#atributiva">Atributiva</a></td>
     </tr>
     <tr>
         <th><a href="#base-e">Base え</a></th>
         <td colspan="2"><a href="#condicional">Condicional</a></td>
-        <td><a href="#potencial">Potencial</a></td>
+        <td colspan="2"><a href="#potencial">Potencial</a></td>
         <td colspan="2"><a href="#imperativa">Imperativa</a></td>
     </tr>
     <tr>
         <th><a href="#base-o">Base お</a></th>
-        <td colspan="5"><a href="#volicional">Volicional</a></td>
+        <td colspan="6"><a href="#volicional">Volicional</a></td>
     </tr>
     <tr>
-        <th rowspan="3"><a href="#base-eufonica">Base Eufônica</a></th>
-        <td><a href="#forma-ta">Forma た</a></td>
-        <td colspan="4"><a href="#forma-te">Forma て</a></td>
+        <th><a href="#base-eufonica">Base Eufônica</a></th>
+        <td colspan="3"><a href="#forma-ta">Forma た</a></td>
+        <td colspan="3"><a href="#forma-te">Forma て</a></td>
     </tr>
     <tr>
-        <th colspan="6"><a href="#outras-formas">Outras</a></th>
+        <th colspan="7"><a href="#outras-formas">Outras</a></th>
     </tr>
 </table>
 
@@ -180,8 +181,13 @@
 
 <h3 id="var_educada"><ruby>丁<rt>てい</rt>寧<rt>ねい</rt>形<rt>けい</rt></ruby> - Forma educada (ます)</h3>
 
--   `ます` é um verbo auxiliar que serve somente para o discurso honorífico.
+-   `ます` é um verbo auxiliar que serve somente para o <font size="5"><code><ruby>丁<rt>てい</rt>寧<rt>ねい</rt>語<rt>ご</rt></ruby></code></font> (discurso educado).
 -   Usa o radical negativo `せん` ao invés de `さない` pois deriva do japonês antigo.
+
+<h3 id="var_pejorativa"> Forma pejorativa (やがる)</h3>
+
+-   É como o oposto da forma educada. Indica ódio, desprezo ou desdém.
+-   `やがる` é um verbo auxiliar que funciona da mesma forma que adicionar um palavrão relacionado ao verbo. Não pode ser usado em contextos positivos.
 
 <h3 id="var_desejo">たい<ruby>形<rt>けい</rt></ruby> - Forma de desejo (たい)</h3>
 

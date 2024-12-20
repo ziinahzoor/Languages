@@ -23,6 +23,6 @@
 -   `Jūlor` Leite 🌊
 -   `Ārilla` Cerveja
 
-## Refeições
+## Parklori - Refeições 🌱
 
 -   `Kisalbar` Banquete 🌊

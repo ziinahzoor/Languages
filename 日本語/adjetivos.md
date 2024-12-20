@@ -10,9 +10,6 @@
 > A forma `いい` só pode ser utilizada no presente afirmativo, portanto a forma honorífica deve ser utilizada em todas as outras conjugações, como no passado e na forma negativa.
 > Apesar de `いい` poder ser escrito com o mesmo kanji da forma honorífica, a utilização deste geralmente indica a leitura da forma honorífica.
 
--   `ない` Não ser/existir
-    -   `ありません` Contraparte honorífica (verbal)
-    -   `ね・ねえ` Contração (muito informal)
 -   `いい` Bom
     -   Adjetivo `いい`
     -   <font size="5"><code><ruby>良<rt>よ</rt></ruby>い</code></font> Honorífico
@@ -86,16 +83,15 @@
 -   `かたじけない` Agradecido
 -   <font size="5"><code><ruby>怖<rt>こわ</rt></ruby>い</code></font> Assustador
 -   <font size="5"><code><ruby>少<rt>すく</rt>ない</ruby></code></font> Pouco(s)/Insuficiente
+    -   Não pode ser usado atributivamente. Usa-se <font size="5"><code><ruby>少<rt>すこ</rt>し</ruby></code></font> no lugar.
 -   <font size="5"><code><ruby>多<rt>おお</rt>い</ruby></code></font> Muito(s)/Demais
+    -   Não pode ser usado atributivamente. Usa-se <font size="5"><code><ruby>多<rt>おお</rt>くの</ruby></code></font> no lugar.
 -   <font size="5"><code><ruby>軽<rt>かる</rt></ruby>い</code></font> Leve
 -   <font size="5"><code><ruby>重<rt>おも</rt></ruby>い</code></font> Pesado
--   `ねむい` Sonolento
+-   <font size="5"><code><ruby>眠<rt>ねむ</rt></ruby>い</code></font> Sonolento
+-   <font size="5"><code><ruby>寂<rt>さび</rt></ruby>しい</code></font> Solitário
 -   <font size="5"><code><ruby>悲<rt>かな</rt></ruby>しい</code></font> Triste
 -   <font size="5"><code><ruby>嬉<rt>うれ</rt></ruby>しい</code></font> Feliz
--   `らしい` Parecido/Semelhante (-like)
--   `〜っぽい` Parecido/Semelhante (-ish)
-    -   Tem uma nuance mais negativa que `らしい`
-    -   É um adjetivo auxiliar, portanto deve ser usado somente de forma atributiva.
 -   `やばい` Perigoso/Arriscado
     -   Em linguagem casual, tem um sentido como a palavra "f\*da", podendo ter conotações ruins ou boas.
 -   `うすい` Fino
@@ -114,6 +110,18 @@
 -   <font size="5"><code><ruby>丸<rt>まる</rt></ruby>い</code></font> Redondo
 -   <font size="5"><code><ruby>青<rt>あお</rt></ruby>い</code></font> Azul/Pálido
 -   <font size="5"><code><ruby>臭<rt>くさ</rt></ruby>い</code></font> Fedido/Fétido
+-   <font size="5"><code><ruby>上<rt>う</rt>手<rt>ま</rt></ruby>い</code></font> Hábil/Habilidoso/Bom em
+    -   É um pouco mais casual que <font size="5"><code><ruby>上手<rt>じょうず</rt></ruby></code></font>
+
+### Auxiliares
+
+-   `ない` Não ser/existir
+    -   `ありません` Contraparte honorífica (verbal)
+    -   `ね・ねえ` Contração (muito casual)
+-   `らしい` Parecido/Semelhante (-like)
+-   `〜っぽい` Parecido/Semelhante (-ish)
+    -   Tem uma nuance mais negativa que `らしい`
+    -   É um adjetivo auxiliar, portanto deve ser usado somente de forma atributiva.
 
 ## <ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos な
 
@@ -126,17 +134,17 @@
 -   <font size="5"><code><ruby>賑<rt>にぎ</rt></ruby>やか</code></font> Vívido/Tumultuado
 -   <font size="5"><code><ruby>有<rt>ゆう</rt>名<rt>めい</rt></ruby></code></font> Famoso
 -   `おしゃれ` Estiloso
--   `すてき` Adorável
+-   <font size="5"><code><ruby>素敵<rt>すてき</rt></ruby></code></font> Adorável
 -   `すき` Gostável
     -   `だいすき` Amável
 -   `みたい` Parecido
     -   Geralmente usado como sufixo de substantivos e adjetivos.
     -   Quando ligado a um verbo na forma te, dá a ideia de "gostaria de tentar" alguma coisa.
 -   <font size="5"><code><ruby>色<rt>いろ</rt>々</ruby></code></font> Diversos/Vários/Todo tipo
--   <font size="5"><code><ruby>大<rt>たい</rt>変<rt>へん</rt></ruby></code></font> Difícil/Muito (Extremamante)
+-   <font size="5"><code><ruby>大<rt>たい</rt>変<rt>へん</rt></ruby></code></font> Problemático/Complicado/Difícil/Muito (Extremamante)
 -   <font size="5"><code><ruby>便<rt>べん</rt>利<rt>り</rt></ruby></code></font> Conveniente/Útil
 -   `ふべん` Inconveniente
--   `たのしみ` Ansioso (de antecipação)
+-   <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しみ</code></font> Ansioso (de antecipação)
     -   Geralmente acompanha o `が`
 -   `ダメ・だめ` Ruim/Inútil
 -   `カラフル` Colorido
@@ -170,10 +178,18 @@
 -   <font size="5"><code><ruby>嫌<rt>いや</rt></ruby></code></font> Desgostável/Não querível/Relutante
     -   É mais utilizado com situações.
 -   <font size="5"><code><ruby>上手<rt>じょうず</rt></ruby></code></font> Hábil/Habilidoso/Bom em
-    -   <font size="5"><code><ruby>得<rt>とく</rt>意<rt>い</rt></ruby></code></font> Kenjougo
+    -   `うまい` Casual `い`
+    -   Não pode ser usado para falar de si mesmo.
+-   <font size="5"><code><ruby>得<rt>とく</rt>意<rt>い</rt></ruby></code></font> Hábil/Habilidoso/Bom em
+    -   Kenjougo
+    -   Pode ser usado para falar de si e dos outros, mas não é preferível ao falar sobre a habilidade da pessoa com quem se fala, sendo mais usado pra terceiros.
 -   <font size="5"><code><ruby>下手<rt>へた</rt></ruby></code></font> Inábil/Ruim em
+    -   Se refere somente à habilidade, sem nenhum sentimento pessoal.
+-   <font size="5"><code><ruby>苦<rt>にが</rt>手<rt>て</rt></ruby></code></font> Inábil/Ruim em
+    -   Tem a nuance de não gostar do que se fala.
 -   <font size="5"><code><ruby>危<rt>き</rt>険<rt>けん</rt></ruby></code></font> Perigoso
 -   <font size="5"><code><ruby>必<rt>ひつ</rt>要<rt>よう</rt></ruby></code></font> Necessário/Essencial/Indispensável
+-   <font size="5"><code><ruby>完<rt>かん</rt>璧<rt>ぺき</rt></ruby></code></font> Perfeito/Sem defeitos
 
 ## Adjetivos たる
 

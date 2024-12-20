@@ -6,6 +6,7 @@
 -   `Segundo`
 -   `Día` Dia
 -   `Mañana` Manhã/Amanhã
+-   `Pasado mañana` Depois de amanhã
 -   `Tarde`
 -   `Noche` Noite
 -   `Fin de semana` Fim de semana
@@ -25,6 +26,7 @@
 -   `Medianoche` Meia-noite
 -   `Horario` Horário
 -   `Futuro`
+-   `Anual`
 
 ## La Semaña - Semana
 

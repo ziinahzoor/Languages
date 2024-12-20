@@ -19,6 +19,7 @@
 -   `¡Auxilio!` Ajuda!/Socorro!
 -   `Por cierto` Falando nisso/A propósito
 -   `El uno al otro` Um ao outro
+-   `¡Cómo no!` Claro!/Sem dúvidas!
 
 ## Gírias
 

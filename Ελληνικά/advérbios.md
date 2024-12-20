@@ -24,3 +24,4 @@
 -   `Πολλάκις` Muitas vezes/Frequentemente
 -   `Πάλι` De novo
 -   `Μέχρι` Até
+-   `Άρα` Portanto/Então
