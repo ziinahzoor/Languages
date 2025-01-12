@@ -9,7 +9,7 @@
 -   `いただきます` Vamos comer!
 -   `ぐあいがわるい` Está doente
     -   Literalmente "a saúde está mal"
--   `ねぇ` Ei!, Escuta!
+-   `ねぇ` Oi!/Ei!
 -   `おい` Ei! (Mais rude)
 -   `どうやって` Como/De que maneira
 -   `どういうこと` O que você quer dizer?
@@ -40,6 +40,9 @@
 -   <font size="5"><code><ruby>大<rt>たい</rt>変<rt>へん</rt></ruby></code></font> Estou em apuros
 -   `ははーん` A-ha!
 -   <font size="5"><code>…の<ruby>中<rt>なか</rt></ruby>で…が<ruby>一<rt>いち</rt>番<rt>ばん</rt></ruby></code></font> De todos..., ...é o melhor.
+-   `そんなことない` Isso não é verdade
+-   `...の上に` Além de...
+-   <font size="5"><code><ruby>久<rt>ひさ</rt></ruby>しぶり</code></font> Há quanto tempo
 
 ## <ruby>相<rt>あい</rt>槌<rt>づち</rt></ruby> - Interjeições de atenção
 

@@ -1,5 +1,6 @@
 # Las Personas/La Gente - Pessoas
 
+-   `Pareja` Casal 🚺
 -   `Multitud` Multidão
 -   `Miembro` Membro
 -   `Habitante`
@@ -78,6 +79,9 @@
 -   `Ganador` Ganhador
 -   `Principiante`
 -   `Visita`
+-   `Escritor`
+-   `Protagonista`
+-   `Ex`
 
 ## La Familia - Família
 

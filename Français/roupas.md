@@ -37,6 +37,7 @@
 -   `Pantalon` Calça 🚹
 -   `Short`
 -   `Jupe` Saia
+-   `Jean` Calça jeans 🚹
 
 ## Les Pieds - Pés
 

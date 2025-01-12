@@ -5,8 +5,8 @@
 -   `Σε` Para/Em/No/Na (Lugar ou objeto indireto)
     -   `Στο` Contração de `σε το`. As contrações dos outros artigos seguem a mesma lógica.
 -   `Από` De/Do/Da
--   `Για` Para
-    -   Também pode ser "sobre" para se referir a algo.
+-   `Για` Para/Sobre
+    -   É "sobre" para se referir a algo do qual se fala.
 -   `Σαν` Como
     -   Mais usado para comparações.
 -   `Όπως` Como

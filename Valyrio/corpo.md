@@ -35,3 +35,9 @@
 -   `Kyndrir` Intestino 🌊
 -   `Ānogar` Sangue 🌊
 -   `Īby` Osso 🌙
+
+## Animais
+
+-   `Āpsos` Focinho ☀️
+-   `Ohīlion` Garra 🌱
+-   `Zuly` Escama 🌙

@@ -49,6 +49,8 @@
 -   `Être rond comme une queue de pelle` Estar completamente bêbado
 -   `Avoir le cul bordé de nouilles` Ter muita sorte
 -   `Ça ne casse pas trois pattes à un canard` Não é nada demais
+-   `Ça fait...` Faz.../Fazem... (tempo)
+-   `Peu importe` Pouco importa
 
 ## Verlan
 

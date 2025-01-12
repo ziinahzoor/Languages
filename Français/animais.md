@@ -38,6 +38,7 @@
 -   `Mouche` Mosquito 🚺
 -   `Tigre`
 -   `Girafe` Girafa
+-   `Chèvre` Cabra
 
 ## Relacionado
 

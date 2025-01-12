@@ -36,6 +36,7 @@
     -   `Anektogon` Instrumental-passivo
     -   `Unektogon` Cortar fora (Locativo-aplicativo)
         -   Acompanha o dativo.
+    -   `Jonektogon` Picar/Fatiar (Continuativo)
 -   `Angogon` Morder
 -   `Mōzugon` Beber
 -   `Sylugon` Tentar
@@ -60,12 +61,18 @@
     -   `Jōzigon` Orgulhar-se (Oblíquo-aplicativo)
 -   `Lurugon` Dobrar
 -   `Korigon` Procurar
--   `Īligon` Atravessar
+-   `Īligon` Atravessar/Cruzar
 -   `Rhakigon` Tecer/Trançar
 -   `Bughegon` Nadar
 -   `Dakogon` Correr
 -   `Ñepegon` Costurar
 -   `Jentegon` Comandar/Liderar
+-   `Lēdegon` Encher
+-   `Sōvegon` Voar
+-   `Iōdegon` Mergulhar
+-   `Rhēdegon` Conhecer
+-   `Nēdākogon` Encorajar
+    -   Acompanha o locativo.
 
 ### Terminados em -agon
 
@@ -180,3 +187,23 @@
     -   `Sytiotāpagon` Aconselhar (Oblíquo-aplicativo)
 -   `Dekurūbagon` Andar
 -   `Giēñēbagon` Recuperar
+-   `Rholagon` Misturar
+-   `Keragon` Cozinhar
+-   `Jesuragon` Polvilhar
+-   `Hulagon` Derramar/Despejar
+-   `Hisagon` Fatiar
+-   `Hōzikagon` Ferver/Cozer
+-   `Aerikagon` Mexer/Agitar/Atiçar
+-   `Dohaeragon` Servir
+-   `Ikisībagon` Jantar/Se alimentar
+-   `Elēnagon` Inclinar
+-   `Hepagon` Escalar/Ascender
+-   `Kipagon` Montar
+-   `Pykagon` Cuspir
+    -   Também é usado pro fogo de dragão.
+-   `Grōvagon` Rugir
+-   `Jitsagon` Guinchar/Ganir
+-   `Zālagon` Queimar
+-   `Iqighagon` Fazer (alguém) sentir
+    -   Quem sente está no dativo e o que é sentido no instrumental.
+-   `Pāsagon` Confiar/Acreditar

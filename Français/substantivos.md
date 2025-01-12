@@ -26,6 +26,7 @@
 -   `Feuille` Folha
 -   `Environnement` Meio-ambiente
 -   `Pollution` Poluição
+-   `Éclair` Raio/Relâmpago
 
 ### Materiais
 
@@ -75,6 +76,7 @@
 -   `Lit` Cama 🚹
     -   `Pieu` Gíria 🚹
 -   `Armoire` Guarda-roupas
+-   `Drap` Lençol
 
 ### Outros
 
@@ -149,7 +151,7 @@
 -   `Meuble` Móvel
 -   `Tiroir` Gaveta 🚹
 -   `Commode` Cômoda
--   `Fauteuil` Cadeirão/Poltrona
+-   `Fauteuil` Poltrona
 -   `Paquet` Pacote
 -   `Poubelle` Lata de lixo
 -   `Ciseau` Cinzel
@@ -178,6 +180,7 @@
 -   `Panneau` Placa/Painel 🚹
 -   `Fontaine` Fonte
 -   `Pot` Pote
+-   `Brochure` Folheto/Panfleto 🚺
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -261,7 +264,6 @@
 -   `Cauchemar` Pesadelo
 -   `Droit` Direito
 -   `Conversation` Conversa
--   `Mariage` Casamento
 -   `Retard` Atraso
 -   `Besoin` Necessidade
 -   `Grève` Greve
@@ -373,8 +375,17 @@
 -   `Dépaysement` Mudança de ambiente ou hábitos
 -   `Intention` Intenção
 -   `Mélange` Mistura 🚺
--   `Odeur` Cheiro
+-   `Odeur` Cheiro 🚺
 -   `Saveur` Sabor 🚺
+-   `Nouvelle` Notícia
+-   `Sujet` Assunto
+-   `Mort` Morte
+-   `Rôle` Papel/Função 🚹
+-   `Climatisation` Climatização
+-   `Service` Serviço
+-   `Entrée` Entrada
+-   `Attraction` Atração
+-   `Découverte` Descoberta
 
 ### Sentimentos, condições e emoções
 
@@ -408,6 +419,7 @@
 ### Formas geométricas
 
 -   `Cercle` Círculo
+-   `Carré` Quadrado
 
 ## Transporte
 
@@ -493,7 +505,13 @@
 -   `Roman` Romance (livro)
 -   `Poème` Poema
 -   `Comédie` Comédia
+-   `Fiction` Ficção
+-   `Action` Ação
+-   `Drame` Drama
+-   `Comédie musicale` Musical 🚺
 -   `Toboggan` Escorregador/Tobogã
+-   `Feu d’artifice` Fogo de artifício
+-   `Tourisme` Turismo
 
 ### Compras
 

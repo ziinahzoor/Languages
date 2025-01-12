@@ -90,16 +90,22 @@
 -   É uma negação dupla da forma proibitiva, fazendo uma afirmação: "não se deve não fazer...".
 -   Muitas vezes a forma completa é abreviada apenas para `なくちゃ`.
 
-<h2 id="var_solicitativa">Forma て+いいですか - Solicitativa</h2>
+<h2 id="var_solicitativa">Forma て+いいです（か） - Permissiva/Solicitativa</h2>
 
--   Forma de solicitação de permissão: Pede-se permissão para realizar alguma ação ou pergunta-se se ficará tudo bem ao realizá-la.
+-   Forma de permissão: Dá ou pede-se permissão para realizar alguma ação ou pergunta-se se ficará tudo bem ao realizá-la.
 -   Pode-se responder utilizando a forma afirmativa ou negativa da frase.
 -   Em sonkeigo, usa-se `て` + `よろしい`.
 
-<h2 id="var_solicitativa-optativa">Forma て+もいいですか - Solicitativa optativa</h2>
+<h2 id="var_solicitativa-optativa">Forma て+もいいです（か） - Permissiva/Solicitativa optativa</h2>
 
--   Funciona como a forma de solicitação de permissão, porém tem um caráter mais optativo: Pede-se permissão para determinada ação, porém ela não necessariamente será realizada, ou seja, pede-se permissão para a POSSIBILIDADE de realizar a ação.
+-   Tem uma nuance mais "tudo bem MESMO SE..."?
+-   Funciona como a forma permissiva, porém tem um caráter mais optativo: Dá ou pede-se permissão para determinada ação, porém ela não necessariamente será realizada, ou seja, pede-se permissão para a POSSIBILIDADE de realizar a ação.
+-   Também pode ser utilizada com adjetivos e substantivos.
 -   Apesar da nuance, no dia-a-dia só é um pouco mais formal que a forma solicitativa.
+
+<h3 id="var_optativa">Forma なくて+もいいです - Optativa</h3>
+
+-   Indica ao ouvinte que a ação não é necessária, dando-o permissão para realizá-la somente se quiser.
 
 <h2 id="var_sequencial">Forma て+から - Sequencial</h2>
 
@@ -108,3 +114,11 @@
 <h2 id="var_benefactiva">Forma て+Verbo de transferência - Benefactiva/De favor</h2>
 
 -   Ao usar a forma `て` com algum verbo de transferência como `あげる`, `やる`, `くださる`, `もらう` e `いただく`, indica-se que se está fazendo algo para alguém ou vice-versa, para si mesmo ou alguém está fazendo algo para outra pessoa. Ex.: `…花を買ってくれた` "...comprou flores para mim".
+-   Ao fazer algo para alguém: `て` + `あげる`.
+    -   `て` + `やる`: Mais casual.
+-   Quando alguém faz algo para você ou seu 内: `て` + `くれる`.
+    -   `て` + `くださる`: Sonkeigo.
+-   Quando alguém faz algo por você ou seu 内: `て` + `もらう`.
+    -   `て` + `いただく`: Kenjougo.
+    -   Tem a nuance de um favor ao invés de um pedido simples.
+    -   É mais utilizado para indicar que um favor foi feito por terceiros.

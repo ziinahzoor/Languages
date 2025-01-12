@@ -27,6 +27,7 @@
 -   <font size="5"><code><ruby>晩<rt>ばん</rt></ruby></code></font> Anoitecer (Depois das 7)
 -   <font size="5"><code><ruby>夜<rt>よる</rt></ruby></code></font> Noite
     -   <font size="5"><code><ruby>夕<rt>ゆう</rt></ruby>べ</code></font> Noite passada
+-   <font size="5"><code><ruby>真<rt>ま</rt>夜<rt>よ</rt>中<rt>なか</rt></ruby></code></font> Meia-noite
 -   <font size="5"><code><ruby>夜<rt>よ</rt>中<rt>なか</rt></ruby></code></font> Madrugada
 -   <font size="5"><code><ruby>週<rt>しゅう</rt></ruby></code></font> Semana
     -   <font size="5"><code><ruby>再<rt>さ</rt>来<rt>らい</rt>週<rt>しゅう</rt></ruby></code></font> Semana depois da próxima
@@ -38,14 +39,16 @@
     -   <font size="5"><code><ruby>一昨年<rt>おととし</rt></ruby></code></font> Ano retrasado
     -   <font size="5"><code><ruby>再<rt>さ</rt>来<rt>らい</rt>年<rt>ねん</rt></ruby></code></font> Ano seguinte
 -   <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Antes
-    -   <font size="5"><code><ruby>～の前</ruby></code></font> Antes de
+    -   <font size="5"><code>の<ruby>前<rt>まえ</rt></ruby></code></font> Antes de
     -   É um substantivo, não um advérbio.
 -   <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font> Depois
-    -   <font size="5"><code><ruby>～の後</ruby></code></font> Depois de
+    -   <font size="5"><code><ruby>後<rt>ご</rt></ruby></code></font> Após/Depois de (advérbio)
+        -   <font size="5"><code>の<ruby>後<rt>あと</rt></ruby></code></font> Casual
     -   É um substantivo, não um advérbio.
 -   `これから` De agora em diante
 -   `さいご` Último
 -   <font size="5"><code><ruby>暇<rt>ひま</rt></ruby></code></font> Tempo livre
+-   <font size="5"><code><ruby>瞬<rt>しゅん</rt>間<rt>かん</rt></ruby></code></font> Momento/Instante
 -   <font size="5"><code><ruby>時<rt>とき</rt></ruby></code></font> Momento/Ocasião/Quando
 
 ### Prefixos

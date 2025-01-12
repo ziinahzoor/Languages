@@ -41,6 +41,11 @@
 -   `Lyka` Calmo/Quieto/Silencioso
 -   `Manda` Gentil
 -   `Kara` Grandioso/Magnífico
+-   `Kempa` Pesado
+-   `Kostilloqitta` Inútil
+-   `Ruarilaksa` Secreto/Privado
+-   `Rytsa` Saudável/Bem
+-   `Hunenka` Enérgico
 
 ## Classe II
 

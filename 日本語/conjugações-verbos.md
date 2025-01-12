@@ -133,9 +133,11 @@
 <h3 id="var_negativa"><ruby>否<rt>ひ</rt>定<rt>てい</rt>形<rt>けい</rt></ruby> - Forma negativa (ない)</h3>
 
 -   Utiliza o verbo/adjetivo auxiliar `ない`, que é a negação (irregular) de `ある`.
+    -   Casualmente pode ser abreviado para `ん`.
 -   Transforma verbos em sua forma negativa.
 -   A forma negativa + a partícula interrogativa `か` ou um tom interrogativo geralmente é usada para fazer um convite ou sugestão, como "Você gostaria de...?" ou "Que tal se...?".
     -   Também vale para a forma educada negativa.
+    -   É mais voltada pro desejo do ouvinte do que a volitiva, que é mais voltada pro desejo do locutor.
 -   Se usada com o sufixo `で` (uma espécie de forma-て), forma uma conjunção que é utilizada para indicar que uma ação é feita sem fazer outra ação. Quando essa conjugação é utilizada no fim da frase, indica uma proibição.
 -   Exceções:
     -   `〜ます` → `〜ません`
@@ -301,6 +303,7 @@
 
 -   `よう` para verbos ichidan.
 -   Indica vontade, intenção ou sugestão de realizar alguma ação: `Vamos...!`.
+    -   É mais voltada pro desejo do locutor do que a forma negativa + `か`, que é mais voltada pro desejo do ouvinte.
 -   Pode ser utilizado com o auxiliar `ます`, se tornando `ましょう`.
     -   Quando usado com a partícula interrogativa `か` ou um tom interrogativo geralmente indica proatividade e intenção de realizar alguma ação, como "Devo...?" ou "Devemos...?".
 -   Para `だ` é `だろう` e `です` é `でしょう`.
@@ -393,6 +396,10 @@
     -   `問う` → `問うて`
     -   `請う` → `請うて`
     -   `〜ない` → `〜ないで・〜なくて`
+
+> [!TIP]
+> A forma て de adjetivos-い é `くて`.
+> A forma て de adjetivos-な e de substantivos é `で`.
 
 ---
 

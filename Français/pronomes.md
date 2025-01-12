@@ -245,7 +245,7 @@
     -   `Persone ne` Pronome
 -   `Ne... rien` Nada
     -   `Rien ne` Pronome
--   `Ne... que` Só (De não completar a ação)
+-   `Ne... que` Só/Somente
 -   `Ni` Nem
 
 ## Adverbiaux - Adverbiais

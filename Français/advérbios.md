@@ -81,6 +81,7 @@
 -   `En retard` Atrasado
 -   `En solde` De promoção
 -   `En promotion` De promoção
+-   `En direct` Ao vivo
 -   `En ce moment` Neste momento
 -   `Sur Internet` Online
 -   `Comme d'habitude` Como sempre

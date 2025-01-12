@@ -22,6 +22,11 @@
 <img src="../assets/images/bushu.png" alt="Classificação gramatical" style="width:15rem; background-color: #E8F9FD; border-radius: 10px; padding: 5px;border: 5px black solid;
 "/>
 
+-   Palavras com dois ou mais kanji são chamadas <font size="5"><code><ruby>熟<rt>じゅく</rt>語<rt>ご</rt></ruby></code></font>.
+
+> [!TIP]
+> Em algumas palavras, determinados kanji são utilizados apenas para manter a fonética da palavra, de forma com que o significado do kanji pode ser desconexo do significado da palavra. Nestas palavras, os kanji são chamados <font size="5"><code><ruby>当<rt>あ</rt></ruby>て<ruby>字<rt>じ</rt></ruby>・<ruby>宛<rt>あて</rt>字<rt>じ</rt></ruby></code></font>.
+
 ## Radicais
 
 > [!NOTE]

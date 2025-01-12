@@ -6,11 +6,26 @@
 -   `Ντίσκο` Discoteca ✴️
 -   `Κόσμος` Mundo
 -   `Θέατρο` Teatro ✴️
+-   `Βιβλιοθήκη` Biblioteca
 
-## Casa
+## Σπίτι - Casa ✴️
 
--   `Χόλ` Corredor ✴️
+-   `Χόλ` Salão/Saguão ✴️
+-   `Διάδρομος` Corredor
 -   `Pόδα` Roda
+-   `Δωμάτιο` Quarto/Cômodo ✴️
+-   `Υπνοδωμάτιο` Quarto ✴️
+-   `Κουζίνα` Cozinha
+-   `Αυλή` Quintal 🚺
+-   `Κήπος` Jardim
+-   `Μπαλκόνι` Sacada/Varanda ✴️
+-   `Αποθήκη` Depósito/Despensa 🚺
+-   `Υπόγειο` Porão ✴️
+-   `Σοφίτα` Sótão 🚺
+-   `Τουαλέτα` Banheiro 🚺
+-   `Μπάνιο` Banheiro ✴️
+-   `Τραπεζαρία` Sala de jantar
+-   `Σαλόνι` Sala de estar ✴️
 
 ## Países e Continentes
 

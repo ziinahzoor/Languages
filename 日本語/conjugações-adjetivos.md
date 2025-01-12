@@ -53,6 +53,8 @@
 > [!TIP]
 > Quase todos os adjetivos-い são palavras de origem japonesa.
 
+-   Adjetivos terminados em kana `あ` + `い` às vezes são encontrados na conversação casual como kana `え` + `ぇ`. Ex.: `高い` "takai" → `高ぇ` "takee".
+
 ---
 
 ## <ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos `な`

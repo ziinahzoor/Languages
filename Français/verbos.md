@@ -7,6 +7,8 @@
 
 -   `Être` Ser/Estar
     -   `Être en feu` Estar queimando
+    -   `Être mal à l'aise` Estar desconfortável
+    -   `S'être bien passée` Ir bem
 -   `Prendre` Pegar
     -   `Prendre soin` Cuidar
     -   `Prendre rendez-vous` Marcar consulta
@@ -67,6 +69,7 @@
 -   `Réduire` Reduzir
 -   `Se battre` Brigar
 -   `Suivre` Seguir
+-   `Se taire` Calar-se
 
 ## -er Verbes
 
@@ -153,6 +156,7 @@
 -   `Se coiffer` Pentear-se
 -   `Se noyer` Afogar-se
 -   `S'habiller` Vestir-se
+-   `Se déshabiller` Despir-se
 -   `Se reposer` Descansar/Repousar
 -   `Neiger` Nevar
 -   `Porter` Vestir
@@ -172,8 +176,9 @@
 -   `Attraper` Capturar
 -   `Pêcher` Pescar
 -   `Voler` Voar/Roubar
--   `Ressembler` Parecer
-    -   `Se ressembler` Parecer-se
+-   `Sembler` Parecer/Ter o semblante
+-   `Ressembler` Assemelhar/Parecer
+    -   `Se ressembler` Assemelhar-se/Parecer-se
 -   `Arroser` Regar
 -   `Fermer` Fechar
 -   `Laver` Lavar
@@ -189,7 +194,7 @@
 -   `Démarrer` Iniciar (algo)/Dar partida
 -   `Commencer` Começar
 -   `Gagner` Ganhar
--   `Rigoler` Brincar/Fazer piada
+-   `Rigoler` Brincar/Fazer piada/Rir
 -   `Enlever` Tirar (de algum lugar)
 -   `Traverser` Atravessar/Cruzar
 -   `Ajouter` Adicionar
@@ -258,11 +263,14 @@
 -   `Refuser` Recusar
 -   `Accepter` Aceitar
 -   `Désirer` Desejar
+-   `Poser` Pôr
+    -   `Poser une question` Fazer uma pergunta
 -   `Supposer` Supor
 -   `Déranger` Incomodar/Perturbar
 -   `Gêner` Incomodar/Importunar
 -   `Crier` Gritar
 -   `Déplacer` Mover
+    -   `Se déplacer` Deslocar-se
 -   `Manifester` Protestar
 -   `Décider` Decidir
 -   `Voter` Votar
@@ -323,6 +331,9 @@
 -   `Supporter` Suportar
 -   `Flâner` Vagar
 -   `Congeler` Congelar
+-   `Fêter` Festar/Comemorar/Celebrar
+-   `Quitter` Sair/Desistir
+-   `Comparer` Comparar
 
 ## -ir Verbes
 
@@ -359,6 +370,7 @@
 -   `Se sentir`
 -   `Pleuvoir` Chover
 -   `Asseoir` Sentar
+    -   `S'asseoir` Sentar-se
 -   `Souvenir` Lembrar
 -   `Mourir` Morrer
 -   `Mentir`

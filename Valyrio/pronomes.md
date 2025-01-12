@@ -99,6 +99,8 @@
 > [!TIP]
 > Os pronomes possessivos são apenas as contrapartes terrestres dos retos.
 
+-   Note que os reflexivos também podem ser conjugados.
+
 ## Interrogativos Singulares
 
 -   `Skoro syt` Por que

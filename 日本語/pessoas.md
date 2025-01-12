@@ -8,6 +8,7 @@
     -   É escrito `みな` quando usado com algum honorífico.
 -   <font size="5"><code><ruby>大<rt>おお</rt>勢<rt>ぜい</rt></ruby></code></font> Multidão
 -   <font size="5"><code><ruby>人<rt>じん</rt>口<rt>こう</rt></ruby></code></font> População
+-   <font size="5"><code><ruby>集<rt>あつ</rt></ruby>まり</code></font> Público
 
 ## Específicas
 
@@ -39,6 +40,7 @@
 ## Profissões
 
 -   <font size="5"><code><ruby>医<rt>い</rt>者<rt>しゃ</rt></ruby></code></font> Médico
+-   <font size="5"><code><ruby>歯<rt>は</rt>医<rt>い</rt>者<rt>しゃ</rt></ruby></code></font> Dentista
 -   <font size="5"><code><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></code></font> Professor/Doutor (Médico)/Advogado
     -   É um título, mais generalizado como "mestre".
     -   Não deve ser usado para falar de si.
@@ -49,6 +51,7 @@
     -   <font size="5"><code><ruby>中<rt>ちゅう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante do secundário
     -   <font size="5"><code><ruby>高<rt>こう</rt>校<rt>こう</rt>生<rt>せい</rt></ruby></code></font> Estudante do ensino médio
     -   <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Universitário
+    -   <font size="5"><code><ruby>転<rt>てん</rt>校<rt>こう</rt>生<rt>せい</rt></ruby></code></font> Estudante de transferência
 -   <font size="5"><code><ruby>生<rt>せい</rt>徒<rt>と</rt></ruby></code></font> Pupilo/Aprendiz/Estudante (do fundamental ou médio)
 -   `べんごし` Advogado
 -   `かしゅ` Cantor
@@ -71,6 +74,7 @@
 -   `じょゆう` Atriz
 -   `ボランティア` Voluntário
 -   `てんいん` Funcionário
+-   <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Funcionário/Assistente de loja
 -   <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt></ruby></code></font> Caixa
 -   `アーティスト` Artista
 -   `まんがか` Mangaká
@@ -79,6 +83,8 @@
 -   `ボス` Chefe (de jogos)
 -   `メイド` Empregado doméstico
 -   <font size="5"><code><ruby>選<rt>せん</rt>手<rt>しゅ</rt></ruby></code></font> Atleta
+-   <font size="5"><code><ruby>王<rt>おう</rt></ruby></code></font> Rei/Monarca
+-   <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt>士<rt>し</rt></ruby></code></font>
 
 ## <ruby>家<rt>か</rt>族<rt>ぞく</rt></ruby> - Família
 
@@ -86,6 +92,7 @@
 
 -   <font size="5"><code><ruby>親<rt>しん</rt>戚<rt>せき</rt></ruby></code></font> Parente
 -   <font size="5"><code><ruby>両<rt>りょう</rt>親<rt>しん</rt></ruby></code></font> Pais
+    -   <font size="5"><code><ruby>父<rt>ふ</rt>母<rt>ぼ</rt></ruby></code></font> Pais (de forma geral, paternidade)
     -   <font size="5"><code><ruby>親<rt>おや</rt></ruby></code></font> Pai/Mãe (Um dos pais)
 -   <font size="5"><code>お<ruby>父<rt>とう</rt></ruby>さん</code></font> Pai
     -   <font size="5"><code><ruby>父<rt>ちち</rt></ruby></code></font> (Meu) Pai
@@ -148,6 +155,7 @@
 ## Status
 
 -   <font size="5"><code><ruby>初<rt>しょ</rt>心<rt>しん</rt>者<rt>しゃ</rt></ruby></code></font> Iniciante
+-   <font size="5"><code><ruby>金<rt>かね</rt>持<rt>も</rt></ruby>ち</code></font> Rico
 
 ## Conjuntos
 

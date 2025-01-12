@@ -15,6 +15,7 @@
 -   `Função conjuntiva contrastiva`: entretanto
     -   Quando usada com substantivos e adjetivos-な, usa o prefixo `だ`, tornando-se `だが`.
     -   É a partícula conjuntiva constrastiva mais formal, e portanto mais literária.
+    -   É mais utilizada quando não se busca explicar algo, e sim dar a sucessão dos fatos. Ex.: `彼はドアを押したが、開かなかった` "Ele empurrou a porta, mas ela não abriu".
 -   `Função de expectativa`: quando no fim da frase, cria um tom de indireção, esperando a interpretação ou interação de quem ouve.
     -   Bastante usado quando não se sabe como agir, como por exemplo "Eu gostaria de comprar um ingresso..." (espera-se que o vendedor explique).
 
@@ -47,7 +48,7 @@
 
 -   `Função de enfatização da partícula に`: enfatiza que se está falando especificamente sobre o destino da ação. Ex.: `パン屋にはパンがある` NA PADARIA tem pão.
     -   Geralmente indica propósito.
--   `Função de associação`: pode indicar associação ou posse para conceitos abstratos, como relacionamentos. Ex.: `私には妹がある` EU TENHO uma irmã.
+-   `Função perspectiva e de associação`: pode indicar a perspectiva do tópico, a associação ou posse para conceitos abstratos, como relacionamentos. Ex.: `私には妹がある` EU TENHO uma irmã (Na minha perspectiva, tenho uma irmã).
     -   Nestes casos se usarmos somente uma das partículas a frase não soa natural.
 
 ### へ
@@ -85,7 +86,7 @@
     -   Neste caso é uma função conjuntiva.
     -   Tem ênfase na causa.
     -   Não foge da função de "origem da ação": a justificativa é a origem.
-    -   Quando usada com substantivos e adjetivos-な, usa o prefixo `だ`, tornando-se `だから`
+    -   Quando usada no começo da frase, ou com substantivos e adjetivos-な, usa o prefixo `だ`, tornando-se `だから`
 -   Também é uma partícula conjuntiva e frasal.
 
 ### より
@@ -234,10 +235,13 @@
 ### けど
 
 -   `Função contrastiva`: mas, apesar
-    -   `けれども` Honorífico (Teineigo)
-        -   O `も` é opcional em contextos mais casuais.
-    -   Quando usada com substantivos e adjetivos-な, usa o prefixo `だ`, tornando-se `だけど`.
     -   Não é necessariamente contraditória, pode apenas ser um contraste positivo.
+-   Quando usada com a forma explicativa (`のだ・んだ`), substantivos e adjetivos-な, torna-se `だけど`
+    -   Na forma explicativa, os `だ` são fundidos.
+    -   `だけど` além da função constrastiva, também possui função introdutória: Introduz um pensamento.
+        -   Para associar com a função contrastiva, pode-se pensar como um "mas hein..." sem função semântica, após a frase introdutória.
+-   `けれども` Honorífico (Teineigo)
+    -   O `も` é opcional em contextos mais casuais.
 
 ### たら
 
@@ -253,6 +257,10 @@
 -   `Função de listagem não-ordenada de eventos`: Funciona exatamente como a forma-て (inclusive na conjugação), porém lista eventos de forma não-ordenada.
 -   O último item da lista quase sempre acompanha uma conjugação de `する`. Se ele for um verbo-する, o `たり` costuma ser omitido.
 -   Pode ser usado com um único item. "Fazer coisas como X".
+
+### ながら
+
+-   `Função de simultaneidade`: enquanto.
 
 ## <ruby>準<rt>じゅん</rt>体<rt>たい</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Frasais
 

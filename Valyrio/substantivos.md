@@ -43,6 +43,12 @@
 -   `Tembyr` Livro 🌙
 -   `Irūdy` Presente 🌙
 -   `Rhakiāzma` Tapeçaria 🌙
+-   `Tēgivos` Tigela ☀️
+-   `Ñuton` Pote/Panela 🌱
+-   `Amanengy` Concha (colher) 🌙
+-   `Lēvītsos` Colher ☀️
+-   `Tēgriapos` Prato ☀️
+-   `Māvos` Jarra ☀️
 
 ## Abstratos
 
@@ -54,6 +60,12 @@
 -   `Tymptir` Jogo 🌊
 -   `Verdon` Quantidade/Soma/Montante 🌱
 -   `Vēdros` Raiva ☀️
+-   `Munnon` Tristeza 🌱
+-   `Jessives` Alegria ☀️
+-   `Kirimves` Felicidade ☀️
+-   `Raqnon` Amor 🌱
+-   `Lyks` Paz ☀️
+-   `Jaelarys` Esperança ☀️
 
 ## Transporte
 

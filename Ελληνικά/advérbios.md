@@ -6,6 +6,7 @@
 -   `Πολύ` Muito
 -   `Λίγο` Pouco
 -   `Καλά` Bem
+-   `Καλώς` Bem
 -   `Πώς` Como (maneira)
 -   `Ως` Como (de tal maneira que)
 -   `Έξω` Fora
@@ -25,3 +26,4 @@
 -   `Πάλι` De novo
 -   `Μέχρι` Até
 -   `Άρα` Portanto/Então
+-   `Σπίτι` Em casa

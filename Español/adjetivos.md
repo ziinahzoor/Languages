@@ -207,3 +207,12 @@
 -   `Enorme`
 -   `Entero` Inteiro
 -   `Principal`
+-   `Romántico` Romântico
+-   `Breve`
+-   `Usado`
+-   `Creativo` Criativo
+-   `Hispano`
+-   `Experto` Especialista
+-   `Exacto` Exato
+-   `Alegre`
+-   `Encantado`

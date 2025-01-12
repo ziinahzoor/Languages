@@ -31,6 +31,9 @@
 -   `Italie` Itália
 -   `Suisse` Suiça
 -   `Grèce` Grécia
+-   `Portugal`
+
+#### Europe de l'Est - Leste Europeu
 
 ### Asie - Ásia
 
@@ -62,6 +65,7 @@
 -   `Milieu` Meio/Metade 🚹
 -   `Extérieur` Exterior
 -   `Intérieur` Interior
+-   `Centre` Centro
 -   `À l'étranger` Fora do país/No exterior
 
 ### Les Directions - Direções
@@ -217,10 +221,14 @@
 -   `Jungle` Selva
 -   `Cirque` Circo
 -   `Carrefour` Encruzilhada/Cruzamento/Interseção 🚹
+-   `Mairie` Prefeitura
+-   `Bâtiment` Edifício/Prédio
+-   `Côte` Costa
 
 ## France - França
 
 -   `Pyrénées` Pirineus
+-   `Réunion` Reunião
 
 ### Paris
 

@@ -77,6 +77,7 @@
 
 ## Tamanho/Altura/Peso
 
+-   `Énorme` Enorme
 -   `Grand` Grande/Alto
 -   `Moyen` Médio
 -   `Petit` Pequeno
@@ -168,6 +169,10 @@
 -   `Rangé` Arrumado
 -   `Municipal`
 -   `Fait maison` Caseiro
+-   `Inconnu` Desconhecido
+-   `Romantique` Romântico
+-   `À la mode` Na moda
+-   `Évident` Evidente/Óbvio
 
 ### Personalidade
 
@@ -217,7 +222,8 @@
 -   `Annulé` Cancelado
 -   `Absent` Ausente
 -   `Perdu` Perdido
--   `Sûr` Certo (de estar certo)
+-   `Sûr` Certo (de estar certo)/Seguro
+    -   `Sur` Pós-reforma de 90
 -   `Spécial` Especial
 -   `Crevé` Achatado/Furado
 -   `En panne` Quebrado (Temporariamente)
@@ -243,6 +249,7 @@
 -   `Debout` Em pé/De pé
 -   `Seul` Sozinho/Solitário
 -   `Divorcé` Divorciado
+-   `Séparé` Separado
 
 ### Físicas/Emocionais
 
@@ -259,6 +266,8 @@
 -   `Allergique` Alérgico
 -   `Aveugle` Cego
 -   `Sourd` Surdo
+-   `Mal à l'aise` Desconfortável
+-   `Choqué` Chocado
 
 ## Sentimento/Emoção
 
@@ -275,8 +284,6 @@
 -   `Inquiet` Preocupado
 -   `Stressé` Estressado
 -   `Stressant` Estressante
--   `Sûre` Certo/Confiante
-    -   `Sure` Pós-reforma de 90
 -   `Énervé` Irritado
 -   `Amoureux` Apaixonado
 -   `Fou/Folle` Louco/Doido
@@ -286,6 +293,9 @@
 -   `Nerveux` Nervoso
 -   `En colère` Bravo/Irritado
 -   `Jaloux` Invejoso/Com inveja/Ciumento
+-   `Angoissé` Ansioso/Angustiado
+-   `Animé` Animado
+-   `Gêné` Envergonhado
 
 ## Qualidade
 
@@ -309,6 +319,7 @@
 -   `Formidable` Formidável
 -   `Pire` Pior
 -   `Meilleur` Melhor
+-   `Laid` Feio
 -   `Moche` Feio
 -   `Beau` Bonito
     -   `Bel` Se começa com som de vogal
@@ -347,6 +358,7 @@
 
 -   `Droit` Direito
 -   `Gauche` Esquerdo
+-   `Précédent` Anterior
 -   `Suivant` Seguinte/Próximo
 -   `Prochain` Próximo
 -   `Proche` Próximo (Perto)

@@ -13,7 +13,8 @@
         -   Usado em contextos onde busca-se demonstrar masculinidade, como bares e encontros românticos.
     -   `うち` é bastante comum entre mulheres.
 -   <font size="5"><code><ruby>貴<rt>あな</rt>方<rt>た</rt></ruby></code></font> Tu/Você
-    -   <font size="5"><code>お<ruby>前<rt>まえ</rt></ruby></code></font> Amistoso e casual com amigos, rude com estranhos
+    -   <font size="5"><code>お<ruby>前<rt>まえ</rt></ruby></code></font> Amistoso e casual com amigos, rude com estranhos.
+    -   <font size="5"><code><ruby>君<rt>きみ</rt></ruby></code></font> Amistoso e familiar, usado com pessoas de mesmo ou status mais baixo.
 -   <font size="5"><code><ruby>彼<rt>かれ</rt></ruby></code></font> Ele
 -   <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> Ela
 -   `うち` Nós (feminino)
@@ -76,14 +77,14 @@
         <td>どいつ</td>
     </tr>
     <tr>
-        <th>Direção</th>
+        <th>Direção/Pessoa</th>
         <td>こちら</td>
         <td>そちら</td>
         <td>あちら</td>
         <td>どちら</td>
     </tr>
     <tr>
-        <th>Direção (Casual)</th>
+        <th>Direção/Pessoa (Casual)</th>
         <td>こっち</td>
         <td>そっち</td>
         <td>あっち</td>
@@ -188,13 +189,16 @@
     </tr>
 </table>
 
--   <font size="5"><code>すべて・<ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby></code></font> Tudo/Todos/Todas
--   `みんな` Todo mundo
+> [!NOTE]
+> O existencial também é usado como "pronome relativo" em algumas situações, como perguntas imbutidas e suas respostas. Ex.: `あれは誰か知っていますか` "Você sabe quem é aquele?";`あれが誰か分かりません` "Eu não sei quem é aquele".
 
 > [!TIP]
 > Os universais/negativos aceitam partículas antes. Ex: `だれにも` "Para alguém/ninguém", `だれとも` "Com alguém/ninguém".
 > Para determinantes, o que se determina vem no meio da construção. Ex.: `どの色でも` "Qualquer cor".
 > Ao usar os dois ao mesmo tempo, `か` vem antes de `も`.
+
+-   <font size="5"><code>すべて・<ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby></code></font> Tudo/Todos/Todas
+-   `みんな` Todo mundo
 
 ## Possessivos
 
@@ -203,3 +207,7 @@
 ## Reflexivos
 
 -   Se usa somente o pronome <font size="5"><code><ruby>自<rt>じ</rt>分<rt>ぶん</rt></ruby></code></font> com qualquer pessoa, sendo esta definida pelo contexto da conversa.
+
+## Relativos
+
+-   Não existem pronomes relativos, as cláusulas relativas são feitas através de verbos, adjetivos ou de pronomes indefinidos.

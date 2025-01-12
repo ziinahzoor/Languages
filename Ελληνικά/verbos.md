@@ -48,6 +48,47 @@
     -   `Ευρίσκω` Formal
 -   `Δείχνω` Indicar/Apontar/Demonstrar
 -   `Καθαρίζω` Limpar
+-   `Νομίζω` Pensar/Considerar
+-   `Σώζω` Salvar
+-   `Σημαίνω` Significar (definição)
+-   `Ανοίγω` Abrir/Tornar algo acessível
+-   `Επιστρέφω` Retornar
+-   `Αλλάζω` Trocar
+-   `Στέλνω` Enviar
+-   `Ζω` Viver
+-   `Ανήκω` Pertencer
+-   `Δοκιμάζω` Tentar
+-   `Προσφέρω` Oferecer/Dar/Presentear
+-   `Σηκώνω` Levantar/Erguer
+-   `Συμπεριλαμβάνω` Incluir
+-   `Κοιτάζω` Olhar/Examinar
+-   `Βγαίνω` Sair
+-   `Φεύγω` Partir
+-   `Νιώθω` Sentir
+-   `Κλείνω` Fechar
+-   `Ρωτάω` Perguntar
+-   `Αμφιβάλλω` Duvidar
+    -   Geralmente acompanha a preposição `για`.
+-   `Χτυπάω` Machucar-se/Bater (em algum lugar)
+-   `Παρουσιάζω` Apresentar
+-   `Ελπίζω` Esperar/Ter esperança de
+-   `Μπαίνω` Entrar
+-   `Ψάχνω` Procurar
+-   `Επιτρέπω` Permitir
+-   `Προσέχω` Prestar atenção/Observar
+-   `Παραλαμβάνω` Receber
+-   `Ανατρέφω` Criar (de cuidar)/Trazer à tona/Nutrir
+-   `Αποτυγχάνω` Falhar
+-   `Χάνω` Perder
+-   `Παραδίδω` Entregar/Transferir
+-   `Πιστεύω` Acreditar/Pensar
+-   `Αξίζω` Merecer/Valer
+-   `Στεγνώνω` Secar
+-   `Πετάω` Voar/Jogar fora/Arremessar
+-   `Διατηρώ` Preservar/Manter
+-   `Υπογράφω` Assinar
+-   `Περιέχω` Conter
+-   `Βελτιώνω` Melhorar
 
 ## Verbos -άω (-ώ)
 
@@ -62,12 +103,19 @@
 -   `Τραγουδάω` Cantar
 -   `Βοηθάω` Ajudar
 -   `Νικάω` Ganhar/Vencer
+-   `Μελετάω` Estudar
+-   `Σταματάω` Parar
+-   `Ακολουθάω` Seguir
+-   `Παρακαλάω` Pedir/Implorar
 
 ## Verbos -ώ
 
 -   `Μπορώ` Poder
     -   `Μπορεί` Terceira pessoa do singular usada pro impessoal "talvez".
 -   `Χρησιμοποιώ` Usar
+-   `Kαλώ` Chamar
+-   `Ευχαριστώ` Agradecer
+-   `Εννοώ` Significar (elaboração)
 
 ## Verbos irregulares
 
@@ -77,3 +125,5 @@
 
 -   `Χιονίζει` Nevar
 -   `Βρέχει` Chover
+-   `Νοιάζει` Importar
+-   `Συμβαίνει` Acontecer/Ocorrer

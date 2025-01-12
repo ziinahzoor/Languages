@@ -3,6 +3,7 @@
 -   `Foule` Multidão
 -   `Humain` Humano
 -   `Gens` Gente
+-   `Public` Público
 -   `Mec` Cara
 -   `Homme` Homem
 -   `Homme de ménage` Faxineiro
@@ -73,6 +74,7 @@
 -   `Client` Cliente
 -   `Touriste` Turista
 -   `Marié` Noivo (No dia do casamento)
+-   `Mariée` Noiva (No dia do casamento)
 -   `Voleur` Ladrão
 -   `Invité` Convidado
 -   `Passager` Passageiro
@@ -117,6 +119,8 @@
 -   `Couple` Casal
 -   `Habitant` Habitante
 -   `Piéton` Pedestre
+-   `Célébrité` Celebridade
+-   `Visiteur` Visitante
 
 ## La famille - Família
 
@@ -159,3 +163,4 @@
     -   `Service d'Aide Médicale Urgente`
 -   `Orchestre` Orquestra 🚹
 -   `Compagnie aérienne` Companhia aérea
+-   `Presse` Imprensa

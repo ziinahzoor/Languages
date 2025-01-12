@@ -39,6 +39,10 @@
 -   `Valyry` Valiriano 🌙
 -   `Jollōriros` Estudante ☀️
 -   `Uēpys` Ancião ☀️
+-   `Kerio` Cozinheiro/Chef 🌙
+-   `Zaldrīzāeksio` Montador de Dragão/Lorde de Dragão 🌙
+-   `Urnerys` Guardião de Dragão ☀️
+-   `Nēdys` Pessoa corajosa ☀️
 
 ## Lentor - Família 🌊
 

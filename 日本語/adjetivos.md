@@ -112,6 +112,9 @@
 -   <font size="5"><code><ruby>臭<rt>くさ</rt></ruby>い</code></font> Fedido/Fétido
 -   <font size="5"><code><ruby>上<rt>う</rt>手<rt>ま</rt></ruby>い</code></font> Hábil/Habilidoso/Bom em
     -   É um pouco mais casual que <font size="5"><code><ruby>上手<rt>じょうず</rt></ruby></code></font>
+-   <font size="5"><code><ruby>信<rt>しん</rt></ruby>じられない</code></font> Inacreditável
+-   <font size="5"><code><ruby>珍<rt>めずら</rt></ruby>しい</code></font> Raro
+-   `すごい` Incrível/Maravilhoso/Excelente
 
 ### Auxiliares
 
@@ -171,7 +174,8 @@
 -   <font size="5"><code><ruby>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Resistente/Durável/Robusto
 -   <font size="5"><code><ruby>大<rt>だい</rt>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Ok
     -   Também é muito usado para recusar coisas.
--   <font size="5"><code><ruby>大<rt>たい</rt>切<rt>せつ</rt></ruby></code></font> Importante
+-   <font size="5"><code><ruby>大<rt>たい</rt>切<rt>せつ</rt></ruby></code></font> Importante (Mais subjetivo)/Precioso
+-   <font size="5"><code><ruby>大<rt>だい</rt>事<rt>じ</rt></ruby></code></font> Importante (Mais objetivo)/Relevante
 -   <font size="5"><code><ruby>簡<rt>かん</rt>単<rt>たん</rt></ruby></code></font> Simples/Fácil/Descomplicado
     -   É mais objetivo.
 -   <font size="5"><code><ruby>暇<rt>ひま</rt></ruby></code></font> Livre/Desocupado
@@ -189,7 +193,11 @@
     -   Tem a nuance de não gostar do que se fala.
 -   <font size="5"><code><ruby>危<rt>き</rt>険<rt>けん</rt></ruby></code></font> Perigoso
 -   <font size="5"><code><ruby>必<rt>ひつ</rt>要<rt>よう</rt></ruby></code></font> Necessário/Essencial/Indispensável
+    -   É mais utilizado com necessidades externas, ou seja, que não são necessidades necessariamente pessoais. Também é mais utilizado com verbos (e substantivos quando é possível confundir com o verbo "existir", como com seres vivos).
 -   <font size="5"><code><ruby>完<rt>かん</rt>璧<rt>ぺき</rt></ruby></code></font> Perfeito/Sem defeitos
+-   <font size="5"><code><ruby>普<rt>ふ</rt>通<rt>つう</rt></ruby></code></font> Normal/Comum
+-   <font size="5"><code><ruby>残<rt>ざん</rt>念<rt>ねん</rt></ruby></code></font> Lamentável/Infeliz
+-   <font size="5"><code><ruby>別<rt>べつ</rt>々</ruby></code></font> Separado
 
 ## Adjetivos たる
 

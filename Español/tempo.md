@@ -19,6 +19,7 @@
 -   `Antes`
 -   `Después` Depois
 -   `Temprano` Cedo
+-   `Anteayer` Anteontem
 -   `Ayer` Ontem
 -   `Hoy` Hoje
 -   `Anoche` Noite passada

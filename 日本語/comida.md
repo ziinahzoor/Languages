@@ -128,89 +128,97 @@
 
 ### Caldos, molhos e temperos
 
--   `だし` Dashi
+-   <font size="5"><code><ruby>出<rt>だ</rt></ruby>し</code></font> Dashi
+    -   Geralmente escrito em kana.
     -   Caldo feito de diferentes ingredientes, como kombu e ossos ou carne de animais.
 -   <font size="5"><code><ruby>醤<rt>しょう</rt>油<rt>ゆ</rt></ruby></code></font> Shoyu
     -   Molho com pasta de soja fermentada, grãos torrados, salmoura e fungo koji.
--   `みりん` Mirin
+-   <font size="5"><code><ruby>味<rt>み</rt>醂<rt>りん</rt></ruby></code></font> Mirin
+    -   Geralmente escrito em kana.
     -   Vinho de arroz similiar ao saquê, mas com menos álcool e mais açúcar.
--   `たれ` Tarê
+-   <font size="5"><code><ruby>垂<rt>た</rt></ruby>れ</code></font> Tarê
+    -   Geralmente escrito em kana.
     -   Molho feito aquecendo e misturando, shoyu, sake (ou mirin) e açúcar (ou mel).
-    -   `てりやき` Teriyaki
+    -   <font size="5"><code><ruby>照<rt>て</rt></ruby>り<ruby>焼<rt>や</rt></ruby>き</code></font> Teriyaki
         -   Técnica em que o tarê é utilizado para marinar a comida antes de grelhá-la.
 -   <font size="5"><code><ruby>振<rt>ふ</rt></ruby>り<ruby>掛<rt>か</rt></ruby>け</code></font> Furikake
     -   Tempero para arroz que geralmente contém peixe seco, algas e gergelim.
 
 ### Comida
 
--   `わさび` Wasabi
+-   <font size="5"><code><ruby>山葵<rt>わさび</rt></ruby></code></font> Wasabi
     -   Raíz-forte japonesa. Gratinada até virar pasta para acompanhar sushi e sashimi.
--   `のり` Nori
+-   <font size="5"><code><ruby>海苔<rt>のり</rt></ruby></code></font> Nori
     -   Alga marinha ressecada.
--   `こんぶ` Kombu
+-   <font size="5"><code><ruby>昆<rt>こん</rt>布<rt>ぶ</rt></ruby></code></font> Kombu
     -   Outro tipo de alga.
--   `のりまき` Norimaki
+-   <font size="5"><code><ruby>海苔巻<rt>のりま</rt></ruby>き</code></font> Norimaki
     -   Pratos enrolados com alga nori.
--   `すしめし・しゃり` Shushimeshi/Shari
+-   <font size="5"><code><ruby>寿<rt>す</rt>司<rt>し</rt>飯<rt>めし</rt></ruby>・しゃり</code></font> Shushimeshi/Shari
     -   Arroz vinagreado com açúcar e sal
 -   <font size="5"><code><ruby>寿<rt>す</rt>司<rt>し</rt></ruby></code></font> Sushi
     -   Shari com frutos do mar (geralmente peixe) e outros ingredientes.
-    -   `にぎりずし` Nigiri/Nigirizushi
+    -   <font size="5"><code><ruby>握<rt>にぎ</rt></ruby>り<ruby>寿<rt>ず</rt>司<rt>し</rt></ruby></code></font> Nigiri/Nigirizushi
         -   Shari com peixe no topo
-    -   `まきずし` Maki/Makizushi
+    -   <font size="5"><code><ruby>巻<rt>ま</rt></ruby>き<ruby>寿<rt>ず</rt>司<rt>し</rt></ruby></code></font> Maki/Makizushi
         -   Sushi enrolado em nori
-        -   `ほそまき` Hosomaki
+        -   <font size="5"><code><ruby>細<rt>ほそ</rt>巻<rt>ま</rt></ruby>き</code></font> Hosomaki
             -   Possui um único ingrediente envolto pelo shari
-        -   `ふとまき` Futomaki
+        -   <font size="5"><code><ruby>太<rt>ふと</rt>巻<rt>ま</rt></ruby>き</code></font> Futomaki
             -   Possui vários ingredientes envoltos pelo shari
-        -   `うらまき` Uramaki
+        -   <font size="5"><code><ruby>裏<rt>うら</rt>巻<rt>ま</rt></ruby>き</code></font> Uramaki
             -   Sushi inverso: Os ingredientes são envoltos pela nori que por sua vez é envolta com o shari.
-        -   `ぐんかんずし・ぐんかんまき` Gunkanzushi/Gunkanmaki
+        -   <font size="5"><code><ruby>軍<rt>ぐん</rt>艦<rt>かん</rt>寿<rt>ず</rt>司<rt>し</rt></ruby>・<ruby>軍<rt>ぐん</rt>艦<rt>かん</rt>巻<rt>ま</rt></ruby>き</code></font> Gunkanzushi/Gunkanmaki
             -   O metade do tubo de nori é preenchido com shari e a outra com outros ingredientes.
--   `さしみ` Sashimi
+-   <font size="5"><code><ruby>刺<rt>さし</rt>身<rt>み</rt></ruby></code></font> Sashimi
     -   Peixe (ou outro fruto do mar) cru
 -   <font size="5"><code><ruby>弁<rt>べん</rt>当<rt>とう</rt></ruby></code></font> Lanche de lancheira
     -   <font size="5"><code>お<ruby>弁<rt>べん</rt>当<rt>とう</rt></ruby></code></font> Teineigo
+    -   <font size="5"><code><ruby>駅<rt>えき</rt>弁<rt>べん</rt></ruby></code></font> Lanche comprado na estação
     -   Uma marmita geralmente contendo arroz, carne, vegetais e macarrão.
--   `うどん` Udon
+-   <font size="5"><code><ruby>饂飩<rt>うどん</rt></ruby></code></font> Udon
+    -   Geralmente escrito em kana.
     -   Macarrão grosso feito com farinha de trigo. Geralmente servido com algum caldo ou molho, como o dashi.
 -   `そば` Soba
     -   Macarrão tipo espaguete feito inteiramente ou parcialmente com farinha de trigo sarraceno.
     -   Também é um termo genérico para macarrão, como usado em `やきそば`, que é macarrão frito feito com farinha de trigo comum.
--   `ラーメン` Lámen
+-   <font size="5"><code><ruby>拉麺<rt>ラーメン</rt></ruby></code></font> Lámen
+    -   Geralmente escrito em kana.
     -   `カップラーメン` Cup-Noodles
--   `ぎゅうどん` Tigela de carne
+-   <font size="5"><code><ruby>牛<rt>ぎゅう</rt>丼<rt>どん</rt></ruby></code></font> Tigela de carne
     -   Arroz servido com fatias finas de carne e cebola em cima. Geralmente servido com algum caldo ou molho, como o dashi.
--   `てんぷら` Tempura
+-   <font size="5"><code><ruby>天<rt>てん</rt></ruby>ぷら</code></font> Tempura
     -   Frutos do mar e vegetais levemente batidos e bem-fritos.
+-   <font size="5"><code><ruby>天<rt>てん</rt>丼<rt>どん</rt></ruby></code></font> Tigela de tempura
 -   <font size="5"><code><ruby>唐揚<rt>からあ</rt></ruby>げ</code></font> Karaage
     -   Comida (geralmente frango ou outras carnes) envolta em farinha com fécula de batata (ou milho) e então frita.
--   `おにぎり` Oniguiri/Bolinho de arroz
+-   <font size="5"><code>お<ruby>握<rt>にぎ</rt></ruby>り</code></font> Oniguiri/Bolinho de arroz
+    -   Geralmente escrito em kana.
     -   Arroz branco em formato triangular com a base envolta por nori.
--   `もち` Mochi/Bolinho de arroz
+-   <font size="5"><code><ruby>餅<rt>もち</rt></ruby></code></font> Mochi/Bolinho de arroz
     -   もち米 (arroz pegajoso) transformado em pasta e moldado com água, açúcar e amido de milho.
--   `みそ` Miso
+-   <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt></ruby></code></font> Miso
     -   Pasta de soja fermentada com sal, fungo koji e ingredientes opcionais.
--   `みそしる` Sopa miso
+-   <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt>汁<rt>しる</rt></ruby></code></font> Sopa miso
     -   Caldo dashi com miso e ingredientes opcionais, como tofu.
--   `とんかつ` Tonkatsu
+-   <font size="5"><code><ruby>豚<rt>とん</rt></ruby>カツ</code></font> Tonkatsu
     -   Costeletas de porco empanadas e fritas.
-    -   `かつどん` Katsudon
+    -   <font size="5"><code>カツ<ruby>丼<rt>どん</rt></ruby></code></font> Katsudon
         -   Arroz servido com tonkatsu no topo. Geralmente acompanha ovos e cebolas.
-    -   `みそかつ` Misokatsu
+    -   <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt></ruby>カツ</code></font> Misokatsu
         -   Variação com molho miso
 -   <font size="5"><code><ruby>串<rt>くし</rt></ruby>カツ</code></font> Kushikatsu
     -   Espetinhos de carne e vegetais fritos
--   `とうふ` Tofu
+-   <font size="5"><code><ruby>豆<rt>とう</rt>腐<rt>ふ</rt></ruby></code></font> Tofu
     -   Blocos de leite de soja fermentado.
-    -   `マーボーどうふ` Mapo tofu
+    -   <font size="5"><code><ruby>麻<rt>マー</rt>婆<rt>ボー</rt>豆<rt>どう</rt>腐<rt>ふ</rt></ruby></code></font> Mapo tofu
         -   Tofu picante em molho picante vermelho, carne e pasta de amêndoa e feijão preto fermentado.
--   `ギョーザ` Guioza
+-   <font size="5"><code><ruby>餃子<rt>ギョーザ</rt></ruby></code></font> Guioza
     -   Bolinhos fritos recheados com carne de porco e vegetais.
--   `たこやき` Takoyaki
+-   <font size="5"><code>たこ<ruby>焼<rt>や</rt></ruby>き</code></font> Takoyaki
     -   Bolinhos grelhados recheados com polvo e outros ingredientes.
--   `おかゆ` Mingau de arroz
--   `なっとう` Soja fermentada
+-   <font size="5"><code>お<ruby>粥<rt>かゆ</rt></ruby></code></font> Mingau de arroz
+-   <font size="5"><code><ruby>納<rt>なっ</rt>豆<rt>とう</rt></ruby></code></font> Soja fermentada
 -   <font size="5"><code><ruby>肉<rt>にく</rt></ruby>まん</code></font> Pãozinho de carne no vapor
 -   <font size="5"><code>お<ruby>好<rt>この</rt></ruby>み<ruby>焼<rt>や</rt></ruby>き</code></font> Okonomiyaki
     -   Panqueca frita com vegetais, carne e/ou frutos do mar e coberta com vários molhos e condimentos.
@@ -228,9 +236,9 @@
     -   `ランチ`
 -   <font size="5"><code><ruby>晩<rt>ばん</rt>ご<rt></rt>飯<rt>はん</rt></ruby></code></font> Jantar
 -   <font size="5"><code><ruby>夕<rt>ゆう</rt>飯<rt>はん</rt></ruby></code></font> Jantar
--   `しょくじ` Refeição
+-   <font size="5"><code><ruby>食<rt>しょく</rt>事<rt>じ</rt></ruby></code></font> Refeição
 -   `メイン` Prato principal
 -   <font size="5"><code><ruby>揚<rt>あ</rt></ruby>げ<ruby>物<rt>もの</rt></ruby></code></font> Comida frita
 -   `ファストフード` Fast-food
--   `ようしょく` Comida ocidental
+-   <font size="5"><code><ruby>洋<rt>よう</rt>食<rt>しょく</rt></ruby></code></font> Comida ocidental
 -   <font size="5"><code><ruby>好<rt>こう</rt>物<rt>ぶつ</rt></ruby></code></font> Comida preferida/Prato preferido

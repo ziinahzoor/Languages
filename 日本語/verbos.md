@@ -122,7 +122,8 @@
     -   Geralmente acompanha o `に`
     -   Para a versão transitiva, usa-se `に` + `する`
     -   Também é usado para indicar o valor de compras (o quanto resultou).
--   <font size="5"><code><ruby>要<rt>い</rt></ruby>る</code></font> Precisar
+-   <font size="5"><code><ruby>要<rt>い</rt></ruby>る</code></font>
+    -   É mais utilizado com necessidades internas, ou seja, necessidades mais pessoais. Também é mais utilizado com substantivos (quando não é possível confundir com o verbo "existir", como com seres vivos).
 -   <font size="5"><code><ruby>入<rt>はい</rt></ruby>る</code></font> Entrar/Matricular
     -   Também utilizado para "despejar" algo em algum recipiente.
 -   <font size="5"><code><ruby>減<rt>へ</rt></ruby>る</code></font> Diminuir
@@ -144,7 +145,7 @@
 -   <font size="5"><code><ruby>終<rt>お</rt></ruby>わる</code></font> Terminar/Acabar
 -   <font size="5"><code><ruby>別<rt>わか</rt></ruby>れる</code></font> Separar/Dividir
     -   Serve para relacionamentos
--   `おどる` Dançar
+-   <font size="5"><code><ruby>踊<rt>おど</rt></ruby>る</code></font> Dançar
 -   <font size="5"><code><ruby>泊<rt>と</rt></ruby>まる</code></font> Ficar (em algum lugar)
 -   <font size="5"><code><ruby>止<rt>と</rt></ruby>まる</code></font> Parar (Movimento)
 -   <font size="5"><code><ruby>分<rt>わ</rt></ruby>かる</code></font> Entender
@@ -153,6 +154,7 @@
 -   <font size="5"><code><ruby>切<rt>き</rt></ruby>る</code></font> Cortar
 -   <font size="5"><code><ruby>閉<rt>し</rt></ruby>まる</code></font> Fechar (I)
 -   <font size="5"><code><ruby>上<rt>あ</rt></ruby>がる</code></font> Subir (I)
+    -   Também significa "parar" quando se refere à chuva.
 -   <font size="5"><code><ruby>曲<rt>ま</rt></ruby>がる</code></font> Virar/Curvar
 -   <font size="5"><code><ruby>送<rt>おく</rt></ruby>る</code></font> Mandar/Enviar
 -   `まわる` Girar/Andar em volta/Transitar
@@ -184,6 +186,10 @@
 -   <font size="5"><code><ruby>亡<rt>な</rt></ruby>くなる</code></font> Falecer
 -   <font size="5"><code><ruby>鍵<rt>かぎ</rt></ruby>がかかる</code></font> Trancar (I)
 -   <font size="5"><code><ruby>集<rt>あつ</rt></ruby>まる</code></font> Reunir/Juntar
+-   <font size="5"><code><ruby>決<rt>き</rt></ruby>まる</code></font> Estar decidido/Estar determinado
+-   <font size="5"><code><ruby>見<rt>み</rt></ruby>つかる</code></font> Ser achado/Ser encontrado (I)
+-   <font size="5"><code><ruby>残<rt>のこ</rt></ruby>る</code></font> Restar/Sobrar
+-   <font size="5"><code><ruby>黙<rt>だま</rt></ruby>る</code></font> Calar-se
 
 ### う
 
@@ -194,9 +200,9 @@
     -   `おっしゃる` Sonkeigo (Godan).
     -   <font size="5"><code><ruby>申<rt>もう</rt>す</ruby></code></font> Kenjougo (Godan).
 -   <font size="5"><code><ruby>買<rt>か</rt></ruby>う</code></font> Comprar
--   <font size="5"><code><ruby>思<rt>おも</rt></ruby>う</code></font> Pensar/Achar
+-   <font size="5"><code><ruby>思<rt>おも</rt></ruby>う</code></font> Pensar/Achar (T)
     -   Geralmente acompanha o `と`
-    -   Usado no fim da frase para expressar opiniões.
+    -   Mais utilizado para expressar opiniões.
     -   Geralmente troca-se o `です` acompanhado pela forma plana.
 -   <font size="5"><code><ruby>歌<rt>うた</rt>う</ruby></code></font> Cantar
 -   `もらう` Receber
@@ -207,9 +213,14 @@
 -   <font size="5"><code><ruby>会<rt>あ</rt></ruby>う</code></font> Encontrar
     -   `と会う` Encontrar com
     -   `に会う` Encontrar o/a
+-   <font size="5"><code><ruby>合<rt>あ</rt>う</ruby></code></font> Juntar/Fundir/Caber
 -   <font size="5"><code><ruby>使<rt>つか</rt>う</ruby></code></font> Usar
--   `わらう` Rir
+-   <font size="5"><code><ruby>笑<rt>わら</rt></ruby>う</code></font> Rir
 -   <font size="5"><code><ruby>払<rt>はら</rt></ruby>う</code></font> Pagar
+    -   Também pode ser usado em contextos figurados, como "pagar atenção".
+    -   <font size="5"><code><ruby>支<rt>し</rt>払<rt>はら</rt></ruby>う</code></font> Pagar
+        -   Só possui o significado literal.
+        -   Mais usado em contextos comerciais.
 -   <font size="5"><code><ruby>習<rt>なら</rt></ruby>う</code></font> Aprender (Com alguém ensinando)
 -   <font size="5"><code><ruby>吸<rt>す</rt></ruby>う</code></font> Fumar
 -   <font size="5"><code><ruby>洗<rt>あら</rt></ruby>う</code></font> Lavar
@@ -217,7 +228,7 @@
 
 ### く
 
--   `つづく` Continuar
+-   <font size="5"><code><ruby>続<rt>つづ</rt></ruby>く</code></font> Continuar (I)
 -   <font size="5"><code><ruby>聞<rt>き</rt></ruby>く</code></font> Ouvir/Perguntar
     -   Para perguntar geralmente acompanha o `に`
 -   <font size="5"><code><ruby>行<rt>い</rt></ruby>く</code></font> Ir
@@ -238,6 +249,7 @@
     -   Tem a nuance de criar uma abertura ou espaço vazio.
 -   <font size="5"><code><ruby>開<rt>ひら</rt></ruby>く</code></font> Abrir (T/I)
     -   Tem a nuance de ser um movimento tridimensional, como algo se "desdobrar" ao abrir. Quando intercambiável com <font size="5"><code><ruby>開<rt>あ</rt></ruby>く</code></font>, tem mais foco no movimento de abrir do que na ação de abrir.
+    -   É o verbo utilizado quando abrir tem o sentido de "inaugurar" ou "criar".
 -   <font size="5"><code><ruby>歩<rt>ある</rt></ruby>く</code></font> Andar
 -   <font size="5"><code><ruby>咲<rt>さ</rt></ruby>く</code></font> Florescer
 -   `すく` Esvaziar
@@ -260,7 +272,7 @@
 ### ぐ
 
 -   <font size="5"><code><ruby>泳<rt>およ</rt></ruby>ぐ</code></font> Nadar
--   `いそぐ` Apressar
+-   <font size="5"><code><ruby>急<rt>いそ</rt></ruby>ぐ</code></font> Apressar
 -   <font size="5"><code><ruby>脱<rt>ぬ</rt></ruby>ぐ</code></font> Despir/Tirar (roupa)
 
 ### す
@@ -274,17 +286,18 @@
 -   <font size="5"><code><ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>す</code></font> Retirar
 -   `ひっこす` Mudar-se
 -   <font size="5"><code><ruby>探<rt>さが</rt></ruby>す</code></font> Procurar
--   `おとす` Derrubar/Derramar/Deixar cair
--   <font size="5"><code><ruby>押<rt>お</rt></ruby>す</code></font> Empurrar/Apertar/Pressionar
+-   <font size="5"><code><ruby>落<rt>お</rt></ruby>とす</code></font> Derrubar/Derramar/Deixar cair (T)
+-   <font size="5"><code><ruby>押<rt>お</rt></ruby>す</code></font> Empurrar/Apertar/Pressionar/Inserir
+    -   Muito usado na tecnologia para tudo que envolva entrada de dados.
 -   <font size="5"><code><ruby>消<rt>け</rt></ruby>す</code></font> Apagar/Desligar
 -   <font size="5"><code><ruby>差<rt>さ</rt></ruby>す</code></font> Segurar (um guarda-chuvas)
 -   <font size="5"><code><ruby>無<rt>な</rt></ruby>くす</code></font> Perder (não ter mais) (T)
 -   <font size="5"><code><ruby>外<rt>はず</rt></ruby>す</code></font> Tirar/Remover (óculos, cintos)
 -   <font size="5"><code><ruby>返<rt>かえ</rt>す</ruby></code></font> Devolver
 -   <font size="5"><code><ruby>貸<rt>か</rt></ruby>す</code></font> Emprestar
--   <font size="5"><code><ruby>渡<rt>わた</rt></ruby>す</code></font> Entregar (passar diretamente para alguém)
+-   <font size="5"><code><ruby>渡<rt>わた</rt></ruby>す</code></font> Entregar (passar diretamente para alguém)/Atravessar/Cruzar (T)
 -   <font size="5"><code><ruby>倒<rt>たお</rt></ruby>す</code></font> Derrubar/Derrotar
--   <font size="5"><code><ruby>渡<rt>わた</rt></ruby>す</code></font> Atravessar/Cruzar (T)
+-   <font size="5"><code><ruby>直<rt>なお</rt></ruby>す</code></font> Consertar/Reparar
 
 ### つ
 
@@ -326,7 +339,7 @@
 -   <font size="5"><code><ruby>読<rt>よ</rt></ruby>む</code></font> Ler
 -   <font size="5"><code><ruby>進<rt>すす</rt></ruby>む</code></font> Avançar/Seguir em frente
 -   <font size="5"><code><ruby>頼<rt>たの</rt></ruby>む</code></font> Pedir/Solicitar/Implorar
--   <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しむ</code></font> Divertir-seSatisfazer-se
+-   <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しむ</code></font> Divertir-se/Satisfazer-se
 
 ## 一段 - Ichidan
 
@@ -360,13 +373,21 @@
     -   Quando o próprio verbo é usado no negativo, tem a nuance de "não tão demais", "não ocorre tanto assim".
 -   <font size="5"><code><ruby>借<rt>か</rt></ruby>りる</code></font> Pegar emprestado/Alugar
 -   <font size="5"><code><ruby>似<rt>に</rt></ruby>る</code></font> Parecer/Assemelhar
+-   <font size="5"><code><ruby>信<rt>しん</rt></ruby>じる</code></font> Acreditar
+-   <font size="5"><code><ruby>感<rt>かん</rt></ruby>じる</code></font> Sentir/Experienciar
+-   <font size="5"><code><ruby>落<rt>お</rt></ruby>ちる</code></font> Derrubar/Derramar/Deixar cair (I)
+-   <font size="5"><code><ruby>閉<rt>と</rt></ruby>じる</code></font> Fechar/Tapar
+    -   Usado para olhos, livros, contas, reuniões, etc.
 
 ### <ruby>下<rt>しも</rt>一<rt>いち</rt>段<rt>だん</rt></ruby>
 
 -   <font size="5"><code><ruby>食<rt>た</rt></ruby>べる</code></font> Comer
     -   <font size="5"><code><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がる</code></font> Sonkeigo (Godan).
+-   <font size="5"><code><ruby>見<rt>み</rt></ruby>える</code></font> Ser visto/Aparentar
 -   <font size="5"><code><ruby>見<rt>み</rt></ruby>せる</code></font> Mostrar
 -   <font size="5"><code><ruby>見<rt>み</rt></ruby>つける</code></font> Achar/Encontrar
+-   <font size="5"><code><ruby>見<rt>み</rt></ruby>かける</code></font> Notar/Perceber
+-   <font size="5"><code><ruby>聞<rt>き</rt></ruby>こえる</code></font> Ser ouvido/Soar
 -   <font size="5"><code><ruby>出<rt>で</rt>る</ruby></code></font> Sair (De algum lugar)/Participar
 -   <font size="5"><code><ruby>出<rt>で</rt>かける</ruby></code></font> Sair (Para algum lugar)
 -   <font size="5"><code><ruby>寝<rt>ね</rt>る</ruby></code></font> Dormir
@@ -375,7 +396,8 @@
     -   Não serve apenas para coisas físicas.
 -   `あげる` Dar (Do ponto de vista de quem dá)
     -   Não serve apenas para coisas físicas.
--   `つづける` Continuar
+    -   Também pode significar "fazer algo para alguém" quando usado com a forma `て`.
+-   <font size="5"><code><ruby>続<rt>つづ</rt></ruby>ける</code></font> Continuar (T)
 -   <font size="5"><code><ruby>助<rt>たす</rt>ける</ruby></code></font> Ajudar/Resgatar
 -   <font size="5"><code><ruby>教<rt>おし</rt></ruby>える</code></font> Ensinar
     -   Também é usado para contar informações novas.
@@ -401,7 +423,7 @@
 -   <font size="5"><code><ruby>入<rt>い</rt>れる</ruby></code></font> Colocar/Marcar (compromissos)
 -   <font size="5"><code><ruby>始<rt>はじ</rt></ruby>める</code></font> Começar (T)
 -   `しらべる` Examinar/Dar uma olhada
--   `うける` Pegar/Receber/Passar por um evento
+-   <font size="5"><code><ruby>受<rt>う</rt></ruby>ける</code></font> Pegar/Receber/Passar por um evento
 -   <font size="5"><code><ruby>温<rt>あたた</rt></ruby>める</code></font> Esquentar/Aquecer
 -   `かける` Ligar/Chamar (ao telefone)
     -   Tem uma nuance de iniciar a chamada, não necessariamente falar ao telefone.
@@ -424,6 +446,11 @@
 -   <font size="5"><code><ruby>負<rt>ま</rt></ruby>ける</code></font> Perder/Ser derrotado
 -   <font size="5"><code><ruby>決<rt>き</rt></ruby>める</code></font> Decidir
 -   <font size="5"><code><ruby>増<rt>ふ</rt></ruby>える</code></font> Aumentar
+-   <font size="5"><code><ruby>考<rt>かんが</rt></ruby>える</code></font> Pensar/Ponderar
+    -   Diz respeito ao ato de pensar em si, e não de expressar uma opinião.
+-   <font size="5"><code><ruby>話<rt>はな</rt></ruby>しかける</code></font> Abordar/Iniciar uma conversa
+-   <font size="5"><code><ruby>消<rt>き</rt></ruby>える</code></font> Desaparecer/Desvanecer
+-   <font size="5"><code><ruby>集<rt>あつ</rt></ruby>める</code></font> Coletar/Reunir/Juntar
 
 ## Verbos する
 
@@ -452,7 +479,7 @@
 -   `キャンセル` Cancelar
 -   <font size="5"><code><ruby>電<rt>でん</rt>話<rt>わ</rt></ruby></code></font> + `に` Ligar/Falar ao telefone
 -   `メール` Enviar um e-mail/mensagem de texto
--   `しょうかい` Apresentar/Introduzir
+-   <font size="5"><code><ruby>紹<rt>しょう</rt>介<rt>かい</rt></ruby></code></font> Apresentar/Introduzir
 -   <font size="5"><code><ruby>散<rt>さん</rt>歩<rt>ぽ</rt></ruby></code></font> Passear
 -   `りゅうがく` Fazer intercâmbio
 -   `そつぎょう` Graduar-se
@@ -481,3 +508,10 @@
 -   <font size="5"><code><ruby>心<rt>しん</rt>配<rt>ぱい</rt></ruby></code></font> Preocupar-se
 -   <font size="5"><code><ruby>水<rt>すい</rt>泳<rt>えい</rt></ruby></code></font> Nadar
 -   <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しみ</code></font> + `に` Esperar ansiosamente/Ansiar
+-   <font size="5"><code><ruby>発<rt>はつ</rt>音<rt>おん</rt></ruby></code></font> Pronunciar
+-   <font size="5"><code><ruby>約<rt>やく</rt>束<rt>そく</rt></ruby></code></font> Prometer
+-   <font size="5"><code><ruby>預<rt>よ</rt>金<rt>きん</rt></ruby></code></font> Depositar
+-   <font size="5"><code><ruby>記<rt>き</rt>入<rt>にゅう</rt></ruby></code></font> Preencher
+-   <font size="5"><code><ruby>署<rt>しょ</rt>名<rt>めい</rt></ruby></code></font> Assinatura
+-   <font size="5"><code><ruby>両<rt>りょう</rt>替<rt>がえ</rt></ruby></code></font> Trocar/Fazer câmbio/Converter
+-   <font size="5"><code><ruby>募<rt>ぼ</rt>金<rt>きん</rt></ruby></code></font> Doar

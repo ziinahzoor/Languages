@@ -11,6 +11,7 @@
 -   <font size="5"><code><ruby>近<rt>きん</rt>所<rt>じょ</rt></ruby></code></font> Vizinhança
 -   <font size="5"><code><ruby>辺<rt>あた</rt></ruby>り</code></font> Proximidades/Em volta
 -   <font size="5"><code><ruby>住<rt>じゅう</rt>所<rt>しょ</rt></ruby></code></font> Endereço
+-   <font size="5"><code><ruby>世<rt>せ</rt>界<rt>かい</rt></ruby></code></font> Mundo
 -   <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
     -   <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby></code></font> Honorífico (Teineigo)
     -   <font size="5"><code><ruby>店<rt>てん</rt>内<rt>ない</rt></ruby></code></font> Dentro da loja
@@ -81,7 +82,7 @@
 -   `トンネル` Túnel
 -   `はくぶつかん` Museu
 -   `びじゅつかん` Museu de arte
--   `しろ` Castelo
+-   <font size="5"><code><ruby>城<rt>しろ</rt></ruby></code></font> Castelo
 -   `ロビー` Entrada/Portaria/Salão
 -   `うけつけ` Recepção
 -   `スーパー` Supermercado
@@ -113,7 +114,7 @@
 -   `ドラッグストア` Drogaria
 -   `ショッピングセンター` Shopping
 -   `バスターミナル` Terminal de ônibus
--   `しま` Ilha
+-   <font size="5"><code><ruby>島<rt>しま</rt></ruby></code></font> Ilha
 -   `みなと` Porto
 -   <font size="5"><code><ruby>海<rt>かい</rt>外<rt>がい</rt></ruby></code></font> Exterior/Além-mar
 -   `リゾート` Resort

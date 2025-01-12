@@ -50,6 +50,33 @@
 -   `Χαρτί` Papel ✴️
 -   `Καμπάνα` Sino 🚺
 -   `Αλυσίδα` Corrente
+-   `Πιστόλι` Pistola ✴️
+-   `Πόρτα` Porta
+-   `Τοίχος` Parede 🚹
+-   `Πάτωμα` Chão ✴️
+-   `Παράθυρο` Janela ✴️
+-   `Ταβάνι` Teto ✴️
+-   `Σκεπή` Telhado 🚺
+-   `Έπιπλο` Móvel ✴️
+-   `Τραπέζι` Mesa ✴️
+-   `Νεροχύτης` Pia 🚹
+-   `Βρύση` Torneira
+-   `Ψυγείο` Geladeira ✴️
+-   `Συρτάρι` Gaveta ✴️
+-   `Σκάλα` Escada
+-   `Καθρέφτης` Espelho
+-   `Ράφι` Prateleira ✴️
+-   `Κουρτίνα` Cortina
+-   `Φως` Luz (elétrica) ✴️
+-   `Φωτιστικός` Lâmpada 🚹
+-   `Γραφείο` Escrivaninha ✴️
+-   `Χαλί` Tapete/Carpete ✴️
+-   `Καλοριφέρ` Radiador ✴️
+-   `Πολυθρόνα` Poltrona 🚺
+
+### Sala de estar
+
+-   `Καναπές` Sofá
 
 ### Cozinha
 
@@ -63,6 +90,9 @@
 -   `Μαχαίρι` Faca ✴️
 -   `Μπουκάλι` Garrafa ✴️
 -   `Μπολ` Tigela ✴️
+-   `Φούρνος` Forno
+-   `Ντουλάπι` Armário ✴️
+-   `Μαχαιροπίρουνο` Talher/Prataria ✴️
 
 ### Banheiro
 
@@ -71,11 +101,20 @@
 -   `Σαπούνι` Sabão ✴️
 -   `Σφουγγάρι` Esponja ✴️
 -   `Πετσέτα` Toalha
+-   `Μπανιέρα` Banheira
+-   `Ντους` Chuveiro ✴️
+-   `Νιπτήρας` Lavatório
 
 ### Quarto
 
 -   `Κουβέρτα` Coberta
 -   `Μαξιλάρι` Travesseiro ✴️
+-   `Ντουλάπα` Guarda-roupas 🚺
+-   `Κρεβάτι` Cama ✴️
+
+### Externo
+
+-   `Πισίνα` Piscina
 
 ### Elétricos e Eletrônicos
 
@@ -107,6 +146,8 @@
 -   `Πράγμα` Coisa ✴️
 -   `Αντικείμενο` Objeto ✴️
 -   `Κομμάτι` Pedaço ✴️
+-   `Χαρακτήρας` Caráter
+-   `Φως` Luz ✴️
 
 ## Atividades
 

@@ -3,7 +3,7 @@
 -   `Μεγάλος` Grande/Longo
 -   `Μικρός` Pequeno/Curto
 -   `Νόστιμος` Saboroso/Delicioso/Gostoso
--   `φρέσκος` Fresco
+-   `Φρέσκος` Fresco
 -   `Εντάξει` Ok
 -   `Δερμάτινος` De couro
 -   `Μάλλινος` De lã
@@ -31,7 +31,9 @@
 -   `Χοντρός` Gordo
 -   `Αδύνατος` Magro
 -   `Κουρασμένος` Cansado
+-   `Καλός` Bom
 -   `Ωραίος` Bom/Agradável/Bonito
+-   `Kακός` Ruim/Mau
 -   `Υπέροχος` Maravilhoso
 -   `Εξαιρετικός` Excelente
 -   `Γενικός` Geral
@@ -54,7 +56,7 @@
 -   `Σημαντικός` Importante/Significativo
 -   `Επίσημος` Formal/Oficial
 -   `Απαραίτητος` Necessário
--   `φυσιολογικός` Normal/Natural
+-   `Φυσιολογικός` Normal/Natural
 -   `Ολόκληρος` Inteiro
 -   `Τελικός` Último
 -   `Στρατιωτικός` Militar
@@ -66,5 +68,28 @@
 -   `Μόνος` Sozinho/Solitário/Único
     -   Quando usado com o reflexivo, tem o sentido de "sozinho/por si próprio".
 -   `Ίδιος` O mesmo/Igual/Próprio
+-   `Έξυπνος` Inteligente
+-   `Ήσυχος` Quieto/Calmo
+-   `Υπεύθυνος` Responsável
+-   `Γλυκός` Doce
+-   `Ανεξάρτητος` Independente
+-   `Αστείος` Divertido/Engraçado
+-   `Θετικός` Positivo
+-   `Αρνητικός` Negativo
+-   `Τρελός` Louco
+-   `Φιλικός` Amigável
+-   `Αγενής` Rude
+-   `Ευγενικός` Gentil
+-   `Παράξενος` Estranho/Esquisito
+-   `Σοβαρός` Sério
+-   `Γενναίος` Corajoso
+-   `Ανόητος` Bobo/Estúpido
+-   `Εγωιστικός` Egoísta
+-   `Απαίσιος` Horrível/Terrível
+-   `Συμπαθητικός` Simpático/Agradável
+-   `Αντιπαθητικός` Desagradável
+-   `Γενναιόδωρος` Generoso
+-   `Κοινωνικός` Sociável
+-   `Τίμιος` Honesto
 
 ## Nacionalidades

@@ -15,7 +15,8 @@
     -   `のど` Garganta
 -   `うで` Braço
     -   <font size="5"><code><ruby>手<rt>て</rt></ruby></code></font> Mão
--   `ゆび` Dedo
+        -   `ゆび` Dedo
+-   <font size="5"><code><ruby>胸<rt>むね</rt></ruby></code></font> Peito
 -   <font size="5"><code>お<ruby>腹<rt>なか</rt></ruby></code></font> Barriga/Estômago
 -   <font size="5"><code><ruby>背<rt>せ</rt>中<rt>なか</rt></ruby></code></font> Costas
 -   <font size="5"><code><ruby>足<rt>あし</rt></ruby></code></font> Pé/Perna

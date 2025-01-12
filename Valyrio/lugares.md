@@ -11,6 +11,8 @@
 -   `Īlilion` Encruzilhada 🌱
 -   `Ninkion` Planície/Campo 🌱
 -   `Vȳs` Planeta/Mundo ☀️
+-   `Dijemion` Câmara de aquecimento (para ovos de dragão) 🌱
+-   `Zaldrījudirys` Fosso dos dragões ☀️
 
 ## Dārior - Reinos 🌱
 

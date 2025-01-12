@@ -11,17 +11,24 @@
 -   `Drōmon` Ovo 🌱
 -   `Krēgo` Betteraba 🌙
 -   `Lōtinty` Torta 🌙
+-   `Lopon` Sal 🌱
+-   `Ajesurilaros` Tempero/Condimento ☀️
+-   `Nollon` Cogumelo 🌱
+-   `Zāliapos` Cebola ☀️
+-   `Nōro` Aipo 🌙
+-   `Kerilla` Sopa 🌊
 
 ## Gerpar - Frutas 🌙
 
 -   `Avero` Uva 🌙
+-   `Hōzita gerpa` Tomate 🌙
 
 ## Bebida
 
 -   `Iēdar` Água 🌊
 -   `Averilla` Vinho 🌊
 -   `Jūlor` Leite 🌊
--   `Ārilla` Cerveja
+-   `Ārilla` Cerveja 🌊
 
 ## Parklori - Refeições 🌱
 

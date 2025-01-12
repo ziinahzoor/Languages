@@ -5,6 +5,7 @@
 ### Ao chegar
 
 -   `こんにちは` Olá
+-   `どうも` Oi (casual)
 -   `もしもし` Alô
 -   `おはようございます` Bom dia
     -   `おはよう` Casual
@@ -48,6 +49,7 @@
 -   `ください` Por favor (Para objetos e ações)
 -   `おねがいします` Por favor (Para serviços)
 -   `さあ` Vamos/Bora
+    -   Usado para encorajar ou apressar.
 -   <font size="5"><code>ちょっと<ruby>待<rt>ま</rt></ruby>って</code></font> Espere um pouco
     -   <font size="5"><code><ruby>少<rt>しょう</rt>々</ruby>お<ruby>待<rt>ま</rt></ruby>ちください</code></font> Espere um pouco por favor
 
@@ -68,7 +70,10 @@
 
 ## Agradecimento
 
--   `ありがとうございます` Obrigado
+-   `ありがとう` Obrigado
+    -   `どうも` Casual
+    -   `どうもありがとう` Muito obrigado
+    -   `ありがとうございます` Teineigo
 -   `どういたしまして` De nada
     -   `いいえ` Mais comum
 -   `ごちそうさまでした` Obrigado pela comida
@@ -82,3 +87,5 @@
 ## Dúvidas
 
 -   <font size="5"><code><ruby>何<rt>なに</rt></ruby>が<ruby>困<rt>こま</rt></ruby>りましたか</code></font> Qual o problema?
+-   `わからない` Eu não sei
+    -   `わかない` Abreviação

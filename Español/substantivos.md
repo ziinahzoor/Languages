@@ -64,13 +64,14 @@
 -   `Televisión` Televisão
     -   `Televisor`
     -   `Tele` TV
+-   `Tableta` Tablet 🚺
 -   `Bolígrafo` Caneta 🚹
 -   `Examen` Prova 🚹
 -   `Computadora` Computador 🚺
     -   `PC` 🚺
 -   `Portátil` Laptop
 -   `Silla` Cadeira
--   `Sillón` Cadeirão/Poltrona
+-   `Sillón` Poltrona
 -   `Retrato`
 -   `Videojuego` Videogame
 -   `Mostrador` Bancada 🚹
@@ -166,6 +167,7 @@
 -   `Ratón` Mouse
 -   `Cadena` Corrente
 -   `Monumento`
+-   `Cable` Cabo
 
 ## Abstratos
 
@@ -194,7 +196,7 @@
 -   `Razón` Razão
 -   `Parte`
 -   `Fiebre` Febre
--   `Sueño` Sono
+-   `Sueño` Sono/Sonho
 -   `Miedo` Medo
 -   `Estornudo` Espirro
 -   `Conversación` Conversa
@@ -300,6 +302,22 @@
 -   `Lunar` Bolinha (padrão de bolinhas) 🚹
 -   `Uso`
 -   `Mayoría` Maioria
+-   `Contraseña` Senha
+-   `Tecnología` Tecnologia
+-   `Arroba`
+-   `Publicidad` Anúncio/Publicidade 🚺
+-   `Tema`
+-   `Solución` Solução
+-   `Abrazo` Abraço
+-   `Humor`
+-   `Beso` Beijo
+-   `Romance`
+-   `Amor`
+-   `Carácter` Caráter/Personalidade
+-   `Relación` Relação
+-   `Excusa` Desculpa
+-   `Estado civil`
+-   `Divorcio`
 
 ### Medidas
 
@@ -375,6 +393,7 @@
 -   `Programa`
 -   `Sitio` Site
     -   `Sitio web` Website
+    -   `Página web`
 -   `Web` Internet
 -   `Estudio` Estudo
 -   `Turismo`
@@ -382,6 +401,9 @@
 -   `Patada` Chute
 -   `Boda` Cerimônia de casamento
 -   `Festival`
+-   `Buzón de voz` Correio de voz
+-   `Blog`
+-   `Paseo` Passeio
 
 ### Compras
 
@@ -419,6 +441,18 @@
 -   `Física`
 -   `Biología` Biologia
 -   `Matemáticas` Matemática
+-   `Literatura`
+-   `Informática`
+
+### Leitura
+
+-   `Capítulo`
+-   `Párrafo` Parágrafo
+-   `Texto`
+-   `Novela` Romance
+-   `Poema`
+-   `Autobiografía` Autobiografia
+-   `Ciencia ficción` Ficção científica
 
 ### Esporte
 

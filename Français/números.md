@@ -46,6 +46,7 @@
 -   `Mille` Mil
     -   `Millier` Milhar
 -   `Million` Milhão
+-   `Milliard` Bilhão
 
 <!-- prettier-ignore-start -->
 > [!NOTE]
@@ -69,6 +70,7 @@
 -   `Huitième` Oitavo
 -   `Neuvième` Nono
 -   `Dixième` Décimo
+-   `Onzième` Décimo-primeiro
 -   `Vingtième` Vigésimo
 -   `Vingt et unième` Vigésimo-primeiro
 -   `Dernier` Último

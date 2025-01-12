@@ -2,6 +2,12 @@
 
 -   `そして` E/E então/E também (Sucessão de fatos)
 -   `それに` Além de/Além disso
+-   `それとも` Ou ao invés/Alternativamente
+    -   Usado apenas em perguntas.
+    -   Conecta duas alternativas em forma de uma pergunta.
+-   `それか` Ou/Isso ou
+    -   É mais casual.
+    -   Geralmente usado para responder uma pergunta com outra alternativa.
 -   `それで` Por isso/Portanto/Consequentemente
 -   `それでも` Apesar disso
 -   `でも` Mas/Entretanto/Porém (Começo de frase)

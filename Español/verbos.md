@@ -102,6 +102,7 @@
 -   `Odiar`
 -   `Acompañar` Acompanhar
 -   `Conversar`
+-   `Charlar` Bater papo
 -   `Apagar` Apagar/Desligar
 -   `Pintar`
 -   `Descansar`
@@ -187,6 +188,16 @@
 -   `Secar`
 -   `Bajarse` Descer
 -   `Funcionar`
+-   `Firmar` Assinar/Autografar
+-   `Crear` Criar
+-   `Instalar`
+-   `Comunicarse` Comunicar-se
+-   `Conectar`
+-   `Chatear` Conversar online
+-   `Borrar` Apagar
+-   `Regalar` Dar um presente/Dar de presente
+-   `Celebrar`
+-   `Aceptar` Aceitar
 
 ## Los verbos -er
 
@@ -216,6 +227,7 @@
 -   `Doler` Doer
 -   `Poner` Por/Colocar
     -   `Ponerse` Vestir/Calçar/Sentir-se
+        -   Usado com emoções para significar "ficar", "tornar-se".
 -   `Llover` Chover
 -   `Poder`
 -   `Perder`
@@ -280,6 +292,7 @@
 -   `Añadir` Acrescentar/Adicionar
 -   `Subir`
     -   `Subirse` Subir/Entrar (em algum veículo)
+    -   Também pode significar "fazer upload".
 -   `Imprimir`
 -   `Conducir` Dirigir
 -   `Cubrir` Cobrir
@@ -288,3 +301,4 @@
 -   `Describir` Descrever
 -   `Incluir`
 -   `Destruir`
+-   `Traducir` Traduzir

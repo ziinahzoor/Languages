@@ -154,3 +154,5 @@
 -   `Frutería` Frutaria
 -   `Quiosco` Banca de jornal 🚹
 -   `Afueras` Periferia
+-   `Foro` Fórum
+-   `Discoteca` Boate
