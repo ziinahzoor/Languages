@@ -49,6 +49,9 @@
 -   `Lēvītsos` Colher ☀️
 -   `Tēgriapos` Prato ☀️
 -   `Māvos` Jarra ☀️
+-   `Galry` Martelo 🌙
+-   `Toron` Tijolo 🌱
+-   `Hiōriros` Estátua ☀️
 
 ## Abstratos
 

@@ -82,6 +82,7 @@
 
 ## Coletivos
 
+-   `Dizaine` Dezena
 -   `Douzaine` Dúzia
 
 ## L'Argent - Dinheiro

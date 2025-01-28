@@ -318,6 +318,21 @@
 -   `Excusa` Desculpa
 -   `Estado civil`
 -   `Divorcio`
+-   `Artículo` Artigo
+-   `Daño` Dano
+-   `Causa`
+-   `Título`
+-   `Crisis` Crise
+-   `Paz`
+-   `Situación` Situação
+-   `Significado`
+-   `Repaso` Revisão 🚹
+-   `Frase`
+-   `Resumen` Resumo
+-   `Apunte` Anotação 🚹
+-   `Resultado`
+-   `Apoyo` Apoio
+-   `Contenido` Conteúdo
 
 ### Medidas
 
@@ -404,6 +419,7 @@
 -   `Buzón de voz` Correio de voz
 -   `Blog`
 -   `Paseo` Passeio
+-   `Traducción` Tradução
 
 ### Compras
 

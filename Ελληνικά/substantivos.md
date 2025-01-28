@@ -148,6 +148,26 @@
 -   `Κομμάτι` Pedaço ✴️
 -   `Χαρακτήρας` Caráter
 -   `Φως` Luz ✴️
+-   `Ποσό` Quantia/Quantidade ✴️
+-   `Ζευγάρι` Par/Casal ✴️
+-   `Πλειοψηφία` Maioria
+-   `Ύψος` Altura ✴️
+-   `Πλάτος` Largura ✴️
+-   `Μήκος` Comprimento ✴️
+-   `Βάρος` Peso ✴️
+-   `Όγκος` Volume
+-   `Διάσταση` Dimensão
+
+### Medidas
+
+-   `Εκατοστό` Centímetro (Casual) ✴️
+-   `Μέτρο` Metro ✴️
+-   `Χιλιόμετρο` Quilômetro ✴️
+-   `Μίλι` Milha ✴️
+-   `Γραμμάριο` Grama ✴️
+-   `Κιλό` Quilo ✴️
+-   `Τόνος` Tonelada 🚹
+-   `Λίτρο` Litro ✴️
 
 ## Atividades
 
@@ -169,3 +189,8 @@
 ## Linguagens
 
 -   `Αγγλικά` Inglês
+-   `Τόνος` Acento agudo
+
+## Música
+
+-   `Τόνος` Tom/Nota 🚹

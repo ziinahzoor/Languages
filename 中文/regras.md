@@ -63,6 +63,9 @@
     </tr>
 </table>
 
+-   Não existem equivalentes absolutos para "sim" e "não". Para concordar, repete-se o verbo principal e para discordar usa-se o verbo com a negação.
+-   Para perguntar preços, basta falar o que se quer seguido de <font size="6"><code><ruby>多少<rt>duōshao</rt>钱<rt>qián</rt></ruby></code></font>. Para afirmar preços, também usa-se o que se quer seguido do número cardinal e <font size="6"><code><ruby>块<rt>kuài</rt></ruby></code></font>.
+
 ## Perguntas
 
 -   Para perguntas de "sim" ou "não", usa-se <font size="6"><code><ruby>吗<rt>ma</rt></ruby></code></font> no final da frase.

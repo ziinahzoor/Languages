@@ -35,6 +35,7 @@
     -   <font size="5"><code><ruby>高<rt>こう</rt>校<rt>こう</rt></ruby></code></font> Ensino Médio (3 séries)
 -   <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt></ruby></code></font> Universidade
 -   <font size="5"><code><ruby>教<rt>きょう</rt>室<rt>しつ</rt></ruby></code></font> Sala de aula
+-   <font size="5"><code><ruby>塾<rt>じゅく</rt></ruby></code></font> Cursinho/Escola preparatória
 -   <font size="5"><code><ruby>図<rt>と</rt>書<rt>しょ</rt>館<rt>かん</rt></ruby></code></font> Biblioteca
 -   `ギム` Academia
 -   <font size="5"><code><ruby>喫<rt>きっ</rt>茶<rt>さ</rt>店<rt>てん</rt></ruby></code></font> Cafeteria
@@ -46,7 +47,7 @@
 -   <font size="5"><code><ruby>都<rt>と</rt>市<rt>し</rt></ruby></code></font> Cidade (City)
     -   <font size="5"><code><ruby>都<rt>と</rt>会<rt>かい</rt></ruby></code></font> Cidade urbana/Metrópole
 -   <font size="5"><code><ruby>町<rt>まち</rt></ruby></code></font> Cidade (Town)
--   `いなか` Interior/Área rural
+-   <font size="5"><code><ruby>田舎<rt>いなか</rt></ruby></code></font> Interior/Área rural
 -   `ホーム` Plataforma
 -   `かいさつ` Portão de embarque
 -   `のりかえ` Escala (de trens)
@@ -62,7 +63,7 @@
     -   `ひがしぐち` Saída leste
     -   `にしぐち` Saída oeste
 -   `じんじゃ` Santuário Xintoísta
--   `おてら` Templo Budista
+-   <font size="5"><code>お<ruby>寺<rt>てら</rt></ruby></code></font> Templo Budista
 -   <font size="5"><code><ruby>建<rt>たて</rt>物<rt>もの</rt></ruby></code></font> Edifício/Edificação/Imóvel
 -   `ビル` Prédio (com vários andares)
 -   <font size="5"><code>パン<ruby>屋<rt>や</rt></ruby></code></font> Padaria
@@ -70,7 +71,8 @@
 -   <font size="5"><code>ラーメン<ruby>屋<rt>や</rt></ruby></code></font> Loja de lámen
 -   <font size="5"><code><ruby>寿<rt>す</rt>司<rt>し</rt>屋<rt>や</rt></ruby></code></font> Loja de sushi
 -   <font size="5"><code><ruby>病<rt>びょう</rt>院<rt>いん</rt></ruby></code></font> Hospital
--   <font size="5"><code><ruby>海<rt>`うみ`</rt></ruby></code></font> Mar/Praia
+-   <font size="5"><code><ruby>海<rt>うみ</rt></ruby></code></font> Mar/Praia
+-   <font size="5"><code><ruby>浜<rt>はま</rt>辺<rt>べ</rt></ruby></code></font> Praia
 -   <font size="5"><code><ruby>公<rt>こう</rt>園<rt>えん</rt></ruby></code></font> Parque público
 -   `ゆうえんち` Parque temático
 -   <font size="5"><code><ruby>動<rt>どう</rt>物<rt>ぶつ</rt>園<rt>えん</rt></ruby></code></font> Zoológico
@@ -235,7 +237,7 @@
 ### ヨーロッパ - Europa
 
 -   `イギリス` Inglaterra
-    -   <font size="5"><code><ruby>英<rt>えい</rt>語<rt>ご</rt></ruby></code></font> Inglês (língua).
+    -   <font size="5"><code><ruby>英<rt>えい</rt>語<rt>ご</rt></ruby></code></font> Inglês (língua)
 -   `フランス` França
 -   `ロシア` Rússia
 -   `スペイン` Espanha

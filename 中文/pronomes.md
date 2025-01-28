@@ -66,8 +66,8 @@
 
 ## Demonstrativos
 
--   <font size="6"><code><ruby>这<rt>zhè</rt></ruby></code></font> Este/Esta/Isto
--   <font size="6"><code><ruby>那<rt>nà</rt></ruby></code></font> Esse/Essa/Isso
+-   <font size="6"><code><ruby>这<rt>zhè</rt></ruby></code></font> Este/Esta/Isto/Estes/Estas
+-   <font size="6"><code><ruby>那<rt>nà</rt></ruby></code></font> Esse/Essa/Isso/Esses/Essas
 
 ## Interrogativos
 

@@ -1,7 +1,16 @@
 # Adjetivos
 
+-   `Τεράστιος` Enorme
 -   `Μεγάλος` Grande/Longo
+-   `Μέσος` Médio/Mediano
 -   `Μικρός` Pequeno/Curto
+-   `Μακρύς` Longo
+-   `Πλατύς` Largo/Amplo
+-   `Φαρδύς` Frouxo/Largo
+-   `Πολύς` Muito/Demais
+-   `Λιγότερος` Menos
+-   `Περισσότερος` Mais
+-   `Μισός` Metade
 -   `Νόστιμος` Saboroso/Delicioso/Gostoso
 -   `Φρέσκος` Fresco
 -   `Εντάξει` Ok
@@ -91,5 +100,10 @@
 -   `Γενναιόδωρος` Generoso
 -   `Κοινωνικός` Sociável
 -   `Τίμιος` Honesto
+-   `Αρκετός` Suficiente
+-   `Διπλός` Duplo
+-   `Τριπλός` Triplo
+-   `Ελαφρός` Leve
+-   `Βαρύς` Pesado
 
 ## Nacionalidades

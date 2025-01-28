@@ -29,6 +29,7 @@
 -   `みずぎ` Traje de banho
 -   `ネクタイ` Gravata
 -   <font size="5"><code><ruby>制<rt>せい</rt>服<rt>ふく</rt></ruby></code></font> Uniforme
+-   `スーツ` Traje/Terno
 -   <font size="5"><code><ruby>背広<rt>せびろ</rt></ruby></code></font> Terno
 
 ## Braços

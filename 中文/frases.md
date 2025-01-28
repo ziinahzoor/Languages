@@ -1,14 +1,24 @@
 # Frases
 
+-   <font size="6"><code><ruby>嘿<rt>hēi</rt></ruby></code></font> Ei
 -   <font size="6"><code><ruby>嗨<rt>hāi</rt></ruby></code></font> Oi
 -   <font size="6"><code><ruby>你<rt>nǐ</rt>好<rt>hǎo</rt></ruby></code></font> Olá
+    -   Deve ser usado só ao conhecer alguém.
 -   <font size="6"><code><ruby>您<rt>nín</rt>好<rt>hǎo</rt></ruby></code></font> Olá (Formal)
--   <font size="6"><code><ruby>你<rt>nǐ</rt>好<rt>hǎo</rt>吗<rt>ma</rt></ruby></code></font> Como vai?
-    -   <font size="6"><code><ruby>你<rt>nǐ</rt>吃<rt>chī</rt>飯<rt>fàn</rt>了<rt>le</rt>嗎<rt>ma</rt></ruby></code></font> Casual
+-   <font size="6"><code><ruby>你<rt>nǐ</rt>怎么样<rt>zěnmeyàng</rt></ruby></code></font> Como vai?
+    -   <font size="6"><code><ruby>你<rt>nǐ</rt>好<rt>hǎo</rt>吗<rt>ma</rt></ruby></code></font> Incomum
+    -   <font size="6"><code><ruby>你<rt>nǐ</rt>吃飯<rt>chīfàn</rt>了<rt>le</rt>嗎<rt>ma</rt></ruby></code></font> Casual
         -   Literalmente "você já comeu?".
+-   <font size="6"><code><ruby>挺<rt>tǐng</rt>好<rt>hǎo</rt>的<rt>de</rt></ruby></code></font> Muito bem!
+-   <font size="6"><code><ruby>还<rt>hái</rt>可以<rt>kěyǐ</rt></ruby></code></font> Mais ou menos
 -   <font size="6"><code><ruby>早<rt>zǎo</rt>上<rt>shàng</rt>好<rt>hǎo</rt></ruby></code></font> Bom dia
 -   <font size="6"><code><ruby>晚<rt>wǎn</rt>上<rt>shàng</rt>好<rt>hǎo</rt></ruby></code></font> Boa noite
 -   <font size="6"><code><ruby>下<rt>xià</rt>午<rt>wǔ</rt>好<rt>hǎo</rt></ruby></code></font> Boa tarde
 -   <font size="6"><code><ruby>我<rt>wǒ</rt>叫<rt>jiào</rt></ruby>...</code></font> Eu me chamo...
+-   <font size="6"><code><ruby>你<rt>nǐ</rt>叫<rt>jiào</rt>什么<rt>shénme</rt>名字<rt>míngzi</rt></ruby></code></font> Como você se chama?
 -   <font size="6"><code><ruby>你<rt>nǐ</rt>呢<rt>ne</rt></ruby></code></font> E você?
--   <font size="6"><code><ruby>很<rt>hěn</rt>高<rt>gāo</rt>兴<rt>xìng</rt>认<rt>rèn</rt>识<rt>shi</rt>你<rt>nǐ</rt></ruby></code></font> Prazer em conhecê-lo
+-   <font size="6"><code><ruby>很<rt>hěn</rt>高兴<rt>gāoxìng</rt>认识<rt>rènshi</rt>你<rt>nǐ</rt></ruby></code></font> Prazer em conhecê-lo
+-   <font size="6"><code><ruby>再<rt>zài</rt>见<rt>jiàn</rt></ruby></code></font> Vejo você de novo depois
+-   <font size="6"><code><ruby>拜<rt>bài</rt>拜<rt>bài</rt></ruby></code></font> Tchau
+-   <font size="6"><code><ruby>谢<rt>xiè</rt>谢<rt>xie</rt></ruby></code></font> Obrigado
+-   <font size="6"><code><ruby>不<rt>bú</rt>客<rt>kè</rt>气<rt>qi</rt></ruby></code></font> De nada

@@ -19,6 +19,7 @@
 -   `Maillot de bain` Traje de banho
 -   `Pyjama` Pijama
 -   `Sweat-shirt` Moletom
+    -   `Sweat` Abreviação
 -   `Cravate` Gravata
 -   `Ceinture` Cinto 🚺
 -   `Uniforme`

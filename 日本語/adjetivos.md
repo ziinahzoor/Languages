@@ -114,9 +114,12 @@
     -   É um pouco mais casual que <font size="5"><code><ruby>上手<rt>じょうず</rt></ruby></code></font>
 -   <font size="5"><code><ruby>信<rt>しん</rt></ruby>じられない</code></font> Inacreditável
 -   <font size="5"><code><ruby>珍<rt>めずら</rt></ruby>しい</code></font> Raro
--   `すごい` Incrível/Maravilhoso/Excelente
+-   `すごい` Legal/Incrível/Maravilhoso/Excelente
+-   <font size="5"><code><ruby>素<rt>す</rt>晴<rt>ば</rt></ruby>らしい</code></font> Maravilhoso/Fantástico/Magnífico
+-   <font size="5"><code><ruby>浅<rt>あさ</rt></ruby>い</code></font> Raso/Superficial
+-   <font size="5"><code><ruby>深<rt>ふか</rt></ruby>い</code></font> Fundo/Profundo
 
-### Auxiliares
+### Auxiliares e sufixos
 
 -   `ない` Não ser/existir
     -   `ありません` Contraparte honorífica (verbal)
@@ -125,6 +128,8 @@
 -   `〜っぽい` Parecido/Semelhante (-ish)
     -   Tem uma nuance mais negativa que `らしい`
     -   É um adjetivo auxiliar, portanto deve ser usado somente de forma atributiva.
+-   `〜にくい` Difícil de
+    -   Usado com o radical `い` de verbos.
 
 ## <ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos な
 
@@ -152,7 +157,7 @@
 -   `ダメ・だめ` Ruim/Inútil
 -   `カラフル` Colorido
 -   `ひさしぶり` Faz muito tempo
--   `まじめ` Honesto/Sério
+-   <font size="5"><code><ruby>真<rt>ま</rt>面<rt>じ</rt>目<rt>め</rt></ruby></code></font> Honesto/Sério
     -   `マジ` Casual
     -   Alguém que trabalha duro.
 -   `インスタント` Instantâneo
@@ -166,7 +171,7 @@
 -   `さいあく` Horrível/O pior
 -   `ざんねん` Decepcionante
 -   `スペシャル` Especial
--   `へん` Estranho/Esquisito
+-   <font size="5"><code><ruby>変<rt>へん</rt></ruby></code></font> Estranho/Esquisito
 -   `ヘルシー` Saudável
 -   <font size="5"><code><ruby>元<rt>げん</rt>気<rt>き</rt></ruby></code></font> Saudável/Vívido/Energético
 -   `さいこう` Fantástico
@@ -198,12 +203,15 @@
 -   <font size="5"><code><ruby>普<rt>ふ</rt>通<rt>つう</rt></ruby></code></font> Normal/Comum
 -   <font size="5"><code><ruby>残<rt>ざん</rt>念<rt>ねん</rt></ruby></code></font> Lamentável/Infeliz
 -   <font size="5"><code><ruby>別<rt>べつ</rt>々</ruby></code></font> Separado
+-   `ピカピカ` Cintilante/Com brilho
+-   <font size="5"><code><ruby>十<rt>じゅう</rt>分<rt>ぶん</rt></ruby></code></font> Suficiente
+    -   Não confundir com `じゅっぷん` "dez minutos".
 
 ## Adjetivos たる
 
 -   <font size="5"><code><ruby>確<rt>かっ</rt>固<rt>こ</rt></ruby></code></font> Firme/Resoluto
 
-## Adnominais
+## <ruby>連<rt>れん</rt>体<rt>たい</rt>詞<rt>し</rt></ruby> - Adnominais
 
 -   <font size="5"><code><ruby>大<rt>おお</rt></ruby>きな</code></font> Grande/Alto
     -   NÃO é um adjetivo な.
@@ -211,6 +219,8 @@
 -   <font size="5"><code><ruby>小<rt>ちい</rt></ruby>さな</code></font> Pequeno/Baixo
     -   NÃO é um adjetivo な.
     -   É mais utilizado para coisas abstratas.
+-   `こういう` Tal/Este tipo de/Como este
+-   `そういう` Tal/Esse tipo de/Como esse
 
 ## Adjetivos-verbo
 

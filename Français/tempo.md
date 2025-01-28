@@ -35,9 +35,9 @@
 -   `Aujourd'hui` Hoje
     -   `Ce jour-là` Aquele dia
 -   `Demain` Amanhã
-    -   `Le lendemain` O dia depois
+    -   `Lendemain` Dia seguinte
 -   `Après-demain` Depois de amanhã
-    -   `Le surlendemain` Dois dias depois
+    -   `Surlendemain` Dois dias depois
 -   `Maintenant` Agora
 -   `Tôt` Cedo
 -   `Tard` Tarde

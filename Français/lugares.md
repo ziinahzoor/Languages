@@ -74,12 +74,25 @@
 -   `Gauche` Esquerda
 -   `Tout droit` Reto
 
-#### Cardinais
+#### Points Cardinaux - Pontos Cardeais
 
--   `Nord` Norte
--   `Sud` Sul
--   `Est` Leste
--   `Ouest` Oeste
+<table>
+    <tr>
+        <td>Nord-ouest</td>
+        <td>Nord</td>
+        <td>Nord-est</td>
+    </tr>
+    <tr>
+        <td>Ouest</td>
+        <td></td>
+        <td>Est</td>
+    </tr>
+    <tr>
+        <td>Sud-ouest</td>
+        <td>Sud</td>
+        <td>Sud-est</td>
+    </tr>
+</table>
 
 ## La Maison - Casa
 
@@ -101,6 +114,7 @@
 -   `Piscine` Piscina
 -   `Hall` Salão/Lobby
 -   `Couloir` Corredor
+-   `Terrasse` Terraço/Varanda 🚺
 
 ## Les Planètes - Planetas 🚺
 
@@ -224,6 +238,7 @@
 -   `Mairie` Prefeitura
 -   `Bâtiment` Edifício/Prédio
 -   `Côte` Costa
+-   `Douane` Alfândega
 
 ## France - França
 

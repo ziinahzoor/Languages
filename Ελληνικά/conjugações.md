@@ -35,3 +35,9 @@
 
 -   Formado pela partícula `Θα` + verbo no imperfeito.
 -   Geralmente usado para expressões educadas, pedidos e cenários hipotéticos.
+
+# Subjuntivo
+
+-   É formado pela partícula `να` + conjugação do verbo.
+-   Para falar da ação em si, usa-se `το να` + conjugação da terceira pessoa.
+-   Também é utilizado onde outras linguagens costumam utilizar o infinitivo, como em locuções verbais.

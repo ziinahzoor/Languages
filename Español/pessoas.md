@@ -2,6 +2,7 @@
 
 -   `Pareja` Casal 🚺
 -   `Multitud` Multidão
+-   `Población` População
 -   `Miembro` Membro
 -   `Habitante`
 -   `Adulto`

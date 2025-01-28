@@ -198,6 +198,13 @@
 -   `Regalar` Dar um presente/Dar de presente
 -   `Celebrar`
 -   `Aceptar` Aceitar
+-   `Dañar` Danificar
+-   `Causar`
+-   `Escapar`
+-   `Publicar`
+-   `Apruebar` Aprovar/Passar
+-   `Contar`
+-   `Memorizar`
 
 ## Los verbos -er
 
@@ -302,3 +309,4 @@
 -   `Incluir`
 -   `Destruir`
 -   `Traducir` Traduzir
+-   `Corregir` Corrigir

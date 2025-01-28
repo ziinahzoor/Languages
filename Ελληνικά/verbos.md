@@ -55,7 +55,7 @@
 -   `Επιστρέφω` Retornar
 -   `Αλλάζω` Trocar
 -   `Στέλνω` Enviar
--   `Ζω` Viver
+-   `Ζω` Viver/Morar
 -   `Ανήκω` Pertencer
 -   `Δοκιμάζω` Tentar
 -   `Προσφέρω` Oferecer/Dar/Presentear
@@ -89,6 +89,8 @@
 -   `Υπογράφω` Assinar
 -   `Περιέχω` Conter
 -   `Βελτιώνω` Melhorar
+-   `Ζυγίζω` Pesar
+-   `Τελειώνω` Terminar
 
 ## Verbos -άω (-ώ)
 
@@ -107,6 +109,7 @@
 -   `Σταματάω` Parar
 -   `Ακολουθάω` Seguir
 -   `Παρακαλάω` Pedir/Implorar
+-   `Μετράω` Contar/Medir
 
 ## Verbos -ώ
 
@@ -127,3 +130,4 @@
 -   `Βρέχει` Chover
 -   `Νοιάζει` Importar
 -   `Συμβαίνει` Acontecer/Ocorrer
+-   `Πρέπει` Dever/Ter a obrigação

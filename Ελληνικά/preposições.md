@@ -1,7 +1,8 @@
 # Preposições
 
 -   `Χωρίς` Sem
--   `Με` Com/De/Por
+-   `Με` Com/De/Por/Em
+-   `Ανά` Por
 -   `Σε` Para/Em/No/Na (Lugar ou objeto indireto)
     -   `Στο` Contração de `σε το`. As contrações dos outros artigos seguem a mesma lógica.
 -   `Από` De/Do/Da
@@ -18,3 +19,11 @@
 -   `Αντί` Ao invés de
 -   `Παρά` Menos
     -   Ao falar de tempo, significa "para", no mesmo sentido. Ex.: `έξι παρά είκοσι πέντε` "vinte e cinco para as seis".
+
+# Partículas
+
+-   `Δεν` Negação (de verbos no indicativo)
+    -   `Δε` Pode ser usado antes de qualquer palavra que não inicia com `κ`, `τ`, `π`, `ξ`, `ψ`, `γκ`, `ντ` ou `μπ`
+-   `Μην` Negação (de verbos no subjuntivo ou imperativo)
+    -   `Μη` Pode ser usado antes de qualquer palavra que não inicia com `κ`, `τ`, `π`, `ξ`, `ψ`, `γκ`, `ντ` ou `μπ`
+-   `Να` Usada para conectar verbos em locuções verbais, tornando o último verbo um gerúndio ou para formar o modo subjuntivo (imperativos, desejos, hipotéticos).

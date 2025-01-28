@@ -14,8 +14,9 @@
 -   <font size="5"><code><ruby>首<rt>くび</rt></ruby></code></font> Pescoço
     -   `のど` Garganta
 -   `うで` Braço
+    -   <font size="5"><code><ruby>肩<rt>かた</rt></ruby></code></font> Ombro
     -   <font size="5"><code><ruby>手<rt>て</rt></ruby></code></font> Mão
-        -   `ゆび` Dedo
+        -   <font size="5"><code><ruby>指<rt>ゆび</rt></ruby></code></font> Dedo
 -   <font size="5"><code><ruby>胸<rt>むね</rt></ruby></code></font> Peito
 -   <font size="5"><code>お<ruby>腹<rt>なか</rt></ruby></code></font> Barriga/Estômago
 -   <font size="5"><code><ruby>背<rt>せ</rt>中<rt>なか</rt></ruby></code></font> Costas

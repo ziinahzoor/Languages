@@ -212,6 +212,15 @@
 -   Usada para juntar um verbo com outro verbo ou um substantivo.
 -   Não é explicitamente uma forma.
 -   Usada principalmente com "coisa" para tornar um verbo um substantivo. Ex.: `買い物` Compras, `飲み物` Bebida, `食べ物` Comida.
+<h4 id="var_complexidade">Forma de complexidade</h4>
+
+-   Indica que algo é fácil ou difícil de fazer.
+-   Para indicar que algo é fácil de fazer, usa-se `やすい` e para indicar que algo é difícil de fazer, usa-se `にくい`.
+
+<h4 id="var_metodica">Forma metódica</h4>
+
+-   Descreve o jeito ou forma de realizar um verbo.
+-   Usa-se <font size="5"><code><ruby>方<rt>かた</rt></ruby></code></font> com a base `い` de verbos e <font size="5"><code><ruby>仕<rt>し</rt>方<rt>かた</rt></ruby></code></font> com verbos-する.
 
 ---
 

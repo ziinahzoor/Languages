@@ -174,19 +174,21 @@
 		<td rowspan="3"><a href="https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj">@Cure Dolly Sensei</a></td>
 		<td><a href="https://www.tofugu.com/japanese-grammar/">@Tofugu</a></td>
 		<td rowspan="4"><a href="https://jisho.org/">@Jisho</a></td>
-		<td rowspan="2"><a href="https://docs.google.com/spreadsheets/d/1PDY4D8TPz7b-KEFVMyV-uyrEVteopqs6hFoFERfXY-4/edit#gid=1180165444">Radicais</a></td>
+		<td><a href="https://kanjialive.com/214-traditional-kanji-radicals">Radicais</a></td>
 		<td rowspan="4"><a href="https://thejapanesepage.com/prefectures-of-japan/">Prefeituras do Japão</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://imabi.org/">@Imabi</a></td>
+		<td><a href="https://docs.google.com/spreadsheets/d/1PDY4D8TPz7b-KEFVMyV-uyrEVteopqs6hFoFERfXY-4/edit#gid=1180165444">Planilha de Radicais</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://8020japanese.com/wa-vs-ga/">は vs が</a></td>
-		<td rowspan="2"><a href="https://www.kanjidamage.com/">Aprender com mnemônicos</a></td>
+		<td><a href="https://www.kanjidamage.com/">Aprender com mnemônicos</a></td>
 	</tr>
 	<tr>
 		<td rowspan="2"><a href="https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV">@Jouzu Juls</a></td>
 		<td><a href="https://www.mlcjapanese.co.jp/Download/ViVt.pdf">Transitividade</a></td>
+		<td><a href="https://shodo-kanji.com/archive/index-a.html">Caligrafia (Em japonês)</a></td>
 	</tr>
 </table>
 

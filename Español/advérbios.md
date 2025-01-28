@@ -72,6 +72,7 @@
 -   `Igual`
 -   `Contra`
 -   `A través` Através
+-   `Por el momento` Por ora
 
 ## De modo
 
@@ -94,3 +95,6 @@
 -   `Especialmente`
 -   `Exactamente` Exatamente
 -   `Solamente` Somente
+-   `Silenciosamente`
+-   `Recientemente`
+-   `Actualmente` Atualmente

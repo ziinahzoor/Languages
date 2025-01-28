@@ -13,6 +13,21 @@
 -   `Vȳs` Planeta/Mundo ☀️
 -   `Dijemion` Câmara de aquecimento (para ovos de dragão) 🌱
 -   `Zaldrījudirys` Fosso dos dragões ☀️
+-   `Iōrion` Edifício 🌱
+-   `Lentor` Vila 🌱
+-   `Sombāzmion` Castelo 🌱
+-   `Tembyrlion` Biblioteca 🌱
+-   `Izulion` Praça 🌱
+-   `Vilinion` Porto 🌱
+-   `Geltialbar` Basílica/Sala de reuniões 🌊
+-   `Qīzalbar` Torre 🌊
+-   `Sētelion` Forja 🌱
+-   `Ōñurlion` Farol 🌱
+-   `Bōjurlion` Arena 🌱
+-   `Botion` Escritório 🌱
+-   `Bardulion` Escola 🌱
+-   `Iderennion` Tribunal 🌱
+-   `Tistālior` Banco 🌱
 
 ## Dārior - Reinos 🌱
 
@@ -64,6 +79,12 @@
 
 -   `Vumbiarzy` Quarto 🌙
 -   `Dōros` Parede ☀️
+-   `Ezīmy` Janela 🌙
+-   `Nerny` Porta 🌙
+-   `Geltion` Telhado 🌱
+-   `Teglion` Piso 🌱
+-   `Obvos` Arco/Arcada ☀️
+-   `Lōrtetion` Porão 🌱
 
 ## Lugares Relativos
 

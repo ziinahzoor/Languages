@@ -50,6 +50,7 @@
 -   <font size="5"><code><ruby>暇<rt>ひま</rt></ruby></code></font> Tempo livre
 -   <font size="5"><code><ruby>瞬<rt>しゅん</rt>間<rt>かん</rt></ruby></code></font> Momento/Instante
 -   <font size="5"><code><ruby>時<rt>とき</rt></ruby></code></font> Momento/Ocasião/Quando
+-   <font size="5"><code>この<ruby>間<rt>あいだ</rt></ruby></code></font> Naquele dia/No outro dia
 
 ### Prefixos
 
@@ -66,7 +67,8 @@
 
 ### Intervalos
 
--   <font size="5"><code><ruby>休<rt>やす</rt></ruby>み</code></font> Descanso/Férias
+-   <font size="5"><code><ruby>休<rt>やす</rt></ruby>み</code></font> Descanso/Férias/Feriado
+    -   <font size="5"><code>お<ruby>休<rt>やす</rt></ruby>み</code></font> Teineigo
 -   <font size="5"><code>ひる<ruby>休<rt>やす</rt></ruby>み</code></font> Hora do almoço
 
 ## <ruby>月<rt>つき</rt></ruby> - Meses
@@ -84,7 +86,7 @@
 -   `十一月` `じゅういちがつ` Novembro
 -   `十二月` `じゅうにがつ` Dezembro
 
-## <ruby>週<rt>しゅう</rt></ruby> - Semana
+## <ruby>週<rt>しゅう</rt>間<rt>かん</rt></ruby> - Semana
 
 **Derivam dos nomes dos planetas como em outras línguas.**
 
@@ -99,7 +101,7 @@
 
 ## <ruby>時<rt>じ</rt>間<rt>かん</rt></ruby> - Hora
 
-**Usar `時` `じ` para se referir à hora.**
+**Usar <font size="5"><code><ruby>時<rt>じ</rt></ruby></code></font> para se referir à hora.**
 
 -   <font size="5"><code><ruby>時<rt>じ</rt>間<rt>かん</rt></ruby></code></font> indica durações. Também serve para dizer "hora" literalmente.
 -   <font size="5"><code><ruby>半<rt>はん</rt></ruby></code></font> indica meia-hora.

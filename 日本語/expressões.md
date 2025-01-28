@@ -43,6 +43,9 @@
 -   `そんなことない` Isso não é verdade
 -   `...の上に` Além de...
 -   <font size="5"><code><ruby>久<rt>ひさ</rt></ruby>しぶり</code></font> Há quanto tempo
+-   <font size="5"><code>いい<ruby>子<rt>こ</rt></ruby></code></font> Bom garoto
+-   <font size="5"><code><ruby>仕<rt>し</rt>方<rt>かた</rt></ruby>がない</code></font> Não tem jeito
+-   `おかげで` Graças a/à...
 
 ## <ruby>相<rt>あい</rt>槌<rt>づち</rt></ruby> - Interjeições de atenção
 

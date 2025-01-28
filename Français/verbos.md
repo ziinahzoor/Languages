@@ -37,6 +37,7 @@
     -   `Faire la fête` Festar
         -   `Teufer` Verlan
     -   `Faire nuit` Estar de noite/Estar escuro
+    -   `Faire un tour` Dar um passeio
     -   `Se faire mal` Machucar-se
     -   `Se faire la bise` Beijar-se (na bochecha)
 -   `Défaire` Desfazer
@@ -153,7 +154,8 @@
     -   `Se pieuter` Informal
 -   `Se préparer` Preparar-se
 -   `Se brosser` Escovar(-se)
--   `Se coiffer` Pentear-se
+-   `Se coiffer` Pentear-se/Arrumar o cabelo/Escovar o cabelo
+-   `Se peigner` Pentear-se (com um pente)
 -   `Se noyer` Afogar-se
 -   `S'habiller` Vestir-se
 -   `Se déshabiller` Despir-se
@@ -334,6 +336,10 @@
 -   `Fêter` Festar/Comemorar/Celebrar
 -   `Quitter` Sair/Desistir
 -   `Comparer` Comparar
+-   `Sécher` Secar
+-   `Se maquiller` Maquiar-se
+-   `Déclarer` Declarar
+-   `Glisser` Escorregar
 
 ## -ir Verbes
 
@@ -349,6 +355,7 @@
     -   `Avoir rendez-vous` Ter um encontro
     -   `Avoir du mal à` Ter dificuldade em
     -   `Avoir la dalle` Ter fome
+    -   `Avoir l'impression` Ter a impressão
 -   `Voir` Ver
     -   `Se voir` Ver-se
 -   `Revoir` Rever

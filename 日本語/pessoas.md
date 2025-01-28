@@ -9,6 +9,7 @@
 -   <font size="5"><code><ruby>大<rt>おお</rt>勢<rt>ぜい</rt></ruby></code></font> Multidão
 -   <font size="5"><code><ruby>人<rt>じん</rt>口<rt>こう</rt></ruby></code></font> População
 -   <font size="5"><code><ruby>集<rt>あつ</rt></ruby>まり</code></font> Público
+-   <font size="5"><code><ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby></code></font> Ser-vivo/Criatura
 
 ## Específicas
 
@@ -28,14 +29,14 @@
 -   `クラスメイト` Colega de classe
 -   `ルームメイト` Colega de quarto
 -   `どうりょう` Colega de trabalho
--   `きゃく` Cliente (Consumidor)
-    -   `おきゃくさん` Honorífico
 -   `クライアント` Cliente
--   `おきゃくさん` Visitante/Convidado
+-   <font size="5"><code><ruby>客<rt>きゃく</rt></ruby></code></font> Visitante/Convidado/Cliente (Consumidor)
+    -   <font size="5"><code>お<ruby>客<rt>きゃく</rt></ruby>さん</code></font> Sonkeigo
     -   `ゲスト` Convidado (Evento)
 -   <font size="5"><code>きんじょの<ruby>人<rt>ひと</rt></ruby></code></font> Vizinho
 -   <font size="5"><code>こそ<ruby>泥<rt>どろ</rt></ruby></code></font> Ladrão sorrateiro
 -   <font size="5"><code><ruby>住<rt>じゅう</rt>民<rt>みん</rt></ruby></code></font> Morador
+-   <font size="5"><code><ruby>神<rt>かみ</rt>様<rt>さま</rt></ruby></code></font> Deus
 
 ## Profissões
 
@@ -60,8 +61,10 @@
 -   `かいしゃいん` Trabalhador de escritório
 -   `サラリーマン` Trabalhador de escritório
 -   <font size="5"><code><ruby>社<rt>しゃ</rt>長<rt>ちょう</rt></ruby></code></font> Diretor/Presidente (empresa)
--   `かんごし` Enfermeiro
--   <font size="5"><code><ruby>警<rt>けい</rt>察<rt>さつ</rt></ruby></code></font> Polícia
+-   <font size="5"><code><ruby>看<rt>かん</rt>護<rt>ご</rt>師<rt>し</rt></ruby></code></font> Enfermeiro
+-   <font size="5"><code><ruby>警<rt>けい</rt>察<rt>さつ</rt>官<rt>かん</rt></ruby></code></font> Policial
+    -   <font size="5"><code><ruby>警<rt>けい</rt>官<rt>かん</rt></ruby></code></font> Abreviação mais comum
+    -   <font size="5"><code><ruby>警<rt>けい</rt>察<rt>さつ</rt></ruby></code></font> Abreviação
 -   `ぶし` Guerreiro
 -   `コーチ` Treinador
 -   `マネージャー` Gerente
@@ -73,7 +76,7 @@
 -   `はいゆう` Ator
 -   `じょゆう` Atriz
 -   `ボランティア` Voluntário
--   `てんいん` Funcionário
+-   <font size="5"><code><ruby>店<rt>てん</rt>員<rt>いん</rt></ruby></code></font> Funcionário
 -   <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Funcionário/Assistente de loja
 -   <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt></ruby></code></font> Caixa
 -   `アーティスト` Artista

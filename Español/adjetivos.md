@@ -216,3 +216,11 @@
 -   `Exacto` Exato
 -   `Alegre`
 -   `Encantado`
+-   `Silecioso`
+-   `Curioso`
+-   `Frecuente` Frequente
+-   `Mundial`
+-   `Reciente` Recente
+-   `Actual` Atual
+-   `Total`
+-   `Útil`

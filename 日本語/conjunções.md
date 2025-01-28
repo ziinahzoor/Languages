@@ -22,7 +22,7 @@
     -   Geralmente usado pra encerrar conversas ou introduzir observações.
 -   `また` Também
 -   `ところで` A propósito
--   `たとえば` Por exemplo
+-   <font size="5"><code><ruby>例<rt>たと</rt></ruby>えば</code></font> Por exemplo
 -   `から` Então (para explicar causa, depois de adjetivos-い e verbos)
     -   `だから` Usado depois de substantivos e adjetivos-な para diferenciar da função de "origem" da partícula `から`.
     -   `ので` Honorífico
@@ -36,3 +36,5 @@
 -   `ほら・ほれ` Olha!/Aqui!
     -   Usado para chamar a atenção de alguém
 -   `よし` Certo!/Ok!/Muito bem!/Parece bom!
+-   `いいぞ` Muito bem!/É isso aí!
+-   `わあ・わっ` Uau!

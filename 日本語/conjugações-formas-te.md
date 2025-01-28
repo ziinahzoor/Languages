@@ -59,6 +59,7 @@
 <h2 id="var_tentativa">Forma て+みる - Tentativa</h2>
 
 -   Significa experimentar fazer a ação do verbo (com o interesse de ver o resultado).
+-   Similar em nuance ao português "eu vou ver se...".
 
 <h2 id="var_concessiva">Forma て+も - Concessiva</h2>
 
@@ -90,13 +91,13 @@
 -   É uma negação dupla da forma proibitiva, fazendo uma afirmação: "não se deve não fazer...".
 -   Muitas vezes a forma completa é abreviada apenas para `なくちゃ`.
 
-<h2 id="var_solicitativa">Forma て+いいです（か） - Permissiva/Solicitativa</h2>
+<h2 id="var_solicitativa">Forma て+いいです（か）- Permissiva/Solicitativa</h2>
 
 -   Forma de permissão: Dá ou pede-se permissão para realizar alguma ação ou pergunta-se se ficará tudo bem ao realizá-la.
 -   Pode-se responder utilizando a forma afirmativa ou negativa da frase.
 -   Em sonkeigo, usa-se `て` + `よろしい`.
 
-<h2 id="var_solicitativa-optativa">Forma て+もいいです（か） - Permissiva/Solicitativa optativa</h2>
+<h2 id="var_solicitativa-optativa">Forma て+もいいです（か）- Permissiva/Solicitativa optativa</h2>
 
 -   Tem uma nuance mais "tudo bem MESMO SE..."?
 -   Funciona como a forma permissiva, porém tem um caráter mais optativo: Dá ou pede-se permissão para determinada ação, porém ela não necessariamente será realizada, ou seja, pede-se permissão para a POSSIBILIDADE de realizar a ação.
@@ -122,3 +123,5 @@
     -   `て` + `いただく`: Kenjougo.
     -   Tem a nuance de um favor ao invés de um pedido simples.
     -   É mais utilizado para indicar que um favor foi feito por terceiros.
+    -   "Eu gostaria que..." quando usado na forma de desejo (`たい`).
+    -   "Pode...?/Poderia...?" quando usado com a forma potencial ou negativa-interrogativa.

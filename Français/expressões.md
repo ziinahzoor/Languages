@@ -51,6 +51,7 @@
 -   `Ça ne casse pas trois pattes à un canard` Não é nada demais
 -   `Ça fait...` Faz.../Fazem... (tempo)
 -   `Peu importe` Pouco importa
+-   `Depuis toujours` Desde sempre
 
 ## Verlan
 

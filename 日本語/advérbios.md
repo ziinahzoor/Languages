@@ -87,7 +87,7 @@
     -   `もういちど` Mais uma vez
     -   `もういちかい` Outra vez
 -   `もうすぐ` Logo
--   `すぐ` Imediatamente/Neste momento
+-   `すぐ・すぐに` Imediatamente/Neste momento/Sem demora
 -   <font size="5"><code><ruby>最<rt>さい</rt>近<rt>きん</rt></ruby></code></font> Recentemente/Ultimamente
 -   <font size="5"><code><ruby>時々<rt>ときどき</rt></ruby></code></font> Às vezes
 -   `たまに` Ocasionalmente/De vem em quando
@@ -102,6 +102,7 @@
     -   <font size="5"><code><ruby>少<rt>しょう</rt>々</ruby></code></font> Só um instante/Só um minuto
 -   <font size="5"><code><ruby>頃<rt>ころ</rt></ruby></code></font> Aproximadamente/Por volta de (ponto específico no tempo)
     -   `ごろ` quando usado como sufixo.
+-   <font size="5"><code><ruby>以<rt>い</rt>内<rt>ない</rt></ruby></code></font> Dentro de
 
 ## Dúvida
 

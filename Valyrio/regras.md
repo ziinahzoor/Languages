@@ -70,7 +70,7 @@
 -   Ao contrário das línguas românticas, a generalização geralmente é feita pelo feminino: `muña` (mãe) → `muñar` (pais)
 -   Para formar a negação, basta usar o verbo no subjuntivo + `daor`.
 -   O causativo é formado pelo verbo `sahagon`.
--   Para verbos compostos, o verbo auxiliar vem primeiro (no infinitivo) e o principal por último (conjugado).
+-   Para locuções verbais, o verbo auxiliar vem primeiro (no infinitivo) e o principal por último (conjugado).
 
 ## Casos
 

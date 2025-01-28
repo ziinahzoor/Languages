@@ -139,6 +139,7 @@
 -   `Desierto` Deserto
 -   `Puente` Ponte 🚹
 -   `Área`
+-   `Zona`
 -   `Colina`
 -   `Departamento` Departamento/Apartamento
 -   `Concejo municipal` Conselho municipal

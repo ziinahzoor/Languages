@@ -79,6 +79,7 @@
 
 -   `Énorme` Enorme
 -   `Grand` Grande/Alto
+-   `Haut` Alto/Eleveado
 -   `Moyen` Médio
 -   `Petit` Pequeno
 -   `Large` Largo
@@ -153,7 +154,7 @@
 -   `Professionnel` Profissional
 -   `Sauvage` Selvagem
 -   `Bête` Besta/Bobo
--   `Enchanté` Encantado
+-   `Enchanté` Encantado/Contente
 -   `Fort` Forte/Intenso
 -   `Faible` Fraco
 -   `Précieux` Precioso
@@ -173,6 +174,10 @@
 -   `Romantique` Romântico
 -   `À la mode` Na moda
 -   `Évident` Evidente/Óbvio
+-   `Caché` Escondido
+-   `Naturel` Natural
+-   `Culturel` Cultural
+-   `Plat` Plano
 
 ### Personalidade
 
@@ -307,6 +312,8 @@
 -   `Nul` Ruim
 -   `Bon` Bom/Correto/Certo
 -   `Bonne` Boa/Correta/Certa
+-   `Bien` Bom/Benéfico
+    -   Mais utilizado como "bom" quando ligado a verbos copulativos e em comparações.
 -   `Joli` Amável
 -   `Mauvais` Ruim/Incorreto/Errado
 -   `Super` Ótimo

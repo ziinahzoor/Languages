@@ -27,6 +27,7 @@
 -   `Environnement` Meio-ambiente
 -   `Pollution` Poluição
 -   `Éclair` Raio/Relâmpago
+-   `Poussière` Poeira
 
 ### Materiais
 
@@ -56,6 +57,7 @@
 -   `Fourchette` Garfo 🚺
 -   `Four` Forno
 -   `Bol` Tigela 🚹
+-   `Évier` Pia 🚹
 
 ### La Salle de Bain - Banheiro
 
@@ -66,10 +68,12 @@
 -   `Miroir` Espelho
 -   `Brosse` Escova
     -   `Brosse à dent` Escova de dentes
+-   `Dentifrice` Pasta de dentes 🚹
 -   `Pansement` Curativo/Bandagem
 -   `Savon` Sabonete 🚺
 -   `Shampoing` Xampú
 -   `Peigne` Pente
+-   `Sèche-cheveux` Secador de cabelo
 
 ### La Chambre - Quarto
 
@@ -181,6 +185,8 @@
 -   `Fontaine` Fonte
 -   `Pot` Pote
 -   `Brochure` Folheto/Panfleto 🚺
+-   `Éponge` Esponja
+-   `Drapeau` Bandeira 🚹
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -208,6 +214,7 @@
 -   `Machine à café` Cafeteira
 -   `Ventilateur` Ventilador
 -   `Batterie` Bateria
+-   `Pile` Pilha
 -   `Écran` Tela 🚹
 -   `Aspirateur` Aspirador
 -   `Calculatrice` Calculadora
@@ -344,6 +351,7 @@
 -   `Différence` Diferença
 -   `Morceau` Pedaço/Bocado
 -   `Part` Fatia/Parte/Pedaço
+-   `Bout` Ponta/Pedaço
 -   `Commentaire` Comentário
 -   `Niveau` Nível
 -   `Détail` Detalhe
@@ -386,6 +394,8 @@
 -   `Entrée` Entrada
 -   `Attraction` Atração
 -   `Découverte` Descoberta
+-   `Contraire` Contrário
+-   `État` Estado
 
 ### Sentimentos, condições e emoções
 
@@ -407,6 +417,7 @@
 -   `Grippe` Gripe
 -   `Maladie` Doença
 -   `Urgence` Urgência/Emergência
+-   `Paix` Paz
 
 ### Unidades de medida
 
@@ -420,6 +431,7 @@
 
 -   `Cercle` Círculo
 -   `Carré` Quadrado
+-   `Tube` Tubo
 
 ## Transporte
 

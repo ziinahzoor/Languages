@@ -2,7 +2,6 @@
 
 -   `Ναι` Sim
 -   `Όχι` Não
--   `Δεν` Não (Usado com verbos)
 -   `Πολύ` Muito
 -   `Λίγο` Pouco
 -   `Καλά` Bem

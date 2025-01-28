@@ -207,3 +207,5 @@
 -   `Iqighagon` Fazer (alguém) sentir
     -   Quem sente está no dativo e o que é sentido no instrumental.
 -   `Pāsagon` Confiar/Acreditar
+-   `Lenagon` Construir
+-   `Drāmmagon` Abrir

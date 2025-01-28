@@ -1,9 +1,10 @@
 # Les Animaux - Animais
 
--   `Chat` Gato 🚹
--   `Cheval` Cavalo 🚹
--   `Chien` Cachorro 🚹
--   `Chouette` Coruja 🚺
+-   `Chat` Gato
+    -   `Chaton` Filhote de gato
+-   `Cheval` Cavalo
+-   `Chien` Cachorro
+-   `Chouette` Coruja
 -   `Cochon` Porco
 -   `Vache` Vaca
 -   `Perroquet` Papagaio

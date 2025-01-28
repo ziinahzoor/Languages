@@ -17,7 +17,12 @@
 
 ## Discurso gramatical
 
--   `Locução` (Phrase): Grupo de palavras que não funcionam sozinhas.
+-   `Locução` (Phrase): Combinação de palavras que não funcionam sozinhas.
+    -   `Locução verbal` (Verb phrase): Combinação de verbos, incluindo um verbo principal e outros auxiliares. Ex.: "Vou comer".
+    -   `Locução adverbial` (Adverb phrase): Combinação de palavras que atua como um advérbio. Ex.: "Com certeza".
+    -   `Locução adjetiva` (Adjective phrase): Combinação de palavras que atua como um adjetivo. Ex.: "Do mês" ao invés de "mensal".
+    -   `Locução prepositiva` (Prepositional phrase): Combinação de palavras que atua como uma preposição. Ex.: "Além de".
+        -   Conceito pode ser estendido para qualquer tipo de adposição.
 -   `Cláusula` ou `Oração` (Clause): Grupo de palavras que possui sujeito e predicado.
     -   `Independente` ou `Insubordinada`: Expressa um pensamento completo.
     -   `Dependente` ou `Subordinada`: Expressa um pensamento que depende de outra oração.
@@ -68,12 +73,13 @@
     -   `Quantificador`: Indica o conjunto ou o número de entidades da classe que se descreve. Ex.: "cada"; "todo"; "algum".
 -   `Verbo`: Ação, ocorrência ou estado de ser descrito em uma oração. Define o predicado. Ex.: "ler"
 -   `Cópula`: Palavra (geralmente um verbo) que caracteriza o sujeito, descreve algo sobre ele. Na maior parte das linguagens é um equivalente do verbo "ser" ou "estar".
--   `Adposição`: Expressa relações espaciais ou temporais ou marca papéis semânticos (como o caso gramatical).
+-   `Adposição`: Expressa relações espaciais, temporais e lógicas entre dois elementos da oração ou marca papéis semânticos (como o caso gramatical). Ou seja, ligam substantivos a substantivos, verbos a substantivos, etc.
     -   `Preposição`: Vem antes de seu complemento. Ex.: "até"; "desde"; "para".
     -   `Posposição`: Vem depois de seu complemento.
+-   `Partícula`: Altera o significado ou função de uma palavra. Não pode ser flexionada.
 -   `Adjetivo`: Qualifica um substantivo ou pronome. Ex.: "bonito"; "rápido".
 -   `Advérbio`: Qualifica ou modifica um verbo, adjetivo, outro advérbio, determinante, cláusula, preposição, ou frase. Ex.: "muito"; "bem"; "embaixo".
--   `Conjunção`: Conecta palavras, locuções ou orações. Ex.: "e"; "mas"; "ou".
+-   `Conjunção`: Conecta palavras, locuções ou orações. Ex.: "e"; "mas"; "ou". Diferente da adposição, não expressa uma relação entre as palavras.
 -   `Interjeição`: Expressa sentimentos ou reações espontâneas. Ex.: "ah!"; "uau!"; "hein?".
 
 ## Categorias gramaticais
