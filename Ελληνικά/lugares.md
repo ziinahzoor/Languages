@@ -8,6 +8,11 @@
 -   `Θέατρο` Teatro ✴️
 -   `Βιβλιοθήκη` Biblioteca
 
+## Relativos
+
+-   `Εδώ` Aqui
+-   `Εκεί` Aí/Lá
+
 ## Σπίτι - Casa ✴️
 
 -   `Χόλ` Salão/Saguão ✴️

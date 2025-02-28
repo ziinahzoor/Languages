@@ -134,6 +134,7 @@
     -   `Reciproca`: Voz reflexiva com mais de um agente e paciente, onde cada agente realiza a ação do verbo a cada paciente.
 -   `Média`: Similar à voz reflexiva, mas tem uma nuance mais intransitiva, sem necessariamente indicar que o sujeito está agindo sobre si mesmo.
 -   `Médio-passiva`: Possui as funções média e passiva.
+-   `Depoente`: É uma forma verbal onde o verbo é escrito na voz passiva ou média, mas é usado na voz ativa. Encontrada no latim, grego, sânscrito e nas línguas escandinavas.
 
 ## Inflexões gramaticais
 

@@ -22,6 +22,7 @@
 ## Modo
 
 -   <font size="5"><code><ruby>大<rt>だい</rt>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Bem/Ok
+-   `うまく` Bem/Com sucesso/Com êxito
 -   `ちょうど` Exatamente/Precisamente
 -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby>に</code></font> Realmente/Verdadeiramente
 -   `ため` Para/Com o propósito de/Em consideração a
@@ -47,12 +48,15 @@
 -   <font size="5"><code><ruby>別<rt>べつ</rt></ruby>に</code></font> Não particularmente/Separadamente
     -   Usado com frases negativas no primeiro caso.
 -   <font size="5"><code><ruby>別<rt>べつ</rt>々に</ruby></code></font> Separadamente
+-   <font size="5"><code><ruby>普<rt>ふ</rt>通<rt>つう</rt></ruby></code></font> Normalmente/Geralmente
 
 ## Intensidade/Quantidade
 
 -   `どうも` Muito (Emocional)
     -   Usado com frases emocionais, como as que indicam agradecimento, desculpas ou arrependimento.
 -   `とても` Muito (Intensidade)
+    -   `めっちゃ` Coloquial
+-   `なかなか` Consideravelmente
 -   `あまり` Não muito
     -   Geralmente usado com frases negativas
     -   Polar inverso de `とても`.
@@ -68,6 +72,7 @@
     -   <font size="5"><code>ちょっとの<ruby>間<rt>あいだ</rt></ruby></code></font> Por um instante/Por um momento
 -   `もっと` Mais
 -   <font size="5"><code><ruby>一<rt>いち</rt>番<rt>ばん</rt></ruby></code></font> O melhor/O mais...
+-   <font size="5"><code><ruby>最<rt>もっと</rt></ruby>も</code></font> O mais...
 -   `まあまあ` Mais ou menos/Razoável
     -   Também serve para confortar alguém, como um "calma, calma". Para animais se usa `どうどう`
 -   `ほとんど` Quase/Praticamente/Majoritariamente
@@ -93,7 +98,7 @@
 -   `たまに` Ocasionalmente/De vem em quando
 -   `よく` Frequentemente
     -   Quando diretamente antes do verbo, pode significar "bem, de maneira habilidosa, propriamente"
--   `たいてい` Geralmente
+-   <font size="5"><code><ruby>大<rt>たい</rt>抵<rt>てい</rt></ruby></code></font> Geralmente
 -   `いつも` Sempre
 -   `しばらく` Por um tempo
 -   <font size="5"><code><ruby>一<rt>いち</rt>日<rt>にち</rt>中<rt>じゅう</rt></ruby></code></font> O dia inteiro
@@ -117,6 +122,7 @@
     -   Usado com adjetivos.
 -   `どれぐらい` Quão longe/Quantas vezes
 -   `どうやって` Como/De que maneira
+    -   `どのように` Mais usado na escrita
     -   Não é advérbio, está aqui por conveniência
 -   `どうして` Por que/Por quê
     -   `なんで` Casual
@@ -143,6 +149,7 @@
     -   Vá em frente (ao permitir algo)
     -   Aqui está (ao dar algo para alguém)
 -   <font size="5"><code><ruby>他<rt>ほか</rt></ruby>に</code></font> Outro/Além desse
+-   <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font> E também/Além disso (para acrescentar algo)
 
 ## Auxiliares
 

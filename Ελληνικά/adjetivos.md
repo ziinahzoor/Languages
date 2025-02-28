@@ -9,7 +9,7 @@
 -   `Φαρδύς` Frouxo/Largo
 -   `Πολύς` Muito/Demais
 -   `Λιγότερος` Menos
--   `Περισσότερος` Mais
+-   `Περισσότερος` Mais (Comparativo)
 -   `Μισός` Metade
 -   `Νόστιμος` Saboroso/Delicioso/Gostoso
 -   `Φρέσκος` Fresco

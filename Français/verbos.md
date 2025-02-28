@@ -38,6 +38,7 @@
         -   `Teufer` Verlan
     -   `Faire nuit` Estar de noite/Estar escuro
     -   `Faire un tour` Dar um passeio
+    -   `Faire comme ça` Fazer assim
     -   `Se faire mal` Machucar-se
     -   `Se faire la bise` Beijar-se (na bochecha)
 -   `Défaire` Desfazer
@@ -92,7 +93,7 @@
     -   `Se détester` Odiar-se
 -   `Préférer` Preferir
 -   `Arriver` Chegar
-    -   `Arriver à` Ser capaz de
+    -   `Arriver à` Conseguir/Ser capaz de
     -   Também possui uma forma impessoal que significa "acontecer"
 -   `Acheter` Comprar
 -   `Rencontrer` Conhecer
@@ -186,6 +187,7 @@
 -   `Laver` Lavar
 -   `Vérifier` Verificar/Checar
 -   `Changer` Mudar/Alterar/Trocar
+-   `Échanger` Trocar
 -   `Envoyer` Enviar
     -   `S'envoyer` Enviar-se
 -   `Envier` Invejar
@@ -288,6 +290,8 @@
 -   `Imprimer` Imprimir
 -   `Copier` Copiar
     -   `Copier sur` Copiar de
+-   `Coller` Colar
+-   `Poster` Publicar
 -   `Se rappeler` Se lembrar
 -   `Compléter` Completar
 -   `S'améliorer` Melhorar
@@ -340,6 +344,10 @@
 -   `Se maquiller` Maquiar-se
 -   `Déclarer` Declarar
 -   `Glisser` Escorregar
+-   `Taper` Digitar
+-   `Surveiller` Supervisionar/Ficar de olho
+-   `Remplacer` Substituir
+-   `Emballer` Embalar
 
 ## -ir Verbes
 
@@ -367,6 +375,7 @@
 -   `Revenir` Voltar
     -   `Revenir en arrière` Voltar atrás/Voltar para atrás
 -   `Dormir`
+-   `S'endormir` Adormecer
 -   `Partir` Sair (Leave)
 -   `Sortir` Sair (Get out, go out)
     -   `Sortir avec` Sair com

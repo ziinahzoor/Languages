@@ -97,6 +97,7 @@
 -   `Soñar` Sonhar
 -   `Llevar` Levar
     -   `Llevar puesto` Vestir/Usar
+        -   Também pode ser simplesmente `llevar`.
     -   `Llevarse bien` Se dar bem
 -   `Acostarse` Ir pra cama/Ir dormir
 -   `Odiar`
@@ -205,6 +206,11 @@
 -   `Apruebar` Aprovar/Passar
 -   `Contar`
 -   `Memorizar`
+-   `Evitar`
+-   `Quemarse` Queimar-se
+-   `Enfermarse` Adoecer-se
+-   `Importar`
+-   `Faltar`
 
 ## Los verbos -er
 
@@ -310,3 +316,4 @@
 -   `Destruir`
 -   `Traducir` Traduzir
 -   `Corregir` Corrigir
+-   `Discutir`

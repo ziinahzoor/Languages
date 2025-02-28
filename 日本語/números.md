@@ -286,6 +286,8 @@
 
 ### <font size="5"><code><ruby>着<rt>ちゃく</rt></ruby></code></font> Roupas e trajes
 
+### <font size="5"><code><ruby>号<rt>ごう</rt>車<rt>しゃ</rt></ruby></code></font> Número de trem ou trilho
+
 ## Transformação dos contadores
 
 <table>

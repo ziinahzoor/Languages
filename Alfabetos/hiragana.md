@@ -62,6 +62,8 @@
 -   Para consoantes, adiciona-se um pequeno <ruby>`つ`<rt>tsu</rt></ruby> (<code><ruby>促<rt>そく</rt>音<rt>おん</rt></ruby></code>) antes da consoante que se deseja dobrar. Usado para _k_, _s_, _t_ e _p_.
 -   Para vogais, repete-se o símbolo da vogal.
     -   Também existe o <ruby>`えい`<rt>ei</rt></ruby>, que soa como <ruby>`ええ`<rt>ee</rt></ruby> e o <ruby>`おう`<rt>ou</rt></ruby>, que soa como <ruby>`おお`<rt>oo</rt></ruby>`.
+        -   Isso ocorre para qualquer kana `え` acompanhado de `い` e também qualquer kana `お` acompanhado de `う`.
+        -   Essa regra não é aplicada em construções gramaticais, como conjugações de verbos. Ex.: `おもう` e `している` são pronunciados como ditongos e não vogais longas.
 
 ## Ordem dos traços
 

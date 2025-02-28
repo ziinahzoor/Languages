@@ -85,15 +85,8 @@
     -   `ください` é usado para pedir objetos e solicitar ações. `おねがいします` é mais usado para solicitar serviços.
     -   `ください`: Me dê... por favor; Faça... por favor.
     -   `おねがいします`: Preciso... por favor.
--   `かのじょ` pode ser tanto "ela" quanto "namorada" dependendo do contexto.
--   `々` é conhecido como repetidor de kanji, é usado para repetir um kanji já utilizado com o mesmo som. Ex.: `時々` é <font size="5"><code><ruby>時<rt>とき</rt>時<rt>どき</rt></ruby></code></font>.
+-   <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> pode ser tanto "ela" quanto "namorada" dependendo do contexto.
 -   A ordem das frases geralmente é: `tópico` → `frequência` → `quando` → `com quem ocorre` → `objeto` → `partícula` → `verbo` → `partícula`
--   Kanji e palavras possuem leituras <font size="5"><code><ruby>訓<rt>くん</rt>読<rt>よ</rt></ruby>み</code></font> (leitura japonesa) e <font size="5"><code><ruby>音<rt>おん</rt>読<rt>よ</rt></ruby>み</code></font> (leitura chinesa).
-    -   Existem kanji apenas おんよみ e kanjis apenas くんよみ (chamados `こくじ`)
-    -   As leituras chinesas podem chegar a três formas vindas de diferentes períodos, chamadas <font size="5"><code><ruby>呉<rt>ご</rt>音<rt>おん</rt></ruby></code></font>, <font size="5"><code><ruby>漢<rt>かん</rt>音<rt>おん</rt></ruby></code></font> e <font size="5"><code><ruby>唐<rt>とう</rt>音<rt>おん</rt></ruby></code></font>.
-    -   Quando a palavra tem dois kanji (<font size="5"><code><ruby>熟<rt>じゅく</rt>語<rt>ご</rt></ruby></code></font>) e sem hiragana, geralmente a leitura é onyomi.
-    -   Quando o kanji está sozinho, geralmente a leitura é kunyomi. Números são uma exceção.
-    -   Se o kanji está acompanhado de hiragana (<font size="5"><code><ruby>送<rt>おく</rt></ruby>り<ruby>仮<rt>が</rt>名<rt>な</rt></ruby></code></font>), geralmente é kunyomi.
 -   Se uma cor termina em <font size="5"><code><ruby>色<rt>いろ</rt></ruby></code></font>, deve-se usar `の` entre ela e o substantivo que ela qualifica.
 -   Para conectar frases, ao invés de usar `と`, usar `そして`.
 -   A partícula `は` torna "invisível" algum elemento gramático da frase. Se `は` é usada para falar do sujeito, a partícula `が` não aparece na frase, e, de forma similar, se é usada para se referir ao objeto direto, `を` não aparece.
@@ -114,12 +107,7 @@
 -   O japonês costuma evitar pleonasmos (<font size="5"><code><ruby>重<rt>かさ</rt></ruby>ね<ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby></code></font>), usando construções gramaticais para isso.
 -   `分からない` e `知らない` possuem uma certa sobreposição nos seus significados (principalmente para dizer "não sei"). Mas o primeiro é mais usado para se referir a si, enquanto o segundo é mais usado para se referir a outra pessoa.
     -   Exceto em perguntas envolvendo um dos verbos diretamente, pois nesse caso, se responde com o mesmo verbo usado pra pergunta.
-
-## タメ<ruby>口<rt>ぐち</rt></ruby> - Conversa Casual/Informal
-
--   Abreviar `です` para `っす`
--   Abreviar a forma `ている` para `てる`.
--   Usar `って` ao invés de `は`.
+-   <font size="5"><code><ruby>先<rt>さき</rt></ruby></code></font> é uma opção menos imediata à <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> no que diz respeito a local e <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font> no que diz respeito ao tempo.
 
 ## そらにことば - Falsos cognatos
 

@@ -79,6 +79,7 @@
 -   `Παραλαμβάνω` Receber
 -   `Ανατρέφω` Criar (de cuidar)/Trazer à tona/Nutrir
 -   `Αποτυγχάνω` Falhar
+-   `Κερδίζω` Ganhar
 -   `Χάνω` Perder
 -   `Παραδίδω` Entregar/Transferir
 -   `Πιστεύω` Acreditar/Pensar
@@ -91,6 +92,27 @@
 -   `Βελτιώνω` Melhorar
 -   `Ζυγίζω` Pesar
 -   `Τελειώνω` Terminar
+-   `Αναγνωρίζω` Reconhecer
+-   `Παραγγέλλω` Pedir/Encomendar
+    -   `Παραγγέλνω` Coloquial
+-   `Κόβω` Cortar
+-   `Απογεμίζω` Encher/Preencher
+-   `Γεμίζω` Encher/Preencher
+-   `Συνεχίζω` Continuar/Seguir em frente
+-   `Ανεβαίνω` Subir
+-   `Κατεβαίνω` Descer
+-   `Ξοδεύω` Gastar
+    -   `Ξοδιάζω` Forma alternativa
+-   `Υποστηρίζω` Apoiar
+-   `Εμποδίζω` Impedir/Bloquear/Prevenir
+    -   `Μποδίζω` Forma alternativa
+-   `Χτενίζω` Pentear
+    -   Também significa "procurar" figurativamente.
+-   `Γνωρίζω` Conhecer
+-   `Πλένω` Lavar
+-   `Καταλαβαίνω` Entender/Compreender
+-   `Πιάνω` Pegar/Agarrar/Apanhar
+-   `Συστήνω` Introduzir/Apresentar
 
 ## Verbos -άω (-ώ)
 
@@ -110,6 +132,15 @@
 -   `Ακολουθάω` Seguir
 -   `Παρακαλάω` Pedir/Implorar
 -   `Μετράω` Contar/Medir
+-   `Ξεκινάώ` Começar
+-   `Απαντάω` Responder
+-   `Πουλάω` Vender
+    -   `Πωλώ` Mais usado em propagandas
+-   `Πονάω` Doer
+-   `Kρατάω` Segurar
+-   `Περνάω` Passar/Atravessar
+-   `Συναντάω` Encontrar/Conhecer
+-   `Προτιμάω` Preferir
 
 ## Verbos -ώ
 
@@ -119,10 +150,38 @@
 -   `Kαλώ` Chamar
 -   `Ευχαριστώ` Agradecer
 -   `Εννοώ` Significar (elaboração)
+-   `Προσπαθώ` Tentar
 
-## Verbos irregulares
+## Verbos depoentes
+
+**São conjugados na voz passiva mas têm sentido ativo. Não possuem equivalentes ativos.**
 
 -   `Είμαι` Ser
+-   `Έρχομαι` Vir
+-   `Βαριέμαι` Entediar-se/Estar entediado
+-   `Θυμάμαι` Lembrar-se
+    -   `Θυμούμαι` Forma alternativa
+-   `Kοιμάμαι` Dormir
+-   `Εμπιστεύομαι` Confiar
+-   `Χρειάζομαι` Precisar/Necessitar
+-   `Εύχομαι` Desejar
+-   `Γίνομαι` Acontecer
+-   `Ξεκουράζομαι` Descansar
+    -   Não é exatamente depoente pois possui uma forma ativa, porém ela é transitiva. A forma passiva indica uma ação reflexiva.
+-   `Φαίνομαι` Parecer
+-   `Ονειρεύομαι` Sonhar
+-   `Υπόσχομαι` Prometer
+-   `Φαντάζομαι` Imaginar
+    -   Não é exatamente depoente pois possui uma forma ativa, porém ela tem outro sentido.
+-   `Επισκέπτομαι` Visitar
+-   `Kάθομαι` Sentar
+-   `Αρνούμαι` Negar/Recusar
+-   `Σκέφτομαι` Pensar/Ponderar
+    -   `Σκέπτομαι` Forma alternativa
+-   `Δέχομαι` Receber/Aceitar
+-   `Αποδέχομαι` Aceitar/Consentir
+-   `Εργάζομαι` Trabalhar
+-   `Σέβομαι` Respeitar
 
 ## Verbos impessoais
 

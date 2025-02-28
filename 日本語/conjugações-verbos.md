@@ -181,6 +181,9 @@
 -   Para verbos ichidan, consiste apenas de retirar a terminação `る`.
 -   As formas nominais de `する` e `来る` são `し` e `き`, respectivamente.
 
+> [!NOTE]
+> A forma nominal também pode ser usada no lugar da forma-て ao conectar frases, dando um tom mais formal e literário.
+
 <h3 id="var_educada"><ruby>丁<rt>てい</rt>寧<rt>ねい</rt>形<rt>けい</rt></ruby> - Forma educada (ます)</h3>
 
 -   `ます` é um verbo auxiliar que serve somente para o <font size="5"><code><ruby>丁<rt>てい</rt>寧<rt>ねい</rt>語<rt>ご</rt></ruby></code></font> (discurso educado).
@@ -212,6 +215,7 @@
 -   Usada para juntar um verbo com outro verbo ou um substantivo.
 -   Não é explicitamente uma forma.
 -   Usada principalmente com "coisa" para tornar um verbo um substantivo. Ex.: `買い物` Compras, `飲み物` Bebida, `食べ物` Comida.
+
 <h4 id="var_complexidade">Forma de complexidade</h4>
 
 -   Indica que algo é fácil ou difícil de fazer.
@@ -480,3 +484,4 @@
 #### として
 
 -   Sentido parecido com とする, porém tem o intuito de analisar sob a luz do que é considerado (analisar algo sobre essa consideração). Ex.: `外国人として彼の日本語がいいです` (Para um estrangeiro, seu japonês é muito bom).
+-   É mais utilizado para indicar papéis. `レストランの店員として働く` "Ele trabalha como garçom em um restaurante".

@@ -56,6 +56,12 @@
 
 -   É o discurso humilde não-direcionado ao ouvinte ou um terceiro. Ex.: `電車が参ります` "O trem está chegando", o trem em si não é rebaixado, mas a companhia ferroviária está se rebaixando com o anúncio em favor aos passageiros.
 
+## タメ<ruby>口<rt>ぐち</rt></ruby> - Discurso casual/informal
+
+-   Abreviar `です` para `っす`
+-   Abreviar a forma `ている` para `てる`.
+-   Usar `って` ao invés de `は`.
+
 ## Formas verbais irregulares
 
 <table>

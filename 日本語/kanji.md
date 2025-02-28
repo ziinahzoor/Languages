@@ -1,5 +1,38 @@
 # <ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby> - Kanji (Caracteres chineses)
 
+> [!TIP]
+> Para os radicais, clique [AQUI](radicais.md).
+
+-   Um dos três sistemas de escrita presentes no japonês. Foi importado da China.
+-   Em palavras, os kanji podem ser encontrados de três formas:
+    -   <font size="5"><code><ruby>単<rt>たん</rt>漢<rt>かん</rt>字<rt>じ</rt></ruby></code></font> Isolados.
+    -   <font size="5"><code><ruby>熟<rt>じゅく</rt>語<rt>ご</rt></ruby></code></font>: Composto de kanji, ou seja, uma palavra com mais de um kanji.
+    -   Com <font size="5"><code><ruby>送<rt>おく</rt></ruby>り<ruby>仮<rt>が</rt>名<rt>な</rt></ruby></code></font>: 送り仮名 é um sufixo em hiragana que acompanha um kanji.
+        -   Tanto kanji isolados quanto compostos ser acompanhados.
+-   Kanji possuem leituras <font size="5"><code><ruby>訓<rt>くん</rt>読<rt>よ</rt></ruby>み</code></font> (japonesa) e <font size="5"><code><ruby>音<rt>おん</rt>読<rt>よ</rt></ruby>み</code></font> (chinesa).
+    -   <font size="5"><code><ruby>国<rt>こっ</rt>訓<rt>くん</rt></ruby></code></font> se refere à leitura japonesa do kanji ou palavra quando esta difere do sentido original da leitura chinesa.
+    -   As leituras chinesas podem chegar a três formas vindas de diferentes períodos, chamadas <font size="5"><code><ruby>呉<rt>ご</rt>音<rt>おん</rt></ruby></code></font>, <font size="5"><code><ruby>漢<rt>かん</rt>音<rt>おん</rt></ruby></code></font> e <font size="5"><code><ruby>唐<rt>とう</rt>音<rt>おん</rt></ruby></code></font>.
+    -   Se o kanji está isolado, geralmente a leitura é 訓読み. Números são uma exceção.
+    -   Se o kanji é 熟語 e não possui 送り仮名, geralmente a leitura é 音読み.
+    -   Se o kanji possui 送り仮名, geralmente a leitura é 訓読み.
+-   Os kanji criados exclusivamente no Japão são chamados <font size="5"><code><ruby>国<rt>こく</rt>字<rt>じ</rt></ruby></code></font> ou <font size="5"><code><ruby>和<rt>わ</rt>製<rt>せい</rt>漢<rt>かん</rt>字<rt>じ</rt></ruby></code></font>.
+    -   Por serem majoritariamente exclusivos do Japão (alguns foram levados para a China), geralmente só possuem leitura 訓読み.
+-   Atualmente, a maior parte dos kanji utiliza formas simplificadas, chamadas <font size="5"><code><ruby>新<rt>しん</rt>字<rt>じ</rt>体<rt>たい</rt></ruby></code></font>. Porém, em certos contextos ainda são utilizadas as formas tradicionais (formas usadas antes de 1946), chamadas <font size="5"><code><ruby>旧<rt>きゅう</rt>字<rt>じ</rt>体<rt>たい</rt></ruby></code></font>.
+    -   Existem ainda os <font size="5"><code><ruby>略<rt>りゃく</rt>字<rt>じ</rt></ruby>・<ruby>筆<rt>ひっ</rt>写<rt>しゃ</rt>略<rt>りゃく</rt>字<rt>じ</rt></ruby></code></font>, abreviações coloquiais de diversos kanji, e também os <font size="5"><code><ruby>拡<rt>かく</rt>張<rt>ちょう</rt>新<rt>しん</rt>字<rt>じ</rt>体<rt>たい</rt></ruby></code></font>, formas simplificadas não-oficiais.
+-   Os kanji de uso comum são chamados <font size="5"><code><ruby>常<rt>じょう</rt>用<rt>よう</rt>漢<rt>かん</rt>字<rt>じ</rt></ruby></code></font>.
+    -   Existem 2136 常用漢字 e todos são 新字体. Destes, cerca de 10 são 国字.
+    -   São os únicos kanji que podem ser escritos em documentos oficiais.
+    -   São ensinados no ensino fundamental.
+    -   No ensino primário são ensinados 1026 destes, chamados <font size="5"><code><ruby>教<rt>きょう</rt>育<rt>いく</rt>漢<rt>かん</rt>字<rt>じ</rt></ruby></code></font>. Os outros 1110 são ensinados no ensino secundário.
+-   Além os kanji de uso comum, existem os <font size="5"><code><ruby>人<rt>じん</rt>名<rt>めい</rt>用<rt>よう</rt>漢<rt>かん</rt>字<rt>じ</rt></ruby></code></font>, que só podem ser utilizados para nomes pessoais.
+    -   Destes, 212 são formas 旧字体 dos 常用漢字.
+-   Qualquer outro kanji que não pertença às classes anteriores faz parte dos <font size="5"><code><ruby>表<rt>ひょう</rt>外<rt>がい</rt>漢<rt>かん</rt>字<rt>じ</rt></ruby>・<ruby>表<rt>ひょう</rt>外<rt>がい</rt>字<rt>じ</rt></ruby></code></font>.
+-   <font size="5"><code><ruby>々<rt>のま</rt></ruby></code></font> é conhecido como marca de repetição de kanji (<font size="5"><code><ruby>同<rt>どう</rt></ruby>の<ruby>字<rt>じ</rt>点<rt>てん</rt></ruby></code></font>), e é usado para repetir, com o mesmo som, um kanji já utilizado em um 熟語. Ex.: <font size="5"><code><ruby>時<rt>とき</rt>々<rt>どき</rt></ruby></code></font> é usado no lugar de <font size="5"><code><ruby>時<rt>とき</rt>時<rt>どき</rt></ruby></code></font>.
+-   Os kanji são desenhados utilizando uma ordem específica dos traços.
+-   Os kanji são construídos através de radicais, que são como peças unitárias.
+    -   Existem 214 [radicais](radicais.md) derivados do mandarim chamados <font size="5"><code><ruby>康<rt>こう</rt>熙<rt>き</rt>部<rt>ぶ</rt>首<rt>しゅ</rt></ruby></code></font> "Radicais de Kangxi".
+    -   Os radicais são posicionados precisamente para formar cada kanji.
+
 ## <ruby>筆<rt>ひっ</rt>画<rt>かく</rt></ruby> - Traços
 
 -   Um único traço é chamado <font size="5"><code><ruby>点<rt>てん</rt>画<rt>かく</rt></ruby></code></font>.
@@ -57,39 +90,3 @@
 
 > [!TIP]
 > Em algumas palavras, determinados kanji são utilizados apenas para manter a fonética da palavra, de forma com que o significado do kanji pode ser desconexo do significado da palavra. Nestas palavras, os kanji são chamados <font size="5"><code><ruby>当<rt>あ</rt></ruby>て<ruby>字<rt>じ</rt></ruby>・<ruby>宛<rt>あて</rt>字<rt>じ</rt></ruby></code></font>.
-
-## <ruby>部<rt>ぶ</rt>首<rt>しゅ</rt></ruby> - Radicais
-
-> [!NOTE]
-> Existem cerca de 214 radicais.
-
--   <font size="5"><code><ruby>⽇<rt>ひ・にち</rt></ruby></code></font> Sol
-    -   <font size="5"><code><ruby><rt>ひへん</rt></ruby></code></font> Posição Hen
--   <font size="5"><code><ruby>月<rt>つき</rt></ruby></code></font> Lua
-    -   <font size="5"><code><ruby>⺝<rt>つきへん</rt></ruby></code></font> Posição Hen
--   <font size="5"><code><ruby>⾋<rt>くさ</rt></ruby></code></font> Grama
-    -   <font size="5"><code><ruby>⺾<rt>くさかんむり</rt></ruby></code></font> Posição Kanmuri
--   <font size="5"><code><ruby>⽔<rt>みず</rt></ruby></code></font> Água
-    -   <font size="5"><code><ruby>⺡<rt>さんずい</rt></ruby></code></font> Posição Hen
--   <font size="5"><code><ruby>木<rt>き</rt></ruby></code></font> Árvore
-    -   <font size="5"><code><ruby><rt>きへん</rt></ruby></code></font> Posição Hen
--   <font size="5"><code><ruby>⽕<rt>ひ</rt></ruby></code></font> Fogo
-    -   <font size="5"><code><ruby><rt>ひへん</rt></ruby></code></font> Posição Hen
-    -   <font size="5"><code><ruby>灬<rt>れっか</rt></ruby></code></font> Posição Ashi
--   <font size="5"><code><ruby>山<rt>やま</rt></ruby></code></font> Montanha
-    -   <font size="5"><code><ruby><rt>やまへん</rt></ruby></code></font> Posição Hen
-    -   <font size="5"><code><ruby><rt>やまかんむり</rt></ruby></code></font> Posição Kanmuri
--   <font size="5"><code><ruby>土<rt>つち</rt></ruby></code></font> Terra
-    -   <font size="5"><code><ruby><rt>つちへん</rt></ruby></code></font> Posição Hen
--   <font size="5"><code><ruby>石<rt>いし</rt></ruby></code></font> Pedra
-    -   <font size="5"><code><ruby><rt>いしへん</rt></ruby></code></font> Posição Hen
--   <font size="5"><code><ruby>人<rt>ひと</rt></ruby></code></font> Homem
-    -   <font size="5"><code><ruby>亻<rt>にんべん</rt></ruby></code></font> Posição Hen
-    -   <font size="5"><code><ruby>𠆢<rt>ひとやね</rt></ruby></code></font> Posição Kanmuri
-
-## Nomes
-
--   `田` Ta/Da
--   `中` Naka
--   `山` Yama
--   `口` Guchi

@@ -76,7 +76,7 @@
 
 #### Points Cardinaux - Pontos Cardeais
 
-<table>
+<table style="text-align: center;">
     <tr>
         <td>Nord-ouest</td>
         <td>Nord</td>

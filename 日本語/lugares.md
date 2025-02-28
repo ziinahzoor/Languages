@@ -4,7 +4,7 @@
 
 **<font size="5"><code><ruby>場<rt>ば</rt>所<rt>しょ</rt></ruby></code></font> também significa "lugar", mas é mais específico que 所**
 
-**Para indicar uma loja que vende alguma coisa, é só adicionar o sufixo <font size="5"><code><ruby>屋<rt>や</rt></ruby></code></font>. Ex.: <font size="5"><code>ぴざ<ruby>屋<rt>や</rt></ruby></code></font> é pizzaria. Para outras instituições mais formais se usa `かん`.**
+**Para indicar uma loja que vende alguma coisa, é só adicionar o sufixo <font size="5"><code><ruby>屋<rt>や</rt></ruby></code></font>. Ex.: <font size="5"><code>ぴざ<ruby>屋<rt>や</rt></ruby></code></font> "pizzaria". Para outras instituições públicas ou formais se usa <font size="5"><code><ruby>館<rt>かん</rt></ruby></code></font>.**
 
 -   <font size="5"><code><ruby>会<rt>かい</rt>場<rt>じょう</rt></ruby></code></font> Local
 -   <font size="5"><code><ruby>辺<rt>へん</rt></ruby></code></font> Área/Região
@@ -50,7 +50,7 @@
 -   <font size="5"><code><ruby>田舎<rt>いなか</rt></ruby></code></font> Interior/Área rural
 -   `ホーム` Plataforma
 -   `かいさつ` Portão de embarque
--   `のりかえ` Escala (de trens)
+-   <font size="5"><code><ruby>乗<rt>の</rt></ruby>り<ruby>換<rt>か</rt></ruby>え</code></font> Escala/Conexão (de trens)
 -   `ちか` Subsolo
 -   `エレベーター` Elevator
 -   `エスカレーター` Escada rolante
@@ -62,7 +62,7 @@
     -   `みなみぐち` Saída sul
     -   `ひがしぐち` Saída leste
     -   `にしぐち` Saída oeste
--   `じんじゃ` Santuário Xintoísta
+-   <font size="5"><code><ruby>神<rt>じん</rt>社<rt>じゃ</rt></ruby></code></font> Santuário Xintoísta
 -   <font size="5"><code>お<ruby>寺<rt>てら</rt></ruby></code></font> Templo Budista
 -   <font size="5"><code><ruby>建<rt>たて</rt>物<rt>もの</rt></ruby></code></font> Edifício/Edificação/Imóvel
 -   `ビル` Prédio (com vários andares)
@@ -82,13 +82,14 @@
 -   <font size="5"><code><ruby>温<rt>おん</rt>泉<rt>せん</rt>宿<rt>やど</rt></ruby></code></font> Hotel termal
 -   <font size="5"><code><ruby>会<rt>かい</rt>社<rt>しゃ</rt></ruby></code></font> Empresa
 -   `トンネル` Túnel
--   `はくぶつかん` Museu
--   `びじゅつかん` Museu de arte
+-   <font size="5"><code><ruby>博<rt>はく</rt>物<rt>ぶつ</rt>館<rt>かん</rt></ruby></code></font> Museu
+-   <font size="5"><code><ruby>美<rt>び</rt>術<rt>じゅつ</rt>館<rt>かん</rt></ruby></code></font> Museu de arte
 -   <font size="5"><code><ruby>城<rt>しろ</rt></ruby></code></font> Castelo
 -   `ロビー` Entrada/Portaria/Salão
--   `うけつけ` Recepção
+-   <font size="5"><code><ruby>受<rt>うけ</rt>付<rt>つけ</rt></ruby></code></font> Recepção
 -   `スーパー` Supermercado
--   `としょかん` Livraria
+-   <font size="5"><code><ruby>図<rt>と</rt>書<rt>しょ</rt>館<rt>かん</rt></ruby></code></font> `としょかん` Biblioteca
+-   <font size="5"><code><ruby>本<rt>ほん</rt>屋<rt>や</rt></ruby></code></font> Livraria
 -   `ジム` Ginásio
 -   `アトラクション` Atração
 -   `ショー` Show
@@ -135,6 +136,11 @@
 -   `マンション` Apartamento (de alto padrão)
 -   <font size="5"><code><ruby>交<rt>こう</rt>番<rt>ばん</rt></ruby></code></font> Posto policial
 -   <font size="5"><code><ruby>交<rt>こう</rt>差<rt>さ</rt>点<rt>てん</rt></ruby></code></font> Cruzamento/Interseção
+-   <font size="5"><code><ruby>環<rt>かん</rt>境<rt>きょう</rt></ruby></code></font> Ambiente
+    -   <font size="5"><code><ruby>自<rt>し</rt>然<rt>ぜん</rt>環<rt>かん</rt>境<rt>きょう</rt></ruby></code></font> Meio ambiente
+-   <font size="5"><code><ruby>大<rt>たい</rt>使<rt>し</rt>館<rt>かん</rt></ruby></code></font> Embaixada
+-   <font size="5"><code><ruby>山<rt>やま</rt>道<rt>みち</rt></ruby></code></font> Trilha (montanhosa)
+-   <font size="5"><code><ruby>売<rt>ばい</rt>店<rt>てん</rt></ruby></code></font> Estande/Quiosque/Barraca
 
 ## <ruby>親<rt>しん</rt>戚<rt>せき</rt>所<rt>ところ</rt></ruby> - Lugares Relativos
 
@@ -147,27 +153,64 @@
 -   `まわり` Arredor/Arredores
 -   <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Frente/Face
     -   Não precisa de partícula para se ligar a um verbo.
+-   <font size="5"><code><ruby>先<rt>さき</rt></ruby></code></font> Depois de/Na frente de/Em frente
+    -   É mais abstrato que `前`, não indica uma posição específica, e sim uma direção.
 -   <font size="5"><code><ruby>後<rt>うし</rt>ろ</ruby></code></font> Atrás/Detrás
 -   `まんなか` Meio
 -   <font size="5"><code><ruby>向<rt>む</rt></ruby>こう</code></font> Do outro lado
--   <font size="5"><code><ruby>間<rt>あいだ</rt></ruby></code></font> Espaço entre/Abertura/Brecha
+-   <font size="5"><code><ruby>間<rt>あいだ</rt></ruby></code></font> Espaço entre/Abertura/Brecha/Meio de
+-   <font size="5"><code><ruby>出<rt>しゅっ</rt>身<rt>しん</rt></ruby></code></font> Origem (de alguém)
 
 ### <ruby>方<rt>ほう</rt>向<rt>こう</rt></ruby> - Direções
 
--   `まっすぐ` Reto
--   <font size="5"><code><ruby>左<rt>ひだり</rt></ruby></code></font> Esquerda
--   <font size="5"><code><ruby>右<rt>みぎ</rt></ruby></code></font> Direita
--   <font size="5"><code><ruby>上<rt>うえ</rt></ruby></code></font> Topo/Acima/Sobre
--   <font size="5"><code><ruby>下<rt>した</rt></ruby></code></font> Fundo/Abaixo/Embaixo
+<table style="text-align: center;">
+    <tr>
+        <td colspan="5"><font size="5"><ruby>上<rt>うえ</rt></ruby></font></td>
+    </tr>
+    <tr>
+        <td colspan="5">Topo/Acima/Sobre</td>
+    </tr>
+    <tr>
+        <td><font size="5"><ruby>左<rt>ひだり</rt></ruby></font></td>
+        <td><font size="5"><ruby>左<rt>ひだり</rt>側<rt>がわ</rt></ruby></font></td>
+        <td>まっすぐ</td>
+        <td><font size="5"><ruby>右<rt>みぎ</rt>側<rt>がわ</rt></ruby></font></td>
+        <td><font size="5"><ruby>右<rt>みぎ</rt></ruby></font></td>
+    </tr>
+    <tr>
+        <td>Esquerda</td>
+        <td>Lado esquerdo</td>
+        <td>Reto</td>
+        <td>Lado direito</td>
+        <td>Direita</td>
+    </tr>
+    <tr>
+        <td colspan="5"><font size="5"><ruby>下<rt>した</rt></ruby></font></td>
+    </tr>
+    <tr>
+        <td colspan="5">Fundo/Abaixo/Embaixo</td>
+    </tr>
+</table>
 
-#### Cardinais
+#### Pontos Cardeais
 
--   <font size="5"><code><ruby>北<rt>きた</rt></ruby></code></font> Norte
--   <font size="5"><code><ruby>南<rt>みなみ</rt></ruby></code></font> Sul
-    -   `サウス`
--   <font size="5"><code><ruby>東<rt>ひがし</rt></ruby></code></font> Leste
--   <font size="5"><code><ruby>西<rt>にし</rt></ruby></code></font> Oeste
--   <font size="5"><code><ruby>北<rt>ほく</rt>東<rt>とう</rt></ruby></code></font> Noroeste
+<table style="text-align: center;">
+    <tr>
+        <td><font size="5"><ruby>北<rt>ほく</rt>西<rt>せい</rt></ruby></font></td>
+        <td><font size="5"><ruby>北<rt>きた</rt></ruby></font></td>
+        <td><font size="5"><ruby>北<rt>ほく</rt>東<rt>とう</rt></ruby></font></td>
+    </tr>
+    <tr>
+        <td><font size="5"><ruby>西<rt>にし</rt></ruby></font></td>
+        <td></td>
+        <td><font size="5"><ruby>東<rt>ひがし</rt></ruby></font></td>
+    </tr>
+    <tr>
+        <td><font size="5"><ruby>南<rt>なん</rt>西<rt>せい</rt></ruby></font></td>
+        <td><font size="5"><ruby>南<rt>みなみ</rt>・サウス</ruby></font></td>
+        <td><font size="5"><ruby>南<rt>なん</rt>東<rt>とう</rt></ruby></font></td>
+    </tr>
+</table>
 
 ## <ruby>家<rt>いえ</rt></ruby> - Casa
 
@@ -194,6 +237,7 @@
 -   `たたみ` Piso japonês
 -   `かべ` Parede
 -   `えんげき` Teatro
+-   <font size="5"><code><ruby>八<rt>や</rt>百<rt>お</rt>屋<rt>や</rt></ruby></code></font> Verdureiro
 
 ## <ruby>国<rt>くに</rt></ruby> - Países
 
@@ -205,6 +249,7 @@
 
 ### アフリカ - África
 
+-   `エジプト` Egito
 -   `ケニア` Quênia
 
 ### アメリカ - América
@@ -256,15 +301,16 @@
 
 ## <ruby>惑<rt>わく</rt>星<rt>せい</rt></ruby> - Planetas
 
--   <font size="5"><code><ruby>水<rt>すい</rt>星<rt>せい</rt></ruby></code></font> Mercúrio
--   <font size="5"><code><ruby>金<rt>きん</rt>星<rt>せい</rt></ruby></code></font> Vênus
--   <font size="5"><code><ruby>地<rt>ち</rt>球<rt>きゅう</rt></ruby></code></font> Terra
--   <font size="5"><code><ruby>火<rt>か</rt>星<rt>せい</rt></ruby></code></font> Marte
--   <font size="5"><code><ruby>木<rt>もく</rt>星<rt>せい</rt></ruby></code></font> Júpiter
--   <font size="5"><code><ruby>土<rt>ど</rt>星<rt>せい</rt></ruby></code></font> Saturno
--   <font size="5"><code><ruby>天<rt>てん</rt>王<rt>のう</rt>星<rt>せい</rt></ruby></code></font> Urano
--   <font size="5"><code><ruby>海<rt>かい</rt>王<rt>おう</rt>星<rt>せい</rt></ruby></code></font> Netuno
--   <font size="5"><code><ruby>冥<rt>めい</rt>王<rt>おう</rt>星<rt>せい</rt></ruby></code></font> Plutão
+-   <font size="5"><code><ruby>天<rt>あま</rt></ruby>の<ruby>川<rt>がわ</rt></ruby></code></font> Via-Láctea
+    -   <font size="5"><code><ruby>水<rt>すい</rt>星<rt>せい</rt></ruby></code></font> Mercúrio
+    -   <font size="5"><code><ruby>金<rt>きん</rt>星<rt>せい</rt></ruby></code></font> Vênus
+    -   <font size="5"><code><ruby>地<rt>ち</rt>球<rt>きゅう</rt></ruby></code></font> Terra
+    -   <font size="5"><code><ruby>火<rt>か</rt>星<rt>せい</rt></ruby></code></font> Marte
+    -   <font size="5"><code><ruby>木<rt>もく</rt>星<rt>せい</rt></ruby></code></font> Júpiter
+    -   <font size="5"><code><ruby>土<rt>ど</rt>星<rt>せい</rt></ruby></code></font> Saturno
+    -   <font size="5"><code><ruby>天<rt>てん</rt>王<rt>のう</rt>星<rt>せい</rt></ruby></code></font> Urano
+    -   <font size="5"><code><ruby>海<rt>かい</rt>王<rt>おう</rt>星<rt>せい</rt></ruby></code></font> Netuno
+    -   <font size="5"><code><ruby>冥<rt>めい</rt>王<rt>おう</rt>星<rt>せい</rt></ruby></code></font> Plutão
 
 ## <ruby>地<rt>ち</rt>方<rt>ほう</rt></ruby> Regiões do Japão
 

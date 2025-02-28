@@ -28,6 +28,7 @@
 -   `Horario` Horário
 -   `Futuro`
 -   `Anual`
+-   `Un rato` Um momento/Um pouco
 
 ## La Semaña - Semana
 

@@ -20,6 +20,9 @@
     -   Para dar ênfase, funciona como uma exclamação
 -   <font size="5"><code><ruby>何<rt>なん</rt>だ</ruby></code></font> O que...?!/O que é isso?!
 -   `〜そうだ・〜そうです` Dizem que...
+-   `〜ように` Como/Similar a
+    -   Se sufixa a verbos na forma de dicionário ou substantivos com `の`.
+    -   `〜ような` Adnominal
 -   `〜ようだ` Parece.../Como...
     -   Vem de `のよう` "Aparência de".
     -   `みたい` Casual
@@ -46,6 +49,17 @@
 -   <font size="5"><code>いい<ruby>子<rt>こ</rt></ruby></code></font> Bom garoto
 -   <font size="5"><code><ruby>仕<rt>し</rt>方<rt>かた</rt></ruby>がない</code></font> Não tem jeito
 -   `おかげで` Graças a/à...
+-   `なしで` Sem
+-   `...よろしいですか` Você gostaria de...?
+    -   Usado para oferecer algo, como um garçom oferecer um prato.
+-   <font size="5"><code><ruby>向<rt>む</rt></ruby>け</code></font> Para (voltado para/intencionado para)
+    -   Sufixo
+-   `かしこまりました` Certamente (Ao atender um pedido)
+-   `いいこと` Coisa boa!
+-   `ものだ・もんだ・ものです・もんです` Em geral.../Normalmente...
+    -   Não tem uma tradução literal, é usado para indicar que a frase é uma verdade universal ou algo a ser seguido.
+-   `これで` Com isto
+-   <font size="5"><code>どうぞ、お<ruby>先<rt>さき</rt></ruby>に</code></font> Por favor, você primeiro
 
 ## <ruby>相<rt>あい</rt>槌<rt>づち</rt></ruby> - Interjeições de atenção
 

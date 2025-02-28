@@ -14,11 +14,13 @@
 -   `Cuello` Pescoço
 -   `Espalda` Costas
 -   `Brazo` Braço
--   `Mano` Mão
-    -   `Dedo`
+    -   `Codo` Cotovelo
+    -   `Mano` Mão
+        -   `Dedo`
 -   `Pierna` Perna
--   `Rodilla` Joelho 🚺
--   `Pie` Pé
+    -   `Rodilla` Joelho 🚺
+    -   `Pie` Pé
+-   `Piel` Pele
 
 ## Internos
 

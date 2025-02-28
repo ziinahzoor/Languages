@@ -57,6 +57,11 @@
 -   `Musclé` Musculoso
 -   `Costaud` Bombado
 -   `Chic` Chique/Estiloso
+-   `Élégant` Elegante
+-   `À la mode` Na moda
+-   `Moderne` Moderno
+-   `Argenté` Prateado
+-   `Doré` Dourado
 
 ## Idade
 
@@ -82,11 +87,12 @@
 -   `Haut` Alto/Eleveado
 -   `Moyen` Médio
 -   `Petit` Pequeno
+-   `Ample` Amplo/Largo
 -   `Large` Largo
 -   `Long` Longo
 -   `Court` Curto
 -   `Gros` Gordo
--   `Mince` Magro
+-   `Mince` Magro/Fino
 -   `Léger` Leve
 -   `Lourd` Pesado
 -   `Profond` Profundo
@@ -136,7 +142,6 @@
 -   `Grave` Sério/Grave
 -   `Pratique` Prático
 -   `Classique` Clássico
--   `Moderne` Moderno
 -   `Ridicule` Ridículo
 -   `Certain` Certo
 -   `Francophone` Francófono
@@ -172,12 +177,16 @@
 -   `Fait maison` Caseiro
 -   `Inconnu` Desconhecido
 -   `Romantique` Romântico
--   `À la mode` Na moda
 -   `Évident` Evidente/Óbvio
 -   `Caché` Escondido
 -   `Naturel` Natural
 -   `Culturel` Cultural
 -   `Plat` Plano
+-   `Logique` Lógico
+-   `Offert` De graça
+-   `Élevé` Elevado
+-   `Privé` Privado
+-   `Serré` Apertado
 
 ### Personalidade
 
@@ -241,6 +250,7 @@
 -   `Disponible` Disponível
 -   `Diplômé` Formado/Graduado/Diplomado
 -   `Utile` Útil
+-   `Inutile` Inútil
 -   `Rôti` Assado
 -   `Cuit` Cozido
 -   `Grillé` Grelhado
@@ -255,6 +265,8 @@
 -   `Seul` Sozinho/Solitário
 -   `Divorcé` Divorciado
 -   `Séparé` Separado
+-   `Dur` Duro
+-   `Mou` Mole
 
 ### Físicas/Emocionais
 
@@ -305,6 +317,7 @@
 ## Qualidade
 
 -   `Correct` Correto
+-   `Incorrect` Incorreto
 -   `Vrai` Verdadeiro
 -   `Faux` Falso
 -   `Terrible` Terrível
@@ -336,6 +349,7 @@
 ## Capacidade
 
 -   `Capable` Capaz
+-   `Incapable` Incapaz
 -   `Possible` Possível
 -   `Facile` Fácil
 -   `Difficile` Difícil

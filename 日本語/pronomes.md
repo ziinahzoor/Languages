@@ -18,6 +18,7 @@
 -   <font size="5"><code><ruby>彼<rt>かれ</rt></ruby></code></font> Ele
 -   <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> Ela
 -   `うち` Nós (feminino)
+    -   Também é utilizado por homens em contextos possessivos, principalmente quando "nós" se refere à família ou núcleo familiar.
 -   <font size="5"><code><ruby>彼<rt>かれ</rt></ruby>ら</code></font> Eles/Elas
 -   `みんな` Pessoal/Todos/Todo mundo
 
@@ -29,14 +30,6 @@
 
 -   Usar `どれ・どの` para três ou mais itens e `どちら` para dois.
     -   O último é o único sentido que `どっち` pode ter
-
-**Os casos "não-determinante" e "pessoa" podem ser colocados no plural pelo sufixo `ら`.**
-
-**É melhor usar o caso de "direção" para pessoas, já que o caso "pessoa" é considerada rude.**
-
--   Em ordem de polidez, usa-se `こいつ` → `この子` → `この人` → `こちら` → `この方` → `こちらの方`
-
-**`そう` pode ser usado com os sufixos `だよ` e `です` para concordar. `そうそう` é mais casual, como "certo, certo...".**
 
 <table>
     <thead>
@@ -105,6 +98,13 @@
         <td>どんな</td>
     </tr>
     <tr>
+        <th>Tipo (Escrito)</th>
+        <td>このような</td>
+        <td>そのような</td>
+        <td>あのような</td>
+        <td>どのような</td>
+    </tr>
+    <tr>
         <th>Maneira</th>
         <td>こう</td>
         <td>そう</td>
@@ -113,9 +113,19 @@
     </tr>
 </table>
 
+**Os casos "não-determinante" e "pessoa" podem ser colocados no plural pelo sufixo `ら`.**
+
+**O caso "direção" se sobrepõe ao caso "não-determinante" quando diz respeito a objetos. É mais indireto e, portanto, mais honorífico.**
+
+> [!DANGER]
+> É melhor usar o caso "direção" para pessoas, já que o caso "pessoa" é considerada rude.
+> Em ordem de polidez, usa-se `こいつ` → `この子` → `この人` → `こちら` → `この方` → `こちらの方`.
+
+**`そう` pode ser usado com os sufixos `だよ` e `です` para concordar. `そうそう` é mais casual, como "certo, certo...".**
+
 **`あなた` se deriva de uma forma arcaica. Em situações formais, pode-se perguntar "quem?" usando `どなた`.**
 
-**`そんな` é bastente usado como uma expressão de surpresa e frustação. É algo como "ah não!", "de jeito nenhum!", "não diga isso!".**
+**`そんな` é bastante usado como uma expressão de surpresa e frustação. É algo como "ah não!", "de jeito nenhum!", "não diga isso!".**
 
 **As palavras de tipo são determinantes. Para as não-determinantes acrescenta-se a partícula `に`.**
 
@@ -197,7 +207,9 @@
 > Para determinantes, o que se determina vem no meio da construção. Ex.: `どの色でも` "Qualquer cor".
 > Ao usar os dois ao mesmo tempo, `か` vem antes de `も`.
 
--   <font size="5"><code>すべて・<ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby></code></font> Tudo/Todos/Todas
+-   <font size="5"><code><ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby></code></font> Todo/Toda/Todos/Todas
+    -   `すべて` Menos casual
+        -   Também pode significar "tudo".
 -   `みんな` Todo mundo
 
 ## Possessivos

@@ -15,13 +15,10 @@
     -   <font size="5"><code><ruby>牛<rt>ぎゅう</rt>肉<rt>にく</rt></ruby></code></font> Carne bovina
     -   <font size="5"><code><ruby>鶏<rt>とり</rt>肉<rt>にく</rt></ruby></code></font> Carne avina
 -   <font size="5"><code><ruby>卵<rt>たまご</rt></ruby></code></font> Ovo
--   `かぶ` Nabo
 -   `ラテ` Latte
--   `かぼちゃ` Abóbora
 -   `ハム` Presunto
 -   `ラザニア` Lasanha
 -   `ガム` Chiclete
--   `ネギ` Cebolinha
 -   `サンドイッチ` Sanduíche
     -   `サンド`
 -   `マシュマロ` Marshmellow
@@ -33,12 +30,12 @@
 -   `アイスクリーム` Sorvete
 -   `パスタ` Massa
 -   `デザート` Sobremesa
--   <font size="5"><code>お<ruby>菓<rt>か</rt>子<rt>し</rt></ruby></code></font> Doce/Lanche
+-   <font size="5"><code><ruby>菓<rt>か</rt>子<rt>し</rt></ruby></code></font> Doce/Lanche
+    -   <font size="5"><code>お<ruby>菓<rt>か</rt>子<rt>し</rt></ruby></code></font> Honorífico
 -   <font size="5"><code><ruby>飴<rt>あめ</rt></ruby></code></font> Doce (duro)
 -   `クッキー` Cookie
 -   `ドーナツ` Donut
 -   `パイ` Torta
--   <font size="5"><code><ruby>野<rt>や</rt>菜<rt>さい</rt></ruby></code></font> Vegetal
 -   `ソース` Molho
 -   `なま` Cru/Fresco/Natural
 -   `チキン` Frango
@@ -57,28 +54,21 @@
 -   `クレープ` Crepe
 -   `ピーナッツ` Amendoim
 -   `ポップコーン` Pipoca
--   `さつまいも` Batata-doce
 -   `なべ` Ensopado
 -   `チーズ` Queijo
 -   `ハンバーガー` Hambúrguer
 -   `ハンバーグ` Hambúrguer (Carne)
 -   `わたあめ` Algodão-doce
 -   `きのこ` Cogumelo
--   `たまねぎ` Cebola
 -   `シチュー` Ensopado
--   `じゃがいも` Batata
 -   <font size="5"><code><ruby>砂<rt>さ</rt>糖<rt>とう</rt></ruby></code></font> Açúcar
 -   `こむぎこ` Farinha
 -   `シリアル` Cereal
--   `にんじん` Cenoura
 -   `ヨーグルト` Iogurte
 -   `かきこおり` Raspadinha
 -   `オムライス` Arroz envolto com omelete
--   `レタス` Alface
--   `きゅうり` Pepino
 -   `ドレッシング` Molho
 -   `ソーセージ` Linguiça
--   `ブロッコリー` Brócolis
 -   `マヨネーズ` Maionese
 -   `キャラメル` Caramelo
 -   `プリン` Pudim
@@ -87,6 +77,9 @@
 -   `ガム` Chiclete
 -   `ミント` Hortelã
 -   `バター` Manteiga
+-   `くり` Castanha-japonesa
+-   <font size="5"><code><ruby>数<rt>かず</rt></ruby>の<ruby>子<rt>こ</rt></ruby></code></font> Ova de arenque
+-   `バーベキュー` Churrasco
 
 ## <ruby>果<rt>くだ</rt>物<rt>もの</rt></ruby> - Frutas
 
@@ -102,11 +95,31 @@
 -   `バナナ` Banana
 -   `レモン` Limão
 -   `ぶどう` Uva
+-   <font size="5"><code><ruby>蜜柑<rt>みかん</rt></ruby></code></font> Tangerina Mikan/Satsuma/Japonesa
+-   `トマト` Tomate
+-   `アボカド` Abacate
+
+## <ruby>野<rt>や</rt>菜<rt>さい</rt></ruby> Vegetais
+
+-   `キャベツ` Repolho
+-   <font size="5"><code><ruby>豆<rt>まめ</rt></ruby></code></font> Feijão/Ervilha (Grão)
+-   `ブロッコリー` Brócolis
+-   `レタス` Alface
+-   `きゅうり` Pepino
+-   `かぶ` Nabo
+-   `かぼちゃ` Abóbora
+-   `たまねぎ` Cebola
+-   `じゃがいも` Batata
+-   `さつまいも` Batata-doce
+-   `にんじん` Cenoura
+-   `ネギ` Cebolinha
 
 ## <font size="5"><code><ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby></code></font> Bebidas
 
 -   <font size="5"><code>お<ruby>酒<rt>さけ</rt></ruby></code></font> Álcool
 -   <font size="5"><code><ruby>水<rt>みず</rt></ruby></code></font> Água
+    -   <font size="5"><code><ruby>湯<rt>ゆ</rt></ruby></code></font> Água quente
+        -   <font size="5"><code>お<ruby>湯<rt>ゆ</rt></ruby></code></font> Teineigo
 -   <font size="5"><code>お<ruby>茶<rt>ちゃ</rt></ruby></code></font> Chá (verde)
     -   <font size="5"><code><ruby>紅<rt>こう</rt>茶<rt>ちゃ</rt></ruby></code></font> Chá preto
     -   <font size="5"><code>ウーロン<ruby>茶<rt>ちゃ</rt></ruby></code></font> Chá Oolong
@@ -179,9 +192,11 @@
 -   <font size="5"><code><ruby>饂飩<rt>うどん</rt></ruby></code></font> Udon
     -   Geralmente escrito em kana.
     -   Macarrão grosso feito com farinha de trigo. Geralmente servido com algum caldo ou molho, como o dashi.
+    -   <font size="5"><code><ruby>月<rt>つき</rt>見<rt>み</rt>饂飩<rt>うどん</rt></ruby></code></font> Udon com ovo cru
 -   `そば` Soba
     -   Macarrão tipo espaguete feito inteiramente ou parcialmente com farinha de trigo sarraceno.
     -   Também é um termo genérico para macarrão, como usado em `やきそば`, que é macarrão frito feito com farinha de trigo comum.
+    -   <font size="5"><code><ruby>月<rt>つき</rt>見<rt>み</rt>そば</ruby></code></font> Soba com ovo cru
 -   <font size="5"><code><ruby>拉麺<rt>ラーメン</rt></ruby></code></font> Lámen
     -   Geralmente escrito em kana.
     -   `カップラーメン` Cup-Noodles
@@ -229,16 +244,30 @@
 -   <font size="5"><code><ruby>角<rt>かく</rt>煮<rt>に</rt></ruby></code></font> Kakuni
     -   Cubos de barriga de porco ou atum fervidos em dashi, shoyu, mirin, açúcar e saquê.
 
-## Refeições
+## <ruby>食<rt>しょく</rt>事<rt>じ</rt></ruby> - Refeições
 
 -   <font size="5"><code><ruby>朝<rt>あさ</rt>ご<rt></rt>飯<rt>はん</rt></ruby></code></font> Café da manhã
+    -   <font size="5"><code><ruby>朝<rt>ちょう</rt>食<rt>しょく</rt></ruby></code></font> Honorífico
 -   <font size="5"><code><ruby>昼<rt>ひる</rt>ご<rt></rt>飯<rt>はん</rt></ruby></code></font> Almoço
     -   `ランチ`
--   <font size="5"><code><ruby>晩<rt>ばん</rt>ご<rt></rt>飯<rt>はん</rt></ruby></code></font> Jantar
+    -   <font size="5"><code><ruby>昼<rt>ちゅう</rt>食<rt>しょく</rt></ruby></code></font> Honorífico
 -   <font size="5"><code><ruby>夕<rt>ゆう</rt>飯<rt>はん</rt></ruby></code></font> Jantar
--   <font size="5"><code><ruby>食<rt>しょく</rt>事<rt>じ</rt></ruby></code></font> Refeição
+    -   <font size="5"><code><ruby>夕<rt>ゆう</rt>食<rt>しょく</rt></ruby></code></font> Honorífico
+-   <font size="5"><code><ruby>晩<rt>ばん</rt>ご<rt></rt>飯<rt>はん</rt></ruby></code></font> Jantar
+    -   <font size="5"><code><ruby>夜<rt>や</rt>食<rt>しょく</rt></ruby></code></font> Honorífico
+    -   Geralmente se refere ao jantar quando realizado mais tarde.
+-   <font size="5"><code>ご<ruby>飯<rt>はん</rt></ruby></code></font> Refeição
+    -   <font size="5"><code><ruby>食<rt>しょく</rt>事<rt>じ</rt></ruby></code></font> Honorífico
+-   <font size="5"><code><ruby>料<rt>りょう</rt>理<rt>り</rt></ruby></code></font> Prato
 -   `メイン` Prato principal
--   <font size="5"><code><ruby>揚<rt>あ</rt></ruby>げ<ruby>物<rt>もの</rt></ruby></code></font> Comida frita
--   `ファストフード` Fast-food
+-   <font size="5"><code><ruby>馳<rt>ち</rt>走<rt>そう</rt></ruby></code></font> Banquete
+    -   <font size="5"><code>ご<ruby>馳<rt>ち</rt>走<rt>そう</rt></ruby></code></font> Teineigo
+
+## Tipos de comida
+
+-   <font size="5"><code><ruby>和<rt>わ</rt>食<rt>しょく</rt></ruby></code></font> Comida japonesa
 -   <font size="5"><code><ruby>洋<rt>よう</rt>食<rt>しょく</rt></ruby></code></font> Comida ocidental
 -   <font size="5"><code><ruby>好<rt>こう</rt>物<rt>ぶつ</rt></ruby></code></font> Comida preferida/Prato preferido
+-   <font size="5"><code><ruby>揚<rt>あ</rt></ruby>げ<ruby>物<rt>もの</rt></ruby></code></font> Comida frita
+-   `ファストフード` Fast-food
+-   `おせち` Comida de Ano Novo

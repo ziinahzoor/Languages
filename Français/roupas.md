@@ -23,6 +23,8 @@
 -   `Cravate` Gravata
 -   `Ceinture` Cinto 🚺
 -   `Uniforme`
+-   `Sous-vêtement` Roupa de baixo 🚹
+-   `Soutien-gorge` Sutiã
 
 ## Les Bras - Braços
 
@@ -39,6 +41,7 @@
 -   `Short`
 -   `Jupe` Saia
 -   `Jean` Calça jeans 🚹
+-   `Collant` Meia-calça 🚹
 
 ## Les Pieds - Pés
 
@@ -57,3 +60,10 @@
 -   `Collier` Colar
 -   `Écharpe` Cachecol 🚺
 -   `Poche` Bolso 🚺
+
+## Outros
+
+-   `Manche` Manga
+    -   `À manches longues` De manga comprida
+    -   `À manches courtes` De manga curta
+-   `Col` Gola/Colarinho 🚹

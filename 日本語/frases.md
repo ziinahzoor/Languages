@@ -5,6 +5,7 @@
 ### Ao chegar
 
 -   `こんにちは` Olá
+    -   Deriva de `今日はおげんきですか` "Como vai você hoje?"
 -   `どうも` Oi (casual)
 -   `もしもし` Alô
 -   `おはようございます` Bom dia
@@ -60,13 +61,17 @@
     -   `ごめんなさい` Desculpa (Casual)
     -   <font size="5"><code><ruby>失<rt>しつ</rt>礼<rt>れい</rt></ruby>します</code></font> Teineigo
         -   Literalmente "estou sendo rude".
+    -   <font size="5"><code><ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt>ございません<rt></rt></ruby></code></font> Sinto muito/Mil desculpas
 -   `さあ` Não tenho certeza
 
 ## Felicitações
 
 -   `おめでと` Parabéns!
 -   <font size="5"><code>お<ruby>誕<rt>たん</rt>生<rt>じょう</rt>日<rt>び</rt></ruby>おめでとう</code></font> Feliz aniversário!
+    -   <font size="5"><code>お<ruby>誕<rt>たん</rt>生<rt>じょう</rt>日<rt>び</rt></ruby>おめでとうございます</code></font> Teineigo
 -   <font size="5"><code><ruby>乾<rt>かん</rt>杯<rt>ぱい</rt></ruby></code></font> Saúde! (Ao beber)
+-   <font size="5"><code><ruby>明<rt>あ</rt></ruby>けましておめでとう</code></font> Feliz Ano Novo!
+    -   <font size="5"><code><ruby>明<rt>あ</rt></ruby>けましておめでとうございます</code></font> Teineigo
 
 ## Agradecimento
 

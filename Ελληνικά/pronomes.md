@@ -200,8 +200,30 @@
     -   Conjugável
 -   `Τίνος` De quem
 
+## Relativos
+
+-   `Όσος` Tanto quanto
+
 ## Indefinidos
 
 -   `Όλα` Tudo
 -   `Όλος` Todos
     -   Conjugável
+-   `Κάθε` Todo/Cada
+-   `Κάτι` Algo
+-   `Καθένας` Cada um/Todos
+-   `Κάποιος` Alguém/Algum
+    -   Conjugável
+-   `Μερικός ` Algum
+-   `Τίποτα` Nada
+-   `Κανένας` Ninguém/Nenhum
+    -   `Καμιά` Feminino
+    -   `Κανείς` Mais formal
+        -   `Καμία` Feminino
+    -   Não retira a necessidade de negar o verbo.
+    -   Em perguntas, costuma significar "alguém/algum".
+-   `Κάποια μέρα` Um dia/Algum dia
+-   `Κάτι άλλο` Algo mais/Outra coisa
+-   `Τάδε` Tal e tal
+-   `Άλλος` Outro
+    -   `Άλλος ένας` Mais um

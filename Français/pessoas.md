@@ -121,6 +121,8 @@
 -   `Piéton` Pedestre
 -   `Célébrité` Celebridade
 -   `Visiteur` Visitante
+-   `Boucher` Açougueiro
+-   `Dame` Dama
 
 ## La famille - Família
 

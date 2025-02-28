@@ -20,6 +20,7 @@
 -   `Por cierto` Falando nisso/A propósito
 -   `El uno al otro` Um ao outro
 -   `¡Cómo no!` Claro!/Sem dúvidas!
+-   `Ni... ni...` Nem... nem...
 
 ## Gírias
 

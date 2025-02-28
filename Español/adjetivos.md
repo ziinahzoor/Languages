@@ -30,6 +30,7 @@
 -   `Interesado` Interessado
 -   `Cansado`
 -   `Diferente`
+-   `Distinto`
 -   `Demasiado` Muito (Too much)
 -   `Cómodo` Confortável
 -   `Confortable` Confortável
@@ -128,6 +129,7 @@
 -   `Pálido`
 -   `Semanal`
 -   `Correcto` Correto
+-   `Incorrecto` Incorreto
 -   `Fuerte` Forte/Alto (intensidade)
 -   `Rápido`
 -   `Útil`
@@ -224,3 +226,13 @@
 -   `Actual` Atual
 -   `Total`
 -   `Útil`
+-   `Mareado` Tonto
+-   `Personal` Pessoal
+-   `Imposible` Impossível
+-   `Obvio` Óbvio
+-   `Único`
+-   `Necesario` Necessário
+-   `Informal`
+-   `Feo` Feio
+-   `Original`
+-   `Apretado` Apertado

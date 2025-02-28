@@ -1,4 +1,4 @@
-# Expressões
+# Les Expressions - Expressões
 
 -   `C'est normal` Nada demais
 -   `Faire les courses` Fazer compras (mercado)
@@ -52,6 +52,7 @@
 -   `Ça fait...` Faz.../Fazem... (tempo)
 -   `Peu importe` Pouco importa
 -   `Depuis toujours` Desde sempre
+-   `C'est logique` É lógico
 
 ## Verlan
 

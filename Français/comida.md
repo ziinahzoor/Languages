@@ -135,3 +135,4 @@
 -   `Entrée` Entrada
 -   `Apéritif` Aperitivo
 -   `Goûter` Petisco
+-   `Plat à emporter` Comida pra levar 🚹

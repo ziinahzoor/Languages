@@ -73,6 +73,7 @@
 -   `Contra`
 -   `A través` Através
 -   `Por el momento` Por ora
+-   `Por suerte` Por sorte
 
 ## De modo
 
@@ -98,3 +99,4 @@
 -   `Silenciosamente`
 -   `Recientemente`
 -   `Actualmente` Atualmente
+-   `Así` Assim

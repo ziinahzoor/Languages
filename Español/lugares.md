@@ -157,3 +157,6 @@
 -   `Afueras` Periferia
 -   `Foro` Fórum
 -   `Discoteca` Boate
+-   `Clínica`
+-   `Farmacia` Farmácia
+-   `Centro comercial` Shopping

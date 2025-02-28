@@ -83,6 +83,9 @@
 -   `Escritor`
 -   `Protagonista`
 -   `Ex`
+-   `Doctor` Doutor
+-   `Mayor` Idoso
+-   `Paciente`
 
 ## La Familia - Família
 

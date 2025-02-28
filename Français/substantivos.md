@@ -36,6 +36,7 @@
 -   `Coton` Algodão
 -   `Bois` Madeira 🚹
 -   `Plastique` Plástico
+-   `Soie` Seda
 
 ## La Maison et les objets - Casa e objetos
 
@@ -187,6 +188,8 @@
 -   `Brochure` Folheto/Panfleto 🚺
 -   `Éponge` Esponja
 -   `Drapeau` Bandeira 🚹
+-   `Statue` Estátua
+-   `Tissu` Tecido
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -261,7 +264,6 @@
     -   `Mail` E-mail (Carta eletrônica)
 -   `Courriel` E-mail (Sistema)
 -   `Mot` Palavra
-    -   `Mot de passe` Senha
 -   `Page` Página
 -   `Leçon` Lição
 -   `Température` Temperatura
@@ -283,6 +285,7 @@
 -   `Phrase` Frase
 -   `Paragraphe` Parágrafo
 -   `Information` Informação/Notícia
+-   `Renseignement` Informação/Pista 🚹
 -   `Vie` Vida
 -   `Souvenir` Lembrança
 -   `Fin` Fim 🚺
@@ -321,7 +324,6 @@
 -   `Code` Código
 -   `Compte` Conta 🚹
     -   `Compte bancaire` Conta bancária 🚹
--   `Information` Informação
 -   `Mémoire` Memória
 -   `Permis` Permissão/Licença 🚹
 -   `Embouteillage` Engarrafamento
@@ -396,6 +398,15 @@
 -   `Découverte` Descoberta
 -   `Contraire` Contrário
 -   `État` Estado
+-   `Connexion` Conexão
+-   `Nom d'utilisateur` Nome de usuário
+-   `Mot de passe` Senha
+-   `Contact` Contato
+-   `Sorte` Tipo 🚺
+-   `Amélioration` Melhoria
+-   `Pois` Bolinha (padrão de bolinhas) 🚹
+-   `Rayure` Listra
+-   `Style` Estilo
 
 ### Sentimentos, condições e emoções
 
@@ -432,6 +443,11 @@
 -   `Cercle` Círculo
 -   `Carré` Quadrado
 -   `Tube` Tubo
+
+### Símbolos
+
+-   `Arobase` Arroba
+-   `Point` Ponto
 
 ## Transporte
 
@@ -477,14 +493,11 @@
 -   `Réseaux sociaux` Redes sociais
 -   `Pêche` Pesca
 -   `Dessin animé` Desenho animado
--   `Matinée` Festa (de manhã)
--   `Soirée` Festa (à noite)
 -   `Ménage` Trabalho doméstico
 -   `Film` Filme
 -   `Série`
 -   `Émission` Programa 🚺
 -   `Épisode` Episódio
--   `Concert` Concerto
 -   `Jeu` Jogo
     -   `Jeu de société` Jogo de tabuleiro
 -   `Site Internet` Website
@@ -497,33 +510,36 @@
 -   `Yoga` Ioga
 -   `Guerre` Guerra
 -   `Accident` Acidente
--   `Avant-première` Premiere (de filme)
 -   `Danse` Dança
 -   `Cerf-Volant` Pipa 🚹
--   `Excursion` Excursão
 -   `Texte` Texto
 -   `Repos` Descanso
 -   `Publicité` Publicidade/Comercial
 -   `Marque` Marca
 -   `Règle` Regra
--   `Promenade` Passeio/Caminhada
 -   `Échecs` Xadrez
 -   `Loisir` Hobby
--   `Compétition` Competição
 -   `Cuisson` Culinária
--   `Festival`
--   `Exposition` Exposição
 -   `Photographie` Fotografia
 -   `Roman` Romance (livro)
 -   `Poème` Poema
--   `Comédie` Comédia
--   `Fiction` Ficção
--   `Action` Ação
--   `Drame` Drama
 -   `Comédie musicale` Musical 🚺
 -   `Toboggan` Escorregador/Tobogã
 -   `Feu d’artifice` Fogo de artifício
 -   `Tourisme` Turismo
+-   `Blog`
+
+### Les Événements - Eventos
+
+-   `Concert` Concerto
+-   `Matinée` Festa (de manhã)
+-   `Soirée` Festa (à noite)
+-   `Avant-première` Premiere (de filme)
+-   `Exposition` Exposição
+-   `Festival`
+-   `Compétition` Competição
+-   `Promenade` Passeio/Caminhada
+-   `Excursion` Excursão
 
 ### Compras
 
@@ -580,6 +596,13 @@
 -   `Science` Ciência
 -   `Médecine` Medicina
 -   `Droit` Direito
+
+### Gêneros
+
+-   `Comédie` Comédia
+-   `Fiction` Ficção
+-   `Action` Ação
+-   `Drame` Drama
 
 ### Esporte
 

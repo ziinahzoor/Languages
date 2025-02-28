@@ -46,9 +46,9 @@
 
 ### には
 
--   `Função de enfatização da partícula に`: enfatiza que se está falando especificamente sobre o destino da ação. Ex.: `パン屋にはパンがある` NA PADARIA tem pão.
+-   `Função de enfatização da partícula に`: enfatiza que se está falando especificamente sobre o destino da ação. Limita o escopo. Ex.: `パン屋にはパンがある` NA PADARIA tem pão.
     -   Geralmente indica propósito.
--   `Função perspectiva e de associação`: pode indicar a perspectiva do tópico, a associação ou posse para conceitos abstratos, como relacionamentos. Ex.: `私には妹がある` EU TENHO uma irmã (Na minha perspectiva, tenho uma irmã).
+-   `Função perspectiva e de associação`: pode indicar a perspectiva do tópico, a associação ou posse para conceitos abstratos, como relacionamentos. Limita o escopo. Ex.: `私には妹がある` EU TENHO uma irmã ("Na minha perspectiva, tenho uma irmã", ou mais literalmente, "Para mim, existe uma irmã").
     -   Nestes casos se usarmos somente uma das partículas a frase não soa natural.
 
 ### へ
@@ -92,8 +92,10 @@
 ### より
 
 -   `Função de comparação`: compara algo a outra coisa.
-    -   Geralmente vem após o que é "menos", enquanto <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> vem após o que é "mais".
-    -   Quando <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> não é utilizado, `より` costuma indicar o que é "mais" (parece ter invertido a função, mas é apenas a omissão da construção completa).
+    -   Geralmente vem após o que é "menos", enquanto <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> vem após o que é "mais". Ex.: `AよりBがX` "De A, B é mais X" ou "B é mais X que A".
+        -   Quando duas coisas são comparadas diretamente (sem referência a um contexto relativo mencionad anteriormente), <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> é mais uma formalidade, sendo opcional.
+    -   <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> também pode ser utilizado sem `より`, indicando que algo é "mais" do que o que foi mencionado antes. Da mesma forma, <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> também pode ser omitido e `より` usado depois da partícula, tendo o mesmo sentido (parece ter invertido a função, mas é apenas a omissão da construção completa).
+    -   Também é possível usar `もっと` com o adjetivo de comparação.
 
 ## <ruby>並<rt>へい</rt>立<rt>りつ</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Marcadoras paralelas
 
@@ -109,13 +111,22 @@
     -   Também pode ser usado para mostrar que o que foi dito foi entendido, ou que está pensando no assunto. Ex.: `あ、ねこか` Ah, um gato.
     -   Também pode indicar uma decisão pessoal ao ser usada com verbos na forma plana. Também funciona no volicional.
 -   `Função disjuntiva`: pode significar "ou" ao listar itens, verbos, etc.
+    -   Neste caso, costuma-se duplicar a partícula após o último item.
 
 ### や
 
 -   Também pode ser uma partícula finalizadora e conjuntiva.
 -   `Função conjuntiva não-exclusiva`: pode significar "e" ao listar itens, com uma nuance de que os itens citados não são a lista completa (como se houvesse um "etc").
 
+### など
+
+-   `Função continuativa`: "etc", existem mais itens que não vão ser citados.
+
 ## <ruby>終<rt>しゅう</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Finalizadoras
+
+### かな
+
+-   `Função de ponderar`: "talvez", "e se?".
 
 ## <ruby>間<rt>かん</rt>投<rt>とう</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Interjetivas
 
@@ -130,17 +141,41 @@
 ### な
 
 -   Também pode ser uma partícula finalizadora.
--   `Função de afirmação de opinião`: é como a partícula ね, mas para expressãr uma opinião pessoal. É comumente usada de forma incentivadora.
+-   `Função de afirmação de opinião`: é como a partícula ね, mas para expressãr uma opinião pessoal. É comumente usada de forma incentivadora, expressando esperança ou admiração. Também pod expressar incerteza.
 -   `Função proibitiva`: usada com a forma plana para proibir alguma ação (imperativa negativa).
 
 ### よ
 
+-   Também pode ser uma partícula finalizadora.
 -   `Função de ênfase`: é utilizada para dar uma informação nova ou enfatizar o que se fala.
     -   Pode ser usado com um comando para soar mais agressivo em contraposto ao ね
 
 ### よね
 
+-   Também pode ser uma partícula finalizadora.
 -   `Função de afirmação de opinião com expectativa de concordância`: afirma um ponto, porém ainda busca a confirmação da outra parte, como um "..., certo?".
+
+### さ
+
+-   Também pode ser uma partícula finalizadora.
+-   `Função de afirmação ou surpresa`: é utilizada para afirmar ou enfatizar levemente o que se fala
+    -   É mais masculina e portanto sobrepõe-se um pouco à função de `よ`, porém é mais leve.
+
+### ぞ
+
+-   `Função de afirmação, exclamação ou ordem`: é utilizada para adicionar força ou comando à frase.
+    -   Considerada masculina.
+
+### ぜ
+
+-   `Função de afirmação, ênfase`: é utilizada para adicionar uma leve força ou ênfase à frase.
+    -   Considerada masculina.
+    -   Mais leve que `ぞ`.
+    -   É mais utilizada em animes.
+
+### け・っけ
+
+-   `Função de dúvida`: é utilizada para adicionar um tom de dúvida à frase, como se quisesse confirmar os fatos.
 
 ## <ruby>副<rt>ふく</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Adverbiais
 
@@ -160,6 +195,11 @@
 -   `Função de limite temporal`: indica o ponto limite de uma ação, um prazo.
     -   Indica que certa ação deve ser completada até certo ponto, tendo flexibilidade para ser completada antes.
     -   É mais utilizado para ações curtas, diferente de `まで`.
+
+### ほど
+
+-   `Função de limite superior`: indica até onde uma ação pode chegar, sua extensão ou grau.
+    -   "Tão... quanto/Tanto quanto"
 
 ### だけ
 
@@ -181,6 +221,11 @@
     -   Quantidade ou Amplitude. Ex.: Estou apenas comendo.
     -   Indica algo que acabou de acontecer.
     -   Exclusividade.
+
+### こそ
+
+-   `Função enfática`: dá ênfase ao que se fala.
+    -   Ex.: `私こそマネージャーです` "Sou EU o gerente".
 
 ## <ruby>係<rt>かかり</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - De ligação
 
@@ -301,9 +346,9 @@
 -   `に` costuma indicar um direcionamento da ação de uma pessoa pra outra, ou seja, somente uma pessoa foca em realizar a ação.
 -   `と` indica um esforço mútuo para realizar a ação.
 
-### ので vs から・だから
+### ので・なので vs から・だから
 
--   `ので` é mais suave (portanto mais educado), com um tom explicativo-observativo: "como X ocorreu, então Y ocorreu".
+-   `ので・なので` é mais suave (portanto mais educado), com um tom explicativo-observativo: "como X ocorreu, então Y ocorreu".
     -   Indica uma consequência lógica (resultado): Y ocorreu porque X ocorreu, porém poderia ter ocorrido sem X.
 -   `から・だから` é mais explícito, tem um tom mais justificativo: "Y aconteceu por causa de X".
     -   Indica uma causalidade (causa): Y ocorreu por causa de X, não poderia ter ocorrido sem X.

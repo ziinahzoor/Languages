@@ -34,6 +34,8 @@
 -   `Cuero` Couro
 -   `Plástico`
 -   `Lana` Lã
+-   `Algodón` Algodão
+-   `Tela` Tecido 🚺
 
 ## Casa e objetos
 
@@ -168,6 +170,7 @@
 -   `Cadena` Corrente
 -   `Monumento`
 -   `Cable` Cabo
+-   `Antibiótico`
 
 ## Abstratos
 
@@ -333,6 +336,22 @@
 -   `Resultado`
 -   `Apoyo` Apoio
 -   `Contenido` Conteúdo
+-   `Peso`
+-   `Dieta`
+-   `Herida` Ferida
+-   `Tos` Tosse
+-   `Estrés` Estresse
+-   `Oportunidad` Oportunidade
+-   `Decisión` Decisão
+-   `Descripción` Descrição
+-   `Importancia` Importância
+-   `Sentido`
+-   `Opinión` Opinião
+-   `Ventaja` Vantagem
+-   `Progreso` Progresso
+-   `Experiencia` Experiência
+-   `Calidad` Qualidade
+-   `Total`
 
 ### Medidas
 
@@ -395,6 +414,7 @@
 -   `Internet`
     -   `Red` Rede
 -   `Carrera` Corrida
+-   `Diseño` Design
 -   `Dibujo` Desenho
 -   `Dibujo animado` Desenho animado
 -   `Guerra`
@@ -420,6 +440,8 @@
 -   `Blog`
 -   `Paseo` Passeio
 -   `Traducción` Tradução
+-   `Marca`
+-   `Tamaño` Tamanho
 
 ### Compras
 
@@ -439,6 +461,8 @@
 -   `Propina` Gorjeta
 -   `Oferta`
 -   `Descuento` Desconto
+-   `Cajero automático` Caixa eletrônico
+-   `Caja registradora` Caixa registradora
 
 ### La Escuela - Escola
 

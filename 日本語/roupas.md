@@ -5,6 +5,7 @@
 ## Cabeça
 
 -   <font size="5"><code><ruby>帽<rt>ぼう</rt>子<rt>し</rt></ruby></code></font> Chapéu
+-   <font size="5"><code><ruby>笠<rt>かさ</rt></ruby></code></font> Chapéu cônico
 -   `キャップ` Boné
 -   <font size="5"><code><ruby>眼<rt>め</rt>鏡<rt>がね</rt></ruby></code></font> Óculos
     -   `サングラス` Óculos de sol
@@ -14,10 +15,10 @@
 ## Corpo
 
 -   `シャツ` Camisa
+    -   `Tシャツ` Camiseta
     -   `ポロシャツ` Camisa Polo
     -   `ワイシャツ` Camisa social
 -   `ブラウス` Blusa
--   `Tシャツ` Camiseta
 -   `セーター` Suéter
 -   `パーカー` Moletom
 -   <font size="5"><code><ruby>上<rt>うわ</rt>着<rt>ぎ</rt></ruby></code></font> Jaqueta/Casaco
@@ -25,12 +26,14 @@
 -   `コート` Casaco
 -   `ジャケット` Jaqueta
 -   `ジャケット` Jaqueta
--   `ドレス` Vestido
+-   `ワンピース` Vestido/Maiô
+-   `ドレス` Vestido formal
 -   `みずぎ` Traje de banho
 -   `ネクタイ` Gravata
 -   <font size="5"><code><ruby>制<rt>せい</rt>服<rt>ふく</rt></ruby></code></font> Uniforme
 -   `スーツ` Traje/Terno
 -   <font size="5"><code><ruby>背広<rt>せびろ</rt></ruby></code></font> Terno
+-   <font size="5"><code><ruby>下<rt>した</rt>着<rt>ぎ</rt></ruby></code></font> Roupa íntima
 
 ## Braços
 
@@ -72,7 +75,7 @@
 
 ## Roupas japonesas
 
--   <font size="5"><code><ruby>着<rt>き</rt>物<rt>もの</rt></ruby></code></font> Kimono
+-   <font size="5"><code><ruby>着<rt>き</rt>物<rt>もの</rt></ruby></code></font> Quimono
     -   Traje tradicional japonês.
 -   <font size="5"><code><ruby>浴衣<rt>ゆかた</rt></ruby></code></font> Yukata
     -   Kimono de algodão leve usado no verão ou como roupão de banho.

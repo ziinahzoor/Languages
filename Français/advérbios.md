@@ -66,7 +66,8 @@
 -   `N'importe où` Em qualquer lugar
 -   `Non plus` Também não/Tampouco
 -   `D'abord` Primeiramente
--   `D'habitude` Geralmente
+-   `D'habitude` Normalmente/Geralmente
+-   `Généralement` Geralmente
 -   `Du tout` De forma alguma
 -   `De toute façon` De qualquer forma/De qualquer maneira
 -   `Tout à l'heure` Daqui a pouco
@@ -74,8 +75,10 @@
 -   `À l'étage` Lá em cima
 -   `À ce moment-là` Logo então
 -   `À mon avis` Na minha opinião
+-   `À l'envers` Ao contrário
 -   `Au coin de` Na esquina de
 -   `En fait` Na verdade
+-   `En tout` Ao todo/No total
 -   `En avance` Antecipadamente
 -   `En même temps` Ao mesmo tempo
 -   `En retard` Atrasado

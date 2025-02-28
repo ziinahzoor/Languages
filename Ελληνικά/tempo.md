@@ -10,6 +10,7 @@
 -   `Σήμερα` Hoje ✴️
 -   `Αύριο` Amanhã 🚺
 -   `Ημέρα` Dia 🚺
+    -   `Μέρα` Forma alternativa
 -   `Πρωί` Manhã ✴️
 -   `Μεσημέρι` Meio-dia ✴️
 -   `Απόγευμα` Tarde ✴️

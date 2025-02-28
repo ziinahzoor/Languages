@@ -14,9 +14,9 @@
 | Εγώ              | -ω        | -άω, -ώ         | -ώ        |
 | Εσύ              | -εις      | -άς             | -είς      |
 | Αυτός/Αυτή/Αυτό  | -ει       | -άει, -ά        | -εί       |
-| Εμείς            | -ουμε     | -άμε            | -ούμε     |
+| Εμείς            | -ουμε     | -άμε, -ούμε     | -ούμε     |
 | Εσείς            | -ετε      | -άτε            | -είτε     |
-| Αυτοί/Αυτές/Αυτά | -ουν      | -ούν(ε), -άν(ε) | -ούν      |
+| Αυτοί/Αυτές/Αυτά | -ουν(ε)   | -ούν(ε), -άν(ε) | -ούν(ε)   |
 
 ### Είμαι - Ser
 
@@ -41,3 +41,16 @@
 -   É formado pela partícula `να` + conjugação do verbo.
 -   Para falar da ação em si, usa-se `το να` + conjugação da terceira pessoa.
 -   Também é utilizado onde outras linguagens costumam utilizar o infinitivo, como em locuções verbais.
+
+# Voz passiva
+
+| Pessoa           | Verbos -ω       | Verbos -άω        | Verbos -ώ | Verbos depoentes◆  |
+| ---------------- | --------------- | ----------------- | --------- | ------------------ |
+| Εγώ              | -ομαι           | -ιέμαι            | -ούμαι    | -άμαι /-ούμαι      |
+| Εσύ              | -εσαι           | -ιέσαι            | -είσαι    | -άσαι              |
+| Αυτός/Αυτή/Αυτό  | -εται           | -ιέται            | -είται    | -άται              |
+| Εμείς            | -όμαστε         | -ιόμαστε          | -ούμαστε  | -όμαστε / -ούμαστε |
+| Εσείς            | -εστε / -όσαστε | -ιέστε / -ιόσαστε | -είστε    | -άστε / -όσαστε    |
+| Αυτοί/Αυτές/Αυτά | -ονται          | -ιούνται          | -ούνται   | -ούνται / -όνται   |
+
+-   ◆: Se refere à uma conjugação que é encontrada somente em verbos depoentes. Isto é, esta conjugação é sempre encontrada em verbos depoentes, mas nem todos os verbos depoentes seguem esta conjugação.

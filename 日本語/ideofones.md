@@ -8,6 +8,9 @@
 
 ## <ruby>擬<rt>ぎ</rt>音<rt>おん</rt>語<rt>ご</rt></ruby> Sons da natureza ou objetos inanimados
 
+-   `ゴロゴロ` De forma estrondosa (Advérbio e verbo-する)
+    -   Que rosna/ronrona. Ex.: Trovões, estômago.
+
 ## <ruby>擬<rt>ぎ</rt>態<rt>たい</rt>語<rt>ご</rt></ruby> Condições e estados
 
 -   `ボロボロ` Gasto/Esgotado

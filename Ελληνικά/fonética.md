@@ -24,3 +24,6 @@
 -   `γγ` [ŋg]
 -   `γκ` [ŋg]
     -   [g] no início da palavra.
+
+> [!TIP]
+> As letras e combinações `ι`, `η`, `υ`, `ει`, `οι`, `υι` possuem basicamente o mesmo som.

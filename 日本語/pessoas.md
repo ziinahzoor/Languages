@@ -2,18 +2,20 @@
 
 ## Genéricas e grupos
 
--   <font size="5"><code><ruby>方<rt>かた</rt></ruby></code></font> Pessoa (Honorífico [Sonkeigo])
+-   <font size="5"><code><ruby>方<rt>かた</rt></ruby></code></font> Pessoa (Sonkeigo)
     -   Geralmente pode substituir `人`.
+-   <font size="5"><code><ruby>人<rt>にん</rt>間<rt>げん</rt></ruby></code></font> Humano
 -   <font size="5"><code><ruby>皆<rt>みんな</rt></ruby></code></font> Todos/Pessoal/Todo mundo
     -   É escrito `みな` quando usado com algum honorífico.
 -   <font size="5"><code><ruby>大<rt>おお</rt>勢<rt>ぜい</rt></ruby></code></font> Multidão
 -   <font size="5"><code><ruby>人<rt>じん</rt>口<rt>こう</rt></ruby></code></font> População
 -   <font size="5"><code><ruby>集<rt>あつ</rt></ruby>まり</code></font> Público
 -   <font size="5"><code><ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby></code></font> Ser-vivo/Criatura
+-   <font size="5"><code><ruby>生<rt>せい</rt>物<rt>ぶつ</rt></ruby></code></font> Ser-vivo/Organismo
+    -   Mais científico.
 
-## Específicas
+## Identidade
 
--   <font size="5"><code><ruby>外<rt>がい</rt>国<rt>こく</rt>人<rt>じん</rt></ruby></code></font> Estrangeiro
 -   <font size="5"><code><ruby>大人<rt>おとな</rt></ruby></code></font> Adulto
 -   <font size="5"><code><ruby>女<rt>おんな</rt></ruby></code></font> Mulher
     -   <font size="5"><code><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Honorífico
@@ -24,19 +26,30 @@
 -   <font size="5"><code><ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby></code></font> Menino
 -   <font size="5"><code><ruby>赤<rt>あか</rt></ruby>ちゃん</code></font> Bebê
     -   Também pode ser utilizado para filhotes de animais.
+-   `ベジタリアン` Vegetariano
+-   `アイヌ` Ainu
+-   <font size="5"><code><ruby>外<rt>がい</rt>国<rt>こく</rt>人<rt>じん</rt></ruby></code></font> Estrangeiro
+
+## Status
+
+-   <font size="5"><code><ruby>初<rt>しょ</rt>心<rt>しん</rt>者<rt>しゃ</rt></ruby></code></font> Iniciante
+-   <font size="5"><code><ruby>金<rt>かね</rt>持<rt>も</rt></ruby>ち</code></font> Rico
+-   <font size="5"><code><ruby>有<rt>ゆう</rt>名<rt>めい</rt>人<rt>じん</rt></ruby></code></font> Celebridade
+-   <font size="5"><code><ruby>独<rt>どく</rt>身<rt>しん</rt></ruby></code></font> Solteiro
+-   <font size="5"><code><ruby>住<rt>じゅう</rt>民<rt>みん</rt></ruby></code></font> Morador
+
+## Relacionais
+
 -   <font size="5"><code><ruby>友<rt>とも</rt>達<rt>だち</rt></ruby></code></font> Amigo
 -   `パートナー` Parceiro/Companheiro
 -   `クラスメイト` Colega de classe
 -   `ルームメイト` Colega de quarto
--   `どうりょう` Colega de trabalho
+-   <font size="5"><code><ruby>同<rt>どう</rt>僚<rt>りょう</rt></ruby></code></font> Colega de trabalho
 -   `クライアント` Cliente
 -   <font size="5"><code><ruby>客<rt>きゃく</rt></ruby></code></font> Visitante/Convidado/Cliente (Consumidor)
     -   <font size="5"><code>お<ruby>客<rt>きゃく</rt></ruby>さん</code></font> Sonkeigo
     -   `ゲスト` Convidado (Evento)
 -   <font size="5"><code>きんじょの<ruby>人<rt>ひと</rt></ruby></code></font> Vizinho
--   <font size="5"><code>こそ<ruby>泥<rt>どろ</rt></ruby></code></font> Ladrão sorrateiro
--   <font size="5"><code><ruby>住<rt>じゅう</rt>民<rt>みん</rt></ruby></code></font> Morador
--   <font size="5"><code><ruby>神<rt>かみ</rt>様<rt>さま</rt></ruby></code></font> Deus
 
 ## Profissões
 
@@ -55,16 +68,18 @@
     -   <font size="5"><code><ruby>転<rt>てん</rt>校<rt>こう</rt>生<rt>せい</rt></ruby></code></font> Estudante de transferência
 -   <font size="5"><code><ruby>生<rt>せい</rt>徒<rt>と</rt></ruby></code></font> Pupilo/Aprendiz/Estudante (do fundamental ou médio)
 -   `べんごし` Advogado
--   `かしゅ` Cantor
+-   <font size="5"><code><ruby>歌<rt>か</rt>手<rt>しゅ</rt></ruby></code></font> Cantor
 -   `ちょしゃ` Autor
+-   <font size="5"><code><ruby>作<rt>さっ</rt>家<rt>か</rt></ruby></code></font> Escritor
 -   `エンジニア` Engenheiro
--   `かいしゃいん` Trabalhador de escritório
+-   <font size="5"><code><ruby>会<rt>かい</rt>社<rt>しゃ</rt>員<rt>いん</rt></ruby></code></font> Trabalhador de escritório
 -   `サラリーマン` Trabalhador de escritório
 -   <font size="5"><code><ruby>社<rt>しゃ</rt>長<rt>ちょう</rt></ruby></code></font> Diretor/Presidente (empresa)
 -   <font size="5"><code><ruby>看<rt>かん</rt>護<rt>ご</rt>師<rt>し</rt></ruby></code></font> Enfermeiro
 -   <font size="5"><code><ruby>警<rt>けい</rt>察<rt>さつ</rt>官<rt>かん</rt></ruby></code></font> Policial
     -   <font size="5"><code><ruby>警<rt>けい</rt>官<rt>かん</rt></ruby></code></font> Abreviação mais comum
     -   <font size="5"><code><ruby>警<rt>けい</rt>察<rt>さつ</rt></ruby></code></font> Abreviação
+    -   <font size="5"><code>おまわりさん・お<ruby>巡<rt>まわ</rt></ruby>りさん</code></font> Coloquial
 -   `ぶし` Guerreiro
 -   `コーチ` Treinador
 -   `マネージャー` Gerente
@@ -76,18 +91,24 @@
 -   `はいゆう` Ator
 -   `じょゆう` Atriz
 -   `ボランティア` Voluntário
--   <font size="5"><code><ruby>店<rt>てん</rt>員<rt>いん</rt></ruby></code></font> Funcionário
+-   <font size="5"><code><ruby>店<rt>てん</rt>員<rt>いん</rt></ruby></code></font> Funcionário/Garçom
 -   <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Funcionário/Assistente de loja
 -   <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt></ruby></code></font> Caixa
+-   <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt>士<rt>し</rt></ruby></code></font> Contador
 -   `アーティスト` Artista
--   `まんがか` Mangaká
--   `シェフ` Chef
+-   <font size="5"><code><ruby>漫<rt>まん</rt>画<rt>が</rt>家<rt>か</rt></ruby></code></font> Mangaká
+-   `シェフ` Chef/Cozinheiro
 -   `オタク` Otaku/Nerd
 -   `ボス` Chefe (de jogos)
 -   `メイド` Empregado doméstico
 -   <font size="5"><code><ruby>選<rt>せん</rt>手<rt>しゅ</rt></ruby></code></font> Atleta
 -   <font size="5"><code><ruby>王<rt>おう</rt></ruby></code></font> Rei/Monarca
--   <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt>士<rt>し</rt></ruby></code></font>
+-   <font size="5"><code><ruby>主<rt>しゅ</rt>婦<rt>ふ</rt></ruby></code></font> Dona de casa
+-   <font size="5"><code>こそ<ruby>泥<rt>どろ</rt></ruby></code></font> Ladrão sorrateiro
+-   `ボランティア` Voluntário
+-   `ジャーナリスト` Jornalista
+-   <font size="5"><code><ruby>消<rt>しょう</rt>防<rt>ぼう</rt>士<rt>し</rt></ruby></code></font> Bombeiro
+-   <font size="5"><code><ruby>研<rt>けん</rt>究<rt>きゅう</rt>者<rt>しゃ</rt></ruby></code></font> Pesquisador
 
 ## <ruby>家<rt>か</rt>族<rt>ぞく</rt></ruby> - Família
 
@@ -148,18 +169,6 @@
 -   <font size="5"><code><ruby>姪<rt>めい</rt></ruby></code></font> Sobrinha
 -   `甥` Sobrinho
 
-## Identidade
-
--   `ベジタリアン` Vegetariano
--   <font size="5"><code><ruby>独<rt>どく</rt>身<rt>しん</rt></ruby></code></font> Solteiro
--   `にんげん` Humano
--   `アイヌ` Ainu
-
-## Status
-
--   <font size="5"><code><ruby>初<rt>しょ</rt>心<rt>しん</rt>者<rt>しゃ</rt></ruby></code></font> Iniciante
--   <font size="5"><code><ruby>金<rt>かね</rt>持<rt>も</rt></ruby>ち</code></font> Rico
-
 ## Conjuntos
 
 -   `チーム` Time
@@ -169,6 +178,12 @@
 
 -   `にんぎょ` Sereia
 -   `ゾンビ` Zumbi
+
+## Divindades
+
+-   <font size="5"><code><ruby>神<rt>かみ</rt>様<rt>さま</rt></ruby></code></font> Deus
+-   <font size="5"><code><ruby>地<rt>じ</rt>蔵<rt>ぞう</rt></ruby></code></font> Bodhisattva Kṣitigarbha
+    -   Bodhisattva que cuida das crianças, viajantes e do submundo.
 
 ## Folclore japonês
 

@@ -15,7 +15,7 @@
     -   <font size="5"><code><ruby>良<rt>よ</rt></ruby>い</code></font> Honorífico
         -   Forma aparente: `よさそう`
     -   `よろしい` Honorífico (Sonkeigo)
--   <font size="5"><code><ruby>格<rt>かっ</rt>好<rt>こ</rt></ruby>いい</code></font> Legal
+-   <font size="5"><code><ruby>格<rt>かっ</rt>好<rt>こ</rt></ruby>いい</code></font> Legal/Maneiro/Estiloso
     -   Adjetivo `いい`
     -   Geralmente se escreve somente com kana
 -   `ダサい` Brega/Sem estilo
@@ -29,6 +29,7 @@
 -   <font size="5"><code><ruby>悪<rt>わる</rt></ruby>い</code></font> Ruim
 -   `うすい` Magro
 -   `おいしい` Gostoso
+    -   `うまい` Casual `い`
 -   `まずい` Desgostoso/De gosto ruim
     -   Em linguagem casual pode significar "ruim"/"ah, não!", semelhante ao "porcaria".
 -   <font size="5"><code><ruby>大<rt>おお</rt></ruby>きい</code></font> Grande
@@ -42,6 +43,7 @@
 -   <font size="5"><code><ruby>可愛<rt>かわい</rt></ruby>い</code></font> Fofo
     -   Geralmente escrito somente com kana.
 -   <font size="5"><code><ruby>面<rt>おも</rt>白<rt>しろ</rt></ruby>い</code></font> Interessante/Engraçado
+-   `おかしい` Estranho/Peculiar/Ridículo/Cômico
 -   `つまらない` Entediante
 -   <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しい</code></font> Divertido/Aprazível
 -   `うるさい` Barulhento/Irritante
@@ -74,9 +76,10 @@
 -   <font size="5"><code><ruby>太<rt>ふと</rt></ruby>い</code></font> Grosso (diâmetro)
 -   <font size="5"><code><ruby>細<rt>ほそ</rt></ruby>い</code></font> Fino (diâmetro)
 -   <font size="5"><code><ruby>厚<rt>あつ</rt></ruby>い</code></font> Grosso (camada)
--   <font size="5"><code><ruby>薄<rt>うす</rt></ruby>い</code></font> Fino (camada)
+-   <font size="5"><code><ruby>薄<rt>うす</rt></ruby>い</code></font> Fino (camada)/Sem graça (sabor)/Diluído
+-   <font size="5"><code><ruby>濃<rt>こ</rt></ruby>い</code></font> Forte (sabor)
 -   <font size="5"><code><ruby>甘<rt>あま</rt></ruby>い</code></font> Doce
--   `にがい` Amargo
+-   <font size="5"><code><ruby>苦<rt>にが</rt></ruby>い</code></font> Amargo
 -   <font size="5"><code><ruby>塩<rt>しょ</rt></ruby>っぱい</code></font> Salgado
 -   `すっぱい` Azedo
 -   <font size="5"><code><ruby>辛<rt>から</rt></ruby>い</code></font> Picante
@@ -91,17 +94,18 @@
 -   <font size="5"><code><ruby>眠<rt>ねむ</rt></ruby>い</code></font> Sonolento
 -   <font size="5"><code><ruby>寂<rt>さび</rt></ruby>しい</code></font> Solitário
 -   <font size="5"><code><ruby>悲<rt>かな</rt></ruby>しい</code></font> Triste
--   <font size="5"><code><ruby>嬉<rt>うれ</rt></ruby>しい</code></font> Feliz
+-   <font size="5"><code><ruby>嬉<rt>うれ</rt></ruby>しい</code></font> Alegre/Contente/Feliz
+    -   Temporário
 -   `やばい` Perigoso/Arriscado
     -   Em linguagem casual, tem um sentido como a palavra "f\*da", podendo ter conotações ruins ou boas.
 -   `うすい` Fino
--   `きびしい` Rígido/Severo
+-   <font size="5"><code><ruby>厳<rt>きび</rt></ruby>しい</code></font> Rígido/Severo
 -   `かたい` Duro
 -   `あぶらっこい` Gorduroso/Oleoso
--   <font size="5"><code><ruby>近<rt>ちか</rt>い</ruby></code></font> Próximo (Distância)/Perto
--   <font size="5"><code><ruby>遠<rt>とお</rt>い</ruby></code></font> Longe
--   <font size="5"><code><ruby>汚<rt>きたな</rt>い</ruby></code></font> Sujo
--   `うつくしい` Bonito
+-   <font size="5"><code><ruby>近<rt>ちか</rt></ruby>い</code></font> Próximo (Distância)/Perto
+-   <font size="5"><code><ruby>遠<rt>とお</rt></ruby>い</code></font> Longe
+-   <font size="5"><code><ruby>汚<rt>きたな</rt></ruby>い</code></font> Sujo
+-   <font size="5"><code><ruby>美<rt>うつく</rt></ruby>しい</code></font> Bonito
 -   `ひどい` Péssimo/Horrível/Terrível
 -   <font size="5"><code><ruby>弱<rt>よわ</rt></ruby>い</code></font> Fraco
 -   <font size="5"><code><ruby>強<rt>つよ</rt></ruby>い</code></font> Forte
@@ -119,18 +123,6 @@
 -   <font size="5"><code><ruby>浅<rt>あさ</rt></ruby>い</code></font> Raso/Superficial
 -   <font size="5"><code><ruby>深<rt>ふか</rt></ruby>い</code></font> Fundo/Profundo
 
-### Auxiliares e sufixos
-
--   `ない` Não ser/existir
-    -   `ありません` Contraparte honorífica (verbal)
-    -   `ね・ねえ` Contração (muito casual)
--   `らしい` Parecido/Semelhante (-like)
--   `〜っぽい` Parecido/Semelhante (-ish)
-    -   Tem uma nuance mais negativa que `らしい`
-    -   É um adjetivo auxiliar, portanto deve ser usado somente de forma atributiva.
--   `〜にくい` Difícil de
-    -   Usado com o radical `い` de verbos.
-
 ## <ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos な
 
 -   `きれい` Limpo/Bonito
@@ -145,9 +137,6 @@
 -   <font size="5"><code><ruby>素敵<rt>すてき</rt></ruby></code></font> Adorável
 -   `すき` Gostável
     -   `だいすき` Amável
--   `みたい` Parecido
-    -   Geralmente usado como sufixo de substantivos e adjetivos.
-    -   Quando ligado a um verbo na forma te, dá a ideia de "gostaria de tentar" alguma coisa.
 -   <font size="5"><code><ruby>色<rt>いろ</rt>々</ruby></code></font> Diversos/Vários/Todo tipo
 -   <font size="5"><code><ruby>大<rt>たい</rt>変<rt>へん</rt></ruby></code></font> Problemático/Complicado/Difícil/Muito (Extremamante)
 -   <font size="5"><code><ruby>便<rt>べん</rt>利<rt>り</rt></ruby></code></font> Conveniente/Útil
@@ -176,6 +165,7 @@
 -   <font size="5"><code><ruby>元<rt>げん</rt>気<rt>き</rt></ruby></code></font> Saudável/Vívido/Energético
 -   `さいこう` Fantástico
 -   `しあわせ` Feliz
+    -   Duradouro
 -   <font size="5"><code><ruby>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Resistente/Durável/Robusto
 -   <font size="5"><code><ruby>大<rt>だい</rt>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Ok
     -   Também é muito usado para recusar coisas.
@@ -206,10 +196,39 @@
 -   `ピカピカ` Cintilante/Com brilho
 -   <font size="5"><code><ruby>十<rt>じゅう</rt>分<rt>ぶん</rt></ruby></code></font> Suficiente
     -   Não confundir com `じゅっぷん` "dez minutos".
+-   `いっぱい` Cheio/Preenchido
+-   `ベジタリアン` Vegetariano
+-   <font size="5"><code><ruby>意<rt>い</rt>地<rt>じ</rt>悪<rt>わる</rt></ruby></code></font> Malvado
+-   <font size="5"><code><ruby>巨<rt>きょ</rt>大<rt>だい</rt></ruby></code></font> Gigante/Enorme
+-   <font size="5"><code><ruby>可哀想<rt>かわいそう</rt></ruby></code></font> Lamentável/Deplorável/Patético
+-   <font size="5"><code><ruby>最<rt>さい</rt>悪<rt>あく</rt></ruby></code></font> Pior
+-   <font size="5"><code><ruby>最<rt>さい</rt>高<rt>こう</rt></ruby></code></font> Melhor/Supremo
 
 ## Adjetivos たる
 
 -   <font size="5"><code><ruby>確<rt>かっ</rt>固<rt>こ</rt></ruby></code></font> Firme/Resoluto
+
+## Auxiliares e sufixos
+
+-   `ない` Não ser/existir
+    -   `ありません` Contraparte honorífica (verbal)
+    -   `ね・ねえ` Contração (muito casual)
+    -   `なし（で）` Sem (é substantivo)
+-   `らしい` Parecido/Semelhante
+    -   Tem a nuance da fonte de informação não ser pessoal
+    -   "-like" quando usado como sufixo
+-   `〜っぽい` Parecido/Semelhante/Tipo (-ish)
+    -   Tem uma nuance mais negativa que `らしい`
+    -   É um adjetivo auxiliar, portanto deve ser usado somente de forma atributiva.
+-   `〜にくい` Difícil de
+    -   Usado com o radical `い` de verbos.
+-   `〜みたい` Parecido
+    -   É um adjetivo `な`.
+    -   Geralmente usado como sufixo de substantivos e adjetivos.
+    -   Quando ligado a um verbo na forma te, dá a ideia de "gostaria de tentar" alguma coisa.
+-   `〜そう` Parecido
+    -   É um adjetivo `な`.
+    -   Geralmente usado como sufixo de verbos e adjetivos na sua forma radical.
 
 ## <ruby>連<rt>れん</rt>体<rt>たい</rt>詞<rt>し</rt></ruby> - Adnominais
 
@@ -219,6 +238,8 @@
 -   <font size="5"><code><ruby>小<rt>ちい</rt></ruby>さな</code></font> Pequeno/Baixo
     -   NÃO é um adjetivo な.
     -   É mais utilizado para coisas abstratas.
+-   `おかしな` Estranho/Peculiar/Ridículo/Cômico
+-   `ような` Como/Similar a
 -   `こういう` Tal/Este tipo de/Como este
 -   `そういう` Tal/Esse tipo de/Como esse
 

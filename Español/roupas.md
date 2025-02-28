@@ -9,6 +9,7 @@
 -   `Lentes` Óculos 🚹
 -   `Gorra` Boné 🚺
 -   `Arete` Brinco
+-   `Gorro` Boné/Gorro
 
 ## El Cuerpo - Corpo
 
@@ -28,6 +29,8 @@
 -   `Uniforme`
 -   `Pijama`
 -   `Impermeable` Capa de chuva
+-   `Sudadera` Moletom 🚺
+-   `Ropa interior` Roupa de baixo
 
 ## Los Brazos - Braços
 
@@ -54,6 +57,7 @@
 -   `Botas`
 -   `Calcetín` Meia 🚹
 -   `Patín` Patins
+-   `Sandalia` Sandália
 
 ## Los Accesorios - Acessórios
 

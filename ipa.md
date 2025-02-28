@@ -1,29 +1,16 @@
 # AFI (IPA) - Alfabeto Fonético Internacional
 
-**Indica o som em qualquer língua.**
+**Indica sons com símbolos específicos, padronizando a forma de reconhecer os sons de qualquer língua.**
+
+> [!IMPORTANT]
+> Note que os sons aqui estão agrupados pela similaridade com os sons das letras em português/inglês.
+
+> [!IMPORTANT]
+> Para saber como funciona a produção dos sons, ver [Fonética e Fonologia](fonética.md).
 
 <!--
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/IPA_chart_2020.svg" alt="IPA" style="width:40rem; background-color: #E8F9FD; border-radius: 10px; border: 5px #black solid;
 "/> -->
-
-## Terminologia
-
-### Posicionamento vertical
-
--   `Fechada (Close)`: A língua quase toca ou toca o céu da boca.
--   `Média (Mid)`: A língua fica entre o céu da boca e sua posição de repouso.
--   `Aberta (Open)`: A língua fica na posição de repouso (chão da boca) ou bem próxima.
-
-### Posicionamento horizontal
-
--   `Anterior (Front)`: A língua fica um pouco à frente da posição central, tendendo aos dentes.
--   `Central`: A língua fica um pouco distante da garganta e ainda mais dos dentes.
--   `Posterior (Back)`: A língua fica próxima à garganta.
-
-### Arredondamento
-
--   `Arredondada (Rounded)`: A boca forma uma abertura circular.
--   `Não arredondada (Unrounded)`: A boca não forma uma abertura circular.
 
 ## Símbolos
 
@@ -31,9 +18,9 @@
 -   `[.]` Indica separação silábica.
 -   `[ˈ◆]` Indica a sílaba tônica
 
----
-
 ## Vogais
+
+<img src="./assets/images/ipa-vowels.png" width="350px" style="background-color: #E8F9FD; border-radius: 10px; border: 5px purple solid;"/>
 
 ### A
 
@@ -97,7 +84,7 @@
 
 ## Consoantes
 
-**Note que se não é explicitado que é surda, então é sonora.**
+<img src="./assets/images/ipa-consonants.png" width="750px" style="background-color: #E8F9FD; border-radius: 10px; border: 5px purple solid;"/>
 
 ### B
 

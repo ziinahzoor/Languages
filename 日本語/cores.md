@@ -23,8 +23,10 @@
     -   <font size="5"><code><ruby>桃<rt>もも</rt>色<rt>いろ</rt></ruby></code></font>
 -   <font size="5"><code><ruby>紫<rt>むらさき</rt></ruby></code></font> Roxo
 -   <font size="5"><code><ruby>緑<rt>みどり</rt></ruby></code></font> Verde
+    -   `グリーン`
 -   <font size="5"><code><ruby>菫<rt>すみれ</rt>色<rt>いろ</rt></ruby></code></font> Violeta
 -   `シルバー` Prateado
     -   <font size="5"><code><ruby>銀<rt>ぎん</rt>色<rt>いろ</rt></ruby></code></font>
 -   <font size="5"><code><ruby>金<rt>きん</rt>色<rt>いろ</rt></ruby></code></font> Dourado
     -   `ゴールド`
+-   <font size="5"><code><ruby>水<rt>みず</rt>色<rt>いろ</rt></ruby></code></font> Azul claro
