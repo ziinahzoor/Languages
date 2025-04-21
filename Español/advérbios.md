@@ -6,8 +6,9 @@
 -   `Adónde` Aonde
 -   `Pero` Mas
 -   `Sin embargo` Porém/Entretanto
--   `Muy` Muito (Very)
--   `Mucho` Muito (A lot)
+-   `Muy` Muito (Intensidade)
+-   `Mucho` Muito (Quantidade)
+-   `Demasiado` Muito/Demais/Excessivamente
 -   `Poco` Pouco
 -   `Más` Mais
 -   `Menos`

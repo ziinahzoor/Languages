@@ -6,11 +6,11 @@
 -   `Mal`
 -   `Bien sûr` Claro/Sem dúvida
 -   `Peu` Pouco
--   `Très` Muito (Very)
+-   `Très` Muito (Intensidade)
     -   Geralmente usado com adjetivos.
--   `Beaucoup` Muito (Much)
+-   `Beaucoup` Muito (Quantidade/Frequência)
     -   Geralmente usado com verbos.
--   `Trop` Muito/Demais (Too much)
+-   `Trop` Muito/Demais/Excessivamente
     -   Costuma indicar excessos. Para enfatizar o excesso pode-se ainda usar `beaucoup trop`.
 -   `Oui` Sim
     -   `Si` Para frases negativas.
@@ -52,6 +52,7 @@
 -   `Juste` Só/Somente
 -   `Enfin` Enfim/Finalmente
 -   `Surtout` Principalmente/Sobretudo
+-   `Finalement` Finalmente/Por fim
 
 ## Locutions adverbiales - Locuções adverbiais
 
@@ -65,6 +66,7 @@
 -   `Tout de suite` Na hora/Imediatamente
 -   `N'importe où` Em qualquer lugar
 -   `Non plus` Também não/Tampouco
+-   `Plus maintenant` Não mais
 -   `D'abord` Primeiramente
 -   `D'habitude` Normalmente/Geralmente
 -   `Généralement` Geralmente
@@ -76,6 +78,7 @@
 -   `À ce moment-là` Logo então
 -   `À mon avis` Na minha opinião
 -   `À l'envers` Ao contrário
+-   `À voix basse` Em voz baixa
 -   `Au coin de` Na esquina de
 -   `En fait` Na verdade
 -   `En tout` Ao todo/No total

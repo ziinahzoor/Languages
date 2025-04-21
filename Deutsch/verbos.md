@@ -2,7 +2,6 @@
 
 -   `Sein` Ser/Estar
 -   `Sehen` Ver
--   `Kommen` Vir
 -   `Laufen` Correr
 -   `Brauchen` Precisar
 -   `Arbeiten` Trabalhar
@@ -20,7 +19,9 @@
 -   `Können` Poder
 -   `Bestellen` Pedir
 -   `Gehen` Ir
+-   `Kommen` Vir
 -   `Fahren` Dirigir
 -   `Bringen` Trazer
 -   `Möchten` Querer
 -   `Kosten` Custar
+-   `Leben` Viver

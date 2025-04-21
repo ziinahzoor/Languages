@@ -2,6 +2,7 @@
 
 -   `そして` E/E então/E também (Sucessão de fatos)
 -   `それに` Além de/Além disso
+    -   O `に` utiliza uma função antiga da partícula, que é a mesma de `と`.
 -   `それとも` Ou ao invés/Alternativamente
     -   Usado apenas em perguntas.
     -   Conecta duas alternativas em forma de uma pergunta.
@@ -38,3 +39,4 @@
 -   `よし` Certo!/Ok!/Muito bem!/Parece bom!
 -   `いいぞ` Muito bem!/É isso aí!
 -   `わあ・わっ` Uau!
+-   `へえ` O quê?!

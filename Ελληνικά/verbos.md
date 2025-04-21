@@ -7,14 +7,19 @@
     -   Também pode significar "custar"
 -   `Φτιάχνω` Fazer/Criar/Construir
 -   `Θέλω` Querer/Necessitar/Requerer
+    -   `Θελήσω` Dependente
 -   `Πίνω` Beber
 -   `Τρώω` Comer
+    -   `Τρώγω` Forma alternativa
+    -   `Φάω` Dependente (-άω)
 -   `Διαβάζω` Ler/Estudar
 -   `Μένω` Morar
+    -   `Μείνω` Dependente
 -   `Δίνω` Dar
 -   `Υπάρχω` Existir
 -   `Τρέχω` Correr/Fugir/Executar (um programa)
 -   `Βλέπω` Ver
+    -   `Δω/-ιδώ` Dependente
 -   `Γράφω` Escrever
 -   `Αγοράζω` Comprar
 -   `Μαγειρεύω` Cozinhar
@@ -22,6 +27,7 @@
 -   `Παίζω` Brincar/Jogar/Tocar
 -   `Πληρώνω` Pagar
 -   `Πηγαίνω` Ir
+    -   `Πάω` Forma alternativa/Dependente (-άω)
 -   `Αρέσω ` Ser gostado/Agradar
     -   `Αρέσκω` Forma alternativa
     -   É como o verbo "gostar" aparece no grego. Funciona da mesma forma que o espanhol "gustar", porém utiliza o genitivo ao invés do dativo.
@@ -37,15 +43,18 @@
 -   `Δουλεύω` Trabalhar
 -   `Λέω` Dizer
     -   `Λέγω` Formal
+    -   `Πω` Dependente
 -   `Φέρνω` Trazer
 -   `Κοστίζω` Custar
--   `Βάζω` Colocar
+-   `Βάζω`
+    -   `Βάλω` Depndente
 -   `Παίρνω` Pegar
     -   Também pode ser "chamar".
 -   `Σχεδιάζω` Desenhar/Planejar
 -   `Πέφτω` Cair
 -   `Βρίσκω` Achar/Descobrir/Localizar
     -   `Ευρίσκω` Formal
+    -   `Βρω` Dependente
 -   `Δείχνω` Indicar/Apontar/Demonstrar
 -   `Καθαρίζω` Limpar
 -   `Νομίζω` Pensar/Considerar
@@ -62,7 +71,6 @@
 -   `Σηκώνω` Levantar/Erguer
 -   `Συμπεριλαμβάνω` Incluir
 -   `Κοιτάζω` Olhar/Examinar
--   `Βγαίνω` Sair
 -   `Φεύγω` Partir
 -   `Νιώθω` Sentir
 -   `Κλείνω` Fechar
@@ -73,6 +81,9 @@
 -   `Παρουσιάζω` Apresentar
 -   `Ελπίζω` Esperar/Ter esperança de
 -   `Μπαίνω` Entrar
+    -   `Μπω` Dependente
+-   `Βγαίνω` Sair
+    -   `Βγω` Dependente
 -   `Ψάχνω` Procurar
 -   `Επιτρέπω` Permitir
 -   `Προσέχω` Prestar atenção/Observar
@@ -141,6 +152,7 @@
 -   `Περνάω` Passar/Atravessar
 -   `Συναντάω` Encontrar/Conhecer
 -   `Προτιμάω` Preferir
+-   `Ξεχνάω` Esquecer
 
 ## Verbos -ώ
 
@@ -158,6 +170,7 @@
 
 -   `Είμαι` Ser
 -   `Έρχομαι` Vir
+    -   `Έρθω` Dependente
 -   `Βαριέμαι` Entediar-se/Estar entediado
 -   `Θυμάμαι` Lembrar-se
     -   `Θυμούμαι` Forma alternativa

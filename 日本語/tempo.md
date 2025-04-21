@@ -99,7 +99,7 @@
 -   <font size="5"><code>ひる<ruby>休<rt>やす</rt></ruby>み</code></font> Hora do almoço
 -   `これから` De agora em diante
 -   `さいご` Último
--   <font size="5"><code><ruby>暇<rt>ひま</rt></ruby></code></font> Tempo livre
+-   <font size="5"><code><ruby>暇<rt>ひま</rt></ruby>な<ruby>時<rt>とき</rt></ruby>・<ruby>暇<rt>ひま</rt></ruby></code></font> Tempo livre
 -   <font size="5"><code><ruby>瞬<rt>しゅん</rt>間<rt>かん</rt></ruby></code></font> Momento/Instante
 -   <font size="5"><code><ruby>時<rt>とき</rt></ruby></code></font> Momento/Ocasião/Quando
 -   <font size="5"><code>この<ruby>間<rt>あいだ</rt></ruby></code></font> Naquele dia/No outro dia

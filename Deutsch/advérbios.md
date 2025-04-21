@@ -2,12 +2,12 @@
 
 -   `Ja` Sim
 -   `Nein` Não
--   `Sehr` Muito (Very)
+-   `Sehr` Muito (Intensidade)
+-   `Zu` Muito/Demais/Excessivamente
 -   `Wo` Onde
 -   `Wohin` Aonde
 -   `Woher` De onde
 -   `Hier` Aqui
--   `Zu` Muito (Too)
 -   `Jetzt` Agora
 -   `Da drüben` Ali
 -   `Auch` Também
@@ -21,3 +21,4 @@
 -   `Links` À esquerda
 -   `Weit weg` Distante/Muito longe
 -   `Natürlich` Claro/Naturalmente
+-   `Mehr` Mais

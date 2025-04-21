@@ -61,7 +61,6 @@
 | Wir     | Sind       |
 | Ihr     | Seid       |
 | Sie     | Sind       |
-| Sie     | Sind       |
 
 ---
 

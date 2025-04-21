@@ -2,9 +2,9 @@
 
 -   `Jes` Sim
 -   `Ne` Não
--   `Tre` Muito (Very)
--   `Multe` Muito (Much)
--   `Tro` Muito/Demais (Too much)
+-   `Tre` Muito (Intensidade)
+-   `Multe` Muito (Quantidade)
+-   `Tro` Muito/Demais/Excessivamente
 -   `Bone` Bem
 -   `Ankaŭ` Também
 -   `Nur` Só/Somente

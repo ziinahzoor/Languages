@@ -31,7 +31,7 @@
 -   `Cansado`
 -   `Diferente`
 -   `Distinto`
--   `Demasiado` Muito (Too much)
+-   `Demasiado` Muito/Excessivo
 -   `Cómodo` Confortável
 -   `Confortable` Confortável
 -   `Favorito`

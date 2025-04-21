@@ -30,3 +30,8 @@
 -   `Interessant` Interessante
 -   `Einfach` Fácil
 -   `Elegant` Elegante
+
+## Nacionalidades
+
+-   `Deutsch` Alemão
+-   `Englisch` Inglês

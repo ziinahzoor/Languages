@@ -246,6 +246,7 @@
 -   `Ne... rien` Nada
     -   `Rien ne` Pronome
 -   `Ne... que` Só/Somente
+-   `Ne... pas que` Não só/Não somente
 -   `Ni` Nem
 
 ## Adverbiaux - Adverbiais

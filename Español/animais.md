@@ -26,6 +26,10 @@
 
 ## Los Insectos - Insetos
 
+## Los Peces - Peixes
+
+-   `Atún` Atum
+
 ## Relacionado
 
 -   `Mascota` Animal de estimação 🚺

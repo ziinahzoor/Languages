@@ -1,8 +1,8 @@
 # Adverben - Advérbios ✴️
 
--   `Väldigt` Muito (Very)
--   `Mycket` Muito (Much)
--   `För` Muito/Demais (Too much)
+-   `Väldigt` Muito (Intensidade)
+-   `Mycket` Muito (Quantidade)
+-   `För` Muito/Demais/Excessivamente
 -   `Ja` Sim
     -   É na verdade uma interjeição
 -   `Nej` Não

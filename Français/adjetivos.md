@@ -187,6 +187,7 @@
 -   `Élevé` Elevado
 -   `Privé` Privado
 -   `Serré` Apertado
+-   `Nature` Simples/Puro
 
 ### Personalidade
 
@@ -212,6 +213,8 @@
 -   `Salé` Salgado
 -   `Sucré` Doce/Açucarado
 -   `Épicé` Apimentado/Picante/Condimentado
+-   `Acide` Ácido/Azedo
+-   `Amer` Amargo
 
 ## Condição/Estado
 

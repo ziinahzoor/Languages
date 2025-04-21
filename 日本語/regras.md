@@ -77,7 +77,8 @@
 -   As coisas costumam partir das mais gerais para específicas: o sobrenome vem antes do nome, ano antes de mês e dia em datas, prefeitura antes de cidade e rua em endereços.
 -   Ao usar os verbos nas formas negativas, geralmente as partículas `を` e `が` se tornam `は`.
     -   Isso acontece porque o objeto direto/sujeito se torna o tópico do que se está negando, já que se cria ênfase nisso.
--   Para fazer perguntas, geralmente `が` se torna `は`, e o `を` se mantém.
+    -   Em frases negativas é fácil perceber isso, pois `じゃない` ou qualquer uma das variações negativas vêm de `ではない`. Usa-se a forma conectiva de `だ`: `で`. Então acrescenta-se a partícula `は`, que torna toda a frase o tópico da frase, e por fim adiciona-se o adjetivo de negação `ない`, negando a frase (o tópico).
+-   Para fazer perguntas, geralmente o `が` que acompanha substantivos se torna `は`, e o `を` se mantém. Palavras interrogativas utilizam `が`.
 -   Usar a partícula `が` com os adjetivos-verbo que colocam mais ênfase no que se fala ao invés da ação do verbo em si, como `ほしい` e `すき`.
 -   Usar a partícula `を` com `ください` e `おねがいします`.
     -   A quantidade de itens vem antes do `ください`, e não do item.

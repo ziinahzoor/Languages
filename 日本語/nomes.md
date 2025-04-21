@@ -7,6 +7,7 @@
 -   <font size="5"><code><ruby>直<rt>なお</rt>美<rt>み</rt></ruby></code></font> Naomi
 -   <font size="5"><code><ruby>健<rt>けん</rt>太<rt>た</rt></ruby></code></font> Kenta
 -   <font size="5"><code><ruby>本<rt>ほん</rt>田<rt>だ</rt></ruby></code></font> Honda
+-   <font size="5"><code><ruby>小<rt>お</rt>浜<rt>ばま</rt></ruby></code></font> Obama
 
 ## Kanji mais utilizados
 

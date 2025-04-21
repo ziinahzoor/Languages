@@ -14,20 +14,23 @@
 -   `ただいま` Cheguei em casa
 -   `ようこそ` Bem-vindo
     -   `いらっしゃいませ` Bem-vindo (Usado em estabelecimentos)
-    -   `おかえりなさい` Bem-vindo de volta (à casa)
+    -   <font size="5"><code>お<ruby>帰<rt>かえ</rt></ruby>りなさい</code></font> Bem-vindo de volta (à casa)
 -   <font size="5"><code><ruby>失<rt>しつ</rt>礼<rt>れい</rt></ruby>します</code></font> Com licença (Ao entrar ou sair de uma sala)
 
 ### Ao partir
 
 -   `じゃあね` Tchau
 -   `またね` Até logo
--   `またあした` Até amanhã
+-   <font size="5"><code>また<ruby>明日<rt>あした</rt></ruby></code></font> Até amanhã
 -   `おやすみなさい` Boa noite (Ao se despedir)
 -   <font size="5"><code><ruby>行<rt>い</rt></ruby>ってきます</code></font> Estou indo
     -   `いって` Indo + `きます` Vir = Estou indo, e vou voltar
 -   <font size="5"><code><ruby>行<rt>い</rt></ruby>ってらっしゃい</code></font> Tenha cuidado/Estarei esperando
 -   <font size="5"><code>お<ruby>先<rt>さき</rt></ruby>に<ruby>失<rt>しつ</rt>礼<rt>れい</rt></ruby>します</code></font> Desculpe por sair (mais cedo que você)
-    -   <font size="5"><code>お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした</code></font> Não tem problema, você trabalhou muito
+    -   <font size="5"><code>お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした</code></font> Obrigado pelo trabalho duro
+        -   É utilizado tanto por quem está saindo do trabalho (agradecendo aos que ficam por continuar seu trabalho), tanto como resposta a esta pessoa (agradecendo pelo seu dia de trabalho).
+        -   Significa literalmente "você deve estar cansado".
+-   <font size="5"><code>お<ruby>元<rt>げん</rt>気<rt>き</rt></ruby>で</code></font> Cuide-se
 
 ### Apresentação
 
@@ -82,7 +85,7 @@
 -   `どういたしまして` De nada
     -   `いいえ` Mais comum
 -   `ごちそうさまでした` Obrigado pela comida
--   <font size="5"><code>お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>です</code></font> Você está fazendo um bom trabalho (no trabalho)
+-   <font size="5"><code>お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>です</code></font> Obrigado pelo trabalho duro/Você está fazendo um bom trabalho (no trabalho)
 -   <font size="5"><code><ruby>結<rt>けっ</rt>構<rt>こう</rt></ruby></code></font> Não, obrigado/Não precisa/Estou cheio
 
 ## Concordância

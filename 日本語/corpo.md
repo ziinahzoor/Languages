@@ -21,3 +21,6 @@
 -   <font size="5"><code>お<ruby>腹<rt>なか</rt></ruby></code></font> Barriga/Estômago
 -   <font size="5"><code><ruby>背<rt>せ</rt>中<rt>なか</rt></ruby></code></font> Costas
 -   <font size="5"><code><ruby>足<rt>あし</rt></ruby></code></font> Pé/Perna
+
+> [!NOTE]
+> As palavras `目` e `耳` também podem significar "visão" e "audição", respectivamente.

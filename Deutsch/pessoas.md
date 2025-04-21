@@ -2,22 +2,32 @@
 
 -   `Person` Pessoa
 -   `Mann` Homem
--   `Frau` Mulher
--   `Bruder` Irmão
--   `Schwester` Irmã
+-   `Frau` Mulher/Senhora
+-   `Herr` Senhor
+-   `Junge` Menino
+-   `Mädchen` Menina ✴️
+-   `Freund` Amigo
+-   `Vegetarier` Vegetariano
+
+## Profissões
+
+-   `Kanzler` Chanceler
+-   `Kellner` Garçom
+-   `Artz` Doutor
+-   `Schüler` Estudante
+-   `Student` Universitário
+-   `Lehrer` Professor
+-   `Professor` Professor universitário
+-   `Schauspieler` Ator
+-   `Polizist` Policial
+-   `Künstler` Artista
+-   `Anwalt` Advogado
+
+## Família
+
 -   `Vater` Pai
 -   `Mutter` Mãe
 -   `Sohn` Filho
 -   `Tochter` Filha
--   `Junge` Menino
--   `Mädchen` Menina ✴️
--   `Kellner` Garçom
--   `Kellnerin` Garçonete
--   `Artz` Doutor
--   `Schüler` Estudante
--   `Student` Universitário
--   `Professor`
--   `Lehrer` Professor (Teacher)
--   `Schauspieler` Ator
--   `Freund` Amigo
--   `Vegetarier` Vegetariano
+-   `Bruder` Irmão
+-   `Schwester` Irmã

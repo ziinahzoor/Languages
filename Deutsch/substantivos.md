@@ -5,6 +5,7 @@
 -   `Fernseher` Televisão 🚹
 -   `Videospiel` Videogame ✴️
 -   `Tisch` Mesa 🚹
+-   `Tasche` Mochila
 
 ## Abstrato
 
@@ -15,10 +16,12 @@
 -   `Geburtstag` Aniversário
 -   `Hunger` Fome 🚹
 -   `Durst` Sede 🚹
+-   `Schatz` Tesouro
+    -   Usado como um termo de carinho, como "querido".
 
 ## Transporte
 
--   `Tasche` Táxi ✴️
+-   `Taxi` Táxi ✴️
 -   `Pass` Passaporte
 
 ## Atividades

@@ -59,6 +59,7 @@
 -   `Four` Forno
 -   `Bol` Tigela 🚹
 -   `Évier` Pia 🚹
+-   `Nappe` Toalha de mesa
 
 ### La Salle de Bain - Banheiro
 
@@ -330,6 +331,7 @@
 -   `Ligne` Linha
 -   `Instruction` Instrução
 -   `Mariage` Casamento
+-   `Lune de miel` Lua de mel
 -   `Bazar` Velharia/Porcaria 🚹
 -   `Liste` Lista
 -   `Note` Nota
@@ -407,6 +409,7 @@
 -   `Pois` Bolinha (padrão de bolinhas) 🚹
 -   `Rayure` Listra
 -   `Style` Estilo
+-   `Relation` Relação
 
 ### Sentimentos, condições e emoções
 

@@ -8,3 +8,4 @@
 -   <font size="5"><code><ruby>雛<rt>ひな</rt>祭<rt>まつ</rt></ruby>り</code></font> é o Festival das Bonecas ou Festival das Meninas
 -   <font size="5"><code><ruby>歌<rt>か</rt>舞<rt>ぶ</rt>伎<rt>き</rt></ruby></code></font> é uma apresentação teatral clássica, geralmente caracterizada por homens usando maquiagem branca e vermelha, realizando até os papéis femininos.
 -   Antes, no Japão, a cor verde era considerada um tom de azul, portanto ainda é comum encontrar muitos termos de coisas relacionadas à cor verde que ainda usam <font size="5"><code><ruby>青<rt>あお</rt></ruby></code></font>, como semáforos.
+-   <font size="5"><code><ruby>京<rt>きょう</rt>都<rt>と</rt></ruby></code></font> significa literalmente "Cidade Capital". Quando a capital mudou para <font size="5"><code><ruby>江<rt>え</rt>戸<rt>ど</rt></ruby></code></font>, a cidade foi renomeada passando a ter o nome atual de <font size="5"><code><ruby>東<rt>とう</rt>京<rt>きょう</rt></ruby></code></font> "Capital Oriental/Leste".

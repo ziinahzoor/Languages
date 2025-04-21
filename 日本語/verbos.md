@@ -80,6 +80,11 @@
 -   `る/られる` Verbo auxiliar potencial (Ichidan)
 -   `やがる` Verbo auxiliar pejorativo (Godan)
 -   `ようだ・ようです` Parece que/É como se
+-   `なら` Se. Forma hipotética de `だ`
+    -   Indica uma condição: "se", "desde que".
+    -   É mais hipotético que `たら`, tem a nuance de "se estamos falando de...", como se fosse a forma condicional da partícula `は`.
+    -   Não é utilizado com ordem de eventos, ou seja, é inteiramente hipotético, e não condicional.
+    -   Usado para suposições, contrastes, conselhos, avisos, etc. Ou seja, indica a opinião de quem fala.
 
 ## <ruby>不<rt>ふ</rt>規<rt>き</rt>則<rt>そく</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Irregulares
 
@@ -113,7 +118,14 @@
     -   Geralmente acompanha a partícula `が`.
     -   Costuma ser escrito tanto com kanji quanto somente com kana.
     -   Pessoas, plantas e animais mortos são considerados inanimados.
+    -   <font size="5"><code><ruby>所<rt>ところ</rt></ruby>がある</code></font> Haver
+        -   É uma forma menos direta, demonstrando uma característica, traço ou tendência que algo ou alguém tem.
+        -   Como dizer "há um lado... em/há algo... em".
+    -   <font size="5"><code><ruby>人<rt>にん</rt>気<rt>き</rt></ruby>がある</code></font> Ser popular
+    -   <font size="5"><code><ruby>興<rt>きょう</rt>味<rt>み</rt></ruby>がある</code></font> Ter interesse
+    -   <font size="5"><code><ruby>熱<rt>ねつ</rt></ruby>がある</code></font> Ter febre
 -   `なる` Tornar(-se)
+    -   `よくなる` Melhorar
 -   `がる` Parecer/Sentir que
     -   Verbo auxiliar para descrever o que a outra pessoa está sentindo.
 -   <font size="5"><code><ruby>作<rt>つく</rt></ruby>る</code></font> Produzir/Fazer
@@ -161,12 +173,14 @@
     -   Também significa "parar" quando se refere à chuva.
 -   <font size="5"><code><ruby>曲<rt>ま</rt></ruby>がる</code></font> Virar/Curvar
 -   <font size="5"><code><ruby>送<rt>おく</rt></ruby>る</code></font> Mandar/Enviar
--   `まわる` Girar/Andar em volta/Transitar
+-   <font size="5"><code><ruby>回<rt>まわ</rt></ruby>る</code></font> Girar/Rodar/Andar em volta/Dar volta/Transitar
 -   <font size="5"><code><ruby>怒<rt>おこ</rt></ruby>る</code></font> Irritar-se
 -   `がんばる` Fazer o melhor/Persistir/Perseverar
 -   `やる` Fazer/Dar
     -   Mais utilizado casualmente e para ações físicas feitas ativamente.
     -   Também possui conotação pejorativa.
+    -   Também é usado como uma versão mais casual de `あげる`
+    -   É mais utilizado também para representar o ato de "fazer" quando o que será feito é implícito ou não-especificado. Ex.: `私がやる` "Eu que farei"
 -   `なおる` Recuperar/Curar
 -   `ぬる` Aplicar/Pintar
     -   Serve para remédios
@@ -203,6 +217,8 @@
 -   <font size="5"><code><ruby>決<rt>き</rt></ruby>まる</code></font> Estar decidido/Estar definido
 -   `サボる` Enrolar/Procrastinar/Furar um compromisso
     -   Matar aula, faltar ao trabalho, etc.
+-   <font size="5"><code><ruby>遅<rt>おそ</rt></ruby>くなる</code></font> Estar atrasado
+-   <font size="5"><code><ruby>腐<rt>くさ</rt></ruby>る</code></font> Apodrecer/Passar da validade
 
 ### う
 
@@ -241,12 +257,15 @@
 -   <font size="5"><code><ruby>洗<rt>あら</rt></ruby>う</code></font> Lavar
 -   <font size="5"><code><ruby>向<rt>む</rt></ruby>かう</code></font> Ir em direção
 -   <font size="5"><code><ruby>叶<rt>かな</rt></ruby>う</code></font> Realizar/Tornar real
+-   <font size="5"><code><ruby>付<rt>つ</rt>き</ruby><ruby>合<rt>あ</rt></ruby>う</code></font> Estar em um relacionamento/Se relacionar
+-   <font size="5"><code><ruby>通<rt>かよ</rt></ruby>う</code></font> Frequentar
 
 ### く
 
 -   <font size="5"><code><ruby>続<rt>つづ</rt></ruby>く</code></font> Continuar (I)
 -   <font size="5"><code><ruby>聞<rt>き</rt></ruby>く</code></font> Ouvir/Perguntar
     -   Para perguntar geralmente acompanha o `に`
+-   <font size="5"><code><ruby>聴<rt>き</rt></ruby>く</code></font> Escutar
 -   <font size="5"><code><ruby>行<rt>い</rt></ruby>く</code></font> Ir
     -   Geralmente acompanha o `に`
     -   Forma `ta`: `行った`
@@ -254,11 +273,11 @@
     -   `いらっしゃる` Sonkeigo (Godan).
     -   Forma nominal do verbo + `に行く` Ir para (realizar ação do verbo)
 -   <font size="5"><code><ruby>着<rt>つ</rt></ruby>く</code></font> Chegar
--   <font size="5"><code><ruby>弾<rt>ひ</rt>く</ruby></code></font> Tocar instrumento (com cordas ou teclas)
--   <font size="5"><code><ruby>引<rt>ひ</rt>く</ruby></code></font> Puxar/Consultar (alguma fonte)
+-   <font size="5"><code><ruby>弾<rt>ひ</rt></ruby>く</code></font> Tocar instrumento (com cordas ou teclas)
+-   <font size="5"><code><ruby>引<rt>ひ</rt></ruby>く</code></font> Puxar/Consultar (alguma fonte)
     -   `風邪を引く` é pegar um resfriado.
 -   <font size="5"><code><ruby>書<rt>か</rt></ruby>く</code></font> Escrever
--   <font size="5"><code><ruby>描<rt>か</rt>く</ruby></code></font> Desenhar
+-   <font size="5"><code><ruby>描<rt>か</rt></ruby>く</code></font> Desenhar
 -   `やく` Assar/Fritar/Queimar/Torrar
     -   Usado para todos os verbos quem envolvam fogo na culinária.
 -   <font size="5"><code><ruby>開<rt>あ</rt></ruby>く</code></font> Abrir (I)
@@ -268,8 +287,8 @@
     -   É o verbo utilizado quando abrir tem o sentido de "inaugurar" ou "criar".
 -   <font size="5"><code><ruby>歩<rt>ある</rt></ruby>く</code></font> Andar
 -   <font size="5"><code><ruby>咲<rt>さ</rt></ruby>く</code></font> Florescer
--   `すく` Esvaziar
-    -   <font size="5"><code>お<ruby>腹<rt>なか</rt></ruby>がすく</code></font> Ter fome
+-   <font size="5"><code><ruby>空<rt>す</rt></ruby>く</code></font> Esvaziar
+    -   <font size="5"><code>お<ruby>腹<rt>なか</rt></ruby>が<ruby>空<rt>す</rt></ruby>く</code></font> Ter fome
         -   Geralmente usado no passado.
 -   <font size="5"><code><ruby>履<rt>は</rt></ruby>く</code></font> Vestir/Calçar/Usar (Parte inferior)
 -   <font size="5"><code><ruby>働<rt>はたら</rt></ruby>く</code></font> Trabalhar
@@ -279,6 +298,7 @@
     -   Geralmente se usam onomatopeias com o verbo para representar o som.
 -   <font size="5"><code><ruby>置<rt>お</rt></ruby>く</code></font> Colocar/Pôr
 -   <font size="5"><code><ruby>磨<rt>みが</rt></ruby>く</code></font> Escovar/Polir
+    -   <font size="5"><code><ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>く</code></font> Escovar os dentes
 -   <font size="5"><code><ruby>届<rt>とど</rt></ruby>く</code></font> Alcançar/Chegar/Ser entregue
     -   <font size="5"><code><ruby>手<rt>て</rt></ruby>が<ruby>届<rt>とど</rt></ruby>く</code></font> Conseguir alcançar
 -   <font size="5"><code><ruby>泣<rt>な</rt></ruby>く</code></font> Chorar
@@ -287,6 +307,7 @@
 -   <font size="5"><code><ruby>乾<rt>かわ</rt></ruby>く</code></font> Secar-se/Estar seco
 -   <font size="5"><code><ruby>付<rt>つ</rt></ruby>く</code></font> Estar anexadado/grudado/preso/conectado
 -   <font size="5"><code><ruby>吐<rt>は</rt></ruby>く</code></font> Vomitar
+-   <font size="5"><code><ruby>嘘<rt>うそ</rt></ruby>をつく</code></font> Mentir
 
 ### ぐ
 
@@ -321,6 +342,7 @@
 -   <font size="5"><code><ruby>射<rt>さ</rt>す</ruby>・<ruby>差<rt>さ</rt></ruby>す</code></font> Brilhar
     -   Tem a nuance da luz vir de uma fonte externa, a luz vem de forma direcional.
 -   <font size="5"><code><ruby>殺<rt>ころ</rt></ruby>す</code></font> Matar
+-   <font size="5"><code><ruby>沸<rt>わ</rt></ruby>かす</code></font> Ferver
 
 ### つ
 
@@ -363,6 +385,7 @@
 -   <font size="5"><code><ruby>進<rt>すす</rt></ruby>む</code></font> Avançar/Seguir em frente/Ir rápido
 -   <font size="5"><code><ruby>頼<rt>たの</rt></ruby>む</code></font> Pedir/Solicitar/Implorar
 -   <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しむ</code></font> Divertir-se/Satisfazer-se
+-   <font size="5"><code><ruby>刻<rt>きざ</rt></ruby>む</code></font> Picar/Fatiar/Cortar
 
 ## 一段 - Ichidan
 
@@ -420,6 +443,7 @@
 -   `あげる` Dar (Do ponto de vista de quem dá)
     -   Não serve apenas para coisas físicas.
     -   Também pode significar "fazer algo para alguém" quando usado com a forma `て`.
+-   <font size="5"><code><ruby>挙<rt>あ</rt></ruby>げる</code></font> Conduzir (uma cerimônia)
 -   <font size="5"><code><ruby>続<rt>つづ</rt></ruby>ける</code></font> Continuar (T)
 -   <font size="5"><code><ruby>助<rt>たす</rt>ける</ruby></code></font> Ajudar/Resgatar
 -   <font size="5"><code><ruby>教<rt>おし</rt></ruby>える</code></font> Ensinar
@@ -429,7 +453,7 @@
 -   `のりかえる` Fazer escala (ônibus e trens)
 -   <font size="5"><code><ruby>疲<rt>つか</rt></ruby>れる</code></font> Cansar
 -   `つける` Ligar (Luz, aparelho)
--   `かたづける` Limpar/Organizar
+-   <font size="5"><code><ruby>片<rt>かた</rt>付<rt>づ</rt></ruby>ける</code></font> Limpar/Organizar
 -   `おくれる` Atrasar
 -   `きがえる` Trocar de roupa
 -   <font size="5"><code><ruby>忘<rt>わす</rt></ruby>れる</code></font> Esquecer
@@ -445,7 +469,7 @@
 -   <font size="5"><code><ruby>壊<rt>こわ</rt></ruby>れる</code></font> Quebrar (I)
 -   <font size="5"><code><ruby>入<rt>い</rt>れる</ruby></code></font> Colocar/Marcar (compromissos)
 -   <font size="5"><code><ruby>始<rt>はじ</rt></ruby>める</code></font> Começar (T)
--   `しらべる` Examinar/Dar uma olhada
+-   <font size="5"><code><ruby>調<rt>しら</rt></ruby>べる</code></font> Examinar/Dar uma olhada
 -   <font size="5"><code><ruby>受<rt>う</rt></ruby>ける</code></font> Pegar/Receber/Passar por um evento
 -   <font size="5"><code><ruby>温<rt>あたた</rt></ruby>める</code></font> Esquentar/Aquecer
 -   `かける` Ligar/Chamar (ao telefone)
@@ -479,6 +503,10 @@
 -   <font size="5"><code><ruby>掛<rt>か</rt></ruby>ける</code></font> Pendurar
 -   <font size="5"><code><ruby>下<rt>さ</rt></ruby>げる</code></font> Abaixar/Reduzir (T)
 -   <font size="5"><code><ruby>植<rt>う</rt></ruby>える</code></font> Plantar
+-   `かぶせる` Cobrir/Envolver
+-   <font size="5"><code><ruby>体<rt>からだ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつける</code></font> Cuidar-se
+-   <font size="5"><code><ruby>咳<rt>せき</rt></ruby>が<ruby>出<rt>で</rt></ruby>る</code></font> Tossir
+-   <font size="5"><code><ruby>混<rt>ま</rt></ruby>ぜる</code></font> Misturar/Mexer
 
 ## Verbos する
 
@@ -557,3 +585,5 @@
 -   <font size="5"><code><ruby>急<rt>きゅう</rt>行<rt>こう</rt></ruby></code></font> Apressar-se
 -   <font size="5"><code><ruby>馳<rt>ち</rt>走<rt>そう</rt></ruby></code></font> Pagar a comida de alguém
     -   <font size="5"><code>ご<ruby>馳<rt>ち</rt>走<rt>そう</rt></ruby></code></font> Teineigo
+-   `びっくり` Surpreender-se
+-   `おしゃべり` Bater papo

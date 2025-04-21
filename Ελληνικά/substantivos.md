@@ -173,6 +173,7 @@
 
 -   `Βίντεο` Vídeo ✴️
 -   `Δουλειά` Trabalho 🚺
+    -   `Δουλειές του σπιτιού` Trabalho doméstico 🚺
 -   `Εργασία` Trabalho (formal) 🚺
 -   `Επάγγελμα` Profissão ✴️
 -   `Καριέρα` Carreira

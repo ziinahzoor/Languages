@@ -317,3 +317,5 @@
 -   `Traducir` Traduzir
 -   `Corregir` Corrigir
 -   `Discutir`
+-   `Freír` Fritar
+-   `Batir` Bater

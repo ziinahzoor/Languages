@@ -46,6 +46,7 @@
 -   `ハト` Pombo
 -   `ワシ` Águia
 -   `タカ` Falcão
+-   <font size="5"><code><ruby>鶴<rt>つる</rt></ruby></code></font> Garça
 
 ### <ruby>爬<rt>は</rt>虫<rt>ちゅう</rt></ruby> - Répteis
 

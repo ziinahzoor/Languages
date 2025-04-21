@@ -36,6 +36,7 @@
 ## <ruby>筆<rt>ひっ</rt>画<rt>かく</rt></ruby> - Traços
 
 -   Um único traço é chamado <font size="5"><code><ruby>点<rt>てん</rt>画<rt>かく</rt></ruby></code></font>.
+-   A quantidade de traços chama-se <font size="5"><code><ruby>画<rt>かく</rt>数<rt>すう</rt></ruby></code></font>.
 -   Um traço pode ser desenhado de três formas:
     -   <font size="5"><code><ruby>留<rt>と</rt></ruby>め</code></font>: Com uma linha de fim abrupto, ou seja, deixando o pincel parado no fim.
         -   <image src="../assets/images/ten.png" style="width:1.75rem; vertical-align: middle; margin-right: 0.5rem;background-color: #E8F9FD; border-radius: 10px; border: 5px #960018 solid;"></image><font size="5"><code><ruby>点<rt>てん</rt></ruby></code></font>: Traço ponto

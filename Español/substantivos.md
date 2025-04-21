@@ -171,6 +171,7 @@
 -   `Monumento`
 -   `Cable` Cabo
 -   `Antibiótico`
+-   `Microondas` Micro-ondas
 
 ## Abstratos
 
@@ -352,6 +353,9 @@
 -   `Experiencia` Experiência
 -   `Calidad` Qualidade
 -   `Total`
+-   `Mezcla` Mistura
+-   `Receta` Receita
+-   `Sabor`
 
 ### Medidas
 
@@ -361,8 +365,9 @@
 -   `Centímetro`
 -   `Kilómetro` Quilômetro
 -   `Kilogramo` Quilograma 🚹
--   `Grado` Grau
     -   `Kilo` Quilo
+-   `Libra`
+-   `Grado` Grau
 -   `Mitad` Metade
 
 ### Formas abstratas

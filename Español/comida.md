@@ -46,6 +46,13 @@
 -   `Crema` Creme 🚺
 -   `Ajo` Alho
 -   `Salchicha` Salsicha
+-   `Especia` Tempero 🚺
+-   `Ingrediente`
+-   `Vainilla` Baunilha
+-   `Maní` Amendoim
+-   `Mostaza` Mostarda
+-   `Mayonesa` Maionese
+-   `Vinagre`
 
 ## Las Frutas
 
@@ -60,6 +67,10 @@
 -   `Melón` Melão
 -   `Uva`
 -   `Aguacate` Abacate
+-   `Fresa` Morango
+-   `Cereza` Cereja
+-   `Durazno` Pêssego
+    -   `Melocotón` Espanha
 
 ## Los Vegetales - Verduras
 
@@ -68,6 +79,9 @@
 -   `Frijole` Feijão
 -   `Pimienta` Pimenta
 -   `Arroz`
+-   `Lechuga` Alface 🚺
+-   `Brócoli` Brócolis
+-   `Maíz` Milho
 
 ## Las Bebidas
 
@@ -88,6 +102,7 @@
 -   `Desayuno` Café da manhã
 -   `Almuerzo` Almoço
 -   `Cena` Janta
+-   `Merienda` Lanche 🚺
 
 ## Comidas Típicas
 

@@ -9,7 +9,7 @@
 -   `きっと` Certamente/Sem dúvidas
 -   `ぜひ` Certamente/Com certeza
     -   Possui um tom encorajador
--   `かならず` Sempre (Sem exceção)/Certamente/Sem dúvidas
+-   <font size="5"><code><ruby>必<rt>かなら</rt></ruby>ず</code></font> Sempre (Sem exceção)/Certamente/Sem dúvidas
 -   `なるほど` Correto/De fato
 
 ## Negação
@@ -34,7 +34,6 @@
 -   `ゆっくり` Vagarosamente/Sem pressa
 -   <font size="5"><code><ruby>初<rt>はじ</rt></ruby>めて</code></font> Pela primeira vez
 -   `ゆっくり` Devagar/Sem pressa
--   `できるだけ` O tanto quanto possível
 -   `つい` Sem querer/Por engano
 -   `うっかり` Descuidadamente
 -   <font size="5"><code><ruby>結<rt>けっ</rt>構<rt>こう</rt></ruby></code></font> Satisfatoriamente/Bastante/Quase sempre
@@ -49,6 +48,9 @@
     -   Usado com frases negativas no primeiro caso.
 -   <font size="5"><code><ruby>別<rt>べつ</rt>々に</ruby></code></font> Separadamente
 -   <font size="5"><code><ruby>普<rt>ふ</rt>通<rt>つう</rt></ruby></code></font> Normalmente/Geralmente
+-   <font size="5"><code><ruby>砕<rt>くだ</rt>けた</ruby><ruby>言<rt>い</rt>い</ruby><ruby>方<rt>かた</rt></ruby></code></font> Casualmente/De maneira informal
+-   `たまたま` Por acaso/Inesperadamente
+    <font size="5"><code><ruby>細<rt>こま</rt></ruby>かく</code></font> Minuciosamente
 
 ## Intensidade/Quantidade
 
@@ -56,10 +58,12 @@
     -   Usado com frases emocionais, como as que indicam agradecimento, desculpas ou arrependimento.
 -   `とても` Muito (Intensidade)
     -   `めっちゃ` Coloquial
--   `なかなか` Consideravelmente
 -   `あまり` Não muito
+    -   `あんまり` Casual
     -   Geralmente usado com frases negativas
     -   Polar inverso de `とても`.
+    -   Significa "mais que" quando usado como sufixo em frases afirmativas.
+-   `なかなか` Consideravelmente
 -   `かなり` Bastante/Consideravelmente
 -   `すごく` Imensamente/Extremamente/Tão (excessivamente)
 -   `たいへん` Muito/Extremamente
@@ -79,7 +83,10 @@
     -   Em frases negativas significa "dificilmente", "quase não", "quase nunca".
 -   <font size="5"><code><ruby>半<rt>はん</rt>分<rt>ぶん</rt></ruby></code></font> Metade
 -   <font size="5"><code><ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby></code></font> Tudo/Totalmente
--   <font size="5"><code><ruby>段<rt>だん</rt>々</ruby></code></font> Gradualmente
+-   <font size="5"><code><ruby>段<rt>だん</rt>々<rt>だん</rt></ruby></code></font> Gradualmente/Pouco a pouco/Cada vez mais
+    -   Indica uma progressão/mudança gradual
+-   `どんどん` Progressivamente/Rapidamente/Continuadamente
+    -   Indica uma progressão/mudança rápida
 
 ## Tempo
 
@@ -137,19 +144,22 @@
 -   `まず` Primeiramente
 -   `はじめに` Primeiramente
 -   `やっと` Por fim/Finalmente
+-   <font size="5"><code><ruby>最<rt>さい</rt>後<rt>ご</rt></ruby>に</code></font> Por último
 
 ## Outros
 
--   `もし` Se
+-   `もし` Se/No caso de/Supondo que
 -   `ひとりで` Sozinho
 -   <font size="5"><code><ruby>一<rt>いっ</rt>緒<rt>しょ</rt></ruby>に</code></font> Juntos
+-   <font size="5"><code><ruby>皆<rt>みな</rt></ruby>で</code></font> Todos juntos
 -   `とちゅう` No caminho
 -   `どうぞ` Gentilmente
     -   Por favor (ao oferecer ou pedir algo)
     -   Vá em frente (ao permitir algo)
     -   Aqui está (ao dar algo para alguém)
--   <font size="5"><code><ruby>他<rt>ほか</rt></ruby>に</code></font> Outro/Além desse
+-   <font size="5"><code><ruby>他<rt>ほか</rt></ruby>に</code></font> Tirando isso/Outro/Além de/Além desse
 -   <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font> E também/Além disso (para acrescentar algo)
+-   <font size="5"><code><ruby>結<rt>けっ</rt>局<rt>きょく</rt></ruby></code></font> Afinal/No fim das contas
 
 ## Auxiliares
 

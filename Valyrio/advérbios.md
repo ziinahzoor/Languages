@@ -14,7 +14,7 @@
 -   `Skorȳso` Por que/Por que/Porque
 -   `Drīvose` Na verdade
 -   `Arlī` De novo
--   `Drējī` Realmente/Verdadeiramente/Muito (Very)
+-   `Drējī` Realmente/Verdadeiramente/Muito (Intensidade)
 -   `Sīr` Agora
     -   "Já", quando usado com verbo no pretérito perfeito.
 -   `Sesīr` Também/Até mesmo

@@ -232,6 +232,9 @@
 </table>
 
 > [!IMPORTANT]
+> As letras que possuem somente duas formas (medial/final, inicial/isolada) não se conectam à próxima letra em uma palavra. Ou seja, "cortam" a palavra.
+
+> [!IMPORTANT]
 > ◆ A segunda forma é utilizada somente no fim de algumas palavras.
 
 > [!IMPORTANT]

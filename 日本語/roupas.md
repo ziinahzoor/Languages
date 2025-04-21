@@ -17,7 +17,7 @@
 -   `シャツ` Camisa
     -   `Tシャツ` Camiseta
     -   `ポロシャツ` Camisa Polo
-    -   `ワイシャツ` Camisa social
+    -   `Ｙシャツ・ワイシャツ` Camisa social
 -   `ブラウス` Blusa
 -   `セーター` Suéter
 -   `パーカー` Moletom

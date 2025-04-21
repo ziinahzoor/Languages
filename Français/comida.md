@@ -12,6 +12,8 @@
 -   `Viande` Carne
     -   `Porc` Carne de porco 🚹
     -   `Bœuf` Bife (carne de vaca)
+    -   `Veau` Vitela 🚹
+-   `Lardon` Bacon
 -   `Pain` Pão
 -   `Fromage` Queijo
 -   `Jambon` Presunto
@@ -21,13 +23,16 @@
 -   `Œuf` Ovo
 -   `Gâteau` Bolo
 -   `Huile` Óleo
+-   `Vinaigre` Vinagre
 -   `Confiture` Geleia
 -   `Yaourt` Iogurte
 -   `Patê` Massa
 -   `Miel` Mel
 -   `Beurre` Manteiga 🚹
 -   `Céréal` Cereal
--   `Bonbon` Doce
+-   `Sucrerie` Doce 🚺
+    -   Qualquer comida doce, como bolos, tortas, doces propriamente ditos, etc.
+-   `Bonbon` Doce/Confeito
 -   `Biscuit` Biscoito
 -   `Crêpe` Crepe 🚺
 -   `Soupe` Sopa
@@ -41,7 +46,7 @@
 -   `Vinaigre` Vinagre
 -   `Saucisse` Salsicha
 -   `Crème` Creme
--   `Purée` Purê/Mingau
+-   `Purée` Purê/Mingau 🚺
 -   `Pain grillé` Torrada 🚹
 -   `Jambon` Presunto
 -   `Bonbon` Doce
@@ -62,7 +67,12 @@
 -   `Sauce` Molho 🚺
 -   `Tarte` Torta
 -   `Cacahuète` Amendoim 🚺
--   `Lardon` Bacon
+-   `Goûter` Lanche/Petisco
+    -   `Gouter` Pós-reforma de 90
+-   `Vanille` Baunilha
+-   `Restes` Sobras 🚹
+-   `Viennoiserie` Confeito 🚺
+-   `Mayonnaise` Maionese
 
 ## Les Légumes - Vegetais
 
@@ -80,6 +90,8 @@
 -   `Épinard` Espinafre
 -   `Maïs` Milho
 -   `Petit pois` Ervilha 🚹
+-   `Chou` Repolho
+-   `Laitue` Alface 🚺
 
 ## Les Fruits - Frutas 🚹
 
@@ -99,6 +111,7 @@
 -   `Mangue` Manga
 -   `Olive` Azeitona
 -   `Ananas` Abacaxi
+-   `Cerise` Cereja
 
 ## Les Boissons - Bebidas
 
@@ -112,6 +125,7 @@
 -   `Jus` Suco
 -   `Café`
 -   `Thé` Chá
+-   `Tisane` Chá de ervas 🚺
 -   `Alcool` Álcool
 -   `Bière` Cerveja
 -   `Lait` Leite

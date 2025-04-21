@@ -40,6 +40,9 @@
 -   `Tigre`
 -   `Girafe` Girafa
 -   `Chèvre` Cabra
+-   `Escargot` Caracol
+-   `Dindon` Peru
+-   `Dinde` Perua
 
 ## Relacionado
 

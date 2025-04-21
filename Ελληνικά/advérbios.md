@@ -63,3 +63,4 @@
 -   `Καθόλου` De jeito nenhum/De forma alguma
 -   `Οπωσδήποτε` De qualquer forma
 -   `Δωρεάν` Grátis/Gratuito/Gratuitamente
+-   `Μόλις` Quase/Acabar de

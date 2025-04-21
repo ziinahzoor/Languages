@@ -58,6 +58,9 @@
 
 ## タメ<ruby>口<rt>ぐち</rt></ruby> - Discurso casual/informal
 
+> [!TIP]
+> Omitir o `だ` ao usar substantivos e adjetivos-な é considerado feminino.
+
 -   Abreviar `です` para `っす`
 -   Abreviar a forma `ている` para `てる`.
 -   Usar `って` ao invés de `は`.

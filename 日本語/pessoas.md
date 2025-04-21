@@ -41,6 +41,7 @@
 ## Relacionais
 
 -   <font size="5"><code><ruby>友<rt>とも</rt>達<rt>だち</rt></ruby></code></font> Amigo
+-   <font size="5"><code><ruby>親<rt>しん</rt>友<rt>ゆう</rt></ruby></code></font> Amigo próximo
 -   `パートナー` Parceiro/Companheiro
 -   `クラスメイト` Colega de classe
 -   `ルームメイト` Colega de quarto
@@ -50,6 +51,7 @@
     -   <font size="5"><code>お<ruby>客<rt>きゃく</rt></ruby>さん</code></font> Sonkeigo
     -   `ゲスト` Convidado (Evento)
 -   <font size="5"><code>きんじょの<ruby>人<rt>ひと</rt></ruby></code></font> Vizinho
+-   <font size="5"><code><ruby>愛<rt>あい</rt>人<rt>じん</rt></ruby></code></font> Amante (extraconjugal)
 
 ## Profissões
 
@@ -65,6 +67,7 @@
     -   <font size="5"><code><ruby>中<rt>ちゅう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante do secundário
     -   <font size="5"><code><ruby>高<rt>こう</rt>校<rt>こう</rt>生<rt>せい</rt></ruby></code></font> Estudante do ensino médio
     -   <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Universitário
+    -   <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt>院<rt>いん</rt>生<rt>せい</rt></ruby></code></font> Pós-graduando
     -   <font size="5"><code><ruby>転<rt>てん</rt>校<rt>こう</rt>生<rt>せい</rt></ruby></code></font> Estudante de transferência
 -   <font size="5"><code><ruby>生<rt>せい</rt>徒<rt>と</rt></ruby></code></font> Pupilo/Aprendiz/Estudante (do fundamental ou médio)
 -   `べんごし` Advogado
@@ -97,6 +100,7 @@
 -   <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt>士<rt>し</rt></ruby></code></font> Contador
 -   `アーティスト` Artista
 -   <font size="5"><code><ruby>漫<rt>まん</rt>画<rt>が</rt>家<rt>か</rt></ruby></code></font> Mangaká
+-   <font size="5"><code><ruby>料<rt>りょう</rt>理<rt>り</rt>人<rt>にん</rt></ruby></code></font> Cozinheiro
 -   `シェフ` Chef/Cozinheiro
 -   `オタク` Otaku/Nerd
 -   `ボス` Chefe (de jogos)
@@ -167,7 +171,8 @@
         -   `叔母` Mais nova que o pai/mãe
 -   `いとこ` Primo
 -   <font size="5"><code><ruby>姪<rt>めい</rt></ruby></code></font> Sobrinha
--   `甥` Sobrinho
+-   <font size="5"><code><ruby>甥<rt>おい</rt></ruby></code></font> Sobrinho
+-   `ホストファミリー` Família anfitriã
 
 ## Conjuntos
 
@@ -183,6 +188,7 @@
 
 -   <font size="5"><code><ruby>神<rt>かみ</rt>様<rt>さま</rt></ruby></code></font> Deus
 -   <font size="5"><code><ruby>地<rt>じ</rt>蔵<rt>ぞう</rt></ruby></code></font> Bodhisattva Kṣitigarbha
+    -   <font size="5"><code>お<ruby>地<rt>じ</rt>蔵<rt>ぞう</rt></ruby>さん</code></font> Teineigo
     -   Bodhisattva que cuida das crianças, viajantes e do submundo.
 
 ## Folclore japonês

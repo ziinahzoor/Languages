@@ -14,6 +14,7 @@
 -   `どうやって` Como/De que maneira
 -   `どういうこと` O que você quer dizer?
 -   `どうしましたか` O que houve?
+-   `どうすれば` O que fazer?
 -   `〜のだ・〜のです` Sufixo para frases explicativas/dar ênfase
     -   `〜んだ・〜んです` Casual
     -   `〜の` Casual e feminino
@@ -23,14 +24,10 @@
 -   `〜ように` Como/Similar a
     -   Se sufixa a verbos na forma de dicionário ou substantivos com `の`.
     -   `〜ような` Adnominal
+    -   Outra forma de fazer o imperativo se usado no fim da frase.
 -   `〜ようだ` Parece.../Como...
     -   Vem de `のよう` "Aparência de".
     -   `みたい` Casual
--   `〜ようになる` Para que/Para chegar ao ponto de
-    -   Indica uma mudança na capacidade ou possibilidade de fazer algo.
--   `〜ようにする` Tentar/Garantir que
-    -   Tem o sentido de fazer um esforço para que algo aconteça
-    -   `〜ように` Outra forma de fazer o imperativo se usado no fim da frase.
 -   `について…` Sobre.../A respeito de...
 -   `…とおり` Como esperado/Como prometido
 -   `ところ` Acabou de.../Está prestes a...
@@ -60,6 +57,17 @@
     -   Não tem uma tradução literal, é usado para indicar que a frase é uma verdade universal ou algo a ser seguido.
 -   `これで` Com isto
 -   <font size="5"><code>どうぞ、お<ruby>先<rt>さき</rt></ruby>に</code></font> Por favor, você primeiro
+-   <font size="5"><code>お<ruby>大事<rt>だいじ</rt></ruby>に</code></font> Cuide-se/Melhoras
+-   `できるだけ` Tanto quanto possível
+-   <font size="5"><code>できるだけ<ruby>早<rt>はや</rt></ruby>く</code></font> O quanto antes
+-   `だけあって` Não é à toa que/Por bom motivo que
+-   <font size="5"><code><ruby>二人<rt>ふたり</rt></ruby>ずつ</code></font> De dois em dois
+-   `まさか` Não acredito!/De jeito nenhum!
+-   `どうなってもいい` Não estou nem aí
+-   `うるさい` Cale a boca
+-   <font size="5"><code><ruby>念<rt>ねん</rt></ruby>のため</code></font> Por via das dúvidas
+-   `かどうか` Se... ou não
+-   <font size="5"><code><ruby>かも知<rt>し</rt></ruby>れない</code></font> Talvez
 
 ## <ruby>相<rt>あい</rt>槌<rt>づち</rt></ruby> - Interjeições de atenção
 

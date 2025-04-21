@@ -25,7 +25,7 @@
 -   <font size="5"><code><ruby>易<rt>やさ</rt></ruby>しい</code></font> Fácil
     -   É mais subjetivo.
 -   <font size="5"><code><ruby>難<rt>むずか</rt></ruby>しい</code></font> Difícil/Complexo
-    -   Se refere à dificuldade intrínseca de algo, a complexidade.
+    -   Se refere à dificuldade (intelectual ou técnica) intrínseca de algo, à complexidade.
 -   <font size="5"><code><ruby>悪<rt>わる</rt></ruby>い</code></font> Ruim
 -   `うすい` Magro
 -   `おいしい` Gostoso
@@ -50,13 +50,16 @@
 -   <font size="5"><code><ruby>忙<rt>いそが</rt>しい</ruby></code></font> Ocupado
 -   <font size="5"><code><ruby>頭<rt>あたま</rt></ruby>がいい</code></font> Inteligente
     -   Adjetivo `いい`
+-   <font size="5"><code><ruby>頭<rt>あたま</rt></ruby>がおかしい</code></font> Louco
 -   <font size="5"><code><ruby>若<rt>わか</rt></ruby>い</code></font> Jovem
 -   <font size="5"><code><ruby>新<rt>あたら</rt></ruby>しい</code></font> Novo
 -   <font size="5"><code><ruby>古<rt>ふる</rt></ruby>い</code></font> Velho
 -   <font size="5"><code><ruby>高<rt>たか</rt></ruby>い</code></font> Caro/Alto
-    -   <font size="5"><code><ruby>背<rt>せ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い</code></font> Alto (pessoa)
+    -   <font size="5"><code><ruby>背<rt>せ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い</code></font> Alto
+        -   É mais utilizado para se referir à altura do que somente `高い`.
 -   <font size="5"><code><ruby>安<rt>やす</rt></ruby>い</code></font> Barato
 -   <font size="5"><code><ruby>低<rt>ひく</rt></ruby>い</code></font> Baixo
+    -   <font size="5"><code><ruby>背<rt>せ</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>い</code></font> Baixo (pessoa)
 -   <font size="5"><code><ruby>広<rt>ひろ</rt></ruby>い</code></font> Largo/Espaçoso/Vasto
 -   <font size="5"><code><ruby>狭<rt>せま</rt></ruby>い</code></font> Estreito/Apertado
 -   <font size="5"><code><ruby>速<rt>はや</rt></ruby>い</code></font> Rápido
@@ -73,7 +76,7 @@
 -   <font size="5"><code><ruby>暖<rt>あたた</rt>かい</ruby></code></font> Morno/Quentinho (Clima, Sensação)
     -   <font size="5"><code><ruby>温<rt>あたた</rt>かい</ruby></code></font> Coisas
 -   `ぬるい` Morno/Em temperatura ambiente
--   <font size="5"><code><ruby>太<rt>ふと</rt></ruby>い</code></font> Grosso (diâmetro)
+-   <font size="5"><code><ruby>太<rt>ふと</rt></ruby>い</code></font> Grosso (diâmetro, voz)/Profundo (voz)
 -   <font size="5"><code><ruby>細<rt>ほそ</rt></ruby>い</code></font> Fino (diâmetro)
 -   <font size="5"><code><ruby>厚<rt>あつ</rt></ruby>い</code></font> Grosso (camada)
 -   <font size="5"><code><ruby>薄<rt>うす</rt></ruby>い</code></font> Fino (camada)/Sem graça (sabor)/Diluído
@@ -122,6 +125,7 @@
 -   <font size="5"><code><ruby>素<rt>す</rt>晴<rt>ば</rt></ruby>らしい</code></font> Maravilhoso/Fantástico/Magnífico
 -   <font size="5"><code><ruby>浅<rt>あさ</rt></ruby>い</code></font> Raso/Superficial
 -   <font size="5"><code><ruby>深<rt>ふか</rt></ruby>い</code></font> Fundo/Profundo
+-   <font size="5"><code><ruby>細<rt>こま</rt></ruby>かい</code></font> Delicado/Minucioso/Fino
 
 ## <ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos な
 
@@ -139,6 +143,9 @@
     -   `だいすき` Amável
 -   <font size="5"><code><ruby>色<rt>いろ</rt>々</ruby></code></font> Diversos/Vários/Todo tipo
 -   <font size="5"><code><ruby>大<rt>たい</rt>変<rt>へん</rt></ruby></code></font> Problemático/Complicado/Difícil/Muito (Extremamante)
+    -   Mais relacionado ao esforço físico ou emocional.
+-   <font size="5"><code><ruby>簡<rt>かん</rt>単<rt>たん</rt></ruby></code></font> Simples/Fácil/Descomplicado
+    -   É mais objetivo.
 -   <font size="5"><code><ruby>便<rt>べん</rt>利<rt>り</rt></ruby></code></font> Conveniente/Útil
 -   `ふべん` Inconveniente
 -   <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しみ</code></font> Ansioso (de antecipação)
@@ -154,7 +161,7 @@
 -   <font size="5"><code><ruby>同<rt>おな</rt></ruby>じ</code></font> O mesmo/Idêntico
     -   Geralmente é usado como prenomial, portanto não usa o `な`.
 -   <font size="5"><code><ruby>立<rt>りっ</rt>派<rt>ぱ</rt></ruby></code></font> Esplêndido
--   `しんせん` Fresco
+-   <font size="5"><code><ruby>新<rt>しん</rt>鮮<rt>せん</rt></ruby></code></font> Fresco
 -   `かいてき` Confortável
 -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby></code></font> Verdadeiro
 -   `さいあく` Horrível/O pior
@@ -171,16 +178,16 @@
     -   Também é muito usado para recusar coisas.
 -   <font size="5"><code><ruby>大<rt>たい</rt>切<rt>せつ</rt></ruby></code></font> Importante (Mais subjetivo)/Precioso
 -   <font size="5"><code><ruby>大<rt>だい</rt>事<rt>じ</rt></ruby></code></font> Importante (Mais objetivo)/Relevante
--   <font size="5"><code><ruby>簡<rt>かん</rt>単<rt>たん</rt></ruby></code></font> Simples/Fácil/Descomplicado
-    -   É mais objetivo.
 -   <font size="5"><code><ruby>暇<rt>ひま</rt></ruby></code></font> Livre/Desocupado
 -   <font size="5"><code><ruby>嫌<rt>いや</rt></ruby></code></font> Desgostável/Não querível/Relutante
     -   É mais utilizado com situações.
 -   <font size="5"><code><ruby>上手<rt>じょうず</rt></ruby></code></font> Hábil/Habilidoso/Bom em
     -   `うまい` Casual `い`
+    -   É mais objetivo.
     -   Não pode ser usado para falar de si mesmo.
 -   <font size="5"><code><ruby>得<rt>とく</rt>意<rt>い</rt></ruby></code></font> Hábil/Habilidoso/Bom em
     -   Kenjougo
+    -   É mais subjetivo.
     -   Pode ser usado para falar de si e dos outros, mas não é preferível ao falar sobre a habilidade da pessoa com quem se fala, sendo mais usado pra terceiros.
 -   <font size="5"><code><ruby>下手<rt>へた</rt></ruby></code></font> Inábil/Ruim em
     -   Se refere somente à habilidade, sem nenhum sentimento pessoal.
@@ -220,8 +227,13 @@
 -   `〜っぽい` Parecido/Semelhante/Tipo (-ish)
     -   Tem uma nuance mais negativa que `らしい`
     -   É um adjetivo auxiliar, portanto deve ser usado somente de forma atributiva.
+-   `〜やすい` Fácil de/Propenso a
+    -   Usado com o radical `い` de verbos.
 -   `〜にくい` Difícil de
     -   Usado com o radical `い` de verbos.
+-   `〜づらい` Difícil de
+    -   Usado com o radical `い` de verbos.
+    -   Se refere a uma ação em que se sente inconfortável ao realizar.
 -   `〜みたい` Parecido
     -   É um adjetivo `な`.
     -   Geralmente usado como sufixo de substantivos e adjetivos.

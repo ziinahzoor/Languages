@@ -2,6 +2,10 @@
 
 **<font size="5"><code><ruby>所<rt>ところ</rt></ruby></code></font> também pode ser "área"**.
 
+> [!IMPORTANT]
+> A palavra <font size="5"><code><ruby>所<rt>ところ</rt></ruby></code></font> na verdade possui um sentido bem mais amplo. Pode englobar conceitos bem mais figurativos, como "parte" ou "aspecto" (da personalidade de alguém por exemplo), ou até mesmo temporais como "estar prestes a" quando usado após um verbo no presente, "agora mesmo" na forma progressiva ou "acabar de" no passado.
+> Nos últimos casos também pode ser abreviado coloquialmente para `とこ`.
+
 **<font size="5"><code><ruby>場<rt>ば</rt>所<rt>しょ</rt></ruby></code></font> também significa "lugar", mas é mais específico que 所**
 
 **Para indicar uma loja que vende alguma coisa, é só adicionar o sufixo <font size="5"><code><ruby>屋<rt>や</rt></ruby></code></font>. Ex.: <font size="5"><code>ぴざ<ruby>屋<rt>や</rt></ruby></code></font> "pizzaria". Para outras instituições públicas ou formais se usa <font size="5"><code><ruby>館<rt>かん</rt></ruby></code></font>.**
@@ -43,6 +47,7 @@
 -   `レストラン` Restaurante
     -   `ファミレス` Restaurante de família/Restaurante casual
 -   `キャンプ` Campo
+-   <font size="5"><code><ruby>飛<rt>ひ</rt>行<rt>こう</rt>場<rt>じょう</rt></ruby></code></font> Aeródromo
 -   <font size="5"><code><ruby>空<rt>くう</rt>港<rt>こう</rt></ruby></code></font> Aeroporto
 -   <font size="5"><code><ruby>都<rt>と</rt>市<rt>し</rt></ruby></code></font> Cidade (City)
     -   <font size="5"><code><ruby>都<rt>と</rt>会<rt>かい</rt></ruby></code></font> Cidade urbana/Metrópole
@@ -98,7 +103,7 @@
 -   `りょう` Dormitório
 -   <font size="5"><code><ruby>片<rt>かた</rt>隅<rt>すみ</rt></ruby></code></font> Canto (lugar longe do centro)
 -   <font size="5"><code><ruby>隅<rt>すみ</rt></ruby></code></font> Canto (interno)
--   <font size="5"><code><ruby>角<rt>かど</rt></ruby></code></font> Canto (externo)
+-   <font size="5"><code><ruby>角<rt>かど</rt></ruby></code></font> Esquina/Canto (externo)
 -   <font size="5"><code><ruby>中<rt>なか</rt></ruby></code></font> Interior
 -   <font size="5"><code><ruby>外<rt>そと</rt></ruby></code></font> Exterior/Ar livre
 -   `ちゅうかがい` Chinatown
@@ -126,7 +131,8 @@
 -   `オフィス` Escritório
 -   <font size="5"><code><ruby>旅<rt>りょ</rt>館<rt>かん</rt></ruby></code></font> Estalagem japonesa
 -   `クリニック` Clínica
--   `やっきょく` Farmácia
+-   <font size="5"><code><ruby>薬<rt>やっ</rt>局<rt>きょく</rt></ruby></code></font> Farmácia
+    -   <font size="5"><code><ruby>薬<rt>くすり</rt>屋<rt>や</rt></ruby></code></font> Alternativa
 -   `こうがい` Subúrbio
 -   `おばけやしき` Casa assombrada
 -   `ゲームセンター` Fliperama
@@ -141,6 +147,9 @@
 -   <font size="5"><code><ruby>大<rt>たい</rt>使<rt>し</rt>館<rt>かん</rt></ruby></code></font> Embaixada
 -   <font size="5"><code><ruby>山<rt>やま</rt>道<rt>みち</rt></ruby></code></font> Trilha (montanhosa)
 -   <font size="5"><code><ruby>売<rt>ばい</rt>店<rt>てん</rt></ruby></code></font> Estande/Quiosque/Barraca
+-   <font size="5"><code><ruby>改<rt>かい</rt>札<rt>さつ</rt></ruby></code></font> Bilheteria (de passagens)
+-   <font size="5"><code><ruby>切<rt>きっ</rt>符<rt>ぷ</rt>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby></code></font> Bilheteria (de ingressos)
+-   `アウトドア` Ar livre
 
 ## <ruby>親<rt>しん</rt>戚<rt>せき</rt>所<rt>ところ</rt></ruby> - Lugares Relativos
 
@@ -150,12 +159,14 @@
     -   Expressa tudo que se está ao lado numa "linha horizontal".
 -   <font size="5"><code><ruby>側<rt>そば</rt></ruby></code></font> Próximo/Proximidade
     -   Expressa tudo que se está ao redor.
--   `まわり` Arredor/Arredores
+-   <font size="5"><code><ruby>周<rt>まわ</rt></ruby>り</code></font> Arredor/Arredores
 -   <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Frente/Face
     -   Não precisa de partícula para se ligar a um verbo.
 -   <font size="5"><code><ruby>先<rt>さき</rt></ruby></code></font> Depois de/Na frente de/Em frente
     -   É mais abstrato que `前`, não indica uma posição específica, e sim uma direção.
 -   <font size="5"><code><ruby>後<rt>うし</rt>ろ</ruby></code></font> Atrás/Detrás
+-   <font size="5"><code><ruby>前<rt>ぜん</rt>後<rt>ご</rt></ruby></code></font> Frente e trás
+-   <font size="5"><code><ruby>奥<rt>おく</rt></ruby></code></font> Fundos/Interior
 -   `まんなか` Meio
 -   <font size="5"><code><ruby>向<rt>む</rt></ruby>こう</code></font> Do outro lado
 -   <font size="5"><code><ruby>間<rt>あいだ</rt></ruby></code></font> Espaço entre/Abertura/Brecha/Meio de
@@ -211,6 +222,11 @@
         <td><font size="5"><ruby>南<rt>なん</rt>東<rt>とう</rt></ruby></font></td>
     </tr>
 </table>
+
+-   <font size="5"><code><ruby>東<rt>とう</rt>西<rt>ざい</rt>南<rt>なん</rt>北<rt>ぼく</rt></ruby></code></font> As quatro direções
+
+> [!TIP]
+> Em direções compostas (ex.: `南西`), as direções verticais costumam vir na frente em contextos científicos, mas geralmente as horizontais aparecem primeiro em nomes de lugares.
 
 ## <ruby>家<rt>いえ</rt></ruby> - Casa
 

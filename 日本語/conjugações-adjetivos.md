@@ -61,22 +61,28 @@
 
 **Também conhecidos como adjetivos nominais ou substantivos-adjetivo por serem sintaticamente substantivos.**
 
-**Necessitam do sufixo `な` para se ligar a substantivos (forma atributiva). Essa é a forma conectiva de `だ`.**
+**Necessitam do "sufixo" `な` para se ligar a substantivos (forma atributiva). Essa é a forma conectiva de `だ`.**
 
 -   Como funcionam como substantivos, o `な` é como uma substituição da partícula `の`.
--   Às vezes `の` é utilizado com adjetivos. `の` categoriza um substantivo, enquanto `な` descreve um substantivo
+-   Às vezes `の` é utilizado com estes adjetivos. `の` categoriza um substantivo, enquanto `な` descreve um substantivo.
+    -   Na maioria dos casos não soa natural e deve ser evitado, utilizando algum substantivo no lugar.
 -   Com exceção de `嫌い`, todos os que terminam em `い` não possuem okurigana.
 
-**Não são flexionados como os `い`, dependendo de outras palavras para indicar o modo e o tempo. Geralmente são usadas as conjugações de `です`.**
+**Não são flexionados como os `い`, dependendo da cópula para indicar o modo e o tempo.**
 
 > [!TIP]
 > A maioria dos adjetivos-な são palavras de origem estrangeira (em maior parte chinesa e inglesa).
 
-## ト・タル<ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos `たる`
+> [!NOTE]
+> O `な` é outra forma conectiva de `だ`, portanto não é utilizada junto com `で`.
 
-**São exatamente como os adjetivos nominais, porém terminam em `たる` ao invés de `な`. Caíram em desuso e só são encontrados em alguns casos fósseis.**
+## ノ・ナル<ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby>とト・タル<ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos `なる` e `たる`
 
--   Sua forma conectiva/adverbial usa `と` ao invés de `に`.
+**São exatamente como os adjetivos nominais, porém terminam em `なる・たる` ao invés de `な`. Caíram em desuso e só são encontrados em alguns casos fósseis, ou para dar um tom mais antiquado ao discurso.**
+
+-   São contrações de `のある` e `とある`.
+    -   A forma conectiva/adverbial de `たる` usa `と` ao invés de `に`.
+    -   A nuance é que em `なる` o verbo `ある` é realizado pelo adjetivo nominal, enquanto que em `たる`, o verbo `ある` é realizado pelo substantivo ao qual ele descreve.
 -   Devem modificar um substantivo ou verbo, não podendo ser utilizados de forma predicativa, nem mesmo se ligar à cópula.
 
 ## <ruby>連<rt>れん</rt>体<rt>たい</rt>詞<rt>し</rt></ruby> - Adjetivos adnominais
@@ -146,6 +152,8 @@
 
 -   Também é chamada conjuntiva ou continuativa pois permite o adjetivo se conectar com outros elementos, como a forma て e a forma negativa.
 -   A forma adverbial também costuma ser utilizada para tratar alguns adjetivos como substantivos no português (de certa forma como preposições). Ex: `遅く` "tarde" (literalmente "tardemente"), `近く` "perto" (literalmente "pertamente").
+-   Outro uso é `〜くは…ない` para dizer que algo não é necessariamente ou particularmente o adjetivo.
+    -   Note que de forma positiva, é mais comum utilizar `必ず` do que esta construção.
 
 ### Forma て
 

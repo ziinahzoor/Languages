@@ -65,6 +65,7 @@
     -   O verbo `する` é o "pai" dos transitivos e o verbo `ある` é a "mãe" dos intransitivos.
     -   Verbos terminados em `す` e `せる` são transitivos.
     -   Verbos terminados em radical `あ` + `る` são intransitivos.
+    -   Verbos terminados em radical `え` + `る` costumam ser transitivos.
     -   Nos outros casos, para achar o verbo complementar, basta usar o radical `え` + `る`.
 -   O não-passado geralmente se refere ao futuro ao invés do presente.
 
@@ -118,6 +119,9 @@
 
 > [!IMPORTANT]
 > ◆ Usa a forma た do verbo.
+
+> [!NOTE]
+> A forma do não-passado é chamada <font size="5"><code><ruby>現<rt>げん</rt>在<rt>ざい</rt>形<rt>けい</rt></ruby></code></font> e a forma do passado é chamada <font size="5"><code><ruby>過<rt>か</rt>去<rt>こ</rt>形<rt>けい</rt></ruby></code></font>.
 
 ---
 
@@ -262,6 +266,8 @@
 -   Exceções:
     -   `〜ない` → `〜なければ` (Reduzido coloquialmente para `なきゃ`, `なけりゃ` (mais masculino) ou `なくちゃ`)
 -   Torna a ação do verbo uma condição para o que vem a seguir na frase. Ex.: `見れば分かる` "Se você ver, você vai entender"
+-   É utilizado para verdades universais, hábitos "sempre que...".
+-   Para o futuro, é comumente usado com `だろう・でしょう`.
 
 <h3 id="var_potencial"><ruby>可<rt>か</rt>能<rt>のう</rt>形<rt>けい</rt></ruby> - Forma potencial</h3>
 
@@ -319,14 +325,27 @@
     -   É mais voltada pro desejo do locutor do que a forma negativa + `か`, que é mais voltada pro desejo do ouvinte.
 -   Pode ser utilizado com o auxiliar `ます`, se tornando `ましょう`.
     -   Quando usado com a partícula interrogativa `か` ou um tom interrogativo geralmente indica proatividade e intenção de realizar alguma ação, como "Devo...?" ou "Devemos...?".
--   Para `だ` é `だろう` e `です` é `でしょう`.
-    -   Tem a função de supor, especular ou conjecturar, como "eu acho que" ou "pode ser que".
-    -   Geralmente indica a possibilidade de algo ou que algo parece acontecer. Indica que tudo leva a crer que algo é verdade.
-    -   `だろう` pode ser abreviado para `だろ`, e `でしょう` para `でしょ`.
-    -   É volitivo pois sugere a opinião de quem fala, dizendo o que tem a intenção de acontecer.
 -   Exceções:
     -   `〜ます` → `〜ましょう`
     -   `〜ない` → `〜なかろう`
+
+<h4>だろう・でしょう</h4>
+
+-   São as formas volicionais de `だ` e `です`.
+-   Tem a função de supor, especular ou conjecturar, como "eu acho que" ou "pode ser que". A tradução mais utilizada é "provavelmente".
+    -   Ou seja, é como o verbo "poder" com o sentido de possibilidade, inclusive significando "poderia...?" em perguntas.
+-   Indica a possibilidade de algo ou que algo parece acontecer. Indica que tudo leva a crer que algo é verdade.
+-   Também pode ser utilizado para confirmações, como a partícula `ね`. Porém, é mais utilizado para confirmar fatos do que para expressar um sentimento mútuo.
+-   `だろう` pode ser abreviado para `だろ`, e `でしょう` para `でしょ`.
+
+> [!TIP]
+> Tem um sentido parecido ao futuro do pretérito em português.
+
+> [!IMPORTANT]
+> Verbo + `う` é diferente de Verbo + `だろう`. Ex.: `みんな、行こう` "Pessoal, vamos!" é diferente de `みんな行くだろう` "Todos poderão ir/Todos possivelmente vão".
+
+> [!NOTE]
+> É volitivo pois sugere a opinião de quem fala, dizendo o que tem a intenção de acontecer. Deriva da ideia de "que aconteça" do volitivo: "que aconteça de ser assim" → "provavelmente".
 
 ---
 
@@ -392,6 +411,7 @@
     -   No negativo, basta substituir `ある` por `ない` (sua forma negativa).
 -   A forma た pode ser utilizada com <font size="5"><code><ruby>方<rt>ほう</rt></ruby>がいい</code></font> para aconselhar decisões. Ex.: "seria melhor se...", "você deveria...".
     -   No negativo, usa-se somente a forma negativa do verbo, sem a necessidade da forma た.
+-   A forma た pode ser utilizada com `ら`, formando a partícula `たら`, usada para formar condicionais no passado. Ex.: "Quando..., ..."
 
 <h3 id="var_forma-te">て<ruby>形<rt>けい</rt></ruby> - Forma て</h3>
 
@@ -438,6 +458,7 @@
 
 #### こと
 
+-   Representa de forma abstrata a "ideia de" algo.
 -   Quase sempre usado para frases terminadas em verbos.
     -   `だ`, `です` e `である` estão inclusos, para que não haja confusão com a forma explicativa.
 -   Quando usado com frases terminadas em adjetivos e substantivos, tem um senso de observar as coisas de um ponto de vista mais abstrato, menos urgente que o imediatismo de `の`.
@@ -458,6 +479,16 @@
 -   Sentido de algo "se tornar".
     -   O verbo se liga diretamente (sem a partícula) com adjetivos-い, se tornando `くなる`.
 
+##### ようになる
+
+-   Para que/Para chegar ao ponto de/Se tornar capaz de
+-   Indica uma mudança na capacidade ou possibilidade de fazer algo.
+
+##### ことになる
+
+-   Algo foi decidido sobre uma situação. "Foi decidido que..."
+-   Mais literalmente, algo se tornou a situação.
+
 #### にする
 
 -   Contraparte transitiva (e causativa) do verbo `なる`.
@@ -467,10 +498,14 @@
 -   Quando usado com substantivos significa "decidir sobre algo".
     -   Em um sentido que tem-se controle do resultado, em que a escolha pode ser feita arbitrariamente, não dependendo de uma limitação.
 
+##### ようにする
+
+-   Tentar/Garantir que
+-   Tem o sentido de fazer um esforço para que algo aconteça
+
 ##### ことにする
 
 -   Decidir realizar alguma coisa.
--   Usado com verbos.
 
 #### とする
 

@@ -1,5 +1,6 @@
 # <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby> - Comida
 
+-   <font size="5"><code><ruby>材<rt>ざい</rt>料<rt>りょう</rt></ruby></code></font> Ingrediente
 -   `まっちゃ` Broto de chá verde
 -   <font size="5"><code>ご<ruby>飯<rt>はん</rt></ruby></code></font> Arroz/Refeição
     -   `チャーハン` Arroz frito
@@ -102,16 +103,19 @@
 ## <ruby>野<rt>や</rt>菜<rt>さい</rt></ruby> Vegetais
 
 -   `キャベツ` Repolho
--   <font size="5"><code><ruby>豆<rt>まめ</rt></ruby></code></font> Feijão/Ervilha (Grão)
+-   <font size="5"><code><ruby>豆<rt>まめ</rt></ruby></code></font> Legume
+    -   Geralmente grãos como feijão ou ervilha.
+-   <font size="5"><code><ruby>大<rt>だい</rt>豆<rt>ず</rt></ruby></code></font> Soja
 -   `ブロッコリー` Brócolis
 -   `レタス` Alface
 -   `きゅうり` Pepino
 -   `かぶ` Nabo
 -   `かぼちゃ` Abóbora
--   `たまねぎ` Cebola
+-   <font size="5"><code><ruby>玉<rt>たま</rt></ruby>ねぎ</code></font> Cebola
+-   `にんにく` Alho
 -   `じゃがいも` Batata
 -   `さつまいも` Batata-doce
--   `にんじん` Cenoura
+-   <font size="5"><code><ruby>人<rt>にん</rt>参<rt>じん</rt></ruby></code></font> Cenoura
 -   `ネギ` Cebolinha
 
 ## <font size="5"><code><ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby></code></font> Bebidas
@@ -127,8 +131,9 @@
 -   `コーヒー` Café
     -   `カプチーノ` Cappuccino
 -   `ココア` Chocolate quente
--   <font size="5"><code><ruby>牛乳<rt>ぎゅうにゅう</rt></ruby></code></font> Leite de vaca
+-   <font size="5"><code><ruby>牛<rt>ぎゅう</rt>乳<rt>にゅう</rt></ruby></code></font> Leite de vaca
     -   `ミルク`
+-   <font size="5"><code><ruby>豆<rt>とう</rt>乳<rt>にゅう</rt></ruby></code></font> Leite de soja
 -   `コーラ` Cola
 -   `ビール` Cerveja
 -   `ワイン` Vinho
@@ -211,7 +216,11 @@
     -   Geralmente escrito em kana.
     -   Arroz branco em formato triangular com a base envolta por nori.
 -   <font size="5"><code><ruby>餅<rt>もち</rt></ruby></code></font> Mochi/Bolinho de arroz
-    -   もち米 (arroz pegajoso) transformado em pasta e moldado com água, açúcar e amido de milho.
+    -   もち米 (arroz glutinoso) transformado em pasta e moldado com água, açúcar e amido de milho.
+-   <font size="5"><code><ruby>団<rt>だん</rt>子<rt>ご</rt></ruby></code></font> Dango/Bolinho de arroz
+    -   Bolinho feito de farinha de arroz (pode ser glutinoso) e água.
+-   `せんべい` Sembei/Bolachas de arroz
+    -   Geralmente salgadas e feitas de arroz.
 -   <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt></ruby></code></font> Miso
     -   Pasta de soja fermentada com sal, fungo koji e ingredientes opcionais.
 -   <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt>汁<rt>しる</rt></ruby></code></font> Sopa miso
@@ -271,3 +280,8 @@
 -   <font size="5"><code><ruby>揚<rt>あ</rt></ruby>げ<ruby>物<rt>もの</rt></ruby></code></font> Comida frita
 -   `ファストフード` Fast-food
 -   `おせち` Comida de Ano Novo
+-   `ハラルフード` Halal
+
+## Relacionado
+
+-   <font size="5"><code><ruby>賞<rt>しょう</rt>味<rt>み</rt>期<rt>き</rt>限<rt>げん</rt></ruby></code></font> Data de validade

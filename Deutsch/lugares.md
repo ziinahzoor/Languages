@@ -2,11 +2,13 @@
 
 ## Países
 
--   `Deutschland` Alemanha
--   `Amerika` América
--   `Frankreich` França
--   `Österreich` Áustria
--   `Kanada` Canadá
+-   `Deutschland` Alemanha ✴️
+-   `Amerika` América ✴️
+-   `Frankreich` França ✴️
+-   `Österreich` Áustria ✴️
+-   `Kanada` Canadá ✴️
+-   `Russland` Rússia ✴️
+-   `Schweden` Suécia ✴️
 
 ## Outros
 

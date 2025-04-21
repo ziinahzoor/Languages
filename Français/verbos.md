@@ -143,6 +143,7 @@
 -   `Passer` Passar
     -   `Se passer` Acontecer
     -   `Passer un examen` Fazer uma prova
+    -   `Passer chez` Passar na casa
 -   `Plonger` Mergulhar
     -   `Faire de la plongée`
 -   `Nettoyer` Limpar
