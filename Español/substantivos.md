@@ -24,6 +24,10 @@
 -   `Niebla` Névoa
 -   `Aire` Ar
 -   `Humo` Fumaça 🚹
+-   `Rosa`
+-   `Terremoto`
+-   `Suelo` Solo
+-   `Polvo` Pó
 
 ### Materiais
 
@@ -44,6 +48,7 @@
 -   `Taza` Xícara
 -   `Vaso` Copo
 -   `Copa` Taça
+-   `Florero` Vaso
 -   `Tazón` Tigela/Caneca
 -   `Plato` Prato
 -   `Cuchara` Colher
@@ -172,6 +177,11 @@
 -   `Cable` Cabo
 -   `Antibiótico`
 -   `Microondas` Micro-ondas
+-   `Fuente` Fonte
+-   `Buzón` Caixa de correio 🚹
+-   `Documento de identidad` Documento de identidade
+-   `Visa` Visto 🚺
+-   `Currículum` Currículo
 
 ## Abstratos
 
@@ -356,6 +366,9 @@
 -   `Mezcla` Mistura
 -   `Receta` Receita
 -   `Sabor`
+-   `Marca`
+-   `Tamaño` Tamanho
+-   `Salario` Salário
 
 ### Medidas
 
@@ -445,8 +458,9 @@
 -   `Blog`
 -   `Paseo` Passeio
 -   `Traducción` Tradução
--   `Marca`
--   `Tamaño` Tamanho
+-   `Entrevista`
+-   `Presentación` Apresentação
+-   `Evento`
 
 ### Compras
 

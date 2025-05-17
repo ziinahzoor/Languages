@@ -238,6 +238,7 @@
 -   `Função de limitação negativa`: Só/Somente
     -   Indica condescendência, desagrado.
     -   É utilizado apenas com frases negativas.
+    -   Diferente de `だけ`, que indica uma opção dentre várias, esta indica que sempre houve somente uma opção.
 
 ### ばかり
 

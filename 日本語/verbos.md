@@ -213,12 +213,16 @@
 -   <font size="5"><code><ruby>残<rt>のこ</rt></ruby>る</code></font> Restar/Sobrar
 -   <font size="5"><code><ruby>黙<rt>だま</rt></ruby>る</code></font> Calar-se
 -   <font size="5"><code><ruby>釣<rt>つ</rt></ruby>る</code></font> Pescar
--   <font size="5"><code><ruby>移<rt>うつ</rt></ruby>る</code></font> Mudar/Transferir
+-   <font size="5"><code><ruby>移<rt>うつ</rt></ruby>る</code></font> Mudar-se/Transferir-se
 -   <font size="5"><code><ruby>決<rt>き</rt></ruby>まる</code></font> Estar decidido/Estar definido
 -   `サボる` Enrolar/Procrastinar/Furar um compromisso
     -   Matar aula, faltar ao trabalho, etc.
 -   <font size="5"><code><ruby>遅<rt>おそ</rt></ruby>くなる</code></font> Estar atrasado
 -   <font size="5"><code><ruby>腐<rt>くさ</rt></ruby>る</code></font> Apodrecer/Passar da validade
+-   <font size="5"><code><ruby>変<rt>か</rt></ruby>わる</code></font> Mudar/Transformar-se (I)
+-   <font size="5"><code><ruby>計<rt>はか</rt></ruby>る</code></font> Medir (Quantidades e coisas em geral)
+-   <font size="5"><code><ruby>量<rt>はか</rt></ruby>る</code></font> Medir/Pesar (Tridimensionalmente)
+-   <font size="5"><code><ruby>測<rt>はか</rt></ruby>る</code></font> Medir (Distâncias e áreas)
 
 ### う
 
@@ -424,6 +428,7 @@
 -   <font size="5"><code><ruby>落<rt>お</rt></ruby>ちる</code></font> Derrubar/Derramar/Deixar cair (I)
 -   <font size="5"><code><ruby>閉<rt>と</rt></ruby>じる</code></font> Fechar/Tapar
     -   Usado para olhos, livros, contas, reuniões, etc.
+-   <font size="5"><code><ruby>生<rt>しょう</rt></ruby>じる</code></font> Surgir
 
 ### <ruby>下<rt>しも</rt>一<rt>いち</rt>段<rt>だん</rt></ruby>
 
@@ -507,6 +512,7 @@
 -   <font size="5"><code><ruby>体<rt>からだ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつける</code></font> Cuidar-se
 -   <font size="5"><code><ruby>咳<rt>せき</rt></ruby>が<ruby>出<rt>で</rt></ruby>る</code></font> Tossir
 -   <font size="5"><code><ruby>混<rt>ま</rt></ruby>ぜる</code></font> Misturar/Mexer
+-   <font size="5"><code><ruby>比<rt>くら</rt></ruby>べる</code></font> Comparar
 
 ## Verbos する
 
@@ -558,7 +564,7 @@
 -   <font size="5"><code><ruby>愛<rt>あい</rt></ruby></code></font> Amar
 -   <font size="5"><code><ruby>一<rt>いっ</rt>周<rt>しゅう</rt></ruby></code></font> Dar uma volta
 -   <font size="5"><code><ruby>通<rt>つう</rt>知<rt>ち</rt></ruby></code></font> Avisar/Notificar
--   <font size="5"><code><ruby>変<rt>へん</rt>更<rt>こう</rt></ruby></code></font> Mudar/Modificar/Alterar
+-   <font size="5"><code><ruby>変<rt>へん</rt>更<rt>こう</rt></ruby></code></font> Mudar/Modificar/Alterar (Intencionalmente)
 -   <font size="5"><code><ruby>配<rt>はい</rt>達<rt>たつ</rt></ruby></code></font> Entregar (transportar um item)
     -   Tem a nuance de usar um serviço de entregas.
 -   <font size="5"><code><ruby>話<rt>はなし</rt></ruby></code></font> Ter uma conversa/Contar uma história
@@ -587,3 +593,9 @@
     -   <font size="5"><code>ご<ruby>馳<rt>ち</rt>走<rt>そう</rt></ruby></code></font> Teineigo
 -   `びっくり` Surpreender-se
 -   `おしゃべり` Bater papo
+-   <font size="5"><code><ruby>調<rt>しら</rt></ruby>べ</code></font> Investigar/Examinar
+-   <font size="5"><code><ruby>研<rt>けん</rt>究<rt>きゅう</rt></ruby></code></font> Pesquisar
+-   <font size="5"><code><ruby>用<rt>よう</rt>意<rt>い</rt></ruby></code></font> Preparar
+    -   Usado com `できる`.
+-   <font size="5"><code><ruby>実<rt>じっ</rt>験<rt>けん</rt></ruby></code></font> Fazer experimento
+-   <font size="5"><code><ruby>変<rt>へん</rt>化<rt>か</rt></ruby></code></font> Variar

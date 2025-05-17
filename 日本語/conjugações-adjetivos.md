@@ -155,6 +155,9 @@
 -   Outro uso é `〜くは…ない` para dizer que algo não é necessariamente ou particularmente o adjetivo.
     -   Note que de forma positiva, é mais comum utilizar `必ず` do que esta construção.
 
+> [!NOTE]
+> Quando a forma adverbial se liga à `ない`, é comum inserir a partícula `は` entre os dois para ênfase.
+
 ### Forma て
 
 -   A forma `て` conecta dois estados, como um "e". - Pode ligar tanto adjetivos quanto orações. - A forma continuativa `く` faz a mesma coisa de maneira mais honorífica e intrínseca, sem poder ligar dois estados ou frases desconexos, enquanto a anterior pode.

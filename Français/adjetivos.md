@@ -188,6 +188,9 @@
 -   `Privé` Privado
 -   `Serré` Apertado
 -   `Nature` Simples/Puro
+-   `Ordinaire` Ordinário
+-   `Énervant` Irritante
+-   `Indispensable` Indispensável
 
 ### Personalidade
 

@@ -96,7 +96,7 @@
 
 -   [`[c]`](https://upload.wikimedia.org/wikipedia/commons/5/5d/Voiceless_palatal_plosive.ogg 'Oclusiva palatal surda') Um "ky". Ex.: "<span style="color:#ea00d9">qu</span>iabo". Ex. (Francês): "<span style="color:#ea00d9">qu</span>i".
     -   `c̟/t̠ʲ` Oclusiva alvéolo-palatal surda
--   [`[ç]`](https://upload.wikimedia.org/wikipedia/commons/a/ab/Voiceless_palatal_fricative.ogg 'Fricativa palatal surda') Um "h" suavemente escarrado. Ex. (Inglês): "<span style="color:#ea00d9">h</span>ue". Ex. (Alemão): "i<span style="color:#ea00d9">ch</span>".
+-   [`[ç]`](https://upload.wikimedia.org/wikipedia/commons/a/ab/Voiceless_palatal_fricative.ogg 'Fricativa palatal surda') Um "h" suavemente escarrado, com um breve "s" antes. Ex. (Inglês): "<span style="color:#ea00d9">h</span>ue". Ex. (Alemão): "i<span style="color:#ea00d9">ch</span>".
     -   `[j̊]` Aproximante palatal surda.
 -   [`[ɕ]`](https://upload.wikimedia.org/wikipedia/commons/0/0b/Voiceless_alveolo-palatal_sibilant.ogg 'Fricativa alvéolo-palatal surda') Um "sh". Ex.: "me<span style="color:#ea00d9">x</span>endo".
 -   `[ɔ]` Ver [O](#o).

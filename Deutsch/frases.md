@@ -2,6 +2,8 @@
 
 -   `Bitte` Por favor/De nada
 -   `Danke` Obrigado
+-   `Vielen Dank` Muito obrigado
+-   `Gern geschehen` De nada
 -   `Tschüss` Tchau
 -   `Hallo` Olá
     -   `Hi` Abreviação

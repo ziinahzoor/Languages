@@ -61,6 +61,7 @@
 -   `Calor`
 -   `Frío` Frio
 -   `LLuvia` Chuva
+-   `Huracán` Furacão
 
 ## Las Estaciones - Estações
 

@@ -6,6 +6,9 @@
 -   `Videospiel` Videogame ✴️
 -   `Tisch` Mesa 🚹
 -   `Tasche` Mochila
+-   `Regenschirm` Guarda-chuva
+-   `Wasserflasche` Garrafa de água
+-   `Sonnencreme` Protetor solar 🚺
 
 ## Abstrato
 
@@ -18,6 +21,7 @@
 -   `Durst` Sede 🚹
 -   `Schatz` Tesouro
     -   Usado como um termo de carinho, como "querido".
+-   `Kilo` Quilo ✴️
 
 ## Transporte
 
@@ -38,6 +42,7 @@
 -   `Kasse` Caixa registradora
 -   `Geldautomat` Caixa eletrônico
 -   `Reservierung` Reserva
+-   `Dollar` Dólar
 
 ### Música
 

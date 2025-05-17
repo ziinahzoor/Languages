@@ -22,3 +22,4 @@
 -   `Weit weg` Distante/Muito longe
 -   `Natürlich` Claro/Naturalmente
 -   `Mehr` Mais
+-   `Wirklich` Muito/Sério/De verdade

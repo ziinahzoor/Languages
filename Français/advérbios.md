@@ -52,7 +52,6 @@
 -   `Juste` Só/Somente
 -   `Enfin` Enfim/Finalmente
 -   `Surtout` Principalmente/Sobretudo
--   `Finalement` Finalmente/Por fim
 
 ## Locutions adverbiales - Locuções adverbiais
 
@@ -124,6 +123,8 @@
 -   `Carrément` Definitivamente/Absolutamente
 -   `Actuellement` Atualmente
 -   `Parfaitement` Perfeitamente
+-   `Dernièrement` Ultimamente
+-   `Finalement` Finalmente/Por fim
 
 ## Os Porquês
 

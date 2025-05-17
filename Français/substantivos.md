@@ -143,7 +143,8 @@
 -   `Parapluie` Guarda-chuva
 -   `Enveloppe` Envelope
 -   `Document` Documento
--   `Dossier` Arquivo/Pasta 🚹
+-   `Fichier` Arquivo
+-   `Dossier` Pasta 🚹
 -   `Ascenseur` Elevador
 -   `Couverture` Coberta/Cobertor
 -   `Laine` Lã
@@ -410,11 +411,14 @@
 -   `Rayure` Listra
 -   `Style` Estilo
 -   `Relation` Relação
+-   `Façon` Forma
+-   `Pièce jointe` Anexo 🚺
 
 ### Sentimentos, condições e emoções
 
 -   `Sentiment` Sentimento
--   `Humeur` Humor 🚺
+-   `Humeur` Humor (estado de espírito) 🚺
+-   `Humour` Humor (graça)
 -   `Envie` Ciúme/Inveja/Desejo
 -   `Surprise` Surpresa
 -   `Honte` Vergonha
@@ -493,7 +497,7 @@
 -   `Profession` Profissão
 -   `Emploi` Emprego
 -   `Carrière` Carreira
--   `Réseaux sociaux` Redes sociais
+-   `Réseau social` Rede social
 -   `Pêche` Pesca
 -   `Dessin animé` Desenho animado
 -   `Ménage` Trabalho doméstico
@@ -531,6 +535,7 @@
 -   `Feu d’artifice` Fogo de artifício
 -   `Tourisme` Turismo
 -   `Blog`
+-   `Logiciel` Programa/Software
 
 ### Les Événements - Eventos
 
@@ -599,6 +604,7 @@
 -   `Science` Ciência
 -   `Médecine` Medicina
 -   `Droit` Direito
+-   `Informatique` Ciência da computação
 
 ### Gêneros
 

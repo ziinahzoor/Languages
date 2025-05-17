@@ -23,6 +23,7 @@
 -   `Serpiente` Cobra
 -   `León` Leão
 -   `Pato`
+-   `Tigre`
 
 ## Los Insectos - Insetos
 

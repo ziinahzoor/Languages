@@ -272,7 +272,7 @@
 <h3 id="var_potencial"><ruby>可<rt>か</rt>能<rt>のう</rt>形<rt>けい</rt></ruby> - Forma potencial</h3>
 
 -   Forma-se outro verbo, adicionando o verbo ichidan aulixiar `る`.
-    -   `られる` para verbos ichidan. Na conversação, o `ら` geralmente não é dito.
+    -   `られる` para verbos ichidan. Na conversação, o `ら` geralmente não é dito, o que é chamado de <font size="5"><code><ruby>ら</ruby><ruby>抜<rt>ぬ</rt></ruby>き<ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby></code></font>.
 -   Este verbo é a forma potencial: demonstra a capacidade da ação ser feita.
 -   Geralmente o verbo na forma potencial acompanha a partícula `が`.
 -   `Forma plana` + `ことができる` é usado em contextos formais.

@@ -38,6 +38,7 @@
 -   `Εντάξει` Ok/Tudo bem
 -   `Πάντα` Sempre
 -   `Ακόμα` Ainda
+    -   `Ακόμα κι` Mesmo se
 -   `Μόνο` Só/Somente
 -   `Ήδη` Já
 -   `Επίσης` Também

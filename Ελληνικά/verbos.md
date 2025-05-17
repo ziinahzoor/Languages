@@ -5,7 +5,7 @@
 -   `Έχω` Ter
 -   `Κάνω` Fazer (Realizar uma ação)
     -   Também pode significar "custar"
--   `Φτιάχνω` Fazer/Criar/Construir
+-   `Φτιάχνω` Fazer/Preparar/Criar/Construir
 -   `Θέλω` Querer/Necessitar/Requerer
     -   `Θελήσω` Dependente
 -   `Πίνω` Beber
@@ -16,6 +16,8 @@
 -   `Μένω` Morar
     -   `Μείνω` Dependente
 -   `Δίνω` Dar
+    -   `Δίδω` Formal
+    -   `Δίνω το πίσω` Devolver
 -   `Υπάρχω` Existir
 -   `Τρέχω` Correr/Fugir/Executar (um programa)
 -   `Βλέπω` Ver
@@ -23,7 +25,7 @@
 -   `Γράφω` Escrever
 -   `Αγοράζω` Comprar
 -   `Μαγειρεύω` Cozinhar
--   `Αφήνω` Deixar
+-   `Αφήνω` Deixar/Soltar
 -   `Παίζω` Brincar/Jogar/Tocar
 -   `Πληρώνω` Pagar
 -   `Πηγαίνω` Ir
@@ -47,15 +49,15 @@
 -   `Φέρνω` Trazer
 -   `Κοστίζω` Custar
 -   `Βάζω`
-    -   `Βάλω` Depndente
--   `Παίρνω` Pegar
+    -   `Βάλω` Dependente
+-   `Παίρνω` Pegar/Tomar
     -   Também pode ser "chamar".
 -   `Σχεδιάζω` Desenhar/Planejar
 -   `Πέφτω` Cair
 -   `Βρίσκω` Achar/Descobrir/Localizar
     -   `Ευρίσκω` Formal
     -   `Βρω` Dependente
--   `Δείχνω` Indicar/Apontar/Demonstrar
+-   `Δείχνω` Mostrar/Indicar/Apontar/Demonstrar
 -   `Καθαρίζω` Limpar
 -   `Νομίζω` Pensar/Considerar
 -   `Σώζω` Salvar
@@ -65,8 +67,9 @@
 -   `Αλλάζω` Trocar
 -   `Στέλνω` Enviar
 -   `Ζω` Viver/Morar
+    -   `Ζήσω` Dependente
 -   `Ανήκω` Pertencer
--   `Δοκιμάζω` Tentar
+-   `Δοκιμάζω` Tentar/Experimentar/Testar
 -   `Προσφέρω` Oferecer/Dar/Presentear
 -   `Σηκώνω` Levantar/Erguer
 -   `Συμπεριλαμβάνω` Incluir
@@ -80,13 +83,14 @@
 -   `Χτυπάω` Machucar-se/Bater (em algum lugar)
 -   `Παρουσιάζω` Apresentar
 -   `Ελπίζω` Esperar/Ter esperança de
+-   `Περιμένω` Esperar/Aguardar
 -   `Μπαίνω` Entrar
     -   `Μπω` Dependente
 -   `Βγαίνω` Sair
     -   `Βγω` Dependente
 -   `Ψάχνω` Procurar
 -   `Επιτρέπω` Permitir
--   `Προσέχω` Prestar atenção/Observar
+-   `Προσέχω` Prestar atenção/Observar/Tomar cuidado
 -   `Παραλαμβάνω` Receber
 -   `Ανατρέφω` Criar (de cuidar)/Trazer à tona/Nutrir
 -   `Αποτυγχάνω` Falhar
@@ -163,6 +167,7 @@
 -   `Ευχαριστώ` Agradecer
 -   `Εννοώ` Significar (elaboração)
 -   `Προσπαθώ` Tentar
+-   `Ανησυχώ` Preocupar
 
 ## Verbos depoentes
 
@@ -203,3 +208,5 @@
 -   `Νοιάζει` Importar
 -   `Συμβαίνει` Acontecer/Ocorrer
 -   `Πρέπει` Dever/Ter a obrigação
+-   `Πρόκειται να` Ir (no futuro)
+    -   Usado para acontecimentos

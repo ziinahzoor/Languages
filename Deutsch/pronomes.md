@@ -91,6 +91,10 @@
 | Feminino  | -e         | -e        | -er    | -er      |
 | Plural    | -e         | -e        | -en    | -er      |
 
+## Interrogativos
+
+-   `Wie viel` Quanto/Quantos
+
 ## Indefinidos
 
 -   `Kein` Nenhum

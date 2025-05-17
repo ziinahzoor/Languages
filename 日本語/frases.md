@@ -97,3 +97,4 @@
 -   <font size="5"><code><ruby>何<rt>なに</rt></ruby>が<ruby>困<rt>こま</rt></ruby>りましたか</code></font> Qual o problema?
 -   `わからない` Eu não sei
     -   `わかない` Abreviação
+-   <font size="5"><code><ruby>用<rt>よう</rt>意<rt>い</rt></ruby>はいいか</code></font> Vocês estão prontos?

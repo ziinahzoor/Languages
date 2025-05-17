@@ -3,6 +3,7 @@
 -   `Και` E/Também
     -   Pode ser repetido antes do primeiro item para indicar "tanto... quanto..."
     -   `Κι` Antes de vogais
+    -   `Και να` Mesmo se/Mesmo que
 -   `Ή` Ou
 -   `Αλλά` Mas
 -   `Όμως` Entretanto
@@ -20,3 +21,5 @@
 -   `Ωστόσο` No entanto/Apesar de tudo/Ainda assim
 -   `Δηλαδή` Isto é
 -   `Μήπως` Talvez
+-   `Αφού` Depois/Já que
+-   `Μόλις` Assim que/Uma vez que

@@ -11,15 +11,16 @@
         <td><a href="#tentativa">Tentativa (て+みる)</a></td>
         <td><a href="#concessiva">Concessiva (て+も)</a></td>
         <td><a href="#implicativa">Implicativa (て+は)</a></td>
-        <td><a href="#proibitiva">Proibitiva (て+は+いけない)</a></td>
+        <td><a href="#causal">Causal (なく+て)</a></td>
     </tr>
 	<tr>
+        <td><a href="#proibitiva">Proibitiva (て+は+いけない)</a></td>
         <td><a href="#obrigativa">Obrigativa (なく+て+は+いけない)</a></td>
         <td><a href="#solicitativa">Solicitativa (て+いいですか)</a></td>
         <td><a href="#solicitativa-optativa">Solicitativa optativa (て+もいいですか)</a></td>
-        <td><a href="#sequencial">Sequencial (て+から)</a></td>
 	</tr>
 	<tr>
+        <td><a href="#sequencial">Sequencial (て+から)</a></td>
         <td><a href="#benefactiva">Benefactiva</a></td>
 	</tr>
 </table>
@@ -69,6 +70,14 @@
 
 -   Significa "mesmo se/apesar de/tanto quanto" + ação do verbo ou descrição do adjetivo.
 -   Tem sentido permissivo.
+
+<h2 id="var_causal">Forma なく+て - Causal</h2>
+
+-   É simplesmente a junção da forma negativa com a forma て, portanto indica uma sequência lógica.
+-   Inerentemente as frases que utilizam tal construção têm uma nuance explicativa, o que gera a função causal dela.
+    -   Funciona como "como não".
+    -   Semelhante à partícula `から`, mas mais sequencial do que justificativa. Ex.: `時間がないから、行けなかった` "Não pude ir porque não tive tempo" vs `時間がなくて、行けなかった` "Não tive tempo e não pude ir/Como não tive tempo, não pude ir".
+        -   Busca mais esclarecer os acontecimentos do que justificar propriamente.
 
 <h2 id="var_implicativa">Forma て+は - Implicativa</h2>
 

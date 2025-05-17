@@ -32,10 +32,11 @@
     -   Se refere ao período antes de meio-dia ou "durante a manhã".
 -   <font size="5"><code><ruby>昼<rt>ひる</rt></ruby></code></font> Dia (Período antes da noite)/Meio dia
 -   <font size="5"><code><ruby>昼<rt>ひる</rt>間<rt>ま</rt></ruby></code></font> Dia (Período antes da noite)
-    -   Mais comumente usado.
+    -   Mais comumente usada.
 -   <font size="5"><code><ruby>夕<rt>ゆう</rt>日<rt>ひ</rt></ruby></code></font> Pôr do Sol
--   <font size="5"><code><ruby>夕<rt>ゆう</rt>方<rt>がた</rt></ruby></code></font> Anoitecer (Até cerca de 7 horas)
+-   <font size="5"><code><ruby>夕<rt>ゆう</rt>方<rt>がた</rt></ruby></code></font> Entardecer (Até cerca de 7 horas)
 -   <font size="5"><code><ruby>晩<rt>ばん</rt></ruby></code></font> Anoitecer (Depois das 7)
+    -   Não é muito utilizada.
 -   <font size="5"><code><ruby>夜<rt>よる</rt></ruby></code></font> Noite
 
 ### Prefixos

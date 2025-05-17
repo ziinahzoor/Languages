@@ -203,6 +203,7 @@
 ## Relativos
 
 -   `Όσος` Tanto quanto
+    -   `Όσο κι` Por mais que
 
 ## Indefinidos
 

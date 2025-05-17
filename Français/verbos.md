@@ -45,6 +45,9 @@
 -   `Attendre` Esperar
 -   `Dire` Dizer
 -   `Mettre` Colocar
+    -   `Mettre en ligne` Fazer upload
+    -   `Mettre à jour` Atualizar
+    -   `Mettre sur pause` Pausar
 -   `Peindre` Pintar
 -   `Connaitre` Conhecer
     -   Tem o sentido de "ter familiaridade"
@@ -160,10 +163,10 @@
 -   `Se peigner` Pentear-se (com um pente)
 -   `Se noyer` Afogar-se
 -   `S'habiller` Vestir-se
+-   `Porter` Vestir/Usar
 -   `Se déshabiller` Despir-se
 -   `Se reposer` Descansar/Repousar
 -   `Neiger` Nevar
--   `Porter` Vestir
 -   `Éternuer` Espirrar
 -   `Demander` Perguntar/Pedir
 -   `Emporter` Levar (objetos inanimados)
@@ -228,7 +231,7 @@
 -   `Déménager` Mudar-se
 -   `Espérer` Esperar/Ter esperança
 -   `Dîner` Jantar
--   `Télécharger` Baixar
+-   `Télécharger` Baixar/Fazer upload
 -   `Grignoter` Mordiscar/Beliscar (comida)
 -   `Conseiller` Aconselhar
 -   `Recommander` Recomendar
@@ -349,6 +352,14 @@
 -   `Surveiller` Supervisionar/Ficar de olho
 -   `Remplacer` Substituir
 -   `Emballer` Embalar
+-   `Connecter` Conectar/Logar
+-   `Déconnecter` Desconectar/Deslogar
+-   `Brancher` Conectar/Ligar/Colocar na tomada
+-   `Débrancher` Desconectar/Desligar/Tirar da tomada
+-   `Supprimer` Excluir/Apagar/Remover
+-   `Installer` Instalar
+-   `S'amuser` Divertir-se
+-   `Sélectionner` Selecionar
 
 ## -ir Verbes
 

@@ -236,3 +236,7 @@
 -   `Feo` Feio
 -   `Original`
 -   `Apretado` Apertado
+-   `Contaminado`
+-   `Frágil`
+-   `Desconocido` Desconhecido
+-   `Local`

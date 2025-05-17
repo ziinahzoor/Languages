@@ -25,3 +25,12 @@
 -   `Möchten` Querer
 -   `Kosten` Custar
 -   `Leben` Viver
+-   `Wandern` Caminhar/Vagar
+
+## Impessoais
+
+> [!NOTE]
+> Verbos impessoais são conjugados acompanhando o pronome `es`.
+
+-   `Regnen` Chover
+-   `Schneien` Nevar

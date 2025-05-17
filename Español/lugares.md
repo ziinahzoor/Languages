@@ -160,3 +160,10 @@
 -   `Clínica`
 -   `Farmacia` Farmácia
 -   `Centro comercial` Shopping
+-   `Embajada` Embaixada
+-   `Oficina de correos` Correios 🚺
+-   `Galería` Galeria
+-   `Región` Região
+-   `Campo`
+-   `Costa`
+-   `Salida de emergencia` Saída de emergência

@@ -211,6 +211,7 @@
 -   `Enfermarse` Adoecer-se
 -   `Importar`
 -   `Faltar`
+-   `Explorar`
 
 ## Los verbos -er
 

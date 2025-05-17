@@ -30,6 +30,13 @@
 -   `Interessant` Interessante
 -   `Einfach` Fácil
 -   `Elegant` Elegante
+-   `Sonnig` Ensolarado
+-   `Bewölkt` Nublado
+-   `Windig` Ventoso
+-   `Neblig` Enevoado/Nebuloso
+-   `Warm` Morno
+-   `Schlecht` Ruim/Mau
+-   `Stark` Forte
 
 ## Nacionalidades
 

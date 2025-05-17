@@ -10,6 +10,7 @@
 -   `Fleisch` Carne ✴️
 -   `Kartoffel` Batata
 -   `Pommes` Batata-frita
+-   `Döner` Espeto turco
 
 ## Bebidas
 
@@ -20,3 +21,9 @@
 -   `Wasser` Água ✴️
     -   `Mineralwasser` Água mineral ✴️
 -   `Bier` Cerveja ✴️
+
+## Frutas
+
+-   `Orange` Laranja
+-   `Tomate` 🚺
+-   `Erdbeere` Morango 🚺

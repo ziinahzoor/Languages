@@ -55,6 +55,9 @@
 
 ## Profissões
 
+> [!NOTE]
+> Diversas profissões podem ser formadas por um substantivo + o sufixo <font size="5"><code><ruby>者<rt>しゃ</rt></ruby></code></font> "pessoa".
+
 -   <font size="5"><code><ruby>医<rt>い</rt>者<rt>しゃ</rt></ruby></code></font> Médico
 -   <font size="5"><code><ruby>歯<rt>は</rt>医<rt>い</rt>者<rt>しゃ</rt></ruby></code></font> Dentista
 -   <font size="5"><code><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></code></font> Professor/Doutor (Médico)/Advogado
@@ -113,6 +116,10 @@
 -   `ジャーナリスト` Jornalista
 -   <font size="5"><code><ruby>消<rt>しょう</rt>防<rt>ぼう</rt>士<rt>し</rt></ruby></code></font> Bombeiro
 -   <font size="5"><code><ruby>研<rt>けん</rt>究<rt>きゅう</rt>者<rt>しゃ</rt></ruby></code></font> Pesquisador
+-   <font size="5"><code><ruby>科<rt>か</rt>学<rt>がく</rt>者<rt>しゃ</rt></ruby></code></font> Cientista
+-   <font size="5"><code><ruby>生<rt>せい</rt>物<rt>ぶつ</rt>学<rt>がく</rt>者<rt>しゃ</rt></ruby></code></font> Biólogo
+-   <font size="5"><code><ruby>地<rt>ち</rt>質<rt>しつ</rt>学<rt>がく</rt>者<rt>しゃ</rt></ruby></code></font> Geólogo
+-   <font size="5"><code><ruby>物<rt>ぶつ</rt>理<rt>り</rt>学<rt>がく</rt>者<rt>しゃ</rt></ruby></code></font> Físico
 
 ## <ruby>家<rt>か</rt>族<rt>ぞく</rt></ruby> - Família
 

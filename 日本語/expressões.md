@@ -68,6 +68,7 @@
 -   <font size="5"><code><ruby>念<rt>ねん</rt></ruby>のため</code></font> Por via das dúvidas
 -   `かどうか` Se... ou não
 -   <font size="5"><code><ruby>かも知<rt>し</rt></ruby>れない</code></font> Talvez
+-   `だけで` Só de/Apenas com
 
 ## <ruby>相<rt>あい</rt>槌<rt>づち</rt></ruby> - Interjeições de atenção
 

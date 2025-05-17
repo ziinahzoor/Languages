@@ -97,6 +97,27 @@
 
 # Προστακτική - Imperativo
 
+> [!NOTE]
+> É mais comum utilizar o imperativo na forma dependente/perfectiva.
+
+## Presente
+
+-   Raíz do verbo + conjugação.
+
+| Pessoa | Verbos -ω | Verbos -άω | Verbos -ώ |
+| ------ | --------- | ---------- | --------- |
+| Εσύ    | -ε        | -α         | -ει/-α    |
+| Εσείς  | -ετε      | -άτε       | -είτε     |
+
+## Aorista/Pretérito
+
+-   Raíz do préterito do verbo + conjugação.
+
+| Pessoa | Conjugação |
+| ------ | ---------- |
+| Εσύ    | -ε         |
+| Εσείς  | -τε        |
+
 # Μετοχή - Particípio
 
 # Παθητική φωνή - Voz passiva

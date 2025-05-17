@@ -51,6 +51,7 @@
 -   <font size="5"><code><ruby>頭<rt>あたま</rt></ruby>がいい</code></font> Inteligente
     -   Adjetivo `いい`
 -   <font size="5"><code><ruby>頭<rt>あたま</rt></ruby>がおかしい</code></font> Louco
+-   <font size="5"><code><ruby>頭<rt>あたま</rt></ruby>が<ruby>固<rt>かた</rt></ruby>い</code></font> Teimoso
 -   <font size="5"><code><ruby>若<rt>わか</rt></ruby>い</code></font> Jovem
 -   <font size="5"><code><ruby>新<rt>あたら</rt></ruby>しい</code></font> Novo
 -   <font size="5"><code><ruby>古<rt>ふる</rt></ruby>い</code></font> Velho
@@ -103,7 +104,8 @@
     -   Em linguagem casual, tem um sentido como a palavra "f\*da", podendo ter conotações ruins ou boas.
 -   `うすい` Fino
 -   <font size="5"><code><ruby>厳<rt>きび</rt></ruby>しい</code></font> Rígido/Severo
--   `かたい` Duro
+-   <font size="5"><code><ruby>固<rt>かた</rt></ruby>い</code></font> Duro
+-   <font size="5"><code><ruby>柔<rt>やわ</rt></ruby>らかい</code></font> Macio
 -   `あぶらっこい` Gorduroso/Oleoso
 -   <font size="5"><code><ruby>近<rt>ちか</rt></ruby>い</code></font> Próximo (Distância)/Perto
 -   <font size="5"><code><ruby>遠<rt>とお</rt></ruby>い</code></font> Longe

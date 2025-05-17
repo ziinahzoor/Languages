@@ -35,3 +35,4 @@
 -   `Café` Cafeteria ✴️
 -   `Bäckerei` Padaria
 -   `U-Bahnstation` Estação de metrô
+-   `Marktplatz` Mercado

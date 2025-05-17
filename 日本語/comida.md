@@ -264,7 +264,7 @@
     -   <font size="5"><code><ruby>夕<rt>ゆう</rt>食<rt>しょく</rt></ruby></code></font> Honorífico
 -   <font size="5"><code><ruby>晩<rt>ばん</rt>ご<rt></rt>飯<rt>はん</rt></ruby></code></font> Jantar
     -   <font size="5"><code><ruby>夜<rt>や</rt>食<rt>しょく</rt></ruby></code></font> Honorífico
-    -   Geralmente se refere ao jantar quando realizado mais tarde.
+    -   Geralmente se refere ao jantar quando realizado mais tarde ou uma refeição após o jantar.
 -   <font size="5"><code>ご<ruby>飯<rt>はん</rt></ruby></code></font> Refeição
     -   <font size="5"><code><ruby>食<rt>しょく</rt>事<rt>じ</rt></ruby></code></font> Honorífico
 -   <font size="5"><code><ruby>料<rt>りょう</rt>理<rt>り</rt></ruby></code></font> Prato

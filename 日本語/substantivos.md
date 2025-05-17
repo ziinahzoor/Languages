@@ -212,6 +212,7 @@
 -   <font size="5"><code><ruby>抗<rt>こう</rt>生<rt>せい</rt>物<rt>ぶっ</rt>質<rt>しつ</rt></ruby></code></font> Antibiótico
 -   <font size="5"><code><ruby>交<rt>こう</rt>通<rt>つう</rt>系<rt>けい</rt></ruby>ＩＣカード</code></font> Cartão inteligente recarregável
 -   <font size="5"><code><ruby>蓋<rt>ふた</rt></ruby></code></font> Tampa
+-   <font size="5"><code><ruby>秤<rt>はかり</rt></ruby></code></font> Balança
 
 ## Elétricos e Eletrônicos
 
@@ -414,6 +415,8 @@
 -   <font size="5"><code><ruby>度<rt>ど</rt></ruby></code></font> Grau
 -   `ほど` Grau/Extensão/Medida/Limite (superior)
 -   <font size="5"><code><ruby>段<rt>だん</rt></ruby></code></font> Passo/Grau/Camada
+-   <font size="5"><code><ruby>反<rt>はん</rt>応<rt>のう</rt></ruby></code></font> Reação
+-   <font size="5"><code><ruby>変<rt>へん</rt>化<rt>か</rt></ruby></code></font> Variação
 
 ### <ruby>気<rt>き</rt>持<rt>も</rt>ち</ruby> - Sentimentos e Sensações
 
@@ -505,6 +508,15 @@
 -   `ルームサービス` Serviço de quarto
 
 ## Medidas
+
+-   <font size="5"><code><ruby>重<rt>おも</rt></ruby>さ</code></font> Peso
+-   <font size="5"><code><ruby>大<rt>おお</rt></ruby>きさ</code></font> Tamanho
+-   <font size="5"><code><ruby>深<rt>ふか</rt></ruby>さ</code></font> Profundidade
+-   <font size="5"><code><ruby>高<rt>たか</rt></ruby>さ</code></font> Altura
+-   <font size="5"><code><ruby>長<rt>なが</rt></ruby>さ</code></font> Comprimento
+-   <font size="5"><code><ruby>幅<rt>はば</rt></ruby></code></font> Largura
+
+### Unidades de medida
 
 -   `インチ` Polegada
 -   `センチ` Centímetro
@@ -691,6 +703,10 @@
 -   <font size="5"><code><ruby>書<rt>しょ</rt>道<rt>どう</rt></ruby></code></font> Caligrafia (chinesa/japonesa)
 -   <font size="5"><code><ruby>茶<rt>さ</rt>道<rt>どう</rt></ruby></code></font> Cerimônia do chá
 -   <font size="5"><code><ruby>墨<rt>すみ</rt>絵<rt>え</rt></ruby></code></font> Pintura com tinta
+-   <font size="5"><code><ruby>調<rt>しら</rt></ruby>べ</code></font> Investigação
+-   <font size="5"><code><ruby>研<rt>けん</rt>究<rt>きゅう</rt></ruby></code></font> Pesquisa
+-   <font size="5"><code><ruby>用<rt>よう</rt>意<rt>い</rt></ruby></code></font> Preparação
+-   <font size="5"><code><ruby>実<rt>じっ</rt>験<rt>けん</rt></ruby></code></font> Experimento
 
 ### Eventos
 
@@ -711,7 +727,7 @@
     -   <font size="5"><code><ruby>〇<rt>まる</rt>×<rt>ばつ</rt></ruby>テスト</code></font> Prova de verdadeiro ou falso
 -   <font size="5"><code><ruby>授<rt>じゅ</rt>業<rt>ぎょう</rt></ruby></code></font> Aula
 -   `クラス` Turma/Classe
--   `せんこう` Curso de Graduação (Major)
+-   <font size="5"><code><ruby>専<rt>せん</rt>攻<rt>こう</rt></ruby></code></font> Curso de Graduação (Major)
 -   `そつぎょう` Graduação
 -   <font size="5"><code><ruby>留<rt>りゅう</rt>学<rt>がく</rt></ruby></code></font> Intercâmbio
 -   <font size="5"><code><ruby>成<rt>せい</rt>績<rt>せき</rt></ruby></code></font> Notas/Resultados
@@ -725,12 +741,15 @@
 -   <font size="5"><code><ruby>数<rt>すう</rt>学<rt>がく</rt></ruby></code></font> Matemática
 -   <font size="5"><code><ruby>文<rt>ぶん</rt>学<rt>がく</rt></ruby></code></font> Literatura
 -   <font size="5"><code><ruby>生<rt>せい</rt>物<rt>ぶつ</rt>学<rt>がく</rt></ruby></code></font> Biologia
+-   <font size="5"><code><ruby>物<rt>ぶつ</rt>理<rt>り</rt>学<rt>がく</rt></ruby></code></font> Física
+-   <font size="5"><code><ruby>化<rt>か</rt>学<rt>がく</rt></ruby></code></font> Química
 -   <font size="5"><code><ruby>経<rt>けい</rt>済<rt>ざい</rt>学<rt>がく</rt></ruby>・<ruby>経<rt>けい</rt>済<rt>ざい</rt></ruby></code></font> Economia
 -   <font size="5"><code><ruby>歴<rt>れき</rt>史<rt>し</rt>学<rt>がく</rt></ruby>・<ruby>歴<rt>れき</rt>史<rt>し</rt></ruby></code></font> História
 -   <font size="5"><code><ruby>体<rt>たい</rt>育<rt>いく</rt></ruby></code></font> Educação Física
 -   <font size="5"><code><ruby>美<rt>び</rt>術<rt>じゅつ</rt></ruby></code></font> Arte
 -   <font size="5"><code><ruby>科<rt>か</rt>学<rt>がく</rt></ruby></code></font> Ciência
 -   <font size="5"><code><ruby>政<rt>せい</rt>治<rt>じ</rt>学<rt>がく</rt></ruby></code></font> Ciência Política
+-   <font size="5"><code><ruby>地<rt>ち</rt>質<rt>しつ</rt>学<rt>がく</rt></ruby></code></font> Geologia
 -   <font size="5"><code><ruby>医<rt>い</rt>学<rt>がく</rt></ruby></code></font> Medicina
     -   <font size="5"><code><ruby>外<rt>げ</rt>科<rt>か</rt></ruby></code></font> Cirurgia
     -   <font size="5"><code><ruby>内<rt>ない</rt>科<rt>か</rt></ruby></code></font> Clínica médica

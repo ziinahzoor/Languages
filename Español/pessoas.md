@@ -3,6 +3,7 @@
 -   `Pareja` Casal 🚺
 -   `Multitud` Multidão
 -   `Población` População
+-   `Grupo`
 -   `Miembro` Membro
 -   `Habitante`
 -   `Adulto`
@@ -15,77 +16,80 @@
 -   `Mujer` Mulher
 -   `Hombre` Homem
 -   `Tipo` Cara
--   `Doctor` Doutor
--   `Médico`
 -   `Alumno` Aluno
 -   `Estudiante` Estudante
--   `Maestro` Professor (Teacher)
--   `Profesor` Professor
 -   `Vegetariano`
 -   `Amigo`
 -   `Señor` Senhor
 -   `Señorita` Senhorita
--   `Mesero` Garçom
-    -   `Camarero` Espanha
 -   `Amigo`
--   `Secretario` Secretário
 -   `Jefe` Chefe
 -   `Jugador` Jogador
--   `Salvavida` Salva-vidas
 -   `Vecino` Vizinho
 -   `Colega`
--   `Chef` Chefe (de cozinha)
 -   `Compañero` Colega
     -   `Compañero de cuarto` Colega de quarto
     -   `Compañero de clase` Colega de classe
--   `Enfermero` Enfermeiro
--   `Dentista`
--   `Ingeniero` Engenheiro
--   `Agricultor` Fazendeiro
 -   `Equipo` Equipe 🚹/Time
--   `Mecánico` Mecânico
+-   `Presidente`
 -   `Rey` Rei
 -   `Reina` Rainha
--   `Artista`
--   `Bailarín` Bailarino
 -   `Turista`
 -   `Pasajero` Passageiro
 -   `Invitado` Convidado
 -   `Gerente`
 -   `Trabajador` Trabalhador
 -   `Pasante` Estagiário
--   `Pintor`
--   `Empresario` Empresário
--   `Presidente`
--   `Cocinero` Cozinheiro
 -   `Visitante`
 -   `Obrero` Trabalhador/Operário
--   `Policía` Polícia/Policial
--   `Actriz` Atriz
--   `Actor` Ator
 -   `Cliente`
--   `Recepcionista`
--   `Conductor` Motorista
 -   `Personal` Funcionários/Pessoal
--   `Fotógrafo`
--   `Limpiador` Faxineiro
--   `Piloto`
--   `Cantante` Cantor
--   `Vendedor`
 -   `Ama de casa` Dona de casa
--   `Payaso` Palhaço
 -   `Adolescente`
 -   `Soltero` Solteiro
 -   `Graduado` Formado/Graduado
 -   `Ganador` Ganhador
 -   `Principiante`
 -   `Visita`
--   `Escritor`
 -   `Protagonista`
 -   `Ex`
--   `Doctor` Doutor
 -   `Mayor` Idoso
 -   `Paciente`
+
+## Profissões
+
+-   `Doctor` Doutor
+-   `Médico`
+-   `Maestro` Professor (Teacher)
+-   `Profesor` Professor
+-   `Mesero` Garçom
+    -   `Camarero` Espanha
+-   `Secretario` Secretário
+-   `Salvavida` Salva-vidas
+-   `Chef` Chefe (de cozinha)
+-   `Mecánico` Mecânico
+-   `Enfermero` Enfermeiro
+-   `Dentista`
+-   `Ingeniero` Engenheiro
+-   `Agricultor` Fazendeiro
+-   `Policía` Polícia/Policial
+-   `Artista`
+-   `Bailarín` Bailarino
+-   `Pintor`
+-   `Empresario` Empresário
+-   `Cocinero` Cozinheiro
+-   `Actor` Ator
+-   `Actriz` Atriz
+-   `Recepcionista`
+-   `Conductor` Motorista
+-   `Fotógrafo`
+-   `Limpiador` Faxineiro
+-   `Piloto`
+-   `Cantante` Cantor
+-   `Vendedor`
+-   `Payaso` Palhaço
+-   `Escritor`
+-   `Taxista`
 
 ## La Familia - Família
 
