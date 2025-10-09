@@ -73,9 +73,11 @@
     -   Quando se adiciona a partícula no último item, torna-se um "ou", como a partícula `か`. Geralmente usado para comparações.
 -   `Função condicional não-hipotética, inevitável`: usada após um verbo, indica que esta ação é uma condição para outra coisa. "se", "quando". Ou seja, é mais uma implicação lógica do que uma condição.
     -   Se usado entre duas frases, indica uma condição lógica. A segunda frase é um resultado absoluto da primeira. Ou seja, indica um fato, algo imutável e inevitável.
+    -   Consequentemente, não pode ser utilizado com pedidos ou situações imaginárias.
 -   `Função de citação`: transforma a frase dita anteriormente em uma citação (<font size="5"><code><ruby>引<rt>いん</rt>用<rt>よう</rt></ruby></code></font>), como aspas.
     -   Deve ser usado após aspas para indicar uma citação. É bastante utilizado depois de algum conceito que se deseja explicar ou saber a explicação.
     -   Neste caso, requer a cópula para se ligar a substantivos e adjetivos-な.
+-   `Função conjuntiva`: mesma função da conjunção `そして`, porém mais formal e literária.
 
 ### とは
 
@@ -98,8 +100,9 @@
 
 -   `Função de comparação`: compara algo a outra coisa.
     -   Geralmente vem após o que é "menos", enquanto <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> vem após o que é "mais". Ex.: `AよりBがX` "De A, B é mais X" ou "B é mais X que A".
-        -   Quando duas coisas são comparadas diretamente (sem referência a um contexto relativo mencionad anteriormente), <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> é mais uma formalidade, sendo opcional.
+        -   Quando duas coisas são comparadas diretamente (sem referência a um contexto relativo mencionado anteriormente), <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> é mais uma formalidade, sendo opcional.
     -   <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> também pode ser utilizado sem `より`, indicando que algo é "mais" do que o que foi mencionado antes. Da mesma forma, <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> também pode ser omitido e `より` usado depois da partícula, tendo o mesmo sentido (parece ter invertido a função, mas é apenas a omissão da construção completa).
+        -   Neste último caso, quando ligamos `より` a outra partícula, é como se tivéssemos omitido o substantivo que "é menos", então dizemos que o substantivo antes da partícula "é mais" que todas as outras coisas.
     -   Também é possível usar `もっと` com o adjetivo de comparação.
 
 > [!NOTE]
@@ -109,6 +112,8 @@
 > Também pode-se pensar como um sinal de menor "<".
 
 ## <ruby>並<rt>へい</rt>立<rt>りつ</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Marcadoras paralelas
+
+**Usadas para listar itens.**
 
 ### か
 
@@ -134,19 +139,28 @@
 
 ### など
 
--   `Função continuativa`: "etc", existem mais itens que não vão ser citados.
+-   `Função exemplificativa/continuativa`: "etc" ,"tal qual", "como"
+    -   Indica que existem mais itens que não vão ser citados.
 
 ## <ruby>終<rt>しゅう</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Finalizadoras
 
 ### かな
 
--   `Função de ponderar`: "talvez", "e se?".
+-   `Função de ponderar`: "talvez", "e se?", "queria que".
     -   É a junção da partícula de questionamento `か` com a partícula de opinião `な`.
 
 ### っけ・け
 
 -   `Função de relembrar`: é utilizada para fazer uma pergunta já realizada anteriormente ou cuja resposta já tenha sido dada, mas não é possível lembrar a resposta.
     -   É como "..., outra vez?", "..., era isso?", "..., poderia me lembrar?".
+
+### とか
+
+-   `Função de listagem não-exaustiva`: "coisas como". Lista ações ou itens de maneira não-exaustiva.
+    -   Pode-se ligar a verbos na forma plana ou substantivos diretamente.
+    -   Casualmente, omite-se o `とか` do último item listado.
+    -   Similar a <a href="#や">や</a>, porém pode ser usado com verbos.
+    -   Similar a <a href="#たりだり">たり</a>.
 
 ## <ruby>間<rt>かん</rt>投<rt>とう</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Interjetivas
 
@@ -163,7 +177,8 @@
 ### な
 
 -   Também pode ser uma partícula finalizadora.
--   `Função de afirmação de opinião`: é como a partícula ね, mas para expressãr uma opinião pessoal. É comumente usada de forma incentivadora, expressando esperança ou admiração. Também pode expressar incerteza.
+-   `Função exclamativa ou de afirmação de opinião`: é como a partícula ね, mas para expressãr uma opinião pessoal. É comumente usada de forma incentivadora, expressando esperança ou admiração. Também pode expressar incerteza.
+    -   Pode-se pensar como uma exclamação.
     -   Também é utilizada quando se está falando sozinho.
 -   `Função proibitiva`: usada com a forma plana para proibir alguma ação (imperativa negativa).
 
@@ -213,6 +228,7 @@
 -   `Função de destino`: indica o ponto final de uma ação.
     -   O ponto final pode ser um ponto no tempo, um ponto espacial, uma motivação, etc.
     -   Determina que a primeira frase é uma conclusão da segunda.
+    -   Pode-se sufixar a partícula `も` para indicar "até mesmo".
 
 ### までに
 
@@ -258,6 +274,10 @@
 
 -   `Função de contraposição`: "longe de...", "pelo contrário...".
 
+### かも
+
+-   `Função de possibilidade`: "talvez".
+
 ## <ruby>係<rt>かかり</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - De ligação
 
 ### は
@@ -276,6 +296,8 @@
     -   Partícula não-lógica.
     -   Pode ser traduzido semanticamente como "também".
     -   É inclusivo, oposto ao は.
+-   `Função de extensão numeral`: usado apenas com valores numéricos e contadores. Indica que o número é um pouco surpreendente, inesperado, excessivamente alto ou baixo.
+    -   A tradução mais comum é "até", e "nem mesmo" com frases negativas.
 
 ### でも
 
@@ -305,7 +327,9 @@
 
 ### のに
 
--   `Função contrastiva`: mesmo que, apesar de, para, a fim de.
+-   `Função consequencial`: mesmo que, apesar de, para, a fim de.
+    -   Indica a seguinte ideia: `AのにB` "na situação de A, B será o resultado".
+        -   Devido a isso, possui essas duas nuances distintas de "apesar de A, B" e "a fim de B, A/para que B, A"
     -   No final da frase indica conjunção implícita "apesar de".
     -   Mais forte que o `けど` e geralmente indica arrependimento. Ou seja, a última frase tem uma nuance de ser uma situação indesejada.
     -   Se vem no meio da frase (A のに B), indica que B acontece para que A possa acontecer.
@@ -329,6 +353,7 @@
     -   Geralmente é mais associada com "quando". Ex.: "Quando... então..."
     -   Também tem função "Se... então..."
     -   Basta adicionar `ら` à forma `た` do verbo (ou passado do adjetivo `い`) ou `ったら` à substantivos e adjetivos `な`
+    -   Quando a segunda frase está no passado, a primeira geralmente indica "Depois que...".
     -   Quando associada com uma conjugação no passado, é subentendido que a segunda frase é um evento inesperado.
     -   É utilizado com sugestões e conselhos. Ex.: "E se...?".
 
@@ -337,10 +362,13 @@
 -   `Função de listagem não-ordenada de eventos`: Funciona exatamente como a forma-て (inclusive na conjugação), porém lista eventos de forma não-ordenada.
 -   O último item da lista quase sempre acompanha uma conjugação de `する`. Se ele for um verbo-する, o `たり` costuma ser omitido.
 -   Pode ser usado com um único item. "Fazer coisas como X".
+-   Também pode ser usado com substantivos, sendo necessário usar `だ` como conectivo.
+-   Similar a <a href="#とか">とか</a>.
 
 ### ながら
 
 -   `Função de simultaneidade`: enquanto.
+    -   É sufixada ao radical-い do verbo.
 
 ## <ruby>準<rt>じゅん</rt>体<rt>たい</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Frasais
 
@@ -393,9 +421,11 @@
 -   Apenas `と` e `たら・だら` são partículas.
 -   `と` indica um resultado inevitável, uma implicação lógica "se... então...".
 -   `ば` é uma condicional geral.
+    -   Lógico e portanto indica hipótese.
     -   Sobrepõe-se com `と` já que também pode ser usada para verdades universais.
     -   É mais formal e mais encontrada na escrita.
--   `たら・だら` costuma indicar mais "quando...", mas também pode ser "se" (neste caso, geralmente acompanhado de `もし`).
-    -   É o mais abrangente de todos, podendo ser utilizado em quase todos os outros casos.
--   `なら` indica mais uma hipótese do que uma condição. "Se você está falando de..., então...", "se ocorrer de..., então...".
+-   `たら・だら` indica algo sequencial/temporal, e portanto é melhor traduzido como "quando..., então...", mas também pode ser "se" (neste caso, geralmente acompanhado de `もし`).
+    -   É o mais abrangente e mais utilizado, podendo ser utilizado em quase todos os outros casos.
+-   `なら` indica mais uma possibilidade do que uma condição ou hipótese. "Se você está falando de..., então...", "se ocorrer de..., então...".
+    -   Geralmente é usado em reação a alguma fala anterior ou contexto prévio. Nesse sentido, é bastante usado em sugestões, contrastes ou suposições.
     -   Não indica implicações lógicas, ou seja, com resultados inevitáveis. Portanto, não sobrepõe-se com `と`.

@@ -27,8 +27,11 @@
 -   `Cerca` Próximo
 -   `Frente` 🚹
 -   `Enfrente` Em frente
+-   `Adelante` Adiante
+-   `Delante` Na frente/Diante
 -   `Atrás` Atrás (Indica movimento)
 -   `Detrás` Atrás/Detrás
+-   `Encima` Em cima
 -   `Sobre` Em cima/Sobre
 -   `Arriba` Acima/Para cima
 -   `Debajo` Debaixo
@@ -65,6 +68,7 @@
 -   `Patio` Quintal
 -   `Jardín` Jardim
 -   `Sala`
+-   `Comedor` Sala de jantar/Refeitório
 -   `Césped` Gramado
 -   `Salón` Salão
 -   `Techo` Teto
@@ -115,7 +119,7 @@
 -   `Probador` Provador
 -   `Zoológico`
 -   `Mundo`
--   `Aula` Sala de aula 🚹
+-   `Aula` Sala de aula
 -   `Entrada`
 -   `Granja` Fazenda
 -   `Gimnasio` Academia
@@ -167,3 +171,11 @@
 -   `Campo`
 -   `Costa`
 -   `Salida de emergencia` Saída de emergência
+-   `Frontera` Fronteira
+-   `Distrito` Bairro/Distrito
+-   `Estado`
+-   `Agencia` Agência
+-   `Ruina` Ruína
+-   `Sección` Seção
+-   `Sauna` 🚹
+    -   Na Espanha é feminino.

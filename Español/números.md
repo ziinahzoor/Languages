@@ -43,11 +43,39 @@
 
 ## Ordinais
 
-**Ao usar de forma adjetiva antes de um substantivo, perde-se o "o"**
+**Ao usar de forma adjetiva antes de um substantivo, "primero" e "tercero" perdem o "o"**
+
+**Os ordinais do 11 ao 19 também podem ser escritos separadamente, mas o `décimo` deve ser acentuado e concordar em número e gênero com o substantivo.**
 
 -   `Primero` Primeiro
 -   `Segundo`
 -   `Tercero` Terceiro
+-   `Cuarto` Quarto
+-   `Quinto`
+-   `Sexto`
+-   `Séptimo` Sétimo
+-   `Octavo` Oitavo
+-   `Noveno` Nono
+-   `Décimo`
+-   `Decimoprimero` Décimo-primeiro
+    -   `Undécimo`
+-   `Decimosegundo` Décimo-segundo
+    -   `Duodécimo`
+-   `Decimoctavo` Décimo-oitavo
+-   `Vigésimo`
+-   `Trigésimo`
+-   `Cuadragésimo` Quadragésimo
+-   `Quincuagésimo` Quinquagésimo
+-   `Sexagésimo`
+-   `Septuagésimo`
+-   `Octogésimo`
+-   `Nonagésimo`
+-   `Centésimo`
+-   `Ducentésimo`
+-   `Milésimo`
+
+> [!NOTE]
+> Nas abreviações, usa-se um ponto entre o numeral e o sobrescrito. Ex.: `10.ᵃ`
 
 ## Adjetivos
 

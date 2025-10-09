@@ -85,20 +85,13 @@
 ### Definidos
 
 -   `El` O
-    -   `Lo` Usado antes de adjetivos, particípios, advérbios e o pronome "que".
+    -   `Lo` Usado antes de adjetivos (mesmo que nominalizados), particípios, advérbios e o pronome "que".
 -   `La` A
 
 ### Indefinidos
 
 -   `Un` Um
 -   `Una` Uma
-
-## Se aspectual/intensivo
-
--   O reflexivo `se` (ou os outros reflexivos) possuem um uso mais amplo que no português, sendo usado para ações que não são necessariamente reflexivas.
--   Ele costuma indicar a finalização ou completude da ação. Também pode indicar intenção ou esforço por parte do sujeito. Por fim, também pode ser utilizado enfaticamente para deliminar quantidades ou especificar do que se fala.
--   É bastante usado com os verbos `comer`, `beber`, `tomar` e `fumar`.
--   Ex.: `Comí un pastel` indica que se comeu um bolo sem especificar a quantidade (pode ter sido um pedaço ou ele inteiro). `Me comí un pastel` indica que se comeu um bolo inteiro.
 
 ## Falsos amigos - Falsos cognatos
 

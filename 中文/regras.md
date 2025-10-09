@@ -70,6 +70,8 @@
 
 -   Para perguntas de "sim" ou "não", usa-se <font size="6"><code><ruby>吗<rt>ma</rt></ruby></code></font> no final da frase.
     -   Não se adiciona para frases que já são perguntas.
+-   A ordem das frases interrogativas é a mesma das afirmativas e negativas.
+-   O mandarim costuma apenas substituir a palavra definida na frase afirmativa por uma palavra interrogativa em frases interrogativas, sem modificar a ordem ou conjugação. Ex.: `他七岁` "Ele tem sete anos" → `他几岁` "Quantos anos ele tem?"
 
 ## Negação
 

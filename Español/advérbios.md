@@ -1,5 +1,7 @@
 # Los Adverbios - Advérbios
 
+**São invariáveis.**
+
 -   `No` Não
 -   `Sí` Sim
 -   `Dónde` Onde
@@ -75,6 +77,19 @@
 -   `A través` Através
 -   `Por el momento` Por ora
 -   `Por suerte` Por sorte
+-   `Por ciento` Por cento
+-   `De verdad` De verdade
+-   `De una vez por todas` De uma vez por todas
+-   `A ciegas` Às cegas
+-   `A tiempo` A tempo
+-   `A la vez` Ao mesmo tempo/De uma só vez
+-   `De nuevo` De novo
+-   `De pronto` De repente
+-   `De repente` De repente
+-   `De buena gana` Voluntariamente
+-   `De memoria` De cabeça/De cor
+-   `Por suerte` Por sorte
+-   `Por desgracia` Infelizmente
 
 ## De modo
 

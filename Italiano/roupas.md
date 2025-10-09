@@ -1,7 +1,23 @@
 # I Vestiti - Roupas
 
+## Cabeça
+
+-   `Cappello` Chapéu
+-   `Occhiali` Óculos
+-   `Sciarpa` Cachecol 🚺
+
+## Corpo
+
 -   `Camicia` Camisa
--   `Zaino` Mochila 🚹
+-   `Maglietta` Camiseta
 -   `Giacca` Casaco 🚺/Jaqueta
 -   `Maglione` Suéter
--   `Cappello` Chapéu
+-   `Zaino` Mochila 🚹
+
+## Pernas
+
+-   `Gonna` Saia
+
+## Pés
+
+-   `Scarpa` Sapato 🚺

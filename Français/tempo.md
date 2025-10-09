@@ -53,13 +53,18 @@
 
 ## La Semaine - Semana
 
--   `Dimanche` Domingo
+**Todos são masculinos.**
+
+> [!NOTE]
+> Se usam artigos somente para falar do dia em geral ou em datas completas. Ex.: `le dimanche` "aos domingos/todo domingo", `le dimanche 3 aôut` "domingo, 3 de agosto".
+
 -   `Lundi` Segunda-feira
 -   `Mardi` Terça-feira
 -   `Mercredi` Quarta-feira
 -   `Jeudi` Quinta-feira
 -   `Vendredi` Sexta-feira
 -   `Samedi` Sábado
+-   `Dimanche` Domingo
 
 ## Les Mois - Meses
 

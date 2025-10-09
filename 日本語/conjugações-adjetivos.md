@@ -74,7 +74,7 @@
 > A maioria dos adjetivos-な são palavras de origem estrangeira (em maior parte chinesa e inglesa).
 
 > [!NOTE]
-> O `な` é outra forma conectiva de `だ`, portanto não é utilizada junto com `で`.
+> O `な` pode ser pensado como uma forma atributiva de `だ`, portanto não é utilizada junto com `で`.
 
 ## ノ・ナル<ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby>とト・タル<ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos `なる` e `たる`
 
@@ -166,7 +166,7 @@
 ### Forma nominal
 
 -   A forma nominal objetiva é utilizada para expressar substantivos mensuráveis.
-    -   É similar ao sufixo inglês "-ness".
+    -   É similar ao sufixo "-ura" ou o inglês "-ness".
     -   Também pode ser usada para substantivos subjetivos, tratando-os como verdades universais.
     -   Com os substantivos que se contrastam, o "positivo" é que geralmente é associado à ideia geral de medida.
     -   A forma nominal também pode ser adicionada a outros sufixos, como `たい`, `やすい` e `にくい`.

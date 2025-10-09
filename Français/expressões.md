@@ -25,6 +25,7 @@
 -   `Aucune chance` Sem chance
 -   `Ça te dit.../Ça vous dit` Você quer.../Que tal...
 -   `Allons-y/On y va` Vamos lá
+-   `C'est parti` Vamos lá
 -   `Ça ne veut rien dire` Isso não quer dizer nada
 -   `Gagner sa vie` Ganhar a vida
 -   `Félicitations!` Parabéns!
@@ -53,6 +54,7 @@
 -   `Peu importe` Pouco importa
 -   `Depuis toujours` Desde sempre
 -   `C'est logique` É lógico
+-   `Je ne pense pas` Acho que não/Creio que não
 
 ## Verlan
 

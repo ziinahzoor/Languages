@@ -7,6 +7,7 @@
 -   `Tavolo` Mesa 🚹
 -   `Specchio` Espelho
 -   `Bicchiere` Taça 🚹
+-   `Pillola` Pílula
 
 ## Compras
 
@@ -40,3 +41,4 @@
 -   `Lavoro` Trabalho
 -   `Vacanza` Férias
 -   `Compleanno` Aniversário
+-   `Appuntamento` Encontro/Compromisso/Consulta 🚹

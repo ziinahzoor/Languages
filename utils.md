@@ -33,6 +33,7 @@
 	<tr>
 		<td><a href="https://wiktionary.org/wiki">Dicionário</a> ◆</td>
 		<td><a href="duome.eu/tips">Dicas do Duome</a> ❖</td>
+		<td><a href="https://www.linguno.com/wordComparisons/">Comparações de palavras</a> ⬙</td>
 		<td><a href="https://www.fabulang.com/pt-br">Histórias</a></td>
 		<td><a href="https://fonologia.org/wp-content/uploads/2021/07/IPA_Kiel_2019_full_por-br_Brazilian_Portuguese_Portugues_brasileiro.pdf">IPA</a></td>
 	</tr>
@@ -41,6 +42,12 @@
 ◆ Usar `[linguagem].wiktionary.org/wiki/[palavra]`
 
 ❖ Dicas que eram encontradas nas versões mais antigas do Duolingo
+
+⬙ Usar `linguno.com/wordComparisons/[linguagem]/`, `[linguagem]`="ita;fra;spa;ger"
+
+### Ordem dos dias da semana
+
+<img src="https://c.tadst.com/gfx/1200x675/map--first-day-of-the-week.png?1" width="550px" style="background-color: #E8F9FD; border-radius: 10px; border: 5px purple solid;"/>
 
 ## Alemão
 
@@ -89,10 +96,12 @@
 	<thead>
 		<th>Conjugação</th>
 		<th>Gramática</th>
+		<th>Dicionário</th>
 	</thead>
 	<tr>
 		<td rowspan="2"><a href="https://www.gymglish.com/en/conjugation/spanish">@Gymglish</a></td>
 		<td><a href="https://www.spanishdict.com/guide">@Spanish Dict</a></td>
+		<td rowspan="2"><a href="https://www.spanishdict.com">@Spanish Dict</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://www.gymglish.com/en/hotel-borbollon/spanish-grammar">@Gymglish</a></td>
@@ -105,9 +114,14 @@
 	<thead>
 		<th>Conjugação</th>
 		<th>Gramática</th>
+		<th>Dicionário</th>
 	</thead>
 	<tr>
-		<td rowspan="2"><a href="https://www.gymglish.com/en/conjugation/french">@Gymglish</a></td>
+		<td rowspan="3"><a href="https://www.gymglish.com/en/conjugation/french">@Gymglish</a></td>
+		<td><a href="https://www.frenchdictionary.com/guide">@French Dict</a></td>
+		<td rowspan="3"><a href="https://www.frenchdictionary.com">@French Dict</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://www.gymglish.com/en/frantastique/french-grammar">@Gymglish</a></td>
 	</tr>
 	<tr>
@@ -175,7 +189,7 @@
 	<tr>
 		<td rowspan="3"><a href="https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj">@Cure Dolly Sensei</a></td>
 		<td><a href="https://www.tofugu.com/japanese-grammar/">@Tofugu</a></td>
-		<td rowspan="5"><a href="https://jisho.org/">@Jisho</a></td>
+		<td rowspan="3"><a href="https://jotoba.de/">@Jotoba</a></td>
 		<td><a href="https://kanjialive.com/214-traditional-kanji-radicals">Radicais</a></td>
 		<td rowspan="5"><a href="https://thejapanesepage.com/prefectures-of-japan/">Prefeituras do Japão</a></td>
 	</tr>
@@ -190,6 +204,7 @@
 	<tr>
 		<td rowspan="2"><a href="https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV">@Jouzu Juls</a></td>
 		<td rowspan="2"><a href="https://www.mlcjapanese.co.jp/Download/ViVt.pdf">Transitividade</a></td>
+		<td rowspan="2"><a href="https://jisho.org/">@Jisho</a></td>
 		<td><a href="https://shodo-kanji.com/archive/index-a.html">Caligrafia (Em japonês)</a></td>
 	</tr>
 	<tr>

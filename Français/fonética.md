@@ -4,8 +4,17 @@
 -   Geralmente se ignora a pronúncia das últimas consoantes da palavra. Quanto às últimas vogais, geralmente são mudas.
 -   Liaisons (Ligações): Ao pronunciar, quando uma palavra termina em consoante e a próxima em vogal, carrega-se a consoante para a pronúncia da próxima palavra.
 -   Enchaînements (Encadeamentos) Similar à ligação, mas acontece quando a palavra termina em vogal mas se carrega o som da última consoante para a próxima palavra.
--   O acento agudo geralmente tem som simular ao circunflexo do português, enquanto que a crase tem som semelhante ao acento agudo.
--   O acento circunflexo muitas vezes não indica mudança na pronúncia, apenas que a vogal precedia outras letras no latim que desapareceram no francês.
+-   O francês usa 5 acentos gráficos:
+    -   `L'accent aigu`: O acento agudo. Tem função sonora similar ao acento circunflexo do português.
+        -   Aparece somente na letra `e`.
+    -   `L'accent grave`: O acento grave. Tem função sonora similar ao acento agudo do português.
+        -   Não realiza a função da crase.
+        -   Aparece nas letras `a`, `e` e `u`.
+    -   `L'accent circonflexe`: O acento circunflexo. Muitas vezes não indica mudança na pronúncia, apenas que a vogal precedia um `s` no francês antigo ou latim que desapareceu no francês moderno.
+        -   Pode aparecer em qualquer vogal.
+    -   `Le tréma`: A trema. Indica que as vogais devem ser pronunciadas separadamente.
+        -   Aparece nas letras `e`, `i` e `u`.
+    -   `La cédille`: A cedilha. Tem a mesma função do português.
 
 ## Sons
 
@@ -14,7 +23,7 @@
     -   [gz] no início da palavra ou entre vogais.
     -   [z] numa liaison ou enchaînement.
 -   `â` [ɑ]
--   `e` [ə] ou [e] (depende a palavra)
+-   `e` [ə] ou [e] (depende da palavra)
 -   `é` [e]
 -   `è` [ɛ]
 -   `ê` [ɛ]
@@ -22,6 +31,7 @@
 -   `u` [y]
     -   [w] no início da palavra.
 -   `r` [ʁ]
+-   `t` [s] em terminações com `i` + vogal. Ex.: `-tion`, `-tience`.
 -   `au` [o]
 -   `ai(s)` [ɛ]
     -   [e] no fim da palavra.
@@ -34,6 +44,7 @@
 -   `ou` [u]
 -   `an` [ɑ̃]
 -   `en` [ɑ̃]
+-   `-ez` [e]
 -   `in` [ɛ̃]
 -   `oi` [wa]
 -   `on` [ɔ̃]
@@ -46,10 +57,15 @@
 -   `ll` [l]
     -   [j] depois de "i".
 -   `ph` [f]
+-   `cu` [k]
 -   `qu` [k]
 -   `ti` [sj] (antes de vogal sem acento)
     -   `tie` [si] no fim da palavra.
 -   `th` [t]
+-   `aie` [ɛ]
 -   `ail` [aj]
 -   `eau` [o]
 -   `ois` [wɑ]
+-   `-ait` [ɛ]
+-   `-aud` [o]
+-   `-ault` [o]

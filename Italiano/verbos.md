@@ -14,6 +14,8 @@
 -   `Visitare` Visitar
 -   `Fare` Fazer
     -   `Fare sport` Exercitar
+    -   `Fare shopping` Fazer compras
+    -   `Fare male` Doer
 -   `Cantare` Cantar
 -   `Pattinare` Patinar
 -   `Guidare` Dirigir
@@ -24,6 +26,11 @@
 -   `Preoccupare` Preocupar
 -   `Se manquer` Sentir saudade/falta
     -   Funciona ao contrário do português: `io te manco` é "você sente minha falta"
+-   `Aiutare` Ajudar
+-   `Provare` Provar/Experimentar
+-   `Cenare` Jantar
+-   `Comprare` Comprar
+-   `Usare` Usar
 
 ## Verbi -ere
 
@@ -40,8 +47,13 @@
 -   `Potere` Poder
 -   `Ripetere` Repetir
 -   `Devere` Dever
+-   `Conoscere` Conhecer
 
 ## Verbi -ire
 
 -   `Uscire` Sair
 -   `Capire` Entender
+-   `Preferire` Preferir
+-   `Dormire` Dormir
+-   `Partire` Sair/Partir
+-   `Venire` Vir

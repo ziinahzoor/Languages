@@ -62,6 +62,7 @@
 -   `すみません` Com licença/Desculpa
     -   Pode ser usado com a forma て para indicar "desculpa por...".
     -   `ごめんなさい` Desculpa (Casual)
+        -   `ごめん` Abreviação
     -   <font size="5"><code><ruby>失<rt>しつ</rt>礼<rt>れい</rt></ruby>します</code></font> Teineigo
         -   Literalmente "estou sendo rude".
     -   <font size="5"><code><ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt>ございません<rt></rt></ruby></code></font> Sinto muito/Mil desculpas
@@ -87,6 +88,8 @@
 -   `ごちそうさまでした` Obrigado pela comida
 -   <font size="5"><code>お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>です</code></font> Obrigado pelo trabalho duro/Você está fazendo um bom trabalho (no trabalho)
 -   <font size="5"><code><ruby>結<rt>けっ</rt>構<rt>こう</rt></ruby></code></font> Não, obrigado/Não precisa/Estou cheio
+-   `こちらこそ` Eu que deveria dizer isto
+    -   Também muito utilizado após desculpas.
 
 ## Concordância
 
@@ -98,3 +101,5 @@
 -   `わからない` Eu não sei
     -   `わかない` Abreviação
 -   <font size="5"><code><ruby>用<rt>よう</rt>意<rt>い</rt></ruby>はいいか</code></font> Vocês estão prontos?
+-   `どうしたのですか` Qual o problema?/O que há de errado?
+    -   `どうしたんですか・どうしたの` Abreviação

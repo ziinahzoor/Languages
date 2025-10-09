@@ -29,7 +29,7 @@
 -   `Suelo` Solo
 -   `Polvo` Pó
 
-### Materiais
+### Los Materiales - Materiais
 
 -   `Oro` Ouro
 -   `Plata` Prata
@@ -41,23 +41,71 @@
 -   `Algodón` Algodão
 -   `Tela` Tecido 🚺
 
-## Casa e objetos
+## La Casa y Objetos - Casa e Objetos
 
--   `Pasaporte` Passaporte
--   `Mesa`
+### Infraestrutura
+
+-   `Puerta` Porta
+-   `Ventana` Janela
+
+### Cozinha
+
 -   `Taza` Xícara
 -   `Vaso` Copo
 -   `Copa` Taça
--   `Florero` Vaso
 -   `Tazón` Tigela/Caneca
--   `Plato` Prato
+-   `Bol` Tigela 🚹
 -   `Cuchara` Colher
 -   `Tenedor` Garfo
 -   `Cuchillo` Faca
+-   `Fregadero` Pia 🚹
+-   `Lavaplatos` Pia/Lava-louça 🚹
+-   `Plato` Prato
+-   `Nevera` Geladeira
+    -   `Refrigerador`
+        -   `Refri`
+-   `Estufa` Fogão
+-   `Cafetera` Cafeteira
+-   `Juego` Jogo (de talheres, etc)
+-   `Microondas` Micro-ondas
+
+### Banheiro
+
+-   `Lavamanos` Pia 🚹
+-   `Toalla` Toalha
+-   `Ducha` Chuveiro 🚺
+-   `Jabón` Sabão
+-   `Maquillaje` Maquiagem 🚹
+-   `Champú` Xampú
+
+### Quarto
+
+-   `Mesa de noche` Mesa de cabeceira
+-   `Cama`
+-   `Cómoda` Cômoda
+-   `Armario` Guarda-roupas
+-   `Manta` Cobertor 🚺
+-   `Almohada` Travesseiro 🚺
+-   `Despertador`
+
+### Sala
+
+-   `Televisión` Televisão
+    -   `Televisor`
+    -   `Tele` TV
+-   `Sillón` Poltrona
+
+### Externo
+
+-   `Buzón` Caixa de correio 🚹
+-   `Parrilla` Grelha
+
+### Outros
+
+-   `Pasaporte` Passaporte
+-   `Mesa`
+-   `Florero` Vaso
 -   `Teléfono` Telefone
--   `Lavamanos` Pia (de banheiro) 🚹
--   `Fregadero` Pia (de cozinha) 🚹
--   `Lavaplatos` Pia (de cozinha) 🚹
 -   `Celular`
 -   `Maleta` Mala
 -   `Ventilador`
@@ -66,11 +114,7 @@
 -   `Regalo` Presente
 -   `Cortina`
 -   `Joya` Jóia
--   `Bol` Tigela 🚹
 -   `Libro` Livro
--   `Televisión` Televisão
-    -   `Televisor`
-    -   `Tele` TV
 -   `Tableta` Tablet 🚺
 -   `Bolígrafo` Caneta 🚹
 -   `Examen` Prova 🚹
@@ -78,22 +122,15 @@
     -   `PC` 🚺
 -   `Portátil` Laptop
 -   `Silla` Cadeira
--   `Sillón` Poltrona
 -   `Retrato`
 -   `Videojuego` Videogame
 -   `Mostrador` Bancada 🚹
 -   `Película` Filme 🚺
 -   `Escritorio` Mesa 🚹
 -   `Carta`
--   `Puerta` Porta
 -   `Periódico` Jornal
--   `Ventana` Janela
 -   `Estantería` Estante
 -   `Estante` Prateleira 🚹
--   `Cama`
--   `Nevera` Geladeira
-    -   `Refrigerador`
-        -   `Refri`
 -   `Pelota` Bola
 -   `Muñeca` Boneca
 -   `Diario` Jornal
@@ -106,23 +143,16 @@
 -   `Nota`
 -   `Pizarra` Quadro 🚺
 -   `Paquete` Pacote
--   `Toalla` Toalha
 -   `Papel`
 -   `Caja` Caixa
 -   `Piso`
 -   `Pared` Parede
--   `Ducha` Chuveiro 🚺
 -   `Cómic` Quadrinho
--   `Parrilla` Grelha
--   `Lámpara` Lâmpada
--   `Cafetera` Cafeteira
+-   `Lámpara` Lâmpada/Abajur 🚺
 -   `Mueble` Móvel
 -   `Alfombra` Carpete 🚺
--   `Estufa` Fogão
--   `Cómoda` Cômoda
 -   `Espejo` Espelho
 -   `Lavadora` Máquina de lavar
--   `Jabón` Sabão
 -   `Cigarrillo` Cigarro
 -   `Archivo` Arquivo
 -   `Documento`
@@ -137,8 +167,6 @@
 -   `Diario` Diário
 -   `Carpeta` Pasta
 -   `Peine` Pente
--   `Maquillaje` Maquiagem 🚹
--   `Champú` Xampú
 -   `Lata`
 -   `Calendario` Calendario
 -   `Postal` Cartão Postal 🚺
@@ -153,38 +181,37 @@
 -   `Vendaje` Curativo/Bandagem
 -   `Medicina` Remédio 🚺
 -   `Globo` Balão
--   `Armario` Guarda-roupas
 -   `Mapa`
 -   `Guía` Guia
 -   `Formulario` Formulário
 -   `Sobre` Envelope
--   `Manta` Cobertor 🚺
 -   `Escalera` Escada
 -   `Basurero` Lixeira 🚹
+-   `Basura` Lixo 🚺
 -   `Tijera` Tesoura
 -   `Borrador` Borracha 🚹
 -   `Ascensor` Elevador
--   `Almohada` Travesseiro 🚺
 -   `Pila` Pilha
 -   `Parlante` Alto-falante
 -   `Gabinete` Armário
 -   `Pantalla` Tela
--   `Juego` Jogo (de talheres, etc)
 -   `Hoja de papel` Folha de papel
 -   `Ratón` Mouse
 -   `Cadena` Corrente
 -   `Monumento`
 -   `Cable` Cabo
 -   `Antibiótico`
--   `Microondas` Micro-ondas
 -   `Fuente` Fonte
--   `Buzón` Caixa de correio 🚹
 -   `Documento de identidad` Documento de identidade
 -   `Visa` Visto 🚺
 -   `Currículum` Currículo
+-   `Aire acondicionado` Ar-condicionado
+-   `Botón` Botão
+-   `Electrodoméstico` Eletrodoméstico
 
 ## Abstratos
 
+-   `Cantidad` Quantidade
 -   `Cosa` Coisa
 -   `Cita` Encontro/Compromisso 🚺
 -   `Amor`
@@ -202,6 +229,7 @@
 -   `Hambre` Fome
 -   `Sed` Sede
 -   `Nombre` Nome
+-   `Apellido` Sobrenome
 -   `Mensaje` Mensagem 🚹
 -   `Receta` Receita
 -   `Secreto` Segredo
@@ -369,6 +397,15 @@
 -   `Marca`
 -   `Tamaño` Tamanho
 -   `Salario` Salário
+-   `LLegada` Chegada
+-   `Distancia` Distância
+-   `Destino`
+-   `Conexión` Conexão
+-   `Código postal`
+-   `Boceto` Esboço/Rascunho
+-   `Forma`
+-   `Calefacción` Aquecimento 🚺
+-   `Rutina` Rotina
 
 ### Medidas
 
@@ -382,6 +419,7 @@
 -   `Libra`
 -   `Grado` Grau
 -   `Mitad` Metade
+-   `Milla` Milha
 
 ### Formas abstratas
 
@@ -421,6 +459,9 @@
 -   `Ocupación` Ocupação
 -   `Ejercicio` Exercício
 -   `Tarea` Tarefa
+-   `Tarea doméstica/rutinaria` Tarefa doméstica
+-   `Quehacer` Tarefa 🚹
+-   `Faena` Tarefa
 -   `Curso` Curso/Série escolar
 -   `Compra`
 -   `Lección` Lição
@@ -461,6 +502,10 @@
 -   `Entrevista`
 -   `Presentación` Apresentação
 -   `Evento`
+-   `Tour` Turnê 🚹
+-   `Itinerario` Itinerário
+-   `Entrega`
+-   `Quinceañera` Festa de quinze anos
 
 ### Compras
 
@@ -496,12 +541,16 @@
 -   `Química`
 -   `Geografía` Geografia
 -   `Literatura`
--   `Ciencia` Ciência
+-   `Ciencia/Ciencias` Ciência
 -   `Física`
 -   `Biología` Biologia
 -   `Matemáticas` Matemática
 -   `Literatura`
 -   `Informática`
+-   `Estadística` Estatística
+-   `Religión` Religião
+-   `Educación Física` Educação Física
+-   `Arte`
 
 ### Leitura
 

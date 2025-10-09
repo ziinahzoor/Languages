@@ -1,6 +1,9 @@
 # Les Pronoms - Pronomes
 
-**O uso do pronome `vous` é denominado "vouvoiement" e o uso do pronome `tu` é denominado "tutoiement".**
+**O uso do pronome `vous` é denominado `vouvoiement` e o uso do pronome `tu` é denominado `tutoiement`.**
+
+> [!TIP]
+> Em Quebec, o `tutoiement` é comum com estranhos.
 
 > [!TIP]
 > Todos possuem formas verbais: `vouvoyer` e `tutoyer`.
@@ -218,6 +221,7 @@
 -   `Certain(e)s` Certos
 -   `Quelque` Algum
 -   `Quelque chose` Algo
+-   `Quelque part` Em algum lugar
 -   `Quelqu'un` Alguém
     -   `On`
         -   Impessoal

@@ -65,7 +65,8 @@
 
 -   Palavras femininas geralmente terminam em `e`
 -   `à` é usado para cidades e ilhas e `en` para países, províncias, estados e continentes.
--   Para dizer "há (there is)", usa-se `Il y a`. Também serve para indicar quanto tempo se passou.
+-   Para dizer "há (verbo haver)", usa-se `Il y a`. Também serve para indicar quanto tempo se passou.
+    -   No futuro próximo, `y` vem depois do verbo auxiliar e no pretérito composto não se altera: `Il va y avoir` (futuro próximo), `Il y a eu` (pretérito composto)
 -   Usar os artigos definidos para falar sobre o tempo e as refeições
 -   Quase sempre se usa `des` para se referir a determinados substantivos de uma forma geral.
 -   Eufonia: Os possessivos são usados na forma masculina se o substantivo feminino começa em som de vogal.
@@ -79,6 +80,7 @@
 -   Para frases impessoais, como instruções ou regras, se utiliza `il`, ex.: `Il faut`.
 -   `Avoir mal à` significa sentir dor em algum lugar.
 -   `Là`, mesmo que significando "lá", geralmente é utilizado como "aqui". Ex.: `Je suis là`, `Voilà`.
+    -   Para especificar o "lá" distante, costuma-se usar `là-bas`.
 -   Em solicitações e propostas, é comum não usar verbos de apoio, como "poder".
 -   Usa-se `c'est` antes de artigos e possessivos e `il est` antes de substantivos e adjetivos.
 -   Com a reforma ortográfica de 1990, não se coloca mais acentos circunflexos no "i" e no "u".
@@ -102,14 +104,17 @@
 **O artigo é sempre necessário para substantivos no plural, seja `les` ou `des`.**
 
 > [!IMPORTANT]
-> Quando um adjetivo é usado em conjunto com o substativo, `des` se torna `de`.
+> Quando um adjetivo é prenominal (vem antes do substantivo), `des` se torna `de`.
 
 ### Définis - Definidos
 
-**Sempre usar os artigos definidos para falar de coisas de que se gosta, prefere ou não.**
+> [!NOTE]
+> Os artigos definidos são sempre utilizados quando falamos sobre algo em geral, diferente do português. Ex.: `Les oiseaux volent` "Pássaros voam".
+> Isso é válido para vocativos também. Ex.: `Les enfants, allons-y!` "Crianças, vamos lá!".
+> Consequentemente, também se aplica quando falamos de coisas que gostamos, preferimos, ou não. "J'aime le chocolat" "Eu gosto de chocolate"
 
 > [!IMPORTANT]
-> Se a palavra começar com som de vogal (vogal ou 'h' mudo), `le` ou `la` se tornam `l'`
+> Se a palavra começar com som de vogal (`voyelle/h muet`, vogal ou "h" mudo), `le` ou `la` se tornam `l'`
 
 -   `Le` O
 -   `La` A

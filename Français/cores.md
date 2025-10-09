@@ -1,6 +1,14 @@
 # Les Couleurs - Cores
 
-**Cores derivadas de substantivos costumam ser invariáveis em gênero e número.**
+**Como substantivos, são sempre masculinos.**
+
+**Cores derivadas de substantivos costumam ser invariáveis em gênero e número. Cores com mais de duas palavras também.**
+
+**Claro e escuro são `clair` e `foncé`, respectivamente.**
+
+## Tons básicos
+
+**Cores compostas de dois tons básicos também são invariáveis e usam hífen. Ex.: `bleu-vert` "azul-esverdeado".**
 
 -   `Noir` Preto
 -   `Rouge` Vermelho
@@ -13,6 +21,20 @@
 -   `Jaune` Amarelo
 -   `Orange` Laranja
     -   Invariável
--   `Marron` Marrom
-    -   Invariável
-    -   `Châtain` Castanho
+-   `Brun` Marrom
+    -   `Marron` Castanho
+        -   Invariável
+        -   `Châtain` Alternativa
+
+## Tons refinados
+
+-   `Écarlate` Escarlate
+    -   Variável
+-   `Fauve` Bronze
+    -   Variável
+-   `Incarnat` Escarlate
+    -   Variável
+-   `Mauve` Malva
+    -   Variável
+-   `Pourpre` Púrpura
+    -   Variável

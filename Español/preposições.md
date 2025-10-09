@@ -9,9 +9,13 @@
 -   `Por`
 -   `De`
 -   `Hacia` Em direção a (Towards)/Por volta de
+-   `Ante`
+-   `Tras` Seguindo
+-   `Bajo` Debaixo
 -   `Sobre`
 -   `Entre`
 -   `Durante`
 -   `Hasta` Até
 -   `A lo largo de` Ao longo de
 -   `Según` Segundo
+-   `Contra`

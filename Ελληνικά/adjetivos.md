@@ -105,5 +105,13 @@
 -   `Τριπλός` Triplo
 -   `Ελαφρός` Leve
 -   `Βαρύς` Pesado
+-   `Αριστερός` Esquerdo
+-   `Δεξιός` Direito
+-   `Βόρειος` Norte
+-   `Νότιος` Sul
+-   `Ανατολικός` Leste
+-   `Δυτικός` Oeste
+-   `Διπλανός` Ao lado/Adjacente/Vizinho
+-   `Μπροστινός` Frontal
 
 ## Nacionalidades

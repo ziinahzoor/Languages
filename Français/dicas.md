@@ -3,6 +3,10 @@
 -   Para se apresentar, costuma-se dizer `Moi, c'est [nome]`.
 -   Para se referir à casa de alguém, dizer `chez [pessoa]`.
 -   Usar `est-ce que...` mais para perguntas em que se deseja descobrir algo. Ao solicitar algo é mais comum usar a forma afirmativa com uma entonação de pergunta.
+-   Na escrita, se deixa um espaço antes de "?", "!", ":" e ";". Também antes de símbolos monetários e "#" e "%". Virtualmente, deve ser um espaço sem quebra (ALT+255).
+-   Na escrita, há um espaço entre as aspas "« »" e o seu conteúdo.
+-   Símbolos monetários vêm depois do valor.
+-   Ao invés de ponto para separar casas decimais, usa-se um espaço. Ex.: "120 000,99".
 
 ## Gênero dos substantivos
 

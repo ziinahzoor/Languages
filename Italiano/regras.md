@@ -55,6 +55,9 @@
     </tr>
 </table>
 
+> [!TIP]
+> Acentos são obrigatórios apenas em determinadas palavras oxítonas. Em dicionários, acentos podem ser encontrados em outras sílabas das palavras, mas servem apenas para indicar a tonicidade, não sendo obrigatórios.
+
 -   Verbos terminados em `-arre`, `-orre` e `-urre` fazem parte dos verbos `-ere`. Os terminados em `-isc` fazem parte dos verbos `-ire`.
 -   Prato + `di` + ingrediente significa que o ingrediente é o principal ou o único do prato. Prato + `à` + indrediente significa que o prato tem sabor do ingrediente.
 -   Adjetivos terminados em `-o` geralmente são conjugados em `-o` (masculino singular), `-a` (feminino singular), `-i` (masculino plural) e `-e` (feminino plural). Os terminados em `-e` só se conjugam em `-i` no plural.
@@ -62,30 +65,74 @@
 -   Para frases impessoais, como instruções ou regras, se utiliza `si`, ex.: `Si mangia`. Para verbos reflexivos se usa `ci` antes, ex.: `Ci si alza`.
 -   Quando a preposição `a` ou as conjunções `e` e `o` precedem uma palavra que começa com a mesma letra, adiciona-se um `d` antes da palavra (d eufônico), exceto com palavras iniciadas em "ad", "ed" ou "od".
 
+## Sons complexos
+
+-   Em italiano, existem alguns sons que se tornam complexos após determinadas palavras, e portanto costumam modificá-las. Geralmente ocorrem somente com palavras masculinas.
+-   O sons complexos são formados pelas letras `x`, `y`, `z`, `s` + consoante, `i` + vogal, `gn`, `pn` e `ps`.
+
 ## Gli Articoli - Artigos
 
 > [!NOTE]
 > Os artigos se fundem quando acompanhados das preposições `di`, `a`, `da`, `in` e `su`.
 
-### Determinativi - Definidos
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">Articoli</th>
+            <th colspan="2">Determinativi</th>
+            <th colspan="2">Indeterminativi</th>
+            <th colspan="2">Partitivi</th>
+        </tr>
+        <tr>
+            <th colspan="2" rowspan="2">Artigos</th>
+            <th colspan="2">Definidos</th>
+            <th colspan="2">Indefinidos</th>
+            <th colspan="2">Partitivos</th>
+        </tr>
+        <tr>
+            <th>Masculino 🚹</th>
+            <th>Feminino 🚺</th>
+            <th>Masculino 🚹</th>
+            <th>Feminino 🚺</th>
+            <th>Masculino 🚹</th>
+            <th>Feminino 🚺</th>
+        </tr>
+    </thead>
+    <tr>
+        <th rowspan="2">Singular</th>
+        <th>Normal</th>
+        <td>Il (Lo)</td>
+        <td>La</td>
+        <td rowspan="2">Un (Uno)</td>
+        <td>Una</td>
+        <td>Del (Dello)</td>
+        <td>Della</td>
+    </tr>
+    <tr>
+        <th>Som de vogal</th>
+        <td colspan="2">L'</td>
+        <td>Un'</td>
+        <td colspan="2">Dell'</td>
+    </tr>
+    <tr>
+        <th rowspan="2">Plural</th>
+        <th>Normal</th>
+        <td>I (Gli)</td>
+        <td rowspan="2">Le</td>
+        <td rowspan="2" colspan="2"></td>
+        <td>Dei (Degli)</td>
+        <td rowspan="2">Delle</td>
+    </tr>
+    <tr>
+        <th>Som de vogal</th>
+        <td>Gli</td>
+        <td>Degli</td>
+    </tr>
+</table>
 
-**As letras especiais são `z`, `s` + consoante, `gn`, etc.**
+**Os artigos antes de [sons complexos](#sons-complexos) estão marcados entre parênteses.**
 
--   `Il` O
-    -   `L'` Antes de som de vogal
-    -   `Lo` Antes de letras especiais
--   `La` A
-    -   `L'` Antes de som de vogal
--   `I` Os
-    -   `Gli` Antes de som de vogal e letras especiais
--   `Le` As
-
-### Indeterminativi - Indefinidos
-
--   `Un` Um
-    -   `Uno` Antes de letras especiais
--   `Una` Uma
-    -   `Un'` Antes de som de vogal
+**Em tese, não existem artigos plurais indefinidos, sendo os partitivos plurais utilizados no lugar.**
 
 ## Plural
 

@@ -30,6 +30,7 @@
 -   `Αιώνας` Século
 -   `Χιλιετία` Milênio 🚺
 -   `Ημερομηνία` Data
+-   `Δύση του ηλίου` Pôr do Sol 🚺
 
 ## Dias da semana
 

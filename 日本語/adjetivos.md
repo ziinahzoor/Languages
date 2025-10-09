@@ -27,6 +27,7 @@
 -   <font size="5"><code><ruby>難<rt>むずか</rt></ruby>しい</code></font> Difícil/Complexo
     -   Se refere à dificuldade (intelectual ou técnica) intrínseca de algo, à complexidade.
 -   <font size="5"><code><ruby>悪<rt>わる</rt></ruby>い</code></font> Ruim
+-   <font size="5"><code><ruby>都<rt>つ</rt>合<rt>ごう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い</code></font> Inconveniente
 -   `うすい` Magro
 -   `おいしい` Gostoso
     -   `うまい` Casual `い`
@@ -91,15 +92,17 @@
 -   <font size="5"><code><ruby>怖<rt>こわ</rt></ruby>い</code></font> Assustador
 -   <font size="5"><code><ruby>少<rt>すく</rt>ない</ruby></code></font> Pouco(s)/Insuficiente
     -   Não pode ser usado atributivamente. Usa-se <font size="5"><code><ruby>少<rt>すこ</rt>し</ruby></code></font> no lugar.
--   <font size="5"><code><ruby>多<rt>おお</rt>い</ruby></code></font> Muito(s)/Demais
+-   <font size="5"><code><ruby>多<rt>おお</rt>い</ruby></code></font> Muito(s)/Demais/Numeroso
     -   Não pode ser usado atributivamente. Usa-se <font size="5"><code><ruby>多<rt>おお</rt>くの</ruby></code></font> no lugar.
 -   <font size="5"><code><ruby>軽<rt>かる</rt></ruby>い</code></font> Leve
 -   <font size="5"><code><ruby>重<rt>おも</rt></ruby>い</code></font> Pesado
 -   <font size="5"><code><ruby>眠<rt>ねむ</rt></ruby>い</code></font> Sonolento
 -   <font size="5"><code><ruby>寂<rt>さび</rt></ruby>しい</code></font> Solitário
 -   <font size="5"><code><ruby>悲<rt>かな</rt></ruby>しい</code></font> Triste
+-   <font size="5"><code><ruby>悔<rt>くや</rt></ruby>しい</code></font> Frustrado
 -   <font size="5"><code><ruby>嬉<rt>うれ</rt></ruby>しい</code></font> Alegre/Contente/Feliz
     -   Temporário
+-   <font size="5"><code><ruby>恥<rt>は</rt></ruby>ずかしい</code></font> Envergonhado
 -   `やばい` Perigoso/Arriscado
     -   Em linguagem casual, tem um sentido como a palavra "f\*da", podendo ter conotações ruins ou boas.
 -   `うすい` Fino
@@ -172,8 +175,9 @@
 -   <font size="5"><code><ruby>変<rt>へん</rt></ruby></code></font> Estranho/Esquisito
 -   `ヘルシー` Saudável
 -   <font size="5"><code><ruby>元<rt>げん</rt>気<rt>き</rt></ruby></code></font> Saudável/Vívido/Energético
+    -   "Energético" ou "cheio de energia" é melhor expressado por <font size="5"><code><ruby>元<rt>げん</rt>気<rt>き</rt></ruby>がある</code></font>
 -   `さいこう` Fantástico
--   `しあわせ` Feliz
+-   <font size="5"><code><ruby>幸<rt>しあわ</rt></ruby>せ</code></font> Feliz
     -   Duradouro
 -   <font size="5"><code><ruby>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Resistente/Durável/Robusto
 -   <font size="5"><code><ruby>大<rt>だい</rt>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Ok
@@ -212,6 +216,13 @@
 -   <font size="5"><code><ruby>可哀想<rt>かわいそう</rt></ruby></code></font> Lamentável/Deplorável/Patético
 -   <font size="5"><code><ruby>最<rt>さい</rt>悪<rt>あく</rt></ruby></code></font> Pior
 -   <font size="5"><code><ruby>最<rt>さい</rt>高<rt>こう</rt></ruby></code></font> Melhor/Supremo
+-   <font size="5"><code><ruby>可<rt>か</rt>能<rt>のう</rt></ruby></code></font> Possível
+-   <font size="5"><code><ruby>無<rt>む</rt>理<rt>り</rt></ruby></code></font> Impossível
+-   <font size="5"><code><ruby>豊<rt>ゆた</rt></ruby>か</code></font> Abundante
+-   <font size="5"><code><ruby>再<rt>さい</rt>生<rt>せい</rt>可<rt>か</rt>能<rt>のう</rt></ruby></code></font> Renovável
+-   <font size="5"><code><ruby>不<rt>ふ</rt>明<rt>めい</rt></ruby></code></font> Pouco claro/Confuso/Obscuro
+-   <font size="5"><code><ruby>明<rt>あき</rt></ruby>らか</code></font> Claro/Evidente/Óbvio
+-   <font size="5"><code><ruby>必<rt>ひっ</rt>死<rt>し</rt></ruby></code></font> Frenético/Desesperado
 
 ## Adjetivos たる
 
@@ -236,11 +247,12 @@
 -   `〜づらい` Difícil de
     -   Usado com o radical `い` de verbos.
     -   Se refere a uma ação em que se sente inconfortável ao realizar.
--   `〜みたい` Parecido
-    -   É um adjetivo `な`.
+-   `〜みたい` Parecido/Similar
+    -   É um adjetivo `な`. Antes de verbos, usa-se `に` no lugar.
     -   Geralmente usado como sufixo de substantivos e adjetivos.
     -   Quando ligado a um verbo na forma te, dá a ideia de "gostaria de tentar" alguma coisa.
--   `〜そう` Parecido
+    -   Não é relacionado ao verbo `見る`.
+-   `〜そう` Aparenta/Tem a impressão de
     -   É um adjetivo `な`.
     -   Geralmente usado como sufixo de verbos e adjetivos na sua forma radical.
 

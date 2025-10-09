@@ -4,4 +4,3 @@
 -   `Und` E
 -   `Mit` Com
 -   `Aber` Mas
--   `Im` No/Na/Em

@@ -24,6 +24,12 @@
 -   `Delizioso` Delicioso
 -   `Facile` Fácil
 -   `Perso` Perdido
+-   `Pericoloso` Perigoso
+-   `Migliore` Melhor
+-   `Peggiore` Pior
+-   `Freddo` Frio
+-   `Speciale` Especial
+-   `Importante`
 
 ## Le Nazionalità - Nacionalidades
 

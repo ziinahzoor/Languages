@@ -14,7 +14,8 @@
 -   `Abierto` Aberto
 -   `Cerrado` Fechado
 -   `Grande`
-    -   `Gran`
+    -   `Gran` Prenominal
+-   `Mediano` Médio
 -   `Pequeño` Pequeno
 -   `Caro`
 -   `Barato`
@@ -240,3 +241,13 @@
 -   `Frágil`
 -   `Desconocido` Desconhecido
 -   `Local`
+-   `Directo` Direto
+-   `Hispanohablante` Falante de espanhol
+-   `Antiguo` Antigo
+-   `Espetacular`
+-   `Típico`
+-   `Adicional`
+-   `Raro` Estranho/Raro
+-   `Clásico` Clássico
+-   `Avergonzado` Envergonhado
+-   `Activo` Ativo

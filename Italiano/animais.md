@@ -2,3 +2,4 @@
 
 -   `Pesce` Peixe
 -   `Cane` Cachorro
+-   `Elefante`

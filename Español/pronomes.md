@@ -99,10 +99,12 @@
     </tr>
 </table>
 
+-   O adjetivo possessívo é utilizado antes do substantivo, enquanto o pronome é utilizado depois (quando usado com substantivo).
 -   O indireto sempre deve vir antes do direto na frase.
 -   Quando há um verbo composto (dois verbos), os oblíquos podem vir antes do primeiro ou adicionados como sufixo no segundo (no infinitivo).
 -   `Le` e `les` se tornam `se` antes de `lo`, `la`, `los` e `las`.
 -   Com a preposição `con` os pronomes `mí`, `ti` e `sí` se tornam `conmigo`, `contigo` e `consigo`.
+-   O reflexivo `se` se torna `sí` após preposições.
 
 ## Indefinidos
 
@@ -119,12 +121,29 @@
 
 ## Interrogativos
 
+> [!TIP]
+> Os pronomes interrogativos usam acentos, diferente de suas contrapartes não-interrogativas.
+
 -   `Qué` O que
 -   `Quién` Quem
     -   `Quiénes` Plural
 -   `Cuál` Qual
 -   `Cuántos` Quantos
 -   `Dónde` Onde
+
+## Reflexivos
+
+-   Em construções com verbos auxiliares, o pronome reflexivo vem antes de ambos os verbos, diferente do português. Ex.: `Me estoy bañando` "Estou me banhando".
+-   No infinitivo, gerúndio e imperativo, o reflexivo pode ser afixado à conjugação. Ex.: `Lavarme`, `Lavándome`, `Lávate`
+    -   Com exceção do infinitivo, também adiciona-se um acento agudo na antepenúltima sílaba.
+    -   O imperativo negativo não aceita o afixo, somente o afirmativo.
+
+### Reflexivo aspectual/intensivo
+
+-   O reflexivo `se` (ou os outros reflexivos) possuem um uso mais amplo que no português, sendo usado para ações que não são necessariamente reflexivas.
+-   Ele costuma indicar a finalização ou completude da ação. Também pode indicar intenção ou esforço por parte do sujeito. Por fim, também pode ser utilizado enfaticamente para deliminar quantidades ou especificar do que se fala.
+-   É bastante usado com os verbos `comer`, `beber`, `tomar` e `fumar`.
+-   Ex.: `Comí un pastel` indica que se comeu um bolo sem especificar a quantidade (pode ter sido um pedaço ou ele inteiro). `Me comí un pastel` indica que se comeu um bolo inteiro.
 
 ## Demostrativos - Demonstrativos
 
@@ -148,4 +167,17 @@
 
 ## Relativos
 
+-   `Que`
+-   `El que` O que
+    -   O artigo pode ser conjugado
+-   `El cual` O qual
+    -   O artigo pode ser conjugado
+-   `Quien` Quem/Aquele que
+-   `Quienes` Os que/Aqueles que
 -   `Donde` Onde
+
+## Recíprocos
+
+-   1ᵃ pessoa: `nos`
+-   2ᵃ pessoa: `os`
+-   3ᵃ pessoa: `se`

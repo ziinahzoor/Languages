@@ -12,7 +12,7 @@
     -   `Saumon` Salmão
     -   `Morue` Bacalhau 🚺
     -   `Thon` Atum
--   `Dinosaur` Dinossauro
+-   `Dinosaure` Dinossauro
 -   `Singe` Macaco
 -   `Souris` Rato 🚺
 -   `Éléphant` Elefante

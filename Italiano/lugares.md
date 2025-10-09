@@ -4,7 +4,7 @@
 -   `Banca` Banco 🚺
 -   `Pizzeria` Pizzaria
 -   `Ristorante` Restaurante
--   `Negozio` Loja
+-   `Negozio` Loja 🚹
 -   `Piazza` Praça
 -   `Chiesa` Igreja
 -   `Bar` Bar/Café
@@ -15,14 +15,20 @@
 -   `Parco` Parque
 -   `Hotel`
 -   `Aeroporto`
+-   `Camerino` Camarim/Vestiário
+-   `Ospedale` Hospital
 
 ## Casa
 
 -   `Bagno` Banheiro
+-   `Stanza` Quarto/Cômodo 🚺
 
-## Cidades
+## Lugares Relativos
 
--   `Londra` Londres 🚺
+-   `Qui` Aqui
+-   `Ci` Aqui/Lá
+-   `Lì` Alí
+-   `Là` Lá
 
 ## L'Italia - Itália
 
@@ -31,14 +37,43 @@
 
 ## I Paesi - Países
 
+**Para formar o gentílico, geralmente basta trocar o final por `-ese`, `-ano` ou `-ino`.**
+
 ### America - América
+
+### Americal del Nord - América do Norte
+
+-   `Canada` Canadá
+-   `Messico` México
+-   `Stati Uniti` Estados Unidos
+
+### America del Sud - América do Sul
+
+-   `Argentina`
+-   `Brasile` Brasil
 
 ### Europa
 
--   `Inghilterra` Inglaterra
+-   `Città del Vaticano/Vaticano` Vaticano
+-   `Regno Unito` Reino Unido
+    -   `Inghilterra` Inglaterra
+        -   `Londra` Londres 🚺
+    -   `Scozia` Escócia
+-   `Belgio` Bélgica 🚹
+-   `Francia` França
+-   `Germania` Alemanha
+-   `Portogallo` Portugal
+-   `Spagna` Espanha
+-   `Svezia` Suécia
+-   `Ucraina` Ucrânia
 
-## Lugares Relativos
+### Ásia
 
--   `Qui` Aqui
--   `Lì` Alí
--   `Là` Lá
+-   `Russia` Rússia
+-   `Cina` China
+-   `Corea del Sud` Coreia do Sul
+-   `Giappone` Japão
+
+### África
+
+-   `Sudafrica` África do Sul

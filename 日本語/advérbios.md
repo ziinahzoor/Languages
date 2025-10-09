@@ -51,6 +51,9 @@
 -   <font size="5"><code><ruby>砕<rt>くだ</rt>けた</ruby><ruby>言<rt>い</rt>い</ruby><ruby>方<rt>かた</rt></ruby></code></font> Casualmente/De maneira informal
 -   `たまたま` Por acaso/Inesperadamente
     <font size="5"><code><ruby>細<rt>こま</rt></ruby>かく</code></font> Minuciosamente
+-   <font size="5"><code><ruby>突<rt>とつ</rt>然<rt>ぜん</rt></ruby></code></font> De repente/Abruptamente/Inesperadamente
+-   <font size="5"><code><ruby>必<rt>ひっ</rt>死<rt>し</rt></ruby>に</code></font> Freneticamente/Desesperadamente
+    -   <font size="5"><code><ruby>必<rt>ひっ</rt>死<rt>し</rt></ruby>になって</code></font> Desesperadamente/Pela própria vida
 
 ## Intensidade/Quantidade
 
@@ -66,9 +69,17 @@
 -   `なかなか` Consideravelmente
 -   `かなり` Bastante/Consideravelmente
 -   `すごく` Imensamente/Extremamente/Tão (excessivamente)
--   `たいへん` Muito/Extremamente
 -   `たくさん` Muito (Quantidade)
--   `ちょっと` Um pouco (Pode ser usado pra recusar algo)
+-   `たいへん` Muito/Extremamente (mais subjetivo)
+-   <font size="5"><code><ruby>非<rt>ひ</rt>常<rt>じょう</rt></ruby>に</code></font> Extremamente (mais objetivo)
+-   <font size="5"><code><ruby>一<rt>いっ</rt>生<rt>しょう</rt>懸<rt>けん</rt>命<rt>めい</rt></ruby></code></font> O máximo possível
+-   `できるだけ` Tanto quanto possível
+    -   Mais forte, indica esforço, levar até o limite.
+    -   <font size="5"><code>できるだけ<ruby>早<rt>はや</rt></ruby>く</code></font> O quanto antes
+-   `なるべく` Tanto quanto possível/Assim que possível
+    -   Mais suave e polido, não indica esforço necessariamente.
+-   `ちょっと` Um pouco
+    -   Pode ser usado pra recusar algo, como um "não, desculpe".
     -   <font size="5"><code><ruby>少<rt>すこ</rt>し</ruby></code></font> Um pouco (Honorífico)
         -   Pode ser usado para indicar hesitação.
     -   <font size="5"><code><ruby>少<rt>しょう</rt>々</ruby></code></font> Um pouco (Honorífico)
@@ -87,20 +98,28 @@
     -   Indica uma progressão/mudança gradual
 -   `どんどん` Progressivamente/Rapidamente/Continuadamente
     -   Indica uma progressão/mudança rápida
+-   <font size="5"><code><ruby>約<rt>やく</rt></ruby></code></font> Aproximadamente
+    -   É usado antes do que se refere, diferentemente de `くらい`.
 
 ## Tempo
 
 -   `また` De novo
+    -   Quando conecta duas orações, tem o sentido de "e também/adicionalmente", semelhante a `それに`, porém é mais utilizado na escrita.
 -   `まだ` Ainda
-    -   `まだまだ` Ainda não
+    -   `まだまだ・まだです` Ainda não
 -   `もう` Já
     -   <font size="5"><code>もう<ruby>少<rt>すこ</rt>し</ruby></code></font> Um pouco mais
     -   `もう一つ` Mais uma coisa/Mais um...
     -   `もういちど` Mais uma vez
     -   `もういちかい` Outra vez
 -   `もうすぐ` Logo
+-   <font size="5"><code><ruby>間<rt>ま</rt></ruby>もなく</code></font> Em breve/Logo
+    -   É mais usado em contextos informativos
+    -   Geralmente indica um tempo mais curto e concreto que `もうすぐ`.
 -   `すぐ・すぐに` Imediatamente/Neste momento/Sem demora
 -   <font size="5"><code><ruby>最<rt>さい</rt>近<rt>きん</rt></ruby></code></font> Recentemente/Ultimamente
+-   <font size="5"><code><ruby>決<rt>けっ</rt></ruby>して</code></font> Nunca/De forma alguma
+    -   Usado com frases negativas.
 -   <font size="5"><code><ruby>時々<rt>ときどき</rt></ruby></code></font> Às vezes
 -   `たまに` Ocasionalmente/De vem em quando
 -   `よく` Frequentemente
@@ -109,16 +128,25 @@
 -   `いつも` Sempre
 -   `しばらく` Por um tempo
 -   <font size="5"><code><ruby>一<rt>いち</rt>日<rt>にち</rt>中<rt>じゅう</rt></ruby></code></font> O dia inteiro
+    -   <font size="5"><code><ruby>一<rt>いち</rt>日<rt>にち</rt></ruby></code></font> Mais comum
 -   <font size="5"><code><ruby>今<rt>こん</rt>度<rt>ど</rt></ruby></code></font> Da próxima vez/Outra hora/Dessa vez
     -   <font size="5"><code><ruby>今<rt>こん</rt>回<rt>かい</rt></ruby></code></font> é mais utilizado para "dessa vez"
     -   <font size="5"><code><ruby>少<rt>しょう</rt>々</ruby></code></font> Só um instante/Só um minuto
 -   <font size="5"><code><ruby>頃<rt>ころ</rt></ruby></code></font> Aproximadamente/Por volta de (ponto específico no tempo)
     -   `ごろ` quando usado como sufixo.
 -   <font size="5"><code><ruby>以<rt>い</rt>内<rt>ない</rt></ruby></code></font> Dentro de
+-   <font size="5"><code><ruby>時<rt>とき</rt></ruby></code></font> Quando
+    -   Usado depois de adjetivos, verbos e substantivos para indicar um momento específico.
+-   <font size="5"><code><ruby>到<rt>とう</rt>頭<rt>とう</rt></ruby></code></font> Finalmente
+    -   Geralmente escrito em kana.
+    -   Envolve algum esforço. Ou seja, não costuma ser usado para coisas que acontecem naturalmente ou repentinamente.
+-   `いよいよ` Finalmente
+    -   Costuma ser usado para coisas que acontecem naturalmente ou repentinamente, que não envolvem um esforço para o resultado.
 
 ## Dúvida
 
 -   <font size="5"><code><ruby>多<rt>た</rt>分<rt>ぶん</rt></ruby></code></font> Provavelmente
+-   `もし` Se/Em caso/Supondo
 
 ## Interrogativos
 

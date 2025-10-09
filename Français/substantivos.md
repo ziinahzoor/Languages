@@ -28,6 +28,9 @@
 -   `Pollution` Poluição
 -   `Éclair` Raio/Relâmpago
 -   `Poussière` Poeira
+-   `Fumée` Fumaça
+-   `Incendie` Incêndio
+-   `Ombre` Sombra/Escuridão
 
 ### Materiais
 
@@ -40,6 +43,13 @@
 
 ## La Maison et les objets - Casa e objetos
 
+### Infraestrutura
+
+-   `Mur` Parede/Muro
+-   `Toit` Telhado (Fora)
+-   `Plafond` Teto (Dentro)
+-   `Sol` Chão/Piso
+
 ### Le Salon - Sala
 
 -   `Canapé` Sofá
@@ -50,8 +60,7 @@
 -   `Verre` Taça 🚹
 -   `Bouteille` Garrafa
 -   `Plat` Prato
--   `Placard` Armário
--   `Vaisselle` Louça
+-   `Vaisselle` Vasilha/Louça
 -   `Cuillère` Colher
     -   `Cuillère à café` Colher de chá
     -   `Cuillère à soupe` Colher de sopa
@@ -60,6 +69,8 @@
 -   `Bol` Tigela 🚹
 -   `Évier` Pia 🚹
 -   `Nappe` Toalha de mesa
+-   `Lave-vaisselle` Lava-louça 🚹
+-   `Cafetière` Cafeteira
 
 ### La Salle de Bain - Banheiro
 
@@ -76,6 +87,7 @@
 -   `Shampoing` Xampú
 -   `Peigne` Pente
 -   `Sèche-cheveux` Secador de cabelo
+-   `Baignoire` Banheira
 
 ### La Chambre - Quarto
 
@@ -83,9 +95,12 @@
     -   `Pieu` Gíria 🚹
 -   `Armoire` Guarda-roupas
 -   `Drap` Lençol
+-   `Table de chevet` Mesa de cabeceira
 
 ### Outros
 
+-   `Placard` Armário
+-   `Balai` Vassoura 🚹
 -   `Valise` Mala 🚺
 -   `Passeport` Passaporte 🚹
 -   `Livre` Livro
@@ -128,8 +143,8 @@
 -   `Ballon` Bola (Grande) 🚹
 -   `Boîte` Caixa
     -   `Boite` Pós-reforma de 90
--   `Sol` Chão/Piso
 -   `Escalier` Escada
+-   `Échelle` Escada de mão
 -   `Coussin` Travesseiro
 -   `Étagère` Estante/Prateleira
 -   `Rideau` Cortina 🚹
@@ -192,6 +207,8 @@
 -   `Drapeau` Bandeira 🚹
 -   `Statue` Estátua
 -   `Tissu` Tecido
+-   `CV` Currículo
+-   `Vase` Vaso
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -355,8 +372,9 @@
 -   `Scandale` Escândalo
 -   `Différence` Diferença
 -   `Morceau` Pedaço/Bocado
+    -   Tem uma nuance de irregularidade
 -   `Part` Fatia/Parte/Pedaço
--   `Bout` Ponta/Pedaço
+-   `Bout` Ponta/Migalha/Pedaço
 -   `Commentaire` Comentário
 -   `Niveau` Nível
 -   `Détail` Detalhe
@@ -413,6 +431,11 @@
 -   `Relation` Relação
 -   `Façon` Forma
 -   `Pièce jointe` Anexo 🚺
+-   `Copie` Cópia
+-   `Opportunité` Oportunidade
+-   `Désordre` Bagunça 🚹
+-   `Catastrophe` Catástrofe
+-   `Mystère` Mistério
 
 ### Sentimentos, condições e emoções
 
@@ -453,8 +476,17 @@
 
 ### Símbolos
 
--   `Arobase` Arroba
+-   `Virgule` Vírgula
 -   `Point` Ponto
+-   `Point d'exclamation` Ponto de exclamação
+-   `Point d'interrogation` Ponto de interrogação
+-   `Points de suspension` Reticências
+-   `Point-virgule` Ponto e vírgula
+-   `Deux-points` Dois pontos
+-   `Apostrophe` Apóstrofe
+-   `Guillemets` Aspas
+-   `Trait d'union` Hífen
+-   `Arobase` Arroba
 
 ## Transporte
 
@@ -484,6 +516,7 @@
 ### Relacionados à veículos
 
 -   `Circulation` Tráfego/Trânsito 🚺
+-   `Feu` Semáforo
 -   `Essence` Gasolina
 -   `Moteur` Motor
 -   `Roue` Roda
@@ -615,19 +648,29 @@
 
 ### Esporte
 
+**O verbo relacionado a realizar o esporte é `faire`, junto da preposição `de` e o artigo. Alguns também podem usar `jouer à`.**
+
 -   `Match` Partida
 -   `Football` Futebol
-    -   `Foot`
--   `Basket` Basquete
--   `Volleyball` Vôlei
+    -   `Foot` Coloquial
+-   `Football américain` Futebol americano
+-   `Basket-ball` Basquete
+    -   `Basket` Coloquial
+-   `Base-ball` Beisebol
+-   `Volleyball/Voley-ball` Vôlei
+    -   `Volley` Coloquial
+-   `Handball` Handebol
 -   `Tennis` Tênis
--   `Boxe`
+-   `Boxe` 🚺
 -   `Course` Corrida
 -   `Rugby` Rúgbi
--   `Handball` Handebol
 -   `Snowboard`
 -   `Golf` Golfe
 -   `Hockey` Hóquei
+-   `Cyclisme` Ciclismo
+-   `Lutte` Luta livre
+-   `Natation` Natação
+-   `Surf` Surfe
 -   `Jeux Olympiques` Jogos Olímpicos
 -   `Club` Clube/Time
 -   `Raquette` Raquete
@@ -652,3 +695,5 @@
 -   `Trompette` Trompete 🚺
 
 ## Outros
+
+-   `Drogue` Droga

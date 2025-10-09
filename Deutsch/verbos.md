@@ -26,6 +26,20 @@
 -   `Kosten` Custar
 -   `Leben` Viver
 -   `Wandern` Caminhar/Vagar
+-   `Lernen` Aprender/Estudar
+-   `Sagen` Dizer
+-   `Geben` Dar
+-   `Müssen` Dever/Ter que
+-   `Öffnen` Abrir
+-   `Fahren` Dirigir
+-   `Wissen` Saber
+-   `Vergessen` Esquecer
+-   `Joggen` Correr (Jog)
+-   `Machen` Fazer
+-   `Frühstücken` Tomar café da manhã
+-   `Surfen` Surfar
+-   `Singen` Cantar
+-   `Fotografieren` Fotografar
 
 ## Impessoais
 

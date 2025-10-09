@@ -23,7 +23,7 @@
     </tr>
     <tr>
         <th>Gêneros</th>
-        <td>3: Masculino, feminino e neutro</td>
+        <td>3: Masculino (Maskulin), feminino (Feminin) e neutro (Neutral)</td>
     </tr>
     <tr>
         <th>Números</th>
@@ -61,20 +61,80 @@
 		<th>Vozes verbais</th>
 		<td>2: Ativa e passiva</td>
 	</tr>
+    <tr>
+        <th>Aspas</th>
+        <td>„ “ (Anführungszeichen)</td>
+    </tr>
 </table>
 
 -   Para fazer perguntas, basta inverter o sujeito e o verbo.
 -   Geralmente para se colocar um substantivo no feminino, basta acrescentar `in`.
 -   Para dizer "em casa", geralmente se usa `zu Hause`.
+-   No caso acusativo, apenas palavras masculinas mudam de forma em relação ao caso nominativo.
+-   `ß` é usado depois de vogais longas e ditongos. É semelhante a um "ss".
+-   Como no inglês, palavras de negação vêm após o verbo.
 
 ## Artigos
 
 ### Indefinidos
 
--   `Ein` Um
--   `Eine` Uma
+**Não há artigos plurais.**
+
+<table>
+    <thead>
+        <th></th>
+        <th>Nominativo</th>
+        <th>Acusativo</th>
+        <th>Dativo</th>
+        <th>Genitivo</th>
+    </thead>
+    <tr>
+        <th>✴️</th>
+        <td colspan="2">Ein</td>
+        <td rowspan="2">Einem</td>
+        <td rowspan="2">Eines</td>
+    </tr>
+    <tr>
+        <th>🚹</th>
+        <td>Ein</td>
+        <td>Einen</td>
+    </tr>
+    <tr>
+        <th>🚺</th>
+        <td colspan="2">Eine</td>
+        <td colspan="2">Einer</td>
+    </tr>
+</table>
 
 ### Definidos
 
--   `Der` O
--   `Die` A
+<table>
+    <thead>
+        <th></th>
+        <th>Nominativo</th>
+        <th>Acusativo</th>
+        <th>Dativo</th>
+        <th>Genitivo</th>
+    </thead>
+    <tr>
+        <th>✴️</th>
+        <td colspan="2">Das</td>
+        <td rowspan="2">Dem</td>
+        <td rowspan="2">Des</td>
+    </tr>
+    <tr>
+        <th>🚹</th>
+        <td>Der</td>
+        <td>Den</td>
+    </tr>
+    <tr>
+        <th>🚺</th>
+        <td colspan="2" rowspan="2">Die</td>
+        <td colspan="2">Der</td>
+    </tr>
+    <tr>
+        <th>Plural</th>
+        <td>Den</td>
+        <td>Der</td>
+    </tr>
+</table>

@@ -19,6 +19,7 @@
     -   `Δίδω` Formal
     -   `Δίνω το πίσω` Devolver
 -   `Υπάρχω` Existir
+    -   Também tem a função do impessoal "haver"
 -   `Τρέχω` Correr/Fugir/Executar (um programa)
 -   `Βλέπω` Ver
     -   `Δω/-ιδώ` Dependente
@@ -128,6 +129,7 @@
 -   `Καταλαβαίνω` Entender/Compreender
 -   `Πιάνω` Pegar/Agarrar/Apanhar
 -   `Συστήνω` Introduzir/Apresentar
+-   `Στρίβω` Virar/Girar
 
 ## Verbos -άω (-ώ)
 
@@ -200,6 +202,7 @@
 -   `Αποδέχομαι` Aceitar/Consentir
 -   `Εργάζομαι` Trabalhar
 -   `Σέβομαι` Respeitar
+-   `Κατευθύνομαι` Dirigir-se/Mover-se em direção a
 
 ## Verbos impessoais
 

@@ -212,6 +212,17 @@
 -   `Importar`
 -   `Faltar`
 -   `Explorar`
+-   `Guiar`
+-   `Renovar`
+-   `Cobrar`
+-   `Fregar` Esfregar
+    -   Mais comum no México e Espanha
+-   `Trapear` Esfregar
+    -   Mais comum na América Latina
+-   `Planchar` Passar roupa
+-   `Maquillarse` Maquiar-se
+-   `Sacar` Tirar/Sacar
+-   `Relajarse` Relaxar
 
 ## Los verbos -er
 
@@ -234,6 +245,9 @@
 -   `Hacer` Fazer
     -   `Hacer clic` Clicar
     -   `Hacer cola` Fazer fila
+    -   `Hacer caso` Prestar atenção
+    -   `Hacer burla` Zoar
+-   `Hacerse` Tornar-se
 -   `Creer` Acreditar
 -   `Toucher` Tocar
 -   `Ver`
@@ -273,11 +287,14 @@
 -   `Ascender` Promover
 -   `Suponer` Supor
 -   `Mantener` Manter
+-   `Deber` Dever
+-   `Barrer` Varrer
 
 ## Los verbos -ir
 
 -   `Ir`
     -   `Irse` Sair
+    -   `Ir de compras` Fazer compras
 -   `Venir` Vir
 -   `Vivir` Viver
 -   `Morir` Morrer
@@ -320,3 +337,4 @@
 -   `Discutir`
 -   `Freír` Fritar
 -   `Batir` Bater
+-   `Divertirse` Divertir-se

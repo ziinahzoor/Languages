@@ -21,14 +21,17 @@
     -   Para dar ênfase, funciona como uma exclamação
 -   <font size="5"><code><ruby>何<rt>なん</rt>だ</ruby></code></font> O que...?!/O que é isso?!
 -   `〜そうだ・〜そうです` Dizem que...
+    -   É diferente de usar somente o sufixo `そう`. Por ser uma construção completa, precisa de `だ` antes de substantivos e adjetivos-な, e não requer remover o `い` dos adjetivos-い.
 -   `〜ように` Como/Similar a
     -   Se sufixa a verbos na forma de dicionário ou substantivos com `の`.
     -   `〜ような` Adnominal
     -   Outra forma de fazer o imperativo se usado no fim da frase.
 -   `〜ようだ` Parece.../Como...
     -   Vem de `のよう` "Aparência de".
+    -   É pouco utilizado em contextos casuais
     -   `みたい` Casual
--   `について…` Sobre.../A respeito de...
+-   `…について` Sobre.../A respeito de...
+    -   `…についてどうおもう？` O que você acha de...?
 -   `…とおり` Como esperado/Como prometido
 -   `ところ` Acabou de.../Está prestes a...
     -   Usado com verbos na forma plana
@@ -58,8 +61,6 @@
 -   `これで` Com isto
 -   <font size="5"><code>どうぞ、お<ruby>先<rt>さき</rt></ruby>に</code></font> Por favor, você primeiro
 -   <font size="5"><code>お<ruby>大事<rt>だいじ</rt></ruby>に</code></font> Cuide-se/Melhoras
--   `できるだけ` Tanto quanto possível
--   <font size="5"><code>できるだけ<ruby>早<rt>はや</rt></ruby>く</code></font> O quanto antes
 -   `だけあって` Não é à toa que/Por bom motivo que
 -   <font size="5"><code><ruby>二人<rt>ふたり</rt></ruby>ずつ</code></font> De dois em dois
 -   `まさか` Não acredito!/De jeito nenhum!
@@ -68,7 +69,33 @@
 -   <font size="5"><code><ruby>念<rt>ねん</rt></ruby>のため</code></font> Por via das dúvidas
 -   `かどうか` Se... ou não
 -   <font size="5"><code><ruby>かも知<rt>し</rt></ruby>れない</code></font> Talvez
+    -   Geralmente escrito somente com kana.
+    -   `かも` Abreviação (Mais comum)
+    -   <font size="5"><code><ruby>かも知<rt>し</rt></ruby>らん</code></font> Abreviação (Mais masculina)
+    -   <font size="5"><code><ruby>かも知<rt>し</rt></ruby>れん</code></font> Abreviação
 -   `だけで` Só de/Apenas com
+-   `まさか` Não pode ser/De jeito nenhum/Nunca
+    -   Expressa algo inesperado
+-   <font size="5"><code><ruby>都<rt>つ</rt>合<rt>ごう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い</code></font> Não é o melhor momento/É um pouco inconveniente agora
+    -   Comumente usado para recusas.
+-   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby>は</code></font> Na verdade
+-   <font size="5"><code><ruby>実<rt>じつ</rt></ruby>は</code></font> Na verdade
+-   `しょうがない` Não tem jeito/Fazer o que
+-   `そうだといい` Espero que sim
+-   `としても` Mesmo se
+-   `ということは` Isso significa
+-   `ごとに` A cada
+    -   Acontece todas as vezes, sem exceção
+    -   Sufixal
+-   `おきに` A cada (intervalo de)/De... em...
+    -   Acontece pulando intervalos, com espaçamentos regulares.
+    -   Sufixal
+-   <font size="5"><code>〜<ruby>所<rt>とこ（ろ）</rt></ruby></code></font> Estar prestes a
+    -   Quando usado com verbos na forma plana
+    -   Quando o verbo está conjugado no passado, significa "acabar de", no sentido de ter finalizado a ação recentemente.
+-   `じゃないか` Né?!/Não é?!
+    -   `じゃねー` Coloquial
+    -   Também usado após o volicional para dar ênfase na solicitação.
 
 ## <ruby>相<rt>あい</rt>槌<rt>づち</rt></ruby> - Interjeições de atenção
 
@@ -118,3 +145,4 @@
 -   `ばか` Burro/Estúpido
 -   `ばかやろう` Idiota/C\*zão
 -   `だまれ` Cala a boca
+-   `うすらとんかち` Estúpido

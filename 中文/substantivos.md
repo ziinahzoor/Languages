@@ -16,3 +16,4 @@
 
 -   <font size="6"><code><ruby>中<rt>zhōng</rt></ruby></code></font> Meio/Centro
 -   <font size="6"><code><ruby>汉<rt>hàn</rt>字<rt>zì</rt></ruby></code></font> Hanzi/Caractere chinês
+-   <font size="6"><code><ruby>名<rt>míng</rt>字<rt>zi</rt></ruby></code></font>

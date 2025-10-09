@@ -16,13 +16,14 @@
 -   `Apprendre` Aprender
     -   `S'apprendre` Ensinar
 -   `Comprendre` Entender
--   `Rendre` Deixar/Fazer (causar)
+-   `Rendre` Deixar/Fazer (causar)/Devolver
     -   `Se rendre compte` Se dar conta
 -   `Boire` Beber
 -   `Lire` Ler
 -   `Écrire` Escrever
 -   `Conduire` Dirigir
 -   `Faire` Fazer
+    -   `Faire nuit` Anoitecer/Escurecer
     -   `Faire grève` Fazer greve
     -   `Faire du sport` Exercitar
     -   `Faire du vélo` Andar de bicicleta
@@ -39,6 +40,8 @@
     -   `Faire nuit` Estar de noite/Estar escuro
     -   `Faire un tour` Dar um passeio
     -   `Faire comme ça` Fazer assim
+    -   `Faire le lit` Fazer a cama/Arrumar a cama
+    -   `Faire la vaiselle` Lavar a louça
     -   `Se faire mal` Machucar-se
     -   `Se faire la bise` Beijar-se (na bochecha)
 -   `Défaire` Desfazer
@@ -75,6 +78,8 @@
 -   `Se battre` Brigar
 -   `Suivre` Seguir
 -   `Se taire` Calar-se
+-   `Disparaître` Desaparecer
+    -   `Disparaitre` Pós-reforma de 90
 
 ## -er Verbes
 
@@ -147,6 +152,7 @@
     -   `Se passer` Acontecer
     -   `Passer un examen` Fazer uma prova
     -   `Passer chez` Passar na casa
+    -   `Passer le balai` Varrer
 -   `Plonger` Mergulhar
     -   `Faire de la plongée`
 -   `Nettoyer` Limpar
@@ -188,6 +194,7 @@
     -   `Se ressembler` Assemelhar-se/Parecer-se
 -   `Arroser` Regar
 -   `Fermer` Fechar
+    -   `Fermer à clé` Trancar
 -   `Laver` Lavar
 -   `Vérifier` Verificar/Checar
 -   `Changer` Mudar/Alterar/Trocar
@@ -203,7 +210,7 @@
 -   `Commencer` Começar
 -   `Gagner` Ganhar
 -   `Rigoler` Brincar/Fazer piada/Rir
--   `Enlever` Tirar (de algum lugar)
+-   `Enlever` Tirar (de algum lugar)/Remover
 -   `Traverser` Atravessar/Cruzar
 -   `Ajouter` Adicionar
 -   `Brûler` Queimar/Tostar/Flambar/Arder
@@ -263,6 +270,7 @@
 -   `Surfer` Surfar
 -   `Naviguer` Navegar
 -   `Jeter` Lançar/Jogar fora
+    -   `Jeter un coup d'œil` Dar uma olhada/Relancear
 -   `Laisser` Deixar
 -   `Brancher` Conectar/Plugar
 -   `S'habituer` Acostumar-se
@@ -360,6 +368,14 @@
 -   `Installer` Instalar
 -   `S'amuser` Divertir-se
 -   `Sélectionner` Selecionar
+-   `Proposer` Propor
+-   `Rembourser` Reembolsar/Pagar de volta
+-   `Fixer` Definir/Estabelecer
+-   `Reporter` Adiar
+-   `Toucher` Tocar/Encostar
+-   `Sauver` Salvar
+-   `S'échapper` Escapar/Fugir
+-   `S'approcher` Aproximar-se
 
 ## -ir Verbes
 

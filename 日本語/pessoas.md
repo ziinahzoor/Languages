@@ -1,6 +1,6 @@
 # <ruby>人<rt>ひと</rt>々<rt>びと</rt></ruby> - Pessoas
 
-## Genéricas e grupos
+## Genéricas e grupos de pessoas
 
 -   <font size="5"><code><ruby>方<rt>かた</rt></ruby></code></font> Pessoa (Sonkeigo)
     -   Geralmente pode substituir `人`.
@@ -19,13 +19,22 @@
 -   <font size="5"><code><ruby>大人<rt>おとな</rt></ruby></code></font> Adulto
 -   <font size="5"><code><ruby>女<rt>おんな</rt></ruby></code></font> Mulher
     -   <font size="5"><code><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Honorífico
+-   <font size="5"><code><ruby>女<rt>じょ</rt>性<rt>せい</rt></ruby></code></font> Feminino/Mulher
+    -   É usado para se referir ao sexo biológico, mas também é utilizado para se referir a uma pessoa.
+    -   É ainda mais respeitoso que <font size="5"><code><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font>.
 -   <font size="5"><code><ruby>男<rt>おとこ</rt></ruby></code></font> Homem
     -   <font size="5"><code><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Honorífico
+-   <font size="5"><code><ruby>男<rt>だん</rt>性<rt>せい</rt></ruby></code></font> Masculino/Homem
+    -   É usado para se referir ao sexo biológico, mas também é utilizado para se referir a uma pessoa.
+    -   É ainda mais respeitoso que <font size="5"><code><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font>.
 -   <font size="5"><code><ruby>子<rt>こ</rt>供<rt>ども</rt></ruby></code></font> Criança
 -   <font size="5"><code><ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby></code></font> Menina
 -   <font size="5"><code><ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby></code></font> Menino
 -   <font size="5"><code><ruby>赤<rt>あか</rt></ruby>ちゃん</code></font> Bebê
     -   Também pode ser utilizado para filhotes de animais.
+-   <font size="5"><code><ruby>年<rt>とし</rt>寄<rt>よ</rt></ruby>り</code></font> Idoso
+    -   <font size="5"><code>お<ruby>年<rt>とし</rt>寄<rt>よ</rt></ruby>り</code></font> Honorífico
+-   <font size="5"><code><ruby>小<rt>お</rt>母<rt>ば</rt></ruby>さん</code></font> Senhora/Idosa
 -   `ベジタリアン` Vegetariano
 -   `アイヌ` Ainu
 -   <font size="5"><code><ruby>外<rt>がい</rt>国<rt>こく</rt>人<rt>じん</rt></ruby></code></font> Estrangeiro
@@ -58,8 +67,6 @@
 > [!NOTE]
 > Diversas profissões podem ser formadas por um substantivo + o sufixo <font size="5"><code><ruby>者<rt>しゃ</rt></ruby></code></font> "pessoa".
 
--   <font size="5"><code><ruby>医<rt>い</rt>者<rt>しゃ</rt></ruby></code></font> Médico
--   <font size="5"><code><ruby>歯<rt>は</rt>医<rt>い</rt>者<rt>しゃ</rt></ruby></code></font> Dentista
 -   <font size="5"><code><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></code></font> Professor/Doutor (Médico)/Advogado
     -   É um título, mais generalizado como "mestre".
     -   Não deve ser usado para falar de si.
@@ -74,10 +81,8 @@
     -   <font size="5"><code><ruby>転<rt>てん</rt>校<rt>こう</rt>生<rt>せい</rt></ruby></code></font> Estudante de transferência
 -   <font size="5"><code><ruby>生<rt>せい</rt>徒<rt>と</rt></ruby></code></font> Pupilo/Aprendiz/Estudante (do fundamental ou médio)
 -   `べんごし` Advogado
--   <font size="5"><code><ruby>歌<rt>か</rt>手<rt>しゅ</rt></ruby></code></font> Cantor
--   `ちょしゃ` Autor
--   <font size="5"><code><ruby>作<rt>さっ</rt>家<rt>か</rt></ruby></code></font> Escritor
 -   `エンジニア` Engenheiro
+-   `デザイナー` Designer
 -   <font size="5"><code><ruby>会<rt>かい</rt>社<rt>しゃ</rt>員<rt>いん</rt></ruby></code></font> Trabalhador de escritório
 -   `サラリーマン` Trabalhador de escritório
 -   <font size="5"><code><ruby>社<rt>しゃ</rt>長<rt>ちょう</rt></ruby></code></font> Diretor/Presidente (empresa)
@@ -89,37 +94,56 @@
 -   `ぶし` Guerreiro
 -   `コーチ` Treinador
 -   `マネージャー` Gerente
--   <font size="5"><code><ruby>運<rt>うん</rt>転<rt>てん</rt>手<rt>しゅ</rt></ruby></code></font> Motorista
 -   `ほんやくか` Tradutor
 -   `しゃしんか` Fotógrafo
--   `せんしゅ` Jogador
 -   `プロ` Profissional
--   `はいゆう` Ator
--   `じょゆう` Atriz
+-   <font size="5"><code><ruby>俳<rt>はい</rt>優<rt>ゆう</rt></ruby></code></font> Ator
+-   <font size="5"><code><ruby>女<rt>じょ</rt>優<rt>ゆう</rt></ruby></code></font> Atriz
+-   <font size="5"><code><ruby>声<rt>せい</rt>優<rt>ゆう</rt></ruby></code></font> Dublador/Locutor
 -   `ボランティア` Voluntário
 -   <font size="5"><code><ruby>店<rt>てん</rt>員<rt>いん</rt></ruby></code></font> Funcionário/Garçom
 -   <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Funcionário/Assistente de loja
 -   <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt></ruby></code></font> Caixa
 -   <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt>士<rt>し</rt></ruby></code></font> Contador
 -   `アーティスト` Artista
--   <font size="5"><code><ruby>漫<rt>まん</rt>画<rt>が</rt>家<rt>か</rt></ruby></code></font> Mangaká
 -   <font size="5"><code><ruby>料<rt>りょう</rt>理<rt>り</rt>人<rt>にん</rt></ruby></code></font> Cozinheiro
 -   `シェフ` Chef/Cozinheiro
 -   `オタク` Otaku/Nerd
 -   `ボス` Chefe (de jogos)
 -   `メイド` Empregado doméstico
--   <font size="5"><code><ruby>選<rt>せん</rt>手<rt>しゅ</rt></ruby></code></font> Atleta
 -   <font size="5"><code><ruby>王<rt>おう</rt></ruby></code></font> Rei/Monarca
 -   <font size="5"><code><ruby>主<rt>しゅ</rt>婦<rt>ふ</rt></ruby></code></font> Dona de casa
 -   <font size="5"><code>こそ<ruby>泥<rt>どろ</rt></ruby></code></font> Ladrão sorrateiro
 -   `ボランティア` Voluntário
 -   `ジャーナリスト` Jornalista
 -   <font size="5"><code><ruby>消<rt>しょう</rt>防<rt>ぼう</rt>士<rt>し</rt></ruby></code></font> Bombeiro
+-   `パイロット` Piloto
+-   `ユーチューバー` YouTuber
+
+### Profissões 者
+
+-   <font size="5"><code><ruby>医<rt>い</rt>者<rt>しゃ</rt></ruby></code></font> Médico
+-   <font size="5"><code><ruby>歯<rt>は</rt>医<rt>い</rt>者<rt>しゃ</rt></ruby></code></font> Dentista
+-   <font size="5"><code><ruby>著<rt>ちょ</rt>者<rt>しゃ</rt></ruby></code></font> Autor
+    -   Se refere mais a quem produz a obra do que à profissão em si.
 -   <font size="5"><code><ruby>研<rt>けん</rt>究<rt>きゅう</rt>者<rt>しゃ</rt></ruby></code></font> Pesquisador
 -   <font size="5"><code><ruby>科<rt>か</rt>学<rt>がく</rt>者<rt>しゃ</rt></ruby></code></font> Cientista
 -   <font size="5"><code><ruby>生<rt>せい</rt>物<rt>ぶつ</rt>学<rt>がく</rt>者<rt>しゃ</rt></ruby></code></font> Biólogo
 -   <font size="5"><code><ruby>地<rt>ち</rt>質<rt>しつ</rt>学<rt>がく</rt>者<rt>しゃ</rt></ruby></code></font> Geólogo
 -   <font size="5"><code><ruby>物<rt>ぶつ</rt>理<rt>り</rt>学<rt>がく</rt>者<rt>しゃ</rt></ruby></code></font> Físico
+
+### Profissões 家
+
+-   <font size="5"><code><ruby>漫<rt>まん</rt>画<rt>が</rt>家<rt>か</rt></ruby></code></font> Mangaká
+-   <font size="5"><code><ruby>作<rt>さっ</rt>家<rt>か</rt></ruby></code></font> Escritor
+-   <font size="5"><code><ruby>画<rt>が</rt>家<rt>か</rt></ruby></code></font> Pintor
+-   <font size="5"><code><ruby>音<rt>おん</rt>楽<rt>がく</rt>家<rt>か</rt></ruby></code></font> Músico
+
+### Profissões 手
+
+-   <font size="5"><code><ruby>歌<rt>か</rt>手<rt>しゅ</rt></ruby></code></font> Cantor
+-   <font size="5"><code><ruby>運<rt>うん</rt>転<rt>てん</rt>手<rt>しゅ</rt></ruby></code></font> Motorista
+-   <font size="5"><code><ruby>選<rt>せん</rt>手<rt>しゅ</rt></ruby></code></font> Jogador/Atleta
 
 ## <ruby>家<rt>か</rt>族<rt>ぞく</rt></ruby> - Família
 
@@ -181,6 +205,10 @@
 -   <font size="5"><code><ruby>甥<rt>おい</rt></ruby></code></font> Sobrinho
 -   `ホストファミリー` Família anfitriã
 
+## Grupos e Instituções
+
+-   <font size="5"><code><ruby>警<rt>けい</rt>察<rt>さつ</rt></ruby></code></font> Polícia
+
 ## Conjuntos
 
 -   `チーム` Time
@@ -194,7 +222,8 @@
 ## Divindades
 
 -   <font size="5"><code><ruby>神<rt>かみ</rt>様<rt>さま</rt></ruby></code></font> Deus
--   <font size="5"><code><ruby>地<rt>じ</rt>蔵<rt>ぞう</rt></ruby></code></font> Bodhisattva Kṣitigarbha
+-   <font size="5"><code><ruby>地<rt>じ</rt>蔵<rt>ぞう</rt></ruby></code></font> Jizou
+    -   Conhecido no budismo como Bodhisattva Kṣitigarbha
     -   <font size="5"><code>お<ruby>地<rt>じ</rt>蔵<rt>ぞう</rt></ruby>さん</code></font> Teineigo
     -   Bodhisattva que cuida das crianças, viajantes e do submundo.
 

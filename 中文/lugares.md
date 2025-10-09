@@ -20,7 +20,11 @@
 ### Ásia
 
 -   <font size="6"><code><ruby>中<rt>Zhōng</rt>国<rt>guó</rt></ruby></code></font> China
-    -   <font size="6"><code><ruby>汉<rt>hàn</rt>语<rt>yǔ</rt></ruby></code></font> Chinês (língua)
+    -   <font size="6"><code><ruby>中<rt>zhōng</rt>文<rt>wén</rt></ruby></code></font> Chinês (língua)
+        -   Se refere à linguagem chinesa como um todo
+    -   <font size="6"><code><ruby>汉<rt>hàn</rt>语<rt>yǔ</rt></ruby></code></font> Mandarim
+        -   <font size="6"><code><ruby>普<rt>pǔ</rt>通<rt>tōng</rt>话<rt>huà</rt></ruby></code></font> Alternativa
+        -   <font size="6"><code><ruby>国<rt>guó</rt>语<rt>yǔ</rt></ruby></code></font> Usado no Taiwan
 -   <font size="6"><code><ruby>日<rt>rì</rt>本<rt>běn</rt></ruby></code></font> Japão
 
 ### Oceania

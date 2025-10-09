@@ -8,6 +8,8 @@
 -   `Homme` Homem
 -   `Homme au foyer` Dono de casa
     -   `Père au foyer` Dono de casa (que fica cuidando dos filhos)
+-   `Bonhomme` Cara
+    -   Também utilizado para se referir a bonecos.
 -   `Femme` Mulher
 -   `Garçon` Menino
 -   `Fille` Menina/Filha
@@ -124,6 +126,8 @@
 -   `Comptable` Contador
 -   `Boucher` Açougueiro
 -   `Blogueur` Blogueiro
+-   `Assistant` Assistente
+-   `Spécialiste` Especialista
 
 ## La famille - Família
 

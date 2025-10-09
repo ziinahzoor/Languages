@@ -61,7 +61,9 @@
 -   `En bas` Pra baixo/Embaixo
 -   `Au-dessus` Acima
 -   `Au-dessous` Abaixo/Debaixo
-    -   `En-dessous` Québécois
+    -   `En dessous` Alternativa mais comum
+-   `Par-dessus` Por cima
+-   `Par-dessous` Por baixo
 -   `Milieu` Meio/Metade 🚹
 -   `Extérieur` Exterior
 -   `Intérieur` Interior
@@ -99,18 +101,18 @@
 -   `Baraque` Barraco (Gíria) 🚺
 -   `Foyer` Lar
 -   `Appartement` Apartamento
--   `Toilette` Banheiro
+-   `Toilette` Banheiro 🚺
+    -   Sem chuveiro/banheira
+    -   Costuma-se dizer `les toilettes` na França e `la toilette` em Quebec
 -   `Salle de bain` Banheiro 🚺
 -   `Pièce` Quarto/Cômodo
 -   `Salon` Sala de estar
 -   `Chambre` Quarto
 -   `Cuisine` Cozinha
+-   `Salle à manger` Sala de jantar
 -   `Rez-de-chaussée` Térreo
 -   `Étage` Andar
     -   `Premier étage` Primeiro andar (depois do térreo)
--   `Mur` Parede/Muro
--   `Toit` Telhado (Fora)
--   `Plafond` Teto (Dentro)
 -   `Piscine` Piscina
 -   `Hall` Salão/Lobby
 -   `Couloir` Corredor

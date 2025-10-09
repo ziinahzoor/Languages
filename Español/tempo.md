@@ -29,6 +29,9 @@
 -   `Futuro`
 -   `Anual`
 -   `Un rato` Um momento/Um pouco
+-   `De día` De dia
+-   `De noche` De noite
+-   `Tiempo libre` Tempo livre
 
 ## La Semaña - Semana
 

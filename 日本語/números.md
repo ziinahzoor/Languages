@@ -8,6 +8,8 @@
 
 **Em números de telefone, `の` demarca o traço separador.**
 
+**O ponto decimal é chamado <font size="5"><code><ruby>点<rt>てん</rt></ruby></code></font>**.
+
 <table>
     <thead>
         <tr>
@@ -201,6 +203,9 @@
 -   20 é `はつか`
 -   49 tem uma forma diferente no budismo: `しじゅうくにち`
 
+> [!IMPORTANT]
+> Para estadias, usa-se o contador <font size="5"><code><ruby>泊<rt>はく</rt></ruby></code></font> e conta-se as noites ao invés de dias completos.
+
 ### <font size="5"><code><ruby>第<rt>だい</rt></ruby>、<ruby>目<rt>め</rt></ruby></code></font> Afixos de dias ordinais
 
 -   Ambos acompanham a contagem com 日
@@ -222,6 +227,14 @@
 **Para perguntar a idade de maneira educada usa-se `おいくつですか`.**
 
 **Vinte anos é a idade em que alguém se torna adulto no Japão. Usa-se `はたち` ao invés de `二十`**
+
+### <font size="5"><code><ruby>代<rt>だい</rt></ruby></code></font> Décadas de idade
+
+-   Usado para se referir às décadas de uma idade. Ex.: `20代の頃` "Nos meus 20 anos/Na casa dos meus 20 anos".
+
+### <font size="5"><code><ruby>年<rt>ねん</rt>代<rt>だい</rt></ruby></code></font> Décadas
+
+-   Usado para se referir a décadas específicas. Ex.: `９０年代` "Os anos 90".
 
 ### <font size="5"><code><ruby>回<rt>かい</rt></ruby></code></font> Frequência, Parcelas
 

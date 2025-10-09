@@ -13,8 +13,13 @@
 -   <font size="6"><code><ruby>喝<rt>hē</rt></ruby></code></font> Beber
 -   <font size="6"><code><ruby>买<rt>mǎi</rt></ruby></code></font> Comprar
 -   <font size="6"><code><ruby>喜<rt>xǐ</rt>欢<rt>huan</rt></ruby></code></font> Gostar
-    -   Pode ser usado antes de outros verbos para formar uma locução verbal.
--   <font size="6"><code><ruby>想<rt>xiǎng</rt></ruby></code></font> Querer
-    -   Pode ser usado antes de outros verbos para formar uma locução verbal.
+-   <font size="6"><code><ruby>想<rt>xiǎng</rt></ruby></code></font> Desejar/Querer
+-   <font size="6"><code><ruby>要<rt>yào</rt></ruby></code></font> Querer
 -   <font size="6"><code><ruby>从<rt>cóng</rt></ruby></code></font> Seguir
 -   <font size="6"><code><ruby>休<rt>xiū</rt></ruby></code></font> Descansar
+-   <font size="6"><code><ruby>会<rt>huì</rt></ruby></code></font> Poder/Ser capaz
+    -   Também é utilizado para indicar ações futuras
+-   <font size="6"><code><ruby>游<rt>yóu</rt>泳<rt>yǒng</rt></ruby></code></font> Nadar
+-   <font size="6"><code><ruby>爱<rt>ài</rt></ruby></code></font> Amar
+-   <font size="6"><code><ruby>去<rt>qù</rt></ruby></code></font> Ir
+-   <font size="6"><code><ruby>回<rt>huí</rt></ruby></code></font> Retornar/Voltar

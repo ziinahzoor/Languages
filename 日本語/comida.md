@@ -188,8 +188,16 @@
             -   Sushi inverso: Os ingredientes são envoltos pela nori que por sua vez é envolta com o shari.
         -   <font size="5"><code><ruby>軍<rt>ぐん</rt>艦<rt>かん</rt>寿<rt>ず</rt>司<rt>し</rt></ruby>・<ruby>軍<rt>ぐん</rt>艦<rt>かん</rt>巻<rt>ま</rt></ruby>き</code></font> Gunkanzushi/Gunkanmaki
             -   O metade do tubo de nori é preenchido com shari e a outra com outros ingredientes.
+    -   <font size="5"><code><ruby>手<rt>て</rt>巻<rt>ま</rt></ruby>き・<ruby>手<rt>て</rt>巻<rt>まき</rt></ruby></code></font> Temaki
+        -   Sushi enrolado em nori em formato de cone.
 -   <font size="5"><code><ruby>刺<rt>さし</rt>身<rt>み</rt></ruby></code></font> Sashimi
     -   Peixe (ou outro fruto do mar) cru
+-   <font size="5"><code>すり<ruby>身<rt>み</rt></ruby></code></font> Surimi
+    -   Pasta feita a partir de purê de peixe ou carne, geralmente imitando algum outro tipo de carne, tipicamente caranguejo.
+-   <font size="5"><code><ruby>蒲<rt>かま</rt>鉾<rt>ぼこ</rt></ruby></code></font> Kamaboko
+    -   Surimi curado.
+    -   <font size="5"><code><ruby>鳴<rt>なる</rt>門<rt>と</rt>巻<rt>まき</rt></ruby></code></font> Narutomaki
+        -   Kamaboko com padrão de espiral no meio.
 -   <font size="5"><code><ruby>弁<rt>べん</rt>当<rt>とう</rt></ruby></code></font> Lanche de lancheira
     -   <font size="5"><code>お<ruby>弁<rt>べん</rt>当<rt>とう</rt></ruby></code></font> Teineigo
     -   <font size="5"><code><ruby>駅<rt>えき</rt>弁<rt>べん</rt></ruby></code></font> Lanche comprado na estação
@@ -271,6 +279,7 @@
 -   `メイン` Prato principal
 -   <font size="5"><code><ruby>馳<rt>ち</rt>走<rt>そう</rt></ruby></code></font> Banquete
     -   <font size="5"><code>ご<ruby>馳<rt>ち</rt>走<rt>そう</rt></ruby></code></font> Teineigo
+-   <font size="5"><code><ruby>機<rt>き</rt>内<rt>ない</rt>食<rt>しょく</rt></ruby></code></font> Refeição a bordo do avião
 
 ## Tipos de comida
 

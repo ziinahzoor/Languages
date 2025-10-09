@@ -39,11 +39,16 @@
     -   Não é muito utilizada.
 -   <font size="5"><code><ruby>夜<rt>よる</rt></ruby></code></font> Noite
 
+### Períodos do ano
+
+-   <font size="5"><code><ruby>梅雨<rt>つゆ</rt></ruby></code></font> Temporada de chuva
+
 ### Prefixos
 
 **"Manhã", "noite", "semana", "mês" e "ano" podem usar os prefixos. "Dia" pode usar o prefixo "todo", porém as outras formas seguem conforme descrito na seção [tempo relativo](#tempo-relativo).**
 
 -   <font size="5"><code><ruby>毎<rt>まい</rt></ruby></code></font> Todo(a)
+    -   <font size="5"><code><ruby>毎<rt>まい</rt></ruby>～のように</code></font> Quase todo(a)
 -   <font size="5"><code><ruby>先<rt>せん</rt></ruby></code></font> Anterior/Passado
     -   `夜・晩` é <font size="5"><code><ruby>昨<rt>さく</rt>夜<rt>や</rt></ruby>・<ruby>昨<rt>さく</rt>晩<rt>ばん</rt></ruby></code></font>
         -   <font size="5"><code><ruby>昨夜<rt>ゆうべ</rt></ruby>・<ruby>夕<rt>ゆう</rt></ruby>べ</code></font> Casual, porém mais utilizado
@@ -73,6 +78,8 @@
     -   <font size="5"><code><ruby>後<rt>ご</rt></ruby></code></font> Após/Depois de (advérbio)
         -   <font size="5"><code>の<ruby>後<rt>あと</rt></ruby></code></font> Casual
     -   É um substantivo, não um advérbio.
+    -   <font size="5"><code><ruby>後<rt>あと</rt></ruby>で</code></font> Mais tarde
+        -   A partícula `で` geralmente é omitida no discurso casual.
 -   <font size="5"><code><ruby>先<rt>さき</rt></ruby></code></font> Depois/Futuro
     -   <font size="5"><code><ruby>先<rt>さき</rt></ruby>に</code></font> Antes de/Primeiro/Antes (advérbio)
         -   A mudança brusca no sentido se deve à relatividade das atividades. Ambas estão no futuro, porém uma será realizada antes da outra, o que dá o sentido.
@@ -83,7 +90,8 @@
 -   <font size="5"><code><ruby>一昨日<rt>おととい</rt></ruby></code></font> Anteontem
 -   <font size="5"><code><ruby>昨<rt>きの</rt>日<rt>う</rt></ruby></code></font> Ontem
 -   <font size="5"><code><ruby>今<rt>きょ</rt>日<rt>う</rt></ruby></code></font> Hoje
--   <font size="5"><code><ruby>明<rt>あし</rt>日<rt>た</rt></ruby></code></font> Amanhã
+-   <font size="5"><code><ruby>明日<rt>あした</rt></ruby></code></font> Amanhã
+    -   <font size="5"><code><ruby>明<rt>あ</rt>日<rt>す</rt></ruby></code></font> Formal
 -   <font size="5"><code><ruby>明<rt>あ</rt>後日<rt>さって</rt></ruby></code></font> Depois de amanhã
 
 ### Relativo ao ano
@@ -103,24 +111,26 @@
 -   <font size="5"><code><ruby>暇<rt>ひま</rt></ruby>な<ruby>時<rt>とき</rt></ruby>・<ruby>暇<rt>ひま</rt></ruby></code></font> Tempo livre
 -   <font size="5"><code><ruby>瞬<rt>しゅん</rt>間<rt>かん</rt></ruby></code></font> Momento/Instante
 -   <font size="5"><code><ruby>時<rt>とき</rt></ruby></code></font> Momento/Ocasião/Quando
+    -   Muito utilizado para indicar "quando/naquele momento". Com substantivos, trivialmente necessita da partícula `の`.
+    -   Quando escrito em kanji, geralmente indica um momento. Quando escrito em kana, geralmente se refere a uma situação.
 -   <font size="5"><code>この<ruby>間<rt>あいだ</rt></ruby></code></font> Naquele dia/No outro dia
 -   <font size="5"><code><ruby>古<rt>ふる</rt></ruby>く</code></font> Velhos tempos/Muito tempo atrás
 -   <font size="5"><code>この<ruby>頃<rt>ごろ</rt></ruby></code></font> Hoje em dia/Esses dias
 
 ## <ruby>月<rt>つき</rt></ruby> - Meses
 
--   `一月` `いちがつ` Janeiro
--   `二月` `にがつ` Fevereiro
--   `三月` `さんがつ` Março
--   `四月` `しがつ` Abril
--   `五月` `ごがつ` Maio
--   `六月` `ろくがつ` Junho
--   `七月` `しちがつ` Julho
--   `八月` `はちがつ` Agosto
--   `九月` `くがつ` Setembro
--   `十月` `じゅうがつ` Outubro
--   `十一月` `じゅういちがつ` Novembro
--   `十二月` `じゅうにがつ` Dezembro
+-   <font size="5"><code><ruby>一<rt>いち</rt>月<rt>がつ</rt></ruby></code></font> Janeiro
+-   <font size="5"><code><ruby>二<rt>に</rt>月<rt>がつ</rt></ruby></code></font> Fevereiro
+-   <font size="5"><code><ruby>三<rt>さん</rt>月<rt>がつ</rt></ruby></code></font> Março
+-   <font size="5"><code><ruby>四<rt>し</rt>月<rt>がつ</rt></ruby></code></font> Abril
+-   <font size="5"><code><ruby>五<rt>ご</rt>月<rt>がつ</rt></ruby></code></font> Maio
+-   <font size="5"><code><ruby>六<rt>ろく</rt>月<rt>がつ</rt></ruby></code></font> Junho
+-   <font size="5"><code><ruby>七<rt>しち</rt>月<rt>がつ</rt></ruby></code></font> Julho
+-   <font size="5"><code><ruby>八<rt>はち</rt>月<rt>がつ</rt></ruby></code></font> Agosto
+-   <font size="5"><code><ruby>九<rt>く</rt>月<rt>がつ</rt></ruby></code></font> Setembro
+-   <font size="5"><code><ruby>十<rt>じゅう</rt>月<rt>がつ</rt></ruby></code></font> Outubro
+-   <font size="5"><code><ruby>十<rt>じゅう</rt>一<rt>いち</rt>月<rt>がつ</rt></ruby></code></font> Novembro
+-   <font size="5"><code><ruby>十<rt>じゅう</rt>二<rt>に</rt>月<rt>がつ</rt></ruby></code></font> Dezembro
 
 ## <ruby>週<rt>しゅう</rt>間<rt>かん</rt></ruby> - Semana
 
@@ -173,6 +183,8 @@
 **O ano também pode ser determinado pelos Ciclos Sexagenários oriundos da China.**
 
 ## <ruby>天<rt>てん</rt>気<rt>き</rt></ruby> - Clima
+
+**<font size="5"><code><ruby>気<rt>き</rt>候<rt>こう</rt></ruby></code></font> se refere ao clima a longo prazo ou o clima de uma área em geral.**
 
 -   <font size="5"><code><ruby>晴<rt>は</rt></ruby>れ</code></font> Limpo/Ensolarado
 -   <font size="5"><code><ruby>曇<rt>くも</rt></ruby>り</code></font> Nublado

@@ -20,9 +20,14 @@
         <td><a href="#solicitativa-optativa">Solicitativa optativa (て+もいいですか)</a></td>
 	</tr>
 	<tr>
+        <td><a href="#desiderativa">Solicitativa desiderativa (て+ほしいい)</a></td>
+        <td><a href="#antecipativa">Antecipativa (て+おく)</a></td>
         <td><a href="#sequencial">Sequencial (て+から)</a></td>
-        <td><a href="#benefactiva">Benefactiva</a></td>
+        <td><a href="#completa">Não-intencional/Completa (て+しまう)</a></td>
 	</tr>
+    <tr>
+        <td><a href="#benefactiva">Benefactiva</a></td>
+    </tr>
 </table>
 
 <h2 id="var_progressivo-resultativa">Forma て+いる - Progressivo-resultativa</h2>
@@ -103,7 +108,9 @@
 -   É uma negação dupla da forma proibitiva, fazendo uma afirmação: "não se deve não fazer...".
 -   Vale lembrar que `なく` é a forma conjuntiva de `ない`.
 -   Muitas vezes a forma completa é abreviada apenas para `なくちゃ`.
--   Também pode ser escrita através da construção condicional `なければ` + `いけない`, que pode ser abreviada para `なきゃ`.
+-   Também pode ser escrita através da construção condicional `なければ` ao invés de `なくては`, que pode ser abreviada para `なきゃ`.
+-   `いけない` também pode ser substituído por `ならない`.
+    -   Tem uma nuance menos pessoal, como a obrigação vir de uma lei, regra, ou expectativa social.
 
 <h2 id="var_solicitativa">Forma て+いいです（か）- Permissiva/Solicitativa</h2>
 
@@ -118,13 +125,29 @@
 -   Também pode ser utilizada com adjetivos e substantivos.
 -   Apesar da nuance, no dia-a-dia só é um pouco mais formal que a forma solicitativa.
 
-<h3 id="var_optativa">Forma なくて+もいいです - Optativa</h3>
+<h3 id="var_optativa">Forma なくて+もいいです - Solicitativa optativa</h3>
 
 -   Indica ao ouvinte que a ação não é necessária, dando-o permissão para realizá-la somente se quiser.
+
+<h3 id="var_desiderativa">Forma て+ほしいい - Solicitativa desiderativa</h3>
+
+-   Indica que o locutor deseja que o ouvinte ou outra parte realize uma ação. "Quero que você.../Quero que ele...".
+
+<h2 id="var_antecipativa">Forma て+おく - Antecipativa</h2>
+
+-   Indica que a ação foi feita com antecedência, em preparação ou antecipação a alguma coisa, seja para facilitar, prevenir ou por qualquer outro motivo.
+-   Em mangás e programas de TV costuma ser abreviado para `とく` e `どく`.
 
 <h2 id="var_sequencial">Forma て+から - Sequencial</h2>
 
 -   Indica que a frase seguinte vai ocorrer depois que a primeira ocorrer. Não indica uma implicação lógica, apenas uma ordem para as ações. "Depois de", "desde".
+
+<h2 id="var_completa">Forma て+しまう - Não-intencional/Completa</h2>
+
+-   Indica que algo foi feito acidentalmente ou de forma não-intencional, como a construção "acabei fazendo".
+-   `しまう` é um verbo que significa "terminar" ou "acabar".
+-   Também indica que uma ação foi feita completamente. As funções só podem ser diferenciadas pelo contexto.
+-   Pode ser abreviada para `ちゃう`.
 
 <h2 id="var_benefactiva">Forma て+Verbo de transferência - Benefactiva/De favor</h2>
 

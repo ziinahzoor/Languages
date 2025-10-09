@@ -7,6 +7,7 @@
 -   `Jung` Jovem
 -   `Schön` Bonito
 -   `Gut` Bom
+-   `Schlecht` Ruim/Mau
 -   `Lecker` Delicioso
 -   `Kalt` Frio
 -   `Heiß` Quente
@@ -22,6 +23,7 @@
 -   `Schnell` Rápido
 -   `Krank` Doente
 -   `Cool` Legal
+-   `Toll` Ótimo/Legal
 -   `Alt` Velho
 -   `Neu` Novo
 -   `Billig` Barato
@@ -29,16 +31,26 @@
 -   `Stressig` Estressante
 -   `Interessant` Interessante
 -   `Einfach` Fácil
+-   `Schwer` Difícil
 -   `Elegant` Elegante
 -   `Sonnig` Ensolarado
 -   `Bewölkt` Nublado
 -   `Windig` Ventoso
 -   `Neblig` Enevoado/Nebuloso
 -   `Warm` Morno
--   `Schlecht` Ruim/Mau
 -   `Stark` Forte
+-   `Süß` Fofo
+-   `Richtig` Certo/Correto
+-   `Lustig` Engraçado
+-   `Laut` Barulhento/Alto
 
 ## Nacionalidades
 
 -   `Deutsch` Alemão
 -   `Englisch` Inglês
+-   `Türkisch` Turco
+-   `Polnisch` Polonês
+-   `Französisch` Francês
+-   `Schwedisch` Sueco
+-   `Spanisch` Espanhol
+-   `Russisch` Russo

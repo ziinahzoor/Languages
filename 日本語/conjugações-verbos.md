@@ -4,47 +4,53 @@
     <thead>
         <tr>
             <th>Base</th>
-            <th colspan="6">Forma</th>
+            <th colspan="5">Forma</th>
         </tr>
     </thead>
     <tr>
         <th><a href="#base-a">Base あ</a></th>
         <td colspan="2"><a href="#negativa">Negativa</a></td>
-        <td><a href="#passiva">Passiva</a></td>
-        <td><a href="#causativa">Causativa</a></td>
-        <td colspan="2"><a href="#causativo-passiva">Causativo-passiva</a></td>
+        <td colspan="1"><a href="#passiva">Passiva</a></td>
+        <td colspan="1"><a href="#causativa">Causativa</a></td>
+        <td colspan="1"><a href="#causativo-passiva">Causativo-passiva</a></td>
     </tr>
     <tr>
-        <th><a href="#base-i">Base い</a></th>
+        <th rowspan="2"><a href="#base-i">Base い</a></th>
         <td><a href="#nominal">Nominal (Gerúndio)</a></td>
         <td><a href="#educada">Educada</a></td>
         <td><a href="#pejorativa">Pejorativa</a></td>
         <td><a href="#desejo">Desejo</a></td>
         <td><a href="#aparente">Aparente</a></td>
+    </tr>
+    <tr>
+        <td><a href="#imperativa-educada">Imperativa educada</a></td>
+        <td><a href="#proposito">De Propósito</a></td>
+        <td><a href="#complexidade">De Complexidade</a></td>
+        <td><a href="#metodica">Metódica</a></td>
         <td><a href="#composta">Composta</a></td>
     </tr>
     <tr>
         <th><a href="#base-u">Base う</a></th>
         <td colspan="3"><a href="#plana">Plana</a></td>
-        <td colspan="3"><a href="#atributiva">Atributiva</a></td>
+        <td colspan="2"><a href="#atributiva">Atributiva</a></td>
     </tr>
     <tr>
         <th><a href="#base-e">Base え</a></th>
         <td colspan="2"><a href="#condicional">Condicional</a></td>
         <td colspan="2"><a href="#potencial">Potencial</a></td>
-        <td colspan="2"><a href="#imperativa">Imperativa</a></td>
+        <td colspan="1"><a href="#imperativa">Imperativa</a></td>
     </tr>
     <tr>
         <th><a href="#base-o">Base お</a></th>
-        <td colspan="6"><a href="#volicional">Volicional</a></td>
+        <td colspan="5"><a href="#volicional">Volicional</a></td>
     </tr>
     <tr>
         <th><a href="#base-eufonica">Base Eufônica</a></th>
-        <td colspan="3"><a href="#forma-ta">Forma た</a></td>
+        <td colspan="2"><a href="#forma-ta">Forma た</a></td>
         <td colspan="3"><a href="#forma-te">Forma て</a></td>
     </tr>
     <tr>
-        <th colspan="7"><a href="#outras-formas">Outras</a></th>
+        <th colspan="6"><a href="#outras-formas">Outras</a></th>
     </tr>
 </table>
 
@@ -142,7 +148,8 @@
 -   A forma negativa + a partícula interrogativa `か` ou um tom interrogativo geralmente é usada para fazer um convite ou sugestão, como "Você gostaria de...?" ou "Que tal se...?".
     -   Também vale para a forma educada negativa.
     -   É mais voltada pro desejo do ouvinte do que a volitiva, que é mais voltada pro desejo do locutor.
--   Se usada com o sufixo `で` (uma espécie de forma-て), forma uma conjunção que é utilizada para indicar que uma ação é feita sem fazer outra ação. Quando essa conjugação é utilizada no fim da frase, indica uma proibição.
+-   Pode ser usado com a forma `て`, formando a construção `ないで`, uma conjunção que é utilizada para indicar que uma ação é feita sem fazer outra ação. Quando essa conjugação é utilizada no fim da frase, indica uma proibição.
+    -   Na escrita, tal construção também é encontrada como `ずに`.
 -   Exceções:
     -   `〜ます` → `〜ません`
 
@@ -192,6 +199,7 @@
 
 -   `ます` é um verbo auxiliar que serve somente para o <font size="5"><code><ruby>丁<rt>てい</rt>寧<rt>ねい</rt>語<rt>ご</rt></ruby></code></font> (discurso educado).
 -   Usa o radical negativo `せん` ao invés de `さない` pois deriva do japonês antigo.
+-   No imperativo, torna-se `ませ`. Geralmente é utilizado para aumentar a cortesia de um cumprimento.
 
 <h3 id="var_pejorativa"> Forma pejorativa (やがる)</h3>
 
@@ -203,7 +211,7 @@
 -   `たい` é um adjetivo auxiliar que significa "querer".
 -   Serve para expressar o desejo de fazer alguma ação.
 -   É um sufixo intransitivo, portanto, se o verbo que o acompanha for intransitivo, pode usar ambas a partículas `が` e `を`. A primeira só dá um pouco mais ênfase no quanto se quer.
--   Só serve para se referir a si. Para se referir ao que outra pessoa quer, usar `たがる`.
+-   Só serve para se referir a si, pois é direto. Para se referir ao que outra pessoa quer, usar `た` + `がる` "dar a impressão de querer".
 -   Pode usar a cópula para o discurso honorífico.
 -   Para ser ainda mais educado, pode-se usar a forma de desejo + `のですが・んですが` para dizer algo como "Eu gostaria de...".
 -   Não serve para convidar. Neste caso, usa-se `～ませんか`.
@@ -214,21 +222,51 @@
 -   Quando usado com a forma plana do verbo, indica que você ouviu alguém dizer que alguma ação vai acontecer.
 -   Aceita `です` no fim.
 
+<h3 id="var_imperativa-educada">Forma imperativa educada (なさい)</h3>
+
+-   É mais educada que a <a href="#imperativa">forma imperativa</a>, mas continua sendo um comando, e portanto deve-se evitar usar com pessoas de maior autoridade.
+-   Quando usada com pessoas de mais proximidade, geralmente indica um pedido ou desejo afetuoso ao invés de um comando propriamente dito.
+    -   Um exemplo comum é `おやすみなさい` "tenha uma boa noite" (ou literalmente "descanse").
+
+<h3 id="var_proposito">Forma de propósito (に行く・に来る)</h3>
+
+-   É a forma que indica a finalidade ou propósito de ir ou vir de algum lugar. Ex.: `勉強しに行く` "Ir (para) estudar", `買いに来る` "Vir (para) comprar".
+
+<h3 id="var_refazer"> Forma de refazer (<ruby>直<rt>なお</rt>す</ruby>)</h3>
+
+-   É a forma utilizada para indicar que a ação será refeita. Ex.: `開け直す` "Reabrir"
+
+<h3 id="var_complexidade">Forma de complexidade</h3>
+
+-   Indica que algo é fácil ou difícil de fazer.
+-   Para indicar que algo é fácil de fazer, usa-se `やすい` e para indicar que algo é difícil de fazer, usa-se `にくい`.
+
+<h3 id="var_metodica">Forma metódica</h3>
+
+-   Descreve o jeito ou forma de realizar um verbo.
+-   Usa-se <font size="5"><code><ruby>方<rt>かた</rt></ruby></code></font> com a base `い` de verbos e <font size="5"><code><ruby>仕<rt>し</rt>方<rt>かた</rt></ruby></code></font> com verbos-する. Ex.: <font size="5"><code><ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby></code></font> "Como usar"/"Forma de usar"
+
+<h3 id="var_inicio">Forma de início</h3>
+
+-   Descreve que algo vai começar a ser feito.
+-   Adiciona-se uma conjugação de <font size="5"><code><ruby>始<rt>はじ</rt></ruby>める</code></font> à base `い` do verbo.
+
+<h3 id="var_inicio">Forma de início súbito</h3>
+
+-   Como a forma de início, porém com a nuance da ação iniciada não ser intencional, inevitável, espontânea ou súbita.
+-   Pode ser melhor interpretada como "pôr-se a", "desatar a".
+-   Adiciona-se uma conjugação de <font size="5"><code><ruby>出<rt>だ</rt></ruby>す</code></font> à base `い` do verbo.
+
+<h3 id="var_fim">Forma de fim</h3>
+
+-   Descreve que algo vai parar de ser feito.
+-   Adiciona-se uma conjugação de <font size="5"><code><ruby>終<rt>お</rt></ruby>わる</code></font> à base `い` do verbo.
+
 <h3 id="var_composta">Forma composta</h3>
 
 -   Usada para juntar um verbo com outro verbo ou um substantivo.
 -   Não é explicitamente uma forma.
 -   Usada principalmente com "coisa" para tornar um verbo um substantivo. Ex.: `買い物` Compras, `飲み物` Bebida, `食べ物` Comida.
-
-<h4 id="var_complexidade">Forma de complexidade</h4>
-
--   Indica que algo é fácil ou difícil de fazer.
--   Para indicar que algo é fácil de fazer, usa-se `やすい` e para indicar que algo é difícil de fazer, usa-se `にくい`.
-
-<h4 id="var_metodica">Forma metódica</h4>
-
--   Descreve o jeito ou forma de realizar um verbo.
--   Usa-se <font size="5"><code><ruby>方<rt>かた</rt></ruby></code></font> com a base `い` de verbos e <font size="5"><code><ruby>仕<rt>し</rt>方<rt>かた</rt></ruby></code></font> com verbos-する.
 
 ---
 
@@ -251,8 +289,26 @@
     -   Em orações relativas não se usa a forma educada. Costuma-se usar o passado ou a forma continuativa.
     -   As orações relativas sempre vêm depois da partícula `が`, que muitas das vezes pode ser substituída por `の`. Em orações relativas não se usa a partícula `は`.
     -   Ex.: `ウサギは服を着ている` significa "O coelho usa roupa". Para dizer "O coelho que usa roupa", inverte-se: `服をきているうさぎ`.
--   Também pode ser usada com `つもり` para indicar a intenção de fazer algo.
--   Também pode ser usada com <font size="5"><code><ruby>方<rt>ほう</rt></ruby>がいい</code></font> para opiniões gerais sobre como decisões. Ex.: "é melhor...".
+
+<h4>Forma de intenção</h4>
+
+-   Forma atributiva + `つもり`.
+-   Indica a intenção de realizar uma ação.
+
+<h4>Forma opinativa</h4>
+
+-   Forma atributiva + <font size="5"><code><ruby>方<rt>ほう</rt></ruby>がいい</code></font>.
+-   Usada tanto para opiniões gerais sobre como decisões. "É melhor...".
+
+<h4>Forma de expectativa</h4>
+
+-   Forma atributiva + `といい`. Também pode ser usado com adjetivos e substantivos.
+-   Indica que se tem expectativa ou desejo que algo aconteça. "Seria bom se...".
+
+<h4>Forma de relato</h4>
+
+-   Forma atributiva + `ときいた`. Também pode ser usado com adjetivos e substantivos.
+-   Indica que uma informação foi relatada. "Ouvi que...".
 
 ---
 
@@ -267,14 +323,20 @@
     -   `〜ない` → `〜なければ` (Reduzido coloquialmente para `なきゃ`, `なけりゃ` (mais masculino) ou `なくちゃ`)
 -   Torna a ação do verbo uma condição para o que vem a seguir na frase. Ex.: `見れば分かる` "Se você ver, você vai entender"
 -   É utilizado para verdades universais, hábitos "sempre que...".
+-   Geralmente indica resultados positivos.
 -   Para o futuro, é comumente usado com `だろう・でしょう`.
+
+<h4>Forma de arrependimento</h4>
+
+-   Forma condicional + `よかった`.
+-   Indica que algo poderia ter sido feito e não foi. "Eu deveria.../Eu deveria ter feito...".
 
 <h3 id="var_potencial"><ruby>可<rt>か</rt>能<rt>のう</rt>形<rt>けい</rt></ruby> - Forma potencial</h3>
 
 -   Forma-se outro verbo, adicionando o verbo ichidan aulixiar `る`.
-    -   `られる` para verbos ichidan. Na conversação, o `ら` geralmente não é dito, o que é chamado de <font size="5"><code><ruby>ら</ruby><ruby>抜<rt>ぬ</rt></ruby>き<ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby></code></font>.
+    -   `られる` para verbos ichidan. Na conversação, o `ら` geralmente não é dito, o que é chamado de <font size="5"><code><ruby>ら</ruby><ruby>抜<rt>ぬ</rt></ruby>き<ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby></code></font>. Também se aplica ao verbo `来る`.
 -   Este verbo é a forma potencial: demonstra a capacidade da ação ser feita.
--   Geralmente o verbo na forma potencial acompanha a partícula `が`.
+-   Geralmente o verbo na forma potencial acompanha a partícula `が`, mas também é possível utilizar `を` sem problemas.
 -   `Forma plana` + `ことができる` é usado em contextos formais.
 -   Verbos する intuitivamente devem usam a forma potencial de `する`: `できる`.
     -   `Substantivo-verbo` + `することができる` em contextos formais.
@@ -284,11 +346,13 @@
 <h3 id="var_imperativa"><ruby>命<rt>めい</rt>令<rt>れい</rt>形<rt>けい</rt></ruby> - Forma imperativa</h3>
 
 -   Como se dá comandos.
--   Percebida como confrontacional ou agressiva. Para ser menos rude, usar a forma `て` + `ください`, ou usar a partícula `よ`.
+-   Percebida como confrontacional ou agressiva.
+    -   Para ser menos rude, pode-se usar acrescentar a partícula `よ`, a construção `って` ou usar a formas `て（ください）` e `なさい`.
 -   Para verbos godan basta usar o verbo com o radical `え`.
 -   Para verbos ichidan o kana é substituído por `ろ` na conversação e `よ` na escrita.
 -   Para comandos negativos (forma proibitiva), pode-se usar a forma de dicionário + `な`. Para ser menos rígido, pode-se usar a forma `ない`＋`で`+`ください`.
 -   Exceções:
+    -   `くれる` → `くれ`
     -   `くださる` → `ください`
     -   `ある` → `あれ`
 
@@ -334,6 +398,8 @@
 -   São as formas volicionais de `だ` e `です`.
 -   Tem a função de supor, especular ou conjecturar, como "eu acho que" ou "pode ser que". A tradução mais utilizada é "provavelmente".
     -   Ou seja, é como o verbo "poder" com o sentido de possibilidade, inclusive significando "poderia...?" em perguntas.
+-   Demonstra o julgamento do falante.
+-   É mais assertivo do que uma dúvida total, mais "deve ser" do que "pode ser"
 -   Indica a possibilidade de algo ou que algo parece acontecer. Indica que tudo leva a crer que algo é verdade.
 -   Também pode ser utilizado para confirmações, como a partícula `ね`. Porém, é mais utilizado para confirmar fatos do que para expressar um sentimento mútuo.
 -   `だろう` pode ser abreviado para `だろ`, e `でしょう` para `でしょ`.
@@ -486,7 +552,7 @@
 
 ##### ことになる
 
--   Algo foi decidido sobre uma situação. "Foi decidido que..."
+-   Algo foi decidido sobre uma situação. "Foi decidido que...", ou mais literalmente "Se tornou assim que..."
 -   Mais literalmente, algo se tornou a situação.
 
 #### にする
@@ -500,12 +566,12 @@
 
 ##### ようにする
 
--   Tentar/Garantir que
+-   Tentar/Garantir que.
 -   Tem o sentido de fazer um esforço para que algo aconteça
 
 ##### ことにする
 
--   Decidir realizar alguma coisa.
+-   Decidir realizar alguma coisa. Mais literalmente "Será feito que seja assim".
 
 #### とする
 

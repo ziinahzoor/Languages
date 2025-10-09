@@ -2,6 +2,8 @@
 
 **O mandarim não possui tempos verbais, portanto são utilizadas outras estratégias para indicar o tempo das ações, como os marcadores dos nove aspectos verbais da língua.**
 
+**Locuções verbais são formadas simplesmente ao colocar um verbo antes do outro.**
+
 ## <ruby>在<rt>zài</rt></ruby> - Aspecto Progressivo
 
 **Denota uma AÇÃO que está ocorrendo.**

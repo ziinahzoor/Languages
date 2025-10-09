@@ -11,6 +11,7 @@
     -   `サングラス` Óculos de sol
 -   `マスク` Máscara
 -   `イアリング` Brinco
+-   <font size="5"><code><ruby>兜<rt>かぶと</rt></ruby></code></font> Elmo
 
 ## Corpo
 
@@ -23,17 +24,17 @@
 -   `パーカー` Moletom
 -   <font size="5"><code><ruby>上<rt>うわ</rt>着<rt>ぎ</rt></ruby></code></font> Jaqueta/Casaco
     -   Qualquer coisa que cobre a blusa.
+-   <font size="5"><code><ruby>下<rt>した</rt>着<rt>ぎ</rt></ruby></code></font> Roupa íntima
 -   `コート` Casaco
--   `ジャケット` Jaqueta
 -   `ジャケット` Jaqueta
 -   `ワンピース` Vestido/Maiô
 -   `ドレス` Vestido formal
--   `みずぎ` Traje de banho
+-   <font size="5"><code><ruby>水<rt>みず</rt>着<rt>ぎ</rt></ruby></code></font> Traje de banho
 -   `ネクタイ` Gravata
 -   <font size="5"><code><ruby>制<rt>せい</rt>服<rt>ふく</rt></ruby></code></font> Uniforme
 -   `スーツ` Traje/Terno
 -   <font size="5"><code><ruby>背広<rt>せびろ</rt></ruby></code></font> Terno
--   <font size="5"><code><ruby>下<rt>した</rt>着<rt>ぎ</rt></ruby></code></font> Roupa íntima
+-   <font size="5"><code><ruby>鎧<rt>よろい</rt></ruby></code></font> Armadura
 
 ## Braços
 
@@ -73,7 +74,7 @@
 -   `ボタン` Botão
 -   `ポケット` Bolso
 
-## Roupas japonesas
+## <ruby>和<rt>わ</rt>服<rt>ふく</rt></ruby> - Roupas japonesas
 
 -   <font size="5"><code><ruby>着<rt>き</rt>物<rt>もの</rt></ruby></code></font> Quimono
     -   Traje tradicional japonês.

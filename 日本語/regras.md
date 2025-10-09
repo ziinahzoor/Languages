@@ -99,7 +99,7 @@
 -   Para oferecer algo, como comida, basta usar a frase no afirmativo com tom de pergunta. Também serve para perguntar o que a pessoa quer (sem a nuance convidativa).
 -   <font size="5"><code><ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby></code></font> é a comida em geral, <font size="5"><code><ruby>料<rt>りょう</rt>理<rt>り</rt></ruby></code></font> é a comida preparada.
 -   Diferente de outras línguas, onde fazemos alguma atividade "embaixo da chuva", em japonês se faz "dentro da chuva": `雨の中`.
--   A diferença entre `そうだ` e `らしい` é que o primeiro tem a nuance de a dedução ser feita a partir de outra fonte (ouvi dizer), enquanto a última se baseia em observações pessoais ou de outras fontes.
+-   A diferença entre `そう` e `らしい` é que o primeiro tem a nuance de a dedução ser feita a partir de outra fonte (ouvi dizer), enquanto a última se baseia em observações pessoais ou de outras fontes.
 -   Ao falar "qual [lugar]", usar `どこの` ao invés de `どの`
 -   Ao se referir a alguém pelo título ou por sua relação, usa-se `の`. Ex.: <font size="5"><code><ruby>妻<rt>つま</rt>のニヤ</ruby></code></font> "Minha esposa Nyah".
 -   Para dizer ambos, usa-se a expressão `…も…も`. Para dizer "nem um, nem outro", usa-se a expressão `…も…もない`.
@@ -109,6 +109,11 @@
 -   `分からない` e `知らない` possuem uma certa sobreposição nos seus significados (principalmente para dizer "não sei"). Mas o primeiro é mais usado para se referir a si, enquanto o segundo é mais usado para se referir a outra pessoa.
     -   Exceto em perguntas envolvendo um dos verbos diretamente, pois nesse caso, se responde com o mesmo verbo usado pra pergunta.
 -   <font size="5"><code><ruby>先<rt>さき</rt></ruby></code></font> é uma opção menos imediata à <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> no que diz respeito a local e <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font> no que diz respeito ao tempo.
+
+> [!IMPORTANT]
+> Ambos <font size="5"><code><ruby>前<rt></rt></ruby></code></font> e <font size="5"><code><ruby>後<rt></rt></ruby></code></font> possuem tanto função temporal quanto espacial, mas elas podem parecer contraditórias, já que o primeiro pode ser traduzido como "antes" e "em frente" e o segundo como "depois" e "atrás".
+> Para compreender, podemos utilizar a analogia de <font size="5"><code><ruby>後<rt></rt></ruby></code></font> ser como o primeiro vagão de um trem. Ao passar por um túnel, todos os outros vagões ficam ATRÁS e vêm DEPOIS dele.
+> De maneira similar, <font size="5"><code><ruby>前<rt></rt></ruby></code></font> pode ser visto como o último vagão: todos os outros vêm ANTES e ficam NA FRENTE dele.
 
 ## そらにことば - Falsos cognatos
 

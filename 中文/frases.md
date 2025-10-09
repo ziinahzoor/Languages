@@ -4,6 +4,7 @@
 -   <font size="6"><code><ruby>嗨<rt>hāi</rt></ruby></code></font> Oi
 -   <font size="6"><code><ruby>你<rt>nǐ</rt>好<rt>hǎo</rt></ruby></code></font> Olá
     -   Deve ser usado só ao conhecer alguém.
+    -   Também pode ser usado com outros pronomes além de <font size="6"><code><ruby>你<rt>nǐ</rt></ruby></code></font>.
 -   <font size="6"><code><ruby>您<rt>nín</rt>好<rt>hǎo</rt></ruby></code></font> Olá (Formal)
 -   <font size="6"><code><ruby>你<rt>nǐ</rt>怎么样<rt>zěnmeyàng</rt></ruby></code></font> Como vai?
     -   <font size="6"><code><ruby>你<rt>nǐ</rt>好<rt>hǎo</rt>吗<rt>ma</rt></ruby></code></font> Incomum

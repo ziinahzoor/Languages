@@ -1,10 +1,11 @@
 # Les Adjectifs - Adjetivos
 
 > [!IMPORTANT]
-> Os adjetivos vêm depois do substantivo, exceto nos casos BAGS: Beauty, Age, Goodness e Size.
+> Os adjetivos geralmente vêm depois do substantivo, mas em alguns casos são prenominais. Esses são facilmente lembrados pelo acrônimo BANGS: Beauty (Beleza), Age (Idade), Number (Número), Goodness (Qualidade) e Size (Tamanho).
+> No plural de adjetivos pronominais, o artigo `des` se torna apenas `de`.
 
 > [!TIP]
-> Alguns adjetivos BAGS possuem duplo sentido: `grand`, `pauvre`, `cher`. Quando utilizados antes do substantivo geralmente possuem sentido figurado e depois do substantivo possuem o sentido literal.
+> Alguns adjetivos BANGS possuem duplo sentido: `grand`, `pauvre`, `cher`. Quando utilizados antes do substantivo geralmente possuem sentido figurado e depois do substantivo possuem o sentido literal.
 
 **Se um adjetivo termina em `eux`, a forma feminina termina em `euse`.**
 
@@ -191,6 +192,11 @@
 -   `Ordinaire` Ordinário
 -   `Énervant` Irritante
 -   `Indispensable` Indispensável
+-   `Bavard` Falador/Tagarela
+-   `Surprenant` Surpreendente
+-   `Supplémentaire` Adicional/Extra/Suplementar
+-   `Obligatoire` Obrigatório
+-   `Silencieux` Silencioso
 
 ### Personalidade
 
@@ -246,7 +252,7 @@
     -   `Sur` Pós-reforma de 90
 -   `Spécial` Especial
 -   `Crevé` Achatado/Furado
--   `En panne` Quebrado (Temporariamente)
+-   `En panne` Quebrado (Temporariamente)/Enguiçado/Com defeito
 -   `Cassé` Quebrado
 -   `Mouillé` Molhado
 -   `Sec` Seco
@@ -273,8 +279,9 @@
 -   `Séparé` Separado
 -   `Dur` Duro
 -   `Mou` Mole
+-   `En désordre` Bagunçado
 
-### Físicas/Emocionais
+### Físicas
 
 -   `Fatigué` Cansado
 -   `Fatigant` Cansativo
@@ -319,6 +326,7 @@
 -   `Angoissé` Ansioso/Angustiado
 -   `Animé` Animado
 -   `Gêné` Envergonhado
+-   `Contrarié` Chateado/Contrariado
 
 ## Qualidade
 

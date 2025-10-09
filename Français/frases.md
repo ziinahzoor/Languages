@@ -8,11 +8,15 @@
 -   `Bonjour` Olá/Bom dia
     -   `Rebonjour` Oi de novo
 -   `Bonsoir` Boa noite
--   `Bonne nuit` Boa noite
+-   `Bonne nuit` Boa noite (ao ir embora)
+-   `Bon matin` Bom dia (Quebec)
+-   `Bon après-midi` Boa tarde (Quebec)
 -   `Bienvenue` Bem-vindo
 -   `Comment allez-vous` Como vai/vão? (Formal)
     -   `(Comment) ça va?` Como vai?
 -   `Ça va (bien)` Estou bem
+-   `Allô` Alô
+    -   Também pode ser usado para cumprimentar em Quebec.
 
 ### Ao partir
 

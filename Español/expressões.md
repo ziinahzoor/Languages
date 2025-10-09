@@ -25,7 +25,8 @@
 ## Gírias
 
 -   `Perro oso` Que vergonha/Vergonha alheia
--   `Duérmete un rato` Dorme um pouco/Tirar um cochilo
+-   `Un rato` Um pouco
+-   `¡No manches!` Não acredito!/De jeito nenhum!
 
 ### Gírias da internet
 

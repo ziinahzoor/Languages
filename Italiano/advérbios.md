@@ -13,9 +13,14 @@
 -   `Vicino` Próximo
 -   `Dietro` Atrás
 -   `Più` Mais
+-   `Meno` Menos
 -   `Perché` Por que/Por quê
 -   `Come` Como
 -   `Sotto` Embaixo
 -   `Solo` Só
 -   `In` Em
 -   `In ritardo` Atrasado
+-   `Di solito` Geralmente
+-   `Subito` Imediatamente
+-   `Sicuramente` Certamente
+-   `Presto` Logo/Cedo/Rapidamente

@@ -8,3 +8,4 @@
 -   `Elefant` Elefante
 -   `Hähnchen` Frango ✴️
 -   `Fisch` Peixe
+-   `Schnecke` Caracol 🚺

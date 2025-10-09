@@ -1,9 +1,9 @@
 # <ruby>所<rt>ところ</rt></ruby> - Lugares
 
-**<font size="5"><code><ruby>所<rt>ところ</rt></ruby></code></font> também pode ser "área"**.
+**<font size="5"><code><ruby>所<rt>ところ</rt></ruby></code></font> também pode ser "área".**.
 
 > [!IMPORTANT]
-> A palavra <font size="5"><code><ruby>所<rt>ところ</rt></ruby></code></font> na verdade possui um sentido bem mais amplo. Pode englobar conceitos bem mais figurativos, como "parte" ou "aspecto" (da personalidade de alguém por exemplo), ou até mesmo temporais como "estar prestes a" quando usado após um verbo no presente, "agora mesmo" na forma progressiva ou "acabar de" no passado.
+> A palavra <font size="5"><code><ruby>所<rt>ところ</rt></ruby></code></font> na verdade possui um sentido bem mais amplo. Pode englobar conceitos bem mais figurativos, como "parte" ou "aspecto" (da personalidade de alguém por exemplo), ou até mesmo temporais como "estar prestes a/no limiar de" quando usado após um verbo no presente, "agora mesmo" na forma progressiva ou "acabar de" no passado.
 > Nos últimos casos também pode ser abreviado coloquialmente para `とこ`.
 
 **<font size="5"><code><ruby>場<rt>ば</rt>所<rt>しょ</rt></ruby></code></font> também significa "lugar", mas é mais específico que 所**
@@ -14,13 +14,14 @@
 -   <font size="5"><code><ruby>辺<rt>へん</rt></ruby></code></font> Área/Região
 -   <font size="5"><code><ruby>近<rt>きん</rt>所<rt>じょ</rt></ruby></code></font> Vizinhança
 -   <font size="5"><code><ruby>辺<rt>あた</rt></ruby>り</code></font> Proximidades/Em volta
+-   <font size="5"><code><ruby>地<rt>じ</rt>面<rt>めん</rt></ruby></code></font> Chão
 -   <font size="5"><code><ruby>住<rt>じゅう</rt>所<rt>しょ</rt></ruby></code></font> Endereço
 -   <font size="5"><code><ruby>世<rt>せ</rt>界<rt>かい</rt></ruby></code></font> Mundo
+-   <font size="5"><code><ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby></code></font> Área de vendas/Área comercial/Balcão de vendas
 -   <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
     -   <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby></code></font> Honorífico (Teineigo)
     -   <font size="5"><code><ruby>店<rt>てん</rt>内<rt>ない</rt></ruby></code></font> Dentro da loja
         -   Geralmente é usado para dizer que vai se consumir um produto no local ao invés de levar pra casa.
--   `せかい` Mundo
 -   <font size="5"><code><ruby>村<rt>むら</rt></ruby></code></font> Vila
 -   <font size="5"><code><ruby>首<rt>しゅ</rt>都<rt>と</rt></ruby></code></font> Capital
 -   `ホテル` Hotel
@@ -30,7 +31,7 @@
 -   `デパート` Loja de departamento
 -   <font size="5"><code><ruby>停<rt>てい</rt>留<rt>りゅう</rt>所<rt>じょ</rt></ruby></code></font> Ponto/Parada/Estação
     -   <font size="5"><code>バス<ruby>停<rt>てい</rt></ruby></code></font> Ponto de ônibus
--   `しゅうてん` Última parada
+-   <font size="5"><code><ruby>終<rt>しゅう</rt>点<rt>てん</rt></ruby></code></font> Última parada
 -   <font size="5"><code><ruby>駅<rt>えき</rt></ruby></code></font> Estação de trem
 -   <font size="5"><code><ruby>学<rt>がっ</rt>校<rt>こう</rt></ruby></code></font> Escola
     -   `ようちえん` Jardim de infância
@@ -63,10 +64,11 @@
 -   `げんかん` Entrada principal/Entrada de casa
 -   <font size="5"><code><ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby></code></font> Entrada
 -   <font size="5"><code><ruby>出<rt>で</rt>口<rt>ぐち</rt></ruby></code></font> Saída
-    -   `きたぐち` Saída norte
-    -   `みなみぐち` Saída sul
-    -   `ひがしぐち` Saída leste
-    -   `にしぐち` Saída oeste
+    -   <font size="5"><code><ruby>北<rt>きた</rt>口<rt>ぐち</rt></ruby></code></font> Saída norte
+    -   <font size="5"><code><ruby>南<rt>みなみ</rt>口<rt>ぐち</rt></ruby></code></font> Saída sul
+    -   <font size="5"><code><ruby>東<rt>ひがし</rt>口<rt>ぐち</rt></ruby></code></font> Saída leste
+    -   <font size="5"><code><ruby>西<rt>にし</rt>口<rt>ぐち</rt></ruby></code></font> Saída oeste
+    -   <font size="5"><code><ruby>非<rt>ひ</rt>常<rt>じょう</rt>口<rt>ぐち</rt></ruby></code></font> Saída de emergência
 -   <font size="5"><code><ruby>神<rt>じん</rt>社<rt>じゃ</rt></ruby></code></font> Santuário Xintoísta
 -   <font size="5"><code>お<ruby>寺<rt>てら</rt></ruby></code></font> Templo Budista
 -   <font size="5"><code><ruby>建<rt>たて</rt>物<rt>もの</rt></ruby></code></font> Edifício/Edificação/Imóvel
@@ -150,6 +152,9 @@
 -   <font size="5"><code><ruby>改<rt>かい</rt>札<rt>さつ</rt></ruby></code></font> Bilheteria (de passagens)
 -   <font size="5"><code><ruby>切<rt>きっ</rt>符<rt>ぷ</rt>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby></code></font> Bilheteria (de ingressos)
 -   `アウトドア` Ar livre
+-   <font size="5"><code><ruby>土<rt>と</rt>地<rt>ち</rt></ruby></code></font> Lote/Terreno
+-   <font size="5"><code><ruby>八<rt>や</rt>百<rt>お</rt>屋<rt>や</rt></ruby></code></font> Verdureiro
+-   `えんげき` Teatro
 
 ## <ruby>親<rt>しん</rt>戚<rt>せき</rt>所<rt>ところ</rt></ruby> - Lugares Relativos
 
@@ -171,6 +176,7 @@
 -   <font size="5"><code><ruby>向<rt>む</rt></ruby>こう</code></font> Do outro lado
 -   <font size="5"><code><ruby>間<rt>あいだ</rt></ruby></code></font> Espaço entre/Abertura/Brecha/Meio de
 -   <font size="5"><code><ruby>出<rt>しゅっ</rt>身<rt>しん</rt></ruby></code></font> Origem (de alguém)
+-   <font size="5"><code><ruby>途<rt>と</rt>中<rt>ちゅう</rt></ruby></code></font> No caminho/No meio do caminho/No meio de
 
 ### <ruby>方<rt>ほう</rt>向<rt>こう</rt></ruby> - Direções
 
@@ -249,11 +255,6 @@
 -   <font size="5"><code><ruby>庭<rt>にわ</rt></ruby></code></font> Quintal/Jardim
 -   <font size="5"><code><ruby>食<rt>しょく</rt>堂<rt>どう</rt></ruby></code></font> Sala de jantar/Cafeteria
 -   <font size="5"><code><ruby>廊<rt>ろう</rt>下<rt>か</rt></ruby></code></font> Corredor
--   `ゆか` Piso
--   `たたみ` Piso japonês
--   `かべ` Parede
--   `えんげき` Teatro
--   <font size="5"><code><ruby>八<rt>や</rt>百<rt>お</rt>屋<rt>や</rt></ruby></code></font> Verdureiro
 
 ## <ruby>国<rt>くに</rt></ruby> - Países
 

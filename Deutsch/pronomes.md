@@ -80,22 +80,64 @@
 	</tr>
 </table>
 
-## Possessivos
+-   Os pronomes sofrem declinação conforme o caso, seguindo as seguintes terminações:
 
--   Para conjugar o possesivo dos outros casos, adicionar:
+<table>
+	<thead>
+		<th></th>
+		<th>Nominativo</th>
+		<th>Acusativo</th>
+		<th>Dativo</th>
+		<th>Genitivo</th>
+	</thead>
+	<tr>
+		<th>✴️</th>
+		<td rowspan="2"></td>
+		<td></td>
+		<td rowspan="2">-em</td>
+		<td rowspan="2">-es</td>
+	</tr>
+	<tr>
+		<th>🚹</th>
+		<td>-en</td>
+	</tr>
+	<tr>
+		<th>🚺</th>
+		<td colspan="2" rowspan="2">-e</td>
+		<td colspan="2">-er</td>
+	</tr>
+	<tr>
+		<th>Plural</th>
+		<td>-en</td>
+		<td>-er</td>
+	</tr>
+</table>
 
-| Pessoa    | Nominativo | Acusativo | Dativo | Genitivo |
-| --------- | ---------- | --------- | ------ | -------- |
-| Masculino |            | -en       | -em    | -es      |
-| Neutro    |            |           | -em    | -es      |
-| Feminino  | -e         | -e        | -er    | -er      |
-| Plural    | -e         | -e        | -en    | -er      |
+> [!NOTE]
+> Os possessivos sofrem declinação.
+
+## Determinantes
+
+-   `Jeder` Todo/Cada
+
+## Demonstrativos
+
+-   `Dieser` Este
+    -   Sofre declinação conforme as mesmas regras anteriores.
+    -   No neutro, com exceção do dativo, é `dieses`.
+-   `Jener` Esse
+    -   Sofre declinação conforme as mesmas regras anteriores.
+    -   No neutro, com exceção do dativo, é `jenes`.
 
 ## Interrogativos
 
 -   `Wie viel` Quanto/Quantos
+-   `Welcher` Qual
+    -   Sofre declinação.
 
 ## Indefinidos
 
 -   `Kein` Nenhum
+    -   Sofre declinação.
+    -   Muito usado para negar substantivos
 -   `Was` O que

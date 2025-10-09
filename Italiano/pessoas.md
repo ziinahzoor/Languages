@@ -1,16 +1,31 @@
 # Le Persone - Pessoas
 
--   `Uomo` Homem
--   `Donna` Mulher
 -   `Signore` Senhor
--   `Ragazzo` Menino
 -   `Amico` Amigo
 -   `Vicino` Vizinho
+-   `Bebè` Bebê
+
+## Identidade
+
+-   `Uomo` Homem
+-   `Donna` Mulher
+-   `Ragazzo` Menino
+-   `Vegetariano`
+-   `Capo` Chefe
+
+## Grupos
+
+-   `Gruppo` Banda 🚹
+
+## Profissões
+
+**As profissões no feminino geralmente usam a terminação `-essa`.**
+
+-   `Infermiere` Enfermeiro
 -   `Dottore` Doutor
 -   `Studente` Estudante
 -   `Tassista` Taxista
--   `Vegetariano`
--   `Bebè` Bebê
+-   `Ballerino` Dançarino
 
 ## Família
 
@@ -23,3 +38,6 @@
 -   `Fratello` Irmão
 -   `Sorella` Irmã
 -   `Figlio` Filho
+-   `Nonno` Avô
+-   `Nonna` Avó
+-   `Nipote` Sobrinho

@@ -3,13 +3,13 @@
 ## La Cabeza - Cabeça
 
 -   `Gorra` Boné/Gorro 🚺
+-   `Gorro` Boné/Gorro
 -   `Sombrero` Chapéu
 -   `Gafas` Óculos 🚺
     -   `Gafas de sol` Óculos de sol
 -   `Lentes` Óculos 🚹
--   `Gorra` Boné 🚺
 -   `Arete` Brinco
--   `Gorro` Boné/Gorro
+-   `Capucha` Capuz 🚺
 
 ## El Cuerpo - Corpo
 
@@ -22,6 +22,7 @@
 -   `Chal` Xale
 -   `Bufanda` Cachecol 🚺
 -   `Corbata` Gravata
+    -   `Corbatín` Gravata-borboleta 🚹
 -   `Traje de baño` Traje de banho
 -   `Cinturón` Cinto
 -   `Traje` Terno
@@ -31,12 +32,18 @@
 -   `Impermeable` Capa de chuva
 -   `Sudadera` Moletom 🚺
 -   `Ropa interior` Roupa de baixo
+-   `Tirante` Suspensório
+-   `Chaleco` Colete
+-   `Peto` Macacão
+-   `Pijama`
+-   `Bata` Roupão 🚺
 
 ## Los Brazos - Braços
 
 -   `Reloj` Relógio
 -   `Brazalete` Bracelete
 -   `Guante` Luva
+-   `Manopla`
 -   `Anillo` Anel
 
 ## Las Piernas - Pernas
@@ -52,12 +59,15 @@
 ## Los Pies - Pés
 
 -   `Media` Meia
+-   `Calcetín` Meia 🚹
 -   `Zapato` Sapato
     -   `Zapato deportivo` Tênis
 -   `Botas`
--   `Calcetín` Meia 🚹
 -   `Patín` Patins
 -   `Sandalia` Sandália
+-   `Chancla/Chancleta` Chinelo 🚺
+-   `Tacón` Salto
+-   `Pantufla`
 
 ## Los Accesorios - Acessórios
 
@@ -66,3 +76,4 @@
 -   `Bolsa`
 -   `Collar` Colar
 -   `Bolsillo` Bolso
+-   `Pulsera` Pulseira

@@ -179,8 +179,10 @@
 <h2 id="var_passe-compose">Le Passé Composé - Pretérito Perfeito</h2>
 
 -   Pode ser formado por uma conjugação dos verbos `être` ou `avoir` + partícipio do pretérito. Ex.: `J'ai fini`
-    -   Verbos de movimento e reflexivos utilizam `être`.
-    -   Ao usar `être` como verbo auxiliar, o partícipio deve ser flexionado.
+    -   Verbos de movimento e pronominais utilizam `être`.
+    -   Fora os pronominais, só existem 17: `devenir`, `retourner`, `mourir`, `rentrer`, `sortir`, `venir`, `arriver`, `naître`, `descendre`, `entrer`, `revenir`, `tomber`, `rester`, `aller`, `monter`, `partir` e `passer`. Pode-se memorizar pelo acrônimo "DR & MRS VANDERTRAMPP".
+    -   Ao usar `être` como verbo auxiliar, o partícipio deve ser flexionado, concordando com o sujeito.
+    -   Ao usar `avoir` como verbo auxiliar, o partícipio só é flexionado quando há um objeto direto antes do verbo, concordando com o objeto.
 
 <h2 id="var_plus-que-parfait">Plus‑que‑parfait - Mais-que-perfeito</h2>
 
@@ -386,6 +388,8 @@
 | Conjugação  | étant | ayant | sachant |
 
 <h2 id="var_participe-passe">Le Passé - Pretérito</h2>
+
+-   Deve concordar em número e gênero com o objeto direto, caso este venha antes do verbo. Não concorda se o objeto é indireto ou caso seja direto e venha depois do verbo.
 
 <table>
     <thead>

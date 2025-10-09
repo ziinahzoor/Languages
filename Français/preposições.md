@@ -24,7 +24,7 @@
     -   Mais literário
 -   `Le long de` Ao longo de
 -   `Au bout de` No fim de
--   `Il y a` Há
+-   `Il y a` Há (temporal)
     -   `Y a` Informal
 -   `Au lieu de` Ao invés de
 -   `Sauf` Exceto
@@ -35,3 +35,4 @@
 -   `Au bord de` Na beira de
 -   `Contre` Contra
 -   `À travers` Através de
+-   `Sur le point de` Prestes a/À beira de

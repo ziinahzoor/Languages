@@ -15,6 +15,11 @@
 -   `Cedilha (¸)`: Costuma indicar que uma consoante deve ser pronunciada de forma sibilante.
 -   `Anel (˚)`: Costuma ser encontrada em línguas escandinavas.
 
+## Pontuação
+
+-   `Vírgula (,)`: possui a função de separar elementos.
+    -   `Vírgula de série ou vírgula de Oxford`: Em listas, certas linguagens separam o último item do penúltimo com uma conjunção e em outras também utilizam uma vírgula. Esta vírgula é chamada vírgula de série.
+
 ## Discurso gramatical
 
 -   `Locução` (Phrase): Combinação de palavras que não funcionam sozinhas.
@@ -46,6 +51,7 @@
             -   `Átono`: Não é utilizado com preposição. Ex.: "me"; "te"; "nos".
             -   `Tônico`: É utilizado com preposição. Ex.: "comigo"; "contigo"; "conosco"; "[para] ele".
         -   `Disjuntivo`: Também chamado tônico. Porém além da função oblíqua, também pode ser utilizado sozinho. Enfatiza ou identifica a entidade a qual se refere. Ex. (Francês): "moi"; "toi"; "lui".
+            -   Além de ser usado após preposições, costuma ser usado após verbos para enfatizar objetos e também em comparações.
     -   `Possessivo`: Se refere à uma entidade baseado em sua relação com a pessoa gramatical. Ex.: "meu"; "teu"; "dele".
     -   `Reflexivo`: Usado quando se quer indicar que o sujeito e objeto da oração são a mesma entidade. Ex.: "si"; "consigo". Ex. (Inglês): "myself"; "yourself"; "ourselves".
     -   `Demonstrativo`: Indica as entidades de que se fala e as distinguem de outras entidades. Ex.: "este"; "aquelas".
@@ -72,6 +78,7 @@
     -   `Possessivo`: Indica de quem é a posse do substantivo. Às vezes chamados "adjetivos possessivos". Ex.: "meu"; "seu"; "nosso".
     -   `Quantificador`: Indica o conjunto ou o número de entidades da classe que se descreve. Ex.: "cada"; "todo"; "algum".
 -   `Verbo`: Ação, ocorrência ou estado de ser descrito em uma oração. Define o predicado. Ex.: "ler"
+    -   `Verbo pronominal`: Verbo que aparece acompanhado de um pronome. Ex.: "deitar-se"
 -   `Cópula`: Palavra (geralmente um verbo) que caracteriza o sujeito, descreve algo sobre ele. Na maior parte das linguagens é um equivalente do verbo "ser" ou "estar".
 -   `Adposição`: Expressa relações espaciais, temporais e lógicas entre dois elementos da oração ou marca papéis semânticos (como o caso gramatical). Ou seja, ligam substantivos a substantivos, verbos a substantivos, etc.
     -   `Preposição`: Vem antes de seu complemento. Ex.: "até"; "desde"; "para".
@@ -144,12 +151,13 @@
 -   `Polaridade gramatical`: Indica se a ação é afirmativa ou negativa.
 -   `Valência gramatical`: Indica quantos são os complementos da ação. Ex.: Impessoal (avalente), intransitivo (monovalente/monádico), transitivo (divalente/diádico), etc.
 -   `Tempo gramatical`: Indica quando a ação ocorre. Ex.: Passado; presente; futuro.
+    -   Em várias linguagens, o futuro do pretérito é chamado de "condicional".
 -   `Aspecto gramatical`: Indica como a ação ocorre. Em várias linguagens não é um recurso independente, sendo usado junto ao tempo. Ex.: Progressivo; contínuo; perfeito; imperfeito.
 -   `Número gramatical`: Indica a quantidade de entidades. Ex.: Singular; plural; dual; coletivo.
 -   `Pessoa gramatical`: Indica quem participa da ação. Ex.: Primeira pessoa (quem fala); Segunda pessoa (com quem se fala); Terceira pessoa (de quem se fala).
 -   `Gênero gramatical`: Indica a classe à qual determinadas palavras pertencem, sem necessariamente relacioná-las com qualidades do mundo real. Ex.: Masculino; feminino; neutro; animado; inanimado.
 
-## Colocação pronomial
+## Colocação pronominal
 
 **Utilizada no português para determinar onde o pronome oblíquo atóno aparece em relação ao verbo.**
 

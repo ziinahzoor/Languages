@@ -91,14 +91,21 @@
         <td>どこ</td>
     </tr>
     <tr>
-        <th>Tipo</th>
+        <th>Tipo (Geral)</th>
+        <td>こういう</td>
+        <td>そういう</td>
+        <td>ああいう</td>
+        <td>どういう</td>
+    </tr>
+    <tr>
+        <th>Tipo (Específico)</th>
         <td>こんな</td>
         <td>そんな</td>
         <td>あんな</td>
         <td>どんな</td>
     </tr>
     <tr>
-        <th>Tipo (Escrito)</th>
+        <th>Tipo (Específico; Escrito)</th>
         <td>このような</td>
         <td>そのような</td>
         <td>あのような</td>

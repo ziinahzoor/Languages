@@ -1,9 +1,11 @@
 # Advérbios
 
 -   `Ja` Sim
--   `Nein` Não
+-   `Nein` Não (Interjeição)
+-   `Nicht` Não
 -   `Sehr` Muito (Intensidade)
 -   `Zu` Muito/Demais/Excessivamente
+-   `So` Tão
 -   `Wo` Onde
 -   `Wohin` Aonde
 -   `Woher` De onde
@@ -23,3 +25,9 @@
 -   `Natürlich` Claro/Naturalmente
 -   `Mehr` Mais
 -   `Wirklich` Muito/Sério/De verdade
+-   `Nur` Só/Apenas
+-   `Ein bisschen` Um pouco
+-   `Viel` Muito
+-   `Warum` Por que/Por quê
+-   `Gern` De bom grado/Com prazer
+    -   É bastante utilizado para se referir a "gostar" ao invés de usar um verbo.

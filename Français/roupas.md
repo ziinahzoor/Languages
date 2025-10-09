@@ -60,6 +60,7 @@
 -   `Collier` Colar
 -   `Écharpe` Cachecol 🚺
 -   `Poche` Bolso 🚺
+-   `Rouge à lèvres` Batom
 
 ## Outros
 

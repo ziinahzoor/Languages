@@ -55,6 +55,7 @@
 -   `Ex`
 -   `Mayor` Idoso
 -   `Paciente`
+-   `Dueño` Dono
 
 ## Profissões
 
@@ -99,6 +100,7 @@
     -   `Mamá` Mamãe
 -   `Hijo` Filho
 -   `Hermano` Irmão
+    -   `Gemelo` Gêmeo
 -   `Abuelo` Avô
     -   `Abuelito` Vovô
 -   `Abuela` Avó
@@ -110,3 +112,17 @@
     -   `Exnovio` Ex-namorado
 -   `Primo`
 -   `Tío` Tio
+-   `Sobrino` Sobrinho
+-   `Suegro` Sogro
+-   `Suegra` Sogra
+-   `Madrastra` Madrasta
+-   `Padrastro` Padrasto
+-   `Hermanastro` Meio-irmão
+-   `Medio hermano` Meio-irmão
+-   `Cuñado` Cunhado
+-   `Yerno` Genro
+-   `Nuera` Nora
+-   `Bisabuelo` Bisavô
+-   `Tatarabuelo` Tataravô
+-   `Bisnieto` Bisneto
+-   `Tataranieto` Tataraneto

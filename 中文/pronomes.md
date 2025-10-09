@@ -3,13 +3,11 @@
 <table>
 	<thead>
 		<tr>
-			<th>Flexão</th>
 			<th>Pessoa</th>
 			<th>Pronome</th>
 		</tr>
 	</thead>
 	<tr>
-		<th rowspan="6">Singular</th>
 		<th>Primeira</th>
 		<td><font size="6"><code><ruby>我<rt>wǒ</rt></ruby></code></font></td>
 	</tr>
@@ -33,32 +31,16 @@
 		<th>Terceira (Animal ou objeto)</th>
 		<td><font size="6"><code><ruby>它<rt>tā</rt></ruby></code></font></td>
 	</tr>
-	<tr>
-		<th rowspan="6">Plural</th>
-		<th>Primeira</th>
-		<td><font size="6"><code><ruby>我<rt>wǒ</rt>们<rt>men</rt></ruby></code></font></td>
-	</tr>
-	<tr>
-		<th>Segunda</th>
-		<td><font size="6"><code><ruby>你<rt>nǐ</rt>们<rt>men</rt></ruby></code></font></td>
-	</tr>
-	<tr>
-		<th>Terceira (Masculino)</th>
-		<td><font size="6"><code><ruby>他<rt>tā</rt>们<rt>men</rt></ruby></code></font></td>
-	</tr>
-	<tr>
-		<th>Terceira (Feminino)</th>
-		<td><font size="6"><code><ruby>她<rt>tā</rt>们<rt>men</rt></ruby></code></font></td>
-	</tr>
-	<tr>
-		<th>Terceira (Animal ou objeto)</th>
-		<td><font size="6"><code><ruby>它<rt>tā</rt>们<rt>men</rt></ruby></code></font></td>
-	</tr>
 </table>
+
+## Plural
+
+-   O plural é formado ao sufixar <font size="6"><code><ruby>们<rt>men</rt></ruby></code></font> ao pronome.
 
 ## Possessivos
 
 -   Basta acrescentar o sufixo <font size="6"><code><ruby>的<rt>de</rt></ruby></code></font>.
+    -   Em relações humanas próximas, como "pai" e "mãe", o sufixo pode ser omitido.
 
 ## Reflexivos
 

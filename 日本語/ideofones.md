@@ -25,6 +25,12 @@
 -   `バタバタ` Apressadamente (Advérbio e verbo-する)
 -   `こそこそ` Furtivamente (Advérbio e verbo-する)
     -   `ごそごそ` De forma a vasculhar
+-   `ドキドキ` Nervoso/Ansioso
+    -   Corresponde ao som da batida do coração
+-   <font size="5"><code><ruby>苛<rt>いら</rt></ruby>々</code></font> Irritado
+-   `ニコニコ` Sorrindo/Sorridente
+-   `ペラペラ` Fluentemente
+-   `バッチリ` Perfeitamente
 
 ### <ruby>擬<rt>ぎ</rt>容<rt>よう</rt>語<rt>ご</rt></ruby> Movimentos e gestos
 

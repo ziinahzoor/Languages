@@ -6,8 +6,11 @@
 -   `Herr` Senhor
 -   `Junge` Menino
 -   `Mädchen` Menina ✴️
--   `Freund` Amigo
+-   `Freund` Amigo/Namorado
+    -   Para dizer "meu amigo" sem confusão, é mais comum utilizar "Freund von mir".
+-   `Partner` Parceiro
 -   `Vegetarier` Vegetariano
+-   `Mitbewohner` Colega de quarto
 
 ## Profissões
 
@@ -31,3 +34,7 @@
 -   `Tochter` Filha
 -   `Bruder` Irmão
 -   `Schwester` Irmã
+-   `Onkel` Tio
+-   `Tante` Tia
+-   `Opa` Avô
+-   `Oma` Avó

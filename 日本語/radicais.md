@@ -13,6 +13,7 @@
         <th>Significado</th>
         <th>Nome</th>
         <th>Variantes/Observações</th>
+        <th>Mnemônico</th>
     </thead>
     <tr>
         <td rowspan="6">1</td>
@@ -449,6 +450,7 @@
         <td>Sol</td>
         <td>ひ・にち</td>
         <td>(ひへん・にちへん, Hen)</td>
+        <td>Metade do Sol poente, e a outra refletida na água</td>
     </tr>
     <tr>
         <td><font size="5">曰</font></td>
@@ -467,6 +469,7 @@
         <td>Árvore</td>
         <td>き</td>
         <td>(きへん, Hen)</td>
+        <td>Raíz da árvore no solo</td>
     </tr>
 	<tr>
         <td><font size="5">欠</font></td>

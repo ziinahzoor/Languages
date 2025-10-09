@@ -15,3 +15,6 @@
 -   `中` Naka
 -   `山` Yama
 -   `口` Kuchi/Guchi
+-   `太郎` Tarou
+    -   Muito utilizado como sufixo para meninos, indicando ser o filho mais velho.
+    -   Em sequência também podemos encontrar `次郎・二郎` "Jirou", `三郎` "Saburou", `四郎` "Shirou", `五郎` "Gorou", etc.

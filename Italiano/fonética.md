@@ -14,3 +14,5 @@
 -   `gh` [g]
 -   `gn` [nj]
 -   `gli` [lj]
+-   `sci` [ʃi]
+-   `sce` [ʃe]

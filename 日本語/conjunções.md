@@ -1,6 +1,7 @@
 # <ruby>接<rt>せつ</rt>続<rt>ぞく</rt>詞<rt>し</rt></ruby> - Conjunções
 
 -   `そして` E/E então/E também (Sucessão de fatos)
+    -   `と` Formal/Literário
 -   `それに` Além de/Além disso
     -   O `に` utiliza uma função antiga da partícula, que é a mesma de `と`.
 -   `それとも` Ou ao invés/Alternativamente

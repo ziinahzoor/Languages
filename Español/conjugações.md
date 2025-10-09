@@ -8,8 +8,8 @@
         <tr>
             <th>Formas/Tempos</th>
             <th colspan="2">Presente</th>
-            <th colspan="3">Pretérito</th>
-            <th colspan="2">Futuro</th>
+            <th colspan="6">Pretérito</th>
+            <th colspan="4">Futuro</th>
         </tr>
     </thead>
     <tr>
@@ -17,23 +17,40 @@
         <td><a href="#presente-indicativo">Simples</a></td>
         <td><a href="#presente-progressivo">Contínuo</a></td>
         <td><a href="#preterito-imperfecto">Imperfeito</a></td>
+        <td><a href="#imperfecto-progressivo">Imperfeito contínuo</a></td>
         <td><a href="#preterito-perfecto-simple">Perfeito simples</a></td>
+        <td><a href="#preterito-perfecto-progressivo">Perfeito contínuo</a></td>
         <td><a href="#preterito-perfecto-compuesto">Perfeito composto</a></td>
+        <td><a href="#preterito-pluscuamperfecto">Mais-que-perfeito</a></td>
         <td><a href="#futuro-simple">Simples</a></td>
+        <td><a href="#futuro-progressivo">Contínuo</a></td>
         <td><a href="#futuro-informal">Imediato</a></td>
+        <td><a href="#futuro-compuesto">Perfeito</a></td>
     </tr>
     <tr>
         <th><a href="#subjuntivo">Subjuntivo</a></th>
-        <td><a href="#presente-subjuntivo">Simples</a></td>
+        <td colspan="2"><a href="#presente-subjuntivo">Simples</a></td>
+        <td colspan="2"><a href="#imperfecto-subjuntivo">Imperfeito</a></td>
+        <td colspan="2"><a href="#preterito-subjuntivo">Perfeito</a></td>
+        <td colspan="2"><a href="#pluscuamperfecto-subjuntivo">Mais-que-perfeito</a></td>
+        <td colspan="4"></td>
     </tr>
     <tr>
-        <th colspan="8"><a href="#imperativo">Imperativo</a></th>
+        <th colspan="12"><a href="#imperativo">Imperativo</a></th>
     </tr>
     <tr>
-        <th colspan="8"><a href="#gerundio">Gerúndio</a></th>
+        <th colspan="4"><a href="#condicional">Condicional</a></th>
+        <th colspan="4"><a href="#condicional-progressivo">Condicional contínuo</a></th>
+        <td colspan="4"><a href="#condicional-compuesto">Condicional perfeito</a></td>
     </tr>
     <tr>
-        <th colspan="8"><a href="#participio">Particípio</a></th>
+        <th colspan="12"><a href="#gerundio">Gerúndio</a></th>
+    </tr>
+    <tr>
+        <th colspan="12"><a href="#participio">Particípio</a></th>
+    </tr>
+    <tr>
+        <th colspan="12"><a href="#voz-pasiva">Voz passiva</a></th>
     </tr>
 </table>
 
@@ -108,7 +125,6 @@
 <h2 id="var_presente-progressivo">El Presente Progressivo/Contínuo - Presente Contínuo</h2>
 
 -   Formado pelo verbo `estar` + particípio do presente
--   Em verbos reflexivos, o pronome pode vir antes de `estar` ou pode ser afixado no fim do gerúndio, sendo adicionado um acento agúdo na antepenúltima sílaba.
 
 <h2 id="var_preterito-imperfecto">El Pretérito Imperfecto/Copretérito - Pretérito Imperfeito</h2>
 
@@ -156,6 +172,10 @@
     </tr>
 </table>
 
+<h2 id="var_imperfecto-progressivo">El Pretérito Imperfecto Progressivo/Contínuo - Pretérito Imperfeito Contínuo</h2>
+
+-   Formado pelo pretérito imperfeito de `haber` + gerúndio.
+
 <h2 id="var_preterito-perfecto-simple">El Pretérito Perfecto Simple - Pretérito Perfeito</h2>
 
 <table>
@@ -202,11 +222,19 @@
     </tr>
 </table>
 
-<h2 id="var_preterito-perfecto-compuesto">El Pretérito Perfecto Compuesto - Pretérito Composto</h2>
+<h2 id="var_preterito-perfecto-progressivo">El Pretérito Perfecto Progressivo/Contínuo - Pretérito Perfeito Contínuo</h2>
 
--   Formado pelo verbo `haber` no presente do indicativo + Particípio.
+-   Formado pelo pretérito perfeito de `estar` + gerúndio.
+
+<h2 id="var_preterito-perfecto-compuesto">El Pretérito Perfecto Compuesto o Antepresente - Pretérito Composto</h2>
+
+-   Formado pelo verbo `haber` no presente do indicativo + particípio do pretérito.
 -   Tem uma nuance em que as ações são mais recentes do que no pretérito simples, podendo ter continuado até o presente.
 -   É mais utilizado na Espanha. Em outros lugares o perfeito simples é preferido para ações no passado.
+
+<h2 id="var_preterito-pluscuamperfecto">El Pretérito Pluscuamperfecto o Antecopretérito - Pretérito Mais-que-perfeito</h2>
+
+-   Formar pelo verbo `haber` no imperfeito + particípio do pretérito.
 
 <h2 id="var_futuro-simple">El Futuro Simple - Futuro Simples</h2>
 
@@ -248,15 +276,25 @@
     </tr>
 </table>
 
+<h2 id="var_futuro-progressivo">El Futuro Progressivo/Contínuo - Futuro Contínuo</h2>
+
+-   Formar pelo verbo `estar` no futuro + gerúndio.
+
 <h2 id="var_futuro-informal">El Futuro Informal - Futuro Imediato</h2>
 
 -   Poder ser formado por uma conjugação de `ir` + a + infinitivo.
+
+<h2 id="var_futuro-compuesto">El Futuro Compuesto - Futuro Perfeito</h2>
+
+-   Formado pelo futuro simples de `haber` + particípio do pretérito.
 
 ---
 
 <h1 id="var_subjuntivo">El Subjuntivo</h1>
 
 <h2 id="var_presente-subjuntivo">El Presente - Presente</h2>
+
+**A raíz do verbo geralmente é a mesma raíz da primeira pessoa do singular no presente do indicativo.**
 
 <table>
     <thead>
@@ -304,6 +342,62 @@
     </tr>
 </table>
 
+<h2 id="var_imperfecto-subjuntivo">El Imperfecto - Pretérito Imperfeito</h2>
+
+**A raíz do verbo geralmente é a mesma raíz da terceira pessoa do plural no pretérito do indicativo.**
+
+-   O pretérito imperfeito possui duas conjugações e ambas estão corretas, mas a primeira é mais comum.
+
+<table>
+    <thead>
+        <tr>
+            <th>Pronome</th>
+            <th>Conjugação 1</th>
+            <th>Conjugação 2</th>
+        </tr>
+    </thead>
+    <tr>
+        <th>Yo</th>
+        <td>-ra</td>
+        <td>-se</td>
+    </tr>
+    <tr>
+        <th>Tú/Vos</th>
+        <td>-ras</td>
+        <td>-ses</td>
+    </tr>
+    <tr>
+        <th>Él/Ella/Usted</th>
+        <td>-ra</td>
+        <td>-se</td>
+    </tr>
+    <tr>
+        <th>Nosotros</th>
+        <td>-ramos</td>
+        <td>-semos</td>
+    </tr>
+    <tr>
+        <th>Vosotros</th>
+        <td>-rais</td>
+        <td>-seis</td>
+    </tr>
+    <tr>
+        <th>Ellos/Ellas/Ustedes</th>
+        <td>-ran</td>
+        <td>-sen</td>
+    </tr>
+</table>
+
+-   Na primeira pessoa do plural, acrescenta-se um acento na última vogal antes da terminação.
+
+<h2 id="var_preterito-subjuntivo">El Pretérito Perfecto - Pretérito Perfeito</h2>
+
+-   Formado por presente do subjuntivo de `haber` + particípio do pretérito.
+
+<h2 id="var_pluscuamperfecto-subjuntivo">El Pluscuamperfecto - Pretérito Mais-que-perfeito</h2>
+
+-   Formado pelo pretérito imperfeito do subjuntivo de `haber` + particípio do pretérito.
+
 ---
 
 <h1 id="var_imperativo">El Imperativo - Imperativo</h1>
@@ -316,7 +410,23 @@
 
 ---
 
+<h1 id="var_condicional">El Condicional o Pospretérito - Condicional</h1>
+
+-   Utiliza a mesma conjugação dos verbos -er/-ir do pretérito imperfeito. Porém se afixa ao verbo no infinitivo, e não à raíz.
+
+<h2 id="var_condicional-progressivo">El Condicional Progressivo/Contínuo - Condicional Contínuo</h2>
+
+-   Formar pelo verbo `estar` no condicional + gerúndio.
+
+<h2 id="var_condicional-compuesto">El Condicional Compuesto o Antepospretérito - Condicional Perfeito</h2>
+
+-   Formado pelo condicional de `haber` + particípio do pretérito.
+
+---
+
 <h1 id="var_gerundio">El Gerundio - Gerúndio</h1>
+
+**Também se refere ao particípio do presente.**
 
 <table>
     <thead>
@@ -385,3 +495,11 @@
         <td>Visto</td>
     </tr>
 </table>
+
+---
+
+<h1 id="var_voz-passiva">La Voz Pasiva - Voz Passiva</h1>
+
+-   Pode ser formada de duas formas:
+    -   Conjugação de `ser` + particípio do pretérito do verbo
+    -   `Se` + conjugação do verbo na terceira pessoa.

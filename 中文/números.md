@@ -23,3 +23,6 @@
 -   <font size="6"><code><ruby>杯<rt>bēi</rt></ruby></code></font> Copos
 -   <font size="6"><code><ruby>瓶<rt>píng</rt></ruby></code></font> Garrafas
 -   <font size="6"><code><ruby>块<rt>kuài</rt></ruby></code></font> Dinheiro/Iuans
+-   <font size="6"><code><ruby>号<rt>hào</rt></ruby></code></font> Dia (ordinal)
+-   <font size="6"><code><ruby>月<rt>yuè</rt></ruby></code></font> Mês
+-   <font size="5"><code><ruby>岁<rt>suì</rt></ruby></code></font> Idade

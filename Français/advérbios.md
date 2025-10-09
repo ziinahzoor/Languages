@@ -52,6 +52,7 @@
 -   `Juste` Só/Somente
 -   `Enfin` Enfim/Finalmente
 -   `Surtout` Principalmente/Sobretudo
+-   `Par hasard` Por acaso
 
 ## Locutions adverbiales - Locuções adverbiais
 
@@ -62,7 +63,7 @@
 -   `Par contre` Porém/Por outro lado
 -   `Par exemple` Por exemplo
 -   `Par terre` No chão
--   `Tout de suite` Na hora/Imediatamente
+-   `Tout de suite` Agora mesmo/Na hora/Imediatamente
 -   `N'importe où` Em qualquer lugar
 -   `Non plus` Também não/Tampouco
 -   `Plus maintenant` Não mais
@@ -80,6 +81,7 @@
 -   `À voix basse` Em voz baixa
 -   `Au coin de` Na esquina de
 -   `En fait` Na verdade
+-   `En plus` Além disso/Além do mais
 -   `En tout` Ao todo/No total
 -   `En avance` Antecipadamente
 -   `En même temps` Ao mesmo tempo
@@ -125,6 +127,7 @@
 -   `Parfaitement` Perfeitamente
 -   `Dernièrement` Ultimamente
 -   `Finalement` Finalmente/Por fim
+-   `Évidemment` Evidentemente/Obviamente
 
 ## Os Porquês
 

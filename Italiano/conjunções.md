@@ -4,5 +4,6 @@
 -   `E`
 -   `Ma` Mas
 -   `Anche` Também
+-   `Se`
 
 # Le Interiezioni - Interjeições
