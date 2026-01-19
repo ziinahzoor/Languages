@@ -10,6 +10,16 @@
 -   `Russland` Rússia ✴️
 -   `Schweden` Suécia ✴️
 
+## Casa
+
+-   `Schlafzimmer` Quato ✴️
+-   `Wohnzimmer` Sala de estar ✴️
+-   `Badezimmer` Banheiro ✴️
+    -   `Toilette` Toalete 🚺
+-   `Schwimmbad` Piscina ✴️
+-   `Küche` Cozinha 🚺
+-   `Schlüssel` Chave 🚹
+
 ## Outros
 
 -   `Restaurant` Restaurante ✴️
@@ -36,3 +46,5 @@
 -   `Bäckerei` Padaria
 -   `U-Bahnstation` Estação de metrô
 -   `Marktplatz` Mercado
+-   `Wohnung` Apartamento 🚺
+-   `Aufzug` Elevador

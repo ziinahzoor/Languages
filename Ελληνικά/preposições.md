@@ -1,12 +1,14 @@
-# Preposições
+# Οι Προθέσεις - Preposições
 
 -   `Χωρίς` Sem
 -   `Με` Com/De/Por/Em
     -   Tem função instrumental e comitativa, indicando os meios como ou com quem algo ocorre.
 -   `Ανά` Por
 -   `Σε` Para/Em/No/Na (Lugar ou objeto indireto)
-    -   Tem função direcional, indicando a localização ou pessoa que receberá a ação.
+    -   `Σ’` Antes de vogal.
     -   `Στο` Contração de `σε το`. As contrações dos outros artigos seguem a mesma lógica.
+    -   Tem função direcional, indicando a localização ou pessoa que receberá a ação.
+    -   Não é usada com meses, dias e anos, somente horas e datas.
 -   `Από` De/Do/Da/Do que
     -   Indica a origem ou ponto de início. Também usada para comparações.
 -   `Μέχρι` Até
@@ -14,7 +16,7 @@
     -   É "sobre" para se referir a algo do qual se fala.
 -   `Σαν` Como
     -   Mais usado para comparações.
--   `Όπως` Como
+-   `Όπως` Como/Da forma
     -   Mais usado para similaridades.
 -   `Εξαιτίας` Por causa de
     -   `Λόγω` Formal
@@ -23,6 +25,14 @@
 -   `Αντί` Ao invés de
 -   `Παρά` Menos
     -   Ao falar de tempo, significa "para", no mesmo sentido. Ex.: `έξι παρά είκοσι πέντε` "vinte e cinco para as seis".
+
+## Locuções prepositivas
+
+-   `Πάνω σε` Em cima de
+-   `Κάτω από` Embaixo de
+-   `Μέσα σε` Dentro de
+-   `Κοντά σε` Perto de
+-   `Ανάμεσα σε` Entre
 
 # Partículas
 

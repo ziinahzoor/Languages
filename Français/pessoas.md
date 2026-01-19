@@ -18,9 +18,11 @@
     -   `Ado`
 -   `Enfant` Criança 🚹
 -   `Ami` Amigo
+    -   `Pote` Mano/Colega/Companheiro/Camarada
 -   `Bébé` Bebê
 -   `Voisin` Vizinho
 -   `Monsieur` Senhor
+    -   É pronunciado como "mesieur".
     -   `Messieurs` Senhores
     -   `M.` Abreviação
 -   `Madame` Senhora
@@ -31,13 +33,16 @@
 -   `Étudiant` Estudante/Universitário
 -   `Patron` Patrão
 -   `Chef` Chefe
--   `Patron` Patrão
 -   `Fumeur` Fumante
 -   `Groupe de musique` Banda
     -   `Groupe`
 -   `Fantôme` Fantasma
 -   `Collègue` Colega
+-   `Propriétaire` Proprietário
+    -   `Proprio` Abreviação
+-   `Locataire` Locatário/Inquilino
 -   `Colocataire` Colega de quarto
+    -   `Coloc` Abreviação
 -   `Copain/Copine` Colega
     -   `Copain de classe` Colega de classe
 -   `Membre` Membro
@@ -52,6 +57,7 @@
 -   `Voyageur` Viajante
 -   `Public` Público
 -   `Star` Estrela (Celebridade)
+    -   `Vedette` Termo um pouco mais antigo
 -   `Type` Cara
 -   `Roi` Rei
 -   `Reine` Rainha
@@ -70,6 +76,11 @@
 -   `Visiteur` Visitante
 -   `Dame` Dama
 -   `Ex`
+-   `Concurrent` Concorrente
+-   `Intervenant` Parte interessada/Stakeholder 🚹
+-   `Maître` Mestre
+    -   `Maitre` Pós-reforma de 90
+-   `Maîtresse` Amante
 
 ## Profissões
 
@@ -78,6 +89,8 @@
 -   `Journalist` Jornalista
 -   `Médecin` Médico
 -   `Chauffeur` Motorista
+-   `Maître` Professor (do fundamental)
+    -   `Maitre` Pós-reforma de 90
 -   `Professeur` Professor
     -   `Prof`
 -   `Serveur` Garçom
@@ -98,6 +111,7 @@
 -   `Photographe` Fotógrafo
 -   `Directeur` Diretor
 -   `Directrice` Diretora
+-   `Réalisateur` Diretor (de cinema)
 -   `Secrétaire` Secretário
 -   `Employé` Funcionário
 -   `Policier` Policial
@@ -114,11 +128,13 @@
 -   `Dentiste` Dentista
 -   `Agriculteur` Fazendeiro
 -   `Gérant` Gerente
+-   `Responsable` Gerente
 -   `Mécanicien` Mecânico
 -   `Humoriste` Comediante/Humorista
 -   `Coiffeur` Cabeleireiro
 -   `Ouvrier` Trabalhador/Operário
--   `Président-directeur général (PDG)` CEO
+-   `Président-directeur général` CEO
+    -   `PDG` Sigla
 -   `Avocat` Advogado
 -   `Boulanger` Padeiro
 -   `Vétérinaire` Veterinário
@@ -128,6 +144,14 @@
 -   `Blogueur` Blogueiro
 -   `Assistant` Assistente
 -   `Spécialiste` Especialista
+-   `Créateur` Criador/Designer
+-   `Programmeur` Programador
+-   `Sculpteur` Escultor
+-   `Secouriste` Socorrista
+-   `Président` Presidente
+-   `Governeur` Governador
+-   `Maire` Prefeito
+-   `Fonctionnaire` Funcionário público
 
 ## La famille - Família
 
@@ -138,14 +162,16 @@
     -   `Maman` Mamãe
 -   `Grands-parents` Avós
 -   `Grand-père` Avô
-    -   `Papi` Vovô
+    -   `Papi/Papou` Vovô
 -   `Grand-mère` Avó
-    -   `Mamie` Vovó
+    -   `Mamie/Mamou` Vovó
 -   `Fiancé` Noivo
 -   `Mari/Époux` Marido
 -   `Femme/Épouse` Esposa
 -   `Frère` Irmão
+    -   `Demi-frère` Meio-irmão
 -   `Sœur` Irmã
+-   `Jumeau` Gêmeo
 -   `Fils` Filho
 -   `Petits-enfants` Netos
 -   `Petite-fille` Neta
@@ -171,3 +197,4 @@
 -   `Orchestre` Orquestra 🚹
 -   `Compagnie aérienne` Companhia aérea
 -   `Presse` Imprensa
+-   `Qui de droit` Quem interessar 🚹

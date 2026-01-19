@@ -1,9 +1,34 @@
 # Fonética e Fonologia
 
 -   A sílaba tônica, exceto quando denotada por acentos, é a última.
--   Geralmente se ignora a pronúncia das últimas consoantes da palavra. Quanto às últimas vogais, geralmente são mudas.
+-   Geralmente não se pronuncia a última letra da palavra.
+    -   Algumas exceções são: "b", "c", "f", "g", "k", "l", "m", "q" e "r". Exceções dentro dessas:
+        -   "c" não é pronunciado em "-nc";
+        -   "g" não é pronunciado em "-ng";
+        -   "l" não é pronunciado em vogal + "il";
+        -   "m" não é pronunciado em terminação nasal;
+        -   "r" não é pronunciado em "-er".
+        -   Outras palavras específicas.
+    -   O "e" quando última letra é pronunciado quando é acentuado.
+    -   O "e" no meio da palavra também não é pronunciado quando é precedido e sucedido de uma única consoante.
+-   Élisions (Elisões): Contração em que duas palavras são combinadas através de um apóstrofe. Ex.: `Je me appelle` → `Je m'appelle`.
+    -   São obrigatórias.
+    -   A condição principal é que a segunda palavra se inicia em vogal, "h" mudo ou é o pronome `y`.
+    -   Salvo exceções, ocorrem quando a segunda palavra segue uma das condições descritar acima e a primeira palavra é:
+        -   O artigo `le` ou `la`;
+        -   Monossilábica terminando em "e" mudo. Ex.: `ce`, `de`, `je`, `me`, `ne`, `se`, `te`, `que`.
+            -   Outras palavras terminando em "que". Ex.: `jusque`, `lorsque`, `puisque`, `quoique`. `Presque` é uma exceção.
+            -   `Je` invertido não sofre elisão. Ex: `Puis-je aller?`.
+        -   `Tu` no discurso informal. No discurso informal também é comum contrair `je` para `j'` antes de qualquer palavra, até as que iniciam em consoante.
 -   Liaisons (Ligações): Ao pronunciar, quando uma palavra termina em consoante e a próxima em vogal, carrega-se a consoante para a pronúncia da próxima palavra.
+    -   "s" e "x" são carregados como "z".
+    -   "d" é carregado como "t".
+    -   Não lá ligações com a palavra `et`.
 -   Enchaînements (Encadeamentos) Similar à ligação, mas acontece quando a palavra termina em vogal mas se carrega o som da última consoante para a próxima palavra.
+-   O "h" mudo requer elisões e ligações, enquanto que o "h" aspirado as proíbe.
+
+## Acentos
+
 -   O francês usa 5 acentos gráficos:
     -   `L'accent aigu`: O acento agudo. Tem função sonora similar ao acento circunflexo do português.
         -   Aparece somente na letra `e`.
@@ -12,6 +37,7 @@
         -   Aparece nas letras `a`, `e` e `u`.
     -   `L'accent circonflexe`: O acento circunflexo. Muitas vezes não indica mudança na pronúncia, apenas que a vogal precedia um `s` no francês antigo ou latim que desapareceu no francês moderno.
         -   Pode aparecer em qualquer vogal.
+        -   No "e", possui o mesmo som do acento grave.
     -   `Le tréma`: A trema. Indica que as vogais devem ser pronunciadas separadamente.
         -   Aparece nas letras `e`, `i` e `u`.
     -   `La cédille`: A cedilha. Tem a mesma função do português.
@@ -46,8 +72,10 @@
 -   `en` [ɑ̃]
 -   `-ez` [e]
 -   `in` [ɛ̃]
+-   `im` [ɛ̃]
 -   `oi` [wa]
 -   `on` [ɔ̃]
+-   `om` [ɔ̃]
 -   `ue` [ɥ] (exceto depois de "g" e "q")
     -   `ueil` [œj]
 -   `ui` [ɥi] (exceto depois de "g" e "q")
@@ -64,8 +92,15 @@
 -   `th` [t]
 -   `aie` [ɛ]
 -   `ail` [aj]
+-   `ain` [ɛ̃]
+-   `ant` [ɑ̃]
+-   `and` [ɑ̃]
 -   `eau` [o]
+-   `ent` [ɑ̃]
+-   `ien` [ɛ̃]
 -   `ois` [wɑ]
+-   `ont` [ɔ̃]
 -   `-ait` [ɛ]
 -   `-aud` [o]
 -   `-ault` [o]
+-   `-aient` [ɛ]

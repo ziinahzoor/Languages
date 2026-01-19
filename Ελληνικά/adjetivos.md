@@ -1,4 +1,4 @@
-# Adjetivos
+# Τα Επίθετα - Adjetivos
 
 -   `Τεράστιος` Enorme
 -   `Μεγάλος` Grande/Longo
@@ -27,7 +27,10 @@
 -   `Πολύχρωμος` Colorido
 -   `Όμορφος` Bonito
 -   `Άσχημος` Feio
+-   `Καινούριος` Novo
 -   `Νέος` Jovem/Novo
+-   `Νεαρός` Jovem
+-   `Παλιός` Velho
 -   `Ψηλός` Alto
 -   `Κοντός` Baixo
 -   `Μελαχρινός` Moreno
@@ -113,5 +116,13 @@
 -   `Δυτικός` Oeste
 -   `Διπλανός` Ao lado/Adjacente/Vizinho
 -   `Μπροστινός` Frontal
+-   `Άδειος` Vazio
+-   `Γεμάτος` Cheio
+-   `Τρέχων` Atual/Corrente
+-   `Πρέπων` Apropriado
+-   `Παρών` Presente
+-   `Ενδιαφέρων` Interessante
+-   `Τυχαίος` Aleatório
+-   `Επείγων` Urgente
 
 ## Nacionalidades

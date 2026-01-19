@@ -4,6 +4,10 @@
 > As colunas categorizadas ("Aprender", "Gramática", etc) estão organizadas com as melhores alternativas estando no topo.
 > Nas colunas categorizadas, o prefixo `@` só indica o nome do site.
 
+## Ferramentas
+
+-   [Teclados sem necessidade de instalação](https://www.typeit.org/)
+
 ## Plataformas
 
 <table>
@@ -135,6 +139,7 @@
 	<tr>
 		<td><a href="https://learningreek.com/greek-language/">Aprender</a></td>
 		<td><a href="https://greek-grammar-blog.tumblr.com/">Gramática</a></td>
+		<td><a href="https://www.youtube.com/@LanguagesWithStalo/">@Languages With Stalo</a></td>
 	</tr>
 </table>
 
@@ -180,6 +185,7 @@
 
 <table>
 	<thead>
+		<th>Canais</th>
 		<th>Playlists</th>
 		<th>Gramática</th>
 		<th>Dicionário</th>
@@ -187,6 +193,7 @@
 		<th>Curiosidades</th>
 	</thead>
 	<tr>
+		<td rowspan="3"><a href="https://www.youtube.com/@NormanVargas">@Norman Vargas</a></td>
 		<td rowspan="3"><a href="https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj">@Cure Dolly Sensei</a></td>
 		<td><a href="https://www.tofugu.com/japanese-grammar/">@Tofugu</a></td>
 		<td rowspan="3"><a href="https://jotoba.de/">@Jotoba</a></td>
@@ -202,6 +209,7 @@
 		<td><a href="https://www.kanjidamage.com/">Aprender com mnemônicos</a></td>
 	</tr>
 	<tr>
+		<td rowspan="2"><a href="https://www.youtube.com/@JapanesewithMoon-chan">@Moon-chan</a></td>
 		<td rowspan="2"><a href="https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV">@Jouzu Juls</a></td>
 		<td rowspan="2"><a href="https://www.mlcjapanese.co.jp/Download/ViVt.pdf">Transitividade</a></td>
 		<td rowspan="2"><a href="https://jisho.org/">@Jisho</a></td>
@@ -216,7 +224,10 @@
 
 <table>
 	<tr>
-		<td><a href="https://www.nationalarchives.gov.uk/latin/">Aprender</a></td>
+		<td><a href="https://www.nationalarchives.gov.uk/latin/">@UK National Archives</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://booksnbackpacks.com/latin-with-livia/">@Latin With Livia</a></td>
 	</tr>
 </table>
 

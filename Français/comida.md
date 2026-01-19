@@ -1,10 +1,8 @@
 # Les Nourritures - Comida
 
+-   `Aliment` Alimento
 -   `Ingrédient` Ingrediente
--   `Casse-dalle` Quebra-fome (Gíria)
-    -   Significa algum aperitivo ou lanche, geralmente um sanduíche de baguete.
 -   `Pizza`
--   `Croissant`
 -   `Sucre` Açúcar
 -   `Sel` Sal
 -   `Salade` Salada
@@ -21,6 +19,8 @@
 -   `Glace` Sorvete 🚺
 -   `Dessert` Sobremesa 🚹
 -   `Œuf` Ovo
+    -   `Jaune d'œuf` Gema 🚹
+    -   `Blanc d'œuf` Clara 🚹
 -   `Gâteau` Bolo
 -   `Huile` Óleo
 -   `Vinaigre` Vinagre
@@ -59,7 +59,6 @@
 -   `Barbecue` Churrasco
 -   `Glaçon` Cubo de gelo
 -   `Camembert`
--   `Pâtisserie` Confeito 🚺
 -   `Steak` Bife
 -   `Hamburger` Hambúrguer
 -   `Fruit de mer` Fruto do mar
@@ -70,9 +69,13 @@
 -   `Goûter` Lanche/Petisco
     -   `Gouter` Pós-reforma de 90
 -   `Vanille` Baunilha
--   `Restes` Sobras 🚹
--   `Viennoiserie` Confeito 🚺
+-   `Boulangerie` Panificado 🚺
+-   `Viennoiserie` Panificado (doce)/Folhado/Confeito 🚺
+    -   Geralmente feitos com massa folhada
+-   `Pâtisserie` Doce/Confeito 🚺
 -   `Mayonnaise` Maionese
+-   `Baguette` Baguete 🚺
+-   `Noix` Noz
 
 ## Les Légumes - Vegetais
 
@@ -112,6 +115,7 @@
 -   `Olive` Azeitona
 -   `Ananas` Abacaxi
 -   `Cerise` Cereja
+-   `Noix de coco` Coco 🚺
 
 ## Les Boissons - Bebidas
 
@@ -146,7 +150,32 @@
 -   `Déjeuner` Almoço
 -   `Dîner` Jantar
     -   `Diner` Pós-reforma de 90
--   `Entrée` Entrada
+-   `Goûter` Petisco/Lanche
+-   `Casse-croûte` Lanche
 -   `Apéritif` Aperitivo
--   `Goûter` Petisco
+    -   `Apéro` Abreviação
+-   `Entrée` Entrada
+-   `Digestif` Digestivo
+    -   Geralmente uma bebida após a refeição.
+-   `Casse-dalle` Quebra-fome (Gíria)
+    -   Significa algum aperitivo ou lanche, geralmente um sanduíche de baguete.
 -   `Plat à emporter` Comida pra levar 🚹
+-   `Restes` Sobras 🚹
+
+## Culinária francesa
+
+-   `Cassoulet` 🚹
+    -   Ensopado de feijões brancos e carne.
+-   `Bouillabaisse` 🚺
+    -   Sopa de peixe.
+-   `Soufflé` 🚹
+    -   Prato assado, feito de clara de ovo e outros ingredientes. Geralmente servido numa tigela de cerâmica.
+-   `Clafoutis` 🚹
+    -   Sobremesa com uma massa parecida com uma torta/pudim, feita com frutas, geralmente cerejas.
+-   `Croissant` 🚹
+    -   Viennoiserie de massa folhada em formato de meia-lua.
+-   `Pain au chocolat` 🚹
+    -   `Chocolatine` Usado na região sudoeste da França 🚺
+    -   Croissant de chocolate
+-   `Éclair` Éclair/Bomba 🚹
+    -   Viennoiserie de massa choux com cobertura e recheio de creme.

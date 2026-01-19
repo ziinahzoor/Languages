@@ -47,6 +47,7 @@
 -   `Λέω` Dizer
     -   `Λέγω` Formal
     -   `Πω` Dependente
+-   `Επαναλαμβάνω` Repetir
 -   `Φέρνω` Trazer
 -   `Κοστίζω` Custar
 -   `Βάζω`
@@ -59,11 +60,13 @@
     -   `Ευρίσκω` Formal
     -   `Βρω` Dependente
 -   `Δείχνω` Mostrar/Indicar/Apontar/Demonstrar
+-   `Εμφανίζω` Mostrar/Apresentar
 -   `Καθαρίζω` Limpar
 -   `Νομίζω` Pensar/Considerar
 -   `Σώζω` Salvar
 -   `Σημαίνω` Significar (definição)
 -   `Ανοίγω` Abrir/Tornar algo acessível
+-   `Κλείνω` Fechar
 -   `Επιστρέφω` Retornar
 -   `Αλλάζω` Trocar
 -   `Στέλνω` Enviar
@@ -77,7 +80,6 @@
 -   `Κοιτάζω` Olhar/Examinar
 -   `Φεύγω` Partir
 -   `Νιώθω` Sentir
--   `Κλείνω` Fechar
 -   `Ρωτάω` Perguntar
 -   `Αμφιβάλλω` Duvidar
     -   Geralmente acompanha a preposição `για`.
@@ -130,6 +132,17 @@
 -   `Πιάνω` Pegar/Agarrar/Apanhar
 -   `Συστήνω` Introduzir/Apresentar
 -   `Στρίβω` Virar/Girar
+-   `Περιστρέφω` Rodar/Girar
+-   `Φωνάζω` Gritar
+-   `Ζεσταίνω` Esquentar
+-   `Αναφέρω` Mencionar/Citar/Referenciar
+-   `Βρέχω` Molhar
+-   `Κρύβω` Esconder
+-   `Εξαφανίζω` Esconder algo/Destruir
+-   `Ονομάζω` Chamar/Nomear
+-   `Απορρίπτω` Rejeitar/Recusar/Falhar
+-   `Επηρεάζω` Influenciar/Persuadir
+-   `Κουράζω` Cansar
 
 ## Verbos -άω (-ώ)
 
@@ -159,6 +172,8 @@
 -   `Συναντάω` Encontrar/Conhecer
 -   `Προτιμάω` Preferir
 -   `Ξεχνάω` Esquecer
+-   `Φιλάω` Beijar
+-   `Γεννάω` Parir/Dar a luz
 
 ## Verbos -ώ
 
@@ -170,6 +185,8 @@
 -   `Εννοώ` Significar (elaboração)
 -   `Προσπαθώ` Tentar
 -   `Ανησυχώ` Preocupar
+-   `Θεωρώ` Considerar/Estimar
+-   `Εξαρτώ` Depender de
 
 ## Verbos depoentes
 
@@ -185,7 +202,7 @@
 -   `Εμπιστεύομαι` Confiar
 -   `Χρειάζομαι` Precisar/Necessitar
 -   `Εύχομαι` Desejar
--   `Γίνομαι` Acontecer
+-   `Γίνομαι` Acontecer/Se tornar/Vir a existir
 -   `Ξεκουράζομαι` Descansar
     -   Não é exatamente depoente pois possui uma forma ativa, porém ela é transitiva. A forma passiva indica uma ação reflexiva.
 -   `Φαίνομαι` Parecer

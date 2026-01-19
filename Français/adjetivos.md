@@ -7,6 +7,9 @@
 > [!TIP]
 > Alguns adjetivos BANGS possuem duplo sentido: `grand`, `pauvre`, `cher`. Quando utilizados antes do substantivo geralmente possuem sentido figurado e depois do substantivo possuem o sentido literal.
 
+> [!NOTE]
+> Apesar de atualmente utilizarmos os adjetivos concordando no masculino quando há pelo menos um substantivo masculino sendo referido, a forma mais correta é dada pela `Règle de Proximité` ou `Accord de Voisinage`, que define que os adjetivos devem concordar em gênero e número com o substantivo mais próximo. Ex.: `Les acteurs et les actrices sont très heureux` (uso comum); ``Les acteurs et les actrices sont très heureuses` (Règle de Proximité).
+
 **Se um adjetivo termina em `eux`, a forma feminina termina em `euse`.**
 
 ## Indéfinis - Indefinidos
@@ -63,6 +66,7 @@
 -   `Moderne` Moderno
 -   `Argenté` Prateado
 -   `Doré` Dourado
+-   `Fluo` Fluorescente/Neon
 
 ## Idade
 
@@ -92,10 +96,13 @@
 -   `Large` Largo
 -   `Long` Longo
 -   `Court` Curto
--   `Gros` Gordo
+-   `Gros` Gordo/Volumoso
+-   `Épais` Grosso
 -   `Mince` Magro/Fino
 -   `Léger` Leve
 -   `Lourd` Pesado
+    -   Para pessoas quer dizer "irritante"
+    -   `Relou` Verlan
 -   `Profond` Profundo
 
 ## Quantidade
@@ -124,6 +131,7 @@
 -   `Rapide` Rápido
 -   `Quotidien` Diário/Cotidiano
 -   `Hebdomadaire` Semanal
+-   `Annuel` Anual
 
 ## Caráter/Estilo
 
@@ -154,6 +162,8 @@
 -   `Négatif` Negativo
 -   `Normal`
 -   `Dégoûtant` Nojento/Repugnante
+-   `Dégueulasse` Nojento/Vomitivo
+    -   `Dégueu` Abreviação
 -   `Inacceptable` Inaceitável
 -   `Turistique` Turístico
 -   `Doux` Macio
@@ -184,7 +194,7 @@
 -   `Culturel` Cultural
 -   `Plat` Plano
 -   `Logique` Lógico
--   `Offert` De graça
+-   `Offert` De graça/Incluso
 -   `Élevé` Elevado
 -   `Privé` Privado
 -   `Serré` Apertado
@@ -197,6 +207,19 @@
 -   `Supplémentaire` Adicional/Extra/Suplementar
 -   `Obligatoire` Obrigatório
 -   `Silencieux` Silencioso
+-   `Accueilli` Recebido/Acolhido
+-   `Traditionnel` Tradicional
+-   `Principal`
+-   `Répétitif` Repetitivo
+-   `Varié` Variado
+-   `Concurrentiel` Competitivo
+-   `Problématique` Problemático
+-   `Susmentionné` Supracitado/Mencionado acima
+-   `Imprévu` Imprevisto
+-   `Inoubliable` Inesquecível
+-   `Biologique` Orgânico
+    -   `Bio` Abreviação
+-   `Instructif` Instrutivo/Educativo
 
 ### Personalidade
 
@@ -216,6 +239,10 @@
 -   `Généreux` Generoso
 -   `Courageux` Corajoso
 -   `Antipathique` Antipático
+-   `Sincère` Sincero
+-   `Tatillon` Exigente/Meticuloso/Detalhista
+-   `Maladroit` Desajeitado
+-   `Naïf` Ingênuo
 
 ## Gosto
 
@@ -241,7 +268,11 @@
 -   `Gratuit` Gratuito
 -   `Né` Nascido
 -   `Célibataire` Solteiro
+-   `En couple` Namorando
+-   `Pacsé` Em união civil
 -   `Marié` Casado
+-   `Divorcé` Divorciado
+-   `En union libre` Em união estável
 -   `Tôt` Adiantado
 -   `Occupé` Ocupado
 -   `Interdit` Proibido
@@ -260,6 +291,7 @@
 -   `Satisfait` Satisfeito
 -   `Libre` Livre
 -   `Disponible` Disponível
+    -   `Dispo` Abreviação
 -   `Diplômé` Formado/Graduado/Diplomado
 -   `Utile` Útil
 -   `Inutile` Inútil
@@ -280,6 +312,14 @@
 -   `Dur` Duro
 -   `Mou` Mole
 -   `En désordre` Bagunçado
+-   `Négligé` Negligenciado/Desleixado
+-   `Éveillé` Acordado
+-   `Touché` Tocado
+-   `Applaudi` Aplaudido
+-   `Ancré` Fixado
+-   `Établi` Estabelecido
+-   `Détendu` Frouxo/Relaxado
+-   `Périmé` Vencido/Expirado
 
 ### Físicas
 
@@ -296,12 +336,14 @@
 -   `Allergique` Alérgico
 -   `Aveugle` Cego
 -   `Sourd` Surdo
--   `Mal à l'aise` Desconfortável
 -   `Choqué` Chocado
+-   `Flou` Turvo/Embaçado
+-   `Épuisé` Exausto
 
 ## Sentimento/Emoção
 
--   `Amusant` Divertido
+-   `Amusant` Divertido/Engraçado
+-   `Divertissant` Divertido
 -   `Drôle` Engraçado
 -   `Content` Contente
 -   `Heureux` Feliz
@@ -327,6 +369,9 @@
 -   `Animé` Animado
 -   `Gêné` Envergonhado
 -   `Contrarié` Chateado/Contrariado
+-   `Ravi` Encantado/Contente/Emocionado
+-   `À l'aise` À vontade
+-   `Mal à l'aise` Desconfortável
 
 ## Qualidade
 
@@ -359,6 +404,8 @@
     -   `Bel` Se começa com som de vogal
 -   `Parfait` Perfeito
 -   `Délicieux` Delicioso
+-   `Efficace` Eficiente
+-   `Haut de gamme` Sofisticado/Top de linha
 
 ## Capacidade
 

@@ -96,6 +96,16 @@
 -   Para o causativo, usa-se o verbo `faire` + verbo no infinitivo e `rendre` + adjetivo.
 -   Para partes do corpo não se costuma usar pronomes possessivos. Ao invés de disso, o verbo relacionado é usado na forma reflexiva.
 -   Usa-se `en` para se referir à refeição que se quer pedir num restaurante. Ex.: `En entrée...` "De entrada...".
+-   Também usa-se `en` para o meio de transporte usado para ir a algum lugar. Ex.: `Je suis allé en voiture` "Eu fui de carro".
+    -   Para à pé, moto e bicicleta usa-se `à`.
+-   As linguagens formal e informal são chamadas de `soutenu` e `familier`, respectivamente.
+
+## Le Pluriel - Plural
+
+-   O plural geralmente é formando ao adicionar `-s` às palavras.
+-   Palavras terminadas em `-eau`, `-eu` e `-au` costumam adicionar `-x`.
+-   Palavras terminadas em `-al` costumam substituir por `-aux`.
+-   Palavras terminadas em `-z`, `-x` e `-s` costumam ser invariáveis
 
 ## Les Articles - Artigos
 
@@ -114,7 +124,7 @@
 > Consequentemente, também se aplica quando falamos de coisas que gostamos, preferimos, ou não. "J'aime le chocolat" "Eu gosto de chocolate"
 
 > [!IMPORTANT]
-> Se a palavra começar com som de vogal (`voyelle/h muet`, vogal ou "h" mudo), `le` ou `la` se tornam `l'`
+> Se a palavra começar com som de vogal (`voyelle/h muet`, vogal ou "h" mudo), `le` ou `la` se tornam `l'`. Algumas palavras iniciam com um "h" chamado de aspirado, e não sofrem essa elisão.
 
 -   `Le` O
 -   `La` A
@@ -145,7 +155,9 @@
 
 ## La Négation - Negação
 
-A negação geralmente é conjugada como `ne [verbo] pas`. Note que o `pas` é mais importante que o `ne`, sendo que o último pode ser ignorado em conversas informais.
+-   A negação geralmente é conjugada como `ne [verbo] pas`. Note que o `pas` é o que qualifica a negação.
+    -   Em contextos informais, é comum utilizar somente `[verbo] pas`.
+    -   Ao usar palavras de negação, como `pas`, `plus`, `jamais`, o artigo utilizado logo a seguir se torna `de` (ou `d'`). A ideia da "ausência" de algo faz com que o partitivo seja usado.
 
 ## Perguntas
 

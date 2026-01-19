@@ -7,6 +7,19 @@
 -   Na escrita, há um espaço entre as aspas "« »" e o seu conteúdo.
 -   Símbolos monetários vêm depois do valor.
 -   Ao invés de ponto para separar casas decimais, usa-se um espaço. Ex.: "120 000,99".
+-   Para usar o vocativo com um grupo de pessoas, é comum usar `les` além de `mes`. Ex.: `Les amis,...` "Meus amigos,..."
+-   Ao falar de filmes, `regarder` geralmente indicar ver em casa e `voir` no cinema.
+
+## Conversa informal
+
+-   `Je` é abreviado para `j'` e soa mais como um "ch".
+    -   Quando seguido de uma palavra com "s", ele também costuma sumir, elidindo com o "je". Ex.: `Je suis` é pronunciado como "Chuis".
+-   Costuma-se abreviar `tu` antes de vogais para `t'`. `Qui` também é abreviado para `qu'`.
+-   Também costuma-se omitir a pronúncia do "e" em palavras monossilábicas.
+-   Costuma-se omitir o `ne` de frases negativas.
+-   `Qu'est-ce que` é reduzido para `Qu'est-ce`.
+-   `Est-ce que` é reduzido para `Est-ce qu'`.
+-   `Parce que` soa mais como "pace que".
 
 ## Gênero dos substantivos
 

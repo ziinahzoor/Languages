@@ -18,6 +18,7 @@
 -   <font size="5"><code><ruby>格<rt>かっ</rt>好<rt>こ</rt></ruby>いい</code></font> Legal/Maneiro/Estiloso
     -   Adjetivo `いい`
     -   Geralmente se escreve somente com kana
+-   <font size="5"><code><ruby>具<rt>ぐ</rt>合<rt>あい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い</code></font> Doente/Adoentado/Se sentindo mal
 -   `ダサい` Brega/Sem estilo
 -   <font size="5"><code><ruby>親<rt>しん</rt>切<rt>せつ</rt></ruby></code></font> Gentil, generoso
 -   <font size="5"><code><ruby>気<rt>き</rt>持<rt>も</rt></ruby>ちいい</code></font> Agradável/De sentimento agradável/Confortável
@@ -66,6 +67,7 @@
 -   <font size="5"><code><ruby>狭<rt>せま</rt></ruby>い</code></font> Estreito/Apertado
 -   <font size="5"><code><ruby>速<rt>はや</rt></ruby>い</code></font> Rápido
 -   <font size="5"><code><ruby>早<rt>はや</rt></ruby>い</code></font> Cedo
+-   <font size="5"><code><ruby>早<rt>はや</rt></ruby>め</code></font> Um pouco cedo
 -   <font size="5"><code><ruby>遅<rt>おそ</rt></ruby>い</code></font> Devagar/Lento/Tarde/Atrasado
 -   <font size="5"><code><ruby>長<rt>なが</rt></ruby>い</code></font> Longo
 -   <font size="5"><code><ruby>短<rt>みじか</rt></ruby>い</code></font> Curto
@@ -85,15 +87,18 @@
 -   <font size="5"><code><ruby>濃<rt>こ</rt></ruby>い</code></font> Forte (sabor)
 -   <font size="5"><code><ruby>甘<rt>あま</rt></ruby>い</code></font> Doce
 -   <font size="5"><code><ruby>苦<rt>にが</rt></ruby>い</code></font> Amargo
--   <font size="5"><code><ruby>塩<rt>しょ</rt></ruby>っぱい</code></font> Salgado
--   `すっぱい` Azedo
 -   <font size="5"><code><ruby>辛<rt>から</rt></ruby>い</code></font> Picante
+-   <font size="5"><code><ruby>塩<rt>しお</rt>辛<rt>か</rt></ruby>い</code></font> Salgado
+    -   <font size="5"><code><ruby>塩<rt>しょ</rt></ruby>っぱい</code></font> Casual
+-   <font size="5"><code><ruby>酸<rt>す</rt></ruby>っぱい</code></font> Azedo
+-   `あぶらっこい` Gorduroso/Oleoso
 -   `かたじけない` Agradecido
 -   <font size="5"><code><ruby>怖<rt>こわ</rt></ruby>い</code></font> Assustador
 -   <font size="5"><code><ruby>少<rt>すく</rt>ない</ruby></code></font> Pouco(s)/Insuficiente
     -   Não pode ser usado atributivamente. Usa-se <font size="5"><code><ruby>少<rt>すこ</rt>し</ruby></code></font> no lugar.
 -   <font size="5"><code><ruby>多<rt>おお</rt>い</ruby></code></font> Muito(s)/Demais/Numeroso
     -   Não pode ser usado atributivamente. Usa-se <font size="5"><code><ruby>多<rt>おお</rt>くの</ruby></code></font> no lugar.
+    -   Em frases comparativas costuma significar "mais".
 -   <font size="5"><code><ruby>軽<rt>かる</rt></ruby>い</code></font> Leve
 -   <font size="5"><code><ruby>重<rt>おも</rt></ruby>い</code></font> Pesado
 -   <font size="5"><code><ruby>眠<rt>ねむ</rt></ruby>い</code></font> Sonolento
@@ -109,7 +114,6 @@
 -   <font size="5"><code><ruby>厳<rt>きび</rt></ruby>しい</code></font> Rígido/Severo
 -   <font size="5"><code><ruby>固<rt>かた</rt></ruby>い</code></font> Duro
 -   <font size="5"><code><ruby>柔<rt>やわ</rt></ruby>らかい</code></font> Macio
--   `あぶらっこい` Gorduroso/Oleoso
 -   <font size="5"><code><ruby>近<rt>ちか</rt></ruby>い</code></font> Próximo (Distância)/Perto
 -   <font size="5"><code><ruby>遠<rt>とお</rt></ruby>い</code></font> Longe
 -   <font size="5"><code><ruby>汚<rt>きたな</rt></ruby>い</code></font> Sujo
@@ -131,6 +135,9 @@
 -   <font size="5"><code><ruby>浅<rt>あさ</rt></ruby>い</code></font> Raso/Superficial
 -   <font size="5"><code><ruby>深<rt>ふか</rt></ruby>い</code></font> Fundo/Profundo
 -   <font size="5"><code><ruby>細<rt>こま</rt></ruby>かい</code></font> Delicado/Minucioso/Fino
+-   <font size="5"><code><ruby>惜<rt>お</rt></ruby>しい</code></font> Lamentável/Decepcionante
+    -   Também usado como interjeição.
+-   <font size="5"><code><ruby>等<rt>ひと</rt></ruby>しい</code></font> Igual
 
 ## <ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos な
 
@@ -147,12 +154,13 @@
 -   `すき` Gostável
     -   `だいすき` Amável
 -   <font size="5"><code><ruby>色<rt>いろ</rt>々</ruby></code></font> Diversos/Vários/Todo tipo
--   <font size="5"><code><ruby>大<rt>たい</rt>変<rt>へん</rt></ruby></code></font> Problemático/Complicado/Difícil/Muito (Extremamante)
+-   <font size="5"><code><ruby>大<rt>たい</rt>変<rt>へん</rt></ruby></code></font> Trabalhoso/Problemático/Complicado/Difícil/Muito (Extremamante)
     -   Mais relacionado ao esforço físico ou emocional.
+-   <font size="5"><code><ruby>複<rt>ふく</rt>雑<rt>ざつ</rt></ruby></code></font> Complicado/Complexo
 -   <font size="5"><code><ruby>簡<rt>かん</rt>単<rt>たん</rt></ruby></code></font> Simples/Fácil/Descomplicado
     -   É mais objetivo.
--   <font size="5"><code><ruby>便<rt>べん</rt>利<rt>り</rt></ruby></code></font> Conveniente/Útil
--   `ふべん` Inconveniente
+-   <font size="5"><code><ruby>便<rt>べん</rt>利<rt>り</rt></ruby></code></font> Conveniente/Prático/Útil
+-   <font size="5"><code><ruby>不<rt>ふ</rt>便<rt>べん</rt></ruby></code></font> Inconveniente/Não-prático
 -   <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しみ</code></font> Ansioso (de antecipação)
     -   Geralmente acompanha o `が`
 -   `ダメ・だめ` Ruim/Inútil
@@ -170,7 +178,6 @@
 -   `かいてき` Confortável
 -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby></code></font> Verdadeiro
 -   `さいあく` Horrível/O pior
--   `ざんねん` Decepcionante
 -   `スペシャル` Especial
 -   <font size="5"><code><ruby>変<rt>へん</rt></ruby></code></font> Estranho/Esquisito
 -   `ヘルシー` Saudável
@@ -199,21 +206,23 @@
     -   Se refere somente à habilidade, sem nenhum sentimento pessoal.
 -   <font size="5"><code><ruby>苦<rt>にが</rt>手<rt>て</rt></ruby></code></font> Inábil/Ruim em
     -   Tem a nuance de não gostar do que se fala.
+-   <font size="5"><code><ruby>安<rt>あん</rt>全<rt>ぜん</rt></ruby></code></font> Seguro
 -   <font size="5"><code><ruby>危<rt>き</rt>険<rt>けん</rt></ruby></code></font> Perigoso
 -   <font size="5"><code><ruby>必<rt>ひつ</rt>要<rt>よう</rt></ruby></code></font> Necessário/Essencial/Indispensável
     -   É mais utilizado com necessidades externas, ou seja, que não são necessidades necessariamente pessoais. Também é mais utilizado com verbos (e substantivos quando é possível confundir com o verbo "existir", como com seres vivos).
 -   <font size="5"><code><ruby>完<rt>かん</rt>璧<rt>ぺき</rt></ruby></code></font> Perfeito/Sem defeitos
 -   <font size="5"><code><ruby>普<rt>ふ</rt>通<rt>つう</rt></ruby></code></font> Normal/Comum
--   <font size="5"><code><ruby>残<rt>ざん</rt>念<rt>ねん</rt></ruby></code></font> Lamentável/Infeliz
--   <font size="5"><code><ruby>別<rt>べつ</rt>々</ruby></code></font> Separado
+-   <font size="5"><code><ruby>残<rt>ざん</rt>念<rt>ねん</rt></ruby></code></font> Lamentável/Infeliz/Decepcionante
+-   <font size="5"><code><ruby>可哀想<rt>かわいそう</rt></ruby></code></font> Lamentável/Deplorável/Patético
 -   `ピカピカ` Cintilante/Com brilho
 -   <font size="5"><code><ruby>十<rt>じゅう</rt>分<rt>ぶん</rt></ruby></code></font> Suficiente
     -   Não confundir com `じゅっぷん` "dez minutos".
 -   `いっぱい` Cheio/Preenchido
 -   `ベジタリアン` Vegetariano
--   <font size="5"><code><ruby>意<rt>い</rt>地<rt>じ</rt>悪<rt>わる</rt></ruby></code></font> Malvado
+-   <font size="5"><code><ruby>意<rt>い</rt>地<rt>じ</rt>悪<rt>わる</rt></ruby></code></font> Mau/Malvado
 -   <font size="5"><code><ruby>巨<rt>きょ</rt>大<rt>だい</rt></ruby></code></font> Gigante/Enorme
--   <font size="5"><code><ruby>可哀想<rt>かわいそう</rt></ruby></code></font> Lamentável/Deplorável/Patético
+-   <font size="5"><code><ruby>最<rt>さい</rt></ruby></code></font> O mais
+    -   Usado como prefixo para outros adjetivos.
 -   <font size="5"><code><ruby>最<rt>さい</rt>悪<rt>あく</rt></ruby></code></font> Pior
 -   <font size="5"><code><ruby>最<rt>さい</rt>高<rt>こう</rt></ruby></code></font> Melhor/Supremo
 -   <font size="5"><code><ruby>可<rt>か</rt>能<rt>のう</rt></ruby></code></font> Possível
@@ -223,6 +232,12 @@
 -   <font size="5"><code><ruby>不<rt>ふ</rt>明<rt>めい</rt></ruby></code></font> Pouco claro/Confuso/Obscuro
 -   <font size="5"><code><ruby>明<rt>あき</rt></ruby>らか</code></font> Claro/Evidente/Óbvio
 -   <font size="5"><code><ruby>必<rt>ひっ</rt>死<rt>し</rt></ruby></code></font> Frenético/Desesperado
+-   <font size="5"><code><ruby>意<rt>い</rt>外<rt>がい</rt></ruby></code></font> Inesperado/Surpreendente
+-   <font size="5"><code><ruby>前<rt>まえ</rt>向<rt>む</rt></ruby>き</code></font> Positivo/Voltado para a frente
+-   <font size="5"><code><ruby>正<rt>せい</rt>確<rt>かく</rt></ruby></code></font> Correto/Preciso/Exato
+-   <font size="5"><code><ruby>別<rt>べつ</rt></ruby></code></font> Diferente/Distinto
+-   <font size="5"><code><ruby>特<rt>とく</rt>別<rt>べつ</rt></ruby></code></font> Especial
+-   <font size="5"><code><ruby>別<rt>べつ</rt>々</ruby></code></font> Separado
 
 ## Adjetivos たる
 
@@ -255,6 +270,8 @@
 -   `〜そう` Aparenta/Tem a impressão de
     -   É um adjetivo `な`.
     -   Geralmente usado como sufixo de verbos e adjetivos na sua forma radical.
+-   <font size="5"><code><ruby>生<rt>う</rt></ruby>まれ</code></font> Nascido em
+    -   Também pode ser usado com produtos para dizer `produzido em`.
 
 ## <ruby>連<rt>れん</rt>体<rt>たい</rt>詞<rt>し</rt></ruby> - Adnominais
 
@@ -268,6 +285,7 @@
 -   `ような` Como/Similar a
 -   `こういう` Tal/Este tipo de/Como este
 -   `そういう` Tal/Esse tipo de/Como esse
+-   `ほんの` Só/Somente (modéstia, pequena quantidade)
 
 ## Adjetivos-verbo
 

@@ -1,20 +1,35 @@
-# Verbos
+# <ruby>动<rt>dòng</rt>词<rt>cí</rt></ruby> - Verbos
+
+**Verbos compostos são formados por complementos resultantes. Isto é, o primeiro verbo descreve a ação e o segundo verbo (ou adjetivo) descreve um resultado da ação.**
 
 -   <font size="6"><code><ruby>是<rt>shi</rt></ruby></code></font> Ser/Estar
+    -   "Estar" apenas como condições e estados. No sentido de estar presente em algum lugar, usa-se a preposição `在`.
+    -   Pode ser usado no início de uma frase para demarcar ênfase nela. O fim da parte enfática é dado por <font size="6"><code><ruby>的<rt>de</rt></ruby></code></font>.
 -   <font size="5"><code><ruby>在<rt>zài</rt></ruby></code></font> Estar
 -   <font size="6"><code><ruby>有<rt>yǒu</rt></ruby></code></font> Ter/Haver
     -   Também utilizado pro impessoal.
+    -   <font size="6"><code><ruby>没<rt>méi</rt>有<rt>yǒu</rt></ruby></code></font> Não ter
 -   <font size="6"><code><ruby>在<rt>zài</rt></ruby></code></font> Estar
 -   <font size="6"><code><ruby>叫<rt>jiào</rt></ruby></code></font> Chamar-se/Ser chamado
+-   <font size="6"><code><ruby>姓<rt>xìng</rt></ruby></code></font> Chamar-se/Ser chamado (Sobrenome)
 -   <font size="6"><code><ruby>说<rt>shuō</rt></ruby></code></font> Falar
 -   <font size="6"><code><ruby>学<rt>xué</rt></ruby></code></font> Estudar/Aprender
+-   <font size="6"><code><ruby>学<rt>xué</rt>习<rt>xí</rt></ruby></code></font> Estudar/Aprender
 -   <font size="6"><code><ruby>写<rt>xiě</rt></ruby></code></font> Escrever
--   <font size="6"><code><ruby>吃<rt>chī</rt></ruby></code></font> Comer
+-   <font size="6"><code><ruby>吃<rt>chī</rt></ruby></code></font> Comer (T)
+-   <font size="5"><code><ruby>吃<rt>chī</rt>饭<rt>fàn</rt></ruby></code></font> Comer (I)/Fazer uma refeição
 -   <font size="6"><code><ruby>喝<rt>hē</rt></ruby></code></font> Beber
 -   <font size="6"><code><ruby>买<rt>mǎi</rt></ruby></code></font> Comprar
--   <font size="6"><code><ruby>喜<rt>xǐ</rt>欢<rt>huan</rt></ruby></code></font> Gostar
--   <font size="6"><code><ruby>想<rt>xiǎng</rt></ruby></code></font> Desejar/Querer
+-   <font size="6"><code><ruby>喜<rt>xǐ</rt>欢<rt>huan</rt></ruby></code></font> Gostar/Amar
+-   <font size="6"><code><ruby>想<rt>xiǎng</rt></ruby></code></font> Pensar/Desejar/Querer
+    -   É mais usado como verbo modal. Também é mais indireto, mais como "eu gostaria de" do que "quero".
+    -   Quando usado com substantivos, geralmente indica "sentir falta".
 -   <font size="6"><code><ruby>要<rt>yào</rt></ruby></code></font> Querer
+    -   Mais usado para indicar coisas que se deseja.
+    -   Quando usado como modal, é mais direto que `想`.
+    -   Também é usado para indicar "precisar", "dever". Para desambiguação, pode-se usar `需要`
+-   <font size="6"><code><ruby>想<rt>xiǎng</rt>要<rt>yào</rt></ruby></code></font> Querer
+-   <font size="6"><code><ruby>需<rt>xū</rt>要<rt>yào</rt></ruby></code></font> Precisar
 -   <font size="6"><code><ruby>从<rt>cóng</rt></ruby></code></font> Seguir
 -   <font size="6"><code><ruby>休<rt>xiū</rt></ruby></code></font> Descansar
 -   <font size="6"><code><ruby>会<rt>huì</rt></ruby></code></font> Poder/Ser capaz
@@ -22,4 +37,34 @@
 -   <font size="6"><code><ruby>游<rt>yóu</rt>泳<rt>yǒng</rt></ruby></code></font> Nadar
 -   <font size="6"><code><ruby>爱<rt>ài</rt></ruby></code></font> Amar
 -   <font size="6"><code><ruby>去<rt>qù</rt></ruby></code></font> Ir
+-   <font size="6"><code><ruby>上<rt>shàng</rt></ruby></code></font> Ir (comparecer)
 -   <font size="6"><code><ruby>回<rt>huí</rt></ruby></code></font> Retornar/Voltar
+-   <font size="6"><code><ruby>看<rt>kàn</rt></ruby></code></font> Olhar/Ler
+    -   <font size="6"><code><ruby>看<rt>kàn</rt>见<rt>jiàn</rt></ruby></code></font> Ver
+        -   Também usado para "ver" pessoas.
+-   <font size="6"><code><ruby>读<rt>dú</rt></ruby></code></font> Ler
+-   <font size="6"><code><ruby>运<rt>yùn</rt>动<rt>dòng</rt></ruby></code></font> Exercitar-se
+-   <font size="6"><code><ruby>做<rt>zuò</rt></ruby></code></font> Fazer
+-   <font size="6"><code><ruby>做<rt>zuò</rt>饭<rt>fàn</rt></ruby></code></font> Cozinhar
+-   <font size="6"><code><ruby>来<rt>lái</rt></ruby></code></font> Vir/Chegar
+-   <font size="6"><code><ruby>表<rt>biǎo</rt>达<rt>dá</rt></ruby></code></font> Expressar
+-   <font size="6"><code><ruby>谢<rt>xiè</rt>谢<rt>xie</rt></ruby></code></font> Agradecer
+-   <font size="6"><code><ruby>起<rt>qǐ</rt>床<rt>chuáng</rt></ruby></code></font> Levantar-se
+-   <font size="6"><code><ruby>睡<rt>shuì</rt>觉<rt>jiào</rt></ruby></code></font> Dormir
+-   <font size="5"><code><ruby>洗<rt>xǐ</rt>澡<rt>zǎo</rt></ruby></code></font> Banhar-se
+-   <font size="6"><code><ruby>感<rt>gǎn</rt>冒<rt>mào</rt></ruby></code></font> Pegar um resfriado
+-   <font size="6"><code><ruby>能<rt>néng</rt></ruby></code></font> Poder/Ser capaz
+-   <font size="6"><code><ruby>住<rt>zhù</rt></ruby></code></font> Morar/Ficar
+-   <font size="6"><code><ruby>工<rt>gōng</rt>作<rt>zuò</rt></ruby></code></font> Trabalhar
+-   <font size="6"><code><ruby>认<rt>rèn</rt>识<rt>shi</rt></ruby></code></font> Conhecer
+-   <font size="6"><code><ruby>坐<rt>zuò</rt></ruby></code></font> Sentar
+    -   Também usado como "andar de", "embarcar" e "pegar" quando usado com um transporte.
+-   <font size="6"><code><ruby>请<rt>qǐng</rt></ruby></code></font> Pedir/Solicitar
+-   <font size="6"><code><ruby>等<rt>děng</rt></ruby></code></font> Esperar
+-   <font size="6"><code><ruby>下<rt>xià</rt>雨<rt>yǔ</rt></ruby></code></font> Chover
+-   <font size="6"><code><ruby>到<rt>dào</rt></ruby></code></font> Chegar
+-   <font size="6"><code><ruby>开<rt>kāi</rt></ruby></code></font> Abrir/Ligar
+-   <font size="6"><code><ruby>问<rt>wèn</rt></ruby></code></font> Perguntar
+-   <font size="6"><code><ruby>请<rt>qǐng</rt></ruby></code></font> Pedir/Solicitar
+-   <font size="6"><code><ruby>听<rt>tīng</rt></ruby></code></font> Ouvir/Escutar
+-   <font size="6"><code><ruby>打<rt>dǎ</rt>电<rt>diàn</rt>话<rt>huà</rt></ruby></code></font> Ligar (por telefone)/Telefonar

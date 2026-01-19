@@ -122,10 +122,11 @@
 
 ## Demonstrativos
 
--   `Dieser` Este
+-   `Dieser` Este/Isto
     -   Sofre declinação conforme as mesmas regras anteriores.
     -   No neutro, com exceção do dativo, é `dieses`.
--   `Jener` Esse
+-   `Jener` Esse/Isso
+    -   `Der` Casual
     -   Sofre declinação conforme as mesmas regras anteriores.
     -   No neutro, com exceção do dativo, é `jenes`.
 
@@ -134,6 +135,11 @@
 -   `Wie viel` Quanto/Quantos
 -   `Welcher` Qual
     -   Sofre declinação.
+-   `Wann` Quando
+-   `Wo` Onde
+-   `Wohin` Aonde
+-   `Woher` De onde
+-   `Wer` Quem
 
 ## Indefinidos
 
@@ -141,3 +147,4 @@
     -   Sofre declinação.
     -   Muito usado para negar substantivos
 -   `Was` O que
+-   `Etwas` Algo

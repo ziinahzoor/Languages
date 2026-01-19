@@ -390,6 +390,7 @@
 <h2 id="var_participe-passe">Le Passé - Pretérito</h2>
 
 -   Deve concordar em número e gênero com o objeto direto, caso este venha antes do verbo. Não concorda se o objeto é indireto ou caso seja direto e venha depois do verbo.
+    -   Para facilitar: o sujeito concorda com o objeto quando utilizamos o auxiliar `être`, e não concorda com o auxiliar `avoir`.
 
 <table>
     <thead>
@@ -411,3 +412,9 @@
 | Irregulares | Être | Avoir | Aller | Faire | Vouloir | Pouvoir |
 | ----------- | ---- | ----- | ----- | ----- | ------- | ------- |
 | Conjugação  | été  | eu    | allé  | fait  | voulu   | pu      |
+
+<h1 id="var_voix-passive">La Voix Passive/Le Passif - Voz Passiva</h1>
+
+-   Consiste em conjugar o auxiliar `être` + particípio pretérito.
+-   O agente geralmente é indicado pelas preposições `par` e `de`.
+-   É comum evitar frases em voz passiva usando `se` (indicando o sujeito) antes do verbo na voz ativa ou usando o pronome `on` e conjugando o verbo da frase na voz ativa.

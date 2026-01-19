@@ -71,6 +71,9 @@
     </tr>
 </table>
 
+> [!NOTE]
+> Apesar de ser considerada uma linguagem SOV, a única ordem que realmente importa no japonês é o verbo vir por último. Portanto, apesar de mais incomum, uma frase OSV também pode ser gramaticalmente correta. Então, teoricamente, o japonês pode ser dito como uma linguagem V.
+
 -   O japonês usa bastante gestos e reverências (<font size="5"><code>お<ruby>辞<rt>じ</rt>儀<rt>ぎ</rt></ruby></code></font>) na comunicação.
 -   Saudações geralmente vêm depois do nome.
 -   Para perguntas, basta adicionar `か` após a frase. Note que o ponto ainda é necessário.
@@ -87,7 +90,7 @@
     -   `ください`: Me dê... por favor; Faça... por favor.
     -   `おねがいします`: Preciso... por favor.
 -   <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> pode ser tanto "ela" quanto "namorada" dependendo do contexto.
--   A ordem das frases geralmente é: `tópico` → `frequência` → `quando` → `com quem ocorre` → `objeto` → `partícula` → `verbo` → `partícula`
+-   A ordem das frases geralmente é: tópico → tempo → maneira → local → objeto → verbo → partícula finalizadora.
 -   Se uma cor termina em <font size="5"><code><ruby>色<rt>いろ</rt></ruby></code></font>, deve-se usar `の` entre ela e o substantivo que ela qualifica.
 -   Para conectar frases, ao invés de usar `と`, usar `そして`.
 -   A partícula `は` torna "invisível" algum elemento gramático da frase. Se `は` é usada para falar do sujeito, a partícula `が` não aparece na frase, e, de forma similar, se é usada para se referir ao objeto direto, `を` não aparece.
@@ -99,7 +102,6 @@
 -   Para oferecer algo, como comida, basta usar a frase no afirmativo com tom de pergunta. Também serve para perguntar o que a pessoa quer (sem a nuance convidativa).
 -   <font size="5"><code><ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby></code></font> é a comida em geral, <font size="5"><code><ruby>料<rt>りょう</rt>理<rt>り</rt></ruby></code></font> é a comida preparada.
 -   Diferente de outras línguas, onde fazemos alguma atividade "embaixo da chuva", em japonês se faz "dentro da chuva": `雨の中`.
--   A diferença entre `そう` e `らしい` é que o primeiro tem a nuance de a dedução ser feita a partir de outra fonte (ouvi dizer), enquanto a última se baseia em observações pessoais ou de outras fontes.
 -   Ao falar "qual [lugar]", usar `どこの` ao invés de `どの`
 -   Ao se referir a alguém pelo título ou por sua relação, usa-se `の`. Ex.: <font size="5"><code><ruby>妻<rt>つま</rt>のニヤ</ruby></code></font> "Minha esposa Nyah".
 -   Para dizer ambos, usa-se a expressão `…も…も`. Para dizer "nem um, nem outro", usa-se a expressão `…も…もない`.
@@ -115,6 +117,28 @@
 > Para compreender, podemos utilizar a analogia de <font size="5"><code><ruby>後<rt></rt></ruby></code></font> ser como o primeiro vagão de um trem. Ao passar por um túnel, todos os outros vagões ficam ATRÁS e vêm DEPOIS dele.
 > De maneira similar, <font size="5"><code><ruby>前<rt></rt></ruby></code></font> pode ser visto como o último vagão: todos os outros vêm ANTES e ficam NA FRENTE dele.
 
+> [!IMPORTANT]
+> Ambos <font size="5"><code><ruby>前<rt></rt></ruby></code></font> e <font size="5"><code><ruby>先<rt></rt></ruby></code></font> indicam "antes" e "em frente", porém o primeiro tem uma nuance de ser uma posição direta, enquando o último indica que pode ser em qualquer ponto "antes" ou "em frente".
+
+## Orações subordinadas
+
+### Orações relativas
+
+-   Não existem pronomes relativos.
+-   Orações relativas são feitas através de verbos, adjetivos ou de pronomes indefinidos.
+-   Para formar uma oração relativa, use-se o verbo na forma de dicionário (incluindo a negativa e pretérito) para modificar substantivos, já que nesses casos o verbo de certa forma atua como um adjetivo.
+    -   Não se pode utilizar o auxiliar `だ`, apenas suas variações como `じゃない` e `だった`.
+    -   Nesses casos, se um substantivo ainda antecede o verbo (que modifica outro substantivo), ou seja, não há nada entre o sujeito e o verbo, é possível usar a partícula `の` no lugar de `が` sem perda de nuance.
+    -   Também não é possível usar a partícula `は`.
+
+### Orações substantivas
+
+-   São demarcadas pela partícula `か`. Ex.: `今日はまみさんも来るか知ってる？` "Sabe se a Mami vem hoje?"
+    -   A partícula age como qualquer outra palavra interrogativa (ou pronome relativo) agiria no português, com o sentido sendo explicitado pelo verbo que segue a oração.
+    -   Devido à partícula indicar a função de oração, outras partículas que podem vir imediamente após a oração se tornam opcionais. Por exemplo, se a oração substantiva é citação, não é necessário usar a partícula `と`.
+-   Para acrescentar uma certa flexibilidade na parte interrogativa, pode-se acrescentar ainda `どうか`, formando algo similar a "ou não". Ex.: `今日はまみさんも来るかどうか知ってる？` "Sabe se a Mami vem ou não hoje?"
+-   Orações substantivas são uma forma bastante utilizada para acrescentar indireção à conversa: `デパートはどこにありますか` "Onde é o mercado?" → `デパートはどこにあるかし知っていますか` "Você sabe onde é o mercado?".
+
 ## そらにことば - Falsos cognatos
 
 ## <ruby>品<rt>ひん</rt>詞<rt>し</rt></ruby> - Classificação gramatical
@@ -129,3 +153,13 @@
 > **活用語 - Palavras conjugáveis**</br>
 > **非活用語 - Palavras não-conjugáveis**
 <!-- prettier-ignore-end -->
+
+## Palavras dedutivas
+
+-   São palavras que indicam que a informação foi deduzida de alguma fonte, indicando que uma situação "parece" ocorrer.
+-   As mais comuns são: `そう`, `よう`, `らしい` e `みたい`.
+-   Podemos categorizar `らしい` como sendo auditiva, enquanto `よう` e `みたい` são visuais. `そう` se enquadra em ambas.
+-   Quanto ao sentido auditivo, a diferença entre `そう` e `らしい` é que a última tende a ser mais incerta, vindo de fontes ambíguas ou não tão confiáveis.
+-   Quanto ao sentido visual, a diferença entre `そう` e `よう` é que a primeira costuma indicar uma possibilidade, enquanto a última indica uma situação mais concreta.
+-   Existe ainda a construção `にみえる`, que indica evidência visual direta. Pode ser usado com `そう`, `よう` e `みたい`.
+    -   Serve para limitar a veracidade do que é dito, indicando que o que foi dito parte exclusivamente do que você percebeu.

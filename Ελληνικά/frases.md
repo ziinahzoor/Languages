@@ -1,5 +1,7 @@
 # Frases
 
+## Ao chegar
+
 -   `Γεια σου` Oi/Olá/Tchau
     -   `Γεια` Informal
     -   `Γεια σας` Formal/Plural
@@ -10,17 +12,43 @@
 -   `Τι γίνεται;` E aí?
 -   `Είσαι καλά;` Tudo bem?
 -   `Είμαι καλά` Estou bem
--   `Ευχαριστώ` Obrigado
--   `Παρακαλώ` Por favor/De nada
--   `Με συγχωρείτε` Com licença
--   `Τα λέμε` Até logo
--   `Συγγνώμη` Desculpa
 -   `Καλημέρα` Bom dia
 -   `Καλησπέρα` Boa tarde (Depois das 13:00)
 -   `Καληνύχτα` Boa noite
 -   `Χάρηκα` Prazer em conhecê-lo
--   `Ορίστε` Aqui está
+
+## Ao partir
+
 -   `Αντίο` Tchau
+-   `Τα λέμε` Até logo
+-   `Καλή τύχη` Boa sorte
+-   `Καλή διασκέδαση` Divirta-se
+-   `Να προσέχεις` Tome cuidado
+
+## Agradecimento
+
+-   `Ευχαριστώ` Obrigado
+-   `Παρακαλώ` Por favor/De nada
+-   `Επίσης` Pra você também
+-   `Χαρά μου να βοηθήσω` Estou feliz em ajudar
+
+## Desculpas
+
+-   `Με συγχωρείτε` Com licença
+-   `Συγγνώμη` Desculpa
+-   `Δεν πειράζει` Tudo bem/Não importa
+-   `Κανένα πρόβλημα` Sem problemas
+
+## Instruções
+
+-   `Κοίτα!` Olha!
+-   `Πάμε!` Vamos!
+-   `Βιάσου!` Depressa!
+-   `Σταμάτα!` Pare!
+
+## Outros
+
+-   `Ορίστε` Aqui está
 -   `Πώς σε λένε;` Qual o seu nome?
 -   `Εντάξει` Ok/Tudo bem
 -   `Τι τρέχει;` Qual o problema?/O que houve?

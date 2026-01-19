@@ -176,6 +176,7 @@
 -   `Cela` Isso/Aquilo
     -   É mais utilizado na escrita.
     -   `Ça` Contração (Informal e geralmente mais utilizado na conversação)
+        -   É sempre masculino.
 -   `Celui` Este/Esse/Aquele
 -   `Celle` Esta/Essa/Aquela
 -   `Ceux` Estes/Esses/Aqueles
@@ -197,6 +198,9 @@
 
 ## Relatifs - Relativos
 
+> [!TIP]
+> Depois de qualquer preposição que não seja `de`, o pronome relativo sempre vai ser `qui` (para pessoas) ou `lequel` (para objetos).
+
 -   `Où` Onde/Quando
     -   Serve tanto para situações espaciais quanto temporais.
 -   `Que` Que
@@ -205,7 +209,8 @@
 -   `Qui` Que (Quem)
     -   É o sujeito ou objeto de preposição.
     -   `Ce qui` Indefinido
--   `Dont` De quem
+-   `Dont` De que/O qual/A qual/De qual/De quem
+    -   Subtitui a preposição `de` + pronome relativo.
 -   `Lequel` Do qual
 
 ## Indéfinis - Indefinidos
@@ -227,7 +232,7 @@
         -   Impessoal
 -   `Quelques-un(e)s` Alguns
 -   `N'importe quel` Qualquer um
--   `Quiconque` Qualquer um
+-   `Quiconque` Qualquer um/Quem quer que
 -   `Tel` Alguém/Qualquer um
 -   `Rien` Nada
 -   `Alcun` Nenhum

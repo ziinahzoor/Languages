@@ -2,7 +2,7 @@
 
 # <ruby>挨<rt>あい</rt>拶<rt>さつ</rt></ruby> - Saudações
 
-### Ao chegar
+## Ao chegar
 
 -   `こんにちは` Olá
     -   Deriva de `今日はおげんきですか` "Como vai você hoje?"
@@ -16,8 +16,9 @@
     -   `いらっしゃいませ` Bem-vindo (Usado em estabelecimentos)
     -   <font size="5"><code>お<ruby>帰<rt>かえ</rt></ruby>りなさい</code></font> Bem-vindo de volta (à casa)
 -   <font size="5"><code><ruby>失<rt>しつ</rt>礼<rt>れい</rt></ruby>します</code></font> Com licença (Ao entrar ou sair de uma sala)
+-   <font size="5"><code>お<ruby>邪<rt>じゃ</rt>魔<rt>ま</rt></ruby>します</code></font> Perdão pela intromissão (Ao entrar na casa de alguém)
 
-### Ao partir
+## Ao partir
 
 -   `じゃあね` Tchau
 -   `またね` Até logo
@@ -27,12 +28,12 @@
     -   `いって` Indo + `きます` Vir = Estou indo, e vou voltar
 -   <font size="5"><code><ruby>行<rt>い</rt></ruby>ってらっしゃい</code></font> Tenha cuidado/Estarei esperando
 -   <font size="5"><code>お<ruby>先<rt>さき</rt></ruby>に<ruby>失<rt>しつ</rt>礼<rt>れい</rt></ruby>します</code></font> Desculpe por sair (mais cedo que você)
-    -   <font size="5"><code>お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした</code></font> Obrigado pelo trabalho duro
-        -   É utilizado tanto por quem está saindo do trabalho (agradecendo aos que ficam por continuar seu trabalho), tanto como resposta a esta pessoa (agradecendo pelo seu dia de trabalho).
-        -   Significa literalmente "você deve estar cansado".
+-   <font size="5"><code>お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした</code></font> Obrigado pelo trabalho duro
+    -   É utilizado tanto por quem está saindo do trabalho (agradecendo aos que ficam por continuar seu trabalho), tanto como resposta a esta pessoa (agradecendo pelo seu dia de trabalho).
+    -   Significa literalmente "você deve estar cansado".
 -   <font size="5"><code>お<ruby>元<rt>げん</rt>気<rt>き</rt></ruby>で</code></font> Cuide-se
 
-### Apresentação
+## Apresentação
 
 -   `はじめまして` Prazer em conhecer (Antes de se apresentar)
 -   `どうぞよろしく` Prazer em conhecer (Depois de se apresentar)
@@ -52,8 +53,6 @@
 
 -   `ください` Por favor (Para objetos e ações)
 -   `おねがいします` Por favor (Para serviços)
--   `さあ` Vamos/Bora
-    -   Usado para encorajar ou apressar.
 -   <font size="5"><code>ちょっと<ruby>待<rt>ま</rt></ruby>って</code></font> Espere um pouco
     -   <font size="5"><code><ruby>少<rt>しょう</rt>々</ruby>お<ruby>待<rt>ま</rt></ruby>ちください</code></font> Espere um pouco por favor
 
@@ -61,21 +60,24 @@
 
 -   `すみません` Com licença/Desculpa
     -   Pode ser usado com a forma て para indicar "desculpa por...".
+    -   `すまん` Casual/Masculina
     -   `ごめんなさい` Desculpa (Casual)
         -   `ごめん` Abreviação
     -   <font size="5"><code><ruby>失<rt>しつ</rt>礼<rt>れい</rt></ruby>します</code></font> Teineigo
         -   Literalmente "estou sendo rude".
     -   <font size="5"><code><ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt>ございません<rt></rt></ruby></code></font> Sinto muito/Mil desculpas
--   `さあ` Não tenho certeza
 
 ## Felicitações
 
--   `おめでと` Parabéns!
--   <font size="5"><code>お<ruby>誕<rt>たん</rt>生<rt>じょう</rt>日<rt>び</rt></ruby>おめでとう</code></font> Feliz aniversário!
-    -   <font size="5"><code>お<ruby>誕<rt>たん</rt>生<rt>じょう</rt>日<rt>び</rt></ruby>おめでとうございます</code></font> Teineigo
 -   <font size="5"><code><ruby>乾<rt>かん</rt>杯<rt>ぱい</rt></ruby></code></font> Saúde! (Ao beber)
 -   <font size="5"><code><ruby>明<rt>あ</rt></ruby>けましておめでとう</code></font> Feliz Ano Novo!
     -   <font size="5"><code><ruby>明<rt>あ</rt></ruby>けましておめでとうございます</code></font> Teineigo
+-   `つまらないものですが` Não é muito, mas... (Ao dar um presente)
+-   <font size="5"><code>どうぞお<ruby>幸<rt>しあわ</rt></ruby>せに</code></font> Felicidades!/Seja feliz!
+-   `おめでと` Parabéns!
+    -   <font size="5"><code>お<ruby>誕<rt>たん</rt>生<rt>じょう</rt>日<rt>び</rt></ruby>おめでとう</code></font> Feliz aniversário!
+    -   `ご...おめでとうございます` Parabéns pelo(a)...!
+        -   Usado com eventos como casamento, formatura, etc. O prefixo `ご` é usado na maioria desses casos.
 
 ## Agradecimento
 
@@ -90,10 +92,15 @@
 -   <font size="5"><code><ruby>結<rt>けっ</rt>構<rt>こう</rt></ruby></code></font> Não, obrigado/Não precisa/Estou cheio
 -   `こちらこそ` Eu que deveria dizer isto
     -   Também muito utilizado após desculpas.
+-   <font size="5"><code>お<ruby>構<rt>かま</rt></ruby>いなく</code></font> Não precisava
+    -   Resposta humilde quando alguém oferece ou faz alguma coisa ou algum serviço.
+-   <font size="5"><code>お<ruby>世<rt>せ</rt>話<rt>わ</rt></ruby>になりました</code></font> Obrigado por tudo/Estou em dívida com você
 
 ## Concordância
 
 -   <font size="5"><code><ruby>了<rt>りょう</rt>解<rt>かい</rt></ruby></code></font> Ok/Entendido
+-   <font size="5"><code><ruby>畏<rt>かしこ</rt></ruby>まりました</code></font> Certamente/É pra já
+    -   Usado por funcionários ao atender pedidos de superiores ou clientes.
 
 ## Dúvidas
 

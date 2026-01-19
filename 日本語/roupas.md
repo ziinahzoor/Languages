@@ -35,6 +35,7 @@
 -   `スーツ` Traje/Terno
 -   <font size="5"><code><ruby>背広<rt>せびろ</rt></ruby></code></font> Terno
 -   <font size="5"><code><ruby>鎧<rt>よろい</rt></ruby></code></font> Armadura
+-   <font size="5"><code><ruby>喪<rt>も</rt>服<rt>ふく</rt></ruby></code></font> Roupa de luto
 
 ## Braços
 

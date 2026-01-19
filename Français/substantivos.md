@@ -5,8 +5,8 @@
 -   `Soleil` Sol
 -   `Lune` Lua
 -   `Plante` Planta
--   `Fleur` Flor
 -   `Arbre` Árvore 🚹
+-   `Feuille` Folha
 -   `Lumière` Luz
 -   `Mer` Mar 🚺
 -   `Lac` Lago
@@ -14,16 +14,15 @@
 -   `Rivière` Córrego/Riacho 🚺
 -   `Boue` Lama
 -   `Feu` Fogo
+    -   `Feu doux` Fogo baixo
 -   `Vague` Onda
 -   `Tempête` Tempestade
 -   `Océan` Oceano
 -   `Colline` Colina
 -   `Vent` Vento
 -   `Rose` Rosa
--   `Herbe` Grama
 -   `Étoile` Estrela
 -   `Sable` Areia 🚹
--   `Feuille` Folha
 -   `Environnement` Meio-ambiente
 -   `Pollution` Poluição
 -   `Éclair` Raio/Relâmpago
@@ -31,6 +30,16 @@
 -   `Fumée` Fumaça
 -   `Incendie` Incêndio
 -   `Ombre` Sombra/Escuridão
+-   `Cascade` Cachoeira
+-   `Bulle` Bolha
+-   `Goutte` Gota
+
+### Les Arbres et les Plantes - Árvores 🚹 e Plantas
+
+-   `Gui` Visco
+-   `Herbe` Grama
+-   `Feuille` Folha
+-   `Fleur` Flor
 
 ### Materiais
 
@@ -53,6 +62,7 @@
 ### Le Salon - Sala
 
 -   `Canapé` Sofá
+-   `Table basse` Mesa de centro
 
 ### La Cuisine - Cozinha
 
@@ -65,12 +75,16 @@
     -   `Cuillère à café` Colher de chá
     -   `Cuillère à soupe` Colher de sopa
 -   `Fourchette` Garfo 🚺
+-   `Couteau` Faca 🚹
+-   `Assiette` Prato 🚺
 -   `Four` Forno
 -   `Bol` Tigela 🚹
 -   `Évier` Pia 🚹
 -   `Nappe` Toalha de mesa
 -   `Lave-vaisselle` Lava-louça 🚹
 -   `Cafetière` Cafeteira
+-   `Poêle` Frigideira
+-   `Casserole` Panela/Caçarola
 
 ### La Salle de Bain - Banheiro
 
@@ -104,6 +118,7 @@
 -   `Valise` Mala 🚺
 -   `Passeport` Passaporte 🚹
 -   `Livre` Livro
+    -   `Bouquin` Coloquial
 -   `Jeu` Jogo
 -   `Table` Mesa
 -   `Guide` Guia
@@ -129,13 +144,12 @@
 -   `Dessin` Desenho
 -   `Tableau` Quadro (Pintura)
 -   `Peinture` Pintura
+-   `Portrait` Retrato
 -   `Devoir` Tarefa
 -   `Pelouse` Gramado
 -   `Papier` Papel
 -   `Cahier` Caderno
 -   `Crayon` Lápis
--   `Couteau` Faca 🚹
--   `Assiette` Prato 🚺
 -   `Coffre` Cofre/Porta-malas
 -   `Bureau` Escrivaninha/Mesa de trabalho
 -   `Poupée` Boneca
@@ -149,7 +163,6 @@
 -   `Étagère` Estante/Prateleira
 -   `Rideau` Cortina 🚹
 -   `Bijou` Joia
--   `Poubelle` Lata de lixo
 -   `Timbre` Selo
 -   `Plan` Mapa (Geográfico)
 -   `Carte` Mapa (Guias e diagramas)
@@ -173,9 +186,8 @@
 -   `Meuble` Móvel
 -   `Tiroir` Gaveta 🚹
 -   `Commode` Cômoda
--   `Fauteuil` Poltrona
+-   `Fauteuil` Poltrona 🚹
 -   `Paquet` Pacote
--   `Poubelle` Lata de lixo
 -   `Ciseau` Cinzel
 -   `Ciseaux` Tesoura 🚹
 -   `Cigarette` Cigarro 🚺
@@ -196,7 +208,12 @@
 -   `Pelle` Pá
 -   `Bouquet` Buquê
 -   `Mouchoir` Lenço
--   `Déchet` Dejeto/Lixo
+-   `Poubelle` Lata de lixo
+-   `Sac poubelle` Saco de lixo
+-   `Déchet` Dejeto/Lixo/Porcaria
+    -   Qualquer material singular descartado
+-   `Ordure` Lixo
+    -   Lixo recolhido como um todo para ser descartado.
 -   `Cachet` Comprimido
 -   `Bougie` Vela
 -   `Panneau` Placa/Painel 🚹
@@ -209,17 +226,21 @@
 -   `Tissu` Tecido
 -   `CV` Currículo
 -   `Vase` Vaso
+-   `Décoration` Decoração
+-   `Photocopieuse` Fotocopiadora
+-   `Jumelles` Binóculos 🚺
+-   `Boule` Bola
+-   `Manette` Alavanca
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
+-   `Prise` Tomada
 -   `Lampe` Lâmpada/Luminária
 -   `Appareil` Aparelho
 -   `Télévision` Televisão
     -   `Télé` TV
 -   `Jeu vidéo` Videogame
--   `Ordinateur` Computador
-    -   `Ordinateur portable` Laptop
--   `Souris` Mouse 🚺
+-   `Manette` Controle/Joystick
 -   `Portable` Celular
 -   `Téléphone` Telefone
 -   `Radio` Rádio 🚺
@@ -240,6 +261,20 @@
 -   `Écran` Tela 🚹
 -   `Aspirateur` Aspirador
 -   `Calculatrice` Calculadora
+-   `Câble` Cabo
+-   `Chargeur` Carregador
+
+#### L'Informatique - Computação
+
+-   `Logiciel` Programa/Software
+-   `Ordinateur` Computador
+    -   `Ordinateur portable` Laptop
+-   `Souris` Mouse 🚺
+-   `Clavier` Teclado
+-   `Moniteur` Monitor
+-   `Feuille de calcul` Planilha
+-   `Système d'exploitation` Sistema operacional
+-   `Compte de messagerie` Conta de e-mail
 
 ## Abstratos
 
@@ -300,7 +335,8 @@
 -   `Itinéraire` Rota
 -   `Urgence` Urgência/Emergência
 -   `Secours` Socorro
--   `Langue` Linguagem
+-   `Langue` Língua
+-   `Langage` Linguagem 🚹
 -   `Phrase` Frase
 -   `Paragraphe` Parágrafo
 -   `Information` Informação/Notícia
@@ -348,6 +384,8 @@
 -   `Embouteillage` Engarrafamento
 -   `Ligne` Linha
 -   `Instruction` Instrução
+-   `Pacte Civil de Solidarité` União civil
+    -   `PACS` Abreviação
 -   `Mariage` Casamento
 -   `Lune de miel` Lua de mel
 -   `Bazar` Velharia/Porcaria 🚹
@@ -436,6 +474,48 @@
 -   `Désordre` Bagunça 🚹
 -   `Catastrophe` Catástrofe
 -   `Mystère` Mistério
+-   `Trésor` Tesouro
+-   `Tradition` Tradição
+-   `Collection` Coleção
+-   `Œuvre` Obra
+-   `Chef-d'œuvre` Obra-prima 🚹
+-   `Acte` Ato
+-   `Train-train` Rotina 🚹
+-   `Remboursement` Reembolso
+-   `Intitulé` Designação
+-   `Plainte` Queixa/Reclamação
+-   `Défi` Desafio
+-   `Plupart` Maioria/Maior parte
+-   `Étude de marché` Pesquisa de mercado
+-   `Stratégie` Estratégia
+-   `Performance` Desempenho 🚺
+-   `Donnée` Dado 🚺
+-   `Augmentation` Aumento 🚺
+-   `Manque` Falta/Ausência 🚹
+-   `Échéance` Prazo/Vencimento 🚺
+-   `Ordre du jour` Pauta/Agenda 🚹
+-   `Taux` Taxa 🚹
+-   `Coordonées` Dados de contato 🚺
+-   `Étape` Etapa
+-   `Malentendu` Mal-entendido
+-   `Congé` Licença/Folga 🚹
+-   `Stéréotype` Estereótipo
+-   `Démarche` Raciocínio 🚺
+-   `Pouvoir` Poder
+-   `Harcèlement` Assédio/Bullying
+-   `Cadre` Quadro
+-   `Chute` Queda
+    -   Também se refere à parte final de uma piada
+-   `Câlin` Abraço
+-   `Bisou` Beijo
+    -   `Baiser` Beijo (romântico)
+    -   `Bise` Beijo social na bochecha
+-   `Record` Recorde
+-   `Virage` Curva 🚹
+-   `Facture` Conta/Fatura
+-   `Sûreté` Segurança (contra atos maliciosos)
+-   `Securité` Segurança (contra acidentes e atos não-intencionais)
+-   `Excès` Excesso
 
 ### Sentimentos, condições e emoções
 
@@ -459,6 +539,14 @@
 -   `Maladie` Doença
 -   `Urgence` Urgência/Emergência
 -   `Paix` Paz
+-   `Intérêt` Interesse
+-   `Préoccupation` Preocupação
+-   `Bien-être` Bem-estar
+-   `Parti-pris` Preconceito/Viés/Parcialidade
+-   `Préjugé` Preconceito
+-   `Bienveillance` Benevolência
+-   `Doute` Dúvida 🚹
+-   `Béguin` Paixonite 🚹
 
 ### Unidades de medida
 
@@ -495,7 +583,13 @@
     -   `Côté couloir` Assento no corredor
     -   `Côté fenêtre` Assento na janela
 -   `Bagage` Bagagem
+    -   `Bagage à main` Bagagem de mão
+    -   `Bagage en soute` Bagagem despachada
 -   `Billet` Passagem 🚹
+    -   `Aller simple` Passagem de ida 🚹
+        -   `Aller` Abreviação
+    -   `Aller et retour` Passagem de ida e volta 🚹
+        -   `Aller-retour` Abreviação
 -   `Voiture` Carro 🚺
     -   `Bagnole/Caisse` Gírias 🚺
 -   `Camion` Caminhão
@@ -526,6 +620,8 @@
 
 -   `Travail` Trabalho
     -   `Boulot` Trampo
+    -   `Petit boulot` Bico
+    -   `Corvée` Labuta
 -   `Métier` Ocupação/Trabalho
 -   `Profession` Profissão
 -   `Emploi` Emprego
@@ -534,8 +630,11 @@
 -   `Pêche` Pesca
 -   `Dessin animé` Desenho animado
 -   `Ménage` Trabalho doméstico
--   `Film` Filme
+-   `Feuilleton` Série/Novela 🚹
+    -   Em tese, é usado para séries cujos episódios não são independentes, ou seja, cujas histórias não se iniciam e terminam no mesmo episódio. Mas hoje é mais utilizado para se referir a novelas.
 -   `Série`
+    -   Em tese. especifica uma série com episódios independentes, mas hoje costumar ser utilizado para englobar qualquer tipo de série.
+-   `Film` Filme
 -   `Émission` Programa 🚺
 -   `Épisode` Episódio
 -   `Jeu` Jogo
@@ -563,12 +662,15 @@
 -   `Photographie` Fotografia
 -   `Roman` Romance (livro)
 -   `Poème` Poema
+-   `Bande dessinée` História em quadrinhos
 -   `Comédie musicale` Musical 🚺
 -   `Toboggan` Escorregador/Tobogã
 -   `Feu d’artifice` Fogo de artifício
 -   `Tourisme` Turismo
 -   `Blog`
--   `Logiciel` Programa/Software
+-   `Révision` Revisão
+-   `Essor` Voo/Decolagem/Elevação
+-   `Entretien` Entrevista 🚹
 
 ### Les Événements - Eventos
 
@@ -581,15 +683,20 @@
 -   `Compétition` Competição
 -   `Promenade` Passeio/Caminhada
 -   `Excursion` Excursão
+-   `Rentrée des classes` Volta às aulas
+-   `Épreuve` Prova/Teste 🚺
 
-### Compras
+### Compras e dinheiro
 
+-   `Salaire` Salário
+-   `Budget` Orçamento
 -   `Carte` Cartão
     -   `Carte bancaire` Cartão bancário 🚺
         -   Cartão de débito (Québécois)
+        -   `Carte bleue` Alternativa
     -   `Carte de crédit` Cartão de crédito 🚺
     -   `Carte sans contact` Cartão contactless/por aproximação
--   `Billet` Nota 🚹
+-   `Billet` Nota/Entrada 🚹
 -   `Pièce` Moeda
 -   `Argent` Dinheiro/Prata
 -   `Monnaie` Moeda/Troco 🚺
@@ -598,13 +705,18 @@
 -   `Pourboire` Gorjeta 🚹
 -   `Addition` Conta
 -   `Ticket` Recibo
+    -   `Ticket de caisse` Recibo de compra
 -   `Chèque` Cheque
 -   `Distributeur` Caixa eletrônico
+-   `Réduction` Desconto 🚺
 -   `Bon de réduction` Cupom de desconto
 -   `Caisse` Caixa
 -   `Solde` Promoção
 -   `Souvenir` Lembrancinha
 -   `Produit` Produto
+-   `Vente` Venda
+-   `Commerce de détail/Vente au détail` Varejo 🚺
+-   `Bourse` Bolsa (benefício financeiro)
 
 ### L'Étude - Estudo 🚺
 
@@ -614,15 +726,22 @@
 -   `Examen` Prova
 -   `Manuel` Livro didático/Manual
 -   `Article` Artigo
--   `Diplôme` Diploma
--   `Baccalauréat` Exame final do ensino médio
-    -   `Le Bac` Abreviação
-    -   É como o ENEM.
 -   `Trousse` Estojo 🚺
 -   `Tableau` Quadro
 -   `Règle` Régua
 -   `Gomme` Borracha
 -   `Rédaction` Redação
+-   `Diplôme` Diploma
+-   `Baccalauréat` Exame final do ensino médio
+    -   Similar ao ENEM.
+    -   `Le Bac` Abreviação
+    -   `Bac+3/L3` Diploma obtido após 3 anos de estudo após o Bac (`licence` ou `bachelor`)
+    -   `Bac+5/M2` Diploma obtido após 5 anos de estudo após o Bac (`master`)
+-   `Licence` Bacharelado 🚺
+    -   `Bachelier` Bélgica 🚹
+-   `Bachelor` Bacharelado profissional
+    -   Geralmente obtido em faculdades particulares e especializadas.
+-   `Master` Mestrado
 
 #### Áreas do conhecimento
 
@@ -638,6 +757,8 @@
 -   `Médecine` Medicina
 -   `Droit` Direito
 -   `Informatique` Ciência da computação
+-   `Finance` Finança
+-   `Ressources humaines` Recursos humanos 🚺
 
 ### Gêneros
 
@@ -662,6 +783,7 @@
 -   `Handball` Handebol
 -   `Tennis` Tênis
 -   `Boxe` 🚺
+-   `Footing` Caminhada 🚹
 -   `Course` Corrida
 -   `Rugby` Rúgbi
 -   `Snowboard`
@@ -671,9 +793,16 @@
 -   `Lutte` Luta livre
 -   `Natation` Natação
 -   `Surf` Surfe
+-   `Pétanque` Bocha
 -   `Jeux Olympiques` Jogos Olímpicos
 -   `Club` Clube/Time
 -   `Raquette` Raquete
+-   `Gymnastique` Ginástica
+
+#### Exercício
+
+-   `Pompe` Flexão
+-   `Abdo` Abdominal
 
 ## Música
 

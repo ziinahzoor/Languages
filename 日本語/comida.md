@@ -1,12 +1,15 @@
 # <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby> - Comida
 
 -   <font size="5"><code><ruby>材<rt>ざい</rt>料<rt>りょう</rt></ruby></code></font> Ingrediente
+-   `おかず` Acompanhamento
 -   `まっちゃ` Broto de chá verde
 -   <font size="5"><code>ご<ruby>飯<rt>はん</rt></ruby></code></font> Arroz/Refeição
     -   `チャーハン` Arroz frito
 -   `カレー` Curry
+    -   `カレールー` Roux de curry
 -   `ピザ` Pizza
--   `アイス` Sorvete
+-   `アイスクリーム` Sorvete
+    -   `アイス` Abreviação
 -   `ケーキ` Bolo
 -   `チーズケーキ` Cheesecake
 -   `カップケーキ` Cupcake
@@ -28,7 +31,6 @@
 -   `パン` Pão
 -   `ていしょく` Marmita
 -   `サラダ` Salada
--   `アイスクリーム` Sorvete
 -   `パスタ` Massa
 -   `デザート` Sobremesa
 -   <font size="5"><code><ruby>菓<rt>か</rt>子<rt>し</rt></ruby></code></font> Doce/Lanche
@@ -81,6 +83,9 @@
 -   `くり` Castanha-japonesa
 -   <font size="5"><code><ruby>数<rt>かず</rt></ruby>の<ruby>子<rt>こ</rt></ruby></code></font> Ova de arenque
 -   `バーベキュー` Churrasco
+-   <font size="5"><code><ruby>漬<rt>つけ</rt>物<rt>もの</rt></ruby></code></font> Picles (em geral)
+-   <font size="5"><code><ruby>酢<rt>す</rt></ruby></code></font> Vinagre
+-   <font size="5"><code><ruby>蜜<rt>みつ</rt></ruby></code></font> Néctar/Mel
 
 ## <ruby>果<rt>くだ</rt>物<rt>もの</rt></ruby> - Frutas
 
@@ -120,27 +125,42 @@
 
 ## <font size="5"><code><ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby></code></font> Bebidas
 
--   <font size="5"><code>お<ruby>酒<rt>さけ</rt></ruby></code></font> Álcool
 -   <font size="5"><code><ruby>水<rt>みず</rt></ruby></code></font> Água
     -   <font size="5"><code><ruby>湯<rt>ゆ</rt></ruby></code></font> Água quente
         -   <font size="5"><code>お<ruby>湯<rt>ゆ</rt></ruby></code></font> Teineigo
+    -   <font size="5"><code><ruby>冷<rt>ひ</rt></ruby>や</code></font> Água gelada
+        -   <font size="5"><code>お<ruby>冷<rt>ひや</rt></ruby></code></font> Teineigo
+            -   Também usado para se referir à "água da casa" em restaurantes.
+    -   `ミネラルウォーター` Água mineral
 -   <font size="5"><code>お<ruby>茶<rt>ちゃ</rt></ruby></code></font> Chá (verde)
     -   <font size="5"><code><ruby>紅<rt>こう</rt>茶<rt>ちゃ</rt></ruby></code></font> Chá preto
     -   <font size="5"><code>ウーロン<ruby>茶<rt>ちゃ</rt></ruby></code></font> Chá Oolong
+    -   `ハーブティー` Chá de ervas
+    -   `タピオカティー` Bubble tea
 -   `ジュース` Suco
 -   `コーヒー` Café
     -   `カプチーノ` Cappuccino
+    -   `カフェラテ` Latte
 -   `ココア` Chocolate quente
 -   <font size="5"><code><ruby>牛<rt>ぎゅう</rt>乳<rt>にゅう</rt></ruby></code></font> Leite de vaca
     -   `ミルク`
 -   <font size="5"><code><ruby>豆<rt>とう</rt>乳<rt>にゅう</rt></ruby></code></font> Leite de soja
 -   `コーラ` Cola
--   `ビール` Cerveja
--   `ワイン` Vinho
--   `タピオカティー` Bubble tea
--   `コーラ` Refrigerante de cola
+-   `ソフトドリンク` Refrigerante
+    -   `コーラ` Refrigerante de cola
 -   `スムージー` Batido
 -   `ビタミン` Vitamina
+-   `レモネード` Limonada
+
+### <ruby>酒<rt>さけ</rt></ruby> - Álcool
+
+-   <font size="5"><code>お<ruby>酒<rt>さけ</rt></ruby></code></font> Álcool (em geral)/Saquê
+-   <font size="5"><code><ruby>日<rt>に</rt>本<rt>ほん</rt>酒<rt>しゅ</rt></ruby></code></font> Saquê
+    -   Bebida feita a partir de arroz fermentado.
+-   <font size="5"><code><ruby>焼<rt>しょう</rt>酎<rt>ちゅう</rt></ruby></code></font> Shochu
+    -   Bebida destilada a partir da cevada, batata doce ou arroz. Geralmente possui 25% de álcool.
+-   `ビール` Cerveja
+-   `ワイン` Vinho
 
 ## <ruby>日<rt>に</rt>本<rt>ほん</rt>料<rt>りょう</rt>理<rt>り</rt></ruby>と<ruby>中<rt>ちゅう</rt>華<rt>か</rt>料<rt>りょう</rt>理<rt>り</rt></ruby> - Comida japonesa e chinesa
 
@@ -156,7 +176,7 @@
     -   Vinho de arroz similiar ao saquê, mas com menos álcool e mais açúcar.
 -   <font size="5"><code><ruby>垂<rt>た</rt></ruby>れ</code></font> Tarê
     -   Geralmente escrito em kana.
-    -   Molho feito aquecendo e misturando, shoyu, sake (ou mirin) e açúcar (ou mel).
+    -   Molho feito aquecendo e misturando, shoyu, saquê (ou mirin) e açúcar (ou mel).
     -   <font size="5"><code><ruby>照<rt>て</rt></ruby>り<ruby>焼<rt>や</rt></ruby>き</code></font> Teriyaki
         -   Técnica em que o tarê é utilizado para marinar a comida antes de grelhá-la.
 -   <font size="5"><code><ruby>振<rt>ふ</rt></ruby>り<ruby>掛<rt>か</rt></ruby>け</code></font> Furikake
@@ -190,6 +210,7 @@
             -   O metade do tubo de nori é preenchido com shari e a outra com outros ingredientes.
     -   <font size="5"><code><ruby>手<rt>て</rt>巻<rt>ま</rt></ruby>き・<ruby>手<rt>て</rt>巻<rt>まき</rt></ruby></code></font> Temaki
         -   Sushi enrolado em nori em formato de cone.
+    -   <font size="5"><code><ruby>回<rt>かい</rt>転<rt>てん</rt>寿<rt>ず</rt>司<rt>し</rt></ruby></code></font> Sushi na esteira
 -   <font size="5"><code><ruby>刺<rt>さし</rt>身<rt>み</rt></ruby></code></font> Sashimi
     -   Peixe (ou outro fruto do mar) cru
 -   <font size="5"><code>すり<ruby>身<rt>み</rt></ruby></code></font> Surimi
@@ -229,20 +250,22 @@
     -   Bolinho feito de farinha de arroz (pode ser glutinoso) e água.
 -   `せんべい` Sembei/Bolachas de arroz
     -   Geralmente salgadas e feitas de arroz.
--   <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt></ruby></code></font> Miso
+-   <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt></ruby></code></font> Miso/Missô
     -   Pasta de soja fermentada com sal, fungo koji e ingredientes opcionais.
--   <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt>汁<rt>しる</rt></ruby></code></font> Sopa miso
+-   <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt>汁<rt>しる</rt></ruby></code></font> Sopa de miso/Sopa de missô
     -   Caldo dashi com miso e ingredientes opcionais, como tofu.
 -   <font size="5"><code><ruby>豚<rt>とん</rt></ruby>カツ</code></font> Tonkatsu
     -   Costeletas de porco empanadas e fritas.
     -   <font size="5"><code>カツ<ruby>丼<rt>どん</rt></ruby></code></font> Katsudon
         -   Arroz servido com tonkatsu no topo. Geralmente acompanha ovos e cebolas.
-    -   <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt></ruby>カツ</code></font> Misokatsu
+    -   <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt></ruby>カツ</code></font> Misokatsu/Katsu de missô
         -   Variação com molho miso
 -   <font size="5"><code><ruby>串<rt>くし</rt></ruby>カツ</code></font> Kushikatsu
     -   Espetinhos de carne e vegetais fritos
 -   <font size="5"><code><ruby>豆<rt>とう</rt>腐<rt>ふ</rt></ruby></code></font> Tofu
     -   Blocos de leite de soja fermentado.
+    -   <font size="5"><code><ruby>絹<rt>きぬ</rt></ruby>ごし<ruby>豆<rt>どう</rt>腐<rt>ふ</rt></ruby></code></font> Tofu macio
+    -   <font size="5"><code><ruby>木綿<rt>もめん</rt>豆<rt>どう</rt>腐<rt>ふ</rt></ruby></code></font> Tofu firme
     -   <font size="5"><code><ruby>麻<rt>マー</rt>婆<rt>ボー</rt>豆<rt>どう</rt>腐<rt>ふ</rt></ruby></code></font> Mapo tofu
         -   Tofu picante em molho picante vermelho, carne e pasta de amêndoa e feijão preto fermentado.
 -   <font size="5"><code><ruby>餃子<rt>ギョーザ</rt></ruby></code></font> Guioza
@@ -260,6 +283,10 @@
     -   Ensopado de carne em pedaços finos cozida com vegetais. A carne e os vegetais são retirados, deixando o caldo. O prato então geralmente é consumido com molhos para mergulhar.
 -   <font size="5"><code><ruby>角<rt>かく</rt>煮<rt>に</rt></ruby></code></font> Kakuni
     -   Cubos de barriga de porco ou atum fervidos em dashi, shoyu, mirin, açúcar e saquê.
+-   <font size="5"><code>お<ruby>好<rt>この</rt></ruby>み<ruby>焼<rt>や</rt></ruby>き</code></font> Okonomiyaki
+    -   Panqueca salgada de farinha de trigo e outros ingredientes misturados ou usados como cobertura, feita em uma chapa.
+-   <font size="5"><code><ruby>梅<rt>うめ</rt>干<rt>ぼ</rt></ruby>し</code></font> Umeboshi
+    -   Ume (um tipo de damasco chinês) em conserva, bastante ácido e salgado. Comumente confundido com uma ameixa.
 
 ## <ruby>食<rt>しょく</rt>事<rt>じ</rt></ruby> - Refeições
 
@@ -277,9 +304,14 @@
     -   <font size="5"><code><ruby>食<rt>しょく</rt>事<rt>じ</rt></ruby></code></font> Honorífico
 -   <font size="5"><code><ruby>料<rt>りょう</rt>理<rt>り</rt></ruby></code></font> Prato
 -   `メイン` Prato principal
+-   <font size="5"><code><ruby>本<rt>ほん</rt>日<rt>じつ</rt></ruby>のおすすめ</code></font> Prato do dia
 -   <font size="5"><code><ruby>馳<rt>ち</rt>走<rt>そう</rt></ruby></code></font> Banquete
     -   <font size="5"><code>ご<ruby>馳<rt>ち</rt>走<rt>そう</rt></ruby></code></font> Teineigo
 -   <font size="5"><code><ruby>機<rt>き</rt>内<rt>ない</rt>食<rt>しょく</rt></ruby></code></font> Refeição a bordo do avião
+-   <font size="5">お<code><ruby>任<rt>まか</rt></ruby>せ</code></font> Omakase
+    -   Se refere a deixar o chef escolher os pratos.
+-   <font size="5"><code><ruby>定<rt>てい</rt>食<rt>しょく</rt></ruby></code></font> Prato feito
+    -   Geralmente um prato principal acompanhado de arroz, sopa de missô, picles e outros acompanhamentos.
 
 ## Tipos de comida
 
@@ -294,3 +326,6 @@
 ## Relacionado
 
 -   <font size="5"><code><ruby>賞<rt>しょう</rt>味<rt>み</rt>期<rt>き</rt>限<rt>げん</rt></ruby></code></font> Data de validade
+-   <font size="5"><code><ruby>食<rt>しょっ</rt>券<rt>けん</rt></ruby></code></font> Voucher de comida
+    -   Usado em alguns restaurantes ao invés de aceitar pedidos diretamente.
+-   <font size="5"><code>お<ruby>代<rt>か</rt></ruby>わり</code></font> Refil/Repetição/Outra porção

@@ -1,7 +1,10 @@
 # Conjugações
 
 > [!IMPORTANT]
-> No infinitivo (`Απαρέμφατο`) os verbos possuem dois tipos de conjugação. Na primeira estão os verbos terminados em `-ω`. Na segunda estão os terminados em `-ώ`. Uma grande parte dos verbos da segunda conjugação possuem uma contraparte mais coloquial e comum na conversação, terminada em `-άω`.
+> Não existe um infinitivo propriamente dito. A forma de dicionário é a primeira pessoa do presente do indicativo. Em construções onde outras línguas costumam usar o infinitivo, o grego costuma usar o subjuntivo.
+
+> [!IMPORTANT]
+> Na forma de dicionário os verbos possuem dois tipos de conjugação. Na primeira estão os verbos terminados em `-ω`. Na segunda estão os terminados em `-ώ`. Uma grande parte dos verbos da segunda conjugação possuem uma contraparte mais coloquial e comum na conversação, terminada em `-άω`.
 
 > [!IMPORTANT]
 > Alguns verbos também possuem formas chamadas "dependentes", isto é, formas que são não podem ser utilizadas sozinhas, e devem ser utilizadas quando há uma partícula os precedendo. Ex.: `τρώω` → `φάω`.
@@ -15,6 +18,9 @@
 > Todos as conjugações aqui estão considerando a voz ativa (`Ενεργητική φωνή`).
 
 ## Ενεστώτας - Presente
+
+> [!IMPORTANT]
+> Não existe presente contínuo explícito em grego. Ele está incluso no presente simples e geralmente é indicado pelo uso de advérbios.
 
 | Pessoa           | Verbos -ω | Verbos -άω      | Verbos -ώ |
 | ---------------- | --------- | --------------- | --------- |
@@ -82,6 +88,10 @@
     -   Para verbos -ω, NÃO se altera a terminação da raíz do verbo.
     -   Para verbos -άω e -ώ, adiciona-se `-ούσ-` ao invés de `-ησ-`.
 
+## Στιγμιαίος Μέλλοντας - Futuro simples
+
+## Μέλλοντας Διαρκείας - Futuro contínuo
+
 # Condicional
 
 ## Presente
@@ -94,6 +104,8 @@
 -   É formado pela partícula `να` + conjugação do verbo.
 -   Para falar da ação em si, usa-se `το να` + conjugação da terceira pessoa.
 -   Também é utilizado onde outras linguagens costumam utilizar o infinitivo, como em locuções verbais.
+    -   Locução verbal (`να`): `Θέλω να πάω` "Quero ir"
+    -   Gerúndio (`το να`): `Το να πάω μόνος` "Ir sozinho"
 
 # Προστακτική - Imperativo
 
@@ -118,7 +130,22 @@
 | Εσύ    | -ε         |
 | Εσείς  | -τε        |
 
-# Μετοχή - Particípio
+# Η Μετοχή - Particípio 🚺
+
+## Presente Ativo
+
+> [!IMPORTANT]
+> Não é utilizado para o presente contínuo
+
+-   Verbos -ω: `-οντας`.
+-   Verbos -άω/-ώ: `-ώντας`.
+-   Verbo `είμαι`: `όντας`.
+-   Verbo `έχω`: `έχοντας`.
+
+## Passivo
+
+-   Flexionado em gênero.
+-   Raíz passiva do aorista + `-μένος` (masculino)/`-μένη` (feminino)/`-μένο` (neutro).
 
 # Παθητική φωνή - Voz passiva
 
@@ -132,3 +159,5 @@
 | Αυτοί/Αυτές/Αυτά | -ονται          | -ιούνται          | -ούνται   | -ούνται / -όνται   |
 
 -   ◆: Se refere à uma conjugação que é encontrada somente em verbos depoentes. Isto é, esta conjugação é sempre encontrada em verbos depoentes, mas nem todos os verbos depoentes seguem esta conjugação.
+
+## Aorista

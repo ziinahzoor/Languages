@@ -1,5 +1,9 @@
 # <ruby>汉<rt>hàn</rt>字<rt>zì</rt></ruby></code></font> - Hanzi
 
+-   A escrita chinesa é dividida em dois tipos de caracteres: Tradicional e Simplificado.
+    -   Os caracteres simplificados, trivialmente, não são nada mais que restruturações dos caracteres tradicionais de forma menos complexa.
+    -   Caracteres simplificados são padrão na China continental, Malásia e Singapura, enquanto que os tradicionais são padrão em Hong Kong, Taiwan e Macau.
+
 ## <ruby>笔<rt>bǐ</rt>形<rt>xíng</rt></ruby> - Formas dos traços
 
 -   São divididos em até oito categorias:

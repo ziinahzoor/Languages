@@ -1,4 +1,4 @@
-# Substantivos
+# Τα Ουσιαστικά - Substantivos ✴️
 
 ## Natureza
 
@@ -74,6 +74,7 @@
 -   `Καλοριφέρ` Radiador ✴️
 -   `Πολυθρόνα` Poltrona 🚺
 -   `Πυξίδα` Bússola
+-   `Υπάρχοντα` Pertences
 
 ### Sala de estar
 
@@ -165,6 +166,13 @@
 -   `Απόσταση` Distância/Comprimento/Duração 🚺
 -   `Οδηγία` Instrução/Comando 🚺
 -   `Πλοήγηση` Navegação 🚺
+-   `Όνομα` Nome ✴️
+-   `Επώνυμο` Sobrenome ✴️
+-   `Φιλί` Beijo ✴️
+-   `Κουλτούρα` Cultura
+-   `Σχέση` Relacionamento 🚺
+-   `Τύπος` Tipo
+-   `Επείγον` Urgência ✴️
 
 ### Medidas
 
@@ -177,6 +185,18 @@
 -   `Τόνος` Tonelada 🚹
 -   `Λίτρο` Litro ✴️
 
+### Formas
+
+-   `Κύκλος` Círculo
+-   `Τετράγωνο` Quadrado ✴️
+
+### Linguística
+
+-   `Τελεία` Ponto 🚺
+-   `Κόμμα` Vírgula ✴️
+-   `Παύλα` Hífen/Travessão/Traço 🚺
+-   `Παρένθεση` Parêntese 🚺
+
 ## Atividades
 
 -   `Βίντεο` Vídeo ✴️
@@ -185,6 +205,7 @@
 -   `Εργασία` Trabalho (formal) 🚺
 -   `Επάγγελμα` Profissão ✴️
 -   `Καριέρα` Carreira
+-   `Συνέδριο` Congresso/Conferência ✴️
 
 ### Compras
 

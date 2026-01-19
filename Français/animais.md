@@ -5,6 +5,7 @@
 -   `Cheval` Cavalo
 -   `Chien` Cachorro
 -   `Chouette` Coruja
+-   `Hibou` Coruja (com orelha) 🚹
 -   `Cochon` Porco
 -   `Vache` Vaca
 -   `Perroquet` Papagaio
@@ -43,8 +44,18 @@
 -   `Escargot` Caracol
 -   `Dindon` Peru
 -   `Dinde` Perua
+-   `Baleine` Baleia
+
+## Outros seres-vivos
+
+-   `Virus` Vírus
+
+## Partes do corpo
+
+-   `Fourrure` Pelo/Pele 🚺
+-   `Aigrette` Penacho/Crista 🚺
+-   `Arête` Espinha de peixe
 
 ## Relacionado
 
 -   `Animal de compagnie` Animal de estimação
--   `Fourrure` Pelo/Pele 🚺

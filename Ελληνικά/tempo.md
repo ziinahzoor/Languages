@@ -22,6 +22,7 @@
 -   `Σαββατοκύριακο` Fim de semana ✴️
 -   `Μήνας` Mês
 -   `Χρόνος` Ano
+    -   `Έτος` Mais formal e específico, um ano civil ✴️
     -   `Πέρυσι` Ano passado
     -   `Φέτος` Este ano
     -   `Του χρόνου` Ano que vem

@@ -2,6 +2,9 @@
 
 **Vêm depois do verbo e antes do adjetivo ou advérbio que modificam. Se modificam a frase inteira, podem vir tanto no começo quanto no final.**
 
+> [!NOTE]
+> Adjetivos terminados em `-ant` e `-ent` podem ser transformados em advérbios pelas terminações `-amment` e `-emment`, respectivamente.
+
 -   `Bien` Bem
 -   `Mal`
 -   `Bien sûr` Claro/Sem dúvida
@@ -13,12 +16,14 @@
 -   `Trop` Muito/Demais/Excessivamente
     -   Costuma indicar excessos. Para enfatizar o excesso pode-se ainda usar `beaucoup trop`.
 -   `Oui` Sim
+    -   `Ouais` Informal
     -   `Si` Para frases negativas.
 -   `Non` Não (Interjeição)
 -   `Pas` Não
 -   `Aussi` Também (geralmente vem depois do verbo)
-    -   `Aussi... que...` Tão... quanto...
+    -   `Aussi... que` Tão... quanto
 -   `Plus` Mais
+    -   O "s" é pronunciado para diferenciar da negação `non... plus`.
 -   `Moins` Menos
 -   `Même` Mesmo
 -   `Toujours` Sempre/Ainda (de continuar sendo/acontecendo)
@@ -27,7 +32,8 @@
 -   `Encore` Novamente/Ainda (até mesmo)
 -   `Souvent` Frequentemente
 -   `Chaque` Cada/Todo
--   `Parfois` Às vezes
+-   `Quelquefos` Às vezes (menos frequente)
+-   `Parfois` Às vezes (mais frequente)
 -   `Alors` Então
 -   `Mieux` Melhor
 -   `Prochain` Próximo
@@ -48,14 +54,24 @@
 -   `Comment` Como (Interrogativo)
 -   `Comme` Como (Comparativo)
 -   `Pourtant` Porém/Entretanto/Mesmo assim
+-   `Toutefois` Porém/Apesar disso
 -   `Autant` Tanto
+-   `Pour autant` Mesmo assim
 -   `Juste` Só/Somente
 -   `Enfin` Enfim/Finalmente
 -   `Surtout` Principalmente/Sobretudo
 -   `Par hasard` Por acaso
+-   `Exprès` De propósito/Propositalmente/Intencionalmente
+-   `D'autre` Outro/Mais (Else)
+-   `Plutôt` Ao invés/Ou melhor
+    -   Também pode ser usado para indicar intensidade como "bastante".
+-   `Ainsi` Dessa forma/Por isso
+-   `Par ailleurs` Além disso/Além do mais
+-   `Du coup` Por isso
 
 ## Locutions adverbiales - Locuções adverbiais
 
+-   `Qu'en est-il a` E quanto a
 -   `Quand même` Mesmo assim
 -   `Même pas` Nem mesmo
 -   `Plein de` Cheio/Repleto
@@ -69,7 +85,6 @@
 -   `Plus maintenant` Não mais
 -   `D'abord` Primeiramente
 -   `D'habitude` Normalmente/Geralmente
--   `Généralement` Geralmente
 -   `Du tout` De forma alguma
 -   `De toute façon` De qualquer forma/De qualquer maneira
 -   `Tout à l'heure` Daqui a pouco
@@ -79,20 +94,27 @@
 -   `À mon avis` Na minha opinião
 -   `À l'envers` Ao contrário
 -   `À voix basse` Em voz baixa
+-   `À bon escient` Com sabedoria/De forma sensata/De forma adequada
 -   `Au coin de` Na esquina de
 -   `En fait` Na verdade
+-   `En effet` Na verdade/De fato
 -   `En plus` Além disso/Além do mais
 -   `En tout` Ao todo/No total
--   `En avance` Antecipadamente
+-   `En avance` Antecipadamente/Adiantado
 -   `En même temps` Ao mesmo tempo
 -   `En retard` Atrasado
 -   `En solde` De promoção
 -   `En promotion` De promoção
 -   `En direct` Ao vivo
 -   `En ce moment` Neste momento
+-   `En plein air` Ao ar livre
 -   `Sur Internet` Online
 -   `Comme d'habitude` Como sempre
+-   `Comme prévu` Conforme esperado
 -   `Nulle part` Em nenhum lugar
+-   `D'un coup` De uma vez
+-   `De près` De perto
+-   `De loin` De longe
 
 ## De manière - De modo
 
@@ -113,7 +135,7 @@
 -   `Correctement` Corretamente
 -   `Heureusement` Felizmente
 -   `Malheureusement` Infelizmente
--   `Finalement` No fim das contas
+-   `Finalement` Finalmente/Por fim/No fim das contas
 -   `Gravement` Gravemente
 -   `Exactement` Exatamente
 -   `Clairement` Claramente
@@ -126,8 +148,12 @@
 -   `Actuellement` Atualmente
 -   `Parfaitement` Perfeitamente
 -   `Dernièrement` Ultimamente
--   `Finalement` Finalmente/Por fim
 -   `Évidemment` Evidentemente/Obviamente
+-   `Cordialement` Cordialmente
+-   `Conformément` De acordo/Conformemente
+-   `Attentivement` Atentamente
+-   `Généralement` Geralmente
+-   `Poliment` Educadamente
 
 ## Os Porquês
 

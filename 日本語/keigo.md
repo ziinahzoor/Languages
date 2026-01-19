@@ -14,13 +14,23 @@
         -   A linguagem distal formal é marcada pelo usado de `であります` como cópula.
     -   <font size="5"><code><ruby>敬<rt>けい</rt>語<rt>ご</rt></ruby>・<ruby>最<rt>さい</rt>敬<rt>けい</rt>体<rt>たい</rt></ruby></code></font> (Linguagem honorífica ou formal): mais usada na escrita e em discursos.
 
+> [!NOTE]
+> Com isso, é importante ressaltar que existem diferentes camadas de como conversar:
+>
+> -   Formalidade e educação: a primeira é mais utilizada na escrita ou meios oficiais de comunicação, enquanto a segunda se refere a como tratar diferentes pessoas na conversação;
+> -   Dentro da educação, diferenciamos entre o discurso casual e o discurso respeitoso: o primeiro se refere a como conversamos com amigos, família ou qualquer um que dê abertura para um tratamento mais íntimo, enquanto o segundo se refere a como tratamos as pessoas que não fazem parte desse círculo;
+> -   Dentro do discurso respeitoso, ainda diferenciamos conforme o ambiente e a relação que temos com a pessoa. Podemos utilizar discursos totalmente diferentes de acordo com a pessoa ser um estranho na rua, um colega de trabalho, um chefe ou um cliente. Aqui, ainda consideramos onde devemos exaltar a pessoa e nos rebaixar, com o sonkeigo e kenjougo.
+
 ## <ruby>敬<rt>けい</rt>称<rt>しょう</rt></ruby> - Títulos Honoríficos
 
 -   `お〜・ご〜` Uso geral, alguns objetos, família
     -   Geralmente usado para coisas, lugares e pessoas que são úteis para ou ajudam a pessoa referida. Também é usado para demonstrar respeito por quem possui o objeto.
 -   `ーさん` Uso geral, amigos, iguais, estranhos, conhecidos
+    -   No meio empresarial, também pode ser usado com empresas (exceto a que o falante trabalha).
 -   <font size="5"><code>〜<ruby>様<rt>さま</rt></ruby></code></font> Pessoas mais velhas, pessoas de grande respeito, superiores, clientes, multidões, deidades
+    -   No meio empresarial, também pode ser usado com empresas (exceto a que o falante trabalha).
 -   <font size="5"><code>〜<ruby>君<rt>くん</rt></ruby></code></font> Amigos, meninos, colegas de trabalho menos experientes
+    -   Instituições estão tentando cada vez mais substituir por `ーさん` para ser mais neutros em relação ao gênero.
 -   `〜ちゃん` Crianças, amigas, avó, namorada, namorado
 -   <font size="5"><code>〜<ruby>殿<rt>どの</rt></ruby></code></font> Se assemelha a mestre/lorde (Teineigo) [Se usava mais antigamente]
 -   <font size="5"><code><ruby>先<rt>せん</rt>輩<rt>ぱい</rt></ruby></code></font> Superiores/Seniores (trabalho/escola ou qualquer grupo)
@@ -29,8 +39,8 @@
 
 ## <ruby>丁<rt>てい</rt>寧<rt>ねい</rt>語<rt>ご</rt></ruby> - Discurso educado
 
--   A mais comum
--   Geralmente usada com os verbos na forma `〜ます` e também o finalizador `〜です`.
+-   O mais comum
+-   Geralmente usado com os verbos na forma `〜ます` e também o finalizador `〜です`.
 -   Pode se referir às próprias ações ou de outras pessoas.
 
 ### <ruby>美<rt>び</rt>化<rt>か</rt>語<rt>ご</rt></ruby> - Discurso elegante
@@ -44,13 +54,16 @@
 -   Tem o objetivo de exaltar a pessoa com quem se fala. Geralmente pessoas mais velhas, professores, superiores e clientes.
 -   Não se usa para falar de si.
 -   Geralmente usa os verbos na forma-い com os prefixos `お` (訓読み) e `ご` (音読み) e conjugação `〜になる` ou a forma passiva.
+-   Alternativamente, pode-se usar verbo `なさる`.
 
 ## <ruby>謙<rt>けん</rt>譲<rt>じょう</rt>語<rt>ご</rt></ruby> - Discurso humilde
 
 -   Tem o objetivo de se rebaixar. Usada para falar de si ou de um grupo a qual pertence de maneira humilde.
     -   Fala-se de suas ações, e não especificamente de si.
 -   Geralmente usa os verbos com os prefixos `お` (訓読み) e `ご` (音読み) e conjugação `〜する`.
+    – Verbos-する, salvo exceções, usam o prefixo `ご`.
 -   Não se usam os títulos honoríficos para falar de alguém do seu `内`.
+-   Alternativamente, pode-se usar verbo `いたす`.
 
 ### <ruby>丁<rt>てい</rt>重<rt>ちょう</rt>語<rt>ご</rt></ruby> - Discurso cortês
 
@@ -65,7 +78,7 @@
 -   Abreviar a forma `ている` para `てる`.
 -   Usar `って` ao invés de `は`.
 
-## Formas verbais irregulares
+## Equivalentes verbais honoríficos
 
 <table>
     <thead>
@@ -85,7 +98,7 @@
     <tr>
         <th>いる</th>
         <td>います</td>
-        <td>いらっしゃる </td>
+        <td>いらっしゃる</td>
         <td>おる</td>
     </tr>
     <tr>
@@ -121,7 +134,7 @@
     <tr>
         <th><ruby>行<rt>い</rt></ruby>く</th>
         <td><ruby>行<rt>い</rt></ruby>きます</td>
-        <td rowspan="2">おいでになる</td>
+        <td rowspan="2">お<ruby>出<rt>い</rt></ruby>でになる・お<ruby>越<rt>こ</rt></ruby>しになる</td>
         <td rowspan="2"><ruby>伺<rt>うかが</rt></ruby>う (Para lugares de respeito)・<ruby>参<rt>まい</rt></ruby>る</td>
     </tr>
     <tr>
@@ -187,3 +200,6 @@
         <td>お<ruby>亡<rt>な</rt></ruby>くなりになる</td>
     </tr>
 </table>
+
+> [!NOTE]
+> Os verbos `いらっしゃる` e <font size="5"><code>お<ruby>出<rt>い</rt></ruby>でになる</code></font> são intercambiáveis em todos os seus sentidos.

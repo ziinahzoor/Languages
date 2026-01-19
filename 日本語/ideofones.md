@@ -5,6 +5,7 @@
 -   `ヒソヒソ` De forma sussurante (Advérbio)
 -   `ガミガミ` De forma resmungante (Advérbio)
 -   `きんきん` De forma estridente (Advérbio e verbo-する)
+-   `ワイワイ` De forma barulhenta (Advérbio)
 
 ## <ruby>擬<rt>ぎ</rt>音<rt>おん</rt>語<rt>ご</rt></ruby> Sons da natureza ou objetos inanimados
 
@@ -31,6 +32,8 @@
 -   `ニコニコ` Sorrindo/Sorridente
 -   `ペラペラ` Fluentemente
 -   `バッチリ` Perfeitamente
+-   `ペコペコ` Com fome
+-   `カラカラ` Seco/Vazio
 
 ### <ruby>擬<rt>ぎ</rt>容<rt>よう</rt>語<rt>ご</rt></ruby> Movimentos e gestos
 

@@ -8,6 +8,9 @@
 > [!IMPORTANT]
 > Para saber como funciona a produção dos sons, ver [Fonética e Fonologia](fonética.md).
 
+> [!TIP]
+> A pronúncia dos sons e disposição do trato vogal para cada som podem ser encontradas no canal [@GlossikaPhonics](https://www.youtube.com/@GlossikaPhonics).
+
 <!--
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/IPA_chart_2020.svg" alt="IPA" style="width:40rem; background-color: #E8F9FD; border-radius: 10px; border: 5px #black solid;
 "/> -->
@@ -63,6 +66,7 @@
 
 ### U
 
+-   [`[ɤ]`](https://upload.wikimedia.org/wikipedia/commons/2/26/Close-mid_back_unrounded_vowel.ogg 'Vogal posterior semifechada não-arredondada') Um "ugh" de nojo, entre um "â" e um "ô". Ex.: (Mandarim): "餓(<span style="color:#ea00d9">è</span>)".
 -   [`[u]`](https://upload.wikimedia.org/wikipedia/commons/5/5d/Close_back_rounded_vowel.ogg 'Vogal posterior fechada arredondada') Um "u" comum. Ex.: "t<span style="color:#ea00d9">u</span>", "b<span style="color:#ea00d9">u</span>raco".
     -   `[u:]` Um "u" longo, não existe no português. Ex.: "f<span style="color:#ea00d9">oo</span>d", "m<span style="color:#ea00d9">oo</span>n".
 -   [`ʊ`](https://upload.wikimedia.org/wikipedia/commons/d/d5/Near-close_near-back_rounded_vowel.ogg 'Vogal quase posterior quase fechada arredondada') Um "u" mais fraco. Ex.: "pul<span style="color:#ea00d9">o</span>".

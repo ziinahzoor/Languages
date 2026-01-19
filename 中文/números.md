@@ -1,5 +1,6 @@
-# Números
+# <ruby>数<rt>shù</rt>字<rt>zì</rt></ruby> - Números
 
+-   <font size="6"><code><ruby>零<rt>líng</rt></ruby></code></font> Zero
 -   <font size="6"><code><ruby>一<rt>yī</rt></ruby></code></font> Um
 -   <font size="6"><code><ruby>二<rt>èr</rt></ruby></code></font> Dois
     -   <font size="6"><code><ruby>两<rt>liǎng</rt></ruby></code></font> Usado com contadores
@@ -17,12 +18,23 @@
 -   <font size="6"><code><ruby>十<rt>shí</rt></ruby></code></font> Dez
 -   <font size="6"><code><ruby>百<rt>bǎi</rt></ruby></code></font> Cem
 
-## Classificadores/Contadores
+## <ruby>量<rt>liàng</rt>词<rt>cí</rt></ruby> - Classificadores/Contadores
 
 -   <font size="6"><code><ruby>个<rt>gè</rt></ruby></code></font> Pessoas e objetos em geral
 -   <font size="6"><code><ruby>杯<rt>bēi</rt></ruby></code></font> Copos
 -   <font size="6"><code><ruby>瓶<rt>píng</rt></ruby></code></font> Garrafas
--   <font size="6"><code><ruby>块<rt>kuài</rt></ruby></code></font> Dinheiro/Iuans
+-   <font size="6"><code><ruby>块<rt>kuài</rt></ruby></code></font> Dinheiro/Iuans (coloquial)
+-   <font size="6"><code><ruby>点<rt>diǎn</rt></ruby></code></font> Horário
+-   <font size="6"><code><ruby>分<rt>fēn</rt></ruby></code></font> Minutos
+    -   Pode ser omitido ao dizer as horas.
+-   <font size="6"><code><ruby>分<rt>fēn</rt>钟<rt>zhōng</rt></ruby></code></font> Minutos (duração)
+-   <font size="6"><code><ruby>天<rt>tiān</rt></ruby></code></font> Dias (cardinal)
 -   <font size="6"><code><ruby>号<rt>hào</rt></ruby></code></font> Dia (ordinal)
--   <font size="6"><code><ruby>月<rt>yuè</rt></ruby></code></font> Mês
+-   <font size="6"><code><ruby>个<rt>gè</rt>星<rt>xīng</rt>期<rt>qī</rt></ruby></code></font> Semanas
+-   <font size="6"><code><ruby>个<rt>gè</rt>月<rt>yuè</rt></ruby></code></font> Mêses
+-   <font size="6"><code><ruby>年<rt>nián</rt></ruby></code></font> Anos
+    -   Anos específicos (ou seja, que não são durações) são escritos em numerais romanos.
 -   <font size="5"><code><ruby>岁<rt>suì</rt></ruby></code></font> Idade
+    -   Geralmente acompanhado por <font size="6"><code><ruby>了<rt>le</rt></ruby></code></font>, indicando que a idade foi completada.
+-   <font size="6"><code><ruby>口<rt>kǒu</rt>人<rt>rén</rt></ruby></code></font> Membros da família
+-   <font size="6"><code><ruby>本<rt>běn</rt></ruby></code></font> Livros

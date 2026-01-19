@@ -77,6 +77,10 @@
 > [!NOTE]
 > Nas abreviações, usa-se um ponto entre o numeral e o sobrescrito. Ex.: `10.ᵃ`
 
+## Fracionais
+
+-   `Tercio` Terço
+
 ## Adjetivos
 
 -   `Doble` Duplo

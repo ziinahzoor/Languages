@@ -24,3 +24,5 @@
 -   `Ich heiße...` Eu me chamo...
 -   `Freut mich` Prazer em conhecer
     -   `Freut mich auch` Também é um prazer
+-   `Ich freue mich` Espero muito por isso
+-   `Schade` Que pena

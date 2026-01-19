@@ -10,6 +10,7 @@
 
 **Para indicar uma loja que vende alguma coisa, é só adicionar o sufixo <font size="5"><code><ruby>屋<rt>や</rt></ruby></code></font>. Ex.: <font size="5"><code>ぴざ<ruby>屋<rt>や</rt></ruby></code></font> "pizzaria". Para outras instituições públicas ou formais se usa <font size="5"><code><ruby>館<rt>かん</rt></ruby></code></font>.**
 
+-   <font size="5"><code><ruby>置<rt>お</rt><ruby>き</ruby>場<rt>ば</rt></ruby></code></font> Lugar para colocar algo
 -   <font size="5"><code><ruby>会<rt>かい</rt>場<rt>じょう</rt></ruby></code></font> Local
 -   <font size="5"><code><ruby>辺<rt>へん</rt></ruby></code></font> Área/Região
 -   <font size="5"><code><ruby>近<rt>きん</rt>所<rt>じょ</rt></ruby></code></font> Vizinhança
@@ -29,6 +30,7 @@
 -   `ぶんぼうぐ` Papelaria
 -   `コンビニ` Loja de conveniência
 -   `デパート` Loja de departamento
+    -   <font size="5"><code>デパ<ruby>地<rt>ち</rt>下<rt>か</rt></ruby></code></font> Praça de alimentação encontrada no subsolo de algumas lojas de departamento
 -   <font size="5"><code><ruby>停<rt>てい</rt>留<rt>りゅう</rt>所<rt>じょ</rt></ruby></code></font> Ponto/Parada/Estação
     -   <font size="5"><code>バス<ruby>停<rt>てい</rt></ruby></code></font> Ponto de ônibus
 -   <font size="5"><code><ruby>終<rt>しゅう</rt>点<rt>てん</rt></ruby></code></font> Última parada
@@ -61,7 +63,7 @@
 -   `エレベーター` Elevator
 -   `エスカレーター` Escada rolante
 -   `カフェ` Café
--   `げんかん` Entrada principal/Entrada de casa
+-   <font size="5"><code><ruby>玄<rt>げん</rt>関<rt>かん</rt></ruby></code></font> Entrada principal/Entrada de casa
 -   <font size="5"><code><ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby></code></font> Entrada
 -   <font size="5"><code><ruby>出<rt>で</rt>口<rt>ぐち</rt></ruby></code></font> Saída
     -   <font size="5"><code><ruby>北<rt>きた</rt>口<rt>ぐち</rt></ruby></code></font> Saída norte
@@ -87,6 +89,8 @@
 -   <font size="5"><code><ruby>広<rt>ひろ</rt>場<rt>ば</rt></ruby></code></font> Praça
 -   <font size="5"><code><ruby>温<rt>おん</rt>泉<rt>せん</rt></ruby></code></font> Fontes termais
 -   <font size="5"><code><ruby>温<rt>おん</rt>泉<rt>せん</rt>宿<rt>やど</rt></ruby></code></font> Hotel termal
+-   <font size="5"><code><ruby>旅<rt>りょ</rt>館<rt>かん</rt></ruby></code></font> Pousada/Hospedaria japonesa
+-   <font size="5"><code><ruby>大<rt>だい</rt>浴<rt>よく</rt>場<rt>じょう</rt></ruby></code></font> Área de banho comunitária
 -   <font size="5"><code><ruby>会<rt>かい</rt>社<rt>しゃ</rt></ruby></code></font> Empresa
 -   `トンネル` Túnel
 -   <font size="5"><code><ruby>博<rt>はく</rt>物<rt>ぶつ</rt>館<rt>かん</rt></ruby></code></font> Museu
@@ -106,8 +110,6 @@
 -   <font size="5"><code><ruby>片<rt>かた</rt>隅<rt>すみ</rt></ruby></code></font> Canto (lugar longe do centro)
 -   <font size="5"><code><ruby>隅<rt>すみ</rt></ruby></code></font> Canto (interno)
 -   <font size="5"><code><ruby>角<rt>かど</rt></ruby></code></font> Esquina/Canto (externo)
--   <font size="5"><code><ruby>中<rt>なか</rt></ruby></code></font> Interior
--   <font size="5"><code><ruby>外<rt>そと</rt></ruby></code></font> Exterior/Ar livre
 -   `ちゅうかがい` Chinatown
 -   `スパ` Spa
 -   `おまつり` Festival
@@ -130,8 +132,8 @@
 -   `リゾート` Resort
 -   <font size="5"><code><ruby>橋<rt>はし</rt></ruby></code></font> Ponte
 -   `ギフトショップ` Loja de presentes
--   `オフィス` Escritório
--   <font size="5"><code><ruby>旅<rt>りょ</rt>館<rt>かん</rt></ruby></code></font> Estalagem japonesa
+-   <font size="5"><code><ruby>事<rt>じ</rt>務<rt>む</rt>所<rt>しょ</rt></ruby></code></font> Escritório
+    -   `オフィス` Alternativo
 -   `クリニック` Clínica
 -   <font size="5"><code><ruby>薬<rt>やっ</rt>局<rt>きょく</rt></ruby></code></font> Farmácia
     -   <font size="5"><code><ruby>薬<rt>くすり</rt>屋<rt>や</rt></ruby></code></font> Alternativa
@@ -155,6 +157,11 @@
 -   <font size="5"><code><ruby>土<rt>と</rt>地<rt>ち</rt></ruby></code></font> Lote/Terreno
 -   <font size="5"><code><ruby>八<rt>や</rt>百<rt>お</rt>屋<rt>や</rt></ruby></code></font> Verdureiro
 -   `えんげき` Teatro
+-   <font size="5"><code><ruby>駐<rt>ちゅう</rt>車<rt>しゃ</rt>場<rt>じょう</rt></ruby></code></font> Estacionamento
+-   <font size="5"><code><ruby>自<rt>じ</rt>転<rt>てん</rt>車<rt>しゃ</rt>置<rt>お</rt></ruby>き<ruby>場<rt>ば</rt></ruby></code></font> Estacionamento de bicicletas
+-   <font size="5"><code><ruby>不<rt>ふ</rt>動<rt>どう</rt>産<rt>さん</rt></ruby></code></font> Imobiliária
+-   <font size="5"><code><ruby>立<rt>た</rt></ruby>ち<ruby>食<rt>ぐ</rt></ruby>いそば</code></font> Restaurante de soba em pé
+-   <font size="5"><code><ruby>食<rt>しょく</rt>堂<rt>どう</rt></ruby></code></font> Lanchonete
 
 ## <ruby>親<rt>しん</rt>戚<rt>せき</rt>所<rt>ところ</rt></ruby> - Lugares Relativos
 
@@ -172,11 +179,15 @@
 -   <font size="5"><code><ruby>後<rt>うし</rt>ろ</ruby></code></font> Atrás/Detrás
 -   <font size="5"><code><ruby>前<rt>ぜん</rt>後<rt>ご</rt></ruby></code></font> Frente e trás
 -   <font size="5"><code><ruby>奥<rt>おく</rt></ruby></code></font> Fundos/Interior
+-   <font size="5"><code><ruby>中<rt>なか</rt></ruby></code></font> Interior/Dentro
 -   `まんなか` Meio
--   <font size="5"><code><ruby>向<rt>む</rt></ruby>こう</code></font> Do outro lado
+-   <font size="5"><code><ruby>内<rt>うち</rt>側<rt>がわ</rt></ruby></code></font> Lado interno
+-   <font size="5"><code><ruby>外<rt>そと</rt></ruby></code></font> Exterior/Ar livre
+-   <font size="5"><code><ruby>向<rt>む</rt></ruby>こう</code></font> Do outro lado/Lado oposto
 -   <font size="5"><code><ruby>間<rt>あいだ</rt></ruby></code></font> Espaço entre/Abertura/Brecha/Meio de
 -   <font size="5"><code><ruby>出<rt>しゅっ</rt>身<rt>しん</rt></ruby></code></font> Origem (de alguém)
 -   <font size="5"><code><ruby>途<rt>と</rt>中<rt>ちゅう</rt></ruby></code></font> No caminho/No meio do caminho/No meio de
+-   <font size="5"><code><ruby>食<rt>しょく</rt>堂<rt>どう</rt></ruby></code></font> Sala de jantar/Cafeteria
 
 ### <ruby>方<rt>ほう</rt>向<rt>こう</rt></ruby> - Direções
 
@@ -209,6 +220,8 @@
     </tr>
 </table>
 
+-   Também é possível usar <font size="5"><code><ruby>手<rt>て</rt></ruby></code></font> ao invés de <font size="5"><code><ruby>側<rt>がわ</rt></ruby></code></font> para indicar o lado, porém possui uma nuance mais relativa à visão da pessoa.
+
 #### Pontos Cardeais
 
 <table style="text-align: center;">
@@ -240,13 +253,14 @@
 -   <font size="5"><code>お<ruby>宅<rt>たく</rt></ruby></code></font> (Sua) Casa (Sonkeigo)
 -   <font size="5"><code><ruby>家<rt>か</rt>庭<rt>てい</rt></ruby></code></font> Lar
 -   <font size="5"><code>ご<ruby>在<rt>ざい</rt>宅<rt>たく</rt></ruby></code></font> Em casa/Estar em casa
--   `アパート` Apartamento
 -   <font size="5"><code><ruby>玄<rt>げん</rt>関<rt>かん</rt></ruby></code></font> Entrada/Porta da frente
 -   <font size="5"><code><ruby>部<rt>へ</rt>屋<rt>や</rt></ruby></code></font> Quarto/Cômodo
 -   <font size="5"><code><ruby>寝<rt>しん</rt>室<rt>しつ</rt></ruby></code></font> Quarto
 -   `きゃくしつ` Quarto de visitas
 -   <font size="5"><code>お<ruby>手<rt>て</rt>洗<rt>あら</rt><rt></rt></ruby>い</code></font> Banheiro
     -   `トイレ` Casual
+-   <font size="5"><code><ruby>浴<rt>よく</rt>室<rt>しつ</rt></ruby></code></font> Sala de banho
+    -   <font size="5"><code><ruby>風<rt>ふ</rt>呂<rt>ろ</rt>場<rt>ば</rt></ruby></code></font> Casual
 -   <font size="5"><code><ruby>台<rt>だい</rt>所<rt>どころ</rt></ruby></code></font> Cozinha
     -   `キッチン` Geralmente usado com cozinhas industriais
 -   `リビング` Sala de estar
@@ -255,6 +269,25 @@
 -   <font size="5"><code><ruby>庭<rt>にわ</rt></ruby></code></font> Quintal/Jardim
 -   <font size="5"><code><ruby>食<rt>しょく</rt>堂<rt>どう</rt></ruby></code></font> Sala de jantar/Cafeteria
 -   <font size="5"><code><ruby>廊<rt>ろう</rt>下<rt>か</rt></ruby></code></font> Corredor
+
+### Tipos de casa
+
+> [!TIP]
+> Casas costumam ser medidas em <font size="5"><code><ruby>畳<rt>じょう</rt></ruby></code></font> (quantidades de tapetes de tatami) ao invés de metros quadrados.
+> O tamanho de um `畳` pode variar, sendo os tamanhos mais comuns 1,54m² na região de Kantou e 1,82m² na região de Kansai. Ex.: `2畳` = 3,08m² em Kantou.
+
+-   <font size="5"><code><ruby>一<rt>いっ</rt>戸<rt>こ</rt>建<rt>だ</rt></ruby>て</code></font> Casa unifamiliar
+-   <font size="5"><code><ruby>一<rt>いっ</rt>軒<rt>けん</rt>家<rt>や</rt></ruby></code></font> Casa unifamiliar isolada
+-   `アパート` Apartamento
+-   `マンション` Condomínio de apartamentos
+-   `LDK` Casa com sala de estar, sala de jantar e cozinha
+    -   `XLDK` LDK com X quartos. Ex.: `2LDK` é um LDK com 2 quartos.
+-   `ワンルーム` Quitinete/Estúdio
+
+## Lugares espirituiais ou fictícios
+
+-   <font size="5"><code><ruby>三<rt>さん</rt>途<rt>ず</rt></ruby>の<ruby>川<rt>かわ</rt></ruby></code></font> Rio Sanzu/Rio dos Três Cruzamentos
+    -   Rio que, na tradição budista, separa o mundo dos vivos do mundo dos mortos.
 
 ## <ruby>国<rt>くに</rt></ruby> - Países
 
@@ -288,7 +321,9 @@
 
 -   <font size="5"><code><ruby>日<rt>に</rt>本<rt>ほん</rt></ruby></code></font> Japão
 -   <font size="5"><code><ruby>中<rt>ちゅう</rt>国<rt>ごく</rt></ruby></code></font> China
--   <font size="5"><code><ruby>韓<rt>かん</rt>国<rt>こく</rt></ruby></code></font> Coréia do Sul
+    -   <font size="5"><code><ruby>漢<rt>かん</rt></ruby></code></font> Termos compostos
+-   <font size="5"><code><ruby>北<rt>きた</rt>朝<rt>ちょう</rt>鮮<rt>せん</rt></ruby></code></font> Coreia do Norte
+-   <font size="5"><code><ruby>韓<rt>かん</rt>国<rt>こく</rt></ruby></code></font> Coreia do Sul
 -   `ベトナム` Vietnã
 -   <font size="5"><code><ruby>台<rt>たい</rt>湾<rt>わん</rt></ruby></code></font> Taiwan
 -   `マレーシア` Malásia
@@ -385,6 +420,7 @@
     -   <font size="5"><code><ruby>新<rt>しん</rt>橋<rt>ばし</rt></ruby></code></font> Shinbashi
     -   <font size="5"><code><ruby>青<rt>あお</rt>山<rt>やま</rt></ruby></code></font> Aoyama
     -   <font size="5"><code><ruby>六<rt>ろっ</rt>本<rt>ぽん</rt>木<rt>ぎ</rt></ruby></code></font> Roppongi
+    -   <font size="5"><code><ruby>増<rt>ぞう</rt>上<rt>じょう</rt>寺<rt>じ</rt></ruby></code></font> Zojoji
 -   <font size="5"><code><ruby>渋<rt>しぶ</rt>谷<rt>や</rt></ruby></code></font> Shibuya
     -   <font size="5"><code><ruby>原<rt>はら</rt>宿<rt>じゅく</rt></ruby></code></font> Harajuku
     -   <font size="5"><code><ruby>表<rt>おもて</rt>参<rt>さん</rt>道<rt>どう</rt></ruby></code></font> Omotesando
@@ -411,6 +447,7 @@
 ### <ruby>府<rt>ふ</rt></ruby> - Prefeituras Urbanas
 
 -   <font size="5"><code><ruby>京<rt>きょう</rt>都<rt>と</rt></ruby></code></font> Quioto
+    -   <font size="5"><code><ruby>天<rt>あまの</rt>橋<rt>はし</rt>立<rt>だて</rt></ruby></code></font> Ponte do Céu
 -   <font size="5"><code><ruby>大<rt>おお</rt>阪<rt>さか</rt></ruby></code></font> Osaka
     -   <font size="5"><code><ruby>中<rt>ちゅう</rt>央<rt>おう</rt></ruby></code></font> Chuo
         -   <font size="5"><code><ruby>道<rt>どう</rt>頓<rt>とん</rt>堀<rt>ぼり</rt></ruby></code></font> Dotonbori
@@ -426,12 +463,15 @@
 -   <font size="5"><code><ruby>福<rt>ふく</rt>岡<rt>おか</rt></ruby></code></font> Fukuoka
 -   <font size="5"><code><ruby>福<rt>ふく</rt>島<rt>しま</rt></ruby></code></font> Fukushima
 -   <font size="5"><code><ruby>広<rt>ひろ</rt>島<rt>しま</rt></ruby></code></font> Hiroshima
+    -   <font size="5"><code><ruby>厳<rt>いつく</rt>島<rt>しま</rt></ruby>・<ruby>宮<rt>みや</rt>島<rt>じま</rt></ruby></code></font> Ilha Santuário
 -   <font size="5"><code><ruby>長<rt>なが</rt>崎<rt>さき</rt></ruby></code></font> Nagasaki
 -   <font size="5"><code><ruby>奈<rt>な</rt>良<rt>ら</rt></ruby></code></font> Nara
 -   <font size="5"><code><ruby>埼<rt>さい</rt>玉<rt>たま</rt></ruby></code></font> Saitama
 -   <font size="5"><code><ruby>沖<rt>おき</rt>縄<rt>なわ</rt></ruby></code></font> Okinawa
 -   <font size="5"><code><ruby>静<rt>しず</rt>岡<rt>おか</rt></ruby>と<ruby>山<rt>やま</rt>梨<rt>なし</rt></ruby></code></font> Shizuoka e Yamanashi
     -   <font size="5"><code><ruby>富<rt>ふ</rt>士<rt>じ</rt>山<rt>さん</rt></ruby></code></font> Monte Fuji
+-   <font size="5"><code><ruby>宮城<rt>みやぎ</rt></ruby></code></font> Miyagi
+    -   <font size="5"><code><ruby>松<rt>まつ</rt>島<rt>しま</rt></ruby></code></font> Ilhas dos Pinheiros
 
 ### <ruby>日<rt>に</rt>本<rt>ほん</rt>地<rt>ち</rt>図<rt>ず</rt></ruby> - Mapa do Japão
 

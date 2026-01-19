@@ -17,6 +17,7 @@
 -   `Ça va (bien)` Estou bem
 -   `Allô` Alô
     -   Também pode ser usado para cumprimentar em Quebec.
+-   `Quoi de neuf` E aí
 
 ### Ao partir
 
@@ -31,7 +32,9 @@
 -   `Je m'appelle...` Eu me chamo...
 -   `Moi c'est...` Eu sou...
 -   `Enchanté` Prazer em conhecer
+    -   `Ravi de vous rencontrer` Formal
 -   `Quel âge avez-vous?` Quantos anos você tem?
+-   `De la part de qui?` Quem fala? (ao telefone)
 
 ## Solicitações
 
@@ -57,3 +60,7 @@
 -   `Pas de problème` Sem problema
 
 ## Concordância
+
+## Dúvidas
+
+-   `On est le combien?` Que dia é hoje?

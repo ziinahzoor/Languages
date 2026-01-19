@@ -8,18 +8,23 @@
 
 -   <font size="5"><code><ruby>私<rt>わたし</rt></ruby></code></font> Eu
     -   É neutro em contextos formais e feminino em casuais.
+    -   <font size="5"><code><ruby>私<rt>わたくし</rt></ruby></code></font> kenjougo, humilde e usado em situações mais formais
     -   <font size="5"><code><ruby>僕<rt>ぼく</rt></ruby></code></font> é mais masculino em contextos casuais.
     -   <font size="5"><code><ruby>俺<rt>おれ</rt></ruby></code></font> é ainda mais masculino e até mesmo vulgar.
         -   Usado em contextos onde busca-se demonstrar masculinidade, como bares e encontros românticos.
     -   `うち` é bastante comum entre mulheres.
+    -   <font size="5"><code><ruby>私<rt>あたし</rt></ruby></code></font> também é comum entre mulheres.
+        -   <font size="5"><code><ruby>私<rt>あたくし</rt></ruby></code></font> é mais honorífico.
 -   <font size="5"><code><ruby>貴<rt>あな</rt>方<rt>た</rt></ruby></code></font> Tu/Você
     -   <font size="5"><code>お<ruby>前<rt>まえ</rt></ruby></code></font> Amistoso e casual com amigos, rude com estranhos.
     -   <font size="5"><code><ruby>君<rt>きみ</rt></ruby></code></font> Amistoso e familiar, usado com pessoas de mesmo ou status mais baixo.
 -   <font size="5"><code><ruby>彼<rt>かれ</rt></ruby></code></font> Ele
 -   <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> Ela
+-   <font size="5"><code><ruby>我<rt>われ</rt>々<rt>われ</rt></ruby>・<ruby>我<rt>われ</rt>ら</ruby></code></font> Nós (geralmente quando grupo ou instituição, ou formal)
 -   `うち` Nós (feminino)
     -   Também é utilizado por homens em contextos possessivos, principalmente quando "nós" se refere à família ou núcleo familiar.
 -   <font size="5"><code><ruby>彼<rt>かれ</rt></ruby>ら</code></font> Eles/Elas
+    -   <font size="5"><code><ruby>奴<rt>やつ</rt></ruby>ら</code></font> Eles/Esses caras (depreciativo)
 -   `みんな` Pessoal/Todos/Todo mundo
 
 ## こそあど - KO-SO-A-DO
@@ -132,6 +137,8 @@
 
 **`あなた` se deriva de uma forma arcaica. Em situações formais, pode-se perguntar "quem?" usando `どなた`.**
 
+**As de tipo específico podem atuar como intensificadores antes de adjetivos, como um "tão", devido ao seu sentido de "tal qual".**
+
 **`そんな` é bastante usado como uma expressão de surpresa e frustação. É algo como "ah não!", "de jeito nenhum!", "não diga isso!".**
 
 **As palavras de tipo são determinantes. Para as não-determinantes acrescenta-se a partícula `に`.**
@@ -176,8 +183,8 @@
     </thead>
     <tr>
         <th>Entidade (Coisa)</th>
-        <td colspan="2"><ruby>何<rt>なに</rt></ruby>も</td>
-        <td><ruby>何<rt>なに</rt></ruby>でも</td>
+        <td colspan="2"><ruby>何<rt>なに</rt></ruby>も・<ruby>何<rt>なん</rt></ruby>も</td>
+        <td><ruby>何<rt>なん</rt></ruby>でも・<ruby>何<rt>なん</rt></ruby>にでも</td>
         <td><ruby>何<rt>なに</rt></ruby>か</td>
     </tr>
     <tr>
@@ -209,6 +216,9 @@
 > [!NOTE]
 > O existencial também é usado como "pronome relativo" em algumas situações, como perguntas imbutidas e suas respostas. Ex.: `あれは誰か知っていますか` "Você sabe quem é aquele?";`あれが誰か分かりません` "Eu não sei quem é aquele".
 
+> [!NOTE]
+> Pode-se usar <font size="5"><code><ruby>何<rt>なん</rt></ruby></code></font> + contador + `か` para indicar "alguns" do objeto usado com o contador.
+
 > [!TIP]
 > Os universais/negativos aceitam partículas antes. Ex: `だれにも` "Para alguém/ninguém", `だれとも` "Com alguém/ninguém".
 > Para determinantes, o que se determina vem no meio da construção. Ex.: `どの色でも` "Qualquer cor".
@@ -218,6 +228,12 @@
     -   `すべて` Menos casual
         -   Também pode significar "tudo".
 -   `みんな` Todo mundo
+-   <font size="5"><code><ruby>各<rt>かく</rt></ruby></code></font> Cada
+    -   É na verdade um prefixo.
+    -   Mais utilizado com kanjis compostos e palavras em katakana.
+    -   Seu uso mais comum é para identificar itens que fazem parte de uma sequência.
+    -   <font size="5"><code><ruby>各<rt>おの</rt>々</ruby></code></font> Cada um
+        -   Usado primariamente com pessoas.
 
 ## Possessivos
 

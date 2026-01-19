@@ -1,6 +1,6 @@
-# Pronomes
+# Οι Αντωνυμίες - Pronomes 🚺
 
-**Pronomes possuem as formas forte (sujeitos ou enfáticos) e fraca (objetos de verbos ou preposições).**
+**Pronomes possuem as formas forte (sujeitos ou enfáticos) e fraca (também chamada de enclítica; objetos de verbos ou preposições).**
 
 <table>
 	<thead>
@@ -97,15 +97,17 @@
 > ◆ Os adjetivos possessivos possuem a mesma forma dos pronomes genitivos fracos e vêm depois do que estão se referindo. Já os pronomes possessivos são formados pelas palavras definidas na tabela + o pronome genitivo fraco referente e vêm antes do que estão se referindo.
 > Veja também que os pronomes acusativos fracos da terceira pessoa são iguais aos artigos definidos acusativos.
 
+-   Os pronomes fortes só servem para ênfase.
+    -   Pronomes nominativos geralmente são usados somente em casos enfáticos, já que a terminação do verbo já indica a pessoa.
 -   Os pronomes pessoais precedem o verbo, exceto no gerúndio e no imperativo. O genitivo vem antes do acusativo.
 -   No vocativo existe apenas a segunda pessoa: `εσύ` (singular) e `εσείς` (plural).
--   Quando a forma fraca genitiva vem após alguma palavra proparoxítona, a última sílaba desta palavra também deve receber acento.
 -   Os (adjetivos) possessivos costumam vir depois do substantivo, mas quando há um adjetivo, podem vir de três formas:
     -   Artigo + adjetivo + substantivo + possessivo.
     -   Artigo + adjetivo + possessivo + substantivo (mais comum).
     -   Artigo + substantivo + possessivo + adjetivo.
--   Quando um pronome pessoal é utilizado em uma posição que pode ser confundido com um adjetivo possessivo, é utilizado um acento no pronome para diferenciação. Ex.: `Η δασκάλα μου είπε` "MEU professor disse"/ `Η δασκάλα μού είπε` "O professor ME disse".
-    -   Quando ambos são utilizados, não é necessário o acento: `Η δασκάλα μου μου είπε` "Meu professor me disse".
+-   Quando a forma fraca genitiva vem após alguma palavra proparoxítona, a última sílaba desta palavra também deve receber acento.
+-   Quando um pronome pessoal é utilizado em uma posição que pode ser confundido com um adjetivo possessivo, é utilizado um acento no pronome para diferenciação. Ex.: `Ο δάσκαλόç μου είπε` "MEU professor disse"/ `Ο δάσκαλόç μού είπε` "O professor ME disse".
+    -   Quando ambos são utilizados, não é necessário o acento: `Ο δάσκαλόç μου μου είπε` "Meu professor me disse".
 -   O reflexivo é formado por artigo + conjugação do adjetivo `εαυτός` em caso + genitivo fraco.
     -   `εαυτός` é sempre masculino neste caso, portanto o artigo deve seguir o masculino também. Já o pronome genitivo segue o gênero real da pessoa.
 

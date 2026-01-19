@@ -2,6 +2,7 @@
 
 -   `Ναι` Sim
 -   `Όχι` Não
+-   `Εντάξει` Ok/Tudo bem
 -   `Πολύ` Muito
 -   `Λίγο` Pouco
 -   `Καλά` Bem
@@ -35,7 +36,6 @@
 -   `Τότε` Então/Naquela época
     -   Indica consequência sequencial ou condicional.
 -   `Επιπλέον` Além disso/Aliás
--   `Εντάξει` Ok/Tudo bem
 -   `Πάντα` Sempre
 -   `Ακόμα` Ainda
     -   `Ακόμα κι` Mesmo se

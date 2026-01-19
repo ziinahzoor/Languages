@@ -251,3 +251,9 @@
 -   `Clásico` Clássico
 -   `Avergonzado` Envergonhado
 -   `Activo` Ativo
+-   `Torcido` Torto
+-   `Imaginario` Imaginário
+-   `General` Geral
+-   `Profesional` Profissional
+-   `Demócrata` Democrata
+-   `Republicano`

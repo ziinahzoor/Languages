@@ -21,6 +21,8 @@
 -   `El uno al otro` Um ao outro
 -   `¡Cómo no!` Claro!/Sem dúvidas!
 -   `Ni... ni...` Nem... nem...
+-   `Incluso en` Até mesmo em
+-   `En tu lugar` Se eu fosse você
 
 ## Gírias
 

@@ -23,7 +23,7 @@
 -   `Sans aucun doute` Sem dúvida
 -   `Jamais de la vie` Nunca na vida
 -   `Aucune chance` Sem chance
--   `Ça te dit.../Ça vous dit` Você quer.../Que tal...
+-   `Ça te dit de.../Ça vous dit de` Você quer.../Que tal...
 -   `Allons-y/On y va` Vamos lá
 -   `C'est parti` Vamos lá
 -   `Ça ne veut rien dire` Isso não quer dizer nada
@@ -55,6 +55,26 @@
 -   `Depuis toujours` Desde sempre
 -   `C'est logique` É lógico
 -   `Je ne pense pas` Acho que não/Creio que não
+-   `Coup de barre` Cansaço súbito
+-   `Auberge espagnole` República (Grupo de pessoas de origens e culturas diferentes)
+-   `Il n'en n'est rien` Não é assim/Não é o caso/Não é nada disso
+-   `C'est une tuerie` Isso é bom demais
+-   `Ça vous ennuie si` Você se importa se
+-   `Je vous en prie` Eu te imploro
+-   `Veuillez trouver ci-joint` Segue em anexo
+-   `D'après vous` Na sua opinião
+-   `Être sur la bonne voie` Estar no caminho certo
+-   `En plein essor` Em ascenção
+-   `Sans déconner` Sem brincadeira/Não me diga
+    -   Serve tanto para enfatizar algo quanto para sarcasmo.
+-   `Laisse tomber` Deixa pra lá
+-   `Faire comme chez toi` Sinta-se em casa
+-   `Je n'en peux plus` Eu não aguento mais
+-   `Nuit blanche` Noite em claro
+-   `Qu'est-ce que` O que/Como
+    -   Em perguntas significa "o que" e em afirmações indica um "como" exclamativo, geralmente nostálgico.
+-   `Coup de foudre` Amor à primeira vista
+-   `Portrait craché` Parecer/Ser a cara (cuspido e escarrado)
 
 ## Verlan
 
@@ -86,6 +106,8 @@
 
 ## Ofensas e linguagem de baixo calão
 
+-   `Merde` M\*rda
+-   `Putain` P\*rra
 -   `Andouille` Burro/Estúpido
 -   `Glandu` Burro
 -   `Tabarnak` Caramba (Quebecois)

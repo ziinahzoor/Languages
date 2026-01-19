@@ -6,9 +6,6 @@
 -   `Sehr` Muito (Intensidade)
 -   `Zu` Muito/Demais/Excessivamente
 -   `So` Tão
--   `Wo` Onde
--   `Wohin` Aonde
--   `Woher` De onde
 -   `Hier` Aqui
 -   `Jetzt` Agora
 -   `Da drüben` Ali
@@ -31,3 +28,4 @@
 -   `Warum` Por que/Por quê
 -   `Gern` De bom grado/Com prazer
     -   É bastante utilizado para se referir a "gostar" ao invés de usar um verbo.
+-   `Wonach` De qual/Segundo o qual/Ao que

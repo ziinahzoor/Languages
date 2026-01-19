@@ -3,86 +3,27 @@
 > [!TIP]
 > Para ver as regras de conjugação, clique [aqui](conjugações.md).
 
-## -re Verbes
-
--   `Être` Ser/Estar
-    -   `Être en feu` Estar queimando
-    -   `Être mal à l'aise` Estar desconfortável
-    -   `S'être bien passée` Ir bem
--   `Prendre` Pegar
-    -   `Prendre soin` Cuidar
-    -   `Prendre rendez-vous` Marcar consulta
-    -   `Prendre des nouvelles` Receber notícias/Informar-se/Checar (alguém)
--   `Apprendre` Aprender
-    -   `S'apprendre` Ensinar
--   `Comprendre` Entender
--   `Rendre` Deixar/Fazer (causar)/Devolver
-    -   `Se rendre compte` Se dar conta
--   `Boire` Beber
--   `Lire` Ler
--   `Écrire` Escrever
--   `Conduire` Dirigir
--   `Faire` Fazer
-    -   `Faire nuit` Anoitecer/Escurecer
-    -   `Faire grève` Fazer greve
-    -   `Faire du sport` Exercitar
-    -   `Faire du vélo` Andar de bicicleta
-    -   `Faire du camping` Acampar
-    -   `Faire le ménage` Limpar a casa
-    -   `Faire les bagages` Fazer as malas
-    -   `Faire la queue` Fazer fila/Esperar na fila
-    -   `Faire plaisir à` Agradar
-    -   `Faire de l'escalade` Escalar
-    -   `Faire confiance à` Confiar
-    -   `Faire peur` Assustar
-    -   `Faire la fête` Festar
-        -   `Teufer` Verlan
-    -   `Faire nuit` Estar de noite/Estar escuro
-    -   `Faire un tour` Dar um passeio
-    -   `Faire comme ça` Fazer assim
-    -   `Faire le lit` Fazer a cama/Arrumar a cama
-    -   `Faire la vaiselle` Lavar a louça
-    -   `Se faire mal` Machucar-se
-    -   `Se faire la bise` Beijar-se (na bochecha)
--   `Défaire` Desfazer
--   `Attendre` Esperar
--   `Dire` Dizer
--   `Mettre` Colocar
-    -   `Mettre en ligne` Fazer upload
-    -   `Mettre à jour` Atualizar
-    -   `Mettre sur pause` Pausar
--   `Peindre` Pintar
--   `Connaitre` Conhecer
-    -   Tem o sentido de "ter familiaridade"
-    -   `Se connaitre` Conhecer-se
--   `Entendre` Ouvir
-    -   `S'entendre` Entender-se (com alguém)
-        -   `S'entendre bien` Dar-se bem (com alguém)
--   `Croire` Acreditar/Crer
--   `Répondre` Responder
--   `Éteindre` Apagar/Desligar
--   `Vendre` Vender
--   `Descendre` Descer
--   `Rire` Rir
--   `Sourire` Sorrir
--   `Teindre` Tingir
--   `Perdre` Perder
-    -   `Se perdre` Perder-se
--   `Vivre` Viver
--   `Cuire` Cozinhar/Cozer (Forma de preparo, não o ato de preparar a comida)
--   `Rompre` Romper/Quebrar/Terminar (um relacionamento)
--   `Naître` Nascer
--   `Décrire` Descrever
--   `Plaire` Agradar/Gostar
--   `Réduire` Reduzir
--   `Se battre` Brigar
--   `Suivre` Seguir
--   `Se taire` Calar-se
--   `Disparaître` Desaparecer
-    -   `Disparaitre` Pós-reforma de 90
+> [!NOTE]
+> Os verbos são divididos em três grupos de conjugação:
+>
+> -   Primeiro grupo: verbos terminados em `-er`.
+>     -   Corresponde a cerca de 90% dos verbos franceses.
+> -   Segundo grupo: verbos terminados em `-ir` com interfixo `-iss-` em algumas conjugações.
+>     -   Possui cerca de 300 verbos.
+> -   Terceiro grupo: verbos irregulares, outros verbos terminados em `-ir`, verbos terminados em `-oir`, `-ïr` e `-re`.
+>     -   Possui quase 500 verbos.
+>     -   Os verbos mais utilizados no francês pertencem a esse grupo.
+>
+> Por motivos de simplificação, aqui eles estão agrupados pela terminação no infinitivo ao invés do grupo de conjugação.
 
 ## -er Verbes
 
+> [!NOTE]
+> O verbo `aller` é o único verbo -er classificado como irregular, e pertence ao terceiro grupo.
+
+-   `Aller` Ir
+    -   `S'en aller` Ir embora
+    -   `S'aller` Cair/Combinar (roupas)
 -   `Manger` Comer
 -   `S'appeller` Chamar-se
 -   `Parler` Falar
@@ -90,9 +31,7 @@
 -   `Habiter` Morar
 -   `Étudier` Estudar
 -   `Travailler` Trabalhar
--   `Aller` Ir
-    -   `S'en aller` Ir embora
-    -   `S'aller` Cair/Combinar (roupas)
+    -   `Bosser` Informal
 -   `Aimer` Amar (pessoas)/Gostar (coisas)
     -   Significa "amar" quando se refere a pessoas e "gostar" quando se refere a outras coisas (inclusive animais). Para falar que ama outra coisa, usar `adorer`
 -   `Adorer` Amar/Adorar
@@ -107,6 +46,7 @@
 -   `Rencontrer` Conhecer
     -   Tem o sentido de conhecer pela primeira vez.
 -   `Payer` Pagar
+    -   A primeira pessoa do singular no presente do indicativo pode ser `paye` ou `paie`.
 -   `Trouver` Achar/Encontrar
     -   Também serve para o sentido abstrato de "achar" (pensar, expressar uma opinião).
     -   `Se trouver` Encontrar-se/Localizar-se
@@ -133,8 +73,11 @@
 -   `Utiliser` Utilizar
 -   `Donner` Dar
     -   `Donner envie` Dar vontade
+    -   `Donner un coup de main` Ajudar
     -   `Donner un coup de pied` Chutar
+    -   `Donner suite` Dar seguimento
 -   `Oublier` Esquecer
+    -   `Zapper` Informal
 -   `Préparer` Preparar
 -   `Écouter` Escutar
 -   `Entrer` Entrar
@@ -151,6 +94,7 @@
 -   `Passer` Passar
     -   `Se passer` Acontecer
     -   `Passer un examen` Fazer uma prova
+        -   Para "ser aprovado", usa-se `réussir`.
     -   `Passer chez` Passar na casa
     -   `Passer le balai` Varrer
 -   `Plonger` Mergulhar
@@ -206,11 +150,14 @@
 -   `Prêter` Emprestar
 -   `Emprunter` Pegar emprestado
 -   `Louer` Alugar
+-   `Se marrer` Rir/Entreter-se
 -   `Démarrer` Iniciar (algo)/Dar partida
 -   `Commencer` Começar
 -   `Gagner` Ganhar
 -   `Rigoler` Brincar/Fazer piada/Rir
+-   `Plaisanter` Fazer uma piada/Brincar
 -   `Enlever` Tirar (de algum lugar)/Remover
+-   `Verser` Derramar/Despejar
 -   `Traverser` Atravessar/Cruzar
 -   `Ajouter` Adicionar
 -   `Brûler` Queimar/Tostar/Flambar/Arder
@@ -223,6 +170,7 @@
 -   `Expliquer` Explicar
 -   `Présenter` Apresentar/Introduzir
 -   `Taper` Digitar
+    -   `Taper l'incruste` Entrar de penetra
 -   `Essayer` Experimentar/Provar (Roupas)
 -   `Tomber` Cair
     -   `Tomber em panne` Estragar/Quebrar
@@ -250,9 +198,11 @@
 -   `Économiser` Economizar
 -   `Se dépêcher` Apressar-se
 -   `Rater` Errar/Perder/Falhar
+    -   `Rater un examen` Ser reprovado em uma prova
 -   `Réparer` Reparar
 -   `Se garer` Estacionar
 -   `Allumer` Acender/Ligar
+-   `Rallumer` Religar
 -   `Ranger` Arrumar
 -   `S'intéresser` Interessar-se
 -   `Créer` Criar
@@ -265,22 +215,27 @@
 -   `Pousser` Empurrar
 -   `Blesser` Machucar/Ferir
     -   `Se blesser` Machucar-se
--   `Se manquer` Sentir saudade/falta
-    -   Funciona ao contrário do português: `je vous manque` é "você sente minha falta"
+-   `Manquer` Faltar/Perder/Estar faltando
+    -   `Se manquer` Sentir saudade/falta
+        -   Funciona ao contrário do português: `je vous manque` é "você sente minha falta"
 -   `Surfer` Surfar
 -   `Naviguer` Navegar
 -   `Jeter` Lançar/Jogar fora
     -   `Jeter un coup d'œil` Dar uma olhada/Relancear
 -   `Laisser` Deixar
+    -   `Laisser tomber` Deixar pra lá
+    -   `Laisser de côté` Deixar de lado
 -   `Brancher` Conectar/Plugar
 -   `S'habituer` Acostumar-se
 -   `Enseigner` Ensinar
+-   `Se renseigner` Informar-se/Investigar
 -   `Remercier` Agradecer
 -   `Refuser` Recusar
 -   `Accepter` Aceitar
 -   `Désirer` Desejar
 -   `Poser` Pôr
     -   `Poser une question` Fazer uma pergunta
+    -   `Poser un lapin` Dar um bolo
 -   `Supposer` Supor
 -   `Déranger` Incomodar/Perturbar
 -   `Gêner` Incomodar/Importunar
@@ -294,6 +249,7 @@
 -   `Partager` Compartilhar
 -   `Continuer` Continuar
 -   `Couper` Cortar
+-   `Couler` Afundar
 -   `Prier` Rezar
 -   `Sauter` Saltar
 -   `Patiner` Patinar
@@ -304,6 +260,7 @@
     -   `Copier sur` Copiar de
 -   `Coller` Colar
 -   `Poster` Publicar
+-   `Rappeler` Ligar de volta
 -   `Se rappeler` Se lembrar
 -   `Compléter` Completar
 -   `S'améliorer` Melhorar
@@ -330,6 +287,8 @@
 -   `Exprimer` Expressar
 -   `Organiser` Organizar
 -   `Bronzer` Bronzear-se
+-   `Traîner` Arrastar
+    -   Também usado como "passar tempo".
 -   `S'entraîner` Treinar/Praticar
 -   `Assister` Assistir
     -   Tem uma conotação presencial.
@@ -364,6 +323,7 @@
 -   `Déconnecter` Desconectar/Deslogar
 -   `Brancher` Conectar/Ligar/Colocar na tomada
 -   `Débrancher` Desconectar/Desligar/Tirar da tomada
+-   `Se débarrasser` Se livrar
 -   `Supprimer` Excluir/Apagar/Remover
 -   `Installer` Instalar
 -   `S'amuser` Divertir-se
@@ -371,31 +331,99 @@
 -   `Proposer` Propor
 -   `Rembourser` Reembolsar/Pagar de volta
 -   `Fixer` Definir/Estabelecer
--   `Reporter` Adiar
+-   `Reporter` Adiar/Postergar
 -   `Toucher` Tocar/Encostar
 -   `Sauver` Salvar
 -   `S'échapper` Escapar/Fugir
 -   `S'approcher` Aproximar-se
+-   `Gâcher` Estragar/Arruinar/Bagunçar
+-   `Se moquer` Zombar/Tirar sarro
+-   `Trembler` Tremer
+-   `Bâiller` Bocejar
+-   `Lutter` Lutar
+-   `Secouer` Sacudir
+-   `Se pacser` Juntar-se em união civil
+-   `Se fiancer` Noivar-se
+-   `Se marrier` Casar-se
+-   `Éclairer` Iluminar/Esclarecer
+-   `Trébucher` Tropeçar
+-   `Décrocher` Desenganchar/Desengatar
+    -   Também usado para se referir a tirar o telefone do gancho.
+-   `Relever` Aceitar (um desafio)
+-   `Traiter` Lidar
+-   `Consulter` Verificar/Consultar
+-   `Analyser` Analisar
+-   `Envisager` Considerar
+-   `Gérer` Gerenciar
+-   `Serrer` Apertar
+    -   `Serrer la main` Apertar as mãos
+-   `S'accorder` Combinar/Concordar
+-   `Redémarrer` Reiniciar
+-   `Dérouler` Desenrolar
+-   `Débrouiller` Desembaraçar
+    -   `Se débrouiller` Virar-se (dar um jeito)
+-   `Installer` Instalar/Configurar
+-   `Prier` Implorar
+-   `Agréer` Concordar
+-   `Budgéter` Orçamentar
+-   `Budgétiser` Orçamentar
+-   `Livrer` Entregar
+-   `Relancer` Recontactar
+-   `Assurer le suivi` Acompanhar/Dar seguimento
+-   `Engendrer` Gerar
+-   `Attirer` Atrair
+-   `Clignoter` Piscar/Dar a seta
+-   `Emmêler` Enrolar/Emaranhar
+-   `Démêler` Desenrolar/Desembaraçar
+-   `Lier` Ligar/Associar
+-   `Chuter` Cair/Largar
+-   `Câliner` Abraçar
+-   `Enlacer` Abraçar (romanticamente)
+-   `Tricher` Trapacear
+-   `Préchauffer` Pré-aquecer
+-   `Mouler` Moldar
+-   `Se bronzer` Bronzear-se
+-   `Pisser` Urinar
+-   `Bricoler` Fazer trabalhos manuais
+-   `S'engueuler` Discutir (Informal)
+-   `Tromper` Trair
+-   `Gaspiller` Desperdiçar
+-   `Remuer` Mexer
+-   `Foncer` Ir em frente/Se apressar
+-   `Draguer` Dragar
+    -   Também é uma gíria para "flertar"
+-   `Louper` Perder/Falhar
 
 ## -ir Verbes
 
 -   `Avoir` Ter
-    -   `Avoir besoin de` Precisar
-    -   `Avoir honte de` Envergonhar-se
-    -   `Avoir de la chance` Ter sorte
+    -   `Avoir lieu` Acontecer/Ocorrer/Ser realizado
+    -   `Avoir seché` Matar aula
     -   `Avoir envie` Desejar
-    -   `Avoir l'air` Parecer/Ter o semblante
-    -   `Avoir le droit` Ter o direito
     -   `Avoir raison` Ter razão
     -   `Avoir tort` Não ter razão
     -   `Avoir rendez-vous` Ter um encontro
+    -   `Avoir besoin de` Precisar
+    -   `Avoir honte de` Envergonhar-se
+    -   `Avoir hâte de` Estar ansioso para
+    -   `Avoir du retard` Atrasar-se (por culpa alheia)
     -   `Avoir du mal à` Ter dificuldade em
-    -   `Avoir la dalle` Ter fome
+    -   `Avoir de la chance` Ter sorte
+    -   `Avoir de la place` Ter espaço
+    -   `Avoir l'air` Parecer/Ter o semblante
     -   `Avoir l'impression` Ter a impressão
+    -   `Avoir le droit` Ter o direito
+    -   `Avoir le moral` Estar disposto/Estar com ânimo
+    -   `Avoir la dalle` Ter fome
+    -   `Avoir la pression` Estar sob pressão/Sentir-se pressionado
+    -   `Avoir la tête qui tourne` Estar tonto
+-   `Pouvoir` Poder
+    -   Na forma invertida, a primeira pessoa do singular é `puis`.
 -   `Voir` Ver
     -   `Se voir` Ver-se
 -   `Revoir` Rever
 -   `Vouloir` Querer
+    -   A segunda pessoa do plural no imperativo (`veuillez`) é bastante utilizada para pedidos e solicitações.
 -   `Ouvrir` Abrir
 -   `Devoir` Dever
 -   `Savoir` Saber
@@ -405,6 +433,7 @@
 -   `Dormir`
 -   `S'endormir` Adormecer
 -   `Partir` Sair (Leave)
+    -   `Partir à la retraite` Aposentar-se
 -   `Sortir` Sair (Get out, go out)
     -   `Sortir avec` Sair com
 -   `Finir` Terminar
@@ -416,6 +445,7 @@
 -   `Asseoir` Sentar
     -   `S'asseoir` Sentar-se
 -   `Souvenir` Lembrar
+-   `Soutenir` Manter
 -   `Mourir` Morrer
 -   `Mentir`
 -   `Devenir` Tornar-se
@@ -438,6 +468,124 @@
 -   `Réfléchir` Refletir/Pensar
 -   `Se réunir` Reunir-se
 -   `Aterrir` Aterrissar
+-   `Applaudir` Aplaudir
+-   `Fournir` Fornecer
+-   `Rafraîchir` Refrescar/Recarregar
+-   `Promouvoir` Promover/Fomentar
+-   `Rougir` Corar/Ficar vermelho
+-   `Refroidir` Resfriar
+-   `Atterrir` Aterrisar
+-   `Tenir au courant` Manter informado
+
+## -re Verbes
+
+-   `Être` Ser/Estar
+    -   `Être à la retraite/être retraité` Estar aposentado
+    -   `Être à la bourre` Estar atrasado (gíria)
+    -   `Être en retard` Estar atrasado (por culpa própria)
+    -   `Être en feu` Estar queimando
+    -   `Être mal à l'aise` Estar desconfortável
+    -   `Être tombé sur` Encontrar (por acaso)
+    -   `S'être bien passée` Ir bem
+    -   `S'être sur son trente et un` Estar bem-vestido
+-   `Prendre` Pegar
+    -   `Prendre soin` Cuidar
+    -   `Prendre rendez-vous` Marcar consulta
+    -   `Prendre des nouvelles` Receber notícias/Informar-se/Checar (alguém)
+    -   `Prendre en main` Engarregar-se/Assumir o controle
+    -   `Se prendre un râteau` Ser rejeitado
+-   `Apprendre` Aprender
+    -   `S'apprendre` Ensinar
+-   `Comprendre` Entender
+-   `Rendre` Deixar/Fazer (causar)/Devolver
+    -   `Se rendre compte` Se dar conta
+-   `Boire` Beber
+-   `Lire` Ler
+-   `Écrire` Escrever
+-   `Conduire` Dirigir
+-   `Faire` Fazer
+    -   `Faire nuit` Anoitecer/Escurecer
+    -   `Faire grève` Fazer greve
+    -   `Faire part` Informar
+    -   `Faire peur` Assustar
+    -   `Faire passer` Repassar/Transmitir
+    -   `Faire appel` Chamar/Recorrer/Solicitar
+    -   `Faire nuit` Estar de noite/Estar escuro
+    -   `Faire pipi` Fazer xixi
+    -   `Faire conossaince` Conhecer/Familiarizar-se
+    -   `Faire confiance à` Confiar
+    -   `Faire plaisir à` Agradar
+    -   `Faire comme ça` Fazer assim
+    -   `Faire non de la tête` Dizer não com a cabeça
+    -   `Faire un tour` Dar um passeio
+    -   `Faire un footing` Fazer caminhada
+    -   `Faire un câlin` Abraçar
+    -   `Faire de l'escalade` Escalar
+    -   `Faire du sport` Exercitar
+    -   `Faire du vélo` Andar de bicicleta
+    -   `Faire du camping` Acampar
+    -   `Faire la queue` Fazer fila/Esperar na fila
+    -   `Faire la vaiselle` Lavar a louça
+    -   `Faire la fête` Festar
+        -   `Teufer` Verlan
+    -   `Faire la course` Disputar corrida
+    -   `Faire la grasse matinée` Dormir até tarde
+    -   `Faire le ménage` Limpar a casa
+    -   `Faire le lit` Fazer a cama/Arrumar a cama
+    -   `Faire le tri` Organizar/Ordenar
+    -   `Faire les bagages` Fazer as malas
+    -   `Faire les courses` Fazer compras (comida, itens essenciais)
+    -   `Faire les magasins` Fazer compras (itens não-essenciais)
+        -   `Magasiner` Québécois
+    -   `Se faire mal` Machucar-se
+    -   `Se faire la bise` Beijar-se (na bochecha)
+-   `Défaire` Desfazer
+-   `Attendre` Esperar
+-   `Dire` Dizer
+-   `Mettre` Colocar
+    -   `Mettre du temps` Levar tempo
+    -   `Mettre en ligne` Fazer upload
+    -   `Mettre à jour` Atualizar
+    -   `Mettre sur pause` Pausar
+    -   `Mettre la table` Arrumar a mesa
+    -   `Se mettre sur son trente et un` Vestir-se bem
+-   `Peindre` Pintar
+-   `Connaître` Conhecer
+    -   Tem o sentido de "ter familiaridade"
+    -   `Se connaître` Conhecer-se
+    -   `Se faire connaître` Ganhar visibilidade/Tornar-se conhecido
+-   `Entendre` Ouvir
+    -   `S'entendre` Entender-se (com alguém)
+        -   `S'entendre bien` Dar-se bem (com alguém)
+-   `Croire` Acreditar/Crer
+-   `Répondre` Responder
+-   `Éteindre` Apagar/Desligar
+-   `Vendre` Vender
+-   `Descendre` Descer
+-   `Rire` Rir
+-   `Sourire` Sorrir
+-   `Teindre` Tingir
+-   `Perdre` Perder
+    -   `Se perdre` Perder-se
+-   `Vivre` Viver
+-   `Cuire` Cozinhar/Cozer (Forma de preparo, não o ato de preparar a comida. Ou seja, intransitivo)
+    -   `Faire cuire` Cozinhar/Cozer (Transitivo)
+-   `Rompre` Romper/Quebrar/Terminar (um relacionamento)
+-   `Naître` Nascer
+-   `Décrire` Descrever
+-   `Plaire` Agradar/Gostar
+-   `Réduire` Reduzir
+-   `Battre` Bater
+    -   `Se battre` Brigar
+-   `Suivre` Seguir
+-   `Poursuivre` Perseguir
+-   `Se taire` Calar-se
+-   `Disparaître` Desaparecer
+    -   `Disparaitre` Pós-reforma de 90
+-   `Rejoindre` Juntar-se/Entrar
+-   `Interrompre` Interromper
+-   `Dépendre` Depender
+-   `Séduire` Seduzir
 
 ## Les Verbes Défectueux - Verbos Defectivos
 

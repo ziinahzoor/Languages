@@ -1,4 +1,4 @@
-# Comida
+# <ruby>饭<rt>fàn</rt></ruby> - Comida
 
 -   <font size="6"><code><ruby>汤<rt>tāng</rt></ruby></code></font> Sopa
 -   <font size="6"><code><ruby>粥<rt>zhōu</rt></ruby></code></font> Mingau
@@ -7,14 +7,18 @@
 -   <font size="6"><code><ruby>面<rt>miàn</rt>包<rt>bāo</rt></ruby></code></font> Pão
 -   <font size="6"><code><ruby>鸡<rt>jī</rt>蛋<rt>dàn</rt></ruby></code></font> Ovo de galinha
 -   <font size="6"><code><ruby>饼<rt>bǐng</rt>干<rt>gān</rt></ruby></code></font> Biscoito
+-   <font size="6"><code><ruby>蛋<rt>dàn</rt>糕<rt>gāo</rt></ruby></code></font> Bolo
+-   <font size="6"><code><ruby>汉<rt>hàn</rt>堡<rt>bǎo</rt></ruby></code></font> Hambúrguer
+-   <font size="6"><code><ruby>薯<rt>shǔ</rt>条<rt>tiáo</rt></ruby></code></font> Batata frita
 
-## <ruby>水果<rt>shuǐguǒ</rt></ruby> - Frutas
+## <ruby>水<rt>shuǐ</rt>果<rt>guǒ</rt></ruby> - Frutas
 
 -   <font size="6"><code><ruby>苹<rt>píng</rt>果<rt>guǒ</rt></ruby></code></font> Maçã
 -   <font size="6"><code><ruby>芒<rt>máng</rt>果<rt>guǒ</rt></ruby></code></font> Manga
 -   <font size="6"><code><ruby>瓜<rt>guā</rt></ruby></code></font> Melão
 -   <font size="6"><code><ruby>西<rt>xī</rt>瓜<rt>guā</rt></ruby></code></font> Melancia
 -   <font size="6"><code><ruby>菠<rt>bō</rt>萝<rt>luó</rt></ruby></code></font> Abacaxi
+-   <font size="6"><code><ruby>柠<rt>níng</rt>檬<rt>méng</rt></ruby></code></font> Limão
 
 ## Bebidas
 
@@ -27,3 +31,8 @@
 -   <font size="6"><code><ruby>牛<rt>niú</rt>奶<rt>nǎi</rt></ruby></code></font> Leite de vaca
 -   <font size="6"><code><ruby>啤<rt>pí</rt>酒<rt>jiǔ</rt></ruby></code></font> Cerveja
 -   <font size="6"><code><ruby>可<rt>kě</rt>乐<rt>lè</rt></ruby></code></font> Cola
+
+## Relacionado
+
+-   <font size="6"><code><ruby>菜<rt>cài</rt></ruby></code></font> Prato
+-   <font size="6"><code><ruby>菜<rt>cài</rt>单<rt>dān</rt></ruby></code></font> Cardápio

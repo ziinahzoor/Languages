@@ -1,31 +1,31 @@
 # Alfabeto Helênico
 
-| Maíscula | Minúscula | Transliteração | Nome               |
-| -------- | --------- | -------------- | ------------------ |
-| Α        | α         | a              | Alfa               |
-| Β        | β         | b              | Beta               |
-| Γ        | γ         | g              | Gama               |
-| Δ        | δ         | d              | Delta              |
-| Ε        | ε         | e              | Épsilon            |
-| Ζ        | ζ         | z              | Zeta               |
-| Η        | η         | i              | Eta                |
-| Θ        | θ         | th             | Teta               |
-| Ι        | ι         | i              | Iota               |
-| Κ        | κ         | k              | Capa ou Kappa      |
-| Λ        | λ         | l              | Lambda             |
-| Μ        | μ         | m              | Mu ou Mi           |
-| Ν        | ν         | n              | Nu ou Ni           |
-| Ξ        | ξ         | x              | Xi ou Csi          |
-| Ο        | ο         | o              | Ômicron            |
-| Π        | π         | p              | Pi                 |
-| Ρ        | ρ         | r              | Rô ou Rho          |
-| Σ        | σ/ς       | s              | Sigma              |
-| Τ        | τ         | t              | Tau                |
-| Υ        | υ         | y              | Ípsilon ou Upsilon |
-| Φ        | φ         | f              | Fi ou Phi          |
-| Χ        | χ         | ch             | Chi                |
-| Ψ        | ψ         | ps             | Psi                |
-| Ω        | ω         | o              | Ômega              |
+| Maíscula | Minúscula | Transliteração | Nome               | Nome em Grego   |
+| -------- | --------- | -------------- | ------------------ | --------------- |
+| Α        | α         | a              | Alfa               | Άλφα            |
+| Β        | β         | b              | Beta               | Βήτα            |
+| Γ        | γ         | g              | Gama               | Γάμμα           |
+| Δ        | δ         | d              | Delta              | Δέλτα           |
+| Ε        | ε         | e              | Épsilon            | Έψιλον          |
+| Ζ        | ζ         | z              | Zeta               | Ζήτα            |
+| Η        | η         | i              | Eta                | Ήτα             |
+| Θ        | θ         | th             | Teta               | Θήτα            |
+| Ι        | ι         | i              | Iota               | Ιώτα            |
+| Κ        | κ         | k              | Capa ou Kappa      | Κάππα           |
+| Λ        | λ         | l              | Lambda             | Λάμδα ou Λάμβδα |
+| Μ        | μ         | m              | Mu ou Mi           | Μυ              |
+| Ν        | ν         | n              | Nu ou Ni           | Νυ              |
+| Ξ        | ξ         | x              | Xi ou Csi          | Ξι              |
+| Ο        | ο         | o              | Ômicron            | Όμικρον         |
+| Π        | π         | p              | Pi                 | Πι              |
+| Ρ        | ρ         | r              | Rô ou Rho          | Ρο              |
+| Σ        | σ/ς       | s              | Sigma              | Σίγμα           |
+| Τ        | τ         | t              | Tau                | Ταυ             |
+| Υ        | υ         | y              | Ípsilon ou Upsilon | Ύψιλον          |
+| Φ        | φ         | f              | Fi ou Phi          | Φι              |
+| Χ        | χ         | ch             | Chi                | Χι              |
+| Ψ        | ψ         | ps             | Psi                | Ψι              |
+| Ω        | ω         | o              | Ômega              | Ωμέγα           |
 
 -   As vogais são `α`, `ε`, `η`, `ι`, `ο`, `υ` e `ω`.
 

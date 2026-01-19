@@ -9,3 +9,4 @@
 -   `Hähnchen` Frango ✴️
 -   `Fisch` Peixe
 -   `Schnecke` Caracol 🚺
+-   `Papagei` Papagaio

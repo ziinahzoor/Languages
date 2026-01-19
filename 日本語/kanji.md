@@ -89,5 +89,12 @@
 
 -   Palavras com dois ou mais kanji são chamadas <font size="5"><code><ruby>熟<rt>じゅく</rt>語<rt>ご</rt></ruby></code></font>.
 
-> [!TIP]
-> Em algumas palavras, determinados kanji são utilizados apenas para manter a fonética da palavra, de forma com que o significado do kanji pode ser desconexo do significado da palavra. Nestas palavras, os kanji são chamados <font size="5"><code><ruby>当<rt>あ</rt></ruby>て<ruby>字<rt>じ</rt></ruby>・<ruby>宛<rt>あて</rt>字<rt>じ</rt></ruby></code></font>.
+## Leituras especiais
+
+-   Em algumas palavras, determinados kanji são utilizados apenas para manter a fonética da palavra, de forma com que o significado do kanji pode ser desconexo do significado da palavra. Nestas palavras, os kanji são chamados <font size="5"><code><ruby>当<rt>あ</rt></ruby>て<ruby>字<rt>じ</rt></ruby>・<ruby>宛<rt>あて</rt>字<rt>じ</rt></ruby></code></font>.
+-   Em contraste aos `当て字`, os <font size="5"><code><ruby>義<rt>ぎ</rt>訓<rt>くん</rt></ruby></code></font> são kanji compostos cuja leitura não corresponde à leitura de cada kanji separado, seja 訓読み ou 音読み.
+    -   Estes ainda podem ser <font size="5"><code><ruby>熟<rt>じゅく</rt>字<rt>じ</rt>訓<rt>くん</rt></ruby></code></font>: `義訓` cujos kanji são relacionados ao significado da palavra. Ex.: <font size="5"><code><ruby>今日<rt>きょう</rt></ruby></code></font>: `今` "este" + `日` "dia" = "hoje".
+        -   Os kanji não possuem uma leitura individual, a leitura é relacionada ao composto inteiro.
+        -   Na maior parte das vezes é tratado como um sinônimo de `義訓`.
+    -   Tecnicamente, os `義訓` são um tipo de `当て字`, pois o conceito do último engloba todos os casos.
+-   Há ainda a leitura <font size="5"><code><ruby>名<rt>な</rt>乗<rt>の</rt></ruby>り</code></font>, que é uma leitura utilizada quase que exclusivamente em nomes. Ex.: <font size="5"><code><ruby>希<rt>のぞみ</rt></ruby></code></font>.

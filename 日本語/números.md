@@ -154,11 +154,24 @@
 
 **Ao falar, costuma-se pausar a cada 4 números. O ponto decimal é considerado como um.**
 
+### Operações
+
+-   <font size="5"><code><ruby>足<rt>た</rt></ruby>す</code></font> Somar
+-   <font size="5"><code><ruby>引<rt>ひ</rt></ruby>く</code></font> Subtrair
+-   <font size="5"><code><ruby>掛<rt>か</rt></ruby>ける</code></font> Multiplicar
+-   <font size="5"><code><ruby>割<rt>わ</rt></ruby>る</code></font> Dividir
+-   <font size="5"><code><ruby>平<rt>へい</rt>均<rt>きん</rt></ruby></code></font> Média
+
+### Frações e decimais
+
+-   Frações são indicadas por <font size="5"><code><ruby>分<rt>ぶん</rt></ruby>の</code></font>, porém na ordem inversa. Ex.: 1/3 → <font size="5"><code>３<ruby>分<rt>ぶん</rt></ruby>の１</code></font>.
+-   Decimais são lidos como os outros números, apenas indicando o ponto com <font size="5"><code><ruby>点<rt>てん</rt></ruby></code></font>.
+
 ## <ruby>助<rt>じょ</rt>数<rt>すう</rt>詞<rt>し</rt></ruby> - Contadores
 
 **Costumam acompanhar o verbo.**
 
-**`すう` é um prefixo que indica "muitos" ou "vários"**
+**<font size="5"><code><ruby>数<rt>すう</rt></ruby></code></font> é um prefixo que indica "muitos", "vários" ou "alguns". Indica uma quantidade arbitrária.**
 
 **Contadores de tempo quando acompanhados pela partícula `に`, indicam periodicidade. Ex.: `一日に` "diário",`二日に` "a cada dois dias", `一箇月に` "mensal".**
 
@@ -193,15 +206,23 @@
 -   Os meses do ano são lidos em kango + `がつ`.
     -   4, 7 e 9 são `し`, `しち` e `く`
 
-### <font size="5"><code><ruby>日<rt>にち・か</rt></ruby></code></font> Dias cardinais
+### <font size="5"><code><ruby>日<rt>にち・か</rt></ruby></code></font> Dias cardinais (durações)
 
--   Usa wago até o 10. Também existe a `ついたち` para indicar o primeiro dia do mês.
+-   Usa wago do 2 até o 10.
+-   1 é `いちにち`.
 -   2 é `ふつか`.
 -   8 é `ようか`.
--   X4 é `Xじゅうよんにち` ou `Xじゅうよっか`. O último é mais comum pra dias do calendário.
+-   X4 é `Xじゅうよんにち`.
 -   X9 usa `く` ao invés de `きゅう`
--   20 é `はつか`
--   49 tem uma forma diferente no budismo: `しじゅうくにち`
+-   20 é `はつか`, ou menos comumente, `にじゅうにち`.
+-   49 tem uma forma específica no budismo: `しじゅうくにち` ao invés de `よんじゅうくにち`, se referindo à quantidade de dias passados desde a morte de alguém.
+    -   Isso se dá pela leitura onyomi de <font size="5"><code><ruby>四<rt>し</rt></ruby></code></font>, que é a mesma de <font size="5"><code><ruby>死<rt>し</rt></ruby></code></font> "morte".
+
+### <font size="5"><code><ruby>日<rt>にち・か</rt></ruby></code></font> Dias ordinais (calendário)
+
+-   Segue as mesmas regras dos dias cardinais, exceto:
+    -   1 é `ついたち`. Ou `いっぴ` em contextos formais e empresariais.
+    -   X4 é `Xじゅうよっか`.
 
 > [!IMPORTANT]
 > Para estadias, usa-se o contador <font size="5"><code><ruby>泊<rt>はく</rt></ruby></code></font> e conta-se as noites ao invés de dias completos.
@@ -228,6 +249,8 @@
 
 **Vinte anos é a idade em que alguém se torna adulto no Japão. Usa-se `はたち` ao invés de `二十`**
 
+-   Pelo kanji ser muito complicado, algumas pessoas usam `才` informalmente.
+
 ### <font size="5"><code><ruby>代<rt>だい</rt></ruby></code></font> Décadas de idade
 
 -   Usado para se referir às décadas de uma idade. Ex.: `20代の頃` "Nos meus 20 anos/Na casa dos meus 20 anos".
@@ -240,6 +263,8 @@
 
 -   Pode ser traduzido como "vezes"
 -   Quando é incerto se vai repetir, usar <font size="5"><code><ruby>度<rt>ど</rt></ruby></code></font>. Também usar para ocorrências de um evento.
+-   Para indicar a frequência em um período, usa-se `[período]に[frequência]`. Ex.: `週に一回` "Uma vez por semana, `二週間三回` "Três vezes a cada duas semanas".
+    -   Também podem ser usados outros contadores temporais para indicar a frequência. Ex.: `月に一日` "Um dia por mês".
 
 ### <font size="5"><code><ruby>階<rt>かい</rt></ruby></code></font> Andares
 
@@ -298,6 +323,21 @@
 ### <font size="5"><code><ruby>組<rt>くみ</rt></ruby></code></font> Pessoas e pares de luvas
 
 -   1 e 2 usam wago.
+
+### <font size="5"><code><ruby>男<rt>なん</rt></ruby>・<ruby>女<rt>じょ</rt></ruby></code></font> Ordem de nascimento
+
+-   Usado para demonstrar a ordem de nascimento dos filhos.
+-   <font size="5"><code><ruby>男<rt>なん</rt></ruby></code></font> é usado para homens e <font size="5"><code><ruby><ruby>女<rt>じょ</rt></ruby></code></font> para mulheres.
+-   2 é lido <font size="5"><code><ruby>次<rt>じ</rt></ruby></code></font> ao invés de <font size="5"><code><ruby>二<rt>に</rt></ruby></code></font>.
+
+> [!IMPORTANT]
+> Alguns japoneses costumam utilizar uma técnica chamada <font size="5"><code><ruby>輩<rt>はい</rt>行<rt>こう</rt>名<rt>めい</rt></ruby></code></font> para nomear os filhos. Consiste de usar um sufixo dado pelo número da ordem no nascimento + <font size="5"><code><ruby>郎<rt>ろう</rt></ruby></code></font>.
+> O sufixo do filho mais velho é <font size="5"><code><ruby>太<rt>た</rt>郎<rt>ろう</rt></ruby></code></font> ou <font size="5"><code><ruby>一<rt>いち</rt>郎<rt>ろう</rt></ruby></code></font>. Em seguida, a ordem é: <font size="5"><code><ruby>次<rt>じ</rt>郎<rt>ろう</rt></ruby>・<ruby>二<rt>じ</rt>郎<rt>ろう</rt></ruby></code></font>, <font size="5"><code><ruby>三<rt>さぶ</rt>郎<rt>ろう</rt></ruby></code></font>, <font size="5"><code><ruby>四<rt>し</rt>郎<rt>ろう</rt></ruby></code></font>, <font size="5"><code><ruby>五<rt>ご</rt>郎<rt>ろう</rt></ruby></code></font>, etc. Ex.: <font size="5"><code><ruby>丹<rt>たん</rt>次<rt>じ</rt>郎<rt>ろう</rt></ruby></code></font>, indicando ser o segundo filho.
+
+### <font size="5"><code>つ<ruby>子<rt>ご</rt></ruby></code></font> Nascimentos de uma gestação
+
+-   "Gêmeos" é <font size="5"><code><ruby>双<rt>ふた</rt>子<rt>ご</rt></ruby></code></font>.
+-   Os outros usam wago.
 
 ### <font size="5"><code><ruby>着<rt>ちゃく</rt></ruby></code></font> Roupas e trajes
 

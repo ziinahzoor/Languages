@@ -34,7 +34,7 @@
 -   <font size="5"><code><ruby>昼<rt>ひる</rt>間<rt>ま</rt></ruby></code></font> Dia (Período antes da noite)
     -   Mais comumente usada.
 -   <font size="5"><code><ruby>夕<rt>ゆう</rt>日<rt>ひ</rt></ruby></code></font> Pôr do Sol
--   <font size="5"><code><ruby>夕<rt>ゆう</rt>方<rt>がた</rt></ruby></code></font> Entardecer (Até cerca de 7 horas)
+-   <font size="5"><code><ruby>夕<rt>ゆう</rt>方<rt>がた</rt></ruby></code></font> Tarde/Entardecer (Das 3 até cerca de 7 horas)
 -   <font size="5"><code><ruby>晩<rt>ばん</rt></ruby></code></font> Anoitecer (Depois das 7)
     -   Não é muito utilizada.
 -   <font size="5"><code><ruby>夜<rt>よる</rt></ruby></code></font> Noite
@@ -42,6 +42,7 @@
 ### Períodos do ano
 
 -   <font size="5"><code><ruby>梅雨<rt>つゆ</rt></ruby></code></font> Temporada de chuva
+-   <font size="5"><code><ruby>頃<rt>ころ</rt></ruby></code></font> Época
 
 ### Prefixos
 
@@ -69,14 +70,18 @@
 
 ### Geral
 
--   <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Antes
+-   <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Antes (Diretamente)
     -   <font size="5"><code>の<ruby>前<rt>まえ</rt></ruby></code></font> Antes de
     -   É um substantivo, não um advérbio.
+-   <font size="5"><code><ruby>先<rt>さき</rt></ruby></code></font> Antes (Vagamente)
+    -   <font size="5"><code><ruby>先<rt>さき</rt></ruby>に</code></font> Antes de
+    -   É um substantivo, não um advérbio.
+    -   Tem a nuance de sequência, ordem ou prioridade.
 -   <font size="5"><code><ruby>今<rt>いま</rt></ruby></code></font> Agora/Atual
     -   `今から` Agora mesmo
 -   <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font> Depois
     -   <font size="5"><code><ruby>後<rt>ご</rt></ruby></code></font> Após/Depois de (advérbio)
-        -   <font size="5"><code>の<ruby>後<rt>あと</rt></ruby></code></font> Casual
+        -   <font size="5"><code>(の)<ruby>後<rt>あと</rt></ruby></code></font> Casual
     -   É um substantivo, não um advérbio.
     -   <font size="5"><code><ruby>後<rt>あと</rt></ruby>で</code></font> Mais tarde
         -   A partícula `で` geralmente é omitida no discurso casual.
@@ -101,10 +106,12 @@
 ## Intervalos e outras expressões
 
 -   <font size="5"><code><ruby>休<rt>やす</rt></ruby>み</code></font> Descanso/Férias/Feriado
+    -   Também é usado para indicar que um estabelecimento está "fechado" no momento.
     -   <font size="5"><code>お<ruby>休<rt>やす</rt></ruby>み</code></font> Teineigo
     -   `バケーション` Férias (Experiência)
 -   <font size="5"><code><ruby>休<rt>きゅう</rt>日<rt>じつ</rt></ruby></code></font> Feriado/Dia de folga
     -   Pode ser um feriado nacional ou designado pela instituição. Tem uma nuance mais oficial que `休み`.
+-   <font size="5"><code><ruby>祝<rt>しゅく</rt>日<rt>じつ</rt></ruby></code></font> Feriado nacional
 -   <font size="5"><code>ひる<ruby>休<rt>やす</rt></ruby>み</code></font> Hora do almoço
 -   `これから` De agora em diante
 -   `さいご` Último
@@ -113,9 +120,14 @@
 -   <font size="5"><code><ruby>時<rt>とき</rt></ruby></code></font> Momento/Ocasião/Quando
     -   Muito utilizado para indicar "quando/naquele momento". Com substantivos, trivialmente necessita da partícula `の`.
     -   Quando escrito em kanji, geralmente indica um momento. Quando escrito em kana, geralmente se refere a uma situação.
+-   <font size="5"><code><ruby>時<rt>じ</rt>差<rt>さ</rt></ruby></code></font> Diferença de tempo
 -   <font size="5"><code>この<ruby>間<rt>あいだ</rt></ruby></code></font> Naquele dia/No outro dia
--   <font size="5"><code><ruby>古<rt>ふる</rt></ruby>く</code></font> Velhos tempos/Muito tempo atrás
+-   <font size="5"><code><ruby>古<rt>ふる</rt></ruby>く</code></font> Tempos antigos/Muito tempo atrás
+    -   Mais histórico.
+-   <font size="5"><code><ruby>昔<rt>むかし</rt></ruby></code></font> Velhos tempos
+    -   Mais nostálgico, sentimental e pessoal.
 -   <font size="5"><code>この<ruby>頃<rt>ごろ</rt></ruby></code></font> Hoje em dia/Esses dias
+-   <font size="5"><code><ruby>放<rt>ほう</rt>課<rt>か</rt>後<rt>ご</rt></ruby></code></font> Pós-aula
 
 ## <ruby>月<rt>つき</rt></ruby> - Meses
 
@@ -181,6 +193,30 @@
 **Ao morrer o imperador recebe como nome póstumo o de seu período.**
 
 **O ano também pode ser determinado pelos Ciclos Sexagenários oriundos da China.**
+
+### <ruby>国<rt>こく</rt>民<rt>みん</rt></ruby>の<ruby>祝<rt>しゅく</rt>日<rt>じつ</rt></ruby> - Feriados Nacionais
+
+**Existem 16 feriados nacionais por ano. Para emendar com o fim de semana, alguns feriados são realizados em segundas-feiras específicas ao invés de dias específicos, sistema chamado de "Segunda-feira Feliz".**
+
+> [!NOTE]
+> Pela quantidade de feriados na semana, o período entre 29 de abril e 5 de maio é chamado de <font size="5"><code><ruby>黄<rt>おう</rt>金<rt>ごん</rt>週<rt>しゅう</rt>間<rt>かん</rt></ruby></code></font>, "Semana de Ouro". Durante esse período, as escolas e empresas costumam tornar todos os dias feriados, mesmo que não sejam oficiais.
+
+-   <font size="5"><code><ruby>元<rt>がん</rt>日<rt>じつ</rt></ruby></code></font> Ano Novo (1° de janeiro)
+-   <font size="5"><code><ruby>成<rt>せい</rt>人<rt>じん</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia da Maioridade (2ª segunda-feira de janeiro)
+-   <font size="5"><code><ruby>建<rt>けん</rt>国<rt>こく</rt>記<rt>き</rt>念<rt>ねん</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia da Fundação Nacional (11 de fevereiro)
+-   <font size="5"><code><ruby>天<rt>てん</rt>皇<rt>のう</rt>誕<rt>たん</rt>生<rt>じょう</rt>日<rt>び</rt></ruby></code></font> Aniversário do Imperador (23 de fevereiro, aniversário do Imperador Naruhito)
+-   <font size="5"><code><ruby>春<rt>しゅん</rt>分<rt>ぶん</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia do Equinócio de Primavera (20 ou 21 de março)
+-   <font size="5"><code><ruby>昭<rt>しょう</rt>和<rt>わ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia Showa (29 de abril)
+-   <font size="5"><code><ruby>憲<rt>けん</rt>法<rt>ぽう</rt>記<rt>き</rt>念<rt>ねん</rt>日<rt>び</rt></ruby></code></font> Dia da Memória da Constituição (3 de maio)
+-   <font size="5"><code>みどりの<ruby>日<rt>ひ</rt></ruby></code></font> Dia do Verde (4 de maio)
+-   <font size="5"><code>こどもの<ruby>日<rt>ひ</rt></ruby></code></font> Dia das Crianças (5 de maio)
+-   <font size="5"><code><ruby>海<rt>うみ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia do Mar (3ª segunda-feira de julho)
+-   <font size="5"><code><ruby>山<rt>やま</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia da Montanha (11 de agosto)
+-   <font size="5"><code><ruby>敬<rt>けい</rt>老<rt>ろう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia do Respeito aos Idosos (3ª segunda-feira de setembro)
+-   <font size="5"><code><ruby>秋<rt>しゅう</rt>分<rt>ぶん</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia do Equinócio de Outono (22, 23 ou 24 de setembro)
+-   <font size="5"><code>スポーツの<ruby>日<rt>ひ</rt></ruby></code></font> Dia dos Esportes (2ª segunda-feira de outubro)
+-   <font size="5"><code><ruby>文<rt>ぶん</rt>化<rt>か</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia da Cultura (3 de novembro)
+-   <font size="5"><code><ruby>勤<rt>きん</rt>労<rt>ろう</rt>感<rt>かん</rt>謝<rt>しゃ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia de Ação de Graças pelo Trabalho (23 de novembro)
 
 ## <ruby>天<rt>てん</rt>気<rt>き</rt></ruby> - Clima
 

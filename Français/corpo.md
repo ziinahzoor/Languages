@@ -20,6 +20,7 @@
 -   `Ventre` Barriga 🚹
 -   `Dos` Costas 🚹
 -   `Bras` Braço
+    -   `Coude` Cotovelo
     -   `Main` Mão
         -   `Doigt` Dedo
 -   `Jambe` Perna

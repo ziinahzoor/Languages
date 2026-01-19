@@ -12,7 +12,7 @@
 > Nas seções de pronomes, note que por similaridade semântica, também estão inclusos alguns advérbios, principalmente os interrogativos.
 
 > [!TIP]
-> Diversos termos relacionados à gramática estão disponíveis [aqui](gramática.md).
+> Diversos termos relacionados à gramática estão disponíveis [aqui](Linguística/gramática.md).
 > Vários sites, informações utilitárias e fontes de pesquisa estão disponíveis [aqui](utils.md).
 > Uma lista das provas de proficiência mais conhecidas de algumas linguagens está disponível [aqui](provas.md).
 

@@ -6,3 +6,4 @@
 -   `Ο ένας τον άλλον` Um ao outro
 -   `Στην ώρα μου` Na hora/Em tempo
 -   `Ας πούμε` Digamos/Por assim dizer
+-   `...και μη` ...ou não.

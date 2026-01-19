@@ -19,15 +19,15 @@
     </tr>
     <tr>
         <th>Gêneros</th>
-        <td>3: Masculino, feminino e neutro</td>
+        <td>3: Masculino (<code>αρσενικό ✴️</code>), feminino (<code>θηλυκό ✴️</code>) e neutro (<code>ουδέτερο ✴️</code>)</td>
     </tr>
     <tr>
         <th>Números</th>
-        <td>2: Singular e plural</td>
+        <td>2: Singular (<code>ενικός</code>) e plural (<code>πληθυντικός</code>)</td>
     </tr>
     <tr>
-        <th>Casos</th>
-        <td>4: Nominativo, acusativo, genitivo e vocativo</td>
+        <th>Casos (<code>Πτώσεις 🚺</code>)</th>
+        <td>4: Nominativo (<code>ονομαστική 🚺</code>), acusativo (<code>αιτιατική 🚺</code>), genitivo (<code>γενική 🚺</code>) e vocativo (<code>κλητική 🚺</code>)</td>
     </tr>
     <tr>
         <th>Artigos</th>
@@ -75,15 +75,15 @@
 -   As formas femininas costumam terminar em `-η` e `-α`.
 -   As formas neutras costumam terminar em `-ο`, `-ύ`, `-ί` e `-ικο`.
 
-## Casos e Plural
+## Οι Πτώσειç και ο Πληθυντικός - Casos 🚺 e Plural
 
--   As terminações seguem a tabela:
+-   Existem 4 casos. As terminações seguem a tabela:
 
 <table>
     <thead>
         <tr>
-            <th></th>
-            <th>Gênero</th>
+            <th>Número</th>
+            <th>Caso</th>
             <th colspan="4">Masculino</th>
             <th colspan="2">Feminino</th>
             <th colspan="5">Neutro</th>
@@ -152,22 +152,23 @@
     </tr>
 </table>
 
--   ◆: Também pode ser feminino
--   O vocativo sempre será igual ao acusativo, exceto nos substantivos terminados em `-ος`, que se tornam `-ε` ao invés de `-ο`.
+> [!IMPORTANT]
+> ◆: Também pode ser feminino
+
+-   Existe também o vocativo, que será sempre igual ao acusativo, exceto nos substantivos terminados em `-ος`, que se tornam `-ε` ao invés de `-ο`.
 -   Note que nos masculinos, exceto no plural acusativo, todas as formas perdem o `-ς` do nominativo.
 -   Note que nas terminações exclusivamente femininas singulares, somente o genitivo é diferente (acrescenta `-ς`).
 -   Note que nas terminações neutras, o nominativo e o acusativo são sempre iguais.
 
-### Dativo
+> [!IMPORTANT]
+> O dativo não existe no grego moderno. Para construções dativas, usa-se o genitivo ou orações preposicionais.
 
--   O dativo é formado pela preposição `σε` + artigo no acusativo + substantivo no acusativo.
-
-## Artigos
+## Τα Άρθρα - Artigos ✴️
 
 > [!NOTE]
 > Os artigos só não acompanham o substantivo no vocativo ou quando o substantivo descreve o sujeito usando a cópula.
 
-### Definidos
+### Τα Οριστικά - Definidos
 
 <table>
     <thead>
@@ -217,7 +218,7 @@
 
 **Ao usar a preposição `σε` com um artigo, eles se fundem em `σ-` + artigo.**
 
-### Indefinidos
+### Τα Αόριστα - Indefinidos
 
 **Não existem artigos indefinidos no plural.**
 

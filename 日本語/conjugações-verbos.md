@@ -167,13 +167,19 @@
 
 -   `させる` para verbos ichidan.
 -   Geralmente significa obrigar ou permitir fazer algo. Ou nenhum, o agente causador pode ser estabelecido as condições para que a ação ocorra, por exemplo "fiz com que o cachorro tomasse o remédio (tendo colocado-o em sua comida)".
--   O agente que sofre a causa geralmente é acompanhado pela partícula `を` ou `に` dependendo se ele realiza a ação causada diretamente ou indiretamente. Ex.: `犬を食べさせる` (Fiz o cachorro comer) vs `犬に肉を食べさせる` (Fiz o cachorro comer carne).
+-   O agente que sofre a causa (ou realiza a ação) geralmente é acompanhado pela partícula `を` ou `に` dependendo se ele realiza a ação causada diretamente ou indiretamente. Ex.: `犬を食べさせる` (Fiz o cachorro comer) vs `犬に肉を食べさせる` (Fiz o cachorro comer carne).
+    -   Geralmente a estrutura é `[Agente causador]は[Agente da ação]を[Verbo]` ou `[Agente causador]は[Agente da ação]に[Objeto da ação]を[Verbo]`
+    -   Referindo ao agente da ação, `に` geralmente indica permissão e `を` indica obrigação.
 -   `ある` não possui forma causativa.
+-   Exceções:
+    -   `する` → `させる`
+    -   `くる` → `こさせる`
 
 <h3 id="var_causativo-passiva"><ruby>使<rt>し</rt>役<rt>えき</rt>受<rt>うけ</rt>身<rt>み</rt>形<rt>けい</rt></ruby> - Forma causativo-passiva (せられる)</h3>
 
 -   `させられる` para verbos ichidan.
 -   Junção da forma passiva à forma causativa, o que significa "ser feito a fazer algo".
+-   A pessoa forçada é o sujeito da frase e a pessoa que força é objeto indireto.
 
 ---
 
@@ -205,6 +211,7 @@
 
 -   É como o oposto da forma educada. Indica ódio, desprezo ou desdém.
 -   `やがる` é um verbo auxiliar que funciona da mesma forma que adicionar um palavrão relacionado ao verbo. Não pode ser usado em contextos positivos.
+-   Também pode ser sufixado à forma-て do outro verbo, criando o aspecto progressivo nele ao invés de em si mesmo.
 
 <h3 id="var_desejo">たい<ruby>形<rt>けい</rt></ruby> - Forma de desejo (たい)</h3>
 
@@ -218,15 +225,17 @@
 
 <h3 id="var_aparente">そう<ruby>形<rt>けい</rt></ruby> - Forma aparente (そう)</h3>
 
--   Indica que a parece que alguma ação vai acontecer.
--   Quando usado com a forma plana do verbo, indica que você ouviu alguém dizer que alguma ação vai acontecer.
+-   Indica que a parece que alguma ação vai acontecer (nuance visual).
+-   Quando usado com a forma plana do verbo, indica que você ouviu alguém dizer que alguma ação vai acontecer (nuance auditiva).
 -   Aceita `です` no fim.
 
-<h3 id="var_imperativa-educada">Forma imperativa educada (なさい)</h3>
+<h3 id="var_imperativa-educada">Forma imperativa educada ou instrucional (なさい)</h3>
 
--   É mais educada que a <a href="#imperativa">forma imperativa</a>, mas continua sendo um comando, e portanto deve-se evitar usar com pessoas de maior autoridade.
+-   É mais educada que a <a href="#imperativa">forma imperativa</a> e tem um tom instrutivo, mas continua sendo um comando, e portanto deve-se evitar usar com pessoas de maior autoridade.
 -   Quando usada com pessoas de mais proximidade, geralmente indica um pedido ou desejo afetuoso ao invés de um comando propriamente dito.
     -   Um exemplo comum é `おやすみなさい` "tenha uma boa noite" (ou literalmente "descanse").
+-   Casualmente abreviada para `な`.
+    -   Diferencia-se da abreviação da forma imperativa negativa pela terminação na base い ao invés da forma de dicionário.
 
 <h3 id="var_proposito">Forma de propósito (に行く・に来る)</h3>
 
@@ -262,6 +271,29 @@
 -   Descreve que algo vai parar de ser feito.
 -   Adiciona-se uma conjugação de <font size="5"><code><ruby>終<rt>お</rt></ruby>わる</code></font> à base `い` do verbo.
 
+<h3 id="var_continuidade">Forma de continuidade</h3>
+
+-   Descreve que algo vai continuar sendo feito.
+-   Adiciona-se uma conjugação de <font size="5"><code><ruby>続<rt>つづ</rt></ruby>ける</code></font> à base `い` do verbo.
+
+<h3 id="var_honorífica">Forma honorífica</h3>
+
+-   Usada para se exaltar outra pessoa ao falar dela.
+-   Consiste de `お・ご` + verbo na base `い` + `に` + conjugação de `なる`. Ex.: `書く` → `お書きになります`.
+
+<h3 id="var_humilde">Forma humilde</h3>
+
+-   Usada para se rebaixar ao falar com outra pessoa.
+-   Consiste de `お・ご` + verbo na base `い` + conjugação de `する`. Ex.: `書く` → `お書きします`.
+    -   Para verbos `する`, basta acrescentar o prefixo honorífico do substantivo.
+    -   A forma humilde de `する` é `いたす`, então é possível ser ainda mais humilde utilizando esta forma. Ex.: `書く` → `お書きいたします`.
+
+<h3 id="var_pedido-humilde">Forma de pedido humilde</h3>
+
+-   Usada para se rebaixar ao realizar um pedido a outra pessoa.
+-   Consiste de `お` + verbo na base `い` + conjugação de `ください`. Ex.: `書く` → `お書きください`.
+-   Pode ser usada com pessoas de maior status, diferente da forma instrucional `なさい`.
+
 <h3 id="var_composta">Forma composta</h3>
 
 -   Usada para juntar um verbo com outro verbo ou um substantivo.
@@ -292,8 +324,9 @@
 
 <h4>Forma de intenção</h4>
 
--   Forma atributiva + `つもり`.
+-   Forma atributiva + `つもり` + `だ`.
 -   Indica a intenção de realizar uma ação.
+-   Se a intenção é mais formalizada, ou seja, planeja-se realizar a ação, pode-se usar a forma atributiva + <font size="5"><code><ruby>予<rt>よ</rt>定<rt>てい</rt></ruby></code></font> +`だ`
 
 <h4>Forma opinativa</h4>
 
@@ -355,6 +388,8 @@
     -   `くれる` → `くれ`
     -   `くださる` → `ください`
     -   `ある` → `あれ`
+    -   `する` → `しろ`
+    -   `くる` → `こい`
 
 ---
 
@@ -403,6 +438,7 @@
 -   Indica a possibilidade de algo ou que algo parece acontecer. Indica que tudo leva a crer que algo é verdade.
 -   Também pode ser utilizado para confirmações, como a partícula `ね`. Porém, é mais utilizado para confirmar fatos do que para expressar um sentimento mútuo.
 -   `だろう` pode ser abreviado para `だろ`, e `でしょう` para `でしょ`.
+-   Para perguntas, pode ser utilizado como a expressão "eu me pergunto..." em `...のだろうか`, similar à partícula `かな`.
 
 > [!TIP]
 > Tem um sentido parecido ao futuro do pretérito em português.
@@ -490,6 +526,8 @@
 -   No final da frase serve como comando ou pedido. No último caso é bom adicionar `ください` para ser educado
     -   No negativo, fica `ないで`.
     -   Note que para ser ainda mais honorífico (contextos empresariais), pode-se usar `お` + radical `い` + `ください` ao invés da forma `て`.
+    -   Para ser mais imperativo, pode-se usar `くれ` ao invés de `ください`.
+    -   Pode ser usado no fim do causativo para pedir permissão ou oferecer uma ação voluntária.
 -   Exceções às mudanças eufônicas:
     -   `行く` → `行って`
     -   `問う` → `問うて`
@@ -531,6 +569,9 @@
 -   Também deve ser usado para frases fixas, rotinas e regras.
     -   `ことにする`, `ことになる` `ことがある`, `ことができる`.
 
+> [!TIP]
+> Enquanto `こと` se refere à ideia da ação, `の` se remete mais a instâncias específicas (o "imediatismo"). Ex.: `手伝うのが好き` gostar de ajudar em alguma situação, ajudar de forma concreta; `手伝うことが好き` gostar do ato de ajudar, da ideia abstrata de ajudar.
+
 ### Formas なる・する
 
 > [!TIP]
@@ -540,7 +581,7 @@
 > -   Objeto + を + verbo + する.
 > -   Objeto + の + verbo + を + する.
 
-### になる
+#### になる
 
 -   Sentido de algo "se tornar".
     -   O verbo se liga diretamente (sem a partícula) com adjetivos-い, se tornando `くなる`.
@@ -561,7 +602,7 @@
 -   É utilizado com adjetivos e substantivos.
 -   Quando usado com adjetivos significa "transformar algo em outra coisa", "fazer algo ser...".
     -   O verbo se liga diretamente (sem a partícula) com adjetivos-い, se tornando `くする`.
--   Quando usado com substantivos significa "decidir sobre algo".
+-   Quando usado com substantivos significa "decidir sobre algo", "escolher".
     -   Em um sentido que tem-se controle do resultado, em que a escolha pode ser feita arbitrariamente, não dependendo de uma limitação.
 
 ##### ようにする
@@ -571,7 +612,8 @@
 
 ##### ことにする
 
--   Decidir realizar alguma coisa. Mais literalmente "Será feito que seja assim".
+-   Decidir realizar alguma ação. Mais literalmente "Será feito que seja assim".
+-   Usado com verbos.
 
 #### とする
 

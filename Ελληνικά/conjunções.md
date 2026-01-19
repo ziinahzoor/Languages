@@ -1,4 +1,4 @@
-# Conjunções
+# Οι Σύνδεσμοι - Conjunções 🚹
 
 -   `Και` E/Também
     -   Pode ser repetido antes do primeiro item para indicar "tanto... quanto..."
@@ -23,3 +23,5 @@
 -   `Μήπως` Talvez
 -   `Αφού` Depois/Já que
 -   `Μόλις` Assim que/Uma vez que
+
+# Τα Επιφωνήματα - Interjeições ✴️

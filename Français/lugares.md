@@ -1,5 +1,9 @@
 # Les Lieux - Lugares
 
+> [!NOTE]
+> Cidades e ilhas costumam acompanhar a preposição `à`.
+> Países e regiões masculinas costumas utilizar a preposição `au`, enquanto que os terminados em `-e`, geralmente femininos, costumam usar a preposição `en`.
+
 ## Les Mers et les Océans - Os Mares e Oceanos
 
 -   `Méditerranée` Mediterrâneo 🚺
@@ -20,6 +24,8 @@
 
 ### Afrique - África
 
+-   `Maroc` Marrocos
+
 ### Europe - Europa
 
 -   `Royaume-Uni` Reino Unido
@@ -32,6 +38,11 @@
 -   `Suisse` Suiça
 -   `Grèce` Grécia
 -   `Portugal`
+-   `Pays-Bas` Países Baixos
+
+#### Escandinávia
+
+-   `Danemark` Dinamarca 🚹
 
 #### Europe de l'Est - Leste Europeu
 
@@ -40,6 +51,7 @@
 -   `Chine` China
 -   `Japon` Japão
 -   `Inde` Índia
+-   `Turquie` Turquia
 
 ### Océanie - Oceania
 
@@ -101,6 +113,7 @@
 -   `Baraque` Barraco (Gíria) 🚺
 -   `Foyer` Lar
 -   `Appartement` Apartamento
+    -   `Appart` Abreviação
 -   `Toilette` Banheiro 🚺
     -   Sem chuveiro/banheira
     -   Costuma-se dizer `les toilettes` na França e `la toilette` em Quebec
@@ -139,18 +152,22 @@
 -   `Gare` Estação de trem
 -   `Restaurant` Restaurante
     -   `Resto` Abreviação
+-   `Brasserie` Cervejaria
+    -   Um tipo de restaurante mais informal que geralmente vende pratos tradicionais franceses e algumas bebidas.
 -   `Aéroport` Aeroporto
 -   `Hôpital` Hospital
 -   `Hôtel` Hotel
 -   `Épicerie` Mercearia
 -   `Supermarché` Supermercado
-    -   `Marché` Mercado
+    -   `Marché` Mercado/Feira 🚹
 -   `Magasin` Loja
 -   `École` Escola
+    -   `Maternelle` Maternal
+    -   `Primaire` Ensino fundamental I
     -   `Collège` Ensino fundamental II
     -   `Lycée` Ensino médio
 -   `Cinéma` Cinema
-    -   `Ciné`
+    -   `Ciné` Abreviação
 -   `Parc` Parque
 -   `Zoo` Zoológico
 -   `Boulangerie` Padaria
@@ -178,6 +195,7 @@
 -   `Pont` Ponte
 -   `Salle de classe` Sala de aula
 -   `Salle de sport` Academia
+-   `Gymnase` Ginásio
 -   `Metro` Metrô
 -   `Montagne` Montanha
 -   `Recéption` Recepção
@@ -193,6 +211,8 @@
 -   `Arrondissement` Distrito
 -   `Quartier` Bairro
 -   `Hôtel de ville` Prefeitura
+-   `Hôtel de police` Delegacia/Centro policial 🚹
+-   `Commissariat de police` Delegacia 🚹
 -   `Place` Praça/Local/Lugar (público ou ocupado por algo)
 -   `Lieu` Lugar (geral)
 -   `Endroit` Lugar (específico)
@@ -241,6 +261,10 @@
 -   `Bâtiment` Edifício/Prédio
 -   `Côte` Costa
 -   `Douane` Alfândega
+-   `Voie` Via/Plataforma/Trilho 🚺
+-   `Service` Departamento (de uma empresa)
+-   `Comptoir d'enregistrement` Balcão de check-in
+-   `Contrôle de sûreté` Controle de segurança
 
 ## France - França
 

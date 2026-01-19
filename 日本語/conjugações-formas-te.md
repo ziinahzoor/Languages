@@ -16,8 +16,8 @@
 	<tr>
         <td><a href="#proibitiva">Proibitiva (て+は+いけない)</a></td>
         <td><a href="#obrigativa">Obrigativa (なく+て+は+いけない)</a></td>
-        <td><a href="#solicitativa">Solicitativa (て+いいですか)</a></td>
-        <td><a href="#solicitativa-optativa">Solicitativa optativa (て+もいいですか)</a></td>
+        <td><a href="#solicitativa">Solicitativa (て+いい)</a></td>
+        <td><a href="#solicitativa-optativa">Solicitativa optativa (て+もいい)</a></td>
 	</tr>
 	<tr>
         <td><a href="#desiderativa">Solicitativa desiderativa (て+ほしいい)</a></td>
@@ -54,7 +54,8 @@
 <h2 id="var_resultativa">Forma て+ある - Resultativa</h2>
 
 -   Usado com verbos transitivos.
--   Semelhante à forma て+いる. O verbo coloca o objeto em um estado contínuo.
+-   Semelhante à forma て+いる, porém o verbo coloca o objeto em um estado contínuo. Ou seja, o sujeito é o que sofreu a ação do verbo, e não quem realizou.
+    -   De certa forma, sobrepõe-se ao uso da voz passiva no português.
 -   Possui uma nuance em que a ação foi feita por alguém por algum motivo.
 
 <h2 id="var_continuativa-futura">Forma て+いく - Continuativa futura</h2>
@@ -70,6 +71,7 @@
 
 -   Significa experimentar fazer a ação do verbo (com o interesse de ver o resultado).
 -   Similar em nuance ao português "eu vou ver se...".
+-   Quando usado como sugestão ou pedido, pode ser abreviado para `てみ`.
 
 <h2 id="var_concessiva">Forma て+も - Concessiva</h2>
 
@@ -109,29 +111,42 @@
 -   Vale lembrar que `なく` é a forma conjuntiva de `ない`.
 -   Muitas vezes a forma completa é abreviada apenas para `なくちゃ`.
 -   Também pode ser escrita através da construção condicional `なければ` ao invés de `なくては`, que pode ser abreviada para `なきゃ`.
--   `いけない` também pode ser substituído por `ならない`.
+-   `いけない` também pode ser substituído por `ならない`, ou, casualmente, `だめ`.
     -   Tem uma nuance menos pessoal, como a obrigação vir de uma lei, regra, ou expectativa social.
+-   Existe ainda outra forma: `ない` + `と` + `いけない`
+    -   Costuma ser abreviado para apenas `ないと`.
+    -   `いけない` também pode ser substituído por `だめ`, porém não por `ならない`.
+    -   Tem uma nuance mais forte e portanto indica ações que não podem, em hipótese alguma, deixar de ser feitas.
 
-<h2 id="var_solicitativa">Forma て+いいです（か）- Permissiva/Solicitativa</h2>
+<h2 id="var_solicitativa-permissiva">Forma て+いい - Solicitativa-permissiva</h2>
 
 -   Forma de permissão: Dá ou pede-se permissão para realizar alguma ação ou pergunta-se se ficará tudo bem ao realizá-la.
 -   Pode-se responder utilizando a forma afirmativa ou negativa da frase.
 -   Em sonkeigo, usa-se `て` + `よろしい`.
 
-<h2 id="var_solicitativa-optativa">Forma て+もいいです（か）- Permissiva/Solicitativa optativa</h2>
+<h3 id="var_solicitativa-optativa">Forma て+もいい - Solicitativa-permissiva optativa</h3>
 
 -   Tem uma nuance mais "tudo bem MESMO SE..."?
 -   Funciona como a forma permissiva, porém tem um caráter mais optativo: Dá ou pede-se permissão para determinada ação, porém ela não necessariamente será realizada, ou seja, pede-se permissão para a POSSIBILIDADE de realizar a ação.
+-   Apesar da nuance, no dia-a-dia seu uso é igual à da forma permissiva/solicitativa, sendo apenas sutilmente mais formal.
 -   Também pode ser utilizada com adjetivos e substantivos.
--   Apesar da nuance, no dia-a-dia só é um pouco mais formal que a forma solicitativa.
+-   Para uma nuance mais de solicitação de conselho ou informação, pode-se usar a construção: Forma `たら` + `いいですか`.
 
-<h3 id="var_optativa">Forma なくて+もいいです - Solicitativa optativa</h3>
+<h3 id="var_optativa">Forma なくて+もいい - Optativa</h3>
 
 -   Indica ao ouvinte que a ação não é necessária, dando-o permissão para realizá-la somente se quiser.
+-   No discurso casual, `も` pode ser omitido.
 
-<h3 id="var_desiderativa">Forma て+ほしいい - Solicitativa desiderativa</h3>
+<h2 id="var_solicitativa-benefactiva">Forma て+くれない - Solicitativa benefactiva</h2>
+
+-   Indica que o locutor solicita ao ouvinte ou outra parte a realização de uma ação. "Você pode...?/Poderia...?".
+-   Também pode-se usar `て`+`もらえない`.
+-   A partícula interrogativa `か` é opcional.
+
+<h2 id="var_solicitativa-desiderativa">Forma て+ほしいい - Solicitativa desiderativa</h2>
 
 -   Indica que o locutor deseja que o ouvinte ou outra parte realize uma ação. "Quero que você.../Quero que ele...".
+-   A pessoa que deseja-se que realize a ação é demarcada com a partícula `に`. Se omitida, pressupõe-se que seja o ouvinte.
 
 <h2 id="var_antecipativa">Forma て+おく - Antecipativa</h2>
 
@@ -141,13 +156,16 @@
 <h2 id="var_sequencial">Forma て+から - Sequencial</h2>
 
 -   Indica que a frase seguinte vai ocorrer depois que a primeira ocorrer. Não indica uma implicação lógica, apenas uma ordem para as ações. "Depois de", "desde".
+-   Uma alternativa a essa construção é forma `た` + <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font>. Porém costuma ser mais encontrada na escrita.
+    -   Também tem uma nuance mais factual do que narrativa.
 
 <h2 id="var_completa">Forma て+しまう - Não-intencional/Completa</h2>
 
 -   Indica que algo foi feito acidentalmente ou de forma não-intencional, como a construção "acabei fazendo".
--   `しまう` é um verbo que significa "terminar" ou "acabar".
 -   Também indica que uma ação foi feita completamente. As funções só podem ser diferenciadas pelo contexto.
--   Pode ser abreviada para `ちゃう`.
+-   Se colocarmos em um sentido único, é dizer que algo chegou em um ponto em que não é possível voltar atrás, mesmo que seja algo temporário.
+-   `しまう` é um verbo que significa "terminar" ou "acabar".
+-   Pode ser abreviada para `ちゃう` (て) ou `じゃう` (で).
 
 <h2 id="var_benefactiva">Forma て+Verbo de transferência - Benefactiva/De favor</h2>
 
@@ -156,6 +174,7 @@
     -   `て` + `やる`: Mais casual.
 -   Quando alguém faz algo para você ou seu 内: `て` + `くれる`.
     -   `て` + `くださる`: Sonkeigo.
+    -   `て` + `くれ`: Casual
 -   Quando alguém faz algo por você ou seu 内: `て` + `もらう`.
     -   `て` + `いただく`: Kenjougo.
     -   Tem a nuance de um favor ao invés de um pedido simples.

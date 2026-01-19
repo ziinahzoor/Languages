@@ -23,16 +23,35 @@
 -   `Durante` Por/Durante
     -   Mais literário
 -   `Le long de` Ao longo de
--   `Au bout de` No fim de
 -   `Il y a` Há (temporal)
     -   `Y a` Informal
--   `Au lieu de` Ao invés de
 -   `Sauf` Exceto
--   `En face de` Em frente a
 -   `Depuis` Desde/A partir de/Por/Faz (temporal)
 -   `Dès` Assim que/Logo que/Desde (temporal)
--   `À cause de` Por causa de
--   `Au bord de` Na beira de
 -   `Contre` Contra
+-   `Lors de` Durante
+-   `Selon` De acordo com
+-   `Tandis` Enquanto
+
+## À
+
+-   `À cause de` Por causa de
 -   `À travers` Através de
+-   `À l'attention de` Da parte de
+
+## Au
+
+-   `Au lieu de` Ao invés de
+-   `Au bord de` Na beira de
+-   `Au bout de` No fim de
+-   `Au sein de` Dentro de
+-   `Au nom de` Em nome de
+-   `Au sujet de` A respeito de
+
+## En
+
+-   `En face de` Em frente a
+
+## Sur
+
 -   `Sur le point de` Prestes a/À beira de

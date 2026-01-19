@@ -1,9 +1,26 @@
 # Preposições
 
 -   `Aus` De/Do/Da (From)
+    -   Indica origem (de movimento) e composição.
+    -   Tem o sentido de saída de algo.
+-   `Von` De
+    -   Indica posse ou um ponto de partida.
+-   `Bis` Até
 -   `Zu` Para (To)
     -   `Zum` Zu + dem/Zu + einem
 -   `Für` Para (For)
+-   `Nach` Para (Em direção a)
 -   `Vor` Em frente
--   `Im` No/Na/Em
-    -   Contração de `in dem`
+-   `In` Em
+    -   Costuma indicar estar "dentro" de algo ou um espaço limitado
+    -   `Im` No/Na/Em
+        -   Contração de `in dem`
+    -   `Ins` Para o/Para a
+        -   Contração de `in das`
+-   `An` Em
+    -   Costuma indicar estar em alguma superfície, geralmente vertical.
+    -   Usado também com dias da semana.
+    -   `Am` No/Na/Em
+        -   Contração de `an dem`
+-   `Um` Em/No/Na
+    -   Costuma indicar um ponto específico no tempo, como uma hora específica.

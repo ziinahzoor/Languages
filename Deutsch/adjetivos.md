@@ -5,6 +5,7 @@
 -   `Nett` Legal (Nice)
 -   `Klug` Inteligente
 -   `Jung` Jovem
+-   `Hässlich` Feio
 -   `Schön` Bonito
 -   `Gut` Bom
 -   `Schlecht` Ruim/Mau
@@ -14,7 +15,7 @@
 -   `Warm` Morno
 -   `Schatz` Querido
 -   `Wunderbar` Maravilhoso
--   `Aufregend` Excitante
+-   `Aufregend` Emocionante/Empolgante
 -   `Laut` Barulhento
 -   `Elegant` Elegante
 -   `Reich` Rico
@@ -26,6 +27,7 @@
 -   `Toll` Ótimo/Legal
 -   `Alt` Velho
 -   `Neu` Novo
+-   `Modern` Moderno
 -   `Billig` Barato
 -   `Perfekt` Perfeito
 -   `Stressig` Estressante
@@ -43,6 +45,16 @@
 -   `Richtig` Certo/Correto
 -   `Lustig` Engraçado
 -   `Laut` Barulhento/Alto
+-   `Geöffnet` Aberto
+-   `Bequem` Confortável
+-   `Sauber` Limpo
+-   `Hell` Claro
+-   `Dunkel` Escuro
+-   `Fantastisch` Fantástico
+-   `Müde` Cansado
+-   `Nervös` Nervoso/Ansioso
+-   `Aufgeregt` Animado
+-   `Schick` Chique
 
 ## Nacionalidades
 

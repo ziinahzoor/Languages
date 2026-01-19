@@ -91,6 +91,7 @@
 -   `Payaso` Palhaço
 -   `Escritor`
 -   `Taxista`
+-   `Juez` Juíz
 
 ## La Familia - Família
 

@@ -41,3 +41,9 @@
 
 -   Duplica-se o verbo (alternativamente pode-se colocar <font size="6"><code><ruby>一<rt>yi</rt></ruby></code></font> entre os dois).
 -   Indica que algo só ocorre por um tempo. Ex.: <font size="6"><code><ruby>走<rt>zǒu</rt></ruby></code></font> "Andar" → <font size="6"><code><ruby>走<rt>zǒu</rt>走<rt>zǒu</rt></ruby></code></font> "Passear"; <font size="6"><code><ruby>等<rt>děng</rt></ruby></code></font> "Esperar" → <font size="6"><code><ruby>等<rt>děng</rt>一<rt>yi</rt>等<rt>děng</rt></ruby></code></font> "Esperar um pouco"
+
+## Imperativo
+
+-   Comandos são realizados usando apenas o verbo plano.
+-   Comandos negativos são feitos usando <font size="6"><code><ruby>不<rt>bù</rt>要<rt>yào</rt></ruby></code></font> ou <font size="6"><code><ruby>别<rt>bié</rt></ruby></code></font>.
+-   Para maior educação, pode-se acrescentar <font size="6"><code><ruby>请<rt>qǐng</rt></ruby></code></font> no começo da frase ou a partícula de sugestão <font size="6"><code><ruby>吧<rt>ba</rt></ruby></code></font> no final.

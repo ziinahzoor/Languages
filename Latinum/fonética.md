@@ -7,9 +7,10 @@
 -   `v` [w]
 -   `z` [dz] ou [z] (depende da palavra)
 -   `y` [ʏ]
--   `ae` [e]
 -   `æ` [e]
--   `oe` [e]
+-   `ae` [e] no Latim medieval. No clássico é pronunciado como um ditongo.
+-   `oe` [e] no Latim medieval. No clássico é pronunciado como um ditongo.
 -   `œ` [e]
 -   `ng` [ɲ]
 -   `sc` [ʃ]
+-   `x` [ks]

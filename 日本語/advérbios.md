@@ -7,7 +7,7 @@
     -   `ええ`
 -   `もちろん` Claro/Com certeza/Claramente
 -   `きっと` Certamente/Sem dúvidas
--   `ぜひ` Certamente/Com certeza
+-   <font size="5"><code><ruby>是<rt>ぜ</rt>非<rt>ひ</rt></ruby></code></font> Certamente/Com certeza
     -   Possui um tom encorajador
 -   <font size="5"><code><ruby>必<rt>かなら</rt></ruby>ず</code></font> Sempre (Sem exceção)/Certamente/Sem dúvidas
 -   `なるほど` Correto/De fato
@@ -25,25 +25,24 @@
 -   `うまく` Bem/Com sucesso/Com êxito
 -   `ちょうど` Exatamente/Precisamente
 -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby>に</code></font> Realmente/Verdadeiramente
--   `ため` Para/Com o propósito de/Em consideração a
-    -   É mais utilizado como a preposição "para", indicando propósito ou que se está fazendo algo em consideração a alguém.
-    -   Tem um sentido semelhante à partícula `へ`.
 -   `ちゃんと` Apropriadamente/Corretamente
--   `はやく` Cedo/Rapidamente
--   `おそく` Tarde/Vagarosamente
+-   <font size="5"><code><ruby>速<rt>はや</rt></ruby>く</code></font> Rapidamente
+-   <font size="5"><code><ruby>速<rt>はや</rt></ruby>めに</code></font> Um pouco mais rápido
+-   <font size="5"><code><ruby>遅<rt>おそ</rt></ruby>く</code></font> Vagarosamente
 -   `ゆっくり` Vagarosamente/Sem pressa
 -   <font size="5"><code><ruby>初<rt>はじ</rt></ruby>めて</code></font> Pela primeira vez
--   `ゆっくり` Devagar/Sem pressa
 -   `つい` Sem querer/Por engano
 -   `うっかり` Descuidadamente
 -   <font size="5"><code><ruby>結<rt>けっ</rt>構<rt>こう</rt></ruby></code></font> Satisfatoriamente/Bastante/Quase sempre
     -   Também pode ser utilizado para recusar alguma coisa.
 -   `まったく` Inteiramente/Completamente
+-   `すっかり` Inteiramente/Completamente/Totalmente
 -   <font size="5"><code><ruby>全<rt>ぜん</rt>然<rt>ぜん</rt></ruby></code></font> Nem um pouco/De forma alguma
     -   Usado com frases negativas
 -   `まっすぐ` Direto/Diretamente
 -   `ぴったり` Justo/Firmemente/Perfeitamente
 -   `うまく` Habilmente/Habilidosamente
+-   <font size="5"><code><ruby>特<rt>とく</rt></ruby>に</code></font> Particularmente/Especialmente
 -   <font size="5"><code><ruby>別<rt>べつ</rt></ruby>に</code></font> Não particularmente/Separadamente
     -   Usado com frases negativas no primeiro caso.
 -   <font size="5"><code><ruby>別<rt>べつ</rt>々に</ruby></code></font> Separadamente
@@ -51,24 +50,43 @@
 -   <font size="5"><code><ruby>砕<rt>くだ</rt>けた</ruby><ruby>言<rt>い</rt>い</ruby><ruby>方<rt>かた</rt></ruby></code></font> Casualmente/De maneira informal
 -   `たまたま` Por acaso/Inesperadamente
     <font size="5"><code><ruby>細<rt>こま</rt></ruby>かく</code></font> Minuciosamente
--   <font size="5"><code><ruby>突<rt>とつ</rt>然<rt>ぜん</rt></ruby></code></font> De repente/Abruptamente/Inesperadamente
+-   <font size="5"><code><ruby>急<rt>きゅう</rt></ruby>に</code></font> De repente/Abruptamente/Inesperadamente
+    -   <font size="5"><code><ruby>突<rt>とつ</rt>然<rt>ぜん</rt></ruby></code></font> Formal
 -   <font size="5"><code><ruby>必<rt>ひっ</rt>死<rt>し</rt></ruby>に</code></font> Freneticamente/Desesperadamente
     -   <font size="5"><code><ruby>必<rt>ひっ</rt>死<rt>し</rt></ruby>になって</code></font> Desesperadamente/Pela própria vida
+-   <font size="5"><code><ruby>各<rt>かく</rt>自<rt>じ</rt></ruby></code></font> Cada um/Individualmente
+-   `ずっと` Continuadamente/O tempo inteiro
+    -   Também pode ser usado depois de `から` para indicar que algo acontece desde aquele ponto.
+-   `だいたい` Mais ou menos/Basicamente/No geral
+-   `なかなか` De jeito nenhum/De nenhuma maneira (com frases negativas)
+-   `やっぱり` Mesmo assim/Como esperado/No fim das contas
+-   <font size="5"><code><ruby>偶<rt>ぐう</rt>然<rt>ぜん</rt></ruby></code></font> Por acaso
+-   <font size="5"><code><ruby>絶<rt>ぜっ</rt>対<rt>たい</rt></ruby>・<ruby>絶<rt>ぜっ</rt>対<rt>たい</rt></ruby>に</code></font> Absolutamente/Definitivamente
+-   `のんびり` De maneira despreocupada/De maneira relaxada/No lazer
+-   `すぐ` Diretamente
+    -   Usado com localizações para indicar pontos específicos.
+-   `そんなに` Desse jeito
+-   <font size="5"><code><ruby>割<rt>わり</rt>合<rt>あい</rt></ruby></code></font> Em comparação/Comparativamente
 
 ## Intensidade/Quantidade
 
 -   `どうも` Muito (Emocional)
     -   Usado com frases emocionais, como as que indicam agradecimento, desculpas ou arrependimento.
+    -   Também pode ser usado para demonstrar incertezas, como "Bem..." ou "De alguma forma...".
+    -   E ainda, agir como um leve intensificador: "Realmente".
+    -   Originalmente, é a junção de `どう` "como" e a partícula `も` "também/mesmo". Assim, tem o sentido original de "não importa como" ou "de todas as formas", o que explica o sentido intensificador atual.
+        -   Também é usado com esse sentido atualmente.
 -   `とても` Muito (Intensidade)
     -   `めっちゃ` Coloquial
 -   `あまり` Não muito
     -   `あんまり` Casual
     -   Geralmente usado com frases negativas
     -   Polar inverso de `とても`.
-    -   Significa "mais que" quando usado como sufixo em frases afirmativas.
+    -   Significa "mais que/mais de" quando usado como sufixo em frases afirmativas.
 -   `なかなか` Consideravelmente
 -   `かなり` Bastante/Consideravelmente
--   `すごく` Imensamente/Extremamente/Tão (excessivamente)
+-   `だいぶ` Consideravelmente
+-   `すごく` Tão/Imensamente/Extremamente
 -   `たくさん` Muito (Quantidade)
 -   `たいへん` Muito/Extremamente (mais subjetivo)
 -   <font size="5"><code><ruby>非<rt>ひ</rt>常<rt>じょう</rt></ruby>に</code></font> Extremamente (mais objetivo)
@@ -100,9 +118,14 @@
     -   Indica uma progressão/mudança rápida
 -   <font size="5"><code><ruby>約<rt>やく</rt></ruby></code></font> Aproximadamente
     -   É usado antes do que se refere, diferentemente de `くらい`.
+-   <font size="5"><code><ruby>数<rt>すう</rt>回<rt>かい</rt></ruby></code></font> Algumas vezes
+-   <font size="5"><code><ruby>相<rt>そう</rt>当<rt>とう</rt></ruby>に</code></font> Consideravelmente/Bastante
 
 ## Tempo
 
+-   <font size="5"><code><ruby>早<rt>はや</rt></ruby>く</code></font> `はやく` Cedo/Rapidamente
+-   <font size="5"><code><ruby>早<rt>はや</rt></ruby>めに</code></font> Um pouco cedo
+-   <font size="5"><code><ruby>遅<rt>おそ</rt></ruby>く</code></font> Tarde
 -   `また` De novo
     -   Quando conecta duas orações, tem o sentido de "e também/adicionalmente", semelhante a `それに`, porém é mais utilizado na escrita.
 -   `まだ` Ainda
@@ -117,6 +140,7 @@
     -   É mais usado em contextos informativos
     -   Geralmente indica um tempo mais curto e concreto que `もうすぐ`.
 -   `すぐ・すぐに` Imediatamente/Neste momento/Sem demora
+-   `さっき` Agora há pouco/Uns minutos atrás/Agorinha
 -   <font size="5"><code><ruby>最<rt>さい</rt>近<rt>きん</rt></ruby></code></font> Recentemente/Ultimamente
 -   <font size="5"><code><ruby>決<rt>けっ</rt></ruby>して</code></font> Nunca/De forma alguma
     -   Usado com frases negativas.
@@ -131,9 +155,10 @@
     -   <font size="5"><code><ruby>一<rt>いち</rt>日<rt>にち</rt></ruby></code></font> Mais comum
 -   <font size="5"><code><ruby>今<rt>こん</rt>度<rt>ど</rt></ruby></code></font> Da próxima vez/Outra hora/Dessa vez
     -   <font size="5"><code><ruby>今<rt>こん</rt>回<rt>かい</rt></ruby></code></font> é mais utilizado para "dessa vez"
-    -   <font size="5"><code><ruby>少<rt>しょう</rt>々</ruby></code></font> Só um instante/Só um minuto
--   <font size="5"><code><ruby>頃<rt>ころ</rt></ruby></code></font> Aproximadamente/Por volta de (ponto específico no tempo)
+-   <font size="5"><code><ruby>少<rt>しょう</rt>々</ruby></code></font> Só um instante/Só um minuto
+-   <font size="5"><code><ruby>頃<rt>ころ</rt></ruby></code></font> Aproximadamente/Por volta de (período específico no tempo)
     -   `ごろ` quando usado como sufixo.
+        – É mais geral que `時`, que indica um ponto específico no tempo.
 -   <font size="5"><code><ruby>以<rt>い</rt>内<rt>ない</rt></ruby></code></font> Dentro de
 -   <font size="5"><code><ruby>時<rt>とき</rt></ruby></code></font> Quando
     -   Usado depois de adjetivos, verbos e substantivos para indicar um momento específico.
@@ -142,6 +167,11 @@
     -   Envolve algum esforço. Ou seja, não costuma ser usado para coisas que acontecem naturalmente ou repentinamente.
 -   `いよいよ` Finalmente
     -   Costuma ser usado para coisas que acontecem naturalmente ou repentinamente, que não envolvem um esforço para o resultado.
+-   <font size="5"><code><ruby>先<rt>さき</rt></ruby>に</code></font> Antes/Anteriormente/De antemão
+-   <font size="5"><code><ruby>時<rt>じ</rt>間<rt>かん</rt>通<rt>どお</rt></ruby>り</code></font> Na hora
+-   <font size="5"><code><ruby>今<rt>いま</rt>頃<rt>ごろ</rt></ruby></code></font> Por volta dessa época
+-   <font size="5"><code><ruby>間<rt>あいだ</rt></ruby>に</code></font> Enquanto
+-   `うちに` Enquanto ainda
 
 ## Dúvida
 
@@ -188,9 +218,36 @@
 -   <font size="5"><code><ruby>他<rt>ほか</rt></ruby>に</code></font> Tirando isso/Outro/Além de/Além desse
 -   <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font> E também/Além disso (para acrescentar algo)
 -   <font size="5"><code><ruby>結<rt>けっ</rt>局<rt>きょく</rt></ruby></code></font> Afinal/No fim das contas
+-   <font size="5"><code><ruby>例<rt>たと</rt></ruby>えば</code></font> Por exemplo
+-   <font size="5"><code><ruby>少<rt>すく</rt></ruby>なくとも</code></font> Pelo menos
 
 ## Auxiliares
 
-**Adiciona-se após adjetivos e verbos**
+**Adiciona-se após adjetivos e substantivos na forma atributiva e verbos na forma de dicionário**
 
--   `はず` Deve
+-   `はず` Deve/Deveria (ser)
+    -   Indica expectativa
+    -   `はずがない` Não pode ser que/É improvável que/Dificilmente
+
+## Sufixos
+
+**Não são considerados advérbios em japonês**
+
+-   <font size="5"><code><ruby>通<rt>どお</rt></ruby>り</code></font> De acordo com/Seguindo
+-   <font size="5"><code><ruby>以<rt>い</rt>上<rt>じょう</rt></ruby></code></font> Mais de/Acima de (Inclusivo)
+-   <font size="5"><code><ruby>以<rt>い</rt>下<rt>か</rt></ruby></code></font> Menos de/Abaixo de (Inclusivo)
+-   <font size="5"><code><ruby>以<rt>い</rt>外<rt>がい</rt></ruby></code></font> Exceto/Além de
+-   <font size="5"><code><ruby>風<rt>ふう</rt></ruby></code></font> No estilo de/À moda de
+
+## Prefixos
+
+**Não são considerados advérbios em japonês**
+
+-   <font size="5"><code><ruby>真<rt>ま</rt></ruby></code></font> Completamente/Exatamente
+    -   A leitura do kanji depende da coluna do primeiro kana da palavra a qual se liga:
+        -   Colunas `ま` e `な`: `まん`
+        -   Colunas `か` e `さ`: `まっ`
+        -   Coluna `は`: `まっ`, com o primeiro kana da próxima palavra mudando para um som de "p".
+        -   Cor `青い`: `まっ`, e o kanji `青` muda sua leitura de `あお` para `さお`
+        -   Cor `赤い`: `まっ`, e o kanji `赤` muda sua leitura de `あか` para `か`
+-   <font size="5"><code><ruby>数<rt>すう</rt></ruby></code></font> Alguns/Vários/Uma quantidade de

@@ -208,6 +208,7 @@
 -   `Aire acondicionado` Ar-condicionado
 -   `Botón` Botão
 -   `Electrodoméstico` Eletrodoméstico
+-   `Producto` Produto
 
 ## Abstratos
 
@@ -406,6 +407,13 @@
 -   `Forma`
 -   `Calefacción` Aquecimento 🚺
 -   `Rutina` Rotina
+-   `Copia` Cópia
+-   `Firma` Assinatura
+-   `Rol` Papel/Função
+-   `Dato` Dado
+-   `Valor`
+-   `Beneficio` Benefício
+-   `Gobierno` Governo
 
 ### Medidas
 
@@ -457,6 +465,7 @@
 -   `Fiesta` Festa
 -   `Trabajo` Trabalho
 -   `Ocupación` Ocupação
+-   `Profesión` Profissão
 -   `Ejercicio` Exercício
 -   `Tarea` Tarefa
 -   `Tarea doméstica/rutinaria` Tarefa doméstica
@@ -492,6 +501,7 @@
 -   `Estudio` Estudo
 -   `Turismo`
 -   `Competencia` Competição/Torneio 🚺
+-   `Concurso`
 -   `Patada` Chute
 -   `Boda` Cerimônia de casamento
 -   `Festival`
@@ -506,6 +516,11 @@
 -   `Itinerario` Itinerário
 -   `Entrega`
 -   `Quinceañera` Festa de quinze anos
+-   `Subasta` Leilão 🚺
+-   `Contabilidad` Contabilidade
+-   `Producción` Produção
+-   `Debate`
+-   `Elección` Eleição
 
 ### Compras
 

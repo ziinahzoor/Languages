@@ -24,6 +24,7 @@
 -   `León` Leão
 -   `Pato`
 -   `Tigre`
+-   `Langosta` Lagosta
 
 ## Los Insectos - Insetos
 

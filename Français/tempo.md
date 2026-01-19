@@ -2,9 +2,12 @@
 
 > [!TIP]
 > Para dizer as horas, usar o impessoal `Il est...`.
+> Não costuma-se dizer a palavra "minutos" após especificar os minutos na horas. Ex.: `Il est quatre heures vingt` "São quatro horas e vinte minutos".
 
 > [!TIP]
 > Para dizer o dia atual, usa-se `nous sommes.../on est...`. Para o mês atual, o mesmo se aplica, acrescentando-se `en`.
+
+## Unidades
 
 -   `Seconde` Segundo 🚺
 -   `Minute` Minuto 🚺
@@ -15,48 +18,74 @@
     -   `Jour de repos` Dia de descanso
 -   `An` Ano
 -   `Semaine` Semana
+-   `Weekend` Fim de semana
+    -   `Week-end` Pré-acordo de 90
+-   `Mois` Mês
+-   `Semestre`
+-   `Sièce` Século
+
+## Períodos do dia
+
 -   `Matin` Manhã 🚹
+-   `Midi` Meio-dia
 -   `Après-midi` Tarde
 -   `Soir` Noite (Evening) 🚹
 -   `Nuit` Noite (Night)
--   `Weekend` Fim de semana
-    -   `Week-end` Pré-acordo de 90
--   `Midi` Meio-dia
 -   `Minuit` Meia-noite
--   `Quart` Um quarto
--   `Mois` Mês
--   `Horaire` Horário
--   `Date` Data
+
+## Períodos específicos
+
+-   `Début` Começo
+-   `Instant` Instante
+-   `Moment` Momento
 -   `Férié` Feriado
+-   `Temps partiel` Meio-período
+-   `Temps plein` Período integral
+
+## Époques - Épocas
+
+## Relativos
+
+### Ao fluxo temporal
+
+-   `Passé` Passado
+-   `Futur` Futuro (abstrato, geral)
+-   `Avenir` Futuro (de uma perspectiva pessoal, humana)
+
+### Ao dia
+
 -   `Avant-hier` Anteontem
     -   `L’avant-veille` Dois dias antes
 -   `Hier` Ontem
-    -   `La veille` O dia anterior
--   `Aujourd'hui` Hoje
+    -   `Veille` Véspera/Dia anterior 🚺
     -   `Ce jour-là` Aquele dia
+-   `Aujourd'hui` Hoje
 -   `Demain` Amanhã
     -   `Lendemain` Dia seguinte
 -   `Après-demain` Depois de amanhã
     -   `Surlendemain` Dois dias depois
+
+### Ao momento
+
 -   `Maintenant` Agora
+-   `Bientôt` Logo
 -   `Tôt` Cedo
 -   `Tard` Tarde
--   `Bientôt` Logo
--   `Moment` Momento
--   `Début` Começo
--   `Semestre`
--   `Époque` Época
--   `Futur` Futuro
--   `Avenir` Futuro
--   `Passé` Passado
--   `Sièce` Século
+
+## Outros
+
+-   `Horaire` Horário
+-   `Planning` Cronograma/Linha do tempo 🚹
+-   `Emploi du temps` Cronograma/Programação 🚹
+-   `Agenda`
+-   `Date` Data
 
 ## La Semaine - Semana
 
 **Todos são masculinos.**
 
 > [!NOTE]
-> Se usam artigos somente para falar do dia em geral ou em datas completas. Ex.: `le dimanche` "aos domingos/todo domingo", `le dimanche 3 aôut` "domingo, 3 de agosto".
+> Usa-se artigos somente para falar do dia em geral ou em datas completas. Ex.: `le dimanche` "aos domingos/todo domingo", `le dimanche 3 aôut` "domingo, 3 de agosto".
 
 -   `Lundi` Segunda-feira
 -   `Mardi` Terça-feira

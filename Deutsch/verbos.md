@@ -16,7 +16,7 @@
 -   `Malen` Pintar
 -   `Spielen` Tocar
 -   `Sitzen` Sentar
--   `Können` Poder
+-   `Können` Poder/Ser capaz
 -   `Bestellen` Pedir
 -   `Gehen` Ir
 -   `Kommen` Vir
@@ -40,6 +40,11 @@
 -   `Surfen` Surfar
 -   `Singen` Cantar
 -   `Fotografieren` Fotografar
+-   `Hören` Ouvir
+-   `Warten` Esperar
+-   `Kaufen` Comprar
+-   `Suchen` Procurar/Buscar
+-   `Passen` Servir/Caber
 
 ## Impessoais
 

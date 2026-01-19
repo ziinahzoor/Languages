@@ -76,7 +76,8 @@
 -   `Portón` Portão
 -   `Pasillo` Corredor
 -   `Corredor`
--   `Terraza` Terraço/Varanda 🚺
+-   `Terraza` Terraço/Varanda (mais comunitário) 🚺
+    -   `Azotea` Terraço/Varanda (mais particular) 🚺
 
 ## Outros
 
@@ -179,3 +180,4 @@
 -   `Sección` Seção
 -   `Sauna` 🚹
     -   Na Espanha é feminino.
+-   `Planeta`

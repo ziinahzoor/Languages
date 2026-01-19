@@ -10,13 +10,21 @@
 -   `Sinon` Senão/Caso contrário
 -   `Donc` Então/Portanto
     -   Indica causalidade, consequência.
-    -   Pode ser substituído por `alors` (o contrário não necessariamente).
+    -   Pode ser substituído por `alors` na maior parte dos casos (o contrário não necessariamente).
 -   `Dès que` Assim que/Desde que
+-   `Pour autant que` Dado que
+-   `Selon que` De acordo com o que
+-   `Alors que` Enquanto que (simultaneidade ou contraste)
+-   `Tandis que` Enquanto que (contraste)
 
 # Interjections - Interjeições
 
+-   `Hein`
+-   `Euh` Hum
+-   `Tout à fait` Com certeza
 -   `Attention` Atenção
 -   `D'accord` Ok
+    -   `D'ac` Abreviação
 -   `Aïe` Ai/Au
     -   `Ouïe`
     -   `Ouille``
@@ -30,6 +38,7 @@
 -   `Miam` Nham
 -   `Boum` Bum
 -   `Pan` Bam
+-   `Bof` Meh
 -   `Hein`
 -   `Ben` Bem
 -   `Dommage` Pena
@@ -37,3 +46,5 @@
 -   `Tiens` Sabe.../Tipo...
     -   Também pode ser usado ao dar algo para alguém.
 -   `Claire` Claro
+-   `Oh là là` Uau
+    -   A quantidade de `là` indica a intensidade.

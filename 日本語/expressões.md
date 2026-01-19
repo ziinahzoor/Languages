@@ -7,7 +7,6 @@
     -   <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby></code></font> Casual
 -   `だいじょうぶですか` Está tudo bem?
 -   `いただきます` Vamos comer!
--   `ぐあいがわるい` Está doente
     -   Literalmente "a saúde está mal"
 -   `ねぇ` Oi!/Ei!
 -   `おい` Ei! (Mais rude)
@@ -22,19 +21,30 @@
 -   <font size="5"><code><ruby>何<rt>なん</rt>だ</ruby></code></font> O que...?!/O que é isso?!
 -   `〜そうだ・〜そうです` Dizem que...
     -   É diferente de usar somente o sufixo `そう`. Por ser uma construção completa, precisa de `だ` antes de substantivos e adjetivos-な, e não requer remover o `い` dos adjetivos-い.
--   `〜ように` Como/Similar a
-    -   Se sufixa a verbos na forma de dicionário ou substantivos com `の`.
-    -   `〜ような` Adnominal
-    -   Outra forma de fazer o imperativo se usado no fim da frase.
 -   `〜ようだ` Parece.../Como...
     -   Vem de `のよう` "Aparência de".
     -   É pouco utilizado em contextos casuais
     -   `みたい` Casual
+-   `〜ように` Como/Similar a
+    -   `〜ような` Adnominal
+    -   Se sufixa a verbos na forma de dicionário. Substantivos devem usar a forma adnominal.
+    -   Usado com verbos não-volicionais, a forma negativa e a forma potencial.
+    -   Outra forma de fazer o imperativo se usado no fim da frase.
+    -   Quando usado com verbos que indicam algum controle sobre a ação (volicionais), quer dizer "para que", indicando propósito.
+-   `〜ようにいう` Dizer de forma que
+    -   Indica dizer algo a alguém de forma indireta, suavizada, de forma com que a ênfase está no resultado do que foi dito e não no que foi dito em si.
+-   `〜ようにいのる` Esperar que
+    -   Indica expectativa e anseio sobre algo acontecer.
+    -   Costuma ser abreviado para apenas `〜ように`, especialmente após a conjugação `ます` dos verbos.
+    -   É similar à construção `といい`.
+-   `〜にみえる` Parece (observação visual)
 -   `…について` Sobre.../A respeito de...
     -   `…についてどうおもう？` O que você acha de...?
 -   `…とおり` Como esperado/Como prometido
--   `ところ` Acabou de.../Está prestes a...
-    -   Usado com verbos na forma plana
+-   `ところ` Acabar de.../Estar prestes a...
+    -   Quando usado após a forma plana indica "estar prestes a".
+    -   Quando usado após o passado indica "acabar de".
+    -   Quando usado após a forma contínua indica "estar no meio de".
 -   `…として` Como.../Do ponto de vista de...
 -   `…によると・によれば` De acordo com...
 -   `それから` Depois disso
@@ -42,7 +52,8 @@
 -   `あっちこっち` Pra lá e pra cá
 -   <font size="5"><code><ruby>大<rt>たい</rt>変<rt>へん</rt></ruby></code></font> Estou em apuros
 -   `ははーん` A-ha!
--   <font size="5"><code>…の<ruby>中<rt>なか</rt></ruby>で…が<ruby>一<rt>いち</rt>番<rt>ばん</rt></ruby></code></font> De todos..., ...é o melhor.
+-   <font size="5"><code>…の<ruby>中<rt>なか</rt></ruby>で</code></font> Entre/Dentro de
+    -   <font size="5"><code>…の<ruby>中<rt>なか</rt></ruby>で…が<ruby>一<rt>いち</rt>番<rt>ばん</rt></ruby></code></font> De todos..., ...é o melhor.
 -   `そんなことない` Isso não é verdade
 -   `...の上に` Além de...
 -   <font size="5"><code><ruby>久<rt>ひさ</rt></ruby>しぶり</code></font> Há quanto tempo
@@ -54,7 +65,6 @@
     -   Usado para oferecer algo, como um garçom oferecer um prato.
 -   <font size="5"><code><ruby>向<rt>む</rt></ruby>け</code></font> Para (voltado para/intencionado para)
     -   Sufixo
--   `かしこまりました` Certamente (Ao atender um pedido)
 -   `いいこと` Coisa boa!
 -   `ものだ・もんだ・ものです・もんです` Em geral.../Normalmente...
     -   Não tem uma tradução literal, é usado para indicar que a frase é uma verdade universal ou algo a ser seguido.
@@ -73,7 +83,6 @@
     -   `かも` Abreviação (Mais comum)
     -   <font size="5"><code><ruby>かも知<rt>し</rt></ruby>らん</code></font> Abreviação (Mais masculina)
     -   <font size="5"><code><ruby>かも知<rt>し</rt></ruby>れん</code></font> Abreviação
--   `だけで` Só de/Apenas com
 -   `まさか` Não pode ser/De jeito nenhum/Nunca
     -   Expressa algo inesperado
 -   <font size="5"><code><ruby>都<rt>つ</rt>合<rt>ごう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い</code></font> Não é o melhor momento/É um pouco inconveniente agora
@@ -84,6 +93,8 @@
 -   `そうだといい` Espero que sim
 -   `としても` Mesmo se
 -   `ということは` Isso significa
+-   `といってもいい` Você poderia dizer (que)
+-   `AというB` O/Um B chamado A.
 -   `ごとに` A cada
     -   Acontece todas as vezes, sem exceção
     -   Sufixal
@@ -96,43 +107,26 @@
 -   `じゃないか` Né?!/Não é?!
     -   `じゃねー` Coloquial
     -   Também usado após o volicional para dar ênfase na solicitação.
-
-## <ruby>相<rt>あい</rt>槌<rt>づち</rt></ruby> - Interjeições de atenção
-
-**Usadas em conversas para demonstrar que está prestando atenção**
-
--   `あ` Ah!
--   `うわー` Ah (Desapontamento)
--   `そうだ` Ah! (Ao se lembrar de algo)
--   `なんだ` O quê?!
--   `そうです` Está certo
--   `そうか` É mesmo? (Retórico)/Entendo
-    -   `そうなんですか` É mesmo? (Sobre um fato desconhecido)
-    -   `そっか` Entendo (Casual)
--   `そうですね` Certo?!/Não é?! (Concordar enfaticamente)
--   `そうなんです` Sim/É isso mesmo (Concordar enfaticamente, com uma nuance de "eu queria ter dito isso")
--   `そうなんですね` Ah sim! (Sobre um fato desconhecido)
--   `そうなんだー・そうなんですか` Ah, não sabia (Sobre um fato desconhecido)
--   `はい` Sim... (Para que a pessoa continue)
-    -   `ええ` Honorífico
--   `うん` É... (Para que a pessoa continue)
--   `へえー` Interessante...
--   `ふーん` Hmmm... (Como o `へえー`, mas menos interessante)
--   `あっそ` Que seja/Tanto faz (Falta de interesse)
--   `はあ` Quê?/Hein?/Não entendi (Com entonação baixa)
-    -   Se usado com entonação alta se torna rude
-    -   `は` Rude
--   `え` Hein/Huh/Anem
--   `えー・えーと・うーん・うーんと` Hmmm... (Pensando no que dizer)
--   `あの・あのー・あのう` Bem..., Então..., Hmmm... (Pensando no que dizer)
--   `うそー` Não acredito!/Mentira!
--   `あれ` O quê? (Algo está errado, surpresa, suspeita)
--   `あっちゃー・あちゃー・しまった` Ah não (Cometeu-se um erro)
--   `おお` Oh! (Impressionado)
--   `やれやれ` Ok, ok/Ah coitado (Ao confortar ou ajudar alguém)
--   `もう` Chega!
--   `いいなあ` Que inveja!
--   `どうしよう` O que eu faço?!
+-   <font size="5"><code>...<ruby>必<rt>ひつ</rt>要<rt>よう</rt></ruby>がある</code></font> É preciso.../É necessário...
+-   `AではなくてB・AじゃなくてB` Não A, mas B
+    -   `AだけではなくてBも・AだけじゃなくてBも` Não somente A, mas também B
+-   <font size="5"><code><ruby>以<rt>い</rt>上<rt>じょう</rt></ruby></code></font> É só isso/Isso é tudo
+-   <font size="5"><code><ruby>以<rt>い</rt>下<rt>か</rt></ruby></code></font> O restante/O seguinte
+-   `のおかげで` Graças a
+    -   `おかげで` Graças a você
+-   `...でいいです` Pode me chamar só de...
+-   `そういえば` Falando nisso/Agora que você disse
+-   `すこしも...ない` Não é nem um pouco.../Não... nem um pouco
+-   <font size="5"><code>A は B の<ruby>一<rt>ひと</rt></ruby>つだ</code></font> A é um de (muitos) B
+-   <font size="5"><code><ruby>少<rt>すく</rt></ruby>なくない</code></font> Não são poucos
+-   <font size="5"><code>A<ruby>場<rt>ば</rt>合<rt>あい</rt></ruby>は B</code></font> No caso de A, B
+-   <font size="5"><code>を<ruby>通<rt>とお</rt></ruby>して</code></font> Através de/Por meio de
+-   <font size="5"><code><ruby>何<rt>なん</rt></ruby>と<ruby>言<rt>い</rt></ruby>えばいいかな</code></font> Como eu deveria dizer isso...?
+-   `だけではなく` Não só... mas também
+    -   `だけでなく` Abreviação
+    -   Geralmente vem antes de uma vírgula. Se a vírgula não for utilizada, deve ser escrito como `だけではなくて`
+-   <font size="5"><code><ruby>数<rt>すう</rt>秒<rt>びょう</rt>後<rt>ご</rt></ruby></code></font> Alguns segundos depois
+-   `...とみえる` Concluí-se que/Parece que
 
 ## <ruby>汚<rt>きたな</rt></ruby>い<ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby> - Linguagem de baixo calão
 

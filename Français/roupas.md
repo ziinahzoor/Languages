@@ -5,13 +5,16 @@
 -   `Chapeau` Chapéu
 -   `Lunettes` Óculos
 -   `Lunettes de soleil` Óculos de sol
+-   `Lentille` Lente de contato
 -   `Casquette` Boné 🚺
 -   `Bucle d'oreille` Brinco 🚺
 -   `Casque` Capacete
+-   `Bonnet` Gorro
 -   `Cache-œil` Tapa-olho
 
 ## Le Corps - Corpo
 
+-   `Tenue` Traje 🚺
 -   `Robe` Vestido 🚺
 -   `Veste` Jaqueta
 -   `Manteau` Casaco
@@ -25,6 +28,7 @@
 -   `Uniforme`
 -   `Sous-vêtement` Roupa de baixo 🚹
 -   `Soutien-gorge` Sutiã
+-   `Survêtement` Traje de treino
 
 ## Les Bras - Braços
 
@@ -61,6 +65,7 @@
 -   `Écharpe` Cachecol 🚺
 -   `Poche` Bolso 🚺
 -   `Rouge à lèvres` Batom
+-   `Bijou` Joia 🚹
 
 ## Outros
 

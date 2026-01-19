@@ -223,6 +223,10 @@
 -   `Maquillarse` Maquiar-se
 -   `Sacar` Tirar/Sacar
 -   `Relajarse` Relaxar
+-   `Imaginar`
+-   `Colgar` Pendurar
+-   `Exportar`
+-   `Sudar` Suar
 
 ## Los verbos -er
 
@@ -231,8 +235,9 @@
 -   `Comer`
 -   `Beber`
 -   `Tener` Ter
--   `Querer`
+    -   `Tener éxito` Ter sucesso
     -   `Tener ganas` Ter vontade
+-   `Querer`
 -   `Conocer` Conhecer
 -   `Correr`
 -   `Saber`
@@ -289,6 +294,8 @@
 -   `Mantener` Manter
 -   `Deber` Dever
 -   `Barrer` Varrer
+-   `Oler` Cheirar
+    -   `Oler mal` Feder
 
 ## Los verbos -ir
 

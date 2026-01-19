@@ -1,5 +1,6 @@
 # Pessoas
 
+-   `Homo` Homem/Ser-humano
 -   `Vir` Homem
 -   `Femina` Mulher
 -   `Puer` Menino
@@ -8,10 +9,36 @@
 -   `Dominus` Senhor
 -   `Domina` Senhora
 -   `Vidua` Viúva
+-   `Heres` Herdeiro
+-   `Civis` Cidadão
+-   `Iuvenis` Jovem
 
-## Família
+## Profissões
 
+-   `Armiger` Escudeiro
+-   `Parsona` Pároco
+-   `Agricola` Fazendeiro
+-   `Papa`
+-   `Faber` Ferreiro
+-   `Magister` Mestre/Professor
+-   `Abbas` Abade
+-   `Executor` Carrasco/Executor
+-   `Miles` Cavaleiro
+
+## Familia - Família
+
+-   `Parens` Pai(s)
 -   `Pater` Pai
 -   `Mater` Mãe
 -   `Frater` Irmão
 -   `Soror` Irmã
+-   `Uxor` Esposa
+-   `Vir` Marido
+-   `Filius` Filho
+-   `Filia` Filha
+-   `Ava` Avó
+-   `Avus` Avô
+
+## Divindades
+
+-   `Deus`

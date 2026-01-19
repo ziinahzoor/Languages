@@ -46,10 +46,12 @@
 
 ### には
 
--   `Função de enfatização da partícula に`: enfatiza que se está falando especificamente sobre o destino da ação. Limita o escopo. Ex.: `パン屋にはパンがある` NA PADARIA tem pão.
+-   `Função de enfatização da partícula に`: enfatiza que se está falando especificamente sobre o destino da ação. Limita o escopo. "Em relação a". Ex.: `パン屋にはパンがある` "NA PADARIA há pão/Em relação à padaria, há pão".
     -   Geralmente indica propósito.
--   `Função perspectiva e de associação`: pode indicar a perspectiva do tópico, a associação ou posse para conceitos abstratos, como relacionamentos. Limita o escopo. Ex.: `私には妹がある` EU TENHO uma irmã ("Na minha perspectiva, tenho uma irmã", ou mais literalmente, "Para mim, existe uma irmã").
+-   `Função perspectiva e de associação`: pode indicar a perspectiva do tópico, a associação ou posse para conceitos abstratos, como relacionamentos. Limita o escopo. Ex.: `私には妹がある` EU TENHO uma irmã ("Na minha perspectiva, tenho uma irmã/Em relação a mim, tenho uma irmã", ou mais literalmente, "Para mim, existe uma irmã").
     -   Nestes casos se usarmos somente uma das partículas a frase não soa natural.
+-   `Função de propósito`: indica para que algo está sendo feito. `旅行するには、お金が必要です` "Para viajar, é necessário dinheiro/A fim de viajar, é preciso dinheiro".
+    -   Casualmente, é mais comum usar a partícula `のに`.
 
 ### へ
 
@@ -82,7 +84,10 @@
 ### とは
 
 -   `Função de citação-tópico`: é a junção das funções das duas partículas, tornando uma citação o tópico da frase.
+    -   Geralmente indica que uma palavra ou frase vai ser definida ou explicada. Ou ainda, serve para enfatizar a partícula `と`.
 -   `Função de surpresa`: mostra que a frase é uma situação inesperada. "O fato que", "estou surpreso que", "não esperava que", "não sabia que".
+-   `Função contrastiva`: conecta duas orações de sentidos opostos. Geralmente acompanha verbos que indicam esse contraste. "Diferente de", "em contraste com".
+    -   Pode-se usar ainda `とはいえ` para ser mais concessivo ao invés de comparativo. "Apesar de".
 
 ### から
 
@@ -104,6 +109,7 @@
     -   <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> também pode ser utilizado sem `より`, indicando que algo é "mais" do que o que foi mencionado antes. Da mesma forma, <font size="5"><code>の<ruby>方<rt>ほう</rt></ruby>が</code></font> também pode ser omitido e `より` usado depois da partícula, tendo o mesmo sentido (parece ter invertido a função, mas é apenas a omissão da construção completa).
         -   Neste último caso, quando ligamos `より` a outra partícula, é como se tivéssemos omitido o substantivo que "é menos", então dizemos que o substantivo antes da partícula "é mais" que todas as outras coisas.
     -   Também é possível usar `もっと` com o adjetivo de comparação.
+    -   Possui uma forma mais enfática: `よりも`.
 
 > [!NOTE]
 > A partícula `より` também se sobrepõe ao sentido de "origem" da partícula `から`, mas é mais antiga e, portanto, mais literária.
@@ -122,7 +128,7 @@
 
 -   Também pode ser uma partícula finalizadora.
 -   `Função interrogativa`: é utilizada no fim de uma frase para fazer uma pergunta.
-    -   `Subfunção hipotética`: também é utilizada como uma "preposição" em frases compostas, tornando a primeira oração uma dúvida, incerteza ou interrogação. Ex.: `彼が来るか分からない` "Ele vem? Não sei" = "Não sei se ele vem".
+    -   `Subfunção adverbial hipotética`: também é utilizada como uma "preposição/advérbio" em frases compostas, tornando a primeira oração uma dúvida, incerteza ou interrogação. Ex.: `彼が来るか分からない` "Ele vem? Não sei" = "Não sei se ele vem".
         -   Nesse caso funciona quase sempre como um "se" não-condicional, onde não existe uma implicação.
         -   Nesta função, também elimina o uso de partículas lógicas que podem definir a primeira oração.
 -   `Função de incerteza ou dúvida`: pode ser utilizada para indicar uma incerteza ou uma dúvida.
@@ -144,10 +150,20 @@
 
 ## <ruby>終<rt>しゅう</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Finalizadoras
 
+### かい
+
+-   Similar à partícula `か`, mas geralmente indica perguntas de sim ou não ou perguntas retóricas.
+-   Mais utilizada por homens.
+
 ### かな
 
--   `Função de ponderar`: "talvez", "e se?", "queria que".
+-   `Função de ponderar`: "talvez", "e se?", "queria que", "será se".
     -   É a junção da partícula de questionamento `か` com a partícula de opinião `な`.
+    -   Geralmente usado como um pedido ou pergunta sutil quando usado com pessoas próximas ou mais jovens.
+
+### かしら
+
+-   Mesma função de `かな`, porém considerada mais formal e feminina.
 
 ### っけ・け
 
@@ -247,23 +263,29 @@
     -   Limita o escopo do que foi dito antes.
     -   Indica que não pode ser mais do que o declarado.
     -   Adjetivos-な devem utilizar o sufixo `な`
+-   `Função de forma de limitação` (quando usado com a partícula `で` em `だけで`): "só de", "apenas com"
 -   Sua versão literária é `のみ`.
 
 ### しか
 
 -   `Função de limitação negativa`: Só/Somente
-    -   Indica condescendência, desagrado.
+    -   Indica condescendência, desagrado, insuficiência.
     -   É utilizado apenas com frases negativas.
     -   Diferente de `だけ`, que indica uma opção dentre várias, esta indica que sempre houve somente uma opção.
 
 ### ばかり
 
--   `Função de limitação quantitativa`: Só/Apenas/Nada além de/Acabou de
+-   `Função de limitação quantitativa`: Só/Apenas/Nada além de
     -   Semelhante ao "just".
     -   Quantidade ou Amplitude. Ex.: Estou apenas comendo.
-    -   Indica algo que acabou de acontecer.
     -   Exclusividade.
     -   Também tem uma nuance hiperbólica, exagerando o que diz respeito a "apenas".
+    -   Informalmente pode ser usado como `ばっかり` ou `ばっか`.
+-   `Função de iminência`: Estar prestes a
+    -   Quando usado com o verbo na forma de dicionário.
+-   `Função de ação recente`: Acabar de
+    -   Quando usado com o verbo na forma `た`.
+    -   Indica algo que acabou de acontecer.
 
 ### こそ
 
@@ -289,6 +311,7 @@
     -   Quase nunca é usada com palavras de questionamento.
     -   Pode ser coloquialmente subtituída por `って`, simplificação de `...という` (falando de...).
     -   Quando usada depois de outras particulas, geralmente indica comparação ou contraste.
+        -   Também quando é usada depois de contadores ou `ぐらい`, indicando "pelo menos" ou "ou mais".
 
 ### も
 
@@ -304,6 +327,8 @@
 -   Quando usado no começo da frase, é uma conjunção.
 -   `Função exemplificativa`: "ou algo assim", "até mesmo".
     -   Utiliza o substantivo ou pronome anterior como exemplo para o que vai ser dito a seguir.
+-   `Função concessiva de possibilidades`: "mesmo se", "independente de se", "seja... ou não".
+    -   É utilizado em sequência, após cada item considerado. Ex.: `ケーキでもクッキーでも...` "Seja bolo ou biscoito...".
 
 ### こそ
 
@@ -332,7 +357,16 @@
         -   Devido a isso, possui essas duas nuances distintas de "apesar de A, B" e "a fim de B, A/para que B, A"
     -   No final da frase indica conjunção implícita "apesar de".
     -   Mais forte que o `けど` e geralmente indica arrependimento. Ou seja, a última frase tem uma nuance de ser uma situação indesejada.
-    -   Se vem no meio da frase (A のに B), indica que B acontece para que A possa acontecer.
+    -   Se vem no meio da frase (A のに B), indica que B acontece para que A possa acontecer. Neste caso, segue a mesma ideia da partícula `には` na função de propósito.
+
+### し
+
+-   `Função de múltiplas razões/motivos`: é similar a `から` e `ので`, porém utilizada para cada razão/motivo na frase.
+    -   Cada razão deve ter igual importância.
+    -   O último `し` da frase pode ser substituído por `から` ou `ので`. Também pode ser substituído por `も` para indicar "não só por A, mas por B também".
+    -   Ao ser usada com substantivos e adjetivos-な, precisa de `だ`.
+    -   Pode-se pensar como UMA forma `て` para motivos.
+    -   Pode ser usada para listar apenas um motivo, mas isso gera a nuance de haverem outros.
 
 ### けど
 
@@ -355,7 +389,10 @@
     -   Basta adicionar `ら` à forma `た` do verbo (ou passado do adjetivo `い`) ou `ったら` à substantivos e adjetivos `な`
     -   Quando a segunda frase está no passado, a primeira geralmente indica "Depois que...".
     -   Quando associada com uma conjugação no passado, é subentendido que a segunda frase é um evento inesperado.
-    -   É utilizado com sugestões e conselhos. Ex.: "E se...?".
+    -   É utilizada com sugestões e conselhos. Ex.: "E se...?". Geralmente `たらどう`.
+
+> [!NOTE]
+> Diferente das outras partículas, `たら` aceita uma conjugação de `ます` no meio de uma frase. Porém, essas construções são quase sempre encontradas em expressões ou no atendimento ao cliente.
 
 ### たり・だり
 
@@ -422,10 +459,18 @@
 -   `と` indica um resultado inevitável, uma implicação lógica "se... então...".
 -   `ば` é uma condicional geral.
     -   Lógico e portanto indica hipótese.
+    -   É mais rígida, geralmente indicando "se e somente se".
     -   Sobrepõe-se com `と` já que também pode ser usada para verdades universais.
     -   É mais formal e mais encontrada na escrita.
 -   `たら・だら` indica algo sequencial/temporal, e portanto é melhor traduzido como "quando..., então...", mas também pode ser "se" (neste caso, geralmente acompanhado de `もし`).
     -   É o mais abrangente e mais utilizado, podendo ser utilizado em quase todos os outros casos.
--   `なら` indica mais uma possibilidade do que uma condição ou hipótese. "Se você está falando de..., então...", "se ocorrer de..., então...".
+-   `なら` indica mais uma possibilidade do que uma condição ou hipótese. "Se... é o caso, então", "Se você está falando de..., então", "se ocorrer de..., então".
     -   Geralmente é usado em reação a alguma fala anterior ou contexto prévio. Nesse sentido, é bastante usado em sugestões, contrastes ou suposições.
     -   Não indica implicações lógicas, ou seja, com resultados inevitáveis. Portanto, não sobrepõe-se com `と`.
+
+### ながら vs <ruby>間<rt>あいだ</rt></ruby>に vs うちに
+
+-   `ながら` indica simultaneidade, com duas ações sendo ativamente feitas ao mesmo tempo, geralmente pelo mesmo sujeito. "Enquanto"
+-   `間に` indica constraste: enquanto uma coisa acontece, outra coisa também acontece. "Enquanto que"
+    -   Frequentemente sufixado a `ている`.
+-   `うちに` indica um prazo, implicando que algo acontece antes da situação mudar. "Enquanto ainda"

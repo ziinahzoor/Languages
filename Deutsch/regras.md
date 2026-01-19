@@ -3,7 +3,7 @@
 <table>
     <tr>
         <th>Estrutura</th>
-        <td>SVO</td>
+        <td>V2: Geralmente SVO, ora SOV</td>
     </tr>
     <tr>
         <th>Caracteres especiais</th>
@@ -72,7 +72,10 @@
 -   Para dizer "em casa", geralmente se usa `zu Hause`.
 -   No caso acusativo, apenas palavras masculinas mudam de forma em relação ao caso nominativo.
 -   `ß` é usado depois de vogais longas e ditongos. É semelhante a um "ss".
--   Como no inglês, palavras de negação vêm após o verbo.
+-   A negação `nicht` vem no fim da frase (e antes do verbo auxiliar, quando há um). Para adjetivos, vem antes do adjetivo.
+-   Em frases modais (ou com verbos auxiliares), o verbo principal (finito) é conjugado na posição em que se encontra, e o verbo auxiliar permanece em uma forma finita (infinitivo ou particípio) e vem no fim da frase.
+    -   A negação vem antes do verbo auxiliar.
+-   A ordem preferencial de locuções adpositivas e advérbios é: Tempo → Maneira → Local.
 
 ## Artigos
 
