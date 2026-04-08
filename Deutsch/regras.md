@@ -67,15 +67,19 @@
     </tr>
 </table>
 
--   Para fazer perguntas, basta inverter o sujeito e o verbo.
--   Geralmente para se colocar um substantivo no feminino, basta acrescentar `in`.
--   Para dizer "em casa", geralmente se usa `zu Hause`.
--   No caso acusativo, apenas palavras masculinas mudam de forma em relação ao caso nominativo.
--   `ß` é usado depois de vogais longas e ditongos. É semelhante a um "ss".
--   A negação `nicht` vem no fim da frase (e antes do verbo auxiliar, quando há um). Para adjetivos, vem antes do adjetivo.
--   Em frases modais (ou com verbos auxiliares), o verbo principal (finito) é conjugado na posição em que se encontra, e o verbo auxiliar permanece em uma forma finita (infinitivo ou particípio) e vem no fim da frase.
-    -   A negação vem antes do verbo auxiliar.
--   A ordem preferencial de locuções adpositivas e advérbios é: Tempo → Maneira → Local.
+- Para fazer perguntas, basta inverter o sujeito e o verbo.
+- Geralmente para se colocar um substantivo no feminino, basta acrescentar `in`.
+- Para dizer "em casa", geralmente se usa `zu Hause`.
+- No caso acusativo, apenas palavras masculinas mudam de forma em relação ao caso nominativo.
+- `ß` é usado depois de vogais longas e ditongos. É semelhante a um "ss".
+- A negação `nicht` vem no fim da frase (e antes do verbo auxiliar, quando há um). Para adjetivos, vem antes do adjetivo.
+- Advérbios podem vir no começo da frase, no fim, ou logo após o verbo principal.
+- Verbos principais sempre ficam na segunda posição:
+    - `Heute IST es kalt`, `Es IST heute kalt`, `Es IST kalt heute` "Hoje está frio".
+- Em frases modais (ou com verbos auxiliares), o verbo principal (finito) é conjugado na posição em que se encontra, e o verbo auxiliar permanece em uma forma infinita (infinitivo ou particípio) e vem no fim da frase.
+    - A negação vem antes do verbo auxiliar.
+- Substantivos também vão no fim da frase, porém antes do verbo auxiliar.
+- A ordem preferencial de locuções adpositivas e advérbios é: Tempo → Maneira → Local.
 
 ## Artigos
 
@@ -141,3 +145,5 @@
         <td>Der</td>
     </tr>
 </table>
+
+- Em alguns termos, partes repetidas de uma palavra podem ser omitidas usando um hífen (`Auslassungsstrich`), de forma similar ao que ocorre no inglês com o apóstrofe, com a diferença que o Auslassungsstrich costuma omitir partes inteiras da palavra, como um sufixo. Ex.: Ao invés de escrever `Hinfahrt und Rückfahrt`, pode-se escrever `Hin- und Rückfahrt`

@@ -1,31 +1,38 @@
 # Advérbios
 
--   `Ja` Sim
--   `Nein` Não (Interjeição)
--   `Nicht` Não
--   `Sehr` Muito (Intensidade)
--   `Zu` Muito/Demais/Excessivamente
--   `So` Tão
--   `Hier` Aqui
--   `Jetzt` Agora
--   `Da drüben` Ali
--   `Auch` Também
--   `Wie` Como
--   `Manchmal` Às vezes
--   `Nie` Nunca
--   `Oft` Frequentemente
--   `Immer` Sempre
--   `Wirklich` Sério/Realmente
--   `Rechts` À direita
--   `Links` À esquerda
--   `Weit weg` Distante/Muito longe
--   `Natürlich` Claro/Naturalmente
--   `Mehr` Mais
--   `Wirklich` Muito/Sério/De verdade
--   `Nur` Só/Apenas
--   `Ein bisschen` Um pouco
--   `Viel` Muito
--   `Warum` Por que/Por quê
--   `Gern` De bom grado/Com prazer
-    -   É bastante utilizado para se referir a "gostar" ao invés de usar um verbo.
--   `Wonach` De qual/Segundo o qual/Ao que
+- `Ja` Sim
+- `Nein` Não (Interjeição)
+- `Nicht` Não
+- `Sehr` Muito (Intensidade)
+- `Zu` Muito/Demais/Excessivamente
+- `So` Tão
+- `Hier` Aqui
+- `Jetzt` Agora
+- `Da drüben` Ali
+- `Auch` Também
+- `Wie` Como
+- `Manchmal` Às vezes
+- `Nie` Nunca
+- `Oft` Frequentemente
+- `Immer` Sempre
+- `Wirklich` Sério/Realmente
+- `Weit weg` Distante/Muito longe
+- `Natürlich` Claro/Naturalmente
+- `Mehr` Mais
+- `Wirklich` Muito/Sério/De verdade
+- `Nur` Só/Apenas
+- `Ein bisschen` Um pouco
+- `Viel` Muito
+- `Warum` Por que/Por quê
+- `Gern` De bom grado/Com prazer
+    - É bastante utilizado para se referir a "gostar" ao invés de usar um verbo.
+- `Lieber` Em vez de/De preferência
+    - É bastante utilizado para se referir a "preferir" ao invés de usar um verbo.
+- `Wonach` De qual/Segundo o qual/Ao que
+- `Genau` Exatamente
+- `Später` Mais tarde
+- `Getrennt` Separadamente
+- `Zusammen` Junto/Juntos
+- `Dann` Então
+- `Zu Fuß` A pé
+- `Lange` Quanto tempo/Muito tempo

@@ -70,6 +70,8 @@
 
 <h1 id="var_imperativ">Imperativo</h1>
 
+- Para a segunda pessoa do singular na forma formal, acrescenta-se o pronome `Sie` após o verbo no imperativo. Ex.: `Kommen Sie!` "Venha!"
+
 ---
 
 <h1 id="var_konditional">Condicional</h1>

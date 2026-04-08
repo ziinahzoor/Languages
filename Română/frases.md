@@ -1,0 +1,21 @@
+# Frases
+
+- `Bună` Oi
+- `Salut` Olá
+- `Vă rog` Por favor
+- `Mersi` Obrigado/Valeu
+- `Mulțumesc` Obrigado/Muito obrigado
+- `Cu plăcere` De nada
+- `Scuze` Desculpa
+- `Pardon` Perdão
+- `La revedere` Adeus
+- `Pa` Tchau
+    - `Pa-pa` Tchau tchau
+- `Bun venit` Bem-vindo
+- `Pe curând` Até logo
+- `O zi bună` Tenha um bom dia
+- `Bună dimineața` Bom dia
+- `Bună ziua` Boa tarde
+- `Bună seara` Boa noite (evening)
+- `Noapte bună` Boa noite (night)
+- `Poftă bună` Bom apetite

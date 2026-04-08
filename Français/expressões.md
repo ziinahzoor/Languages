@@ -1,126 +1,158 @@
 # Les Expressions - Expressões
 
--   `C'est normal` Nada demais
--   `Faire les courses` Fazer compras (mercado)
--   `Faire les magasins` Fazer compras (shopping)
--   `Au secours!` Socorro!
--   `Pas de problème` Sem problemas
--   `Chut!` Shhhh!
--   `Tous les jours` Todo dia
--   `Tous les deux` Ambos
--   `À l'heure` Na hora
--   `Comment ça?` Como assim?
--   `Ah bon?` É mesmo?
--   `Quoi?` O quê?
--   `Mais non` Claro que não
--   `Ça ne vas pas?` Tem algo de errado?
--   `Ça va aller` Vai ficar tudo bem
--   `J'en ai marre` Estou cansado/farto
--   `Je m'en fiche` Não me importo/Não ligo
--   `En même temps` Ao mesmo tempo
--   `Tout à coup` Do nada/De repente
--   `Fais attention` Tenha cuidado
--   `Sans aucun doute` Sem dúvida
--   `Jamais de la vie` Nunca na vida
--   `Aucune chance` Sem chance
--   `Ça te dit de.../Ça vous dit de` Você quer.../Que tal...
--   `Allons-y/On y va` Vamos lá
--   `C'est parti` Vamos lá
--   `Ça ne veut rien dire` Isso não quer dizer nada
--   `Gagner sa vie` Ganhar a vida
--   `Félicitations!` Parabéns!
--   `Dis donc` Olha só/Puxa vida/Me diga/Não me diga que...
--   `On dirait que...` Parece que...
--   `Par cœur` De cor
--   `C'est de pire en pire` Fica cada vez pior
--   `C'est dommage` Que pena
-    -   `Dommage`
-    -   `Quel dommage`
--   `Être for en...` Ser bom em...
--   `Oh là là` Uau
--   `Bravo` Bem feito
--   `C'est trop de la balle` Isso é muito da hora
--   `C'est de la bombe/C'est de la boulette` Isso é demais/Isso é o máximo
--   `C'est une tuerie` Isso é do caramba/Esse é o negócio
--   `Qui dit..., dit...` Onde há fumaça, há fogo
--   `Se prendre un râteau` Ser rejeitado
--   `Poser un lapin` Dar um bolo
--   `Être fauché comme les blés` Estar quebrado/Pobre
--   `Courir sur le haricot` Dar nos nervos de alguém
--   `Être rond comme une queue de pelle` Estar completamente bêbado
--   `Avoir le cul bordé de nouilles` Ter muita sorte
--   `Ça ne casse pas trois pattes à un canard` Não é nada demais
--   `Ça fait...` Faz.../Fazem... (tempo)
--   `Peu importe` Pouco importa
--   `Depuis toujours` Desde sempre
--   `C'est logique` É lógico
--   `Je ne pense pas` Acho que não/Creio que não
--   `Coup de barre` Cansaço súbito
--   `Auberge espagnole` República (Grupo de pessoas de origens e culturas diferentes)
--   `Il n'en n'est rien` Não é assim/Não é o caso/Não é nada disso
--   `C'est une tuerie` Isso é bom demais
--   `Ça vous ennuie si` Você se importa se
--   `Je vous en prie` Eu te imploro
--   `Veuillez trouver ci-joint` Segue em anexo
--   `D'après vous` Na sua opinião
--   `Être sur la bonne voie` Estar no caminho certo
--   `En plein essor` Em ascenção
--   `Sans déconner` Sem brincadeira/Não me diga
-    -   Serve tanto para enfatizar algo quanto para sarcasmo.
--   `Laisse tomber` Deixa pra lá
--   `Faire comme chez toi` Sinta-se em casa
--   `Je n'en peux plus` Eu não aguento mais
--   `Nuit blanche` Noite em claro
--   `Qu'est-ce que` O que/Como
-    -   Em perguntas significa "o que" e em afirmações indica um "como" exclamativo, geralmente nostálgico.
--   `Coup de foudre` Amor à primeira vista
--   `Portrait craché` Parecer/Ser a cara (cuspido e escarrado)
+- `C'est normal` Nada demais/Não tem problema
+- `Faire les courses` Fazer compras (mercado)
+- `Faire les magasins` Fazer compras (shopping)
+- `Au secours!` Socorro!
+- `Pas de problème` Sem problemas
+- `Chut!` Shhhh!
+- `Tous les jours` Todo dia
+- `Tous les deux` Ambos
+- `À l'heure` Na hora
+- `Comment ça?` Como assim?
+- `Ah bon?` É mesmo?
+- `Quoi?` O quê?
+- `Mais non` Claro que não
+- `Ça ne vas pas?` Tem algo de errado?
+- `Ça va aller` Vai ficar tudo bem
+- `J'en ai marre` Estou cansado/farto
+- `Je m'en fiche` Não me importo/Não ligo
+- `En même temps` Ao mesmo tempo
+- `Tout à coup` Do nada/De repente
+- `Fais attention` Tenha cuidado
+- `Sans aucun doute` Sem dúvida
+- `Jamais de la vie` Nunca na vida
+- `Aucune chance` Sem chance
+- `Ça te dit de.../Ça vous dit de` Você quer.../Que tal...
+- `Allons-y/On y va` Vamos lá
+- `C'est parti` Vamos lá
+- `Ça ne veut rien dire` Isso não quer dizer nada
+- `Gagner sa vie` Ganhar a vida
+- `Félicitations!` Parabéns!
+- `Dis donc` Olha só/Puxa vida/Me diga/Não me diga que...
+- `On dirait que...` Parece que...
+- `Par cœur` De cor
+- `C'est de pire en pire` Fica cada vez pior
+- `C'est dommage` Que pena
+    - `Dommage`
+    - `Quel dommage`
+- `Être for en...` Ser bom em...
+- `Oh là là` Uau
+- `Bravo` Bem feito
+- `C'est trop de la balle` Isso é muito da hora
+- `C'est de la bombe/C'est de la boulette` Isso é demais/Isso é o máximo
+- `C'est une tuerie` Isso é do caramba/Esse é o negócio
+- `Qui dit..., dit...` Onde há fumaça, há fogo
+- `Se prendre un râteau` Ser rejeitado
+- `Poser un lapin` Dar um bolo
+- `Être fauché comme les blés` Estar quebrado/Estar sem um tostão furado nos bolsos/Estar pobre
+- `Courir sur le haricot` Dar nos nervos de alguém
+- `Être rond comme une queue de pelle` Estar completamente bêbado
+- `Être à deux doigts de` Estar a dois passos de
+- `Avoir le cul bordé de nouilles` Ter muita sorte
+- `Ça ne casse pas trois pattes à un canard` Não é nada demais
+- `Ça fait...` Faz.../Fazem... (tempo)
+- `Peu importe` Pouco importa
+- `Depuis toujours` Desde sempre
+- `C'est logique` É lógico
+- `Je ne pense pas` Acho que não/Creio que não
+- `Coup de barre` Cansaço súbito
+- `Auberge espagnole` República (Grupo de pessoas de origens e culturas diferentes)
+- `Il n'en n'est rien` Não é assim/Não é o caso/Não é nada disso
+- `C'est une tuerie` Isso é bom demais
+- `Ça vous ennuie si` Você se importa se
+- `Je vous en prie` Eu te imploro
+- `Veuillez trouver ci-joint` Segue em anexo
+- `D'après vous` Na sua opinião
+- `Être sur la bonne voie` Estar no caminho certo
+- `En plein essor` Em ascenção
+- `Sans déconner` Sem brincadeira/Não me diga
+    - Serve tanto para enfatizar algo quanto para sarcasmo.
+- `Laisse tomber` Deixa pra lá
+- `Fais comme chez toi` Sinta-se em casa
+- `Je n'en peux plus` Eu não aguento mais
+- `Nuit blanche` Noite em claro
+- `Qu'est-ce que` O que/Como
+    - Em perguntas significa "o que" e em afirmações indica um "como" exclamativo, geralmente nostálgico.
+- `Coup de foudre` Amor à primeira vista
+- `Portrait craché` Parecer/Ser a cara (cuspido e escarrado)
+- `Mort de rire` Morrendo de rir
+    - `Mdr` Abreviação
+- `Pété de rire` Rindo até explodir
+    - `Ptdr` Abreviação
+- `Ça fait un bail que` Faz séculos que
+- `C'est pas vrai` Não pode ser
+- `J'y crois pas` Não acredito
+- `Tu rigoles` Você tá brincando
+- `Sans blague` É sério
+- `Est-ce que ça te dérange si...` Você se importa se...
+- `Ça va si...` Tudo bem se...
+- `Allez-y/Vas-y` Vá em frente
+- `Raccrocher au nez` Desligar na cara
+- `À ta place` No seu lugar
+- `À savoir` Quem sabe
+- `Je n'en sais rien` Não tenho ideia
+- `C'est tiguidou` Tudo joia (Quebec)
+- `Tchin, Tchin!` Tintim
+- `Coûter un bras` Custar os olhos da cara (custar um braço, literalmente)
+- `Comme un lundi` Mais ou menos/Assim-assim
+- `Je pète le feu` Estou cheio de energia
+- `Je suis au bout de ma vie` Estou esgotado
+- `Ça me rend...` Isso me deixa...
+- `Ça me choque` Isso me deixa chocado
+- `Ça me détend de...` ...me deixa relaxado
+- `Ça m'énerve` Isso me dá nos nervos
+- `C'est pas pour rien que...` Não é por nada que...
+- `Idée de ouf` Ideia maluca
+- `À l'aveugle` Às cegas
+- `Coup de cœur` Amor à primeira vista/Xodó/Paixonite
+- `Figure-toi` Fique sabendo
 
 ## Verlan
 
 **`Verlan` são gírias formadas pela inversão das sílabas de uma palavra. É `L'inverse` ao contrário**
 
--   `Cimer` Obrigado
--   `Venere/Vener` Irritado
--   `Teuf` Festa
-    -   `Résoi` Mais usado pelos jovens
--   `Meuf` Mulher
--   `Reuf` Irmão
--   `Reum` Mãe
--   `Relou` Irritante/Chato
--   `Vénère` Irritado
--   `Chelou` Suspeito/Esquisito
--   `Ouf` Doido/Irado
--   `Tromé` Metrô
--   `Oit et Oim` Tu e eu
--   `Chanmé` Legal/Fantástico/Incrível
--   `À donf` Ao máximo
--   `À oilpé` Pelado
--   `Reuch` Caro
--   `Pécho` Beijar/Namorar
--   `Teubé` Estúpid
--   `Barbe` Barba
--   `Tof` Foto
--   `Keuf` Polícia
--   `Nawak` Mentira
+- `Cimer` Obrigado
+- `Venere/Vener` Irritado
+- `Teuf` Festa
+    - `Résoi` Mais usado pelos jovens
+- `Meuf` Mulher
+- `Reuf` Irmão
+- `Reum` Mãe
+- `Relou` Irritante/Chato
+- `Vénère` Irritado
+- `Chelou` Suspeito/Esquisito
+- `Ouf` Doido/Irado
+- `Tromé` Metrô
+- `Oit et Oim` Tu e eu
+- `Chanmé` Legal/Fantástico/Incrível
+- `À donf` Ao máximo
+- `À oilpé` Pelado
+- `Reuch` Caro
+- `Pécho` Beijar/Namorar
+- `Teubé` Estúpid
+- `Barbe` Barba
+- `Tof` Foto
+- `Keuf` Polícia
+- `Nawak` Mentira
 
 ## Ofensas e linguagem de baixo calão
 
--   `Merde` M\*rda
--   `Putain` P\*rra
--   `Andouille` Burro/Estúpido
--   `Glandu` Burro
--   `Tabarnak` Caramba (Quebecois)
--   `Beauf` Bruto/Estúpido
--   `Naze` Idiota
--   `Chiant` Pé no saco
--   `Branleur` Preguiçoso/P\*nheteiro
--   `Blaireau` Imbecil
--   `Ta gueule` Cala a boca
-    -   `Ferme-la/La ferme` Menos rude
--   `Sac à merde` Saco de b\*sta/Pedaço de m\*rda
--   `Trou de balle/Trou du cul` C\*zão
--   `Va te faire foutre` Vai se f\*der
--   `Enculé` F\*dido
--   `Fils de pute` Filho da p\*ta
--   `Nique ta mère/Baise ta mère` F\*der a mãe
+- `Merde` M\*rda
+- `Putain` P\*rra
+- `Andouille` Burro/Estúpido
+- `Glandu` Burro
+- `Tabarnak` Caramba (Quebec)
+- `Beauf` Bruto/Estúpido
+- `Naze` Idiota
+- `Chiant` Pé no saco
+- `Branleur` Preguiçoso/P\*nheteiro
+- `Blaireau` Imbecil
+- `Ta gueule` Cala a boca
+    - `Ferme-la/La ferme` Menos rude
+- `Sac à merde` Saco de b\*sta/Pedaço de m\*rda
+- `Trou de balle/Trou du cul` C\*zão
+- `Va te faire foutre` Vai se f\*der
+- `Enculé` F\*dido
+- `Fils de pute` Filho da p\*ta
+- `Nique ta mère/Baise ta mère` F\*der a mãe

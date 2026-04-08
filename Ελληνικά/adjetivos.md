@@ -1,128 +1,155 @@
 # Τα Επίθετα - Adjetivos
 
--   `Τεράστιος` Enorme
--   `Μεγάλος` Grande/Longo
--   `Μέσος` Médio/Mediano
--   `Μικρός` Pequeno/Curto
--   `Μακρύς` Longo
--   `Πλατύς` Largo/Amplo
--   `Φαρδύς` Frouxo/Largo
--   `Πολύς` Muito/Demais
--   `Λιγότερος` Menos
--   `Περισσότερος` Mais (Comparativo)
--   `Μισός` Metade
--   `Νόστιμος` Saboroso/Delicioso/Gostoso
--   `Φρέσκος` Fresco
--   `Εντάξει` Ok
--   `Δερμάτινος` De couro
--   `Μάλλινος` De lã
--   `Ξύλινος` De madeira
--   `Κλειστός` Fechado
--   `Ανοιχτός` Aberto/Ligado/Aceso/Claro/Pálido
--   `Βαθύς` Escuro/Profundo
--   `Σκούρος` Escuro
-    -   Geralmente usado com cores e tons.
--   `Ανοιχτόχρωμος` De cor clara
--   `Σκουρόχρωμος` De cor escura
--   `Πολύχρωμος` Colorido
--   `Όμορφος` Bonito
--   `Άσχημος` Feio
--   `Καινούριος` Novo
--   `Νέος` Jovem/Novo
--   `Νεαρός` Jovem
--   `Παλιός` Velho
--   `Ψηλός` Alto
--   `Κοντός` Baixo
--   `Μελαχρινός` Moreno
--   `Ξανθός` Loiro
--   `Κοκκινομάλλης` Ruivo
--   `Καθαρός` Limpo
--   `Βρόμικος` Sujo
--   `Δυνατός` Forte
--   `Αδύναμος` Fraco
--   `Χοντρός` Gordo
--   `Αδύνατος` Magro
--   `Κουρασμένος` Cansado
--   `Καλός` Bom
--   `Ωραίος` Bom/Agradável/Bonito
--   `Kακός` Ruim/Mau
--   `Υπέροχος` Maravilhoso
--   `Εξαιρετικός` Excelente
--   `Γενικός` Geral
--   `Σκέτος` Puro
--   `Τοπικός` Local
--   `Πραγματικός` Real/Factual
--   `Επόμενος` Próximo/Seguinte
--   `Ιδιαίτερος` Especial
--   `Δίγλωσσος` Bilíngue
--   `Βασικός` Básico
--   `Εύκολος` Fácil
--   `Δύσκολος` Difícil
--   `Πρόσφατος` Recente
--   `Αριστερός` Esquerdo
--   `Διαφορετικός` Diferente
--   `Προσωπικός` Pessoal/Privado
--   `Ζεστός` Quente/Morno
--   `Νόμιμος` Legal (dentro da Lei)
--   `Πιθανός` Possível/Provável
--   `Σημαντικός` Importante/Significativo
--   `Επίσημος` Formal/Oficial
--   `Απαραίτητος` Necessário
--   `Φυσιολογικός` Normal/Natural
--   `Ολόκληρος` Inteiro
--   `Τελικός` Último
--   `Στρατιωτικός` Militar
--   `Γρήγορος` Rápido
--   `Ζωντανός` Vivo
--   `Ακριβός` Caro
--   `Τέλειος` Perfeito
--   `Διάσημος` Famoso
--   `Μόνος` Sozinho/Solitário/Único
-    -   Quando usado com o reflexivo, tem o sentido de "sozinho/por si próprio".
--   `Ίδιος` O mesmo/Igual/Próprio
--   `Έξυπνος` Inteligente
--   `Ήσυχος` Quieto/Calmo
--   `Υπεύθυνος` Responsável
--   `Γλυκός` Doce
--   `Ανεξάρτητος` Independente
--   `Αστείος` Divertido/Engraçado
--   `Θετικός` Positivo
--   `Αρνητικός` Negativo
--   `Τρελός` Louco
--   `Φιλικός` Amigável
--   `Αγενής` Rude
--   `Ευγενικός` Gentil
--   `Παράξενος` Estranho/Esquisito
--   `Σοβαρός` Sério
--   `Γενναίος` Corajoso
--   `Ανόητος` Bobo/Estúpido
--   `Εγωιστικός` Egoísta
--   `Απαίσιος` Horrível/Terrível
--   `Συμπαθητικός` Simpático/Agradável
--   `Αντιπαθητικός` Desagradável
--   `Γενναιόδωρος` Generoso
--   `Κοινωνικός` Sociável
--   `Τίμιος` Honesto
--   `Αρκετός` Suficiente
--   `Διπλός` Duplo
--   `Τριπλός` Triplo
--   `Ελαφρός` Leve
--   `Βαρύς` Pesado
--   `Αριστερός` Esquerdo
--   `Δεξιός` Direito
--   `Βόρειος` Norte
--   `Νότιος` Sul
--   `Ανατολικός` Leste
--   `Δυτικός` Oeste
--   `Διπλανός` Ao lado/Adjacente/Vizinho
--   `Μπροστινός` Frontal
--   `Άδειος` Vazio
--   `Γεμάτος` Cheio
--   `Τρέχων` Atual/Corrente
--   `Πρέπων` Apropriado
--   `Παρών` Presente
--   `Ενδιαφέρων` Interessante
--   `Τυχαίος` Aleatório
--   `Επείγων` Urgente
+- `Τεράστιος` Enorme
+- `Μεγάλος` Grande/Longo
+- `Μέσος` Médio/Mediano
+- `Μικρός` Pequeno/Curto
+- `Μακρύς` Longo
+- `Πλατύς` Largo/Amplo
+- `Φαρδύς` Frouxo/Largo
+- `Πολύς` Muito/Demais
+- `Λιγότερος` Menos
+- `Περισσότερος` Mais (Comparativo)
+- `Μισός` Metade
+- `Νόστιμος` Saboroso/Delicioso/Gostoso
+- `Φρέσκος` Fresco
+- `Εντάξει` Ok
+- `Δερμάτινος` De couro
+- `Μάλλινος` De lã
+- `Ξύλινος` De madeira
+- `Κλειστός` Fechado
+- `Ανοιχτός` Aberto/Ligado/Aceso/Claro/Pálido
+- `Βαθύς` Escuro/Profundo
+- `Σκούρος` Escuro
+    - Geralmente usado com cores e tons.
+- `Ανοιχτόχρωμος` De cor clara
+- `Σκουρόχρωμος` De cor escura
+- `Πολύχρωμος` Colorido
+- `Όμορφος` Bonito
+- `Άσχημος` Feio
+- `Καινούριος` Novo
+- `Νέος` Jovem/Novo
+- `Νεαρός` Jovem
+- `Παλιός` Velho
+- `Αρχαίος` Antigo
+- `Ψηλός` Alto
+- `Κοντός` Baixo
+- `Μελαχρινός` Moreno
+- `Ξανθός` Loiro
+- `Κοκκινομάλλης` Ruivo
+- `Καθαρός` Limpo
+- `Βρόμικος` Sujo
+- `Δυνατός` Forte
+- `Αδύναμος` Fraco
+- `Χοντρός` Gordo
+- `Αδύνατος` Magro
+- `Κουρασμένος` Cansado
+- `Καλός` Bom
+- `Ωραίος` Bom/Agradável/Bonito
+- `Kακός` Ruim/Mau
+- `Υπέροχος` Maravilhoso
+- `Εξαιρετικός` Excelente
+- `Γενικός` Geral
+- `Σκέτος` Puro
+- `Τοπικός` Local
+- `Πραγματικός` Real/Factual
+- `Επόμενος` Próximo/Seguinte
+- `Ιδιαίτερος` Especial
+- `Δίγλωσσος` Bilíngue
+- `Βασικός` Básico
+- `Εύκολος` Fácil
+- `Δύσκολος` Difícil
+- `Πρόσφατος` Recente
+- `Αριστερός` Esquerdo
+- `Διαφορετικός` Diferente
+- `Προσωπικός` Pessoal/Privado
+- `Ζεστός` Quente/Morno
+- `Νόμιμος` Legal (dentro da Lei)
+- `Πιθανός` Possível/Provável
+- `Σημαντικός` Importante/Significativo
+- `Επίσημος` Formal/Oficial
+- `Απαραίτητος` Necessário
+- `Φυσιολογικός` Normal/Natural
+- `Ολόκληρος` Inteiro
+- `Τελικός` Último
+- `Στρατιωτικός` Militar
+- `Γρήγορος` Rápido
+- `Ζωντανός` Vivo
+- `Ακριβός` Caro
+- `Τέλειος` Perfeito
+- `Διάσημος` Famoso
+- `Μόνος` Sozinho/Solitário/Único
+    - Quando usado com o reflexivo, tem o sentido de "sozinho/por si próprio".
+- `Ίδιος` O mesmo/Igual/Próprio
+- `Έξυπνος` Inteligente
+- `Ήσυχος` Quieto/Calmo
+- `Υπεύθυνος` Responsável
+- `Γλυκός` Doce
+- `Ανεξάρτητος` Independente
+- `Αστείος` Divertido/Engraçado
+- `Θετικός` Positivo
+- `Αρνητικός` Negativo
+- `Τρελός` Louco
+- `Φιλικός` Amigável
+- `Αγενής` Rude
+- `Ευγενικός` Gentil
+- `Παράξενος` Estranho/Esquisito
+- `Σοβαρός` Sério
+- `Γενναίος` Corajoso
+- `Ανόητος` Bobo/Estúpido
+- `Εγωιστικός` Egoísta
+- `Απαίσιος` Horrível/Terrível
+- `Συμπαθητικός` Simpático/Agradável
+- `Αντιπαθητικός` Desagradável
+- `Γενναιόδωρος` Generoso
+- `Κοινωνικός` Sociável
+- `Τίμιος` Honesto
+- `Αρκετός` Suficiente
+- `Διπλός` Duplo
+- `Τριπλός` Triplo
+- `Ελαφρός` Leve
+- `Βαρύς` Pesado
+- `Αριστερός` Esquerdo
+- `Δεξιός` Direito
+- `Βόρειος` Norte
+- `Νότιος` Sul
+- `Ανατολικός` Leste
+- `Δυτικός` Oeste
+- `Διπλανός` Ao lado/Adjacente/Vizinho
+- `Μπροστινός` Frontal
+- `Άδειος` Vazio
+- `Γεμάτος` Cheio
+- `Τρέχων` Atual/Corrente
+- `Πρέπων` Apropriado
+- `Παρών` Presente
+- `Ενδιαφέρων` Interessante
+- `Τυχαίος` Aleatório
+- `Επείγων` Urgente
+- `Ποιμενικός` Pastoral
+- `Εμπορικός` Comercial
 
 ## Nacionalidades
+
+**As línguagens geralmente são formadas pelo plural neutro dos adjetivos.**
+
+**Os adjetivos não podem ser utilizados para indicar uma pessoa de determinada nacionalidade.**
+
+- `Ελληνικός` Grego
+- `Τουρκικός` Turco
+    - `Τούρκικος` Coloquial
+- `Ιταλικός` Italiano
+- `Γαλλικός` Francês
+- `Ισπανικός` Espanhol
+    - `Σπανιόλικος` Coloquial
+- `Γερμανικός` Alemão
+- `Ρωσικός` Russo
+- `Κινεζικός` Chinês
+- `Αιγυπτιακός` Egípcio
+- `Αμερικανικός` Americano
+- `Ευρωπαϊκός` Europeu
+- `Ωκεάνιος` Oceânico
+- `Αφρικανικός` Africano
+    - `Αφρικάνικος` Coloquial
+- `Ασιανός` Asiático
+    - `Ασιατικός` Alternativa
+    - `Ασιάτικος` Alternativa

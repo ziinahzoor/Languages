@@ -2,133 +2,133 @@
 
 **A gramática é definida como as regras pelas quais uma linguagem natural é estruturada.**
 
--   [`Fonética`](fonética.md): estuda o som em si, de forma física, como são produzidos, transmitidos e ouvidos.
--   [`Fonologia`](fonética.md): estuda o som como elementos abstratos dentro da linguagem e o que faz o ser humano distinguir o significado entre um som e outro.
--   [`Morfologia`](morfologia.md): estuda a estrutura e formação das palavras.
--   [`Semiótica`](semiótica.md): estuda a interpretação de signos (qualquer coisa que comunica algo). Divide-se em sintaxe, semântica e pragmática.
--   [`Sintaxe`](sintaxe.md): estuda como palavras e morfemas se combinam para formar locuções e orações. Não se preocupa com o significado das palavras, portanto "eu bebo pão" é uma oração sintaticamente correta.
-    -   `Ordem das palavras`: indica como a linguagem é estruturada em relação à posição do sujeito, verbo e objetos.
-    -   `Constituintes`: unidades de palavras que formam um todo coeso e hierárquico.
-    -   `Relações gramaticais`: indica a função das constituintes nas orações.
-    -   `Concordância` (Agreement): garante que os morfemas e palavras sejam consistentes uns com os outros dentro em relação aos aspectos semânticos.
-        -   `Verbal`: garante que os verbos sejam consistentes com os sujeitos.
-        -   `Nominal`: garante que os substantivos sejam consistentes com os adjetivos, artigos, numerais e pronomes.
--   [`Semântica`](semântica.md): estuda o significado das palavras, como o sentido é formado e como o sentido de uma expressão complexa depende de suas partes.
--   `Pragmática ou comunicação`: estuda a linguagem além das palavras, através do tom de voz, linguagem não-verbal, normas sociais. É o sentido sendo aplicado em um contexto.
--   `Etimologia`: estuda a origem das palavras e suas alterações com o tempo.
--   `Estilística`: estuda a variação da língua e sua utilização, como a diferenciação da linguagem vernacular ou coloquial da linguagem culta, gírias, sotaques, dialetos, regionalismos, etc. Também estuda o uso estético da linguagem.
+- [`Fonética`](fonética.md): estuda o som em si, de forma física, como são produzidos, transmitidos e ouvidos.
+- [`Fonologia`](fonética.md): estuda o som como elementos abstratos dentro da linguagem e o que faz o ser humano distinguir o significado entre um som e outro.
+- [`Morfologia`](morfologia.md): estuda a estrutura e formação das palavras.
+- [`Semiótica`](semiótica.md): estuda a interpretação de signos (qualquer coisa que comunica algo). Divide-se em sintaxe, semântica e pragmática.
+- [`Sintaxe`](sintaxe.md): estuda como palavras e morfemas se combinam para formar locuções e orações. Não se preocupa com o significado das palavras, portanto "eu bebo pão" é uma oração sintaticamente correta.
+    - `Ordem das palavras`: indica como a linguagem é estruturada em relação à posição do sujeito, verbo e objetos.
+    - `Constituintes`: unidades de palavras que formam um todo coeso e hierárquico.
+    - `Relações gramaticais`: indica a função das constituintes nas orações.
+    - `Concordância` (Agreement): garante que os morfemas e palavras sejam consistentes uns com os outros dentro em relação aos aspectos semânticos.
+        - `Verbal`: garante que os verbos sejam consistentes com os sujeitos.
+        - `Nominal`: garante que os substantivos sejam consistentes com os adjetivos, artigos, numerais e pronomes.
+- [`Semântica`](semântica.md): estuda o significado das palavras, como o sentido é formado e como o sentido de uma expressão complexa depende de suas partes.
+- `Pragmática ou comunicação`: estuda a linguagem além das palavras, através do tom de voz, linguagem não-verbal, normas sociais. É o sentido sendo aplicado em um contexto.
+- `Etimologia`: estuda a origem das palavras e suas alterações com o tempo.
+- `Estilística`: estuda a variação da língua e sua utilização, como a diferenciação da linguagem vernacular ou coloquial da linguagem culta, gírias, sotaques, dialetos, regionalismos, etc. Também estuda o uso estético da linguagem.
 
 ## Diacríticos
 
 **São sinais colocados sobre, sob ou através da letra para alterar sua fonética.**
 
--   `Acento agudo (´)`: Na maior parte dos idiomas costuma indicar uma vogal aberta ou longa.
--   <code>Acento grave (`)</code>: Possui várias funções conforme a língua. Pode indicar uma vogal curta ou grave, marcar a sílaba tônica, desambiguação de palavras, etc.
--   `Acento circunflexo (^)`: Costuma indicar a posição da sílaba tônica.
--   `Trema ou diérese (¨)`: Costuma indicar que as vogais devem ser pronunciadas separadamente ao invés de ditongos.
--   `Til ou tilde (~)`: Indica nasalização das vogais.
--   `Mácron (¯)`: Costuma indicar que a vogal é longa.
--   `Braquia (˘)`: Costuma indicar que a vogal é curta.
--   `Caron (ˇ)`: Indica palatalização ou suavização das letras.
--   `Cedilha (¸)`: Costuma indicar que uma consoante deve ser pronunciada de forma sibilante.
--   `Anel (˚)`: Costuma ser encontrada em línguas escandinavas.
+- `Acento agudo (´)`: Na maior parte dos idiomas costuma indicar uma vogal aberta ou longa.
+- <code>Acento grave (`)</code>: Possui várias funções conforme a língua. Pode indicar uma vogal curta ou grave, marcar a sílaba tônica, desambiguação de palavras, etc.
+- `Acento circunflexo (^)`: Costuma indicar a posição da sílaba tônica.
+- `Trema ou diérese (¨)`: Costuma indicar que as vogais devem ser pronunciadas separadamente ao invés de ditongos.
+- `Til ou tilde (~)`: Indica nasalização das vogais.
+- `Mácron (¯)`: Costuma indicar que a vogal é longa.
+- `Braquia (˘)`: Costuma indicar que a vogal é curta.
+- `Caron (ˇ)`: Indica palatalização ou suavização das letras.
+- `Cedilha (¸)`: Costuma indicar que uma consoante deve ser pronunciada de forma sibilante.
+- `Anel (˚)`: Costuma ser encontrada em línguas escandinavas.
 
 ## Pontuação
 
--   `Vírgula (,)`: possui a função de separar elementos.
-    -   `Vírgula de série ou vírgula de Oxford`: Em listas, certas linguagens separam o último item do penúltimo com uma conjunção e em outras também utilizam uma vírgula. Esta vírgula é chamada vírgula de série.
+- `Vírgula (,)`: possui a função de separar elementos.
+    - `Vírgula de série ou vírgula de Oxford`: Em listas, certas linguagens separam o último item do penúltimo com uma conjunção e em outras também utilizam uma vírgula. Esta vírgula é chamada vírgula de série.
 
 ## Discurso gramatical
 
--   `Locução` (Phrase): Combinação de palavras que não funcionam sozinhas.
-    -   `Locução verbal` (Verb phrase): Combinação de verbos, incluindo um verbo principal e outros auxiliares. Ex.: "Vou comer".
-    -   `Locução adverbial` (Adverb phrase): Combinação de palavras que atua como um advérbio. Ex.: "Com certeza".
-    -   `Locução adjetiva` (Adjective phrase): Combinação de palavras que atua como um adjetivo. Ex.: "Do mês" ao invés de "mensal".
-    -   `Locução prepositiva` (Prepositional phrase): Combinação de palavras que atua como uma preposição. Ex.: "Além de".
-        -   Conceito pode ser estendido para qualquer tipo de adposição.
--   `Cláusula` ou `Oração` (Clause): Grupo de palavras que possui sujeito e predicado.
-    -   `Independente` ou `Insubordinada`: Expressa um pensamento completo.
-    -   `Dependente` ou `Subordinada` (Subordinate clause): Expressa um pensamento que depende de outra oração.
-        -   `Relativa` (Relative): Modifica um substantivo, semelhante a um adjetivo. No português, é introduzida por um pronome relativo, como "que", "quem", "cujo", "onde", etc.
-        -   `Substantiva` (Embedded): Age como um substantivo, seja sujeito ou complemento. No português, costuma ser introduzida por "que", "se" e outras palavras interrogativas.
--   `Frase`, `Sentença` ou `Período` (Sentence): Conjunto de uma ou mais orações.
+- `Locução` (Phrase): Combinação de palavras que não funcionam sozinhas.
+    - `Locução verbal` (Verb phrase): Combinação de verbos, incluindo um verbo principal e outros auxiliares. Ex.: "Vou comer".
+    - `Locução adverbial` (Adverb phrase): Combinação de palavras que atua como um advérbio. Ex.: "Com certeza".
+    - `Locução adjetiva` (Adjective phrase): Combinação de palavras que atua como um adjetivo. Ex.: "Do mês" ao invés de "mensal".
+    - `Locução prepositiva` (Prepositional phrase): Combinação de palavras que atua como uma preposição. Ex.: "Além de".
+        - Conceito pode ser estendido para qualquer tipo de adposição.
+- `Cláusula` ou `Oração` (Clause): Grupo de palavras que possui sujeito e predicado.
+    - `Independente` ou `Insubordinada`: Expressa um pensamento completo.
+    - `Dependente` ou `Subordinada` (Subordinate clause): Expressa um pensamento que depende de outra oração.
+        - `Relativa` (Relative): Modifica um substantivo, semelhante a um adjetivo. No português, é introduzida por um pronome relativo, como "que", "quem", "cujo", "onde", etc.
+        - `Substantiva` (Embedded): Age como um substantivo, seja sujeito ou complemento. No português, costuma ser introduzida por "que", "se" e outras palavras interrogativas.
+- `Frase`, `Sentença` ou `Período` (Sentence): Conjunto de uma ou mais orações.
 
 ## Relações gramaticais
 
--   `Sujeito`: O ator principal da oração, quem realiza a ação do verbo. Controla o verbo.
--   `Tópico`: Sobre o que a frase fala. Não é necessariamente o sujeito: "O João - eu não suporto ele" ("João" é o tópico, "eu" é o sujeito).
--   `Predicado`: O que se é dito sobre o sujeito na oração. Modifica o sujeito.
--   `Objeto direto`: Recipiente imediato da ação.
--   `Objeto indireto`: O que se beneficia da ação.
+- `Sujeito`: O ator principal da oração, quem realiza a ação do verbo. Controla o verbo.
+- `Tópico`: Sobre o que a frase fala. Não é necessariamente o sujeito: "O João - eu não suporto ele" ("João" é o tópico, "eu" é o sujeito).
+- `Predicado`: O que se é dito sobre o sujeito na oração. Modifica o sujeito.
+- `Objeto direto`: Recipiente imediato da ação.
+- `Objeto indireto`: O que se beneficia da ação.
 
 ## Elementos ou classes gramaticais (Parts of speech)
 
--   `Complemento`: Palavra, locução ou oração necessária para dar sentido a uma expressão ou frase. Às vezes também é chamado complemento o que não é o sujeito, como qualquer um dos objetos.
--   `Substantivo` (Noun): Palavra que representa coisas concretas ou abstratas. Podem ser sujeitos e objetos.
-    -   `Próprio`: Identifica uma única entidade e é utilizado para se referir a ela.
-    -   `Comum`: Representa classes de entidades.
--   `Pronome` (Pronoun): Substituto genérico de um substantivo.
-    -   `Pessoal`: Se refere à entidades específicas.
-        -   `Reto` (Direct): Indica o sujeito da oração. Ex.: "eu"; "tu"; "nós".
-        -   `Oblíquo` (Oblique): Indica o complemento da oração.
-            -   `Átono` (Unstressed): Não é utilizado com preposição. No português, são pronomes `clíticos`. Ex.: "me"; "te"; "nos".
-            -   `Tônico` (Stressed): É utilizado com preposição. Ex.: "comigo"; "contigo"; "conosco"; "[para] ele".
-        -   `Disjuntivo`: Também chamado tônico. Porém além da função oblíqua, também pode ser utilizado sozinho. Enfatiza ou identifica a entidade a qual se refere. Ex. (Francês): "moi"; "toi"; "lui".
-            -   Além de ser usado após preposições, costuma ser usado após verbos para enfatizar objetos e também em comparações.
-    -   `Possessivo`: Se refere à uma entidade baseado em sua relação com a pessoa gramatical. Ex.: "meu"; "teu"; "dele".
-    -   `Reflexivo`: Usado quando se quer indicar que o sujeito e objeto da oração são a mesma entidade. Ex.: "si"; "consigo". Ex. (Inglês): "myself"; "yourself"; "ourselves".
-    -   `Demonstrativo`: Indica as entidades de que se fala e as distinguem de outras entidades. Ex.: "este"; "aquelas".
-        -   `Proximal`: Indica uma entidade próxima ao locutor (primeira pessoa). Ex.: "este".
-        -   `Medial`: Indica uma entidade próxima ao ouvinte (segunda pessoa). Ex.: "esse".
-        -   `Distal`: Indica uma entidade que não está próxima nem do locutor e nem do ouvinte (terceira pessoa). Em linguagens que não possuem o demonstrativo medial, costuma ocupar seu lugar. Ex.: "aquele".
-    -   `Recíproco`: Indica que duas ou mais entidades estão realizando a ação mutualmente. Ex.: "se". Ex. (Inglês): "each other"; "one another".
-    -   `Relativo`: Introduz uma oração subordinada. Ex.: "que"; "quem"; "onde".
-    -   `Interrogativo`: É utilizado para fazer perguntas. Ex.: "quem"; "o que"; "qual".
-    -   `Indefinido`: Refere-se a entidades inespecíficas ou genéricas. Ex.: "alguém"; "nada"; "nunca"; "todos".
-        -   `Universal`: Refere-se a todas as entidades. Ex.: "todo".
-            -   `Distributivo`: Refere-se a todas as entidades individualmente. Ex.: "cada".
-        -   `Existencial`: Refere-se a uma única entidade específica. Ex.: "alguém".
-        -   `Eletivo ou existencial dubitativo`: Refere-se a uma única entidade não-específica. Ex.: "qualquer um".
-        -   `Negativo`: Não se refere a nenhuma entidade do tipo. Ex.: "ninguém".
-        -   `Alternativo`: Refere-se a uma entidade diferente da entidade referida anteriormente. Ex.: "um outro".
-    -   `Honorífico` ou `de Tratamento`: Respeitoso, é utilizado comumente em situações formais. Ex.: "senhor"; "Vossa Magnificência". Ex. (Japonês): "さん"; "様".
--   `Determinante`: Modificador de substantivos, sempre se liga a um. Descreve uma palavra indicando seu relacionamento com outros elementos.
-    -   `Artigo`: Marca a identificabilidade dos substantivos.
-        -   `Definido`: Especifica sobre qual entidade se fala. Ex.: "o"; "as".
-        -   `Indefinido`: Não se especifica sobre qual entidade se fala, se refere a qualquer membro de sua classe. Ex.: "uma"; "uns".
-        -   `Partitivo`: Parecido com o indefinido, mas serve para uma quantidade não especificada da classe de que se fala. Ex. (Francês): "du"; "de la"; "des".
-    -   `Demonstrativo`: Indica as entidades de que se fala e as distinguem de outras entidades. Ex.: "esse"; "aquele". Assim como os pronomes, pode ser proximal, medial ou distal.
-    -   `Possessivo`: Indica de quem é a posse do substantivo. Às vezes chamados "adjetivos possessivos". Ex.: "meu"; "seu"; "nosso".
-    -   `Quantificador`: Indica o conjunto ou o número de entidades da classe que se descreve. Ex.: "cada"; "todo"; "algum".
--   `Verbo` (Verb): Ação, ocorrência ou estado de ser descrito em uma oração. Define o predicado. Ex.: "ler"
-    -   `Verbo pronominal`: Verbo que aparece acompanhado de um pronome. Ex.: "deitar-se".
-    -   `Verbo auxiliar` (Auxiliary verb): Usado junto ao verbo principal para adicionar sentido funcional ou gramatical à oração, expressando tempo, aspecto, modalidade, voz, ênfase, etc.
-        -   `Verbo modal` (Modal verb): É um tipo de verbo auxiliar que modifica o verbo principal para adicionar modalidade à oração, ou seja, usado para indicar probabilidade, possibilidade, permissão, solicitação, capacidade, sugestão, ordem, necessidade, obrigação, conselho, etc. Modalidade é a atitude do falante em relação à realidade.
--   `Cópula`: Palavra (geralmente um verbo) que caracteriza o sujeito, descreve algo sobre ele. Na maior parte das linguagens é um equivalente do verbo "ser" ou "estar".
--   `Adposição`: Expressa relações espaciais, temporais e lógicas entre dois elementos da oração ou marca papéis semânticos (como o caso gramatical). Ou seja, ligam substantivos a substantivos, verbos a substantivos, etc.
-    -   `Preposição`: Vem antes de seu complemento. Ex.: "até"; "desde"; "para".
-    -   `Posposição`: Vem depois de seu complemento.
--   `Partícula`: Altera o significado ou função de uma palavra. Não pode ser flexionada.
--   `Adjetivo`: Qualifica um substantivo ou pronome. Ex.: "bonito"; "rápido".
--   `Advérbio`: Qualifica ou modifica um verbo, adjetivo, outro advérbio, determinante, cláusula, preposição, ou frase. Ex.: "muito"; "bem"; "embaixo".
--   `Conjunção`: Conecta palavras, locuções ou orações. Ex.: "e"; "mas"; "ou". Diferente da adposição, não expressa uma relação entre as palavras.
--   `Interjeição`: Expressa sentimentos ou reações espontâneas. Ex.: "ah!"; "uau!"; "hein?".
+- `Complemento`: Palavra, locução ou oração necessária para dar sentido a uma expressão ou frase. Às vezes também é chamado complemento o que não é o sujeito, como qualquer um dos objetos.
+- `Substantivo` (Noun): Palavra que representa coisas concretas ou abstratas. Podem ser sujeitos e objetos.
+    - `Próprio`: Identifica uma única entidade e é utilizado para se referir a ela.
+    - `Comum`: Representa classes de entidades.
+- `Pronome` (Pronoun): Substituto genérico de um substantivo.
+    - `Pessoal`: Se refere à entidades específicas.
+        - `Reto` (Direct): Indica o sujeito da oração. Ex.: "eu"; "tu"; "nós".
+        - `Oblíquo` (Oblique): Indica o complemento da oração.
+            - `Átono` (Unstressed): Não é utilizado com preposição. No português, são pronomes `clíticos`. Ex.: "me"; "te"; "nos".
+            - `Tônico` (Stressed): É utilizado com preposição. Ex.: "comigo"; "contigo"; "conosco"; "[para] ele".
+        - `Disjuntivo`: Também chamado tônico. Porém além da função oblíqua, também pode ser utilizado sozinho. Enfatiza ou identifica a entidade a qual se refere. Ex. (Francês): "moi"; "toi"; "lui".
+            - Além de ser usado após preposições, costuma ser usado após verbos para enfatizar objetos e também em comparações.
+    - `Possessivo`: Se refere à uma entidade baseado em sua relação com a pessoa gramatical. Ex.: "meu"; "teu"; "dele".
+    - `Reflexivo`: Usado quando se quer indicar que o sujeito e objeto da oração são a mesma entidade. Ex.: "si"; "consigo". Ex. (Inglês): "myself"; "yourself"; "ourselves".
+    - `Demonstrativo`: Indica as entidades de que se fala e as distinguem de outras entidades. Ex.: "este"; "aquelas".
+        - `Proximal`: Indica uma entidade próxima ao locutor (primeira pessoa). Ex.: "este".
+        - `Medial`: Indica uma entidade próxima ao ouvinte (segunda pessoa). Ex.: "esse".
+        - `Distal`: Indica uma entidade que não está próxima nem do locutor e nem do ouvinte (terceira pessoa). Em linguagens que não possuem o demonstrativo medial, costuma ocupar seu lugar. Ex.: "aquele".
+    - `Recíproco`: Indica que duas ou mais entidades estão realizando a ação mutualmente. Ex.: "se". Ex. (Inglês): "each other"; "one another".
+    - `Relativo`: Introduz uma oração subordinada. Ex.: "que"; "quem"; "onde".
+    - `Interrogativo`: É utilizado para fazer perguntas. Ex.: "quem"; "o que"; "qual".
+    - `Indefinido`: Refere-se a entidades inespecíficas ou genéricas. Ex.: "alguém"; "nada"; "nunca"; "todos".
+        - `Universal`: Refere-se a todas as entidades. Ex.: "todo".
+            - `Distributivo`: Refere-se a todas as entidades individualmente. Ex.: "cada".
+        - `Existencial`: Refere-se a uma única entidade específica. Ex.: "alguém".
+        - `Eletivo ou existencial dubitativo`: Refere-se a uma única entidade não-específica. Ex.: "qualquer um".
+        - `Negativo`: Não se refere a nenhuma entidade do tipo. Ex.: "ninguém".
+        - `Alternativo`: Refere-se a uma entidade diferente da entidade referida anteriormente. Ex.: "um outro".
+    - `Honorífico` ou `de Tratamento`: Respeitoso, é utilizado comumente em situações formais. Ex.: "senhor"; "Vossa Magnificência". Ex. (Japonês): "さま"; "様".
+- `Determinante`: Modificador de substantivos, sempre se liga a um. Descreve uma palavra indicando seu relacionamento com outros elementos.
+    - `Artigo`: Marca a identificabilidade dos substantivos.
+        - `Definido`: Especifica sobre qual entidade se fala. Ex.: "o"; "as".
+        - `Indefinido`: Não se especifica sobre qual entidade se fala, se refere a qualquer membro de sua classe. Ex.: "uma"; "uns".
+        - `Partitivo`: Parecido com o indefinido, mas serve para uma quantidade não especificada da classe de que se fala. Ex. (Francês): "du"; "de la"; "des".
+    - `Demonstrativo`: Indica as entidades de que se fala e as distinguem de outras entidades. Ex.: "esse"; "aquele". Assim como os pronomes, pode ser proximal, medial ou distal.
+    - `Possessivo`: Indica de quem é a posse do substantivo. Às vezes chamados "adjetivos possessivos". Ex.: "meu"; "seu"; "nosso".
+    - `Quantificador`: Indica o conjunto ou o número de entidades da classe que se descreve. Ex.: "cada"; "todo"; "algum".
+- `Verbo` (Verb): Ação, ocorrência ou estado de ser descrito em uma oração. Define o predicado. Ex.: "ler"
+    - `Verbo pronominal`: Verbo que aparece acompanhado de um pronome. Ex.: "deitar-se".
+    - `Verbo auxiliar` (Auxiliary verb): Usado junto ao verbo principal para adicionar sentido funcional ou gramatical à oração, expressando tempo, aspecto, modalidade, voz, ênfase, etc.
+        - `Verbo modal` (Modal verb): É um tipo de verbo auxiliar que modifica o verbo principal para adicionar modalidade à oração, ou seja, usado para indicar probabilidade, possibilidade, permissão, solicitação, capacidade, sugestão, ordem, necessidade, obrigação, conselho, etc. Modalidade é a atitude do falante em relação à realidade.
+- `Cópula`: Palavra (geralmente um verbo) que caracteriza o sujeito, descreve algo sobre ele. Na maior parte das linguagens é um equivalente do verbo "ser" ou "estar".
+- `Adposição`: Expressa relações espaciais, temporais e lógicas entre dois elementos da oração ou marca papéis semânticos (como o caso gramatical). Ou seja, ligam substantivos a substantivos, verbos a substantivos, etc.
+    - `Preposição`: Vem antes de seu complemento. Ex.: "até"; "desde"; "para".
+    - `Posposição`: Vem depois de seu complemento.
+- `Partícula`: Altera o significado ou função de uma palavra. Não pode ser flexionada.
+- `Adjetivo`: Qualifica um substantivo ou pronome. Ex.: "bonito"; "rápido".
+- `Advérbio`: Qualifica ou modifica um verbo, adjetivo, outro advérbio, determinante, cláusula, preposição, ou frase. Ex.: "muito"; "bem"; "embaixo".
+- `Conjunção`: Conecta palavras, locuções ou orações. Ex.: "e"; "mas"; "ou". Diferente da adposição, não expressa uma relação entre as palavras.
+- `Interjeição`: Expressa sentimentos ou reações espontâneas. Ex.: "ah!"; "uau!"; "hein?".
 
 ## Aspectos ou inflexões gramaticais (Grammatical or inflectional features)
 
--   `Definitude`: Indica se o substantivo, artigo ou outro elemento é definido ou indefinido.
--   `Polaridade`: Indica se a ação é afirmativa ou negativa.
--   `Valência`: Indica quantos são os complementos da ação. Ex.: Impessoal (avalente), intransitivo (monovalente/monádico), transitivo (divalente/diádico), etc.
--   `Modo (Mood)`: Indica a modalidade da ação. Ou seja, a atitude do falante em relação ao que ele fala. Ex.: Indicativo, subjuntivo, etc.
--   `Tempo` (Tense): Indica quando a ação ocorre. Ex.: Passado; presente; futuro.
-    -   Em várias linguagens, o futuro do pretérito é chamado de "condicional".
--   `Aspecto` (Aspect): Indica como a ação ocorre. Em várias linguagens não é um recurso independente, sendo usado junto ao tempo. Ex.: Progressivo; contínuo; perfeito; imperfeito.
--   `Número`: Indica a quantidade de entidades. Ex.: Singular; plural; dual; coletivo.
--   `Pessoa`: Indica quem participa da ação. Ex.: Primeira pessoa (quem fala); Segunda pessoa (com quem se fala); Terceira pessoa (de quem se fala).
--   `Voz`: Indica a relação entre a ação do verbo e seus participantes. Ex.: Ativa, passiva, etc.
--   `Caso`: Indica a função gramatical de uma palavra na oração. Ex.: Nomitativo, acusativo, possessivo, etc.
--   `Gênero`: Indica a classe à qual determinadas palavras pertencem, sem necessariamente relacioná-las com qualidades do mundo real. Ex.: Masculino; feminino; neutro; animado; inanimado.
--   `Polidez` (Politeness): Indica respeito ou um relacionamento social.
+- `Definitude`: Indica se o substantivo, artigo ou outro elemento é definido ou indefinido.
+- `Polaridade`: Indica se a ação é afirmativa ou negativa.
+- `Valência`: Indica quantos são os complementos da ação. Ex.: Impessoal (avalente), intransitivo (monovalente/monádico), transitivo (divalente/diádico), etc.
+- `Modo (Mood)`: Indica a modalidade da ação. Ou seja, a atitude do falante em relação ao que ele fala. Ex.: Indicativo, subjuntivo, etc.
+- `Tempo` (Tense): Indica quando a ação ocorre. Ex.: Passado; presente; futuro.
+    - Em várias linguagens, o futuro do pretérito é chamado de "condicional".
+- `Aspecto` (Aspect): Indica como a ação ocorre. Em várias linguagens não é um recurso independente, sendo usado junto ao tempo. Ex.: Progressivo; contínuo; perfeito; imperfeito.
+- `Número`: Indica a quantidade de entidades. Ex.: Singular; plural; dual; coletivo.
+- `Pessoa`: Indica quem participa da ação. Ex.: Primeira pessoa (quem fala); Segunda pessoa (com quem se fala); Terceira pessoa (de quem se fala).
+- `Voz`: Indica a relação entre a ação do verbo e seus participantes. Ex.: Ativa, passiva, etc.
+- `Caso`: Indica a função gramatical de uma palavra na oração. Ex.: Nomitativo, acusativo, possessivo, etc.
+- `Gênero`: Indica a classe à qual determinadas palavras pertencem, sem necessariamente relacioná-las com qualidades do mundo real. Ex.: Masculino; feminino; neutro; animado; inanimado.
+- `Polidez` (Politeness): Indica respeito ou um relacionamento social.
 
 ### Forma verbal
 
@@ -138,29 +138,29 @@
 
 **Determina a postura da pessoa que fala em relação ao que ela fala.**
 
--   `Realis`: Indica afirmações ou fatos. Na maior parte das linguagens, constitui apenas do indicativo.
-    -   `Indicativo`: Indica uma afirmação ou fato.
--   `Irrealis`: Indica situações que não se sabe se ocorreram no momento em que o locutor está falando.
-    -   `Subjuntivo`: Indica uma hipótese ou desejo.
-        -   Geralmente se utiliza com os advérbios/preposições "que", "se" e "quando".
-    -   `Imperativo`: Indica ordens, sugestões ou pedidos.
-    -   `Condicional`: Indica uma proposição que depende de uma condição. No português, corresponde ao tempo futuro do pretérito.
-    -   `Optativo`: Indica desejos, preces e maldizeres. Essa função geralmente se encontra no subjuntivo de muitas linguagens.
-    -   `Presuntivo`: Indica uma proposição que depende de uma presunção.
+- `Realis`: Indica afirmações ou fatos. Na maior parte das linguagens, constitui apenas do indicativo.
+    - `Indicativo`: Indica uma afirmação ou fato.
+- `Irrealis`: Indica situações que não se sabe se ocorreram no momento em que o locutor está falando.
+    - `Subjuntivo`: Indica uma hipótese ou desejo.
+        - Geralmente se utiliza com os advérbios/preposições "que", "se" e "quando".
+    - `Imperativo`: Indica ordens, sugestões ou pedidos.
+    - `Condicional`: Indica uma proposição que depende de uma condição. No português, corresponde ao tempo futuro do pretérito.
+    - `Optativo`: Indica desejos, preces e maldizeres. Essa função geralmente se encontra no subjuntivo de muitas linguagens.
+    - `Presuntivo`: Indica uma proposição que depende de uma presunção.
 
 #### Forma não-finita
 
--   `Infinitivo`: Forma de dicionário. Geralmente pode ser usado como substantivo, adjetivo ou advérbio.
--   `Gerúndio`: Forma predominantemente nominal ou adverbial do verbo.
-    -   Geralmente indica o presente perfeito.
-    -   No português, pode desempenhar funções semelhantes a um particípio presente.
--   `Particípio`: Forma predominantemente adjetival do verbo.
-    -   Também pode atuar de forma nominal e adverbial.
-    -   Geralmente é utilizada como adjetivo ou para formar tempos verbais (geralmente se unindo a um verbo auxiliar).
-    -   No português, existem, linguisticamente, 3 particípios, mas geralmente considera-se apenas um: o particípio passado. Ele é dividido em:
-        -   Particípio `curto` ou `irregular`: terminação -o ou -e; usado com os verbos "ser" e "estar" na voz passiva.
-        -   Particípio `longo` ou `regular`: terminação -ado ou -ido; usado com os verbos "ter" e "haver".
--   `Supino`: Forma nominal proposital do verbo. Indica o propósito quando usado com verbos de movimento.
+- `Infinitivo`: Forma não flexionada do verbo. Geralmente a forma verbal encontrada nos dicionários de grande parte das línguas. Pode ser usado como substantivo, adjetivo ou advérbio.
+- `Gerúndio`: Forma predominantemente nominal ou adverbial do verbo.
+    - Geralmente indica o presente perfeito.
+    - No português, pode desempenhar funções semelhantes a um particípio presente.
+- `Particípio`: Forma predominantemente adjetival do verbo.
+    - Também pode atuar de forma nominal e adverbial.
+    - Geralmente é utilizada como adjetivo ou para formar tempos verbais (geralmente se unindo a um verbo auxiliar).
+    - No português, existem, linguisticamente, 3 particípios, mas geralmente considera-se apenas um: o particípio passado. Ele é dividido em:
+        - Particípio `curto` ou `irregular`: terminação -o ou -e; usado com os verbos "ser" e "estar" na voz passiva.
+        - Particípio `longo` ou `regular`: terminação -ado ou -ido; usado com os verbos "ter" e "haver".
+- `Supino`: Forma nominal proposital do verbo. Indica o propósito quando usado com verbos de movimento.
 
 > [!IMPORTANT]
 > Os conceitos de gerúndio e o partícipio podem se sobrepor causar confusão. Para diferenciar as funções, basta considerar:
@@ -171,27 +171,27 @@
 
 **Determina a função de substantivos, pronomes e modificadores de substantivos.**
 
--   `Nominativo`: Indica quem realiza a ação (sujeito).
--   `Acusativo`: Indica quem recebe a ação (objeto direto).
--   `Dativo`: Indica quem recebe o objeto direto ou algo realizado pelo objeto direto (objeto indireto).
--   `Genitivo`: Indica a posse, composição ou relação de um substantivo com outra coisa.
-    -   `Possessivo`: Subconjunto do genitivo que indica apenas posse.
--   `Alativo`: Indica movimento para perto.
--   `Ablativo`: Indica movimento para longe.
--   `Locativo`: Indica o substantivo como a localização de algo, seja física ou temporal.
--   `Instrumental`: Indica os meios pelos quais algo ocorre, ou com quem a ação ocorre (quando não há caso comitativo).
--   `Comitativo`: Indica com quem a ação ocorre, a companhia do sujeito.
--   `Vocativo`: Indica quem está sendo chamado. Usado quando se quer chamar alguém.
+- `Nominativo`: Indica quem realiza a ação (sujeito).
+- `Acusativo`: Indica quem recebe a ação (objeto direto).
+- `Dativo`: Indica quem recebe o objeto direto ou algo realizado pelo objeto direto (objeto indireto).
+- `Genitivo`: Indica a posse, composição ou relação de um substantivo com outra coisa.
+    - `Possessivo`: Subconjunto do genitivo que indica apenas posse.
+- `Alativo`: Indica movimento para perto.
+- `Ablativo`: Indica movimento para longe.
+- `Locativo`: Indica o substantivo como a localização de algo, seja física ou temporal.
+- `Instrumental`: Indica os meios pelos quais algo ocorre, ou com quem a ação ocorre (quando não há caso comitativo).
+- `Comitativo`: Indica com quem a ação ocorre, a companhia do sujeito.
+- `Vocativo`: Indica quem está sendo chamado. Usado quando se quer chamar alguém.
 
 ### Voz verbal
 
 **Também chamada diátese.**
 
--   `Ativa`: O sujeito realiza a ação do verbo e é dito "agente".
--   `Passiva`: O sujeito sofre a ação do verbo e é dito "paciente".
-    -   Costuma-se usar quando quer-se focar no objeto da frase na voz ativa, e em muitos casos quando não é possível identificar o sujeito da voz ativa.
--   `Reflexiva`: O sujeito realiza e sofre a ação do verbo, sendo agente e paciente. Geralmente acompanha um pronome reflexivo em algumas línguas.
-    -   `Reciproca`: Voz reflexiva com mais de um agente e paciente, onde cada agente realiza a ação do verbo a cada paciente.
--   `Média`: Similar à voz reflexiva, mas tem uma nuance mais intransitiva, sem necessariamente indicar que o sujeito está agindo sobre si mesmo.
--   `Médio-passiva`: Possui as funções média e passiva.
--   `Depoente`: É uma forma verbal onde o verbo é escrito na voz passiva ou média, mas é usado na voz ativa. Encontrada no latim, grego, sânscrito e nas línguas escandinavas.
+- `Ativa`: O sujeito realiza a ação do verbo e é dito "agente".
+- `Passiva`: O sujeito sofre a ação do verbo e é dito "paciente".
+    - Costuma-se usar quando quer-se focar no objeto da frase na voz ativa, e em muitos casos quando não é possível identificar o sujeito da voz ativa.
+- `Reflexiva`: O sujeito realiza e sofre a ação do verbo, sendo agente e paciente. Geralmente acompanha um pronome reflexivo em algumas línguas.
+    - `Reciproca`: Voz reflexiva com mais de um agente e paciente, onde cada agente realiza a ação do verbo a cada paciente.
+- `Média`: Similar à voz reflexiva, mas tem uma nuance mais intransitiva, sem necessariamente indicar que o sujeito está agindo sobre si mesmo.
+- `Médio-passiva`: Possui as funções média e passiva.
+- `Depoente`: É uma forma verbal onde o verbo é escrito na voz passiva ou média, mas é usado na voz ativa. Encontrada no latim, grego, sânscrito e nas línguas escandinavas.

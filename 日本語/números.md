@@ -154,18 +154,29 @@
 
 **Ao falar, costuma-se pausar a cada 4 números. O ponto decimal é considerado como um.**
 
+**Para quantidades imprecisas, pode-usar <font size="5"><code><ruby>何<rt>なん</rt></ruby></code></font> como prefixo. Ex.: <font size="5"><code><ruby>何<rt>なん</rt>百<rt>びゃく</rt></ruby></code></font> "centenas"; <font size="5"><code><ruby>何<rt>なん</rt>千<rt>ぜん</rt></ruby></code></font> "milhares".**
+
 ### Operações
 
--   <font size="5"><code><ruby>足<rt>た</rt></ruby>す</code></font> Somar
--   <font size="5"><code><ruby>引<rt>ひ</rt></ruby>く</code></font> Subtrair
--   <font size="5"><code><ruby>掛<rt>か</rt></ruby>ける</code></font> Multiplicar
--   <font size="5"><code><ruby>割<rt>わ</rt></ruby>る</code></font> Dividir
--   <font size="5"><code><ruby>平<rt>へい</rt>均<rt>きん</rt></ruby></code></font> Média
+- <font size="5"><code><ruby>足<rt>た</rt></ruby>す</code></font> Somar
+- <font size="5"><code><ruby>引<rt>ひ</rt></ruby>く</code></font> Subtrair
+- <font size="5"><code><ruby>掛<rt>か</rt></ruby>ける</code></font> Multiplicar
+- <font size="5"><code><ruby>割<rt>わ</rt></ruby>る</code></font> Dividir
+- <font size="5"><code><ruby>平<rt>へい</rt>均<rt>きん</rt></ruby></code></font> Média
 
 ### Frações e decimais
 
--   Frações são indicadas por <font size="5"><code><ruby>分<rt>ぶん</rt></ruby>の</code></font>, porém na ordem inversa. Ex.: 1/3 → <font size="5"><code>３<ruby>分<rt>ぶん</rt></ruby>の１</code></font>.
--   Decimais são lidos como os outros números, apenas indicando o ponto com <font size="5"><code><ruby>点<rt>てん</rt></ruby></code></font>.
+**Frações são indicadas por <font size="5"><code><ruby>分<rt>ぶん</rt></ruby>の</code></font>, porém na ordem inversa. Ex.: 1/3 → <font size="5"><code>３<ruby>分<rt>ぶん</rt></ruby>の１</code></font>.**
+
+**Decimais são lidos como os outros números, apenas indicando o ponto com <font size="5"><code><ruby>点<rt>てん</rt></ruby></code></font>.**
+
+- <font size="5"><code><ruby>割<rt>わり</rt>合<rt>あい</rt></ruby></code></font> Razão/Porcentagem/Proporção
+
+### Classificadores
+
+- <font size="5"><code><ruby>一<rt>いっ</rt>方<rt>ぽう</rt></ruby></code></font> Um (dos)
+    - Indica uma de duas partes.
+- <font size="5"><code><ruby>両<rt>りょう</rt>方<rt>ほう</rt></ruby></code></font> Ambos
 
 ## <ruby>助<rt>じょ</rt>数<rt>すう</rt>詞<rt>し</rt></ruby> - Contadores
 
@@ -177,71 +188,71 @@
 
 ### `つ` Coisas (até 10)
 
--   Usa wago.
--   Geralmente usado para indicar quantas coisas existem.
+- Usa wago.
+- Geralmente usado para indicar quantas coisas existem.
 
 #### つ<ruby>目<rt>め</rt></ruby> Ordinal/Item em uma sequência
 
 ### <font size="5"><code><ruby>個<rt>こ</rt></ruby></code></font> Coisas em geral (genérico)
 
--   Usa kango.
+- Usa kango.
 
 ### <font size="5"><code><ruby>人<rt>り・にん</rt></ruby></code></font> Pessoas
 
--   1 e 2 usam wago + `り`. Os outros usam kango + `にん`.
--   4 e 7 são `よ` e `しち`.
--   Em contextos mais formais, como em restaurantes, usa-se o contador <font size="5"><code><ruby>名<rt>めい</rt></ruby></code></font>. Ex.: <font size="5"><code><ruby>何<rt>なん</rt>名<rt>めい</rt>様<rt>さま</rt></ruby></code></font>
+- 1 e 2 usam wago + `り`. Os outros usam kango + `にん`.
+- 4 e 7 são `よ` e `しち`.
+- Em contextos mais formais, como em restaurantes, usa-se o contador <font size="5"><code><ruby>名<rt>めい</rt></ruby></code></font>. Ex.: <font size="5"><code><ruby>何<rt>なん</rt>名<rt>めい</rt>様<rt>さま</rt></ruby></code></font>
 
 ### <font size="5"><code><ruby>年<rt>ねん</rt></ruby></code></font> Anos e séries escolares
 
--   4 é `よ`
--   Pode-se adicionar `生` para dizer "estudante do X ano".
+- 4 é `よ`
+- Pode-se adicionar `生` para dizer "estudante do X ano".
 
 ### <font size="5"><code><ruby>月<rt>つき・がつ</rt></ruby></code></font> Meses
 
--   1 e 2 meses cardinais são lidos em wago.
--   A partir de três usa-se kango e o contador <font size="5"><code><ruby>箇<rt>か</rt>月<rt>げつ</rt></ruby></code></font>.
-    -   1 e 2 meses também podem ser lidos assim (é intercambiável).
-    -   `箇` também pode ser escrito como `か・カ・ヵ・ケ・ヶ`. Sempre se pronuncia `か`.
--   Os meses do ano são lidos em kango + `がつ`.
-    -   4, 7 e 9 são `し`, `しち` e `く`
+- 1 e 2 meses cardinais são lidos em wago.
+- A partir de três usa-se kango e o contador <font size="5"><code><ruby>箇<rt>か</rt>月<rt>げつ</rt></ruby></code></font>.
+    - 1 e 2 meses também podem ser lidos assim (é intercambiável).
+    - `箇` também pode ser escrito como `か・カ・ヵ・ケ・ヶ`. Sempre se pronuncia `か`.
+- Os meses do ano são lidos em kango + `がつ`.
+    - 4, 7 e 9 são `し`, `しち` e `く`
 
 ### <font size="5"><code><ruby>日<rt>にち・か</rt></ruby></code></font> Dias cardinais (durações)
 
--   Usa wago do 2 até o 10.
--   1 é `いちにち`.
--   2 é `ふつか`.
--   8 é `ようか`.
--   X4 é `Xじゅうよんにち`.
--   X9 usa `く` ao invés de `きゅう`
--   20 é `はつか`, ou menos comumente, `にじゅうにち`.
--   49 tem uma forma específica no budismo: `しじゅうくにち` ao invés de `よんじゅうくにち`, se referindo à quantidade de dias passados desde a morte de alguém.
-    -   Isso se dá pela leitura onyomi de <font size="5"><code><ruby>四<rt>し</rt></ruby></code></font>, que é a mesma de <font size="5"><code><ruby>死<rt>し</rt></ruby></code></font> "morte".
+- Usa wago do 2 até o 10.
+- 1 é `いちにち`.
+- 2 é `ふつか`.
+- 8 é `ようか`.
+- X4 é `Xじゅうよんにち`.
+- X9 usa `く` ao invés de `きゅう`
+- 20 é `はつか`, ou menos comumente, `にじゅうにち`.
+- 49 tem uma forma específica no budismo: `しじゅうくにち` ao invés de `よんじゅうくにち`, se referindo à quantidade de dias passados desde a morte de alguém.
+    - Isso se dá pela leitura onyomi de <font size="5"><code><ruby>四<rt>し</rt></ruby></code></font>, que é a mesma de <font size="5"><code><ruby>死<rt>し</rt></ruby></code></font> "morte".
 
 ### <font size="5"><code><ruby>日<rt>にち・か</rt></ruby></code></font> Dias ordinais (calendário)
 
--   Segue as mesmas regras dos dias cardinais, exceto:
-    -   1 é `ついたち`. Ou `いっぴ` em contextos formais e empresariais.
-    -   X4 é `Xじゅうよっか`.
+- Segue as mesmas regras dos dias cardinais, exceto:
+    - 1 é `ついたち`. Ou `いっぴ` em contextos formais e empresariais.
+    - X4 é `Xじゅうよっか`.
 
 > [!IMPORTANT]
 > Para estadias, usa-se o contador <font size="5"><code><ruby>泊<rt>はく</rt></ruby></code></font> e conta-se as noites ao invés de dias completos.
 
 ### <font size="5"><code><ruby>第<rt>だい</rt></ruby>、<ruby>目<rt>め</rt></ruby></code></font> Afixos de dias ordinais
 
--   Ambos acompanham a contagem com 日
--   `第` é um prefixo e é mais honorífico. Usa a forma kango, inclusive para o contador.
--   `目` é um sufixo e é mais casual. Usa a forma já utilizada pelo contador.
+- Ambos acompanham a contagem com 日
+- `第` é um prefixo e é mais honorífico. Usa a forma kango, inclusive para o contador.
+- `目` é um sufixo e é mais casual. Usa a forma já utilizada pelo contador.
 
 ### <font size="5"><code><ruby>時<rt>じ</rt></ruby></code></font> Horas (ponto no tempo)
 
--   <font size="5"><code><ruby>時<rt>じ</rt>間<rt>かん</rt></ruby></code></font> Horas (duração)
-    -   O `半` deve vir depois e não no meio.
--   4, 7 e 9 são `よ`, `しち` e `く`.
+- <font size="5"><code><ruby>時<rt>じ</rt>間<rt>かん</rt></ruby></code></font> Horas (duração)
+    - O `半` deve vir depois e não no meio.
+- 4, 7 e 9 são `よ`, `しち` e `く`.
 
 ### <font size="5"><code><ruby>分<rt>ふん</rt></ruby></code></font> Minutos
 
--   <font size="5"><code><ruby>分<rt>ふん</rt>間<rt>かん</rt></ruby></code></font> Minutos (duração)
+- <font size="5"><code><ruby>分<rt>ふん</rt>間<rt>かん</rt></ruby></code></font> Minutos (duração)
 
 ### <font size="5"><code><ruby>歳<rt>さい</rt></ruby></code></font> Idade
 
@@ -249,86 +260,92 @@
 
 **Vinte anos é a idade em que alguém se torna adulto no Japão. Usa-se `はたち` ao invés de `二十`**
 
--   Pelo kanji ser muito complicado, algumas pessoas usam `才` informalmente.
+- Pelo kanji ser muito complicado, algumas pessoas usam `才` informalmente.
 
 ### <font size="5"><code><ruby>代<rt>だい</rt></ruby></code></font> Décadas de idade
 
--   Usado para se referir às décadas de uma idade. Ex.: `20代の頃` "Nos meus 20 anos/Na casa dos meus 20 anos".
+- Usado para se referir às décadas de uma idade. Ex.: `20代の頃` "Nos meus 20 anos/Na casa dos meus 20 anos".
 
 ### <font size="5"><code><ruby>年<rt>ねん</rt>代<rt>だい</rt></ruby></code></font> Décadas
 
--   Usado para se referir a décadas específicas. Ex.: `９０年代` "Os anos 90".
+- Usado para se referir a décadas específicas. Ex.: `９０年代` "Os anos 90".
 
 ### <font size="5"><code><ruby>回<rt>かい</rt></ruby></code></font> Frequência, Parcelas
 
--   Pode ser traduzido como "vezes"
--   Quando é incerto se vai repetir, usar <font size="5"><code><ruby>度<rt>ど</rt></ruby></code></font>. Também usar para ocorrências de um evento.
--   Para indicar a frequência em um período, usa-se `[período]に[frequência]`. Ex.: `週に一回` "Uma vez por semana, `二週間三回` "Três vezes a cada duas semanas".
-    -   Também podem ser usados outros contadores temporais para indicar a frequência. Ex.: `月に一日` "Um dia por mês".
+- Pode ser traduzido como "vezes".
+- Quando é incerto se vai repetir, usar <font size="5"><code><ruby>度<rt>ど</rt></ruby></code></font>. Também usar para ocorrências de um evento.
+- Para indicar a frequência em um período, usa-se `[período]に[frequência]`. Ex.: `週に一回` "Uma vez por semana, `二週間三回` "Três vezes a cada duas semanas".
+    - Também podem ser usados outros contadores temporais para indicar a frequência. Ex.: `月に一日` "Um dia por mês".
+
+### <font size="5"><code><ruby>度<rt>ど</rt></ruby></code></font> Ocasiões, Repetições
+
+- Pode ser traduzido como "vezes".
+- Se é algo frequente, que certamente se repete, usar <font size="5"><code><ruby>回<rt>かい</rt></ruby></code></font>.
+- Ex.: `日本に一度行った` "Fui ao Japão uma vez".
 
 ### <font size="5"><code><ruby>階<rt>かい</rt></ruby></code></font> Andares
 
--   3 geralmente é `がい`
--   Usar o sufixo <font size="5"><code><ruby>建<rt>だ</rt></ruby>て</code></font> para dizer que algo tem X andares.
+- 3 geralmente é `がい`
+- Usar o sufixo <font size="5"><code><ruby>建<rt>だ</rt></ruby>て</code></font> para dizer que algo tem X andares.
 
 ### <font size="5"><code><ruby>円<rt>えん</rt></ruby></code></font> Dinheiro
 
 **O Japão só usa 4 notas, que usam as seguintes formas seguindo o `大字`: `千円` (1000), `弐千円` (2000), `五千円` (5000), `壱万円` (10000).**
 
--   O zero antes do ponto decimal deve ser lido como `れい`. Os outros tanto faz.
+- O zero antes do ponto decimal deve ser lido como `れい`. Os outros tanto faz.
 
 ### <font size="5"><code><ruby>本<rt>ほん</rt></ruby></code></font> Coisas alongadas ou que se extendem
 
--   Serve para coisas abstratas que se extendem, como shows, filmes, projetos, trajetórias.
--   Instrumentos.
--   Também serve para cassetes (pela fita interna ser longa) e jogos (por se "originarem" das fitas) ou softwares em geral.
+- Serve para coisas abstratas que se extendem, como shows, filmes, projetos, trajetórias.
+- Instrumentos.
+- Também serve para cassetes (pela fita interna ser longa) e jogos (por se "originarem" das fitas) ou softwares em geral.
 
 ### <font size="5"><code><ruby>枚<rt>まい</rt></ruby></code></font> Coisas planas
 
--   Como fatias, folhas de papel, etc.
+- Como fatias, folhas de papel, etc.
 
 ### <font size="5"><code><ruby>匹<rt>ひき</rt></ruby></code></font> Animais pequenos, médios, criaturas e monstros
 
--   Animais robôs e virtuais também
--   Godzilla, titãs de 進撃の巨人
--   Vírus de computador
+- Animais robôs e virtuais também
+- Godzilla, titãs de 進撃の巨人
+- Vírus de computador
 
 ### <font size="5"><code><ruby>頭<rt>とう</rt></ruby></code></font> Animais grandes, raros ou profissionais
 
--   Cães-guia, animais de laboratório, fazenda ou zoológico, insetos em ambientes acadêmicos, animais perigosos independente do tamanho (como enxame de abelhas).
+- Cães-guia, animais de laboratório, fazenda ou zoológico, insetos em ambientes acadêmicos, animais perigosos independente do tamanho (como enxame de abelhas).
 
 ### <font size="5"><code><ruby>羽<rt>わ</rt></ruby></code></font> Aves, morcegos e coelhos
 
--   Quando mortos, apenas o peru é contado assim.
+- Quando mortos, apenas o peru é contado assim.
 
 ### <font size="5"><code><ruby>冊<rt>さつ</rt></ruby></code></font> Livros e cadernos
 
 ### <font size="5"><code><ruby>台<rt>だい</rt></ruby></code></font> Mobília, instrumentos grandes, veículos e eletrônicos
 
--   Bolos e tortas inteiras também.
--   Veículos incluem tudo que possa carregar uma pessoa, como carrinhos, skates, carroças.
+- Bolos e tortas inteiras também.
+- Veículos incluem tudo que possa carregar uma pessoa, como carrinhos, skates, carroças.
 
 ### <font size="5"><code><ruby>駅<rt>えき</rt></ruby></code></font> Estações de trem
 
--   1 e 2 usam wago
+- 1 e 2 usam wago
 
 ### <font size="5"><code><ruby>引<rt>び</rt>き</ruby></code></font> Desconto
 
--   Não é um contador propriamente dito, sendo na verdade um sufixo.
+- Não é um contador propriamente dito, sendo na verdade um sufixo.
 
 ### <font size="5"><code><ruby>足<rt>そく</rt></ruby></code></font> Pares
 
--   Usado para pares de meias, sapatos, etc.
+- Usado para pares de meias, sapatos, etc.
 
 ### <font size="5"><code><ruby>組<rt>くみ</rt></ruby></code></font> Pessoas e pares de luvas
 
--   1 e 2 usam wago.
+- 1 e 2 usam wago.
 
 ### <font size="5"><code><ruby>男<rt>なん</rt></ruby>・<ruby>女<rt>じょ</rt></ruby></code></font> Ordem de nascimento
 
--   Usado para demonstrar a ordem de nascimento dos filhos.
--   <font size="5"><code><ruby>男<rt>なん</rt></ruby></code></font> é usado para homens e <font size="5"><code><ruby><ruby>女<rt>じょ</rt></ruby></code></font> para mulheres.
--   2 é lido <font size="5"><code><ruby>次<rt>じ</rt></ruby></code></font> ao invés de <font size="5"><code><ruby>二<rt>に</rt></ruby></code></font>.
+- Usado para demonstrar a ordem de nascimento dos filhos.
+- <font size="5"><code><ruby>男<rt>なん</rt></ruby></code></font> é usado para homens e <font size="5"><code><ruby><ruby>女<rt>じょ</rt></ruby></code></font> para mulheres.
+- 2 é lido <font size="5"><code><ruby>次<rt>じ</rt></ruby></code></font> ao invés de <font size="5"><code><ruby>二<rt>に</rt></ruby></code></font>.
 
 > [!IMPORTANT]
 > Alguns japoneses costumam utilizar uma técnica chamada <font size="5"><code><ruby>輩<rt>はい</rt>行<rt>こう</rt>名<rt>めい</rt></ruby></code></font> para nomear os filhos. Consiste de usar um sufixo dado pelo número da ordem no nascimento + <font size="5"><code><ruby>郎<rt>ろう</rt></ruby></code></font>.
@@ -336,8 +353,8 @@
 
 ### <font size="5"><code>つ<ruby>子<rt>ご</rt></ruby></code></font> Nascimentos de uma gestação
 
--   "Gêmeos" é <font size="5"><code><ruby>双<rt>ふた</rt>子<rt>ご</rt></ruby></code></font>.
--   Os outros usam wago.
+- "Gêmeos" é <font size="5"><code><ruby>双<rt>ふた</rt>子<rt>ご</rt></ruby></code></font>.
+- Os outros usam wago.
 
 ### <font size="5"><code><ruby>着<rt>ちゃく</rt></ruby></code></font> Roupas e trajes
 

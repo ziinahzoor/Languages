@@ -1,67 +1,67 @@
 # Τα Επιρρήματα - Advérbios ✴️
 
--   `Ναι` Sim
--   `Όχι` Não
--   `Εντάξει` Ok/Tudo bem
--   `Πολύ` Muito
--   `Λίγο` Pouco
--   `Καλά` Bem
--   `Καλώς` Bem
--   `Πώς` Como (maneira)
--   `Ως` Como (de tal maneira que)
--   `Έξω` Fora
--   `Μέσα` Em/No/Dentro
--   `Ανάμεσα` Entre
--   `Μεταξύ` Entre
--   `Δίπλα` Próximo/Ao lado
--   `Πίσω` Atrás
--   `Πάνω` Acima/Em cima
--   `Κάτω` Abaixo/Embaixo
--   `Πριν` Antes/Atrás
--   `Μετά` Depois
--   `Κοντά` Perto
--   `Εκτός` Exceto
--   `Δις` Duas vezes
--   `Πολλάκις` Muitas vezes/Frequentemente
--   `Πάλι` De novo
--   `Άρα` Portanto/Então
-    -   Indica causa e consequência, conclusão lógica.
--   `Σπίτι` Em casa
--   `Κι άλλο` Mais (Quantitativo)
--   `Έτσι` Assim
--   `Τόσο` Tão/Tanto
--   `Τόσο... όσο` Tanto... quanto
--   `Ούτε... ούτε` Nem... nem
--   `Ούτε` Nem/Nem mesmo
--   `Τότε` Então/Naquela época
-    -   Indica consequência sequencial ou condicional.
--   `Επιπλέον` Além disso/Aliás
--   `Πάντα` Sempre
--   `Ακόμα` Ainda
-    -   `Ακόμα κι` Mesmo se
--   `Μόνο` Só/Somente
--   `Ήδη` Já
--   `Επίσης` Também
--   `Ακριβώς` Exatamente/Precisamente/Em ponto
--   `Πια` Não mais
--   `Άλλο` Não mais
--   `Ξανά` De novo/Novamente
--   `Ποτέ` Nunca
--   `Μαζί` Junto/Juntos
--   `Τουλάχιστον` Pelo menos
--   `Τελείως` Completamente/Totalmente
--   `Επιτέλους` Finalmente
--   `Οπουδήποτε` Em qualquer lugar
--   `Πουθενά` Em algum lugar
--   `Γύρω` Por volta/Aproximadamente/Ao redor
--   `Περίπου` Aproximadamente/Cerca de
--   `Σχεδόν` Quase
--   `Προφανώς` Obviamente/Claramente
--   `Κάποιες φορές` Às vezes/De vez em quando
--   `Ίσως` Talvez
-    -   Quando sozinho indica incerteza.
-    -   Quando acompanhado de `να` + subjuntivo indica possibilidade.
--   `Καθόλου` De jeito nenhum/De forma alguma
--   `Οπωσδήποτε` De qualquer forma
--   `Δωρεάν` Grátis/Gratuito/Gratuitamente
--   `Μόλις` Quase/Acabar de
+- `Ναι` Sim
+- `Όχι` Não
+- `Εντάξει` Ok/Tudo bem
+- `Πολύ` Muito
+- `Λίγο` Pouco
+- `Καλά` Bem
+- `Καλώς` Bem
+- `Πώς` Como (maneira)
+- `Ως` Como (de tal maneira que)
+- `Έξω` Fora
+- `Μέσα` Em/No/Dentro
+- `Ανάμεσα` Entre
+- `Μεταξύ` Entre
+- `Δίπλα` Próximo/Ao lado
+- `Πίσω` Atrás
+- `Πάνω` Acima/Em cima
+- `Κάτω` Abaixo/Embaixo
+- `Πριν` Antes/Atrás
+- `Μετά` Depois
+- `Εκτός` Exceto
+- `Δις` Duas vezes
+- `Πολλάκις` Muitas vezes/Frequentemente
+- `Πάλι` De novo
+- `Άρα` Portanto/Então
+    - Indica causa e consequência, conclusão lógica.
+- `Σπίτι` Em casa
+- `Κι άλλο` Mais (Quantitativo)
+- `Έτσι` Assim
+- `Τόσο` Tão/Tanto
+- `Τόσο... όσο` Tanto... quanto
+- `Ούτε... ούτε` Nem... nem
+- `Ούτε` Nem/Nem mesmo
+- `Τότε` Então/Naquela época
+    - Indica consequência sequencial ou condicional.
+- `Επιπλέον` Além disso/Aliás
+- `Πάντα` Sempre
+- `Ακόμα` Ainda
+    - `Ακόμα κι` Mesmo se
+- `Μόνο` Só/Somente
+- `Ήδη` Já
+- `Επίσης` Também
+- `Ακριβώς` Exatamente/Precisamente/Em ponto
+- `Πια` Não mais
+- `Άλλο` Não mais
+- `Ξανά` De novo/Novamente
+- `Ποτέ` Nunca
+- `Μαζί` Junto/Juntos/Com
+    - Usa o genitivo.
+- `Τουλάχιστον` Pelo menos
+- `Τελείως` Completamente/Totalmente
+- `Επιτέλους` Finalmente
+- `Οπουδήποτε` Em qualquer lugar
+- `Πουθενά` Em algum lugar
+- `Γύρω` Por volta/Aproximadamente/Ao redor
+- `Περίπου` Aproximadamente/Cerca de
+- `Σχεδόν` Quase
+- `Προφανώς` Obviamente/Claramente
+- `Κάποιες φορές` Às vezes/De vez em quando
+- `Ίσως` Talvez
+    - Quando sozinho indica incerteza.
+    - Quando acompanhado de `να` + subjuntivo indica possibilidade.
+- `Καθόλου` De jeito nenhum/De forma alguma
+- `Οπωσδήποτε` De qualquer forma
+- `Δωρεάν` Grátis/Gratuito/Gratuitamente
+- `Μόλις` Quase/Acabar de

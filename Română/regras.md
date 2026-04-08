@@ -59,12 +59,16 @@
     </tr>
 </table>
 
+> [!TIP]
+> Vlad III era chamado "Drácula" devido ao seu pai, Vlad II, chamado de `Vlad Dracul`, "Vlad, o Dragão". Em tempos medievais, os romenos usavam o patronímico eslávico `-ea`, então `Vlad Drăculea` é "Vlad, filho do Dragão". `Drac` atualmente significa "diabo".
+> Outro nome pelo qual era conhecido é `Vlad Tepes`. `Țepeș` é "impalador".
+
 ## Artigos
 
 ## Indefinidos
 
--   `Un` Um
--   `O` Uma
+- `Un` Um
+- `O` Uma
 
 ## Definidos
 
@@ -72,7 +76,7 @@
 
 **Os substantivos neutros levam os artigos masculinos no singular e femininos no plural.**
 
--   `-ul/-l` O
--   `-ii/-i` Os
--   `-ua/-a` A
--   `-le/-ele` As
+- `-ul/-l` O
+- `-ii/-i` Os
+- `-ua/-a` A
+- `-le/-ele` As

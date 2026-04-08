@@ -6,7 +6,7 @@
 
 ## Ferramentas
 
--   [Teclados sem necessidade de instalação](https://www.typeit.org/)
+- [Teclados sem necessidade de instalação](https://www.typeit.org/)
 
 ## Plataformas
 
@@ -72,6 +72,14 @@
 	<tr>
 		<td><a href="https://www.learnarabiconline.com/arabic-alphabet/">Aprender o alfabeto</a></td>
 		<td><a href="https://www.arabicstudentsdictionary.com/">Dicionário</a></td>
+	</tr>
+</table>
+
+## Catalão
+
+<table>
+	<tr>
+		<td><a href="https://polyglotclub.com/wiki/Language/Catalan/Grammar">Aprender</a></td>
 	</tr>
 </table>
 
@@ -228,6 +236,14 @@
 	</tr>
 	<tr>
 		<td><a href="https://booksnbackpacks.com/latin-with-livia/">@Latin With Livia</a></td>
+	</tr>
+</table>
+
+## Romeno
+
+<table>
+	<tr>
+		<td><a href="http://www.seelrc.org:8080/grammar/mainframe.jsp?nLanguageID=5">Aprender</a></td>
 	</tr>
 </table>
 

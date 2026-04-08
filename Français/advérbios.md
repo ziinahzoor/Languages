@@ -5,168 +5,183 @@
 > [!NOTE]
 > Adjetivos terminados em `-ant` e `-ent` podem ser transformados em advérbios pelas terminações `-amment` e `-emment`, respectivamente.
 
--   `Bien` Bem
--   `Mal`
--   `Bien sûr` Claro/Sem dúvida
--   `Peu` Pouco
--   `Très` Muito (Intensidade)
-    -   Geralmente usado com adjetivos.
--   `Beaucoup` Muito (Quantidade/Frequência)
-    -   Geralmente usado com verbos.
--   `Trop` Muito/Demais/Excessivamente
-    -   Costuma indicar excessos. Para enfatizar o excesso pode-se ainda usar `beaucoup trop`.
--   `Oui` Sim
-    -   `Ouais` Informal
-    -   `Si` Para frases negativas.
--   `Non` Não (Interjeição)
--   `Pas` Não
--   `Aussi` Também (geralmente vem depois do verbo)
-    -   `Aussi... que` Tão... quanto
--   `Plus` Mais
-    -   O "s" é pronunciado para diferenciar da negação `non... plus`.
--   `Moins` Menos
--   `Même` Mesmo
--   `Toujours` Sempre/Ainda (de continuar sendo/acontecendo)
-    -   `Toujours pas` Ainda assim
-    -   É menos ambíguo que `encore` para significar "ainda".
--   `Encore` Novamente/Ainda (até mesmo)
--   `Souvent` Frequentemente
--   `Chaque` Cada/Todo
--   `Quelquefos` Às vezes (menos frequente)
--   `Parfois` Às vezes (mais frequente)
--   `Alors` Então
--   `Mieux` Melhor
--   `Prochain` Próximo
--   `Assez` Suficiente/Bastante
--   `Environ` Cerca
--   `Puis` Então/Depois
--   `Ensuite` A seguir
--   `Jamais` Nunca
--   `Vite` Rapidamente
--   `Peut-être` Talvez
--   `Si` Tão (Comparação)
--   `Longtemps` Por muito tempo
--   `Autour` Ao redor
--   `Déjà` Já
--   `Presque` Quase/Perto de
--   `Soudain` De repente/Subitamente
--   `Partout` Em todo lugar
--   `Comment` Como (Interrogativo)
--   `Comme` Como (Comparativo)
--   `Pourtant` Porém/Entretanto/Mesmo assim
--   `Toutefois` Porém/Apesar disso
--   `Autant` Tanto
--   `Pour autant` Mesmo assim
--   `Juste` Só/Somente
--   `Enfin` Enfim/Finalmente
--   `Surtout` Principalmente/Sobretudo
--   `Par hasard` Por acaso
--   `Exprès` De propósito/Propositalmente/Intencionalmente
--   `D'autre` Outro/Mais (Else)
--   `Plutôt` Ao invés/Ou melhor
-    -   Também pode ser usado para indicar intensidade como "bastante".
--   `Ainsi` Dessa forma/Por isso
--   `Par ailleurs` Além disso/Além do mais
--   `Du coup` Por isso
+- `Bien` Bem
+- `Mal`
+- `Bien sûr` Claro/Sem dúvida
+- `Peu` Pouco
+- `Très` Muito (Intensidade)
+    - Geralmente usado com adjetivos.
+- `Beaucoup` Muito (Quantidade/Frequência)
+    - Geralmente usado com verbos.
+    - `Bcp` Abreviação
+- `Trop` Muito/Demais/Excessivamente
+    - Costuma indicar excessos. Para enfatizar o excesso pode-se ainda usar `beaucoup trop`.
+- `Oui` Sim
+    - `Ouais` Informal (Interjeição)
+    - `Si` Para frases negativas.
+- `Non` Não (Interjeição)
+    - `Mouais` Na verdade não (Interjeição)
+- `Pas` Não
+- `Aussi` Também (geralmente vem depois do verbo)
+    - `Aussi... que` Tão... quanto
+- `Plus` Mais
+    - O "s" é pronunciado para diferenciar da negação `non... plus`.
+- `Moins` Menos
+- `Même` Mesmo
+- `Toujours` Sempre/Ainda (de continuar sendo/acontecendo)
+    - `Toujours pas` Ainda assim
+    - É menos ambíguo que `encore` para significar "ainda".
+- `Encore` Novamente/Ainda (até mesmo)
+- `Souvent` Frequentemente
+- `Chaque` Cada/Todo
+- `Quelquefos` Às vezes (menos frequente)
+- `Parfois` Às vezes (mais frequente)
+- `Alors` Então
+- `Mieux` Melhor
+- `Prochain` Próximo
+- `Assez` Suficiente/Bastante
+- `Environ` Cerca
+- `Puis` Então/Depois
+- `Ensuite` A seguir
+- `Jamais` Nunca
+- `Vite` Rapidamente
+- `Peut-être` Talvez
+- `Si` Tão (Comparação)
+- `Longtemps` Por muito tempo
+- `Autour` Ao redor
+- `Déjà` Já
+- `Presque` Quase/Perto de
+- `Soudain` De repente/Subitamente
+- `Partout` Em todo lugar
+- `Comment` Como (Interrogativo)
+- `Comme` Como (Comparativo)
+- `Pourtant` Porém/Entretanto/Mesmo assim
+- `Toutefois` Porém/Apesar disso
+- `Autant` Tanto
+- `Pour autant` Mesmo assim
+- `Juste` Só/Somente
+- `Enfin` Enfim/Finalmente
+- `Surtout` Principalmente/Sobretudo
+- `Par hasard` Por acaso
+- `Exprès` De propósito/Propositalmente/Intencionalmente
+- `D'autre` Outro/Mais (Else)
+- `Plutôt` Ao invés/Ou melhor
+    - Também pode ser usado para indicar intensidade como "bastante".
+- `Ainsi` Dessa forma/Por isso
+- `Par ailleurs` Além disso/Além do mais
+- `Du coup` Por isso
+- `Tout/Toute` Muito/Bastante
+    - Quando usada com adjetivos.
 
 ## Locutions adverbiales - Locuções adverbiais
 
--   `Qu'en est-il a` E quanto a
--   `Quand même` Mesmo assim
--   `Même pas` Nem mesmo
--   `Plein de` Cheio/Repleto
-    -   "Muitos/Bastante/O bastante", quando se refere a coisas quantificáveis.
--   `Par contre` Porém/Por outro lado
--   `Par exemple` Por exemplo
--   `Par terre` No chão
--   `Tout de suite` Agora mesmo/Na hora/Imediatamente
--   `N'importe où` Em qualquer lugar
--   `Non plus` Também não/Tampouco
--   `Plus maintenant` Não mais
--   `D'abord` Primeiramente
--   `D'habitude` Normalmente/Geralmente
--   `Du tout` De forma alguma
--   `De toute façon` De qualquer forma/De qualquer maneira
--   `Tout à l'heure` Daqui a pouco
--   `Sans le vouloir` Sem querer
--   `À l'étage` Lá em cima
--   `À ce moment-là` Logo então
--   `À mon avis` Na minha opinião
--   `À l'envers` Ao contrário
--   `À voix basse` Em voz baixa
--   `À bon escient` Com sabedoria/De forma sensata/De forma adequada
--   `Au coin de` Na esquina de
--   `En fait` Na verdade
--   `En effet` Na verdade/De fato
--   `En plus` Além disso/Além do mais
--   `En tout` Ao todo/No total
--   `En avance` Antecipadamente/Adiantado
--   `En même temps` Ao mesmo tempo
--   `En retard` Atrasado
--   `En solde` De promoção
--   `En promotion` De promoção
--   `En direct` Ao vivo
--   `En ce moment` Neste momento
--   `En plein air` Ao ar livre
--   `Sur Internet` Online
--   `Comme d'habitude` Como sempre
--   `Comme prévu` Conforme esperado
--   `Nulle part` Em nenhum lugar
--   `D'un coup` De uma vez
--   `De près` De perto
--   `De loin` De longe
+- `Qu'en est-il a` E quanto a
+- `Quand même` Mesmo assim
+    - Também é utilizado coloquialmente como intensificador. "Realmente", "sério".
+- `Même pas` Nem mesmo
+- `Plein de` Cheio/Repleto
+    - "Muitos/Bastante/O bastante", quando se refere a coisas quantificáveis.
+- `Par conséquent` Consequentemente
+- `Par contre` Porém/Por outro lado
+- `Par exemple` Por exemplo
+- `Par terre` No chão
+- `Tout de suite` Agora mesmo/Na hora/Imediatamente
+- `N'importe où` Em qualquer lugar
+- `Non plus` Também não/Tampouco
+- `Plus maintenant` Não mais
+- `D'abord` Primeiramente
+- `D'habitude` Normalmente/Geralmente
+- `Du tout` De forma alguma
+- `De toute façon` De qualquer forma/De qualquer maneira
+- `De temps en temps` De vez em quando
+- `Tout à l'heure` Daqui a pouco
+- `Sans le vouloir` Sem querer
+- `À l'étage` Lá em cima
+- `À ce moment-là` Logo então
+- `À mon avis` Na minha opinião
+- `À l'envers` Ao contrário
+- `À voix basse` Em voz baixa
+- `À bon escient` Com sabedoria/De forma sensata/De forma adequada
+- `Au coin de` Na esquina de
+- `En fait` Na verdade
+- `En effet` Na verdade/De fato
+- `En plus` Além disso/Além do mais
+- `En tout` Ao todo/No total
+- `En avance` Antecipadamente/Adiantado
+- `En même temps` Ao mesmo tempo
+- `En retard` Atrasado
+- `En solde` De promoção
+- `En promotion` De promoção
+- `En direct` Ao vivo
+- `En ce moment` Neste momento
+- `En plein air` Ao ar livre
+- `En promo` Em promoção
+- `Sur Internet` Online
+- `Sur le pouce` Em movimento/Às pressas
+    - Geralmente usado para referenciar "comer".
+- `Comme d'habitude` Como sempre
+- `Comme prévu` Conforme esperado
+- `Nulle part` Em nenhum lugar
+- `D'un coup` De uma vez
+- `De près` De perto
+- `De loin` De longe
 
 ## De manière - De modo
 
--   `Rapidement` Rapidamente
--   `Lentement` Lentamente
--   `Tellement` Tão (Intensidade)/Assim
--   `Probablement` Provavelmente
--   `Immédiatement` Imediatamente
--   `Seulement` Somente/Apenas
--   `Vraiment` Realmente/Verdadeiramente
--   `Facilement` Facilmente
--   `Rarement` Raramente
--   `Certainement` Certamente
--   `Sûrement` Certamente
--   `Sérieusement` Seriamente
--   `Récemment` Recentemente
--   `Spécialement` Especialmente
--   `Correctement` Corretamente
--   `Heureusement` Felizmente
--   `Malheureusement` Infelizmente
--   `Finalement` Finalmente/Por fim/No fim das contas
--   `Gravement` Gravemente
--   `Exactement` Exatamente
--   `Clairement` Claramente
--   `Doucement` Suavemente/Devagar
--   `Typiquement` Tipicamente
--   `Franchement` Sinceramente/Francamente
--   `Absolument` Absolutamente
--   `Complètement` Completamente
--   `Carrément` Definitivamente/Absolutamente
--   `Actuellement` Atualmente
--   `Parfaitement` Perfeitamente
--   `Dernièrement` Ultimamente
--   `Évidemment` Evidentemente/Obviamente
--   `Cordialement` Cordialmente
--   `Conformément` De acordo/Conformemente
--   `Attentivement` Atentamente
--   `Généralement` Geralmente
--   `Poliment` Educadamente
+- `Rapidement` Rapidamente
+- `Lentement` Lentamente
+- `Tellement` Tão (Intensidade)/Assim
+- `Probablement` Provavelmente
+- `Immédiatement` Imediatamente
+- `Seulement` Somente/Apenas
+- `Vraiment` Realmente/Verdadeiramente
+- `Facilement` Facilmente
+- `Rarement` Raramente
+- `Certainement` Certamente
+- `Sûrement` Certamente
+- `Sérieusement` Seriamente
+- `Récemment` Recentemente
+- `Spécialement` Especialmente
+- `Correctement` Corretamente
+- `Heureusement` Felizmente
+- `Malheureusement` Infelizmente
+- `Hélas` Infelizmente
+    - É uma interjeição
+- `Finalement` Finalmente/Por fim/No fim das contas
+- `Gravement` Gravemente
+- `Exactement` Exatamente
+- `Clairement` Claramente
+- `Doucement` Suavemente/Devagar
+- `Typiquement` Tipicamente
+- `Franchement` Sinceramente/Francamente
+- `Absolument` Absolutamente
+- `Complètement` Completamente
+- `Carrément` Definitivamente/Absolutamente
+- `Actuellement` Atualmente
+- `Parfaitement` Perfeitamente
+- `Dernièrement` Ultimamente
+- `Évidemment` Evidentemente/Obviamente
+- `Cordialement` Cordialmente
+- `Conformément` De acordo/Conformemente
+- `Attentivement` Atentamente
+- `Généralement` Geralmente
+- `Poliment` Educadamente
+- `Bref` Em resumo/Em suma
+- `Innocemment` Inocentemente
 
 ## Os Porquês
 
--   `Pourquoi` Por que/Por quê
--   `Parce que` Porque
-    -   Pode vir no início da frase
-    -   Indica motivo ou razão
-    -   Informal, mais utilizado na conversação.
--   `Car` Porque
-    -   Não pode vir no início da frase
-    -   Mais usado para justificar ou explicar
-    -   Formal, mais utilizado na escrita.
--   `Puisque` Porque/Desde que
-    -   Pode vir no início da frase
-    -   Pode substituir `parce que` e `car`
-    -   Indica obviedade ou fato já dito antes
+- `Pourquoi` Por que/Por quê
+    - `Pk` Abreviação
+- `Parce que` Porque
+    - Pode vir no início da frase
+    - Indica motivo ou razão
+    - Informal, mais utilizado na conversação.
+- `Car` Porque
+    - Não pode vir no início da frase
+    - Mais usado para justificar ou explicar
+    - Formal, mais utilizado na escrita.
+- `Puisque` Porque/Desde que
+    - Pode vir no início da frase
+    - Pode substituir `parce que` e `car`
+    - Indica obviedade ou fato já dito antes

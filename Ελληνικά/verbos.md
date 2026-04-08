@@ -2,231 +2,234 @@
 
 ## Verbos -ω
 
--   `Έχω` Ter
--   `Κάνω` Fazer (Realizar uma ação)
-    -   Também pode significar "custar"
--   `Φτιάχνω` Fazer/Preparar/Criar/Construir
--   `Θέλω` Querer/Necessitar/Requerer
-    -   `Θελήσω` Dependente
--   `Πίνω` Beber
--   `Τρώω` Comer
-    -   `Τρώγω` Forma alternativa
-    -   `Φάω` Dependente (-άω)
--   `Διαβάζω` Ler/Estudar
--   `Μένω` Morar
-    -   `Μείνω` Dependente
--   `Δίνω` Dar
-    -   `Δίδω` Formal
-    -   `Δίνω το πίσω` Devolver
--   `Υπάρχω` Existir
-    -   Também tem a função do impessoal "haver"
--   `Τρέχω` Correr/Fugir/Executar (um programa)
--   `Βλέπω` Ver
-    -   `Δω/-ιδώ` Dependente
--   `Γράφω` Escrever
--   `Αγοράζω` Comprar
--   `Μαγειρεύω` Cozinhar
--   `Αφήνω` Deixar/Soltar
--   `Παίζω` Brincar/Jogar/Tocar
--   `Πληρώνω` Pagar
--   `Πηγαίνω` Ir
-    -   `Πάω` Forma alternativa/Dependente (-άω)
--   `Αρέσω ` Ser gostado/Agradar
-    -   `Αρέσκω` Forma alternativa
-    -   É como o verbo "gostar" aparece no grego. Funciona da mesma forma que o espanhol "gustar", porém utiliza o genitivo ao invés do dativo.
--   `Χορεύω` Dançar
--   `Αγγίζω` Tocar
-    -   `Εγγίζω` Formal
-    -   `'γγίζω` Coloquial
--   `Απαγορεύω` Proibir/Banir
--   `Ξέρω` Saber/Conhecer
-    -   `Ξεύρω` Forma alternativa
-    -   `Ηξεύρω` Forma alternativa
--   `Ακούω` Ouvir/Escutar
--   `Δουλεύω` Trabalhar
--   `Λέω` Dizer
-    -   `Λέγω` Formal
-    -   `Πω` Dependente
--   `Επαναλαμβάνω` Repetir
--   `Φέρνω` Trazer
--   `Κοστίζω` Custar
--   `Βάζω`
-    -   `Βάλω` Dependente
--   `Παίρνω` Pegar/Tomar
-    -   Também pode ser "chamar".
--   `Σχεδιάζω` Desenhar/Planejar
--   `Πέφτω` Cair
--   `Βρίσκω` Achar/Descobrir/Localizar
-    -   `Ευρίσκω` Formal
-    -   `Βρω` Dependente
--   `Δείχνω` Mostrar/Indicar/Apontar/Demonstrar
--   `Εμφανίζω` Mostrar/Apresentar
--   `Καθαρίζω` Limpar
--   `Νομίζω` Pensar/Considerar
--   `Σώζω` Salvar
--   `Σημαίνω` Significar (definição)
--   `Ανοίγω` Abrir/Tornar algo acessível
--   `Κλείνω` Fechar
--   `Επιστρέφω` Retornar
--   `Αλλάζω` Trocar
--   `Στέλνω` Enviar
--   `Ζω` Viver/Morar
-    -   `Ζήσω` Dependente
--   `Ανήκω` Pertencer
--   `Δοκιμάζω` Tentar/Experimentar/Testar
--   `Προσφέρω` Oferecer/Dar/Presentear
--   `Σηκώνω` Levantar/Erguer
--   `Συμπεριλαμβάνω` Incluir
--   `Κοιτάζω` Olhar/Examinar
--   `Φεύγω` Partir
--   `Νιώθω` Sentir
--   `Ρωτάω` Perguntar
--   `Αμφιβάλλω` Duvidar
-    -   Geralmente acompanha a preposição `για`.
--   `Χτυπάω` Machucar-se/Bater (em algum lugar)
--   `Παρουσιάζω` Apresentar
--   `Ελπίζω` Esperar/Ter esperança de
--   `Περιμένω` Esperar/Aguardar
--   `Μπαίνω` Entrar
-    -   `Μπω` Dependente
--   `Βγαίνω` Sair
-    -   `Βγω` Dependente
--   `Ψάχνω` Procurar
--   `Επιτρέπω` Permitir
--   `Προσέχω` Prestar atenção/Observar/Tomar cuidado
--   `Παραλαμβάνω` Receber
--   `Ανατρέφω` Criar (de cuidar)/Trazer à tona/Nutrir
--   `Αποτυγχάνω` Falhar
--   `Κερδίζω` Ganhar
--   `Χάνω` Perder
--   `Παραδίδω` Entregar/Transferir
--   `Πιστεύω` Acreditar/Pensar
--   `Αξίζω` Merecer/Valer
--   `Στεγνώνω` Secar
--   `Πετάω` Voar/Jogar fora/Arremessar
--   `Διατηρώ` Preservar/Manter
--   `Υπογράφω` Assinar
--   `Περιέχω` Conter
--   `Βελτιώνω` Melhorar
--   `Ζυγίζω` Pesar
--   `Τελειώνω` Terminar
--   `Αναγνωρίζω` Reconhecer
--   `Παραγγέλλω` Pedir/Encomendar
-    -   `Παραγγέλνω` Coloquial
--   `Κόβω` Cortar
--   `Απογεμίζω` Encher/Preencher
--   `Γεμίζω` Encher/Preencher
--   `Συνεχίζω` Continuar/Seguir em frente
--   `Ανεβαίνω` Subir
--   `Κατεβαίνω` Descer
--   `Ξοδεύω` Gastar
-    -   `Ξοδιάζω` Forma alternativa
--   `Υποστηρίζω` Apoiar
--   `Εμποδίζω` Impedir/Bloquear/Prevenir
-    -   `Μποδίζω` Forma alternativa
--   `Χτενίζω` Pentear
-    -   Também significa "procurar" figurativamente.
--   `Γνωρίζω` Conhecer
--   `Πλένω` Lavar
--   `Καταλαβαίνω` Entender/Compreender
--   `Πιάνω` Pegar/Agarrar/Apanhar
--   `Συστήνω` Introduzir/Apresentar
--   `Στρίβω` Virar/Girar
--   `Περιστρέφω` Rodar/Girar
--   `Φωνάζω` Gritar
--   `Ζεσταίνω` Esquentar
--   `Αναφέρω` Mencionar/Citar/Referenciar
--   `Βρέχω` Molhar
--   `Κρύβω` Esconder
--   `Εξαφανίζω` Esconder algo/Destruir
--   `Ονομάζω` Chamar/Nomear
--   `Απορρίπτω` Rejeitar/Recusar/Falhar
--   `Επηρεάζω` Influenciar/Persuadir
--   `Κουράζω` Cansar
+- `Έχω` Ter
+- `Κάνω` Fazer (Realizar uma ação)
+    - Também pode significar "custar"
+- `Φτιάχνω` Fazer/Preparar/Criar/Construir
+- `Θέλω` Querer/Necessitar/Requerer
+    - `Θελήσω` Dependente
+- `Πίνω` Beber
+- `Τρώω` Comer
+    - `Τρώγω` Forma alternativa
+    - `Φάω` Dependente (-άω)
+- `Διαβάζω` Ler/Estudar
+- `Μένω` Morar
+    - `Μείνω` Dependente
+- `Δίνω` Dar
+    - `Δίδω` Formal
+    - `Δίνω το πίσω` Devolver
+- `Υπάρχω` Existir
+    - Também tem a função do impessoal "haver"
+- `Τρέχω` Correr/Fugir/Executar (um programa)
+- `Βλέπω` Ver
+    - `Δω/-ιδώ` Dependente
+- `Γράφω` Escrever
+- `Αγοράζω` Comprar
+- `Μαγειρεύω` Cozinhar
+- `Αφήνω` Deixar/Soltar
+- `Παίζω` Brincar/Jogar/Tocar
+- `Πληρώνω` Pagar
+- `Πηγαίνω` Ir
+    - `Πάω` Forma alternativa/Dependente (-άω)
+- `Αρέσω ` Ser gostado/Agradar
+    - `Αρέσκω` Forma alternativa
+    - É como o verbo "gostar" aparece no grego. Funciona da mesma forma que o espanhol "gustar", porém utiliza o genitivo ao invés do dativo.
+- `Χορεύω` Dançar
+- `Αγγίζω` Tocar
+    - `Εγγίζω` Formal
+    - `'γγίζω` Coloquial
+- `Απαγορεύω` Proibir/Banir
+- `Ξέρω` Saber/Conhecer
+    - `Ξεύρω` Forma alternativa
+    - `Ηξεύρω` Forma alternativa
+- `Ακούω` Ouvir/Escutar
+- `Δουλεύω` Trabalhar
+- `Λέω` Dizer
+    - `Λέγω` Formal
+    - `Πω` Dependente
+- `Επαναλαμβάνω` Repetir
+- `Φέρνω` Trazer
+- `Κοστίζω` Custar
+- `Βάζω`
+    - `Βάλω` Dependente
+- `Παίρνω` Pegar/Tomar
+    - Também pode ser "chamar".
+- `Σχεδιάζω` Desenhar/Planejar
+- `Πέφτω` Cair
+- `Βρίσκω` Achar/Descobrir/Localizar
+    - `Ευρίσκω` Formal
+    - `Βρω` Dependente
+- `Δείχνω` Mostrar/Indicar/Apontar/Demonstrar
+- `Εμφανίζω` Mostrar/Apresentar
+- `Καθαρίζω` Limpar
+- `Νομίζω` Pensar/Considerar
+- `Σώζω` Salvar
+- `Σημαίνω` Significar (definição)
+- `Ανοίγω` Abrir/Tornar algo acessível
+- `Κλείνω` Fechar
+- `Επιστρέφω` Retornar
+- `Αλλάζω` Trocar
+- `Στέλνω` Enviar
+- `Ζω` Viver/Morar
+    - `Ζήσω` Dependente
+- `Ανήκω` Pertencer
+- `Δοκιμάζω` Tentar/Experimentar/Testar
+- `Προσφέρω` Oferecer/Dar/Presentear
+- `Σηκώνω` Levantar/Erguer
+- `Συμπεριλαμβάνω` Incluir
+- `Κοιτάζω` Olhar/Examinar
+- `Φεύγω` Partir
+- `Νιώθω` Sentir
+- `Ρωτάω` Perguntar
+- `Αμφιβάλλω` Duvidar
+    - Geralmente acompanha a preposição `για`.
+- `Χτυπάω` Machucar-se/Bater (em algum lugar)
+- `Παρουσιάζω` Apresentar
+- `Ελπίζω` Esperar/Ter esperança de
+- `Περιμένω` Esperar/Aguardar
+- `Μπαίνω` Entrar
+    - `Μπω` Dependente
+- `Βγαίνω` Sair
+    - `Βγω` Dependente
+- `Ψάχνω` Procurar
+- `Επιτρέπω` Permitir
+- `Προσέχω` Prestar atenção/Observar/Tomar cuidado
+- `Παραλαμβάνω` Receber
+- `Ανατρέφω` Criar (de cuidar)/Trazer à tona/Nutrir
+- `Αποτυγχάνω` Falhar
+- `Κερδίζω` Ganhar
+- `Χάνω` Perder
+- `Παραδίδω` Entregar/Transferir
+- `Πιστεύω` Acreditar/Pensar
+- `Αξίζω` Merecer/Valer
+- `Στεγνώνω` Secar
+- `Πετάω` Voar/Jogar fora/Arremessar
+- `Διατηρώ` Preservar/Manter
+- `Υπογράφω` Assinar
+- `Περιέχω` Conter
+- `Βελτιώνω` Melhorar
+- `Ζυγίζω` Pesar
+- `Τελειώνω` Terminar
+- `Αναγνωρίζω` Reconhecer
+- `Παραγγέλλω` Pedir/Encomendar
+    - `Παραγγέλνω` Coloquial
+- `Κόβω` Cortar
+- `Απογεμίζω` Encher/Preencher
+- `Γεμίζω` Encher/Preencher
+- `Συνεχίζω` Continuar/Seguir em frente
+- `Ανεβαίνω` Subir
+- `Κατεβαίνω` Descer
+- `Ξοδεύω` Gastar
+    - `Ξοδιάζω` Forma alternativa
+- `Υποστηρίζω` Apoiar
+- `Εμποδίζω` Impedir/Bloquear/Prevenir
+    - `Μποδίζω` Forma alternativa
+- `Χτενίζω` Pentear
+    - Também significa "procurar" figurativamente.
+- `Γνωρίζω` Conhecer
+- `Πλένω` Lavar
+- `Καταλαβαίνω` Entender/Compreender
+- `Πιάνω` Pegar/Agarrar/Apanhar
+- `Συστήνω` Introduzir/Apresentar
+- `Στρίβω` Virar/Girar
+- `Περιστρέφω` Rodar/Girar
+- `Φωνάζω` Gritar
+- `Ζεσταίνω` Esquentar
+- `Αναφέρω` Mencionar/Citar/Referenciar
+- `Βρέχω` Molhar
+- `Κρύβω` Esconder
+- `Εξαφανίζω` Esconder algo/Destruir
+- `Ονομάζω` Chamar/Nomear
+- `Απορρίπτω` Rejeitar/Recusar/Falhar
+- `Επηρεάζω` Influenciar/Persuadir
+- `Κουράζω` Cansar
 
 ## Verbos -άω (-ώ)
 
 **Esses verbos geralmente são encontrados na escrita formal com a terminação `-ώ`.**
 
--   `Μιλάω` Falar
--   `Φοράω` Vestir
--   `Αγαπάω` Amar
--   `Kολυμπάω` Nadar
--   `Περπατάω` Andar
--   `Πάω` Ir (Forma alternativa)
--   `Τραγουδάω` Cantar
--   `Βοηθάω` Ajudar
--   `Νικάω` Ganhar/Vencer
--   `Μελετάω` Estudar
--   `Σταματάω` Parar
--   `Ακολουθάω` Seguir
--   `Παρακαλάω` Pedir/Implorar
--   `Μετράω` Contar/Medir
--   `Ξεκινάώ` Começar
--   `Απαντάω` Responder
--   `Πουλάω` Vender
-    -   `Πωλώ` Mais usado em propagandas
--   `Πονάω` Doer
--   `Kρατάω` Segurar
--   `Περνάω` Passar/Atravessar
--   `Συναντάω` Encontrar/Conhecer
--   `Προτιμάω` Preferir
--   `Ξεχνάω` Esquecer
--   `Φιλάω` Beijar
--   `Γεννάω` Parir/Dar a luz
+- `Μιλάω` Falar
+- `Φοράω` Vestir
+- `Αγαπάω` Amar
+- `Kολυμπάω` Nadar
+- `Περπατάω` Andar
+- `Πάω` Ir (Forma alternativa)
+- `Τραγουδάω` Cantar
+- `Βοηθάω` Ajudar
+- `Νικάω` Ganhar/Vencer
+- `Μελετάω` Estudar
+- `Σταματάω` Parar
+- `Ακολουθάω` Seguir
+- `Παρακαλάω` Pedir/Implorar
+- `Μετράω` Contar/Medir
+- `Ξεκινάώ` Começar
+- `Απαντάω` Responder
+- `Πουλάω` Vender
+    - `Πωλώ` Mais usado em propagandas
+- `Πονάω` Doer
+- `Kρατάω` Segurar
+- `Περνάω` Passar/Atravessar
+- `Συναντάω` Encontrar/Conhecer
+- `Προτιμάω` Preferir
+- `Ξεχνάω` Esquecer
+- `Φιλάω` Beijar
+- `Γεννάω` Parir/Dar a luz
 
 ## Verbos -ώ
 
--   `Μπορώ` Poder
-    -   `Μπορεί` Terceira pessoa do singular usada pro impessoal "talvez".
--   `Χρησιμοποιώ` Usar
--   `Kαλώ` Chamar
--   `Ευχαριστώ` Agradecer
--   `Εννοώ` Significar (elaboração)
--   `Προσπαθώ` Tentar
--   `Ανησυχώ` Preocupar
--   `Θεωρώ` Considerar/Estimar
--   `Εξαρτώ` Depender de
+- `Μπορώ` Poder
+    - `Μπορεί` Terceira pessoa do singular usada pro impessoal "talvez".
+- `Χρησιμοποιώ` Usar
+- `Kαλώ` Chamar
+- `Ευχαριστώ` Agradecer
+- `Εννοώ` Significar (elaboração)
+- `Προσπαθώ` Tentar
+- `Ανησυχώ` Preocupar
+- `Θεωρώ` Considerar/Estimar
+- `Εξαρτώ` Depender de
 
 ## Verbos depoentes
 
 **São conjugados na voz passiva mas têm sentido ativo. Não possuem equivalentes ativos.**
 
--   `Είμαι` Ser
--   `Έρχομαι` Vir
-    -   `Έρθω` Dependente
--   `Βαριέμαι` Entediar-se/Estar entediado
--   `Θυμάμαι` Lembrar-se
-    -   `Θυμούμαι` Forma alternativa
--   `Kοιμάμαι` Dormir
--   `Εμπιστεύομαι` Confiar
--   `Χρειάζομαι` Precisar/Necessitar
--   `Εύχομαι` Desejar
--   `Γίνομαι` Acontecer/Se tornar/Vir a existir
--   `Ξεκουράζομαι` Descansar
-    -   Não é exatamente depoente pois possui uma forma ativa, porém ela é transitiva. A forma passiva indica uma ação reflexiva.
--   `Φαίνομαι` Parecer
--   `Ονειρεύομαι` Sonhar
--   `Υπόσχομαι` Prometer
--   `Φαντάζομαι` Imaginar
-    -   Não é exatamente depoente pois possui uma forma ativa, porém ela tem outro sentido.
--   `Επισκέπτομαι` Visitar
--   `Kάθομαι` Sentar
--   `Αρνούμαι` Negar/Recusar
--   `Σκέφτομαι` Pensar/Ponderar
-    -   `Σκέπτομαι` Forma alternativa
--   `Δέχομαι` Receber/Aceitar
--   `Αποδέχομαι` Aceitar/Consentir
--   `Εργάζομαι` Trabalhar
--   `Σέβομαι` Respeitar
--   `Κατευθύνομαι` Dirigir-se/Mover-se em direção a
+- `Είμαι` Ser/Estar
+    - Para localizações, utiliza-se a forma passiva de `βρίσκω`: `βρίσκομαι`
+- `Έρχομαι` Vir
+    - `Έρθω` Dependente
+- `Βαριέμαι` Entediar-se/Estar entediado
+- `Θυμάμαι` Lembrar-se
+    - `Θυμούμαι` Forma alternativa
+- `Κοιμάμαι` Dormir
+    - `Κοιμούμαι` Forma alternativa
+- `Εμπιστεύομαι` Confiar
+- `Χρειάζομαι` Precisar/Necessitar
+- `Εύχομαι` Desejar
+- `Γίνομαι` Acontecer/Se tornar/Vir a existir
+- `Ξεκουράζομαι` Descansar
+    - Não é exatamente depoente pois possui uma forma ativa, porém ela é transitiva. A forma passiva indica uma ação reflexiva.
+- `Φαίνομαι` Parecer
+- `Ονειρεύομαι` Sonhar
+- `Υπόσχομαι` Prometer
+- `Φαντάζομαι` Imaginar
+    - Não é exatamente depoente pois possui uma forma ativa, porém ela tem outro sentido.
+- `Επισκέπτομαι` Visitar
+- `Kάθομαι` Sentar
+- `Αρνούμαι` Negar/Recusar
+- `Σκέφτομαι` Pensar/Ponderar
+    - `Σκέπτομαι` Forma alternativa
+- `Δέχομαι` Receber/Aceitar
+- `Αποδέχομαι` Aceitar/Consentir
+- `Εργάζομαι` Trabalhar
+- `Σέβομαι` Respeitar
+- `Κατευθύνομαι` Dirigir-se/Mover-se em direção a
+- `Κατάγομαι` Vir de/Descender/Originar-se
 
 ## Verbos impessoais
 
--   `Χιονίζει` Nevar
--   `Βρέχει` Chover
--   `Νοιάζει` Importar
--   `Συμβαίνει` Acontecer/Ocorrer
--   `Πρέπει` Dever/Ter a obrigação
--   `Πρόκειται να` Ir (no futuro)
-    -   Usado para acontecimentos
+- `Χιονίζει` Nevar
+- `Βρέχει` Chover
+- `Νοιάζει` Importar
+- `Συμβαίνει` Acontecer/Ocorrer
+- `Πρέπει` Dever/Ter a obrigação
+- `Πρόκειται να` Ir (no futuro)
+    - Usado para acontecimentos

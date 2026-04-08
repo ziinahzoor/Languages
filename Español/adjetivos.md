@@ -2,258 +2,268 @@
 
 ## Nacionalidade
 
--   `Europeo` Europeu
--   `Español` Espanhol
--   `Inglés` Inglês
--   `Chino` Chinês
--   `Japonés` Japonês
--   `Portugués` Português
+- `Europeo` Europeu
+- `Español` Espanhol
+- `Inglés` Inglês
+- `Chino` Chinês
+- `Japonés` Japonês
+- `Portugués` Português
 
 ## Vocabulário
 
--   `Abierto` Aberto
--   `Cerrado` Fechado
--   `Grande`
-    -   `Gran` Prenominal
--   `Mediano` Médio
--   `Pequeño` Pequeno
--   `Caro`
--   `Barato`
--   `Elegante`
--   `Inteligente`
--   `Bello` Belo
--   `Bonito`
--   `Hermoso` Bonito
--   `Lindo`
--   `Guapo` Bonito (Pessoas)
--   `Perfecto` Perfeito
--   `Interesante` Interessante
--   `Interesado` Interessado
--   `Cansado`
--   `Diferente`
--   `Distinto`
--   `Demasiado` Muito/Excessivo
--   `Cómodo` Confortável
--   `Confortable` Confortável
--   `Favorito`
--   `Posible` Possível
--   `Fácil`
--   `Difícil`
--   `Duro` Difícil/Duro
--   `Feliz`
--   `Triste`
--   `Enfermo` Doente
--   `Bueno` Bom
--   `Malo` Mau
--   `Nuevo` Novo
--   `Viejo` Velho
--   `Jóven` Jovem
--   `Alto`
--   `Bajo` Baixo
--   `Importante`
--   `Delicioso`
--   `Listo` Pronto (Com `estar`)
-    -   Inteligente (Com `ser`)
--   `Verde` Imaturo
--   `Ocupado`
--   `Aburrido` Entediante
--   `Divertido`
--   `Nervioso` Nervoso
--   `Joven` Jovem
--   `Simpático`
--   `Preocupado`
--   `Famoso`
--   `Emocionante`
--   `Emocionada`
--   `Enojado` Com raiva (América Latina)
-    -   `Enfadado` Espanha
--   `Nervioso` Nervoso
--   `Sorprendido` Surpreendido
--   `Último`
--   `Saludable` Saudável
--   `Largo` Longo/Largo
--   `Ancho` Largo/Amplo
--   `Moderna`
--   `Exquisito` Delicioso
--   `Extra`
--   `Extraño` Estranho
--   `Limpio` Limpo
--   `Sucio` Sujo
--   `Rubio` Loiro
--   `Moreno`
--   `Estudioso`
--   `Perezoso` Preguiçoso
--   `Responsable` Responsável
--   `Oscuro` Escuro
--   `Mismo` Mesmo
--   `Gordo`
--   `Delgado` Magro/Fino
--   `Popular`
--   `Peligroso` Perigoso
--   `Próximo`
--   `Listo` Pronto
--   `Dulce` Doce
--   `Picante`
--   `Cálido` Morno
--   `Caliente` Quente
--   `Caluroso` Caloroso/Quente (Clima)
-    -   Que causa calor
--   `Frío` Frio
--   `Lento`
--   `Ligero` Leve
--   `Seguro` (Com `ser`)
-    -   Certo (Com `estar`)
--   `Cercano` Próximo
--   `Final`
--   `Pasado` Passado/Último
--   `Pobre`
--   `Gracioso` Engraçado
--   `Siguiente` Seguinte/Próximo
--   `Posible` Possível
--   `Fantástico`
--   `Grandísimo` Grandíssimo
--   `Cansadísimo` Cansadíssimo
--   `Dificilísimo` Dificílimo
--   `Facilísimo` Facílimo
--   `Buenísimo` Muito bom
--   `Malísimo` Muito mal
--   `Disponible` Disponível
--   `Tranquilo`
--   `Amable` Amável
--   `Asado` Assado
--   `Estupendo`
--   `Lleno` Cheio
--   `Vegetariano`
--   `Saludable` Saudável
--   `Excelente`
--   `Genial` Legal/Excelente
--   `Pálido`
--   `Semanal`
--   `Correcto` Correto
--   `Incorrecto` Incorreto
--   `Fuerte` Forte/Alto (intensidade)
--   `Rápido`
--   `Útil`
--   `Pesado`
--   `Varios` Vários
--   `Solo` Sozinho
--   `Agradable` Agradável
--   `Loco` Louco
--   `Enfadado` Bravo/Enraivecido
--   `Satisfecho` Satisfeito
--   `Casado`
--   `Soleado` Ensolarado
--   `Mojado` Molhado
--   `Seca`
--   `Fresco`
--   `Roto` Quebrado
--   `Vacío` Vazio
--   `Increíble` Incrível
--   `Propio` Próprio
--   `Silvestre`
--   `Simple` Simples
--   `Conocido` Conhecido
--   `Suave`
--   `Diario` Diário
--   `En oferta` Em promoção
--   `Avanzado` Avançado
--   `Maravilloso` Maravilhoso
--   `Salvaje` Selvagem
--   `Terrible` Terrível
--   `Nacional`
--   `Gratis` Grátis/Gratuito
--   `Alejado` Longe
--   `Molesto` Chateado
--   `Horrible` Horrível
--   `Normal`
--   `Usual` Normal/Comum
--   `Inusual` Incomum
--   `Muerto` Morto
--   `En forma` Em forma
--   `Liso`
--   `Profundo` Fundo
--   `Claro`
--   `Digital`
--   `Tal`
--   `Negativo`
--   `Igual`
--   `De moda` Na moda
--   `Cierto` Certo/Verdadeiro
--   `Mal` Errado
--   `Eléctrico` Elétrico
--   `Suficiente`
-    -   Geralmente vem antes do substantivo
--   `Básico`
--   `Verdadero` Verdadeiro
--   `Atractivo` Atraente
--   `Real`
--   `Extranjero` Estrangeiro
-    -   "Exterior" quando falando de lugares.
--   `Ruidoso` Barulhento
--   `Rico`
-    -   Quando usado com comida ou para elogiar alguém, significa "gostoso" (geralmente quando usado com `estar`).
--   `En línea` Online
--   `Trasera` Traseira
--   `Vivo`
-    -   Também tem o sentido de "brilhante" para cores.
--   `Redondo`
--   `Cuadrado` Quadrado
--   `Seguro`
-    -   Também pode significar "certo" (de ter certeza) quando usado com `estar`.
--   `Común` Comum
--   `Libre` Livre
--   `Perdido` Perdido/Desaparecido
--   `Clásico` Clássico
--   `Cariño` Querido
--   `Individual`
--   `Recto` Reto
--   `Enorme`
--   `Entero` Inteiro
--   `Principal`
--   `Romántico` Romântico
--   `Breve`
--   `Usado`
--   `Creativo` Criativo
--   `Hispano`
--   `Experto` Especialista
--   `Exacto` Exato
--   `Alegre`
--   `Encantado`
--   `Silecioso`
--   `Curioso`
--   `Frecuente` Frequente
--   `Mundial`
--   `Reciente` Recente
--   `Actual` Atual
--   `Total`
--   `Útil`
--   `Mareado` Tonto
--   `Personal` Pessoal
--   `Imposible` Impossível
--   `Obvio` Óbvio
--   `Único`
--   `Necesario` Necessário
--   `Informal`
--   `Feo` Feio
--   `Original`
--   `Apretado` Apertado
--   `Contaminado`
--   `Frágil`
--   `Desconocido` Desconhecido
--   `Local`
--   `Directo` Direto
--   `Hispanohablante` Falante de espanhol
--   `Antiguo` Antigo
--   `Espetacular`
--   `Típico`
--   `Adicional`
--   `Raro` Estranho/Raro
--   `Clásico` Clássico
--   `Avergonzado` Envergonhado
--   `Activo` Ativo
--   `Torcido` Torto
--   `Imaginario` Imaginário
--   `General` Geral
--   `Profesional` Profissional
--   `Demócrata` Democrata
--   `Republicano`
+- `Abierto` Aberto
+- `Cerrado` Fechado
+- `Grande`
+    - `Gran` Prenominal
+- `Mediano` Médio
+- `Pequeño` Pequeno
+- `Caro`
+- `Barato`
+- `Elegante`
+- `Inteligente`
+- `Bello` Belo
+- `Bonito`
+- `Hermoso` Bonito
+- `Lindo`
+- `Guapo` Bonito (Pessoas)
+- `Perfecto` Perfeito
+- `Interesante` Interessante
+- `Interesado` Interessado
+- `Cansado`
+- `Diferente`
+- `Distinto`
+- `Demasiado` Muito/Excessivo
+- `Cómodo` Confortável
+- `Confortable` Confortável
+- `Favorito`
+- `Posible` Possível
+- `Fácil`
+- `Difícil`
+- `Duro` Difícil/Duro
+- `Feliz`
+- `Triste`
+- `Enfermo` Doente
+- `Bueno` Bom
+    - `Buen` Prenominal
+- `Malo` Mau
+- `Nuevo` Novo
+- `Viejo` Velho
+- `Jóven` Jovem
+- `Alto`
+- `Bajo` Baixo
+- `Importante`
+- `Delicioso`
+- `Listo` Pronto (Com `estar`)
+    - Inteligente (Com `ser`)
+- `Verde` Imaturo
+- `Ocupado`
+- `Aburrido` Entediante
+- `Divertido`
+- `Nervioso` Nervoso
+- `Joven` Jovem
+- `Simpático`
+- `Preocupado`
+- `Famoso`
+- `Emocionante`
+- `Emocionada`
+- `Enojado` Com raiva (América Latina)
+    - `Enfadado` Espanha
+- `Nervioso` Nervoso
+- `Sorprendido` Surpreendido
+- `Último`
+- `Saludable` Saudável
+- `Largo` Longo/Largo
+- `Ancho` Largo/Amplo
+- `Moderna`
+- `Exquisito` Delicioso
+- `Extra`
+- `Extraño` Estranho
+- `Limpio` Limpo
+- `Sucio` Sujo
+- `Rubio` Loiro
+- `Moreno`
+- `Estudioso`
+- `Perezoso` Preguiçoso
+- `Responsable` Responsável
+- `Oscuro` Escuro
+- `Mismo` Mesmo
+- `Gordo`
+- `Delgado` Magro/Fino
+- `Popular`
+- `Peligroso` Perigoso
+- `Próximo`
+- `Listo` Pronto
+- `Dulce` Doce
+- `Picante`
+- `Cálido` Morno
+- `Caliente` Quente
+- `Caluroso` Caloroso/Quente (Clima)
+    - Que causa calor
+- `Frío` Frio
+- `Lento`
+- `Ligero` Leve
+- `Seguro` (Com `ser`)
+    - Certo (Com `estar`)
+- `Cercano` Próximo
+- `Final`
+- `Pasado` Passado/Último
+- `Pobre`
+- `Gracioso` Engraçado
+- `Siguiente` Seguinte/Próximo
+- `Posible` Possível
+- `Fantástico`
+- `Grandísimo` Grandíssimo
+- `Cansadísimo` Cansadíssimo
+- `Dificilísimo` Dificílimo
+- `Facilísimo` Facílimo
+- `Buenísimo` Muito bom
+- `Malísimo` Muito mal
+- `Disponible` Disponível
+- `Tranquilo`
+- `Amable` Amável
+- `Asado` Assado
+- `Estupendo`
+- `Lleno` Cheio
+- `Vegetariano`
+- `Saludable` Saudável
+- `Excelente`
+- `Genial` Legal/Excelente
+- `Pálido`
+- `Semanal`
+- `Correcto` Correto
+- `Incorrecto` Incorreto
+- `Fuerte` Forte/Alto (intensidade)
+- `Rápido`
+- `Útil`
+- `Pesado`
+- `Varios` Vários
+- `Solo` Sozinho
+- `Agradable` Agradável
+- `Loco` Louco
+- `Enfadado` Bravo/Enraivecido
+- `Satisfecho` Satisfeito
+- `Casado`
+- `Soleado` Ensolarado
+- `Mojado` Molhado
+- `Seca`
+- `Fresco`
+- `Roto` Quebrado
+- `Vacío` Vazio
+- `Increíble` Incrível
+- `Propio` Próprio
+- `Silvestre`
+- `Simple` Simples
+- `Conocido` Conhecido
+- `Suave`
+- `Diario` Diário
+- `En oferta` Em promoção
+- `Avanzado` Avançado
+- `Maravilloso` Maravilhoso
+- `Salvaje` Selvagem
+- `Terrible` Terrível
+- `Nacional`
+- `Gratis` Grátis/Gratuito
+- `Alejado` Longe
+- `Molesto` Chateado
+- `Horrible` Horrível
+- `Normal`
+- `Usual` Normal/Comum
+- `Inusual` Incomum
+- `Muerto` Morto
+- `En forma` Em forma
+- `Liso`
+- `Profundo` Fundo
+- `Claro`
+- `Digital`
+- `Tal`
+- `Negativo`
+- `Igual`
+- `De moda` Na moda
+- `Cierto` Certo/Verdadeiro
+- `Mal` Errado
+- `Eléctrico` Elétrico
+- `Suficiente`
+    - Geralmente vem antes do substantivo
+- `Básico`
+- `Verdadero` Verdadeiro
+- `Atractivo` Atraente
+- `Real`
+- `Extranjero` Estrangeiro
+    - "Exterior" quando falando de lugares.
+- `Ruidoso` Barulhento
+- `Rico`
+    - Quando usado com comida ou para elogiar alguém, significa "gostoso" (geralmente quando usado com `estar`).
+- `En línea` Online
+- `Trasera` Traseira
+- `Vivo`
+    - Também tem o sentido de "brilhante" para cores.
+- `Redondo`
+- `Cuadrado` Quadrado
+- `Seguro`
+    - Também pode significar "certo" (de ter certeza) quando usado com `estar`.
+- `Común` Comum
+- `Libre` Livre
+- `Perdido` Perdido/Desaparecido
+- `Clásico` Clássico
+- `Cariño` Querido
+- `Individual`
+- `Recto` Reto
+- `Enorme`
+- `Entero` Inteiro
+- `Principal`
+- `Romántico` Romântico
+- `Breve`
+- `Usado`
+- `Creativo` Criativo
+- `Hispano`
+- `Experto` Especialista
+- `Exacto` Exato
+- `Alegre`
+- `Encantado`
+- `Silecioso`
+- `Curioso`
+- `Frecuente` Frequente
+- `Mundial`
+- `Reciente` Recente
+- `Actual` Atual
+- `Total`
+- `Útil`
+- `Mareado` Tonto
+- `Personal` Pessoal
+- `Imposible` Impossível
+- `Obvio` Óbvio
+- `Único`
+- `Necesario` Necessário
+- `Informal`
+- `Feo` Feio
+- `Original`
+- `Apretado` Apertado
+- `Contaminado`
+- `Frágil`
+- `Desconocido` Desconhecido
+- `Local`
+- `Directo` Direto
+- `Hispanohablante` Falante de espanhol
+- `Antiguo` Antigo
+- `Espetacular`
+- `Típico`
+- `Adicional`
+- `Raro` Estranho/Raro
+- `Clásico` Clássico
+- `Avergonzado` Envergonhado
+- `Activo` Ativo
+- `Torcido` Torto
+- `Imaginario` Imaginário
+- `General` Geral
+- `Profesional` Profissional
+- `Demócrata` Democrata
+- `Republicano`
+- `Derecho` Direito
+- `Ilegal`
+- `Público`
+- `Social`
+- `Regional`
+- `Municipal`
+- `Optimista` Otimista
+- `Tolerante`
+- `Oficial`

@@ -1,28 +1,31 @@
 # Frases
 
--   `Bitte` Por favor/De nada
--   `Danke` Obrigado
--   `Vielen Dank` Muito obrigado
--   `Gern geschehen` De nada
--   `Tschüss` Tchau
--   `Hallo` Olá
-    -   `Hi` Abreviação
--   `Guten Morgen` Bom dia
--   `Guten Tag` Boa tarde
--   `Guten Abend` Boa noite (Evening)
--   `Wie geht's` Como vai?
--   `Es geht` Estou bem
--   `Auf Wiedersehen` Adeus
--   `Es tut mir leid` Me desculpe
--   `Bis später` Até mais tarde
--   `Prost` Saúde
--   `Natürlich` Claro
--   `Entschuldigung` Com licença
--   `Bis bald` Até logo
--   `Keine Ahnung` Não tenho ideia
--   `Wie heißt du?` Como você se chama?
--   `Ich heiße...` Eu me chamo...
--   `Freut mich` Prazer em conhecer
-    -   `Freut mich auch` Também é um prazer
--   `Ich freue mich` Espero muito por isso
--   `Schade` Que pena
+- `Bitte` Por favor/De nada
+- `Danke` Obrigado
+- `Vielen Dank` Muito obrigado
+- `Gern geschehen` De nada
+- `Tschüss` Tchau
+- `Hallo` Olá
+    - `Hi` Abreviação
+- `Guten Morgen` Bom dia
+- `Guten Tag` Boa tarde
+- `Guten Abend` Boa noite (Evening)
+- `Wie geht's` Como vai?
+- `Es geht` Estou bem
+- `Auf Wiedersehen` Adeus
+- `Es tut mir leid` Me desculpe
+- `Das tut mir leid` Lamento por isso
+- `Bis später` Até mais tarde
+- `Prost` Saúde
+- `Natürlich` Claro
+- `Entschuldigung` Com licença
+- `Bis bald` Até logo
+- `Keine Ahnung` Não tenho ideia
+- `Wie heißt du?` Como você se chama?
+- `Ich heiße...` Eu me chamo...
+- `Freut mich` Prazer em conhecer
+    - `Freut mich auch` Também é um prazer
+- `Ich freue mich` Espero muito por isso
+- `Schade` Que pena
+- `Guten appetit` Bom apetite
+- `Alles Gute` Tudo de bom

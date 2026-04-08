@@ -6,26 +6,29 @@
 
 **Para o plural, adicionar `たち`.**
 
--   <font size="5"><code><ruby>私<rt>わたし</rt></ruby></code></font> Eu
-    -   É neutro em contextos formais e feminino em casuais.
-    -   <font size="5"><code><ruby>私<rt>わたくし</rt></ruby></code></font> kenjougo, humilde e usado em situações mais formais
-    -   <font size="5"><code><ruby>僕<rt>ぼく</rt></ruby></code></font> é mais masculino em contextos casuais.
-    -   <font size="5"><code><ruby>俺<rt>おれ</rt></ruby></code></font> é ainda mais masculino e até mesmo vulgar.
-        -   Usado em contextos onde busca-se demonstrar masculinidade, como bares e encontros românticos.
-    -   `うち` é bastante comum entre mulheres.
-    -   <font size="5"><code><ruby>私<rt>あたし</rt></ruby></code></font> também é comum entre mulheres.
-        -   <font size="5"><code><ruby>私<rt>あたくし</rt></ruby></code></font> é mais honorífico.
--   <font size="5"><code><ruby>貴<rt>あな</rt>方<rt>た</rt></ruby></code></font> Tu/Você
-    -   <font size="5"><code>お<ruby>前<rt>まえ</rt></ruby></code></font> Amistoso e casual com amigos, rude com estranhos.
-    -   <font size="5"><code><ruby>君<rt>きみ</rt></ruby></code></font> Amistoso e familiar, usado com pessoas de mesmo ou status mais baixo.
--   <font size="5"><code><ruby>彼<rt>かれ</rt></ruby></code></font> Ele
--   <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> Ela
--   <font size="5"><code><ruby>我<rt>われ</rt>々<rt>われ</rt></ruby>・<ruby>我<rt>われ</rt>ら</ruby></code></font> Nós (geralmente quando grupo ou instituição, ou formal)
--   `うち` Nós (feminino)
-    -   Também é utilizado por homens em contextos possessivos, principalmente quando "nós" se refere à família ou núcleo familiar.
--   <font size="5"><code><ruby>彼<rt>かれ</rt></ruby>ら</code></font> Eles/Elas
-    -   <font size="5"><code><ruby>奴<rt>やつ</rt></ruby>ら</code></font> Eles/Esses caras (depreciativo)
--   `みんな` Pessoal/Todos/Todo mundo
+- <font size="5"><code><ruby>私<rt>わたし</rt></ruby></code></font> Eu
+    - É neutro em contextos formais e feminino em casuais.
+    - <font size="5"><code><ruby>私<rt>わたくし</rt></ruby></code></font> kenjougo, humilde e usado em situações mais formais
+    - <font size="5"><code><ruby>僕<rt>ぼく</rt></ruby></code></font> é mais masculino em contextos casuais.
+    - <font size="5"><code><ruby>俺<rt>おれ</rt></ruby></code></font> é ainda mais masculino e até mesmo vulgar.
+        - Usado em contextos onde busca-se demonstrar masculinidade, como bares e encontros românticos.
+    - `うち` é bastante comum entre mulheres.
+    - <font size="5"><code><ruby>私<rt>あたし</rt></ruby></code></font> também é comum entre mulheres.
+        - <font size="5"><code><ruby>私<rt>あたくし</rt></ruby></code></font> é mais honorífico.
+- <font size="5"><code><ruby>貴<rt>あな</rt>方<rt>た</rt></ruby></code></font> Tu/Você
+    - Hoje é considerado um pouco distante ou até mesmo rude, sendo mais comum utilizar o nome da pessoa com um honorífico.
+    - <font size="5"><code><ruby>貴<rt>あん</rt>方<rt>た</rt></ruby></code></font> Forma familiar, considerada rude.
+    - <font size="5"><code>お<ruby>前<rt>まえ</rt></ruby></code></font> Amistoso e casual com amigos, rude com estranhos.
+    - <font size="5"><code><ruby>君<rt>きみ</rt></ruby></code></font> Amistoso e familiar, usado com pessoas de mesmo ou status mais baixo.
+    - <font size="5"><code><ruby>手前<rt>てめえ</rt></ruby></code></font> Masculino e rude, usado com pessoas consideradas de grau inferior.
+- <font size="5"><code><ruby>彼<rt>かれ</rt></ruby></code></font> Ele
+- <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> Ela
+- <font size="5"><code><ruby>我<rt>われ</rt>々<rt>われ</rt></ruby>・<ruby>我<rt>われ</rt>ら</ruby></code></font> Nós (geralmente quando grupo ou instituição, ou formal)
+- `うち` Nós (feminino)
+    - Também é utilizado por homens em contextos possessivos, principalmente quando "nós" se refere à família ou núcleo familiar.
+- <font size="5"><code><ruby>彼<rt>かれ</rt></ruby>ら</code></font> Eles/Elas
+    - <font size="5"><code><ruby>奴<rt>やつ</rt></ruby>ら</code></font> Eles/Esses caras (depreciativo)
+- `みんな` Pessoal/Todos/Todo mundo
 
 ## こそあど - KO-SO-A-DO
 
@@ -33,8 +36,8 @@
 
 **Determinante quer dizer que descreve alguma coisa. Ex.: "Este livro" ao invés "Este".**
 
--   Usar `どれ・どの` para três ou mais itens e `どちら` para dois.
-    -   O último é o único sentido que `どっち` pode ter
+- Usar `どれ・どの` para três ou mais itens e `どちら` para dois.
+    - O último é o único sentido que `どっち` pode ter
 
 <table>
     <thead>
@@ -110,7 +113,7 @@
         <td>どんな</td>
     </tr>
     <tr>
-        <th>Tipo (Específico; Escrito)</th>
+        <th>Tipo/Forma (Específico; Escrito)</th>
         <td>このような</td>
         <td>そのような</td>
         <td>あのような</td>
@@ -147,29 +150,30 @@
 
 **Geralmente acompanham a partícula `が`.**
 
--   `どう` Como/Que tal
-    -   `いかが` Honorífico
--   `どんな` Que (tipo)
--   <font size="5"><code><ruby>何<rt>なに</rt></ruby></code></font> O que
-    -   <font size="5"><code><ruby>何<rt>なん</rt></ruby></code></font> Usado com algum sufixo
-    -   <font size="5"><code><ruby>何<rt>なん</rt>の</ruby></code></font> Que/Qual(is)/De que/De qual(is)
--   <font size="5"><code><ruby>誰<rt>だれ</rt></ruby></code></font> Quem
-    -   <font size="5"><code><ruby>何方<rt>どなた</rt></ruby></code></font> Honorífico (Sonkeigo)
-        -   Geralmente escrito somente com kana.
-    -   <font size="5"><code>どちら<ruby>様<rt>さま</rt></ruby></code></font> Honorífico (Sonkeigo)
--   `いつ` Quando
--   `いくつ` Quanto/Quantos
+- `どう` Como/Que tal
+    - `いかが` Honorífico
+- `どんな` Que (tipo)
+- <font size="5"><code><ruby>何<rt>なに</rt></ruby></code></font> O que
+    - <font size="5"><code><ruby>何<rt>なん</rt></ruby></code></font> Usado com algum sufixo
+    - <font size="5"><code><ruby>何<rt>なん</rt>の</ruby></code></font> Que/Qual(is)/De que/De qual(is)
+- <font size="5"><code><ruby>誰<rt>だれ</rt></ruby></code></font> Quem
+    - <font size="5"><code><ruby>何方<rt>どなた</rt></ruby></code></font> Honorífico (Sonkeigo)
+        - Geralmente escrito somente com kana.
+    - <font size="5"><code>どちら<ruby>様<rt>さま</rt></ruby></code></font> Honorífico (Sonkeigo)
+    - <font size="5"><code><ruby>何<rt>なに</rt>者<rt>もの</rt></ruby></code></font> Desconhecimento/Receio (que tipo de pessoa)
+- `いつ` Quando
+- `いくつ` Quanto/Quantos
 
 ## <ruby>不<rt>ふ</rt>定<rt>てい</rt>代<rt>だい</rt>名<rt>めい</rt>詞<rt>し</rt></ruby> - Indefinidos
 
 > [!NOTE]
 > Seguem a estrutura:
 >
-> -   `-も` Todos (Universal, em frases afirmativas)
-> -   `-も` Nenhum (Negativo, em frases negativas)
-> -   `-か` Algum (Existencial)
-> -   `-でも` Qualquer um (Eletivo)
->     -   Também pode ser universal em alguns contextos.
+> - `-も` Todos (Universal, em frases afirmativas)
+> - `-も` Nenhum (Negativo, em frases negativas)
+> - `-か` Algum (Existencial)
+> - `-でも` Qualquer um (Eletivo)
+>     - Também pode ser universal em alguns contextos.
 
 <table>
     <thead>
@@ -224,25 +228,25 @@
 > Para determinantes, o que se determina vem no meio da construção. Ex.: `どの色でも` "Qualquer cor".
 > Ao usar os dois ao mesmo tempo, `か` vem antes de `も`.
 
--   <font size="5"><code><ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby></code></font> Todo/Toda/Todos/Todas
-    -   `すべて` Menos casual
-        -   Também pode significar "tudo".
--   `みんな` Todo mundo
--   <font size="5"><code><ruby>各<rt>かく</rt></ruby></code></font> Cada
-    -   É na verdade um prefixo.
-    -   Mais utilizado com kanjis compostos e palavras em katakana.
-    -   Seu uso mais comum é para identificar itens que fazem parte de uma sequência.
-    -   <font size="5"><code><ruby>各<rt>おの</rt>々</ruby></code></font> Cada um
-        -   Usado primariamente com pessoas.
+- <font size="5"><code><ruby>全<rt>ぜん</rt>部<rt>ぶ</rt></ruby></code></font> Todo/Toda/Todos/Todas
+    - `すべて` Menos casual
+        - Também pode significar "tudo".
+- `みんな` Todo mundo
+- <font size="5"><code><ruby>各<rt>かく</rt></ruby></code></font> Cada
+    - É na verdade um prefixo.
+    - Mais utilizado com kanjis compostos e palavras em katakana.
+    - Seu uso mais comum é para identificar itens que fazem parte de uma sequência.
+    - <font size="5"><code><ruby>各<rt>おの</rt>々</ruby></code></font> Cada um
+        - Usado primariamente com pessoas.
 
 ## Possessivos
 
--   Para formar o possessivo, basta adicionar `の` ao pronome pessoal.
+- Para formar o possessivo, basta adicionar `の` ao pronome pessoal.
 
 ## Reflexivos
 
--   Se usa somente o pronome <font size="5"><code><ruby>自<rt>じ</rt>分<rt>ぶん</rt></ruby></code></font> com qualquer pessoa, sendo esta definida pelo contexto da conversa.
+- Se usa somente o pronome <font size="5"><code><ruby>自<rt>じ</rt>分<rt>ぶん</rt></ruby></code></font> com qualquer pessoa, sendo esta definida pelo contexto da conversa.
 
 ## Relativos
 
--   Não existem pronomes relativos, as cláusulas relativas são feitas através de verbos, adjetivos ou de pronomes indefinidos.
+- Não existem pronomes relativos, as cláusulas relativas são feitas através de verbos, adjetivos ou de pronomes indefinidos.

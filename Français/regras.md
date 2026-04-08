@@ -63,49 +63,49 @@
     </tr>
 </table>
 
--   Palavras femininas geralmente terminam em `e`
--   `à` é usado para cidades e ilhas e `en` para países, províncias, estados e continentes.
--   Para dizer "há (verbo haver)", usa-se `Il y a`. Também serve para indicar quanto tempo se passou.
-    -   No futuro próximo, `y` vem depois do verbo auxiliar e no pretérito composto não se altera: `Il va y avoir` (futuro próximo), `Il y a eu` (pretérito composto)
--   Usar os artigos definidos para falar sobre o tempo e as refeições
--   Quase sempre se usa `des` para se referir a determinados substantivos de uma forma geral.
--   Eufonia: Os possessivos são usados na forma masculina se o substantivo feminino começa em som de vogal.
--   Para dizer que algo não funciona, geralmente se usa `... ne marche pas`.
--   Sempre usar os artigos indefinidos para substantivos incontáveis.
--   `An` é usado juntamente com números cardinais. `Année` para os outros casos.
--   Para dizer que sente frio ou calor, usar `avoir`
--   `Bon` e `bonne` também podem ter sentido de "certo" ou "correto". Ex.: `Est-ce que c'est le bon bus?` "Esse é o ônibus certo?"
--   `Le [jour de la semaine]` é usado para dizer "Aos/Às [dia da semana]". Para dias específicos, não se usa artigo.
--   Quanto a sabores, como "sorvete de morango" e "pão com queijo", se usa `[comida] à/au (la)[sabor]`. Ex.: `De la glace à la fraise`, `Du pain au fromage`.
--   Para frases impessoais, como instruções ou regras, se utiliza `il`, ex.: `Il faut`.
--   `Avoir mal à` significa sentir dor em algum lugar.
--   `Là`, mesmo que significando "lá", geralmente é utilizado como "aqui". Ex.: `Je suis là`, `Voilà`.
-    -   Para especificar o "lá" distante, costuma-se usar `là-bas`.
--   Em solicitações e propostas, é comum não usar verbos de apoio, como "poder".
--   Usa-se `c'est` antes de artigos e possessivos e `il est` antes de substantivos e adjetivos.
--   Com a reforma ortográfica de 1990, não se coloca mais acentos circunflexos no "i" e no "u".
--   Usar `en` quando algo é feito de alguma coisa (algum material por exemplo). Ex.: `Sac en cuir` Bolsa de couro
--   Para comandos, os sufixos `-le`, `-la`, `-les` funcionam da mesma forma que "-o", "-a", "-os", "-as" em português. A forma negativa também.
--   Ao se referir à pessoas de certa nacionalidade (ex.: un Brésilien), a palavra deve ser maiúscula. Ao se referir a um adjetivo (ex.: il est brésilien), não.
--   Ao se referir a elementos definidos (pessoas, etc.) `ce` é utilizado antes do verbo `être`. `Il` é utilizado em outros casos, inclusive quando há um adjetivo ou advérbio após `être`.
--   Quando se refere a elementos indefinidos (conceito ou coisa sem nome, ex.: isso), `ce` é usado com o verbo `être` e `ça` com outros verbos.
--   Quanto à pontuação, deve-se usar espaços antes e depois das marcas gráficas.
--   Em números, vírgulas denotam os pontos decimais e espaços as casas de milhar.
--   Para expressões impessoais, usa-se `il est` + [adjetivo] + `de` para sujeitos fictícios e `il est` + [adjetivo] + `à` para sujeitos reais.
--   Para formalidade ao realizar solicitações, costuma-se usar as formas condicionais de `aimer` e `vouloir`.
--   Para o causativo, usa-se o verbo `faire` + verbo no infinitivo e `rendre` + adjetivo.
--   Para partes do corpo não se costuma usar pronomes possessivos. Ao invés de disso, o verbo relacionado é usado na forma reflexiva.
--   Usa-se `en` para se referir à refeição que se quer pedir num restaurante. Ex.: `En entrée...` "De entrada...".
--   Também usa-se `en` para o meio de transporte usado para ir a algum lugar. Ex.: `Je suis allé en voiture` "Eu fui de carro".
-    -   Para à pé, moto e bicicleta usa-se `à`.
--   As linguagens formal e informal são chamadas de `soutenu` e `familier`, respectivamente.
+- Palavras femininas geralmente terminam em `e`
+- `à` é usado para cidades e ilhas e `en` para países, províncias, estados e continentes.
+- Para dizer "há (verbo haver)", usa-se `Il y a`. Também serve para indicar quanto tempo se passou.
+    - No futuro próximo, `y` vem depois do verbo auxiliar e no pretérito composto não se altera: `Il va y avoir` (futuro próximo), `Il y a eu` (pretérito composto)
+- Usar os artigos definidos para falar sobre o tempo e as refeições
+- Quase sempre se usa `des` para se referir a determinados substantivos de uma forma geral.
+- Eufonia: Os possessivos são usados na forma masculina se o substantivo feminino começa em som de vogal.
+- Para dizer que algo não funciona, geralmente se usa `... ne marche pas`.
+- Sempre usar os artigos indefinidos para substantivos incontáveis.
+- `An` é usado juntamente com números cardinais. `Année` para os outros casos.
+- Para dizer que sente frio ou calor, usar `avoir`
+- `Bon` e `bonne` também podem ter sentido de "certo" ou "correto". Ex.: `Est-ce que c'est le bon bus?` "Esse é o ônibus certo?"
+- `Le [jour de la semaine]` é usado para dizer "Aos/Às [dia da semana]". Para dias específicos, não se usa artigo.
+- Quanto a sabores, como "sorvete de morango" e "pão com queijo", se usa `[comida] à/au (la)[sabor]`. Ex.: `De la glace à la fraise`, `Du pain au fromage`.
+- Para frases impessoais, como instruções ou regras, se utiliza `il`, ex.: `Il faut`.
+- `Avoir mal à` significa sentir dor em algum lugar.
+- `Là`, mesmo que significando "lá", geralmente é utilizado como "aqui". Ex.: `Je suis là`, `Voilà`.
+    - Para especificar o "lá" distante, costuma-se usar `là-bas`.
+- Em solicitações e propostas, é comum não usar verbos de apoio, como "poder".
+- Usa-se `c'est` antes de artigos e possessivos e `il est` antes de substantivos e adjetivos.
+- Com a reforma ortográfica de 1990, não se coloca mais acentos circunflexos no "i" e no "u".
+- Usar `en` quando algo é feito de alguma coisa (algum material por exemplo). Ex.: `Sac en cuir` Bolsa de couro
+- Para comandos, os sufixos `-le`, `-la`, `-les` funcionam da mesma forma que "-o", "-a", "-os", "-as" em português. A forma negativa também.
+- Ao se referir à pessoas de certa nacionalidade (ex.: un Brésilien), a palavra deve ser maiúscula. Ao se referir a um adjetivo (ex.: il est brésilien), não.
+- Ao se referir a elementos definidos (pessoas, etc.) `ce` é utilizado antes do verbo `être`. `Il` é utilizado em outros casos, inclusive quando há um adjetivo ou advérbio após `être`.
+- Quando se refere a elementos indefinidos (conceito ou coisa sem nome, ex.: isso), `ce` é usado com o verbo `être` e `ça` com outros verbos.
+- Quanto à pontuação, deve-se usar espaços antes e depois das marcas gráficas.
+- Em números, vírgulas denotam os pontos decimais e espaços as casas de milhar.
+- Para expressões impessoais, usa-se `il est` + [adjetivo] + `de` para sujeitos fictícios e `il est` + [adjetivo] + `à` para sujeitos reais.
+- Para formalidade ao realizar solicitações, costuma-se usar as formas condicionais de `aimer` e `vouloir`.
+- Para o causativo, usa-se o verbo `faire` + verbo no infinitivo e `rendre` + adjetivo.
+- Para partes do corpo não se costuma usar pronomes possessivos. Ao invés de disso, o verbo relacionado é usado na forma reflexiva.
+- Usa-se `en` para se referir à refeição que se quer pedir num restaurante. Ex.: `En entrée...` "De entrada...".
+- Também usa-se `en` para o meio de transporte usado para ir a algum lugar. Ex.: `Je suis allé en voiture` "Eu fui de carro".
+    - Para à pé, moto e bicicleta usa-se `à`.
+- As linguagens formal e informal são chamadas de `soutenu` e `familier`, respectivamente.
 
 ## Le Pluriel - Plural
 
--   O plural geralmente é formando ao adicionar `-s` às palavras.
--   Palavras terminadas em `-eau`, `-eu` e `-au` costumam adicionar `-x`.
--   Palavras terminadas em `-al` costumam substituir por `-aux`.
--   Palavras terminadas em `-z`, `-x` e `-s` costumam ser invariáveis
+- O plural geralmente é formando ao adicionar `-s` às palavras.
+- Palavras terminadas em `-eau`, `-eu` e `-au` costumam adicionar `-x`.
+- Palavras terminadas em `-al` costumam substituir por `-aux`.
+- Palavras terminadas em `-z`, `-x` e `-s` costumam ser invariáveis
 
 ## Les Articles - Artigos
 
@@ -126,15 +126,15 @@
 > [!IMPORTANT]
 > Se a palavra começar com som de vogal (`voyelle/h muet`, vogal ou "h" mudo), `le` ou `la` se tornam `l'`. Algumas palavras iniciam com um "h" chamado de aspirado, e não sofrem essa elisão.
 
--   `Le` O
--   `La` A
--   `Les` Os/As
+- `Le` O
+- `La` A
+- `Les` Os/As
 
 ### Indéfinis - Indefinidos
 
--   `Un` Um
--   `Une` Uma
--   `Des` Uns/Umas
+- `Un` Um
+- `Une` Uma
+- `Des` Uns/Umas
 
 ### Partitifs - Partitivos
 
@@ -143,32 +143,40 @@
 > [!IMPORTANT]
 > Em frases negativas, `du`, `de la` e `des` se tornam apenas `de` e `d'`.
 
--   `Du (De le)`
--   `De la`
--   `Des`
+- `Du (De le)`
+- `De la`
+- `Des`
 
 ### Les Contractions - Contrações
 
--   Ce + est = `C'est`
--   À + Le = `Au`
--   À + Les = `Aux`
+- Ce + est = `C'est`
+- À + Le = `Au`
+- À + Les = `Aux`
 
 ## La Négation - Negação
 
--   A negação geralmente é conjugada como `ne [verbo] pas`. Note que o `pas` é o que qualifica a negação.
-    -   Em contextos informais, é comum utilizar somente `[verbo] pas`.
-    -   Ao usar palavras de negação, como `pas`, `plus`, `jamais`, o artigo utilizado logo a seguir se torna `de` (ou `d'`). A ideia da "ausência" de algo faz com que o partitivo seja usado.
+- A negação geralmente é conjugada como `ne [verbo] pas`. Note que o `pas` é o que qualifica a negação.
+    - Em contextos informais, é comum utilizar somente `[verbo] pas`.
+    - Ao usar palavras de negação, como `pas`, `plus`, `jamais`, o artigo utilizado logo a seguir se torna `de` (ou `d'`). A ideia da "ausência" de algo faz com que o partitivo seja usado.
+
+### Ne explétif - "Ne" expletivo
+
+- O `ne` ainda possui função expletiva. Isto, é, sem função lógica real, apenas para ênfase de frases.
+- Neste caso, não acompanha o `pas` e consequentemente não indica uma frase negativa.
+- É utilizado com verbos negativos em sentido, ou seja, que são "ruins" ou que indicam "negação", como aqueles que indicam medo, aviso, negação, dúvida, prevenção, etc.
+- Usado quase que exclusivamente no subjuntivo, após `que`.
+- É utilizado em discursos mais formais. No casual, o `ne` não é utilizado.
 
 ## Perguntas
 
--   Para fazer perguntas formalmente, utilizam-se as `inversions`: Coloca-se o verbo antes do pronome e liga-se os dois por hífen. Ex.: `Il boit` → `Boit-il`?
-    -   Se o sujeito for um substantivo ao invés de um pronome, ele deve vir antes do verbo, mas deve-se acrescentar um pronome da terceira pessoa após.
-    -   Se o verbo termina em vogal, se acrescenta um `t` sem significado entre o verbo e o pronome: `A-t-il`.
--   Declarações podem ser transformadas em perguntas colocando `Est-ce que...?` antes.
--   Para perguntar "O que...", usar `Qu'est-ce que`
+- Para fazer perguntas formalmente, utilizam-se as `inversions`: Coloca-se o verbo antes do pronome e liga-se os dois por hífen. Ex.: `Il boit` → `Boit-il`?
+    - Se o sujeito for um substantivo ao invés de um pronome, ele deve vir antes do verbo, mas deve-se acrescentar um pronome da terceira pessoa após.
+    - Se o verbo termina em vogal, se acrescenta um `t` sem significado entre o verbo e o pronome: `A-t-il`.
+- Declarações podem ser transformadas em perguntas colocando `Est-ce que...?` antes.
+- Para perguntar "O que...", usar `Qu'est-ce que`
 
 ## Les Faux Amis - Falsos cognatos
 
--   `Voiture` Carro
--   `Pourtant` Porém
--   `Crier` Gritar
+- `Voiture` Carro
+- `Pourtant` Porém
+- `Crier` Gritar

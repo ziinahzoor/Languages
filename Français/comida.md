@@ -1,181 +1,184 @@
 # Les Nourritures - Comida
 
--   `Aliment` Alimento
--   `Ingrédient` Ingrediente
--   `Pizza`
--   `Sucre` Açúcar
--   `Sel` Sal
--   `Salade` Salada
--   `Chocolat` Chocolate
--   `Viande` Carne
-    -   `Porc` Carne de porco 🚹
-    -   `Bœuf` Bife (carne de vaca)
-    -   `Veau` Vitela 🚹
--   `Lardon` Bacon
--   `Pain` Pão
--   `Fromage` Queijo
--   `Jambon` Presunto
--   `Dessert` Sobremesa
--   `Glace` Sorvete 🚺
--   `Dessert` Sobremesa 🚹
--   `Œuf` Ovo
-    -   `Jaune d'œuf` Gema 🚹
-    -   `Blanc d'œuf` Clara 🚹
--   `Gâteau` Bolo
--   `Huile` Óleo
--   `Vinaigre` Vinagre
--   `Confiture` Geleia
--   `Yaourt` Iogurte
--   `Patê` Massa
--   `Miel` Mel
--   `Beurre` Manteiga 🚹
--   `Céréal` Cereal
--   `Sucrerie` Doce 🚺
-    -   Qualquer comida doce, como bolos, tortas, doces propriamente ditos, etc.
--   `Bonbon` Doce/Confeito
--   `Biscuit` Biscoito
--   `Crêpe` Crepe 🚺
--   `Soupe` Sopa
--   `Pique-nique` Piquenique
--   `Farine` Farinha
--   `Porc` Carne de porco
--   `Poulet` Frango
--   `Pâte` Massa
--   `Huile` Óleo 🚺
--   `Ail` Alho
--   `Vinaigre` Vinagre
--   `Saucisse` Salsicha
--   `Crème` Creme
--   `Purée` Purê/Mingau 🚺
--   `Pain grillé` Torrada 🚹
--   `Jambon` Presunto
--   `Bonbon` Doce
--   `Sushi`
--   `Frite salée` Batata frita
--   `Poivre` Pimenta (Tempero)
--   `Épice` Tempero 🚺
--   `Omelette` Omelete
--   `Crème fraîche` Nata
--   `Barbecue` Churrasco
--   `Glaçon` Cubo de gelo
--   `Camembert`
--   `Steak` Bife
--   `Hamburger` Hambúrguer
--   `Fruit de mer` Fruto do mar
--   `Moutarde` Mostarda
--   `Sauce` Molho 🚺
--   `Tarte` Torta
--   `Cacahuète` Amendoim 🚺
--   `Goûter` Lanche/Petisco
-    -   `Gouter` Pós-reforma de 90
--   `Vanille` Baunilha
--   `Boulangerie` Panificado 🚺
--   `Viennoiserie` Panificado (doce)/Folhado/Confeito 🚺
-    -   Geralmente feitos com massa folhada
--   `Pâtisserie` Doce/Confeito 🚺
--   `Mayonnaise` Maionese
--   `Baguette` Baguete 🚺
--   `Noix` Noz
+- `Aliment` Alimento
+- `Ingrédient` Ingrediente
+- `Pizza`
+- `Sucre` Açúcar
+- `Sel` Sal
+- `Salade` Salada
+- `Chocolat` Chocolate
+- `Viande` Carne
+    - `Porc` Carne de porco 🚹
+    - `Bœuf` Bife (carne de vaca)
+    - `Veau` Vitela 🚹
+- `Lardon` Bacon
+- `Pain` Pão
+- `Fromage` Queijo
+- `Jambon` Presunto
+- `Dessert` Sobremesa
+- `Glace` Sorvete 🚺
+- `Dessert` Sobremesa 🚹
+- `Œuf` Ovo
+    - `Jaune d'œuf` Gema 🚹
+    - `Blanc d'œuf` Clara 🚹
+- `Gâteau` Bolo
+- `Huile` Óleo
+- `Vinaigre` Vinagre
+- `Confiture` Geleia
+- `Yaourt` Iogurte
+- `Patê` Massa
+- `Miel` Mel
+- `Beurre` Manteiga 🚹
+- `Céréal` Cereal
+- `Sucrerie` Doce 🚺
+    - Qualquer comida doce, como bolos, tortas, doces propriamente ditos, etc.
+- `Bonbon` Doce/Confeito
+- `Biscuit` Biscoito
+- `Crêpe` Crepe 🚺
+- `Soupe` Sopa
+- `Pique-nique` Piquenique
+- `Farine` Farinha
+- `Porc` Carne de porco
+- `Poulet` Frango
+- `Pâte` Massa
+- `Huile` Óleo 🚺
+- `Ail` Alho
+- `Vinaigre` Vinagre
+- `Saucisse` Salsicha
+- `Crème` Creme
+- `Purée` Purê/Mingau 🚺
+- `Pain grillé` Torrada 🚹
+- `Jambon` Presunto
+- `Bonbon` Doce
+- `Sushi`
+- `Frite salée` Batata frita
+- `Poivre` Pimenta (Tempero)
+- `Épice` Tempero 🚺
+- `Omelette` Omelete
+- `Crème fraîche` Nata
+- `Barbecue` Churrasco
+- `Glaçon` Cubo de gelo
+- `Camembert`
+- `Steak` Bife
+- `Hamburger` Hambúrguer
+- `Fruit de mer` Fruto do mar
+- `Moutarde` Mostarda
+- `Sauce` Molho 🚺
+- `Tarte` Torta
+- `Cacahuète` Amendoim 🚺
+- `Goûter` Lanche/Petisco
+    - `Gouter` Pós-reforma de 90
+- `Vanille` Baunilha
+- `Boulangerie` Panificado 🚺
+- `Viennoiserie` Panificado (doce)/Folhado/Confeito 🚺
+    - Geralmente feitos com massa folhada
+- `Pâtisserie` Doce/Confeito 🚺
+- `Mayonnaise` Maionese
+- `Baguette` Baguete 🚺
+- `Noix` Noz
+- `Charcuterie` Frios 🚺
+- `Gaufre` Waffle 🚺
+- `Bouillon` Caldo
 
 ## Les Légumes - Vegetais
 
--   `Pomme de terre` Batata
--   `Riz` Arroz
--   `Haricot` Feijão
--   `Brocoli` Brócolis
--   `Concombre` Pepino
--   `Poivron` Pimentão
--   `Oignon` Cebola
-    -   `Ognon` Pós-reforma de 90
--   `Piment` Pimenta 🚹
--   `Champignon` Cogumelo
--   `Carotte` Cenoura
--   `Épinard` Espinafre
--   `Maïs` Milho
--   `Petit pois` Ervilha 🚹
--   `Chou` Repolho
--   `Laitue` Alface 🚺
+- `Pomme de terre` Batata
+- `Riz` Arroz
+- `Haricot` Feijão
+- `Brocoli` Brócolis
+- `Concombre` Pepino
+- `Poivron` Pimentão
+- `Oignon` Cebola
+    - `Ognon` Pós-reforma de 90
+- `Piment` Pimenta 🚹
+- `Champignon` Cogumelo
+- `Carotte` Cenoura
+- `Épinard` Espinafre
+- `Maïs` Milho
+- `Petit pois` Ervilha 🚹
+- `Chou` Repolho
+- `Laitue` Alface 🚺
 
 ## Les Fruits - Frutas 🚹
 
--   `Tomate` 🚺
--   `Orange` Laranja
--   `Fraise` Morango 🚺
--   `Banane` Banana
--   `Pomme` Maçã
--   `Pêche` Pêssego 🚺
--   `Citron` Limão (amarelo)
--   `Lime` Limão (verde) F
-    -   `Limon`
--   `Pastèque` Melancia
--   `Melon` Melão
--   `Poire` Pera
--   `Raisin` Uva
--   `Mangue` Manga
--   `Olive` Azeitona
--   `Ananas` Abacaxi
--   `Cerise` Cereja
--   `Noix de coco` Coco 🚺
+- `Tomate` 🚺
+- `Orange` Laranja
+- `Fraise` Morango 🚺
+- `Banane` Banana
+- `Pomme` Maçã
+- `Pêche` Pêssego 🚺
+- `Citron` Limão (amarelo)
+- `Lime` Limão (verde) F
+    - `Limon`
+- `Pastèque` Melancia
+- `Melon` Melão
+- `Poire` Pera
+- `Raisin` Uva
+- `Mangue` Manga
+- `Olive` Azeitona
+- `Ananas` Abacaxi
+- `Cerise` Cereja
+- `Noix de coco` Coco 🚺
 
 ## Les Boissons - Bebidas
 
--   `Boisson pétillante` Bebida gaseificada/Bebida espumante
--   `Boisson fraîche` Refresco/Bebida gelada
-    -   Indica uma bebida que normalmente não é ingerida quente. Ex.: Refrigerantes, sucos, etc.
--   `Eau` Água
-    -   `Eau gazeuse` Água com gás
-        -   `Eau pétillante`
-    -   `Eau plate` Água sem gás
--   `Jus` Suco
--   `Café`
--   `Thé` Chá
--   `Tisane` Chá de ervas 🚺
--   `Alcool` Álcool
--   `Bière` Cerveja
--   `Lait` Leite
--   `Vin` Vinho
-    -   `Rouge` Tinto
-    -   `Blanc` Branco
-    -   `Rosé`
-    -   `Pinard` Vinho barato (Gíria)
--   `Soda` Refrigerante
--   `Limonade` Limonada com gás
--   `Champagne` Champanhe
--   `Chocolat chaud` Chocolate quente
+- `Boisson pétillante` Bebida gaseificada/Bebida espumante
+- `Boisson fraîche` Refresco/Bebida gelada
+    - Indica uma bebida que normalmente não é ingerida quente. Ex.: Refrigerantes, sucos, etc.
+- `Eau` Água
+    - `Eau gazeuse` Água com gás
+        - `Eau pétillante`
+    - `Eau plate` Água sem gás
+- `Jus` Suco
+- `Café`
+- `Thé` Chá
+- `Tisane` Chá de ervas 🚺
+- `Alcool` Álcool
+- `Bière` Cerveja
+- `Lait` Leite
+- `Vin` Vinho
+    - `Rouge` Tinto
+    - `Blanc` Branco
+    - `Rosé`
+    - `Pinard` Vinho barato (Gíria)
+- `Soda` Refrigerante
+- `Limonade` Limonada com gás
+- `Champagne` Champanhe
+- `Chocolat chaud` Chocolate quente
 
 ## Les Repas - Refeições
 
--   `Repas` Refeição 🚹
--   `Petit déjeuner` Café da manhã
--   `Déjeuner` Almoço
--   `Dîner` Jantar
-    -   `Diner` Pós-reforma de 90
--   `Goûter` Petisco/Lanche
--   `Casse-croûte` Lanche
--   `Apéritif` Aperitivo
-    -   `Apéro` Abreviação
--   `Entrée` Entrada
--   `Digestif` Digestivo
-    -   Geralmente uma bebida após a refeição.
--   `Casse-dalle` Quebra-fome (Gíria)
-    -   Significa algum aperitivo ou lanche, geralmente um sanduíche de baguete.
--   `Plat à emporter` Comida pra levar 🚹
--   `Restes` Sobras 🚹
+- `Repas` Refeição 🚹
+- `Petit déjeuner` Café da manhã
+- `Déjeuner` Almoço
+- `Dîner` Jantar
+    - `Diner` Pós-reforma de 90
+- `Goûter` Petisco/Lanche
+- `Casse-croûte` Lanche
+- `Apéritif` Aperitivo
+    - `Apéro` Abreviação
+- `Entrée` Entrada
+- `Digestif` Digestivo
+    - Geralmente uma bebida após a refeição.
+- `Casse-dalle` Quebra-fome (Gíria)
+    - Significa algum aperitivo ou lanche, geralmente um sanduíche de baguete.
+- `Plat à emporter` Comida pra levar 🚹
+- `Restes` Sobras 🚹
 
 ## Culinária francesa
 
--   `Cassoulet` 🚹
-    -   Ensopado de feijões brancos e carne.
--   `Bouillabaisse` 🚺
-    -   Sopa de peixe.
--   `Soufflé` 🚹
-    -   Prato assado, feito de clara de ovo e outros ingredientes. Geralmente servido numa tigela de cerâmica.
--   `Clafoutis` 🚹
-    -   Sobremesa com uma massa parecida com uma torta/pudim, feita com frutas, geralmente cerejas.
--   `Croissant` 🚹
-    -   Viennoiserie de massa folhada em formato de meia-lua.
--   `Pain au chocolat` 🚹
-    -   `Chocolatine` Usado na região sudoeste da França 🚺
-    -   Croissant de chocolate
--   `Éclair` Éclair/Bomba 🚹
-    -   Viennoiserie de massa choux com cobertura e recheio de creme.
+- `Cassoulet` 🚹
+    - Ensopado de feijões brancos e carne.
+- `Bouillabaisse` 🚺
+    - Sopa de peixe.
+- `Soufflé` 🚹
+    - Prato assado, feito de clara de ovo e outros ingredientes. Geralmente servido numa tigela de cerâmica.
+- `Clafoutis` 🚹
+    - Sobremesa com uma massa parecida com uma torta/pudim, feita com frutas, geralmente cerejas.
+- `Croissant` 🚹
+    - Viennoiserie de massa folhada em formato de meia-lua.
+- `Pain au chocolat` 🚹
+    - `Chocolatine` Usado na região sudoeste da França 🚺
+    - Croissant de chocolate
+- `Éclair` Éclair/Bomba 🚹
+    - Viennoiserie de massa choux com cobertura e recheio de creme.

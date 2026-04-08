@@ -67,17 +67,19 @@
     </tr>
 </table>
 
--   Em grego as expressões climáticas são ditas usando o verbo `Έχω` + o substantivo relacionado no acusativo. Ex.: "faz sol" ou "está ensolarado" é dito como `Έχει ήλιο` "tem sol".
+- Em grego as expressões climáticas são ditas usando o verbo `Έχω` + o substantivo relacionado no acusativo. Ex.: "faz sol" ou "está ensolarado" é dito como `Έχει ήλιο` "tem sol".
+- Para enfatizar que alguém também faz uma ação, utiliza-se [verbo] + `κι` [pronome fraco]. Ou ainda `κι` + [pronome fraco] + [verbo].
 
 ## Adjetivos
 
--   As formas masculinas costumam terminar em `-ος`, `-ύς` e `-ης`.
--   As formas femininas costumam terminar em `-η` e `-α`.
--   As formas neutras costumam terminar em `-ο`, `-ύ`, `-ί` e `-ικο`.
+- Costumam vir antes do substantivo. Ou após, para ênfase.
+- As formas masculinas costumam terminar em `-ος`, `-ύς` e `-ης`.
+- As formas femininas costumam terminar em `-η` e `-α`.
+- As formas neutras costumam terminar em `-ο`, `-ύ`, `-ί` e `-ικο`.
 
 ## Οι Πτώσειç και ο Πληθυντικός - Casos 🚺 e Plural
 
--   Existem 4 casos. As terminações seguem a tabela:
+- Existem 4 casos. As terminações seguem a tabela:
 
 <table>
     <thead>
@@ -155,10 +157,10 @@
 > [!IMPORTANT]
 > ◆: Também pode ser feminino
 
--   Existe também o vocativo, que será sempre igual ao acusativo, exceto nos substantivos terminados em `-ος`, que se tornam `-ε` ao invés de `-ο`.
--   Note que nos masculinos, exceto no plural acusativo, todas as formas perdem o `-ς` do nominativo.
--   Note que nas terminações exclusivamente femininas singulares, somente o genitivo é diferente (acrescenta `-ς`).
--   Note que nas terminações neutras, o nominativo e o acusativo são sempre iguais.
+- Existe também o vocativo, que será sempre igual ao acusativo, exceto nos substantivos terminados em `-ος`, que se tornam `-ε` ao invés de `-ο`.
+- Note que nos masculinos, exceto no plural acusativo, todas as formas perdem o `-ς` do nominativo.
+- Note que nas terminações exclusivamente femininas singulares, somente o genitivo é diferente (acrescenta `-ς`).
+- Note que nas terminações neutras, o nominativo e o acusativo são sempre iguais.
 
 > [!IMPORTANT]
 > O dativo não existe no grego moderno. Para construções dativas, usa-se o genitivo ou orações preposicionais.

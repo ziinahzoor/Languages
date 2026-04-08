@@ -1,129 +1,132 @@
 # Las Personas/La Gente - Pessoas
 
--   `Pareja` Casal 🚺
--   `Multitud` Multidão
--   `Población` População
--   `Grupo`
--   `Miembro` Membro
--   `Habitante`
--   `Adulto`
--   `Niño` Menino
--   `Chico` Rapaz
--   `Muchacho` Rapaz
--   `Niña` Menina
--   `Chica` Moça
--   `Muchacha` Moça
--   `Mujer` Mulher
--   `Hombre` Homem
--   `Tipo` Cara
--   `Alumno` Aluno
--   `Estudiante` Estudante
--   `Vegetariano`
--   `Amigo`
--   `Señor` Senhor
--   `Señorita` Senhorita
--   `Amigo`
--   `Jefe` Chefe
--   `Jugador` Jogador
--   `Vecino` Vizinho
--   `Colega`
--   `Compañero` Colega
-    -   `Compañero de cuarto` Colega de quarto
-    -   `Compañero de clase` Colega de classe
--   `Equipo` Equipe 🚹/Time
--   `Presidente`
--   `Rey` Rei
--   `Reina` Rainha
--   `Turista`
--   `Pasajero` Passageiro
--   `Invitado` Convidado
--   `Gerente`
--   `Trabajador` Trabalhador
--   `Pasante` Estagiário
--   `Visitante`
--   `Obrero` Trabalhador/Operário
--   `Cliente`
--   `Personal` Funcionários/Pessoal
--   `Ama de casa` Dona de casa
--   `Adolescente`
--   `Soltero` Solteiro
--   `Graduado` Formado/Graduado
--   `Ganador` Ganhador
--   `Principiante`
--   `Visita`
--   `Protagonista`
--   `Ex`
--   `Mayor` Idoso
--   `Paciente`
--   `Dueño` Dono
+- `Humano`
+- `Pareja` Casal 🚺
+- `Multitud` Multidão
+- `Población` População
+- `Grupo`
+- `Miembro` Membro
+- `Habitante`
+- `Adulto`
+- `Niño` Menino
+- `Chico` Rapaz
+- `Muchacho` Rapaz
+- `Niña` Menina
+- `Chica` Moça
+- `Muchacha` Moça
+- `Mujer` Mulher
+- `Hombre` Homem
+- `Tipo` Cara
+- `Alumno` Aluno
+- `Estudiante` Estudante
+- `Vegetariano`
+- `Amigo`
+- `Señor` Senhor
+- `Señorita` Senhorita
+- `Amigo`
+- `Jefe` Chefe
+- `Jugador` Jogador
+- `Vecino` Vizinho
+- `Colega`
+- `Compañero` Colega
+    - `Compañero de cuarto` Colega de quarto
+    - `Compañero de clase` Colega de classe
+- `Equipo` Equipe 🚹/Time
+- `Presidente`
+- `Rey` Rei
+- `Reina` Rainha
+- `Turista`
+- `Pasajero` Passageiro
+- `Invitado` Convidado
+- `Gerente`
+- `Trabajador` Trabalhador
+- `Pasante` Estagiário
+- `Visitante`
+- `Obrero` Trabalhador/Operário
+- `Cliente`
+- `Personal` Funcionários/Pessoal
+- `Ama de casa` Dona de casa
+- `Adolescente`
+- `Soltero` Solteiro
+- `Graduado` Formado/Graduado
+- `Ganador` Ganhador
+- `Principiante`
+- `Visita`
+- `Protagonista`
+- `Ex`
+- `Mayor` Idoso
+- `Paciente`
+- `Dueño` Dono
 
 ## Profissões
 
--   `Doctor` Doutor
--   `Médico`
--   `Maestro` Professor (Teacher)
--   `Profesor` Professor
--   `Mesero` Garçom
-    -   `Camarero` Espanha
--   `Secretario` Secretário
--   `Salvavida` Salva-vidas
--   `Chef` Chefe (de cozinha)
--   `Mecánico` Mecânico
--   `Enfermero` Enfermeiro
--   `Dentista`
--   `Ingeniero` Engenheiro
--   `Agricultor` Fazendeiro
--   `Policía` Polícia/Policial
--   `Artista`
--   `Bailarín` Bailarino
--   `Pintor`
--   `Empresario` Empresário
--   `Cocinero` Cozinheiro
--   `Actor` Ator
--   `Actriz` Atriz
--   `Recepcionista`
--   `Conductor` Motorista
--   `Fotógrafo`
--   `Limpiador` Faxineiro
--   `Piloto`
--   `Cantante` Cantor
--   `Vendedor`
--   `Payaso` Palhaço
--   `Escritor`
--   `Taxista`
--   `Juez` Juíz
+- `Doctor` Doutor
+- `Médico`
+- `Maestro` Professor (Teacher)
+- `Profesor` Professor
+- `Mesero` Garçom
+    - `Camarero` Espanha
+- `Secretario` Secretário
+- `Salvavida` Salva-vidas
+- `Chef` Chefe (de cozinha)
+- `Mecánico` Mecânico
+- `Enfermero` Enfermeiro
+- `Dentista`
+- `Ingeniero` Engenheiro
+- `Agricultor` Fazendeiro
+- `Policía` Polícia/Policial
+- `Artista`
+- `Bailarín` Bailarino
+- `Pintor`
+- `Empresario` Empresário
+- `Cocinero` Cozinheiro
+- `Actor` Ator
+- `Actriz` Atriz
+- `Recepcionista`
+- `Conductor` Motorista
+- `Fotógrafo`
+- `Limpiador` Faxineiro
+- `Piloto`
+- `Cantante` Cantor
+- `Vendedor`
+- `Payaso` Palhaço
+- `Escritor`
+- `Taxista`
+- `Juez` Juíz
+- `Asistente` Assistente
+- `Empleado` Funcionário
 
 ## La Familia - Família
 
--   `Padre` Pai
-    -   `Papá` Papai
--   `Madre` Mãe
-    -   `Mamá` Mamãe
--   `Hijo` Filho
--   `Hermano` Irmão
-    -   `Gemelo` Gêmeo
--   `Abuelo` Avô
-    -   `Abuelito` Vovô
--   `Abuela` Avó
--   `Nieto` Neto
--   `Marido`
-    -   `Esposo`
--   `Esposa`
--   `Novio` Namorado
-    -   `Exnovio` Ex-namorado
--   `Primo`
--   `Tío` Tio
--   `Sobrino` Sobrinho
--   `Suegro` Sogro
--   `Suegra` Sogra
--   `Madrastra` Madrasta
--   `Padrastro` Padrasto
--   `Hermanastro` Meio-irmão
--   `Medio hermano` Meio-irmão
--   `Cuñado` Cunhado
--   `Yerno` Genro
--   `Nuera` Nora
--   `Bisabuelo` Bisavô
--   `Tatarabuelo` Tataravô
--   `Bisnieto` Bisneto
--   `Tataranieto` Tataraneto
+- `Padre` Pai
+    - `Papá` Papai
+- `Madre` Mãe
+    - `Mamá` Mamãe
+- `Hijo` Filho
+- `Hermano` Irmão
+    - `Gemelo` Gêmeo
+- `Abuelo` Avô
+    - `Abuelito` Vovô
+- `Abuela` Avó
+- `Nieto` Neto
+- `Marido`
+    - `Esposo`
+- `Esposa`
+- `Novio` Namorado
+    - `Exnovio` Ex-namorado
+- `Primo`
+- `Tío` Tio
+- `Sobrino` Sobrinho
+- `Suegro` Sogro
+- `Suegra` Sogra
+- `Madrastra` Madrasta
+- `Padrastro` Padrasto
+- `Hermanastro` Meio-irmão
+- `Medio hermano` Meio-irmão
+- `Cuñado` Cunhado
+- `Yerno` Genro
+- `Nuera` Nora
+- `Bisabuelo` Bisavô
+- `Tatarabuelo` Tataravô
+- `Bisnieto` Bisneto
+- `Tataranieto` Tataraneto

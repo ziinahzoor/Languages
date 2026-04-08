@@ -1,3 +1,3 @@
 # Preposições
 
--   `Și` Com
+- `Cu` Com

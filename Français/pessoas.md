@@ -1,200 +1,217 @@
 # Les Personnes - Pessoas
 
--   `Foule` Multidão
--   `Humain` Humano
--   `Gens` Gente
--   `Public` Público
--   `Mec` Cara
--   `Homme` Homem
--   `Homme au foyer` Dono de casa
-    -   `Père au foyer` Dono de casa (que fica cuidando dos filhos)
--   `Bonhomme` Cara
-    -   Também utilizado para se referir a bonecos.
--   `Femme` Mulher
--   `Garçon` Menino
--   `Fille` Menina/Filha
--   `Adulte` Adulto
--   `Adolescent` Adolescente
-    -   `Ado`
--   `Enfant` Criança 🚹
--   `Ami` Amigo
-    -   `Pote` Mano/Colega/Companheiro/Camarada
--   `Bébé` Bebê
--   `Voisin` Vizinho
--   `Monsieur` Senhor
-    -   É pronunciado como "mesieur".
-    -   `Messieurs` Senhores
-    -   `M.` Abreviação
--   `Madame` Senhora
-    -   `Mesdames` Senhoras (Plural raro)
-    -   `Mme` Abreviação
--   `Mademoiselle` Senhorita
--   `Élève` Estudante/Púpilo
--   `Étudiant` Estudante/Universitário
--   `Patron` Patrão
--   `Chef` Chefe
--   `Fumeur` Fumante
--   `Groupe de musique` Banda
-    -   `Groupe`
--   `Fantôme` Fantasma
--   `Collègue` Colega
--   `Propriétaire` Proprietário
-    -   `Proprio` Abreviação
--   `Locataire` Locatário/Inquilino
--   `Colocataire` Colega de quarto
-    -   `Coloc` Abreviação
--   `Copain/Copine` Colega
-    -   `Copain de classe` Colega de classe
--   `Membre` Membro
--   `Personnel` Pessoal
--   `Client` Cliente
--   `Touriste` Turista
--   `Marié` Noivo (No dia do casamento)
--   `Mariée` Noiva (No dia do casamento)
--   `Voleur` Ladrão
--   `Invité` Convidado
--   `Passager` Passageiro
--   `Voyageur` Viajante
--   `Public` Público
--   `Star` Estrela (Celebridade)
-    -   `Vedette` Termo um pouco mais antigo
--   `Type` Cara
--   `Roi` Rei
--   `Reine` Rainha
--   `Patient` Paciente
--   `Joueur` Jogador
--   `Champion` Campeão
--   `Dieu` Deus
--   `Débutant` Iniciante
--   `Stagiaire` Estagiário
--   `Guitariste` Guitarrista
--   `Athlète` Atleta
--   `Couple` Casal
--   `Habitant` Habitante
--   `Piéton` Pedestre
--   `Célébrité` Celebridade
--   `Visiteur` Visitante
--   `Dame` Dama
--   `Ex`
--   `Concurrent` Concorrente
--   `Intervenant` Parte interessada/Stakeholder 🚹
--   `Maître` Mestre
-    -   `Maitre` Pós-reforma de 90
--   `Maîtresse` Amante
+- `Foule` Multidão
+- `Humain` Humano
+- `Gens` Gente
+- `Public` Público
+- `Mec` Cara
+- `Homme` Homem
+- `Homme au foyer` Dono de casa
+    - `Père au foyer` Dono de casa (que fica cuidando dos filhos)
+- `Bonhomme` Cara
+    - Também utilizado para se referir a bonecos.
+- `Femme` Mulher
+- `Garçon` Menino
+- `Fille` Menina/Filha
+- `Adulte` Adulto
+- `Adolescent` Adolescente
+    - `Ado`
+- `Enfant` Criança 🚹
+- `Ami` Amigo
+    - `Pote` Mano/Colega/Companheiro/Camarada
+- `Bébé` Bebê
+- `Voisin` Vizinho
+- `Monsieur` Senhor
+    - É pronunciado como "mesieur".
+    - `Messieurs` Senhores
+    - `M.` Abreviação
+- `Madame` Senhora
+    - `Mesdames` Senhoras (Plural raro)
+    - `Mme` Abreviação
+- `Mademoiselle` Senhorita
+- `Élève` Estudante/Púpilo
+- `Étudiant` Estudante/Universitário
+- `Patron` Patrão
+- `Chef` Chefe
+- `Fumeur` Fumante
+- `Groupe de musique` Banda
+    - `Groupe`
+- `Fantôme` Fantasma
+- `Collègue` Colega
+- `Propriétaire` Proprietário
+    - `Proprio` Abreviação
+- `Locataire` Locatário/Inquilino
+- `Colocataire` Colega de quarto
+    - `Coloc` Abreviação
+- `Copain/Copine` Colega
+    - `Copain de classe` Colega de classe
+- `Membre` Membro
+- `Personnel` Pessoal
+- `Client` Cliente
+- `Touriste` Turista
+- `Marié` Noivo (No dia do casamento)
+- `Mariée` Noiva (No dia do casamento)
+- `Voleur` Ladrão
+- `Invité` Convidado
+- `Passager` Passageiro
+- `Voyageur` Viajante
+- `Public` Público
+- `Star` Estrela (Celebridade)
+    - `Vedette` Termo um pouco mais antigo
+- `Type` Cara
+- `Roi` Rei
+- `Reine` Rainha
+- `Patient` Paciente
+- `Joueur` Jogador
+- `Champion` Campeão
+- `Dieu` Deus
+- `Débutant` Iniciante
+- `Stagiaire` Estagiário
+- `Guitariste` Guitarrista
+- `Athlète` Atleta
+- `Couple` Casal
+- `Habitant` Habitante
+- `Piéton` Pedestre
+- `Célébrité` Celebridade
+- `Visiteur` Visitante
+- `Dame` Dama
+- `Ex`
+- `Concurrent` Concorrente
+- `Intervenant` Parte interessada/Stakeholder 🚹
+- `Maître` Mestre
+    - `Maitre` Pós-reforma de 90
+- `Maîtresse` Amante
+- `Abonné` Inscrito/Seguidor
+- `Panier percé` Gastador/Perdulário
+- `Influenceur` Influenciador
 
 ## Profissões
 
--   `Homme de ménage` Faxineiro
--   `Homme d'affaires` Empresário
--   `Journalist` Jornalista
--   `Médecin` Médico
--   `Chauffeur` Motorista
--   `Maître` Professor (do fundamental)
-    -   `Maitre` Pós-reforma de 90
--   `Professeur` Professor
-    -   `Prof`
--   `Serveur` Garçom
--   `Serveuse` Garçonete
--   `Mécanicien` Mecânico
--   `Modèle` Modelo
--   `Auteur` Autor
--   `Acteur` Ator
--   `Actrice` Atriz
--   `Comédien` Ator
--   `Maitre-nageur` Salva-vidas
--   `Entraîneur` Treinador
-    -   `Entraineur` Pós-reforma de 90
--   `Chanteur` Cantor
--   `Danseur` Dançarino
--   `Cuisinier` Cozinheiro
--   `Ingénieur` Engenheiro
--   `Photographe` Fotógrafo
--   `Directeur` Diretor
--   `Directrice` Diretora
--   `Réalisateur` Diretor (de cinema)
--   `Secrétaire` Secretário
--   `Employé` Funcionário
--   `Policier` Policial
--   `Artiste` Artista
--   `Musicien` Músico
--   `Peintre` Pintor
--   `Clown` Palhaço
--   `Pompier` Bombeiro
--   `Vendeur` Vendedor
--   `Pilote` Piloto
--   `Docteur` Doutor
--   `Infirmier` Enfermeiro
--   `Hacker`
--   `Dentiste` Dentista
--   `Agriculteur` Fazendeiro
--   `Gérant` Gerente
--   `Responsable` Gerente
--   `Mécanicien` Mecânico
--   `Humoriste` Comediante/Humorista
--   `Coiffeur` Cabeleireiro
--   `Ouvrier` Trabalhador/Operário
--   `Président-directeur général` CEO
-    -   `PDG` Sigla
--   `Avocat` Advogado
--   `Boulanger` Padeiro
--   `Vétérinaire` Veterinário
--   `Architecte` Arquiteto
--   `Comptable` Contador
--   `Boucher` Açougueiro
--   `Blogueur` Blogueiro
--   `Assistant` Assistente
--   `Spécialiste` Especialista
--   `Créateur` Criador/Designer
--   `Programmeur` Programador
--   `Sculpteur` Escultor
--   `Secouriste` Socorrista
--   `Président` Presidente
--   `Governeur` Governador
--   `Maire` Prefeito
--   `Fonctionnaire` Funcionário público
+- `Homme de ménage` Faxineiro
+- `Homme d'affaires` Empresário
+- `Journalist` Jornalista
+- `Médecin` Médico
+- `Chauffeur` Motorista
+- `Enseignant` Professor
+- `Maître` Professor (do fundamental)
+    - `Maitre` Pós-reforma de 90
+- `Professeur` Professor (do ensino médio ou superior)
+    - `Prof`
+- `Serveur` Garçom
+- `Serveuse` Garçonete
+- `Mécanicien` Mecânico
+- `Modèle` Modelo
+- `Auteur` Autor
+- `Acteur` Ator
+- `Actrice` Atriz
+- `Comédien` Ator
+- `Maitre-nageur` Salva-vidas
+- `Entraîneur` Treinador
+    - `Entraineur` Pós-reforma de 90
+- `Chanteur` Cantor
+- `Danseur` Dançarino
+- `Cuisinier` Cozinheiro
+    - `Cordon bleu` Cozinho experiente (gíria)
+- `Ingénieur` Engenheiro
+- `Photographe` Fotógrafo
+- `Directeur` Diretor
+- `Directrice` Diretora
+- `Réalisateur` Diretor (de cinema)
+- `Secrétaire` Secretário
+- `Employé` Funcionário
+- `Policier` Policial
+- `Artiste` Artista
+- `Musicien` Músico
+- `Peintre` Pintor
+- `Clown` Palhaço
+- `Pompier` Bombeiro
+- `Vendeur` Vendedor
+- `Pilote` Piloto
+- `Docteur` Doutor
+- `Infirmier` Enfermeiro
+- `Hacker`
+- `Dentiste` Dentista
+- `Agriculteur` Fazendeiro
+- `Gérant` Gerente
+- `Responsable` Gerente
+- `Mécanicien` Mecânico
+- `Humoriste` Comediante/Humorista
+- `Coiffeur` Cabeleireiro
+- `Ouvrier` Trabalhador/Operário
+- `Président-directeur général` CEO
+    - `PDG` Sigla
+- `Avocat` Advogado
+- `Boulanger` Padeiro
+- `Vétérinaire` Veterinário
+- `Architecte` Arquiteto
+- `Comptable` Contador
+- `Boucher` Açougueiro
+- `Blogueur` Blogueiro
+- `Assistant` Assistente
+- `Spécialiste` Especialista
+- `Créateur` Criador/Designer
+- `Programmeur` Programador
+- `Sculpteur` Escultor
+- `Secouriste` Socorrista
+- `Président` Presidente
+- `Governeur` Governador
+- `Maire` Prefeito
+- `Fonctionnaire` Funcionário público
+- `Plombier` Encanador
+- `Serrurier` Chaveiro
+- `Tuteur` Monitor/Tutor
+- `Graphiste` Designer gráfico
+- `Traducteur` Tradutor
+- `Chef de projet` Gerente de projetos
+- `Scientifique` Cientista
+- `Journaliste` Jornalista
 
 ## La famille - Família
 
--   `Parent` Pai/Mãe
--   `Père` Pai
-    -   `Papa` Papai
--   `Mère` Mãe
-    -   `Maman` Mamãe
--   `Grands-parents` Avós
--   `Grand-père` Avô
-    -   `Papi/Papou` Vovô
--   `Grand-mère` Avó
-    -   `Mamie/Mamou` Vovó
--   `Fiancé` Noivo
--   `Mari/Époux` Marido
--   `Femme/Épouse` Esposa
--   `Frère` Irmão
-    -   `Demi-frère` Meio-irmão
--   `Sœur` Irmã
--   `Jumeau` Gêmeo
--   `Fils` Filho
--   `Petits-enfants` Netos
--   `Petite-fille` Neta
--   `Petit-fils` Neto
--   `Copain` Companheiro
--   `Copine` Companheira
--   `Petit-ami` Namorado
--   `Petite-amie` Namorada
--   `Cousin` Primo
--   `Oncle` Tio
--   `Tante` Tia
--   `Neveu` Sobrinho
--   `Nièce` Sobrinha
--   `Beaux-parents` Sogros
--   `Beau-père` Sogro/Padrasto
--   `Belle-mère` Sogra/Madrasta
+- `Parent` Pai/Mãe
+- `Père` Pai
+    - `Papa` Papai
+- `Mère` Mãe
+    - `Maman` Mamãe
+- `Grands-parents` Avós
+- `Grand-père` Avô
+    - `Papi/Papou` Vovô
+- `Grand-mère` Avó
+    - `Mamie/Mamou` Vovó
+- `Fiancé` Noivo
+- `Mari/Époux` Marido
+- `Femme/Épouse` Esposa
+- `Frère` Irmão
+    - `Demi-frère` Meio-irmão
+- `Sœur` Irmã
+- `Jumeau` Gêmeo
+- `Fils` Filho
+- `Petits-enfants` Netos
+- `Petite-fille` Neta
+- `Petit-fils` Neto
+- `Copain` Companheiro
+- `Copine` Companheira
+- `Petit-ami` Namorado
+- `Petite-amie` Namorada
+- `Cousin` Primo
+- `Oncle` Tio
+- `Tante` Tia
+- `Neveu` Sobrinho
+- `Nièce` Sobrinha
+- `Beaux-parents` Sogros
+- `Beau-père` Sogro/Padrasto
+- `Belle-mère` Sogra/Madrasta
 
 ## Grupos e Instituições
 
--   `Police` Polícia
--   `SAMU` SAMU
-    -   `Service d'Aide Médicale Urgente`
--   `Orchestre` Orquestra 🚹
--   `Compagnie aérienne` Companhia aérea
--   `Presse` Imprensa
--   `Qui de droit` Quem interessar 🚹
+- `Police` Polícia
+- `SAMU` SAMU
+    - `Service d'Aide Médicale Urgente`
+- `Orchestre` Orquestra 🚹
+- `Compagnie aérienne` Companhia aérea
+- `Presse` Imprensa
+    - `Presse spécialisée` Imprensa especializada
+    - `Presse people` Imprensa sensacionalista
+- `Qui de droit` Quem interessar 🚹
+- `INSEE` IBGE
+    - `Institut national de la statistique et des études économiques`

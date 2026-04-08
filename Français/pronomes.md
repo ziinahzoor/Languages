@@ -138,8 +138,8 @@
 
 **Nos _determinantes_ possessivos também se usa `de` para indicar a posse de algo**
 
--   Se começa em vogal, `de` se torna `d'`
--   Os pronomes diretos devem vir depois dos indiretos quando a frase usa os dois, exceto para `lui` e `leur`.
+- Se começa em vogal, `de` se torna `d'`
+- Os pronomes diretos devem vir depois dos indiretos quando a frase usa os dois, exceto para `lui` e `leur`.
 
 > [!TIP]
 > O possessivo também pode ser formado pela conjugação de `être` + `à` + `tônico`.
@@ -150,20 +150,29 @@
 > [!TIP]
 > Ordem dos pronomes: `me/te/nous/vous/se` > `le/la/les` > `lui/leur` > `y` > `en`.
 
+- Os pronomes tônicos são usados nos seguintes casos:
+    - Quando o pronome está sozinho na frase;
+    - Depois de preposições;
+    - Depois de conjunções (comumente `que`) ou quando dois pronomes são ligados por conjunção;
+    - Para ênfase (comum em expressões com `même`);
+    - Com `aussi`, `seul`, `surtout` e `non plus`;
+    - Quando há um sujeito composto;
+    - No imperativo, no lugar dos outros tipos de pronome.
+
 ## Interrogatifs - Interrogativos
 
--   `Où` Onde
--   `Quoi` O que
-    -   É usado depois de preposições ou no fim da frase.
--   `Que` Que
-    -   É usado para se perguntar sobre o objeto ou quando o verbo é `être`.
--   `Qui` Quem/Que
-    -   É usado para se perguntar sobre o sujeito.
--   `À qui` De quem
--   `Quel`/`Quelle` Que/Qual (Determinante)
--   `Lequel`/`Laquelle` Que/Qual
--   `Combien` Quanto
-    -   `Combien de` Quantos/Quantas
+- `Où` Onde
+- `Quoi` O que
+    - É usado depois de preposições ou no fim da frase.
+- `Que` Que
+    - É usado para se perguntar sobre o objeto ou quando o verbo é `être`.
+- `Qui` Quem/Que
+    - É usado para se perguntar sobre o sujeito.
+- `À qui` De quem
+- `Quel`/`Quelle` Que/Qual (Determinante)
+- `Lequel`/`Laquelle` Que/Qual
+- `Combien` Quanto
+    - `Combien de` Quantos/Quantas
 
 ## Démonstratifs - Demonstrativos
 
@@ -171,72 +180,72 @@
 
 **Exceto para comparação, casualmente o `ci` e o `là` são usados.**
 
--   `Ceci` Isto
-    -   Geralmente só é usado pra fazer distinção entre "isto" e "isso".
--   `Cela` Isso/Aquilo
-    -   É mais utilizado na escrita.
-    -   `Ça` Contração (Informal e geralmente mais utilizado na conversação)
-        -   É sempre masculino.
--   `Celui` Este/Esse/Aquele
--   `Celle` Esta/Essa/Aquela
--   `Ceux` Estes/Esses/Aqueles
--   `Celles` Estas/Essas/Aquelas
+- `Ceci` Isto
+    - Geralmente só é usado pra fazer distinção entre "isto" e "isso".
+- `Cela` Isso/Aquilo
+    - É mais utilizado na escrita.
+    - `Ça` Contração (Informal e geralmente mais utilizado na conversação)
+        - É sempre masculino.
+- `Celui` Este/Esse/Aquele
+- `Celle` Esta/Essa/Aquela
+- `Ceux` Estes/Esses/Aqueles
+- `Celles` Estas/Essas/Aquelas
 
 ### Sufixos
 
 **São utilizados com os pronomes demonstrativos para determinar a distância. Com determinantes demonstrativos eles se ligam aos substantivos.**
 
--   `-ci` Perto de quem fala
--   `-là` Longe de quem fala
+- `-ci` Perto de quem fala
+- `-là` Longe de quem fala
 
 ### Les Déterminants Démonstratifs - Determinantes Demonstrativos
 
--   `Ce` Este/Esse/Aquele
-    -   `Cet` Para substantivos iniciados em vogal ou "h"
--   `Cette` Esta/Essa/Aquela
--   `Ces` Estes/Estas/Esses/Essas/Aqueles/Aquelas
+- `Ce` Este/Esse/Aquele
+    - `Cet` Para substantivos iniciados em vogal ou "h"
+- `Cette` Esta/Essa/Aquela
+- `Ces` Estes/Estas/Esses/Essas/Aqueles/Aquelas
 
 ## Relatifs - Relativos
 
 > [!TIP]
 > Depois de qualquer preposição que não seja `de`, o pronome relativo sempre vai ser `qui` (para pessoas) ou `lequel` (para objetos).
 
--   `Où` Onde/Quando
-    -   Serve tanto para situações espaciais quanto temporais.
--   `Que` Que
-    -   É o objeto direto
-    -   `Ce que` Indefinido
--   `Qui` Que (Quem)
-    -   É o sujeito ou objeto de preposição.
-    -   `Ce qui` Indefinido
--   `Dont` De que/O qual/A qual/De qual/De quem
-    -   Subtitui a preposição `de` + pronome relativo.
--   `Lequel` Do qual
+- `Où` Onde/Quando
+    - Serve tanto para situações espaciais quanto temporais.
+- `Que` Que
+    - É o objeto direto. Vem sempre antes de um sujeito.
+    - `Ce que` Indefinido
+- `Qui` Que (Quem)
+    - É o sujeito ou objeto de preposição. Vem sempre antes de um verbo (seja reflexivo ou não).
+    - `Ce qui` Indefinido
+- `Dont` De que/O qual/A qual/De qual/De quem
+    - Subtitui a preposição `de` + pronome relativo.
+- `Lequel` Do qual
 
 ## Indéfinis - Indefinidos
 
--   `Un(e) autre` Um(a) outro(a)
--   `D’autres` Outros
--   `Plusieurs` Vários
--   `Soi`Si mesmo/O próprio
--   `Tout` Tudo/Todos/Todas
--   `Tout le monde` Todo mundo
--   `Chaque` Cada
--   `Chacun(e)` Cada um/Todo mundo
--   `Certain(e)s` Certos
--   `Quelque` Algum
--   `Quelque chose` Algo
--   `Quelque part` Em algum lugar
--   `Quelqu'un` Alguém
-    -   `On`
-        -   Impessoal
--   `Quelques-un(e)s` Alguns
--   `N'importe quel` Qualquer um
--   `Quiconque` Qualquer um/Quem quer que
--   `Tel` Alguém/Qualquer um
--   `Rien` Nada
--   `Alcun` Nenhum
--   `Tous les deux` Ambos
+- `Un(e) autre` Um(a) outro(a)
+- `D’autres` Outros
+- `Plusieurs` Vários
+- `Soi`Si mesmo/O próprio
+- `Tout` Tudo/Todos/Todas
+- `Tout le monde` Todo mundo
+- `Chaque` Cada
+- `Chacun(e)` Cada um/Todo mundo
+- `Certain(e)s` Certos
+- `Quelque` Algum
+- `Quelque chose` Algo
+- `Quelque part` Em algum lugar
+- `Quelqu'un` Alguém
+    - `On`
+        - Impessoal
+- `Quelques-un(e)s` Alguns
+- `N'importe quel` Qualquer um
+- `Quiconque` Qualquer um/Quem quer que
+- `Tel` Alguém/Qualquer um
+- `Rien` Nada
+- `Alcun` Nenhum
+- `Tous les deux` Ambos
 
 |           | Singular | Plural |
 | --------- | -------- | ------ |
@@ -247,32 +256,33 @@
 
 **Infinitivos devem vir depois da negação.**
 
--   `Ne... pas` Não
--   `Ne... plus` Não mais
--   `Ne... jamais` Nunca
--   `Ne... personne` Ninguém
-    -   `Persone ne` Pronome
--   `Ne... rien` Nada
-    -   `Rien ne` Pronome
--   `Ne... que` Só/Somente
--   `Ne... pas que` Não só/Não somente
--   `Ni` Nem
+- `Ne... pas` Não
+- `Ne... plus` Não mais
+- `Ne... jamais` Nunca
+- `Ne... personne` Ninguém
+    - `Persone ne` Pronome
+- `Ne... rien` Nada
+    - `Rien ne` Pronome
+- `Ne... que` Só/Somente
+- `Ne... pas que` Não só/Não somente
+- `Ni` Nem
 
 ## Adverbiaux - Adverbiais
 
 **Devem vir sempre antes do verbo, exceto no imperativo.**
 
--   `En` Os/As/Lhes/Deles/Delas
-    -   Substitui uma parte da frase introduzida pela proposição `de` ou derivados.
-        -   `J'achète des pommes` → `J'en achète`;
-        -   `Je me souviens de cette histoire` → `Je m'en souviens`.
-    -   Também possui uma função partitiva, ou seja, que se refere a uma parte de um todo.
-        -   `J'achète cinq pommes` → `J'en achète cinq`.
-    -   Não pode substituir uma pessoa. Deve-se usar um pronome pessoal.
--   `Y` Lá/Aqui
-    -   Substitui uma parte da frase introduzida pelas proposições `à` ou `en` ou derivados.
-        -   `Je vais à l'école` → `J'y vais`;
-        -   `Il habite en ville` → `Il y habite`.
-    -   Também serve para as preposições `chez`, `dans`, `devant`, `derrière`, `sous` e `sur`.
-        -   `Elle est chez Marc` → `Elle y est`;
-        -   `Je suis devant l'école` → `J'y suis`.
+- `En` Os/As/Lhes/Deles/Delas
+    - Substitui uma parte da frase introduzida pela proposição `de` ou derivados, artigos partitivos ou indefinidos.
+        - `J'achète des pommes` → `J'en achète`;
+        - `Je me souviens de cette histoire` → `Je m'en souviens`.
+    - Também possui uma função partitiva, ou seja, que se refere a uma parte de um todo.
+        - `J'achète cinq pommes` → `J'en achète cinq`.
+        - Note que a quantidade deve ser repetida. Em frases negativas, não é necessário.
+    - Não pode substituir uma pessoa. Deve-se usar um pronome pessoal.
+- `Y` Lá/Aqui
+    - Substitui uma parte da frase introduzida pelas proposições `à` ou `en` ou derivados.
+        - `Je vais à l'école` → `J'y vais`;
+        - `Il habite en ville` → `Il y habite`.
+    - Também serve para as preposições `chez`, `dans`, `devant`, `derrière`, `sous` e `sur`.
+        - `Elle est chez Marc` → `Elle y est`;
+        - `Je suis devant l'école` → `J'y suis`.

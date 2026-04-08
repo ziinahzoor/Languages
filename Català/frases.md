@@ -1,4 +1,28 @@
 # Frases
 
--   `Si us plau` Por favor
--   `Gràcies` Obrigado
+- `Hola` Oi/Olá
+- `Si us plau` Por favor
+    - `Sisplau/Sis plau` Informal
+- `Gràcies` Obrigado
+    - `Moltes gràcies` Muito obrigado
+- `Benvingut` Bem-vindo
+- `Bon dia` Bom dia
+- `Bona nit` Boa noite
+- `Em dic...` Me chamo...
+- `Com et dius?` Como você se chama?
+- `Tant de gust` Prazer em conhecer
+- `Molt de gust` Prazer em conhecer
+- `Encantat` Encantado
+- `Com prova?` Como vai?
+- `Com estás?` Como vai?
+- `Fins després` Até mais tarde
+- `Fins aviat` Até logo
+- `Fins demà` Até amanhã
+- `A reveure` Adeus/Até à próxima
+- `Adeu/Adéu` Tchau/Adeus
+- `Perdó` Perdão
+- `Em sap greu` Desculpe/Sinto muito
+- `Bon profit!` Bom apetite!
+- `Que vagi de gust!` Bom apetite!
+- `Que vagi bé` Tudo de bom/Boa sorte
+- `De res` De nada

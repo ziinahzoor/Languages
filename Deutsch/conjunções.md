@@ -1,6 +1,11 @@
 # Conjunções
 
--   `Oder` Ou
--   `Und` E
--   `Mit` Com
--   `Aber` Mas
+- `Oder` Ou
+- `Und` E
+- `Aber` Mas
+- `Denn` Porque/Por causa
+- `Also` Então
+
+# Interjeições
+
+- `Ähm` Uh/Ã

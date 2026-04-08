@@ -1,0 +1,5 @@
+# Adjetivos
+
+## Nacionalidades
+
+- `Englez` Inglês

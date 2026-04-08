@@ -32,152 +32,156 @@
 
 <h2 id="var_progressivo-resultativa">Forma て+いる - Progressivo-resultativa</h2>
 
--   Consiste em conjugar o verbo na forma `て` e então acrescentar a conjugação de `いる`
--   A forma `て+いる` é muitas vezes casualmente contraída para `て+る`.
--   Representa duas funções ou aspectos da linguagem: <font size="5"><code><ruby>進<rt>しん</rt>行<rt>こう</rt>形<rt>けい</rt></ruby></code></font> (progressiva ou continuativa) e <font size="5"><code><ruby>完<rt>かん</rt>了<rt>りょう</rt>形<rt>けい</rt></ruby></code></font> (resultativa).
-    -   A forma progressiva diz respeito a uma ação que está em andamento.
-        -   É como se forma o gerúndio.
-    -   A forma resultativa diz respeito a um estado resultante de uma ação concluída.
-        -   É como se transformassemos o verbo em um adjetivo (algo está...ado/ido).
-        -   Tem o sentido de "existir no estado da ação". "Fiz algo e continuo fazendo/estando assim".
-        -   Também deve ser usada para verbos que indicam mudança instantânea de estado, como desligar e morrer. Descreve o resultado de uma mudança.
-    -   Ou seja, com essa forma assumindo duas funções, `開いている` pode ser tanto "abrindo" quanto "está aberto" (existir no estado aberto).
-        -   No último caso, também pode-se pensar como uma forma estática do verbo, como um adjetivo.
-    -   Outro exemplo: `水を飲んでいます` pode ser tanto "Estou bebendo água" quanto "A água está bebida (por mim)". Nestes casos, o sentido é dado pelos advérbios, como `もう` indicaria o último caso.
--   Também indica hábitos e atividades que se repetem.
-    -   Neste caso costuma acompanhar expressões de tempo.
--   Se usada com `もう` e `まだ`, indica que algo já aconteceu ou ainda não aconteceu, respectivamente.
+- Consiste em conjugar o verbo na forma `て` e então acrescentar a conjugação de `いる`
+- A forma `て+いる` é muitas vezes casualmente contraída para `て+る`.
+- No contexto empresarial, `いる` costuma ser substituído por sua contraparte kenjougo `おる`.
+- Representa duas funções ou aspectos da linguagem: <font size="5"><code><ruby>進<rt>しん</rt>行<rt>こう</rt>形<rt>けい</rt></ruby></code></font> (progressiva ou continuativa) e <font size="5"><code><ruby>完<rt>かん</rt>了<rt>りょう</rt>形<rt>けい</rt></ruby></code></font> (resultativa).
+    - A forma progressiva diz respeito a uma ação que está em andamento.
+        - É como se forma o gerúndio.
+    - A forma resultativa diz respeito a um estado resultante de uma ação concluída.
+        - É como se transformassemos o verbo em um adjetivo (algo está...ado/ido).
+        - Tem o sentido de "existir no estado da ação". "Fiz algo e continuo fazendo/estando assim".
+        - Também deve ser usada para verbos que indicam mudança instantânea de estado, como desligar e morrer. Descreve o resultado de uma mudança.
+    - Ou seja, com essa forma assumindo duas funções, `開いている` pode ser tanto "abrindo" quanto "está aberto" (existir no estado aberto).
+        - No último caso, também pode-se pensar como uma forma estática do verbo, como um adjetivo.
+    - Outro exemplo: `水を飲んでいます` pode ser tanto "Estou bebendo água" quanto "A água está bebida (por mim)". Nestes casos, o sentido é dado pelos advérbios, como `もう` indicaria o último caso.
+- Também indica hábitos e atividades que se repetem.
+    - Neste caso costuma acompanhar expressões de tempo.
+- Se usada com `もう` e `まだ`, indica que algo já aconteceu ou ainda não aconteceu, respectivamente.
 
 > [!TIP]
 > A forma progressiva muitas vezes pode ter o mesmo sentido do pretérito de outras linguagens. Para definir se em japonês esse verbo usa a forma progressiva, na maioria das vezes se o verbo não pode ocorrer novamente sem ter mudado de estado antes, então ele usa a forma progressiva. Ex.: `死ぬ` "Morrer" não pode ocorrer duas vezes, então "estar morto" ou "ter morrido" é `死んでいる`.
 
 <h2 id="var_resultativa">Forma て+ある - Resultativa</h2>
 
--   Usado com verbos transitivos.
--   Semelhante à forma て+いる, porém o verbo coloca o objeto em um estado contínuo. Ou seja, o sujeito é o que sofreu a ação do verbo, e não quem realizou.
-    -   De certa forma, sobrepõe-se ao uso da voz passiva no português.
--   Possui uma nuance em que a ação foi feita por alguém por algum motivo.
+- Usado com verbos transitivos.
+- Semelhante à forma て+いる, porém o verbo coloca o objeto em um estado contínuo. Ou seja, o sujeito é o que sofreu a ação do verbo, e não quem realizou.
+    - De certa forma, sobrepõe-se ao uso da voz passiva no português.
+- Possui uma nuance em que a ação foi feita por alguém por algum motivo.
 
 <h2 id="var_continuativa-futura">Forma て+いく - Continuativa futura</h2>
 
--   Indica uma ação que vai continuar acontecendo ou que vai gradualmente transicionar.
--   "Continuar a"/"Começar a".
+- Indica uma ação que vai continuar acontecendo ou que vai gradualmente transicionar.
+- "Continuar a"/"Começar a".
 
 <h2 id="var_continuativa-passada">Forma て+きる - Continuativa passada</h2>
 
--   Indica que uma ação vem acontecendo até o momento ou alcançou um certo estado.
+- Indica que uma ação vem acontecendo até o momento ou alcançou um certo estado.
 
 <h2 id="var_tentativa">Forma て+みる - Tentativa</h2>
 
--   Significa experimentar fazer a ação do verbo (com o interesse de ver o resultado).
--   Similar em nuance ao português "eu vou ver se...".
--   Quando usado como sugestão ou pedido, pode ser abreviado para `てみ`.
+- Significa experimentar fazer a ação do verbo (com o interesse de ver o resultado).
+- Similar em nuance ao português "eu vou ver se...".
+- Quando usado como sugestão ou pedido, pode ser abreviado para `てみ`.
 
 <h2 id="var_concessiva">Forma て+も - Concessiva</h2>
 
--   Significa "mesmo se/apesar de/tanto quanto" + ação do verbo ou descrição do adjetivo.
--   Tem sentido permissivo.
+- Significa "mesmo se/apesar de/tanto quanto" + ação do verbo ou descrição do adjetivo.
+- Tem sentido permissivo.
 
 <h2 id="var_causal">Forma なく+て - Causal</h2>
 
--   É simplesmente a junção da forma negativa com a forma て, portanto indica uma sequência lógica.
--   Inerentemente as frases que utilizam tal construção têm uma nuance explicativa, o que gera a função causal dela.
-    -   Funciona como "como não".
-    -   Semelhante à partícula `から`, mas mais sequencial do que justificativa. Ex.: `時間がないから、行けなかった` "Não pude ir porque não tive tempo" vs `時間がなくて、行けなかった` "Não tive tempo e não pude ir/Como não tive tempo, não pude ir".
-        -   Busca mais esclarecer os acontecimentos do que justificar propriamente.
+- É simplesmente a junção da forma negativa com a forma て, portanto indica uma sequência lógica.
+- Inerentemente as frases que utilizam tal construção têm uma nuance explicativa, o que gera a função causal dela.
+    - Funciona como "como não".
+    - Semelhante à partícula `から`, mas mais sequencial do que justificativa. Ex.: `時間がないから、行けなかった` "Não pude ir porque não tive tempo" vs `時間がなくて、行けなかった` "Não tive tempo e não pude ir/Como não tive tempo, não pude ir".
+        - Busca mais esclarecer os acontecimentos do que justificar propriamente.
 
 <h2 id="var_implicativa">Forma て+は - Implicativa</h2>
 
--   Significa "tampouco quanto" + ação do verbo.
--   Melhor de ser analisado como uma implicação lógica: Se o que está antes de て+わ é verdadeiro, o que vem depois também é.
-    -   `そんなに食べては太るよ`: Comendo dessa forma → Engordar. Se você comer dessa forma vai engordar.
--   Geralmente é associado com resultados negativos, tendo sentido proibitivo (principalmente pela função constrastiva de `は`).
-    -   `死んではダメ`: Morrer → Não bom. Não morra!
-    -   Em casos onde o resultado negativo fica implícito ou óbvio é possível omitir a segunda frase. Ex.: `私も頑張らなくては` "Se eu não der o meu melhor também..." (Ao ver alguém ser demitido).
-    -   Comumente usado com `だめ`, `いけない` e `ならない`.
--   `ては` pode ser abreviado para `ちゃ` e `では` pode ser abreviado para `じゃ`.
+- Significa "tampouco quanto" + ação do verbo.
+- Melhor de ser analisado como uma implicação lógica: Se o que está antes de て+わ é verdadeiro, o que vem depois também é.
+    - `そんなに食べては太るよ`: Comendo dessa forma → Engordar. Se você comer dessa forma vai engordar.
+- Geralmente é associado com resultados negativos, tendo sentido proibitivo (principalmente pela função constrastiva de `は`).
+    - `死んではダメ`: Morrer → Não bom. Não morra!
+    - Em casos onde o resultado negativo fica implícito ou óbvio é possível omitir a segunda frase. Ex.: `私も頑張らなくては` "Se eu não der o meu melhor também..." (Ao ver alguém ser demitido).
+    - Comumente usado com `だめ`, `いけない` e `ならない`.
+- `ては` pode ser abreviado para `ちゃ` e `では` pode ser abreviado para `じゃ`.
 
 <h2 id="var_proibitiva">Forma て+は+いけない - Proibitiva</h2>
 
--   Forma proibitiva: "não se deve fazer...".
--   É mais autoritária e restritiva que `ないで`, que tem um tom de aviso ou pedido.
--   `いけない` pode ser trocado pela versão mais educada `いけません`, ou de forma mais comum na escrita, `ならない`. Casualmente também pode ser trocado por `ダメ` na conversação.
--   Muitas vezes o `ては` também é abreviado para `ちゃ` (e o `では` para `じゃ`).
+- Forma proibitiva: "não se deve fazer...".
+- É mais autoritária e restritiva que `ないで`, que tem um tom de aviso ou pedido.
+- `いけない` pode ser trocado pela versão mais educada `いけません`, ou de forma mais comum na escrita, `ならない`. Casualmente também pode ser trocado por `ダメ` na conversação.
+- Muitas vezes o `ては` também é abreviado para `ちゃ` (e o `では` para `じゃ`).
 
 <h2 id="var_obrigativa">Forma なく+て+は+いけない - Obrigativa</h2>
 
--   Indica que deve-se fazer alguma ação.
--   É uma negação dupla da forma proibitiva, fazendo uma afirmação: "não se deve não fazer...".
--   Vale lembrar que `なく` é a forma conjuntiva de `ない`.
--   Muitas vezes a forma completa é abreviada apenas para `なくちゃ`.
--   Também pode ser escrita através da construção condicional `なければ` ao invés de `なくては`, que pode ser abreviada para `なきゃ`.
--   `いけない` também pode ser substituído por `ならない`, ou, casualmente, `だめ`.
-    -   Tem uma nuance menos pessoal, como a obrigação vir de uma lei, regra, ou expectativa social.
--   Existe ainda outra forma: `ない` + `と` + `いけない`
-    -   Costuma ser abreviado para apenas `ないと`.
-    -   `いけない` também pode ser substituído por `だめ`, porém não por `ならない`.
-    -   Tem uma nuance mais forte e portanto indica ações que não podem, em hipótese alguma, deixar de ser feitas.
+- Indica que deve-se fazer alguma ação.
+- É uma negação dupla da forma proibitiva, fazendo uma afirmação: "não se deve não fazer...".
+- Vale lembrar que `なく` é a forma conjuntiva de `ない`.
+- Muitas vezes a forma completa é abreviada apenas para `なくちゃ`.
+- Também pode ser escrita através da construção condicional `なければ` ao invés de `なくては`, que pode ser abreviada para `なきゃ`.
+- `いけない` também pode ser substituído por `ならない`.
+    - Tem uma nuance menos pessoal, como a obrigação vir de uma lei, regra, ou expectativa social.
+    - Tem uma nuance mais forte e portanto indica ações que não podem, em hipótese alguma, deixar de ser feitas.
+- `いけない` também pode ser casualmente substituído por `だめ`.
+- Existe ainda outra forma: `ない` + `と` + `いけない`
+    - Costuma ser abreviado para apenas `ないと`.
+    - `いけない` também pode ser substituído por `だめ`, porém não por `ならない`.
+    - É um pouco menos casual que a abreviação da construção condicional.
 
 <h2 id="var_solicitativa-permissiva">Forma て+いい - Solicitativa-permissiva</h2>
 
--   Forma de permissão: Dá ou pede-se permissão para realizar alguma ação ou pergunta-se se ficará tudo bem ao realizá-la.
--   Pode-se responder utilizando a forma afirmativa ou negativa da frase.
--   Em sonkeigo, usa-se `て` + `よろしい`.
+- Forma de permissão: Dá ou pede-se permissão para realizar alguma ação ou pergunta-se se ficará tudo bem ao realizá-la.
+- Pode-se responder utilizando a forma afirmativa ou negativa da frase.
+- Em sonkeigo, usa-se `て` + `よろしい`.
 
 <h3 id="var_solicitativa-optativa">Forma て+もいい - Solicitativa-permissiva optativa</h3>
 
--   Tem uma nuance mais "tudo bem MESMO SE..."?
--   Funciona como a forma permissiva, porém tem um caráter mais optativo: Dá ou pede-se permissão para determinada ação, porém ela não necessariamente será realizada, ou seja, pede-se permissão para a POSSIBILIDADE de realizar a ação.
--   Apesar da nuance, no dia-a-dia seu uso é igual à da forma permissiva/solicitativa, sendo apenas sutilmente mais formal.
--   Também pode ser utilizada com adjetivos e substantivos.
--   Para uma nuance mais de solicitação de conselho ou informação, pode-se usar a construção: Forma `たら` + `いいですか`.
+- Tem uma nuance mais "tudo bem MESMO SE..."?
+- Funciona como a forma permissiva, porém tem um caráter mais optativo: Dá ou pede-se permissão para determinada ação, porém ela não necessariamente será realizada, ou seja, pede-se permissão para a POSSIBILIDADE de realizar a ação.
+- Apesar da nuance, no dia-a-dia seu uso é igual à da forma permissiva/solicitativa, sendo apenas sutilmente mais formal.
+- Também pode ser utilizada com adjetivos e substantivos.
+- Para uma nuance mais de solicitação de conselho ou informação, pode-se usar a construção: Forma `たら` + `いいですか`.
 
 <h3 id="var_optativa">Forma なくて+もいい - Optativa</h3>
 
--   Indica ao ouvinte que a ação não é necessária, dando-o permissão para realizá-la somente se quiser.
--   No discurso casual, `も` pode ser omitido.
+- Indica ao ouvinte que a ação não é necessária, dando-o permissão para realizá-la somente se quiser.
+- No discurso casual, `も` pode ser omitido.
 
 <h2 id="var_solicitativa-benefactiva">Forma て+くれない - Solicitativa benefactiva</h2>
 
--   Indica que o locutor solicita ao ouvinte ou outra parte a realização de uma ação. "Você pode...?/Poderia...?".
--   Também pode-se usar `て`+`もらえない`.
--   A partícula interrogativa `か` é opcional.
+- Indica que o locutor solicita ao ouvinte ou outra parte a realização de uma ação. "Você pode...?/Poderia...?".
+- Também pode-se usar `て`+`もらえない`.
+- A partícula interrogativa `か` é opcional.
 
 <h2 id="var_solicitativa-desiderativa">Forma て+ほしいい - Solicitativa desiderativa</h2>
 
--   Indica que o locutor deseja que o ouvinte ou outra parte realize uma ação. "Quero que você.../Quero que ele...".
--   A pessoa que deseja-se que realize a ação é demarcada com a partícula `に`. Se omitida, pressupõe-se que seja o ouvinte.
+- Indica que o locutor deseja que o ouvinte ou outra parte realize uma ação. "Quero que você.../Quero que ele...".
+- A pessoa que deseja-se que realize a ação é demarcada com a partícula `に`. Se omitida, pressupõe-se que seja o ouvinte.
 
 <h2 id="var_antecipativa">Forma て+おく - Antecipativa</h2>
 
--   Indica que a ação foi feita com antecedência, em preparação ou antecipação a alguma coisa, seja para facilitar, prevenir ou por qualquer outro motivo.
--   Em mangás e programas de TV costuma ser abreviado para `とく` e `どく`.
+- Indica que a ação foi feita com antecedência, em preparação ou antecipação a alguma coisa, seja para facilitar, prevenir ou por qualquer outro motivo.
+- Em mangás e programas de TV costuma ser abreviado para `とく` e `どく`.
 
 <h2 id="var_sequencial">Forma て+から - Sequencial</h2>
 
--   Indica que a frase seguinte vai ocorrer depois que a primeira ocorrer. Não indica uma implicação lógica, apenas uma ordem para as ações. "Depois de", "desde".
--   Uma alternativa a essa construção é forma `た` + <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font>. Porém costuma ser mais encontrada na escrita.
-    -   Também tem uma nuance mais factual do que narrativa.
+- Indica que a frase seguinte vai ocorrer depois que a primeira ocorrer. Não indica uma implicação lógica, apenas uma ordem para as ações. "Depois de", "desde".
+- Uma alternativa a essa construção é forma `た` + <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font>. Porém costuma ser mais encontrada na escrita.
+    - Também tem uma nuance mais factual do que narrativa.
 
 <h2 id="var_completa">Forma て+しまう - Não-intencional/Completa</h2>
 
--   Indica que algo foi feito acidentalmente ou de forma não-intencional, como a construção "acabei fazendo".
--   Também indica que uma ação foi feita completamente. As funções só podem ser diferenciadas pelo contexto.
--   Se colocarmos em um sentido único, é dizer que algo chegou em um ponto em que não é possível voltar atrás, mesmo que seja algo temporário.
--   `しまう` é um verbo que significa "terminar" ou "acabar".
--   Pode ser abreviada para `ちゃう` (て) ou `じゃう` (で).
+- Indica que algo foi feito acidentalmente ou de forma não-intencional, como a construção "acabei fazendo".
+- Também indica que uma ação foi feita completamente. As funções só podem ser diferenciadas pelo contexto.
+- Se colocarmos em um sentido único, é dizer que algo chegou em um ponto em que não é possível voltar atrás, mesmo que seja algo temporário.
+    - Ou seja, similar ao "ficou" do português. Ex.: `彼は恐怖で青くなってしまった` "Ele ficou (completamente ou não intencionalmente) azul de medo".
+- `しまう` é um verbo que significa "terminar" ou "acabar".
+- Pode ser abreviada para `ちゃう` (て) ou `じゃう` (で).
 
 <h2 id="var_benefactiva">Forma て+Verbo de transferência - Benefactiva/De favor</h2>
 
--   Ao usar a forma `て` com algum verbo de transferência como `あげる`, `やる`, `くださる`, `もらう` e `いただく`, indica-se que se está fazendo algo para alguém ou vice-versa, para si mesmo ou alguém está fazendo algo para outra pessoa. Ex.: `…花を買ってくれた` "...comprou flores para mim".
--   Ao fazer algo para alguém: `て` + `あげる`.
-    -   `て` + `やる`: Mais casual.
--   Quando alguém faz algo para você ou seu 内: `て` + `くれる`.
-    -   `て` + `くださる`: Sonkeigo.
-    -   `て` + `くれ`: Casual
--   Quando alguém faz algo por você ou seu 内: `て` + `もらう`.
-    -   `て` + `いただく`: Kenjougo.
-    -   Tem a nuance de um favor ao invés de um pedido simples.
-    -   É mais utilizado para indicar que um favor foi feito por terceiros.
-    -   "Eu gostaria que..." quando usado na forma de desejo (`たい`).
-    -   "Pode...?/Poderia...?" quando usado com a forma potencial ou negativa-interrogativa.
+- Ao usar a forma `て` com algum verbo de transferência como `あげる`, `やる`, `くださる`, `もらう` e `いただく`, indica-se que se está fazendo algo para alguém ou vice-versa, para si mesmo ou alguém está fazendo algo para outra pessoa. Ex.: `…花を買ってくれた` "...comprou flores para mim".
+- Ao fazer algo para alguém: `て` + `あげる`.
+    - `て` + `やる`: Mais casual.
+- Quando alguém faz algo para você ou seu 内: `て` + `くれる`.
+    - `て` + `くださる`: Sonkeigo.
+    - `て` + `くれ`: Casual
+- Quando alguém faz algo por você ou seu 内: `て` + `もらう`.
+    - `て` + `いただく`: Kenjougo.
+    - Tem a nuance de um favor ao invés de um pedido simples.
+    - É mais utilizado para indicar que um favor foi feito por terceiros.
+    - "Eu gostaria que..." quando usado na forma de desejo (`たい`).
+    - "Pode...?/Poderia...?" quando usado com a forma potencial ou negativa-interrogativa.

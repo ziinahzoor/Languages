@@ -44,12 +44,12 @@
 
 ## Παρακείμενος - Presente perfeito
 
--   Conjugação do verbo auxiliar `έχω` + conjugação do verbo na [forma dependente](#forma-dependenteraíz-aorista) na terceira pessoa do singular (`-ει`). Ex.: `γράφω` → `γράφ-` → `γράψ-` → `γράψει` → `έχω γράψει`.
+- Conjugação do verbo auxiliar `έχω` + conjugação do verbo na [forma dependente](#forma-dependenteraíz-aorista) na terceira pessoa do singular (`-ει`). Ex.: `γράφω` → `γράφ-` → `γράψ-` → `γράψει` → `έχω γράψει`.
 
 ### Forma dependente/Raíz aorista
 
--   Remove-se o radical do presente (`-ω`/`-άω`/`-ώ`) do verbo.
--   Se o verbo é -ω, então altera-se a terminação da raíz do verbo:
+- Remove-se o radical do presente (`-ω`/`-άω`/`-ώ`) do verbo.
+- Se o verbo é -ω, então altera-se a terminação da raíz do verbo:
 
 | Raíz                           | Alteração |
 | ------------------------------ | --------- |
@@ -58,11 +58,11 @@
 | -π, -β, -φ, -πτ, -φτ, -αυ, -ευ | -ψ        |
 | -τ, -δ, -θ, -σ, -ζ             | -σ ou -ξ  |
 
--   Se o verbo é -άω ou -ώ, então adiciona-se `-ησ-` (em alguns verbos é `-ασ-`, `-εσ-`, `-υσ-`, `-αξ-`, `-ηξ-` ou `-εψ-`).
+- Se o verbo é -άω ou -ώ, então adiciona-se `-ησ-` (em alguns verbos é `-ασ-`, `-εσ-`, `-υσ-`, `-αξ-`, `-ηξ-` ou `-εψ-`).
 
 ## Αόριστος - Aorista/Pretérito simples
 
--   Raíz do verbo na [forma dependente](#forma-dependenteraíz-aorista) + conjugação:
+- Raíz do verbo na [forma dependente](#forma-dependenteraíz-aorista) + conjugação:
 
 | Pessoa           | Conjugação |
 | ---------------- | ---------- |
@@ -73,39 +73,47 @@
 | Εσείς            | -ατε       |
 | Αυτοί/Αυτές/Αυτά | -αν(ε)     |
 
--   Coloca-se o acento tônico na antepenúltima sílaba.
-    -   Se o verbo nesta forma possui somente duas sílabas, adiciona-se o aumento `έ-` (um prefixo) ao verbo (somente verbos -ω).
-        -   Na primeira e segunda pessoas do plural, como a terminação já possui duas sílabas, a palavra terá pelo menos três sílabas e, portanto, não adiciona-se o aumento. Pelo mesmo motivo, os verbos -άω e -ώ não precisam de aumento.
-        -   Em diversos verbos irregulares, o aumento é `ή-`
-        -   Se o verbo já possui um prefixo preposicional, o aumento é colocado depois do prefixo e antes da raíz do verbo. Ex.: `ενδίδω` → `ενέδωσα`.
-            -   A última vogal da preposição some, exceto para `περί`. `εκ` também se torna `εξ`.
--   Ex.: `γράφω` → `γράφ-` → `γράψ-` → `-γραψα` → `έγραψα`.
+- Coloca-se o acento tônico na antepenúltima sílaba.
+    - Se o verbo nesta forma possui somente duas sílabas, adiciona-se o aumento `έ-` (um prefixo) ao verbo (somente verbos -ω).
+        - Na primeira e segunda pessoas do plural, como a terminação já possui duas sílabas, a palavra terá pelo menos três sílabas e, portanto, não adiciona-se o aumento. Pelo mesmo motivo, os verbos -άω e -ώ não precisam de aumento.
+        - Em diversos verbos irregulares, o aumento é `ή-`
+        - Se o verbo já possui um prefixo preposicional, o aumento é colocado depois do prefixo e antes da raíz do verbo. Ex.: `ενδίδω` → `ενέδωσα`.
+            - A última vogal da preposição some, exceto para `περί`. `εκ` também se torna `εξ`.
+- Ex.: `γράφω` → `γράφ-` → `γράψ-` → `-γραψα` → `έγραψα`.
 
 ## Παρατατικός - Imperfeito
 
--   Funciona quase da mesma forma do aorista, porém:
-    -   A raíz do verbo é a raíz comum, NÃO é a raíz dependente.
-    -   Para verbos -ω, NÃO se altera a terminação da raíz do verbo.
-    -   Para verbos -άω e -ώ, adiciona-se `-ούσ-` ao invés de `-ησ-`.
+- Funciona quase da mesma forma do aorista, porém:
+    - A raíz do verbo é a raíz comum, NÃO é a raíz dependente.
+    - Para verbos -ω, NÃO se altera a terminação da raíz do verbo.
+    - Para verbos -άω e -ώ, adiciona-se `-ούσ-` ao invés de `-ησ-`.
 
 ## Στιγμιαίος Μέλλοντας - Futuro simples
 
+- Formado pela partícula `θα` + raíz na forma dependente + conjugação do presente.
+
 ## Μέλλοντας Διαρκείας - Futuro contínuo
+
+- Formado pela partícula `θα` + conjugação do presente.
+
+## Futuro perfeito
+
+- Formado pela partícula `θα` + conjugação do presente de `έχω` + conjugação do verbo na terceira pessoa do singular do presente.
 
 # Condicional
 
 ## Presente
 
--   Formado pela partícula `Θα` + verbo no imperfeito.
--   Geralmente usado para expressões educadas, pedidos e cenários hipotéticos.
+- Formado pela partícula `Θα` + verbo no imperfeito.
+- Geralmente usado para expressões educadas, pedidos e cenários hipotéticos.
 
 # Υποτακτική - Subjuntivo
 
--   É formado pela partícula `να` + conjugação do verbo.
--   Para falar da ação em si, usa-se `το να` + conjugação da terceira pessoa.
--   Também é utilizado onde outras linguagens costumam utilizar o infinitivo, como em locuções verbais.
-    -   Locução verbal (`να`): `Θέλω να πάω` "Quero ir"
-    -   Gerúndio (`το να`): `Το να πάω μόνος` "Ir sozinho"
+- É formado pela partícula `να` + conjugação do verbo.
+- Para falar da ação em si, usa-se `το να` + conjugação da terceira pessoa.
+- Também é utilizado onde outras linguagens costumam utilizar o infinitivo, como em locuções verbais.
+    - Locução verbal (`να`): `Θέλω να πάω` "Quero ir"
+    - Gerúndio (`το να`): `Το να πάω μόνος` "Ir sozinho"
 
 # Προστακτική - Imperativo
 
@@ -114,7 +122,7 @@
 
 ## Presente
 
--   Raíz do verbo + conjugação.
+- Raíz do verbo + conjugação.
 
 | Pessoa | Verbos -ω | Verbos -άω | Verbos -ώ |
 | ------ | --------- | ---------- | --------- |
@@ -123,7 +131,7 @@
 
 ## Aorista/Pretérito
 
--   Raíz do préterito do verbo + conjugação.
+- Raíz do préterito do verbo + conjugação.
 
 | Pessoa | Conjugação |
 | ------ | ---------- |
@@ -137,15 +145,15 @@
 > [!IMPORTANT]
 > Não é utilizado para o presente contínuo
 
--   Verbos -ω: `-οντας`.
--   Verbos -άω/-ώ: `-ώντας`.
--   Verbo `είμαι`: `όντας`.
--   Verbo `έχω`: `έχοντας`.
+- Verbos -ω: `-οντας`.
+- Verbos -άω/-ώ: `-ώντας`.
+- Verbo `είμαι`: `όντας`.
+- Verbo `έχω`: `έχοντας`.
 
 ## Passivo
 
--   Flexionado em gênero.
--   Raíz passiva do aorista + `-μένος` (masculino)/`-μένη` (feminino)/`-μένο` (neutro).
+- Flexionado em gênero.
+- Raíz passiva do aorista + `-μένος` (masculino)/`-μένη` (feminino)/`-μένο` (neutro).
 
 # Παθητική φωνή - Voz passiva
 
@@ -158,6 +166,6 @@
 | Εσείς            | -εστε / -όσαστε | -ιέστε / -ιόσαστε | -είστε    | -άστε / -όσαστε    |
 | Αυτοί/Αυτές/Αυτά | -ονται          | -ιούνται          | -ούνται   | -ούνται / -όνται   |
 
--   ◆: Se refere à uma conjugação que é encontrada somente em verbos depoentes. Isto é, esta conjugação é sempre encontrada em verbos depoentes, mas nem todos os verbos depoentes seguem esta conjugação.
+- ◆: Se refere à uma conjugação que é encontrada somente em verbos depoentes. Isto é, esta conjugação é sempre encontrada em verbos depoentes, mas nem todos os verbos depoentes seguem esta conjugação.
 
 ## Aorista
