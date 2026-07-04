@@ -66,7 +66,7 @@
 - `Σώζω` Salvar
 - `Σημαίνω` Significar (definição)
 - `Ανοίγω` Abrir/Tornar algo acessível
-- `Κλείνω` Fechar
+- `Κλείνω` Fechar/Desligar
 - `Επιστρέφω` Retornar
 - `Αλλάζω` Trocar
 - `Στέλνω` Enviar
@@ -75,15 +75,14 @@
 - `Ανήκω` Pertencer
 - `Δοκιμάζω` Tentar/Experimentar/Testar
 - `Προσφέρω` Oferecer/Dar/Presentear
-- `Σηκώνω` Levantar/Erguer
+- `Σηκώνω` Levantar/Erguer/Catar
 - `Συμπεριλαμβάνω` Incluir
 - `Κοιτάζω` Olhar/Examinar
-- `Φεύγω` Partir
+- `Φεύγω` Partir/Sair
 - `Νιώθω` Sentir
 - `Ρωτάω` Perguntar
 - `Αμφιβάλλω` Duvidar
     - Geralmente acompanha a preposição `για`.
-- `Χτυπάω` Machucar-se/Bater (em algum lugar)
 - `Παρουσιάζω` Apresentar
 - `Ελπίζω` Esperar/Ter esperança de
 - `Περιμένω` Esperar/Aguardar
@@ -97,13 +96,16 @@
 - `Παραλαμβάνω` Receber
 - `Ανατρέφω` Criar (de cuidar)/Trazer à tona/Nutrir
 - `Αποτυγχάνω` Falhar
+    - `Αποτυχαίνω` Alternativa
 - `Κερδίζω` Ganhar
 - `Χάνω` Perder
 - `Παραδίδω` Entregar/Transferir
+    - `Παραδίνω` Alternativa
 - `Πιστεύω` Acreditar/Pensar
 - `Αξίζω` Merecer/Valer
 - `Στεγνώνω` Secar
 - `Πετάω` Voar/Jogar fora/Arremessar
+    - Também pode ser utilizado como "deixar" quando se leva alguém a algum lugar.
 - `Διατηρώ` Preservar/Manter
 - `Υπογράφω` Assinar
 - `Περιέχω` Conter
@@ -121,7 +123,7 @@
 - `Κατεβαίνω` Descer
 - `Ξοδεύω` Gastar
     - `Ξοδιάζω` Forma alternativa
-- `Υποστηρίζω` Apoiar
+- `Υποστηρίζω` Apoiar/Afirmar/Alegar
 - `Εμποδίζω` Impedir/Bloquear/Prevenir
     - `Μποδίζω` Forma alternativa
 - `Χτενίζω` Pentear
@@ -143,6 +145,9 @@
 - `Απορρίπτω` Rejeitar/Recusar/Falhar
 - `Επηρεάζω` Influenciar/Persuadir
 - `Κουράζω` Cansar
+- `Προσθέτω` Adicionar
+- `Καταφέρνω` Conseguir/Ter sucesso
+- `Λατρεύω` Adorar
 
 ## Verbos -άω (-ώ)
 
@@ -168,12 +173,15 @@
     - `Πωλώ` Mais usado em propagandas
 - `Πονάω` Doer
 - `Kρατάω` Segurar
-- `Περνάω` Passar/Atravessar
+- `Περνάω` Passar/Atravessar/Cruzar
+    - Também usado como "confundir".
 - `Συναντάω` Encontrar/Conhecer
 - `Προτιμάω` Preferir
 - `Ξεχνάω` Esquecer
 - `Φιλάω` Beijar
 - `Γεννάω` Parir/Dar a luz
+- `Χτυπάω` Acertar/Bater/Machucar-se
+    - `Kτυπάω` Formal
 
 ## Verbos -ώ
 

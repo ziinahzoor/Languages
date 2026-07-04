@@ -3,6 +3,7 @@
 ## Natureza
 
 - `Fluss` Rio
+- `Wald` Floresta 🚹
 
 ## Casa e objetos
 
@@ -20,6 +21,7 @@
 - `Bücherregal` Estante ✴️
 - `Tür` Porta
 - `Glas` Copo ✴️
+- `Fenster` Janela ✴️
 
 ### Objetos pessoais
 
@@ -28,7 +30,8 @@
 - `Tasche` Mochila
 - `Wasserflasche` Garrafa de água
 - `Sonnencreme` Protetor solar 🚺
-- `Geburtstagsgeschenk` Presente de aniversário ✴️
+- `Geschenk` Presente ✴️
+    - `Geburtstagsgeschenk` Presente de aniversário ✴️
 - `Geschenk` Presente ✴️
 - `Eintrittskarte` Ingresso 🚺
 
@@ -45,11 +48,13 @@
 - `Schatz` Tesouro
     - Usado como um termo de carinho, como "querido".
 - `Kilo` Quilo ✴️
-- `Geburtstag` Aniversário
 - `Größe` Tamanho 🚺
 - `Achtung` Atenção
 - `Verspätung` Atraso 🚺
 - `Problem` Problema ✴️
+- `Einladung` Convite 🚺
+- `Plan` Plano
+- `Lust` Desejo/Vontade 🚺
 
 ### Condições
 
@@ -76,14 +81,24 @@
 ## Atividades
 
 - `Spiel` Jogo ✴️
-- `Fußball` Futebol
-- `Fußballspiel` Jogo de futebol ✴️
-- `Volleyball` Vôlei
-- `Basketball` Basquete
 - `Schach` Xadrez ✴️
 - `Arbeit` Trabalho 🚺
 - `Konzert` Concerto/Show musical ✴️
 - `Jobinterview` Entrevista de emprego 🚹
+- `Party` Festa
+- `Picknick` Piquenique ✴️
+- `Hobby` ✴️
+- `Film` Filme
+- `Podcast`
+- `Videospiel` Videogame ✴️
+
+### Esporte
+
+- `Fußball` Futebol
+- `Fußballspiel` Jogo de futebol ✴️
+- `Volleyball` Vôlei
+- `Basketball` Basquete
+- `Tennis` Tênis ✴️
 
 ### Compras
 
@@ -108,6 +123,10 @@
 
 ### Música
 
-#### Instrumentos
+- `Jazz`
+
+#### Die Instrumente - Instrumentos ✴️
 
 - `Klavier` Piano ✴️
+- `Gitarre` Violão/Guitarra 🚺
+- `Geige` Violino 🚺

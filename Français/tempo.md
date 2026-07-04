@@ -12,6 +12,7 @@
 - `Seconde` Segundo 🚺
 - `Minute` Minuto 🚺
 - `Heure` Hora
+    - `Heure de route` Hora de carro/Hora de estrada
 - `Demie` Meia hora
 - `Quart` Um quarto de hora
 - `Jour` Dia
@@ -38,7 +39,9 @@
 - `Début` Começo
 - `Instant` Instante
 - `Moment` Momento
-- `Férié` Feriado
+- `Férie` Feriado
+    - `Jour férié` Feriado público
+    - `Pont` Feriado prolongado
 - `Temps partiel` Meio-período
 - `Temps plein` Período integral
 - `Pause-déjeuner` Pausa para o almoço
@@ -81,6 +84,7 @@
 - `Emploi du temps` Cronograma/Programação 🚹
 - `Agenda`
 - `Date` Data
+- `Date butoir` Data limite
 
 ## La Semaine - Semana
 

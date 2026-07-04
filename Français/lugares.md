@@ -44,6 +44,7 @@
 #### Escandinávia
 
 - `Danemark` Dinamarca 🚹
+- `Suède` Suécia
 
 #### Europe de l'Est - Leste Europeu
 
@@ -276,7 +277,7 @@
 - `Service` Departamento (de uma empresa)
 - `Comptoir d'enregistrement` Balcão de check-in
 - `Contrôle de sûreté` Controle de segurança
-- `Rayon` Seção 🚹
+- `Rayon` Seção/Corredor 🚹
 - `TX/FX` Casa com uma cozinha e um banheiro e X quartos. Ex.: `T2` ou `F2` é uma casa com 2 quartos.
 - `Amphithéâtre` Anfiteatro
     - `Amphi` Abreviação
@@ -292,3 +293,15 @@
 - `Restaurant universitaire` Restaurante universitário
     - `Resto U` Abreviação
 - `Laboratoire` Laboratório
+- `Piste` Pista/Caminho/Rastro
+- `Marais` Pântano
+- `Grotte` Caverna
+- `Canyon` Cânion
+- `Gorge` Desfiladeiro/Cânion 🚺
+- `Frontière` Fronteira
+- `Chalet` Chalé
+- `Télésiège` Teleférico
+- `Milieu naturel` Habitat natural
+- `Terroir` Território
+- `Secteur` Setor
+- `Galerie` Galeria

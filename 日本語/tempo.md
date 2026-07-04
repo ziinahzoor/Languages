@@ -12,41 +12,56 @@
 - <font size="5"><code><ruby>時<rt>じ</rt></ruby></code></font> Hora
 - <font size="5"><code><ruby>日<rt>にち・ひ</rt></ruby></code></font> Dia
     - Geralmente é lido `ひ` quando se refere ao período ou evento temporal e `にち` quando se refere à dias específicos e durações, como dias da semana ou do mês (geralmente palavras compostas).
+    - <font size="5"><code><ruby>半<rt>はん</rt>日<rt>にち</rt></ruby></code></font> Meio dia/Metade do dia
 - <font size="5"><code><ruby>週<rt>しゅう</rt></ruby></code></font> Semana
+    - <font size="5"><code><ruby>曜<rt>よう</rt>日<rt>び</rt></ruby></code></font> Dia da semana
     - <font size="5"><code><ruby>平<rt>へい</rt>日<rt>じつ</rt></ruby></code></font> Dia útil
     - <font size="5"><code><ruby>週<rt>しゅう</rt>末<rt>まつ</rt></ruby></code></font> Fim de semana
 - <font size="5"><code><ruby>月<rt>つき</rt></ruby></code></font> Mês
+    - <font size="5"><code><ruby>半<rt>はん</rt>月<rt>げつ</rt></ruby></code></font> Meio mês
 - <font size="5"><code><ruby>学<rt>がっ</rt>期<rt>き</rt></ruby></code></font> Semestre (Acadêmico)
 - <font size="5"><code><ruby>年<rt>とし・ねん</rt></ruby></code></font> Ano
     - Não segue à risca as regras kunyomi e onyomi. Costuma ser `ねん` para contar ou indicar anos e `とし` quando usado sozinho.
     - Em expressões relativas também não segue as regras e estas devem ser decoradas.
+    - <font size="5"><code><ruby>本<rt>ほん</rt>年<rt>ねん</rt></ruby></code></font> Este ano (formal)
+    - <font size="5"><code><ruby>年<rt>ねん</rt>度<rt>ど</rt></ruby></code></font> Ano fiscal
+        - Geralmente começa no dia 1 de Abril.
+    - <font size="5"><code><ruby>半<rt>はん</rt>年<rt>とし</rt></ruby></code></font> Meio ano/Semestre
+    - <font size="5"><code><ruby>元<rt>がん</rt>年<rt>ねん</rt></ruby></code></font> Primeiro ano de uma era imperial
+- <font size="5"><code><ruby>世><rt>せい</rt>紀<rt>き</rt></ruby></code></font> Século
 
 ### Períodos do dia
 
+- <font size="5"><code><ruby>時<rt>じ</rt>刻<rt>こく</rt></ruby></code></font> Hora (específica)
 - <font size="5"><code><ruby>真<rt>ま</rt>夜<rt>よ</rt>中<rt>なか</rt></ruby></code></font> Meia-noite
 - <font size="5"><code><ruby>夜<rt>よ</rt>中<rt>なか</rt></ruby></code></font> Madrugada
 - <font size="5"><code><ruby>朝<rt>あさ</rt>日<rt>ひ</rt></ruby></code></font> Nascer do Sol
-- <font size="5"><code><ruby>朝<rt>あさ</rt></ruby></code></font> Manhã
+- <font size="5"><code><ruby>朝<rt>あさ</rt></ruby>・<ruby>日<rt>ひ</rt></ruby>の<ruby>出<rt>で</rt></ruby></code></font> Manhã
     - Se refere ao início da manhã ou a manhã em si.
 - <font size="5"><code><ruby>午<rt>ご</rt>前<rt>ぜん</rt>中<rt>ちゅう</rt></ruby></code></font> (Na) manhã
     - Se refere ao período antes de meio-dia ou "durante a manhã".
 - <font size="5"><code><ruby>昼<rt>ひる</rt></ruby></code></font> Dia (Período antes da noite)/Meio dia
 - <font size="5"><code><ruby>昼<rt>ひる</rt>間<rt>ま</rt></ruby></code></font> Dia (Período antes da noite)
     - Mais comumente usada.
-- <font size="5"><code><ruby>夕<rt>ゆう</rt>日<rt>ひ</rt></ruby></code></font> Pôr do Sol
+- <font size="5"><code><ruby>夕<rt>ゆう</rt>日<rt>ひ</rt></ruby>・<ruby>日<rt>ひ</rt></ruby>の<ruby>入<rt>い</rt></ruby>り</code></font> Pôr do Sol
 - <font size="5"><code><ruby>夕<rt>ゆう</rt>方<rt>がた</rt></ruby></code></font> Tarde/Entardecer (Das 3 até cerca de 7 horas)
-- <font size="5"><code><ruby>晩<rt>ばん</rt></ruby></code></font> Anoitecer (Depois das 7)
-    - Não é muito utilizada.
+- <font size="5"><code><ruby>夕<rt>ゆう</rt></ruby>べ</code></font> Anoitecer (Depois das 7)
+    - Também utilizado para se referir à noite anterior.
+    - <font size="5"><code><ruby>晩<rt>ばん</rt></ruby></code></font> Alternativa
+        - Não é muito utilizada.
 - <font size="5"><code><ruby>夜<rt>よる</rt></ruby></code></font> Noite
 
 ### Períodos do ano
 
 - <font size="5"><code><ruby>梅雨<rt>つゆ</rt></ruby></code></font> Temporada de chuva
+- `シーズン` Temporada (divisão do ano, de algum evento)
 - <font size="5"><code><ruby>頃<rt>ころ</rt></ruby></code></font> Época
 
 ### Prefixos
 
 **"Manhã", "noite", "semana", "mês" e "ano" podem usar os prefixos. "Dia" pode usar o prefixo "todo", porém as outras formas seguem conforme descrito na seção [tempo relativo](#tempo-relativo).**
+
+**Com os prefixos, "mês" costuma utilizar a leitura `げつ`. Porém, com `毎` é mais comum usar `つき` casualmente**
 
 - <font size="5"><code><ruby>毎<rt>まい</rt></ruby></code></font> Todo(a)
     - <font size="5"><code><ruby>毎<rt>まい</rt></ruby>～のように</code></font> Quase todo(a)
@@ -59,7 +74,10 @@
 - <font size="5"><code><ruby>来<rt>らい</rt></ruby></code></font> Próximo(a)
 - <font size="5"><code><ruby>再<rt>さ</rt>来<rt>らい</rt></ruby></code></font> Seguinte/Depois do(a) próximo(a)
 
-**<font size=5>`年`</font> é <font size="5"><code><ruby>毎<rt>まい</rt>年<rt>とし</rt></ruby></code></font>, <font size="5"><code><ruby>去<rt>きょ</rt>年<rt>ねん</rt></ruby></code></font>, <font size="5"><code><ruby>今<rt>こ</rt>年<rt>とし</rt></ruby></code></font>, <font size="5"><code><ruby>来<rt>らい</rt>年<rt>ねん</rt></ruby></code></font> e <font size="5"><code><ruby>再<rt>さ</rt>来<rt>らい</rt>年<rt>ねん</rt></ruby></code></font>, respectivamente**
+**<font size=5>`年`</font> é <font size="5"><code><ruby>毎<rt>まい</rt>年<rt>とし</rt></ruby></code></font>, <font size="5"><code><ruby>前<rt>ぜん</rt>年<rt>ねん</rt></ruby></code></font>, <font size="5"><code><ruby>今<rt>こ</rt>年<rt>とし</rt></ruby></code></font>, <font size="5"><code><ruby>来<rt>らい</rt>年<rt>ねん</rt></ruby></code></font> e <font size="5"><code><ruby>再<rt>さ</rt>来<rt>らい</rt>年<rt>ねん</rt></ruby></code></font>, respectivamente**
+
+- <font size="5"><code><ruby>去<rt>きょ</rt>年<rt>ねん</rt></ruby></code></font> é mais comum na conversação.
+- <font size="5"><code><ruby>昨<rt>さく</rt>年<rt>ねん</rt></ruby></code></font> é mais formal e literário.
 
 ### Sufixos
 
@@ -78,7 +96,9 @@
     - É um substantivo, não um advérbio.
     - Tem a nuance de sequência, ordem ou prioridade.
 - <font size="5"><code><ruby>今<rt>いま</rt></ruby></code></font> Agora/Atual
-    - `今から` Agora mesmo
+    - <font size="5"><code><ruby>今<rt>いま</rt></rt></ruby>から</code></font> A partir de agora/Agora mesmo
+    - <font size="5"><code><ruby>今<rt>いま</rt></rt></ruby>まで</code></font> Até agora
+    - <font size="5"><code><ruby>今<rt>いま</rt>頃<rt>ごろ</rt></ruby></code></font> A esta hora
     - <font size="5"><code>たった<ruby>今<rt>いま</rt></ruby></code></font> Exatamente agora/Neste minuto
 - <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font> Depois
     - <font size="5"><code><ruby>後<rt>ご</rt></ruby></code></font> Após/Depois de (advérbio)
@@ -113,9 +133,12 @@
 - <font size="5"><code><ruby>昔<rt>むかし</rt></ruby></code></font> Velhos tempos
     - Mais nostálgico, sentimental e pessoal.
 - <font size="5"><code>この<ruby>頃<rt>ごろ</rt></ruby></code></font> Hoje em dia/Esses dias
+- `これから` Daqui pra frente/De agora em diante
+- <font size="5"><code><ruby>今<rt>こん</rt>後<rt>ご</rt></ruby></code></font> De agora em diante
 
 #### Divisões fundamentais do tempo
 
+- <font size="5"><code><ruby>現<rt>げん</rt>在<rt>ざい</rt></ruby></code></font> Presente/Hoje/Agora
 - <font size="5"><code><ruby>将<rt>しょう</rt>来<rt>らい</rt></ruby></code></font> Futuro (próximo)
 - <font size="5"><code><ruby>未<rt>み</rt>来<rt>らい</rt></ruby></code></font> Futuro (distante)
 
@@ -129,7 +152,6 @@
     - Pode ser um feriado nacional ou designado pela instituição. Tem uma nuance mais oficial que `休み`.
 - <font size="5"><code><ruby>祝<rt>しゅく</rt>日<rt>じつ</rt></ruby></code></font> Feriado nacional
 - <font size="5"><code>ひる<ruby>休<rt>やす</rt></ruby>み</code></font> Pausa pro almoço
-- `これから` De agora em diante
 - `さいご` Último
 - <font size="5"><code><ruby>暇<rt>ひま</rt></ruby>な<ruby>時<rt>とき</rt></ruby>・<ruby>暇<rt>ひま</rt></ruby></code></font> Tempo livre
 - <font size="5"><code><ruby>瞬<rt>しゅん</rt>間<rt>かん</rt></ruby></code></font> Momento/Instante
@@ -142,6 +164,11 @@
 - <font size="5"><code><ruby>放<rt>ほう</rt>課<rt>か</rt>後<rt>ご</rt></ruby></code></font> Pós-aula
 - <font size="5"><code><ruby>時<rt>じ</rt>代<rt>だい</rt></ruby></code></font> Período/Época/Era
 - <font size="5"><code><ruby>一<rt>いち</rt>日<rt>にち</rt>中<rt>じゅう</rt></ruby></code></font> O dia inteiro
+- <font size="5"><code><ruby>一<rt>いち</rt>年<rt>ねん</rt>中<rt>じゅう</rt></ruby></code></font> O ano inteiro
+- <font size="5"><code><ruby>食<rt>しょく</rt>後<rt>ご</rt></ruby></code></font> Após a refeição
+- <font size="5"><code><ruby>今日<rt>きょう</rt>中<rt>じゅう</rt></ruby>に</code></font> Até o fim do dia
+- <font size="5"><code><ruby>一<rt>いっ</rt>生<rt>しょう</rt></ruby></code></font> A vida inteira
+- <font size="5"><code><ruby>長<rt>なが</rt>年<rt>ねん</rt></ruby></code></font> Muito tempo
 
 ## <ruby>月<rt>つき</rt></ruby> - Meses
 
@@ -173,6 +200,9 @@
 
 **Também pode-se usar somente o primeiro kanji para se referir a mais de um dia de uma vez. Ex.: <font size="5"><code><ruby>土<rt>ど</rt>日<rt>にち</rt></ruby></code></font> "Sábado e Domingo".**
 
+> [!TIP]
+> Em conversas casuais, o <font size="5"><code><ruby>日<rt>び</rt></ruby></code></font> dos dias da semana costuma ser omitido. Ex.: <font size="5"><code><ruby>月<rt>げつ</rt>曜<rt>よう</rt></ruby></code></font> "Segunda".
+
 ## <ruby>時<rt>じ</rt>間<rt>かん</rt></ruby> - Hora
 
 **Usar <font size="5"><code><ruby>時<rt>じ</rt></ruby></code></font> para se referir à hora.**
@@ -191,15 +221,24 @@
 
 **Usar <font size="5"><code><ruby>秒<rt>びょう</rt></ruby></code></font> para se referir ao segundo.**
 
-## Datas
+## <ruby>日<rt>ひ</rt></ruby>にち - Datas
 
+- <font size="5"><code><ruby>生<rt>せい</rt>年<rt>ねん</rt>月<rt>がっ</rt>日<rt>ぴ</rt></ruby></code></font> Data de nascimento
 - <font size="5"><code><ruby>正<rt>しょう</rt>月<rt>がつ</rt></ruby></code></font> Ano Novo
     - Primeiros três dias do ano.
     - <font size="5"><code>お<ruby>正<rt>しょう</rt>月<rt>がつ</rt></ruby></code></font> Teineigo
 - `バレンタインデー` Dia dos namorados (14/02)
+    - As mulheres é que costumam dar presentes.
+- `ホワイトデー` Dia Branco (14/03)
+    - Dia em que os homens retribuem às mulheres pelos presentes recebidos no dia dos namorados.
+- <font size="5"><code><ruby>母<rt>はは</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia das mães (Segundo domingo de Maio)
+- <font size="5"><code><ruby>父<rt>ちち</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia dos pais (Terceiro domingo de Junho)
 - `クリスマス` Natal
 
-## O Calendário Japonês
+## <ruby>和<rt>わ</rt>暦<rt>れき</rt></ruby> - O Calendário Japonês
+
+> [!NOTE]
+> O calendário ocidental é chamado <font size="5"><code><ruby>西<rt>せい</rt>暦<rt>れき</rt></ruby></code></font>.
 
 **A história japonesa é demarcada por <font size="5"><code><ruby>時<rt>じ</rt>代<rt>だい</rt></ruby></code></font> "períodos". Cada período consistia de <font size="5"><code><ruby>元<rt>げん</rt>号<rt>ごう</rt></ruby>・<ruby>年<rt>ねん</rt>号<rt>ごう</rt></ruby></code></font> "eras", intervalos menores definidos pelos imperadores. Os reinados de cada imperador podiam ter várias eras, e cada período podia incluir o reinado de vários imperadores.**
 
@@ -298,6 +337,7 @@
 - <font size="5"><code>スポーツの<ruby>日<rt>ひ</rt></ruby></code></font> Dia dos Esportes (2ª segunda-feira de outubro)
 - <font size="5"><code><ruby>文<rt>ぶん</rt>化<rt>か</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia da Cultura (3 de novembro)
 - <font size="5"><code><ruby>勤<rt>きん</rt>労<rt>ろう</rt>感<rt>かん</rt>謝<rt>しゃ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></code></font> Dia de Ação de Graças pelo Trabalho (23 de novembro)
+- <font size="5"><code><ruby>大<rt>おお</rt>晦日<rt>みそか</rt></ruby></code></font> Véspera de Ano Novo (31 de dezembro)
 
 ## <ruby>天<rt>てん</rt>気<rt>き</rt></ruby> - Clima
 
@@ -307,6 +347,8 @@
 - <font size="5"><code><ruby>曇<rt>くも</rt></ruby>り</code></font> Nublado
 - <font size="5"><code><ruby>雨<rt>あめ</rt></ruby></code></font> Chuvoso
     - Também pode significar "chuva".
+    - <font size="5"><code><ruby>大<rt>おお</rt>雨<rt>あめ</rt></ruby></code></font> Chuva forte
+    - <font size="5"><code><ruby>小<rt>こ</rt>雨<rt>さめ</rt></ruby></code></font> Garoa/Chuvisco
 - `あらし` Tempestuoso
 - <font size="5"><code><ruby>雪<rt>ゆき</rt></ruby></code></font> Nevoso
 - Também pode significar "neve".

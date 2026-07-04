@@ -4,3 +4,8 @@
 - `Toga`
 - `Stola` Vestido 🚺
 - `Calceus` Sapato
+- `Persona` Máscara
+
+## Acessórios
+
+- `Saccus` Mochila/Mala 🚹

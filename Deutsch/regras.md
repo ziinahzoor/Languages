@@ -147,3 +147,4 @@
 </table>
 
 - Em alguns termos, partes repetidas de uma palavra podem ser omitidas usando um hífen (`Auslassungsstrich`), de forma similar ao que ocorre no inglês com o apóstrofe, com a diferença que o Auslassungsstrich costuma omitir partes inteiras da palavra, como um sufixo. Ex.: Ao invés de escrever `Hinfahrt und Rückfahrt`, pode-se escrever `Hin- und Rückfahrt`
+- Para idade, o alemão segue a mesma ideia do ingles: `Jahre alt` "Years old".

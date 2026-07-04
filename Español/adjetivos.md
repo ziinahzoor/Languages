@@ -8,6 +8,10 @@
 - `Chino` Chinês
 - `Japonés` Japonês
 - `Portugués` Português
+- `Mexicano`
+- `Estadounidense` Estadunidense
+- `Italiano`
+- `Francés` Francês
 
 ## Vocabulário
 
@@ -262,8 +266,12 @@
 - `Ilegal`
 - `Público`
 - `Social`
+- `Sociable` Sociável
 - `Regional`
 - `Municipal`
 - `Optimista` Otimista
 - `Tolerante`
 - `Oficial`
+- `Serio` Sério
+- `Contento` Contente
+- `Estresado` Estressado

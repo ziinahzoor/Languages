@@ -54,7 +54,6 @@
 - `Soudain` De repente/Subitamente
 - `Partout` Em todo lugar
 - `Comment` Como (Interrogativo)
-- `Comme` Como (Comparativo)
 - `Pourtant` Porém/Entretanto/Mesmo assim
 - `Toutefois` Porém/Apesar disso
 - `Autant` Tanto
@@ -72,6 +71,11 @@
 - `Du coup` Por isso
 - `Tout/Toute` Muito/Bastante
     - Quando usada com adjetivos.
+- `Pas mal` Nada mal/Um tanto/Bastante
+- `Cependant` Ainda assim
+- `D'ici` Daqui
+- `Néanmoins` No entanto/Contudo
+- `Désormais` De agora em diante
 
 ## Locutions adverbiales - Locuções adverbiais
 
@@ -82,7 +86,7 @@
 - `Plein de` Cheio/Repleto
     - "Muitos/Bastante/O bastante", quando se refere a coisas quantificáveis.
 - `Par conséquent` Consequentemente
-- `Par contre` Porém/Por outro lado
+- `Par contre` Porém/Entretanto/Por outro lado
 - `Par exemple` Por exemplo
 - `Par terre` No chão
 - `Tout de suite` Agora mesmo/Na hora/Imediatamente
@@ -94,17 +98,23 @@
 - `Du tout` De forma alguma
 - `De toute façon` De qualquer forma/De qualquer maneira
 - `De temps en temps` De vez em quando
+- `De plus en plus` Cada vez mais
+    - Utiliza `de` para se ligar como determinante a substantivos. Ex.: `De plus en plus de gens.` "Cada vez mais pessoas."
 - `Tout à l'heure` Daqui a pouco
 - `Sans le vouloir` Sem querer
 - `À l'étage` Lá em cima
+- `À l'envers` Ao contrário
+- `À la fois` Por vez/De cada vez
 - `À ce moment-là` Logo então
 - `À mon avis` Na minha opinião
-- `À l'envers` Ao contrário
 - `À voix basse` Em voz baixa
 - `À bon escient` Com sabedoria/De forma sensata/De forma adequada
+- `À vol d'oiseau` Em linha reta
+- `À deux pas` A dois passos
 - `Au coin de` Na esquina de
+- `Au fur et à mesure` Pouco a pouco/Gradualmente
 - `En fait` Na verdade
-- `En effet` Na verdade/De fato
+- `En effet` De fato/Na verdade
 - `En plus` Além disso/Além do mais
 - `En tout` Ao todo/No total
 - `En avance` Antecipadamente/Adiantado
@@ -116,6 +126,7 @@
 - `En ce moment` Neste momento
 - `En plein air` Ao ar livre
 - `En promo` Em promoção
+- `En revanche` Por outro lado
 - `Sur Internet` Online
 - `Sur le pouce` Em movimento/Às pressas
     - Geralmente usado para referenciar "comer".
@@ -125,6 +136,10 @@
 - `D'un coup` De uma vez
 - `De près` De perto
 - `De loin` De longe
+- `Petit à petit` Pouco a pouco
+- `Peu à peu` Pouco a pouco
+- `Contre toute attente` Contra todas as expectativas
+- `À la bonne franquette` Sem cerimônias/Informalmente
 
 ## De manière - De modo
 
@@ -168,6 +183,9 @@
 - `Poliment` Educadamente
 - `Bref` Em resumo/Em suma
 - `Innocemment` Inocentemente
+- `Notamment` Especialmente/Particularmente
+- `Paradoxalement` Paradoxalmente
+- `Curieusement` Curiosamente
 
 ## Os Porquês
 

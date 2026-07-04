@@ -8,3 +8,5 @@
 - `Mustela` Furão 🚺
 - `Bubo` Coruja 🚹
     - `Bufus` Alternativa
+- `Lupus` Lobo
+- `Serpens` Cobra/Serpente

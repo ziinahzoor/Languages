@@ -4,11 +4,13 @@
     - `Cheveu` Cabelo
         - `Coupe de cheveux` Corte de cabelo
     - `Visage` Rosto
+        - `Bouille` Gíria 🚺
         - `Front` Testa 🚹
         - `Oreille` Orelha
         - `Œil` Olho
             - `Yeux` Olhos
         - `Nez` Nariz
+            - `Pif` Gíria
         - `Joue` Bochecha
         - `Bouche` Boca
             - `Dent` Dente 🚺
@@ -19,6 +21,8 @@
     - `Gorge` Garganta
 - `Poitrine` Peito 🚺
 - `Ventre` Barriga 🚹
+    - `Bide` Coloquial 🚹
+    - `Poignée d'amour` Pneuzinho 🚺
 - `Dos` Costas 🚹
 - `Bras` Braço
     - `Coude` Cotovelo

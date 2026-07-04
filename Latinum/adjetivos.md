@@ -96,12 +96,13 @@
 - `Optimus` O melhor/Ótimo
     - Superlativo de `bonus`
     - `Optumus` Alternativa
-- `Malus` Ruim
+- `Malus` Mau/Ruim
 - `Peior` Pior
     - Comparativo de `malus`
 - `Pessimus` O pior/Péssimo
     - Superlativo de `malus`
 - `Dimidius` Metade
+- `Paucus` Pouco/Poucos
 - `Multus` Muito/Muitos
 - `Plus` Mais
     - Comparativo de `multus`
@@ -166,13 +167,40 @@
 - `Callidus` Sábio
 - `Sapiens` Perspicaz/Sagaz/Sábio
 - `Sordidus` Sujo
+- `Periculosus` Perigoso
+- `Obscurus` Escuro
+- `Ceterus/Ceter` Outro
+- `Omnis` Cada/Todo/Todos
+- `Barbarus` Estrangeiro/Bárbaro
+- `Pallidus` Pálido
+- `Probus` Bondoso
+- `Improbus` Malvado
+- `Callidissimus` Espertíssimo
+- `Navalis` Naval
+- `Necesse` Necessário
+- `Venenatus` Venenoso
+- `Vivus` Vivo
+- `Fractus` Quebrado
+- `Fortis` Forte
+- `Timidus` Medroso/Covarde
+- `Laevus` Esquerdo
+- `Dexter` Direito
+- `Vicinus` Vizinho
+- `Publicus` Público
+- `Credulus` Crédulo
 
 ### Nacionalidade
 
 - `Americanus` Americano
 - `Hispanus` Espanhol
 - `Anglicus` Inglês
+- `Germanus` Germânico
 - `Germanicus` Alemão
+- `Romanus` Romano
+- `Latinus` Latino
+- `Carthaginiensis` Cartaginês
+- `Etruscus` Etrusco
+    - `Tuscus` Toscano
 
 ### Linguagem
 

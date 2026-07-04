@@ -57,7 +57,7 @@
 		<th>ㅛ</th>
 		<td>yo</td>
 		<th>ㅚ</th>
-		<td>oe</td>
+		<td>oe/we</td>
 	</tr>
 	<tr>
 		<th>ㄹ</th>
@@ -107,7 +107,7 @@
 		<th>ㅈ</th>
 		<td><span style="color: #fdf800">j</span>/<span style="color: #0abdc6">t</span></td>
 		<th>ㅉ</th>
-		<td>jj</td>
+		<td><span style="color: #fdf800">jj</span>/<span style="color: #0abdc6">t</span></td>
 		<th>ㅊ</th>
 		<td><span style="color: #fdf800">ch</span>/<span style="color: #0abdc6">t</span></td>
 		<th>ㅔ</th>
@@ -125,7 +125,7 @@
 	</tr>
 	<tr>
 		<td colspan="14">
-			<p style="color: #fdf800">Indica o som da consoante na posição inicial da sílaba.</p>
+			<p style="color: #fdf800">Indica o som da consoante na posição inicial da sílaba. No início de PALAVRAS, têm o mesmo som das suas contrapartes aspiradas.</p>
 			<p style="color: #0abdc6">Indica o som da consoante em uma posição final da sílaba.</p>
 		</td>
 	</tr>
@@ -137,15 +137,25 @@
 > [!TIP]
 > No coreano moderno, `ㅐ` e `ㅔ` têm o mesmo som.
 
--   Em ordem alfabética: `ㄱ` `ㄲ` `ㄴ` `ㄷ` `ㄸ` `ㄹ` `ㅁ` `ㅂ` `ㅃ` `ㅅ` `ㅆ` `ㅇ` `ㅈ` `ㅉ` `ㅊ` `ㅋ` `ㅌ` `ㅍ` `ㅎ` `ㅏ` `ㅐ` `ㅑ` `ㅒ` `ㅓ` `ㅔ` `ㅕ` `ㅖ` `ㅗ` `ㅘ` `ㅙ` `ㅚ` `ㅛ` `ㅜ` `ㅝ` `ㅞ` `ㅟ` `ㅠ` `ㅡ` `ㅢ` `ㅣ`.
--   A posição do traço base das vogais determina como se formam os blocos silábicos.
-    -   Horizontais: `ㅛ` `ㅗ` `ㅠ` `ㅜ` `ㅡ`.
-    -   Verticais: `ㅕ` `ㅑ` `ㅔ` `ㅐ` `ㅓ` `ㅏ` `ㅣ` `ㅒ` `ㅖ`.
+- Em ordem alfabética: `ㄱ` `ㄲ` `ㄴ` `ㄷ` `ㄸ` `ㄹ` `ㅁ` `ㅂ` `ㅃ` `ㅅ` `ㅆ` `ㅇ` `ㅈ` `ㅉ` `ㅊ` `ㅋ` `ㅌ` `ㅍ` `ㅎ` `ㅏ` `ㅐ` `ㅑ` `ㅒ` `ㅓ` `ㅔ` `ㅕ` `ㅖ` `ㅗ` `ㅘ` `ㅙ` `ㅚ` `ㅛ` `ㅜ` `ㅝ` `ㅞ` `ㅟ` `ㅠ` `ㅡ` `ㅢ` `ㅣ`.
+- A posição do traço base das vogais determina como se formam os blocos silábicos.
+    - Horizontais: `ㅛ` `ㅗ` `ㅠ` `ㅜ` `ㅡ`.
+    - Verticais: `ㅕ` `ㅑ` `ㅔ` `ㅐ` `ㅓ` `ㅏ` `ㅣ` `ㅒ` `ㅖ`.
+
+## Pronúncia
+
+- `eo` é similar a "ó".
+- `o` é similar a "ô".
+- `eu` é quase um "ã", mas pronunciando um "u".
+- `e` e `ae` são similares a "é/e".
+- `oe` é similar a "we".
+- `ㄹ` é pronunciado como "r" entre duas vogais.
+- Os sons estrangeiros de "f" costumam ser pronunciados com "p".
 
 ## 구조 - Estrutura dos blocos silábicos
 
--   Os blocos são formados por uma vogal e de uma a três consoantes.
--   Dependendo da quantidade de consoantes e o tipo da vogal, existem nove formas de formar um bloco:
+- Os blocos são formados por uma vogal e de uma a três consoantes.
+- Dependendo da quantidade de consoantes e o tipo da vogal, existem nove formas de formar um bloco:
 
 <table>
 	<thead>
@@ -270,6 +280,15 @@
 <ul>
 	<li><span style="color:#fdf800"><code>I</code></span> é uma consoante em posição inicial (초성).</li>
 	<li><span style="color:#0abdc6"><code>F</code></span> é uma consoante em posição final (종성 ou 받침).</li>
+	<ul>
+		<li>Mais comumente chamada de 받침 (batchim), ou 겹받침 (gyeop-batchim) quando duas.</li>
+		<li>Batchim duplo:</li>
+		<ul>
+			<li>ㄺ e ㄳ pronunciam somente o ㄱ</li>
+			<li>ㄵ e ㄶ pronunciam somente o ㄴ</li>
+			<li>ㄼ, ㄾ, ㄽ e ㅀ pronunciam somente o ㄹ</li>
+		</ul>
+	</ul>
 	<li><span style="color:#ea00d9"><code>V</code></span> é a vogal do bloco (중성).</li>
 	<ul>
 		<li><span style="color:#0a9cf5"><code>VD</code></span> é uma vogal dupla. Ela ocupa dois espaços.</li>

@@ -10,6 +10,9 @@
 
 **O ponto decimal é chamado <font size="5"><code><ruby>点<rt>てん</rt></ruby></code></font>**.
 
+> [!NOTE]
+> A partícula `が` é quase sempre omitida ao ser associada com um contador que antecede um verbo. Pode-se pensar que o contador é utilizado adverbialmente.
+
 <table>
     <thead>
         <tr>
@@ -154,33 +157,46 @@
 
 **Ao falar, costuma-se pausar a cada 4 números. O ponto decimal é considerado como um.**
 
-**Para quantidades imprecisas, pode-usar <font size="5"><code><ruby>何<rt>なん</rt></ruby></code></font> como prefixo. Ex.: <font size="5"><code><ruby>何<rt>なん</rt>百<rt>びゃく</rt></ruby></code></font> "centenas"; <font size="5"><code><ruby>何<rt>なん</rt>千<rt>ぜん</rt></ruby></code></font> "milhares".**
+### Numerais coletivos
+
+- <font size="5"><code><ruby>何<rt>なん</rt>十<rt>じゅう</rt></ruby></code></font> Dezenas
+- <font size="5"><code><ruby>何<rt>なん</rt>百<rt>びゃく</rt></ruby></code></font> Centenas
+- <font size="5"><code><ruby>何<rt>なん</rt>千<rt>ぜん</rt></ruby></code></font> Milhares
 
 ### Operações
 
 - <font size="5"><code><ruby>足<rt>た</rt></ruby>す</code></font> Somar
 - <font size="5"><code><ruby>引<rt>ひ</rt></ruby>く</code></font> Subtrair
+    - `マイナス` Menos
 - <font size="5"><code><ruby>掛<rt>か</rt></ruby>ける</code></font> Multiplicar
 - <font size="5"><code><ruby>割<rt>わ</rt></ruby>る</code></font> Dividir
 - <font size="5"><code><ruby>平<rt>へい</rt>均<rt>きん</rt></ruby></code></font> Média
 
-### Frações e decimais
+### Frações, decimais e multiplicadores
 
 **Frações são indicadas por <font size="5"><code><ruby>分<rt>ぶん</rt></ruby>の</code></font>, porém na ordem inversa. Ex.: 1/3 → <font size="5"><code>３<ruby>分<rt>ぶん</rt></ruby>の１</code></font>.**
 
 **Decimais são lidos como os outros números, apenas indicando o ponto com <font size="5"><code><ruby>点<rt>てん</rt></ruby></code></font>.**
 
 - <font size="5"><code><ruby>割<rt>わり</rt>合<rt>あい</rt></ruby></code></font> Razão/Porcentagem/Proporção
+- <font size="5"><code><ruby>半<rt>はん</rt></ruby></code></font> Metade
+    - <font size="5"><code><ruby>前<rt>ぜん</rt>半<rt>はん</rt></ruby></code></font> Primeira metade
+    - <font size="5"><code><ruby>後<rt>こう</rt>半<rt>はん</rt></ruby></code></font> Segunda metade
+- <font size="5"><code><ruby>倍<rt>ばい</rt></ruby></code></font> Dobro
+    - Outros multiplicadores utilizam o número com `倍` como contador.
+    - `ダブル` Dobro/Duplo
+        - Mais utilizado quando ligado a outro substantivo.
 
 ### Classificadores
 
 - <font size="5"><code><ruby>一<rt>いっ</rt>方<rt>ぽう</rt></ruby></code></font> Um (dos)
     - Indica uma de duas partes.
-- <font size="5"><code><ruby>両<rt>りょう</rt>方<rt>ほう</rt></ruby></code></font> Ambos
+- <font size="5"><code><ruby>両<rt>りょう</rt></ruby></code></font> Ambos (prefixo)
+- <font size="5"><code><ruby>両<rt>りょう</rt>方<rt>ほう</rt></ruby></code></font> Ambos/As duas partes
 
 ## <ruby>助<rt>じょ</rt>数<rt>すう</rt>詞<rt>し</rt></ruby> - Contadores
 
-**Costumam acompanhar o verbo.**
+**Podem ser usados de três formas. Da mais polida para a mais casual: `[substantivo]を[número][contador][verbo]`; `[número][contador]の[substantivo]を[verbo]`; `[substantivo][número][contador]を[verbo]`.**
 
 **<font size="5"><code><ruby>数<rt>すう</rt></ruby></code></font> é um prefixo que indica "muitos", "vários" ou "alguns". Indica uma quantidade arbitrária.**
 
@@ -191,11 +207,17 @@
 - Usa wago.
 - Geralmente usado para indicar quantas coisas existem.
 
-#### つ<ruby>目<rt>め</rt></ruby> Ordinal/Item em uma sequência
-
 ### <font size="5"><code><ruby>個<rt>こ</rt></ruby></code></font> Coisas em geral (genérico)
 
 - Usa kango.
+
+### <font size="5"><code><ruby>第<rt>だい</rt></ruby>・<ruby>目<rt>め</rt></ruby></code></font> Afixos ordinais
+
+- `第` é um prefixo e é utilizado para indicar uma ordem categorizada. Ex.: `第一話` "Episódio 1".
+    - Mais honorífico. Usa a forma kango, inclusive para o contador.
+- `目` é um sufixo e é utilizado para indicar ordem após qualquer contador que seja válido. Ex.: `二回目` "a segunda vez", `五日目` "o quinto dia".
+    - Indica ordem relativa, não-categorizada.
+    - Mais casual. Usa a forma já utilizada pelo contador que o segue.
 
 ### <font size="5"><code><ruby>人<rt>り・にん</rt></ruby></code></font> Pessoas
 
@@ -238,12 +260,6 @@
 > [!IMPORTANT]
 > Para estadias, usa-se o contador <font size="5"><code><ruby>泊<rt>はく</rt></ruby></code></font> e conta-se as noites ao invés de dias completos.
 
-### <font size="5"><code><ruby>第<rt>だい</rt></ruby>、<ruby>目<rt>め</rt></ruby></code></font> Afixos de dias ordinais
-
-- Ambos acompanham a contagem com 日
-- `第` é um prefixo e é mais honorífico. Usa a forma kango, inclusive para o contador.
-- `目` é um sufixo e é mais casual. Usa a forma já utilizada pelo contador.
-
 ### <font size="5"><code><ruby>時<rt>じ</rt></ruby></code></font> Horas (ponto no tempo)
 
 - <font size="5"><code><ruby>時<rt>じ</rt>間<rt>かん</rt></ruby></code></font> Horas (duração)
@@ -282,6 +298,12 @@
 - Pode ser traduzido como "vezes".
 - Se é algo frequente, que certamente se repete, usar <font size="5"><code><ruby>回<rt>かい</rt></ruby></code></font>.
 - Ex.: `日本に一度行った` "Fui ao Japão uma vez".
+
+### <font size="5"><code><ruby>倍<rt>ばい</rt></ruby></code></font> Quantidade (em proporção), Intensidade
+
+- Pode ser traduzido como "vezes".
+- É utilizado com quantidades e intensidades, não com frequências. Ex.: `値段が二倍になった` "O preço dobrou"; `二倍努力する` "Vou me esforçar o dobro".
+- Também pode ser utilizado como substantivo. Nesse caso, significa "o dobro".
 
 ### <font size="5"><code><ruby>階<rt>かい</rt></ruby></code></font> Andares
 

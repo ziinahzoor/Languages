@@ -25,10 +25,11 @@
 - Também pode ser marcadora paralela e finalizadora.
 - `Função genitiva`: indica a posse ou a caracterização de alguma coisa.
     - Funciona como o apóstrofe em inglês.
-- `Função de ênfase casual`: semelhante à partícula `よ`, porém tem uma nuance mais feminina ou infantil.
-- `Função interrogativa casual`: pode substituir a partícula `か` em perguntas, dando um tom mais casual e suave.
 - `Função nominalizadora`: transforma verbos e adjetivos em substantivos.
     - É a base das expressões explicativas `のだ` e `のです`.
+- `Função interrogativa casual`: pode substituir a partícula `か` em perguntas, dando um tom mais casual e suave.
+    - Na verdade, possui a mesma nuance das expressões explicativas, e portanto pode soar inquisitiva se usada em excesso. Para realmente fazer perguntas casualmente, basta usar a forma plana com uma entonação crescente.
+- `Função de ênfase casual`: semelhante à partícula `よ`, porém tem uma nuance mais feminina ou infantil.
 - Para todas as funções, exceto a genitivo, os adjetivos-な e substantivos que precedem a partícula devem utilizar o sufixo `な`.
 
 ### を
@@ -68,6 +69,7 @@
     - `にて` Honorífico/Literário
     - Indica meio, lugar, total, tempo, custo, escopo, do que é feito, causa.
     - Usado para indicar de que maneira se vai a algum lugar. Ex.: De avião, de ônibus...
+    - Também usado para indicar a relação de algo com uma quantidade; uma razão. Ex.: `二つで1000円です` "São 1000 ienes por dois itens"
 
 ### と
 
@@ -106,6 +108,7 @@
     - Não foge da função de "origem da ação": a justificativa é a origem.
     - Quando usada no começo da frase, ou com substantivos e adjetivos-な, usa o prefixo `だ`, tornando-se `だから`
 - Também é uma partícula conjuntiva e frasal.
+- `さかい` Kansai-ben
 
 ### より
 
@@ -116,9 +119,9 @@
         - Neste último caso, quando ligamos `より` a outra partícula, é como se tivéssemos omitido o substantivo que "é menos", então dizemos que o substantivo antes da partícula "é mais" que todas as outras coisas.
     - Também é possível usar `もっと` com o adjetivo de comparação.
     - Possui uma forma mais enfática: `よりも`.
-
-> [!NOTE]
-> A partícula `より` também se sobrepõe ao sentido de "origem" da partícula `から`, mas é mais antiga e, portanto, mais literária.
+- `Função de origem`: exatamente como a função de origem de `から`.
+    - É mais literária nesse sentido.
+    - Mais utilizada que `から` para indicar o remetente de cartas.
 
 > [!TIP]
 > Também pode-se pensar como um sinal de menor "<".
@@ -156,6 +159,7 @@
 
 ### なんて
 
+- "Quem diria", "pensar que".
 - Similar a `など` porém com uma nuance de desdém, indicando algo indesejado.
 - Também pode ser encontrada como `なんか`, de maneira mais informal.
 
@@ -188,6 +192,29 @@
     - Casualmente, omite-se o `とか` do último item listado.
     - Similar a <a href="#や">や</a>, porém pode ser usado com verbos.
     - Similar a <a href="#たりだり">たり</a>.
+
+### わ
+
+- `Função emocional`: Usada no fim de frases para indicar emoção ou ênfase
+    - Feminina
+
+### わい
+
+- `Função emocional`: Usada no fim de frases para indicar emoção
+    - Masculina
+    - Mais utilizada em Kansai.
+
+### こと
+
+- `Função de expectativa ou comando leve`: Espera-se que uma ação seja realizada. "Deveria".
+    - Indica que algo deveria ou é esperado de acontecer.
+    - É menos sugestivo que a construção `～た方がいい`. Mais impessoal, formal e ligeiramente autoritativo. Também não é tão moral quanto `べき`.
+
+### もの
+
+- `Função de explicação ou desculpa`: Indica a razão de alguma coisa ou uma desculpa para que ela não aconteça
+    - Costuma ser utilizada com outas partículas finalizadoras e também com as construções `のだ・んだ・のです・んです`.
+    - Costuma ser abreviada para `もん` na fala.
 
 ## <ruby>間<rt>かん</rt>投<rt>とう</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Interjetivas
 
@@ -248,7 +275,10 @@
 
 - `Função de grau ou quantidade aproximada`: Aproximadamente
     - `ぐらい` é mais comum na fala.
-- `Função de limite inferior`: Pelo menos.
+- `Função de limite aproximado`: "Pelo menos", "até mesmo", "na medida que", "a tal ponto que".
+- `Função de similaridade`: "como"
+    - Indica que algo é similar à extensão de uma outra coisa; aparenta ser outra coisa. Ex.: `竜くらい` "Como um dragão/Tão... quanto um dragão"
+- No geral, indica a extensão ou dimensão de algo.
 
 ### まで
 
@@ -266,7 +296,12 @@
 ### ほど
 
 - `Função de limite superior`: indica até onde uma ação pode chegar, sua extensão ou grau.
-    - "Tão... quanto/Tanto quanto", "como".
+    - "Até", "Tão... quanto/Tanto quanto", "como".
+        - Quando usado com frases negativas, indica "não tão... quanto".
+    - Usado com as formas atributivas das palavras.
+- `Função de gradualidade` "quanto mais A mais B".
+    - Usado como `AばAほどB`, onde A primeiro é usado na forma condicional e depois na forma atributiva. Ex.: `勉強をすればするほど。。。` "quanto mais você estuda, mais..."
+    - A construção pode ser abreviada removendo totalmente a parte hipotética: `AほどB`.
 
 ### だけ
 
@@ -290,8 +325,13 @@
     - Semelhante ao "just".
     - Quantidade ou Amplitude. Ex.: Estou apenas comendo.
     - Exclusividade.
+    - Também indica continuidade como no português. Ex.: `ガソリンの値段は上がっていくばかりだ` "O preço da gasolina só cresce".
     - Também tem uma nuance hiperbólica, exagerando o que diz respeito a "apenas".
     - Informalmente pode ser usado como `ばっかり` ou `ばっか`.
+    - Costuma ser muito utilizado como uma variação de `ている`: `てばかりいる` "fazer nada além de".
+    - Também é muito utilizado conjuntivamente antes de `で` (com verbos e substantivos) ou `いて` (somente com verbos).
+    - Quando usado antes da partícula `に`, também indica uma limitação do motivo: "simplesmente porque", "só porque".
+        - É utilizado com palavras na forma atributiva. Comumente usando com verbos no pretérito.
 - `Função de iminência`: Estar prestes a
     - Quando usado com o verbo na forma de dicionário.
 - `Função de ação recente`: Acabar de
@@ -300,8 +340,10 @@
 
 ### こそ
 
-- `Função enfática`: dá ênfase ao que se fala. "Precisamente"
+- `Função enfática`: dá ênfase ao que se fala. "Precisamente", "exatamente", "certamente"
     - Ex.: `私こそマネージャーです` "Sou EU o gerente".
+    - Substitui as partículas `を` ou `が`.
+    - Também costuma ser utilizada após a partícula `から` para indicar "precisamente porque".
 
 ### どころか
 
@@ -339,11 +381,9 @@
 - `Função exemplificativa`: "ou algo assim", "até mesmo".
     - Utiliza o substantivo ou pronome anterior como exemplo para o que vai ser dito a seguir.
 - `Função concessiva de possibilidades`: "mesmo se", "independente de se", "seja... ou não".
-    - É utilizado em sequência, após cada item considerado. Ex.: `ケーキでもクッキーでも...` "Seja bolo ou biscoito...".
-
-### こそ
-
-- Ênfase
+    - É utilizada em sequência, após cada item considerado. Ex.: `ケーキでもクッキーでも...` "Seja bolo ou biscoito...".
+- `Função de alternativa`: "ou outra coisa", "ou... ou"
+    - Usada com substantivos para indicar alternativas para o que se fala. Ex.: `コーヒーでも` "café ou outra coisa"; `コーヒーでもお茶でも` "ou café, ou chá"
 
 ## <ruby>接<rt>せつ</rt>続<rt>ぞく</rt>助<rt>じょ</rt>詞<rt>し</rt></ruby> - Conjuntivas
 
@@ -359,8 +399,15 @@
     - Tem ênfase no efeito causado.
     - Indica causalidade: porque "uma coisa", então "outra coisa".
     - Adjetivos-な e substantivos devem utilizar o sufixo `な`.
+        - `なので` é casualmente encontrado como `なんで`
     - Em nuances onde a causa tem a intenção de culpabilizar, pode-se usar `のせいで`.
 - `んで` Abreviação
+- `さかい` Kansai-ben
+
+### さかい
+
+- Possui a mesma função de `から` e `ので`, porém é mais utilizada na região de Kansai.
+- Casualmente abreviada para `さけ`
 
 ### のに
 
@@ -387,10 +434,11 @@
 
 - `Função contrastiva`: mas, apesar
     - Não é necessariamente contraditória, pode apenas ser um contraste positivo.
-- Quando usada com a forma explicativa (`のだ・んだ`), substantivos e adjetivos-な, torna-se `だけど`
+    - Quando usada com a forma explicativa (`のだ・んだ`), substantivos e adjetivos-な, torna-se `だけど`
     - Na forma explicativa, os `だ` são fundidos.
     - `だけど` além da função constrastiva, também possui função introdutória: Introduz um pensamento.
         - Para associar com a função contrastiva, pode-se pensar como um "mas hein..." sem função semântica, após a frase introdutória.
+- `Função suavizadora`: pode suavizar uma pergunta ou uma situação negativa, utilizando de um leve contraste para tal. Ex.: `パン買ったけど、食べる？` "Eu trouxe pão, (mas) você quer?"
 - `けれども` Honorífico (Teineigo)
     - O `も` é opcional em contextos mais casuais.
 
@@ -453,6 +501,7 @@
 
 - `に` aponta para onde a ação é direcionada.
 - `で` indica os meios pela qual a ação ocorre (onde, como, etc).
+- Em termos de direção, pode-se pensar que `に` indica onde algo ESTÁ, e `で` indica onde algo ACONTECE.
 - Alguns verbos só podem ser completados no seu destino, e nestes casos devem usar `に`. Ex.: `住む` "morar".
 
 ### に vs と
@@ -465,13 +514,17 @@
 
 - `ので・なので` é mais suave (portanto mais educado), com um tom explicativo-observativo: "como X ocorreu, então Y ocorreu".
     - Indica uma consequência lógica (resultado): Y ocorreu porque X ocorreu, porém poderia ter ocorrido sem X.
+        - Ou seja, não é naturalmente usado com suposições e opiniões.
 - `から・だから` é mais explícito, tem um tom mais justificativo: "Y aconteceu por causa de X".
     - Indica uma causalidade (causa): Y ocorreu por causa de X, não poderia ter ocorrido sem X.
+- Devido a essa distinção entre o foco lógico e o causativo, `ので` é melhor traduzido como "devido a" e `から` como "porque/por causa de".
+- Essas formas são mais comuns para representar "porque" em frases conjuntivas. Em frases onde busca-se simplesmente responder uma pergunta, é mais comum utilizar os explicativos `んだ・んです・のだ・のです` e a abreviação de `ので`: `んで`.
 
 ### と vs ば vs たら・だら vs なら
 
 - Apenas `と` e `たら・だら` são partículas.
 - `と` indica um resultado inevitável, uma implicação lógica "se... então...".
+    - Também é comumente para demonstrar o que ocorre em situações hipotéticas. Ex.: `開けると、見てください` "Quando você abrir, olhe" (ao demonstrar algo abrindo).
 - `ば` é uma condicional geral.
     - Lógico e portanto indica hipótese.
     - É mais rígida, geralmente indicando "se e somente se".
@@ -492,8 +545,11 @@
     - Frequentemente sufixado a `ている`.
 - `うちに` indica um prazo, implicando que algo acontece antes da situação mudar. "Enquanto ainda"
 
-### だけ vs しか vs ばかり
+### だけ vs しか vs ばかり vs ただ
 
 - `だけ` é quantativo, indica uma opção entre mais de uma.
 - `しか` indica insuficiência, apenas uma opção existente.
 - `ばかり` indica frequência ou excesso.
+- `ただ` indica que algo é "nada além de", "nada de especial".
+    - Usado no começo de frases, costuma acompanhar a partícula `の`.
+    - Não é uma partícula.

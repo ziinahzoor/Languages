@@ -33,6 +33,7 @@
 - `Goutte` Gota
 - `Réchauffement climatique` Aquecimento global
 - `Énergie` Energia
+- `Dune` Duna
 
 ### Les Arbres et les Plantes - Árvores 🚹 e Plantas
 
@@ -52,11 +53,11 @@
 - `Métal` Metal
 - `Verre` Vidro
 
-### Desastres
+### Les Catastrophes - Desastres 🚺
 
 - `Incendie` Incêndio
 
-#### Les Intempéries - Mau tempo 🚺
+#### Les Intempéries et les Catastrophes Naturelles - Mau tempo 🚺 e Desastres Naturais 🚺
 
 - `Avalanche`
 - `Inondation` Inundação/Enchente
@@ -93,6 +94,7 @@
 - `Four` Forno
 - `Bol` Tigela 🚹
 - `Saladier` Tigela 🚹
+- `Carafe` Jarra
 - `Évier` Pia 🚹
 - `Nappe` Toalha de mesa
 - `Lave-vaisselle` Lava-louça 🚹
@@ -104,6 +106,7 @@
 ### La Salle de Bain - Banheiro
 
 - `Médicament` Medicamento/Remédio
+    - `Remède de grand-mère` Remédio caseiro
 - `Serviette` Toalha
 - `Douche` Chuveiro/Banho 🚺
 - `Lavabo` Pia 🚹
@@ -126,6 +129,11 @@
 - `Drap` Lençol
 - `Table de chevet` Mesa de cabeceira
 
+### Quintal
+
+- `Boîte aux lettres` Caixa de correios
+    - `Boîte postale` Alternativa
+
 ### Outros
 
 - `Placard` Armário
@@ -146,9 +154,12 @@
 - `Stylo` Caneta 🚹
 - `Surligneur` Marca-texto
 - `Lettre` Carta
+    - `Lettre recommandée` Carta registrada
 - `Cadeau` Presente
 - `Journal` Jornal/Diário
-    - `Journal intime` Diário
+    - `Journal intime` Diário (pessoal)
+    - `Quotidien` Jornal diário
+    - `Hebdomadaire` Jornal semanal/Revista 🚹
 - `Portrait` Retrato
 - `Photo` Foto
 - `Dictionnaire` Dicionário
@@ -249,6 +260,14 @@
 - `Étiquette` Etiqueta/Rótulo 🚺
 - `Chariot` Carrinho
 - `Panier` Cesta 🚹
+- `Carte Vitale` Cartão Vital 🚺
+    - Cartão de plano de saúde do serviço de saúde público francês.
+- `Toile` Tela
+- `Pièce d'identité` Documento de identidade 🚺
+- `Carte nationale d'identité` Carteira de identidade
+    - `CNI` Acrônimo
+- `Carte SIM` Chip de celular 🚺
+- `Colis` Pacote
 
 ### Les Appareils Électriques et Électroniques - Elétricos e Eletrônicos
 
@@ -277,7 +296,7 @@
 - `Ventilateur` Ventilador
 - `Batterie` Bateria
 - `Pile` Pilha
-- `Écran` Tela 🚹
+- `Écran` Tela/Monitor (eletrônica) 🚹
 - `Aspirateur` Aspirador
 - `Calculatrice` Calculadora
 - `Câble` Cabo
@@ -344,7 +363,6 @@
 - `Page` Página
 - `Leçon` Lição
 - `Température` Temperatura
-- `Rencard` Encontro
 - `Sommeil` Sono
 - `Rêve` Sonho
 - `Cauchemar` Pesadelo
@@ -360,6 +378,10 @@
 - `Secours` Socorro
 - `Langue` Língua
 - `Langage` Linguagem 🚹
+- `Linguistique` Linguística
+- `Créole` Crioulo (linguagem)
+- `Dialecte` Dialeto
+- `Diglossie` Diglossia
 - `Phrase` Frase
 - `Paragraphe` Parágrafo
 - `Information` Informação/Notícia
@@ -367,6 +389,7 @@
         - Também pode significar "noticiário".
 - `Intox` Notícia falsa
 - `Fait` Fato
+    - `Fait divers` Fato chocante
 - `Liaison` Ligação/Vínculo 🚺
 - `Renseignement` Informação/Pista 🚹
 - `Vie` Vida
@@ -386,6 +409,7 @@
 - `Repos` Repouso
 - `Sourire` Sorriso
 - `Taille` Tamanho/Altura
+- `Poiture` Tamanho do calçado 🚺
 - `Promotion` Promoção
 - `Ménage` União (entre duas pessoas)
 - `Vue` Visão/Vista
@@ -420,6 +444,7 @@
 - `Lune de miel` Lua de mel
 - `Bazar` Velharia/Porcaria 🚹
 - `Liste` Lista
+    - `Liste de courses` Lista de compras
 - `Note` Nota
 - `Erreur` Erro 🚺
 - `Exemple` Exemplo
@@ -509,7 +534,7 @@
 - `Tradition` Tradição
 - `Collection` Coleção
 - `Œuvre` Obra
-- `Chef-d'œuvre` Obra-prima 🚹
+    - `Chef-d'œuvre` Obra-prima 🚹
 - `Acte` Ato
 - `Train-train` Rotina 🚹
 - `Remboursement` Reembolso
@@ -521,12 +546,13 @@
 - `Stratégie` Estratégia
 - `Performance` Desempenho 🚺
 - `Donnée` Dado 🚺
+    - `Données personnelles` Dados pessoais 🚺
+    - `Coordonées` Dados de contato 🚺
 - `Augmentation` Aumento 🚺
 - `Manque` Falta/Ausência 🚹
 - `Échéance` Prazo/Vencimento 🚺
 - `Ordre du jour` Pauta/Agenda 🚹
 - `Taux` Taxa 🚹
-- `Coordonées` Dados de contato 🚺
 - `Étape` Etapa
 - `Malentendu` Mal-entendido
 - `Stéréotype` Estereótipo
@@ -570,6 +596,116 @@
 - `Lignée` Linhagem
 - `Atout` Trunfo
 - `Témoignage` Testemunho/Depoimento
+- `Exagération` Exagero
+- `Idée reçue` Crença popular/Pré-conceito/Estereótipo
+- `Deepfake`
+    - `Hypertrucage` Quebec
+- `Fake news` Notícia falsa
+- `Handicap` Deficiência 🚹
+- `Prise en charge` Cuidado/Tratamento (Enfermagem) 🚺
+- `Inégalité` Desigualdade
+- `Version papier` Versão impressa
+- `Version en ligne` Versão online
+- `Caricature` Caricatura
+- `Censure` Censura
+- `Menace` Ameaça
+- `Indépendance` Independência
+- `Enquête` Investigação
+- `Rumeur` Rumor 🚺
+- `Source` Fonte
+- `Potin` Fofoca 🚹
+- `Conséquence` Consequência
+- `Dégât` Dano
+- `Disparition` Desaparecimento 🚺
+- `Assassinat` Assassinato
+- `Rebondissement` Reviravolta 🚹
+- `Prétexte` Pretexto
+- `Mondialisation` Globalização
+- `Interdépendance` Interdependência
+- `Racine` Raíz
+- `Main-d'œuvre` Mão de obra
+- `Savoir-faire` Saber-fazer/Conhecimento prático/Conhecimento especializado
+- `Mésaventure` Desventura/Infortúnio 🚺
+- `Mutuelle` Plano de saúde (privado) 🚺
+- `Coup de gueule` Bravata/Desabafo 🚹
+- `Diktat de la beauté` Padrão de beleza
+- `Discrimination` Discriminação
+- `Sexisme` Sexismo
+- `Jeunisme` Etarismo
+- `Parité` Paridade/Igualdade
+    - Geralmente se refere à igualdade de gênero
+- `Misogynie` Misoginia
+- `Loi` Lei
+- `Utopie` Utopia
+- `Dystopie` Distopia
+- `Apocalypse` Apocalipse 🚺
+- `Légende` Lenda
+- `Mythe` Mito
+- `Morale` Moral
+- `Quête` Jornada/Busca
+- `Dénouement` Resultado/Fim
+- `Politique de confidentialité` Política de privacidade
+- `Publicité ciblée` Publicidade direcionada
+- `Géolocalisation` Geolocalização
+- `Reconnaissance faciale` Reconhecimento facial 🚺
+- `Vidéosurveillance` Videovigilância
+- `Grève` Greve
+- `Manifestation` Manifestação
+- `Réforme` Reforma
+    - `Réforme des retraits` Reforma da previdência
+- `Revendication` Reivindicação
+- `Mobilisation` Mobilização
+- `Retraite` Aposentadoria
+- `Contrainte` Restrição
+- `Retombée` Efeito colateral 🚺
+- `Préservation` Preservação/Conservação
+- `Patrimoine` Patrimônio
+- `Impact` Impacto
+- `Gentrification` Gentrificação
+- `Obsolescence` Obsolescência
+- `Effet de mode` Modismo/Moda passageira 🚹
+- `Taux` Taxa 🚹
+- `Croissance` Crescimento 🚺
+- `Déficit`
+- `Excédent` Superávit/Excedente
+- `Dérapage` Derrapagem
+- `Dette` Dívida
+- `Trame` Enredo/Trama 🚺
+- `Colonie` Colônia
+- `Puissance` Potência
+- `Flux` Fluxo
+- `Métissage` Miscigenação 🚹
+- `Abolition` Abolição
+- `Esclavage` Escravidão 🚹
+- `Monarchie` Monarquia
+- `Peine` Pena
+- `Prison à perpétuité` Prisão perpétua
+- `Croûte` Crosta
+    - Também usado para se referenciar a uma pintura ruim.
+- `Définition` Definição/Conceito
+- `Illustration` Ilustração
+- `Dénomination` Designação
+- `Énumération` Enumeração
+- `Reformulation` Reformulação
+- `Contre-exemple` Contraexemplo
+- `Contradiction` Contradição
+- `Raisonnement` Raciocínio/Argumentação 🚹
+- `Critique` Crítica
+- `Emprunt` Empréstimo
+- `Justificatif de domicile` Comprovante de endereço
+- `Forfait mobile` Plano de celular
+- `Opérateur mobile` Operadora de celular 🚹
+- `Emploi du temps` Cronograma
+- `Laïcité` Laicidade
+- `Principe` Princípio
+- `Devise` Lema 🚺
+
+### Les figures de style - Figuras de linguagem
+
+- `Métaphore` Metáfora
+- `Hyperbole` Hipérbole
+- `Oxymore` Oximoro
+- `Personnification` Prosopopeia
 
 ### Sentimentos, condições e emoções
 
@@ -602,8 +738,14 @@
 - `Doute` Dúvida 🚹
 - `Béguin` Paixonite 🚹
 - `Souci` Preocupação/Problema 🚹
-- `Deepfake`
-    - `Hypertrucage` Quebec
+- `Désillusion` Desilusão
+- `Effort` Esforço
+- `Peur` Medo (instintivo) 🚺
+- `Crainte` Medo/Receio/Preocupação 🚺
+- `Flemme` Preguiça
+- `Mécontentement` Descontentamento
+    - `Ras-le-bol` Informal
+- `Symptôme` Sintoma
 
 ### Unidades de medida
 
@@ -652,6 +794,7 @@
 
 - `Voiture` Carro 🚺
     - `Bagnole/Caisse` Gírias 🚺
+    - `Char` Quebecois 🚹
 - `Camion` Caminhão
 - `Camionnette` Van
 - `Train` Trem 🚺
@@ -688,6 +831,10 @@
 - `Série`
     - Em tese. especifica uma série com episódios independentes, mas hoje costumar ser utilizado para englobar qualquer tipo de série.
 - `Film` Filme
+    - `Court-métrage` Curta-metragem
+    - `Long-métrage` Longa-metragem
+    - `Film d'auteur` Filme autoral
+    - `Biopic` Filme biográfico/Cinebiografia 🚹
 - `Émission` Programa 🚺
 - `Épisode` Episódio
 - `Jeu` Jogo/Atuação
@@ -723,12 +870,26 @@
 - `Blog`
 - `Révision` Revisão
 - `Essor` Voo/Decolagem/Elevação
+    - Figurativamente, "ascenção", "crescimento".
 - `Entretien` Entrevista 🚹
 - `Livraison à domicile` Entrega a domicílio
 - `Chasse` Caça
-- `Entretien` Entrevista 🚹
 - `Expérience` Experimento/Experiência 🚺
 - `Rencontre` Encontro/Reunião 🚺
+- `Apprentissage` Aprendizagem
+- `Concours` Concurso/Vestibular
+- `Conte` Conto
+- `Fable` Fábula
+- `Pistage` Rastreamento
+- `Débat` Debate
+- `Chirurgie` Cirurgia
+- `Vente aux enchères` Leilão 🚺
+- `Tournage` Filmagem 🚹
+- `La mise en scène` Direção (teatro, cinema)
+- `Montage` Edição 🚹
+- `Grasse matinée` Dormir até mais tarde 🚺
+- `Défilé` Desfile
+- `Consultation` Consulta
 
 ### Le Travail - Trabalho
 
@@ -747,6 +908,21 @@
 - `Savoir-être` Competência interpessoal/Soft skill 🚹
 - `CV` Currículo
 - `Stage` Estágio
+- `Contrat à durée déterminée` Contrato por tempo determinado
+    - `CDD` Abreviação
+- `Contrat à durée indéterminée` Contrato por tempo indeterminado
+    - `CDI` Abreviação
+- `Réduction du Temps de Travail` Redução do tempo de trabalho
+    - Solução para evitar que trabalhadores franceses trabalhem mais de 35 horas semanais, garantindo horas as extras trabalhadas como tempo de descanso.
+    - `RTT` Abreviação
+- `Entretien d'embauche` Entrevista de emprego 🚹
+- `Télétravail` Teletrabalho/Home office
+- `Arrêt maladie` Licença médica 🚹
+    - `Congé maladie` Alternativa 🚹
+- `Congé` Licença/Folga/Férias 🚹
+    - `Congés payés` Férias remuneradas 🚹
+    - `Congé sans solde` Folga não-remunerada 🚹
+    - `Congé de maternité` Licença-maternidade 🚹
 
 ### Les Événements - Eventos
 
@@ -761,6 +937,7 @@
 - `Excursion` Excursão
 - `Rentrée des classes` Volta às aulas
 - `Épreuve` Prova/Teste 🚺
+- `Mouvement social` Movimento social/Protesto público
 
 ### Compras e dinheiro
 
@@ -772,6 +949,7 @@
         - `Carte bleue` Alternativa
     - `Carte de crédit` Cartão de crédito 🚺
     - `Carte sans contact` Cartão contactless/por aproximação
+- `Compte courant` Conta corrente 🚹
 - `Billet` Nota/Entrada 🚹
 - `Pièce` Moeda
 - `Argent` Dinheiro/Prata
@@ -795,6 +973,13 @@
 - `Commerce de détail/Vente au détail` Varejo 🚺
 - `Bourse` Bolsa (benefício financeiro)
 - `Caution` Caução 🚺
+- `Produit Intérieur Brut` Produto Interno Bruto
+    - `PIB` Abreviação
+- `Inflation` Inflação
+- `Relevé d'identité bancaire` Dados bancários
+    - `RIB` Acrônimo
+- `Bail` Arrendamento/Contrato de aluguel
+- `Dépot de garantie` Caução
 
 ### L'Étude - Estudo 🚺
 
@@ -848,10 +1033,16 @@
 - `Lettres` Letras
 - `Littérature` Literatura
 
+### L'Art - Arte 🚹
+
+- `Cubisme` Cubismo
+- `Pop art` 🚹
+
 ### Gêneros
 
 - `Comédie` Comédia
 - `Fiction` Ficção
+- `Science-fiction` Ficção científica
 - `Action` Ação
 - `Drame` Drama
 
@@ -898,6 +1089,7 @@
 - `Musique` Música
     - `Zik` Verlan
 - `Chanson` Canção
+    - `Toune` Quebecois
 - `Chant` Canção/Canto 🚹
 - `Album` Álbum
 - `Rap`

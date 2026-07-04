@@ -5,7 +5,7 @@
         <td><a href="#progressivo-resultativa">Progressivo-resultativa (て+いる)</a></td>
         <td><a href="#resultativa">Resultativa (て+ある)</a></td>
         <td><a href="#continuativa-futura">Continuativa futura (て+いく)</a></td>
-        <td><a href="#continuativa-passada">Continuativa passada (て+きる)</a></td>
+        <td><a href="#continuativa-passada">Continuativa passada (て+くる)</a></td>
     </tr>
     <tr>
         <td><a href="#tentativa">Tentativa (て+みる)</a></td>
@@ -37,14 +37,17 @@
 - No contexto empresarial, `いる` costuma ser substituído por sua contraparte kenjougo `おる`.
 - Representa duas funções ou aspectos da linguagem: <font size="5"><code><ruby>進<rt>しん</rt>行<rt>こう</rt>形<rt>けい</rt></ruby></code></font> (progressiva ou continuativa) e <font size="5"><code><ruby>完<rt>かん</rt>了<rt>りょう</rt>形<rt>けい</rt></ruby></code></font> (resultativa).
     - A forma progressiva diz respeito a uma ação que está em andamento.
+        - Utilizada com verbos cuja ação tem uma determinada duração, como "comer".
         - É como se forma o gerúndio.
-    - A forma resultativa diz respeito a um estado resultante de uma ação concluída.
-        - É como se transformassemos o verbo em um adjetivo (algo está...ado/ido).
+    - A forma resultativa diz respeito a um estado resultante de uma ação concluída. É interessante pensar como um "efeito persistente" ou "remanescente".
+        - Utilizada com verbos que indicam uma ação instantânea, como "desligar" e "morrer". Ou seja, descreve o resultado de uma mudança.
+        - Muitas das vezes esses verbos são intransitivos.
+        - É como se transformassemos o verbo em um particípio (algo está...ado/ido).
         - Tem o sentido de "existir no estado da ação". "Fiz algo e continuo fazendo/estando assim".
-        - Também deve ser usada para verbos que indicam mudança instantânea de estado, como desligar e morrer. Descreve o resultado de uma mudança.
-    - Ou seja, com essa forma assumindo duas funções, `開いている` pode ser tanto "abrindo" quanto "está aberto" (existir no estado aberto).
-        - No último caso, também pode-se pensar como uma forma estática do verbo, como um adjetivo.
-    - Outro exemplo: `水を飲んでいます` pode ser tanto "Estou bebendo água" quanto "A água está bebida (por mim)". Nestes casos, o sentido é dado pelos advérbios, como `もう` indicaria o último caso.
+    - Alguns verbos com ações instantâneas podem ter pequenas durações, e portanto a forma pode ser tanto progressiva quando resultativa. Por padrão, exceto quando explícito pelo contexto, sempre assume-se a forma resultativa.
+        - Ou seja, `開いている` pode ser tanto "abrindo" quanto "está aberto" (existir no estado aberto), porém se não estiver explícito pelo contexto, presume-se o último caso.
+        - Outro exemplo: `水を飲んでいます` pode ser tanto "Estou bebendo água" quanto "A água está bebida (por mim)". Nestes casos, o sentido é dado pelos advérbios, como `もう` indicaria o último caso.
+        - É comum o estado progressivo desses verbos ser expresso por outras construções, como a forma `てくる`, base-い + `かける` e também `ようになる`.
 - Também indica hábitos e atividades que se repetem.
     - Neste caso costuma acompanhar expressões de tempo.
 - Se usada com `もう` e `まだ`, indica que algo já aconteceu ou ainda não aconteceu, respectivamente.
@@ -61,18 +64,25 @@
 
 <h2 id="var_continuativa-futura">Forma て+いく - Continuativa futura</h2>
 
-- Indica uma ação que vai continuar acontecendo ou que vai gradualmente transicionar.
+- Indica uma ação que vai continuar acontecendo ou que vai gradualmente transicionar, como "ir fazendo".
 - "Continuar a"/"Começar a".
 
-<h2 id="var_continuativa-passada">Forma て+きる - Continuativa passada</h2>
+<h2 id="var_continuativa-passada">Forma て+くる - Continuativa passada</h2>
 
-- Indica que uma ação vem acontecendo até o momento ou alcançou um certo estado.
+- Indica que uma ação vem acontecendo até o momento ou alcançou um certo estado, como na construção "vir fazendo".
 
 <h2 id="var_tentativa">Forma て+みる - Tentativa</h2>
 
 - Significa experimentar fazer a ação do verbo (com o interesse de ver o resultado).
 - Similar em nuance ao português "eu vou ver se...".
 - Quando usado como sugestão ou pedido, pode ser abreviado para `てみ`.
+
+<h2 id="var_tentativa-imperativa">Forma て+ごらん - Tentativa imperativa</h2>
+
+- Similar à forma `てみる`, porém é utilizada para incentivar ou sugerir alguém a tentar ou a olhar alguma coisa.
+- É um comando leve a tem a nuance de haver urgência em realizar a ação, sendo realizada quando a pessoa sentir vontade.
+- É honorífica, portanto não é utilizada com as próprias ações.
+- Costuma ser utilizada como `てごらんなさい` por superiores ou pessoas mais velhas.
 
 <h2 id="var_concessiva">Forma て+も - Concessiva</h2>
 
@@ -97,6 +107,7 @@
     - Em casos onde o resultado negativo fica implícito ou óbvio é possível omitir a segunda frase. Ex.: `私も頑張らなくては` "Se eu não der o meu melhor também..." (Ao ver alguém ser demitido).
     - Comumente usado com `だめ`, `いけない` e `ならない`.
 - `ては` pode ser abreviado para `ちゃ` e `では` pode ser abreviado para `じゃ`.
+    - Pode soar um pouco feminino
 
 <h2 id="var_proibitiva">Forma て+は+いけない - Proibitiva</h2>
 
@@ -104,6 +115,7 @@
 - É mais autoritária e restritiva que `ないで`, que tem um tom de aviso ou pedido.
 - `いけない` pode ser trocado pela versão mais educada `いけません`, ou de forma mais comum na escrita, `ならない`. Casualmente também pode ser trocado por `ダメ` na conversação.
 - Muitas vezes o `ては` também é abreviado para `ちゃ` (e o `では` para `じゃ`).
+    - Pode soar um pouco feminino
 
 <h2 id="var_obrigativa">Forma なく+て+は+いけない - Obrigativa</h2>
 
@@ -111,7 +123,9 @@
 - É uma negação dupla da forma proibitiva, fazendo uma afirmação: "não se deve não fazer...".
 - Vale lembrar que `なく` é a forma conjuntiva de `ない`.
 - Muitas vezes a forma completa é abreviada apenas para `なくちゃ`.
+    - Pode soar um pouco feminino
 - Também pode ser escrita através da construção condicional `なければ` ao invés de `なくては`, que pode ser abreviada para `なきゃ`.
+    - A construção condicional é mais utilizada para a forma obrigativa, o que ajuda a distinguir melhor da forma proibitiva.
 - `いけない` também pode ser substituído por `ならない`.
     - Tem uma nuance menos pessoal, como a obrigação vir de uma lei, regra, ou expectativa social.
     - Tem uma nuance mais forte e portanto indica ações que não podem, em hipótese alguma, deixar de ser feitas.
@@ -153,7 +167,7 @@
 
 <h2 id="var_antecipativa">Forma て+おく - Antecipativa</h2>
 
-- Indica que a ação foi feita com antecedência, em preparação ou antecipação a alguma coisa, seja para facilitar, prevenir ou por qualquer outro motivo.
+- Indica que a ação foi feita com antecedência, em preparação ou antecipação a alguma coisa, seja para facilitar, prevenir ou por qualquer outro motivo, como a construção "deixar feito" ou "fazer de antemão".
 - Em mangás e programas de TV costuma ser abreviado para `とく` e `どく`.
 
 <h2 id="var_sequencial">Forma て+から - Sequencial</h2>
@@ -164,7 +178,7 @@
 
 <h2 id="var_completa">Forma て+しまう - Não-intencional/Completa</h2>
 
-- Indica que algo foi feito acidentalmente ou de forma não-intencional, como a construção "acabei fazendo".
+- Indica que algo foi feito acidentalmente ou de forma não-intencional, como a construção "acabar fazendo".
 - Também indica que uma ação foi feita completamente. As funções só podem ser diferenciadas pelo contexto.
 - Se colocarmos em um sentido único, é dizer que algo chegou em um ponto em que não é possível voltar atrás, mesmo que seja algo temporário.
     - Ou seja, similar ao "ficou" do português. Ex.: `彼は恐怖で青くなってしまった` "Ele ficou (completamente ou não intencionalmente) azul de medo".

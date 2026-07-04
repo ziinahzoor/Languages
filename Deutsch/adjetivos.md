@@ -61,7 +61,6 @@
 - `Nah` Próximo (área)
     - `Nächste` O mais próximo
 - `Krank` Doente
-- `Müde` Cansado
 - `Süß` Doce
     - `Süss` Suiça
 - `Getrennt` Separado
@@ -69,6 +68,8 @@
 - `Kaputt` Quebrado/Destruído
 - `Hungrig` Esfomeado
 - `Gesund` Saudável
+- `Schmutzig` Sujo
+- `Fertig` Pronto
 
 ## Nacionalidades
 

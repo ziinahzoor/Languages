@@ -14,6 +14,7 @@
     - As leituras chinesas podem chegar a três formas vindas de diferentes períodos, chamadas <font size="5"><code><ruby>呉<rt>ご</rt>音<rt>おん</rt></ruby></code></font>, <font size="5"><code><ruby>漢<rt>かん</rt>音<rt>おん</rt></ruby></code></font> e <font size="5"><code><ruby>唐<rt>とう</rt>音<rt>おん</rt></ruby></code></font>.
     - Se o kanji está isolado, geralmente a leitura é 訓読み. Números são uma exceção.
     - Se o kanji é 熟語 e não possui 送り仮名, geralmente a leitura é 音読み.
+        - Algumas exceções em palavras relacionadas à natureza, direções cardinais e nomes.
     - Se o kanji possui 送り仮名, geralmente a leitura é 訓読み.
 - Os kanji criados exclusivamente no Japão são chamados <font size="5"><code><ruby>国<rt>こく</rt>字<rt>じ</rt></ruby></code></font> ou <font size="5"><code><ruby>和<rt>わ</rt>製<rt>せい</rt>漢<rt>かん</rt>字<rt>じ</rt></ruby></code></font>.
     - Por serem majoritariamente exclusivos do Japão (alguns foram levados para a China), geralmente só possuem leitura 訓読み.

@@ -1,6 +1,7 @@
 # <ruby>服<rt>ふく</rt></ruby> - Roupas
 
 - <font size="5"><code><ruby>洋<rt>よう</rt>服<rt>ふく</rt></ruby></code></font> Roupa (ocidental)
+- <font size="5"><code><ruby>服<rt>ふく</rt>装<rt>そう</rt></ruby></code></font> Traje/Vestimenta
 
 ## Cabeça
 
@@ -9,6 +10,7 @@
 - `キャップ` Boné
 - <font size="5"><code><ruby>眼<rt>め</rt>鏡<rt>がね</rt></ruby></code></font> Óculos
     - `サングラス` Óculos de sol
+- `コンタクト` Lentes de contato
 - `マスク` Máscara
 - `イアリング` Brinco
 - <font size="5"><code><ruby>兜<rt>かぶと</rt></ruby></code></font> Elmo
@@ -22,6 +24,7 @@
 - `ブラウス` Blusa
 - `セーター` Suéter
 - `パーカー` Moletom
+- `トレーナー` Moletom (esportivo)
 - <font size="5"><code><ruby>上<rt>うわ</rt>着<rt>ぎ</rt></ruby></code></font> Jaqueta/Casaco
     - Qualquer coisa que cobre a blusa.
 - <font size="5"><code><ruby>下<rt>した</rt>着<rt>ぎ</rt></ruby></code></font> Roupa íntima
@@ -31,6 +34,7 @@
 - `ドレス` Vestido formal
 - <font size="5"><code><ruby>水<rt>みず</rt>着<rt>ぎ</rt></ruby></code></font> Traje de banho
 - `ネクタイ` Gravata
+- `スカーフ` Cachecol
 - <font size="5"><code><ruby>制<rt>せい</rt>服<rt>ふく</rt></ruby></code></font> Uniforme
 - `スーツ` Traje/Terno
 - <font size="5"><code><ruby>背広<rt>せびろ</rt></ruby></code></font> Terno
@@ -61,7 +65,7 @@
     - `ブーツ` Bota
     - `スニーカー` Tênis
     - `サンダル` Sandália
-    - `スリッパ` Chinelo
+    - `スリッパ` Chinelo/Pantufa
 - <font size="5"><code><ruby>靴<rt>くつ</rt>下<rt>した</rt></ruby></code></font> Meia
 
 ## アクセサリー - Acessórios

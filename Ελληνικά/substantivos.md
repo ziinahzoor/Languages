@@ -128,6 +128,7 @@
 ### Elétricos e Eletrônicos
 
 - `Τηλέφωνο` Telefone ✴️
+    - `Κινητό τηλέφωνο` Telefone celular ✴️
 - `Κινητό` Celular ✴️
 - `Τηλεόραση` Televisão
 - `Ραδιόφωνο` Rádio ✴️
@@ -182,6 +183,7 @@
 - `Τύπος` Tipo
 - `Επείγον` Urgência ✴️
 - `Ενδιαφέρον` Interesse ✴️
+- `Κακό` Mau ✴️
 
 ### Medidas
 

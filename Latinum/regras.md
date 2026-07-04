@@ -78,6 +78,7 @@
 
 - Pode-se adicionar o sufixo `-ne` à primeira palavra da frase para indicar uma pergunta. Não é obrigatório.
 - Para fazer uma pergunta cuja resposta esperada é negativa, usa-se o advérbio `num`. Ex.: `Num Sparta insula est?` "Esparta não é uma ilha, é?"
+- Para fazer uma pergunta cuja resposta esperada é positiva, usa-se o advérbio `nonne`. Ex.: `Nonne Creta insula est?` "Creta não é uma ilha?!"
 
 ## Negação
 

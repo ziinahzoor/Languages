@@ -36,6 +36,8 @@
 - `ライオン` Leão
 - `ゾウ` Elefante
 - `オオカミ` Lobo
+- `パンダ` Panda
+- `レッサーパンダ` Panda vermelho
 
 #### げっ<ruby>歯<rt>し</rt>類<rt>るい</rt></ruby> - Roedores
 
@@ -44,6 +46,8 @@
 
 ### <ruby>鳥<rt>とり</rt></ruby> - Pássaros/Aves
 
+- <font size="5"><code><ruby>小<rt>こ</rt>鳥<rt>とり</rt></ruby></code></font> Passarinho/Pintinho
+- `ひな` Pintinho
 - `カモ` Pato
 - `ハト` Pombo
 - `ワシ` Águia
@@ -58,6 +62,7 @@
 ## <ruby>海<rt>かい</rt>生<rt>せい</rt>動<rt>どう</rt>物<rt>ぶつ</rt></ruby> - Animais marinhos
 
 - <font size="5"><code><ruby>亀<rt>かめ</rt></ruby></code></font> Tartaruga
+- `すっぽん` Tartaruga-de-casco-mole
 - `タコ` Polvo
 - `イカ` Lula
 - <font size="5"><code><ruby>海胆<rt>うに</rt></ruby></code></font> Ouriço-do-mar
@@ -82,11 +87,16 @@
 - `ゴキブリ` Barata
 - <font size="5"><code><ruby>蚊<rt>か</rt></ruby></code></font> Mosquito
 - <font size="5"><code><ruby>蠅<rt>はえ</rt></ruby></code></font> Mosca
+- <font size="5"><code><ruby>蝉<rt>せみ</rt></ruby></code></font> Cigarra
 
 ## クモ<ruby>形<rt>がた</rt>類<rt>るい</rt></ruby>・クモ<ruby>類<rt>るい</rt></ruby> - Aracnídeos
 
 - `クモ` Aranha
 - `サソリ` Escorpião
+
+## Extintos
+
+- <font size="5"><code><ruby>恐<rt>きょう</rt>竜<rt>りゅう</rt></ruby></code></font> Dinossauro
 
 ## Mitológicos
 
@@ -111,3 +121,6 @@
 ## Relacionado
 
 - <font size="5"><code><ruby>餌<rt>えさ</rt></ruby></code></font> Ração/Isca/Comida de animal
+- `おす` Macho
+- `めす` Fêmea
+- <font size="5"><code><ruby>巣<rt>す</rt></ruby></code></font> Ninho

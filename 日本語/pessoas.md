@@ -4,16 +4,19 @@
 
 ## Genéricas e grupos de pessoas
 
-- <font size="5"><code><ruby>方<rt>かた</rt></ruby></code></font> Pessoa (Sonkeigo)
-    - Geralmente pode substituir `人`.
+- <font size="5"><code><ruby>人<rt>ひと</rt></ruby></code></font> Pessoa
+    - Também pode ser usado para referenciar "pessoas" em geral, ou seja, "outras pessoas".
+    - <font size="5"><code><ruby>方<rt>かた</rt></ruby></code></font> Sonkeigo
 - <font size="5"><code><ruby>人<rt>にん</rt>間<rt>げん</rt></ruby></code></font> Humano
 - <font size="5"><code><ruby>人<rt>じん</rt>類<rt>るい</rt></ruby></code></font> Humanidade
 - <font size="5"><code><ruby>皆<rt>みんな</rt></ruby></code></font> Todos/Pessoal/Todo mundo
     - <font size="5"><code><ruby>皆<rt>みな</rt></ruby></code></font> Quando usado com honoríficos.
+- <font size="5"><code><ruby>全<rt>ぜん</rt>員<rt>いん</rt></ruby></code></font> Todos (os membros de um grupo)
 - <font size="5"><code><ruby>大<rt>おお</rt>勢<rt>ぜい</rt></ruby></code></font> Multidão
 - <font size="5"><code><ruby>人<rt>じん</rt>口<rt>こう</rt></ruby></code></font> População
 - <font size="5"><code><ruby>国<rt>こく</rt>民<rt>みん</rt></ruby></code></font> O Povo/A Nação
 - <font size="5"><code><ruby>社<rt>しゃ</rt>会<rt>かい</rt></ruby></code></font> Sociedade
+- <font size="5"><code><ruby>世<rt>よ</rt></ruby>の<ruby>中<rt>なか</rt></ruby></code></font> O Mundo
 - <font size="5"><code><ruby>集<rt>あつ</rt></ruby>まり</code></font> Público
 - <font size="5"><code><ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby></code></font> Ser-vivo/Criatura
 - <font size="5"><code><ruby>生<rt>せい</rt>物<rt>ぶつ</rt></ruby></code></font> Ser-vivo/Organismo
@@ -22,6 +25,9 @@
 - `グループ` Grupo
 - <font size="5"><code><ruby>二人<rt>ふたり</rt></ruby>とも</code></font> Ambos/Os dois
     - <font size="5"><code><ruby>両<rt>りょう</rt>方<rt>ほう</rt></ruby>とも</code></font> Alternativa
+- <font size="5"><code><ruby>仲<rt>なか</rt>間<rt>ま</rt></ruby></code></font> Grupo/Classe/Categoria/Companhia
+    - Também pode indicar um "companheiro", "camarada".
+- <font size="5"><code><ruby>観<rt>かん</rt>客<rt>きゃく</rt></ruby></code></font> Audiência
 
 ## Identidade
 
@@ -31,16 +37,22 @@
     - Demográfico, geralmente se refere a homens.
 - <font size="5"><code><ruby>大人<rt>おとな</rt></ruby></code></font> Adulto
 - <font size="5"><code><ruby>成<rt>せい</rt>人<rt>じん</rt></ruby></code></font> Adulto (legalmente)
+- <font size="5"><code><ruby>社<rt>しゃ</rt>会<rt>かい</rt>人<rt>じん</rt></ruby></code></font> Adulto funcional
+- <font size="5"><code><ruby>男<rt>だん</rt>女<rt>じょ</rt></ruby></code></font> Homem e mulher
 - <font size="5"><code><ruby>女<rt>おんな</rt></ruby></code></font> Mulher
     - <font size="5"><code><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Honorífico
+    - <font size="5"><code><ruby>女<rt>じょ</rt>子<rt>し</rt></ruby></code></font> Moça
+    - `べっぴん` Mulher bonita
 - <font size="5"><code><ruby>女<rt>じょ</rt>性<rt>せい</rt></ruby></code></font> Feminino/Mulher
     - É mais usado para se referir ao sexo biológico, mas também é utilizado para se referir a uma pessoa.
     - É ainda mais respeitoso que <font size="5"><code><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font>.
 - <font size="5"><code><ruby>男<rt>おとこ</rt></ruby></code></font> Homem
     - <font size="5"><code><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Honorífico
+    - <font size="5"><code><ruby>少<rt>しょう</rt>年<rt>ねん</rt></ruby></code></font> Rapaz/Menino
 - <font size="5"><code><ruby>男<rt>だん</rt>性<rt>せい</rt></ruby></code></font> Masculino/Homem
     - É mais usado para se referir ao sexo biológico, mas também é utilizado para se referir a uma pessoa.
     - É ainda mais respeitoso que <font size="5"><code><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font>.
+- `イケめん` (Homem) Bonitão
 - <font size="5"><code><ruby>子<rt>こ</rt>供<rt>ども</rt></ruby></code></font> Criança
     - `ちび` Criancinha
     - `がき` Pirralho
@@ -65,6 +77,8 @@
 - `ベジタリアン` Vegetariano
 - `アイヌ` Ainu
 - <font size="5"><code><ruby>外<rt>がい</rt>国<rt>こく</rt>人<rt>じん</rt></ruby></code></font> Estrangeiro
+    - <font size="5"><code><ruby>外<rt>がい</rt>人<rt>じん</rt></ruby></code></font> Abreviação
+        - Às vezes pode ser considerada rude.
 - <font size="5"><code><ruby>女将<rt>おかみ</rt></ruby></code></font> Proprietária de um estabelecimento
 - <font size="5"><code><ruby>出<rt>しゅっ</rt>席<rt>せき</rt>者<rt>しゃ</rt></ruby></code></font> Participante
 - <font size="5"><code><ruby>独<rt>どく</rt>学<rt>がく</rt>者<rt>しゃ</rt></ruby></code></font> Autodidata
@@ -73,6 +87,19 @@
 - <font size="5"><code><ruby>悪<rt>あく</rt>役<rt>やく</rt></ruby></code></font> Vilão
 - `ばか` Estúpido/Idiota/Tolo
 - <font size="5"><code><ruby>市<rt>し</rt>民<rt>みん</rt></ruby></code></font> Cidadão
+- <font size="5"><code><ruby>恥<rt>は</rt></ruby>ずかしがり<ruby>屋<rt>や</rt></ruby></code></font> Tímido
+- <font size="5"><code><ruby>寝<rt>ね</rt>坊<rt>ぼう</rt></ruby></code></font> Dorminhoco
+- <font size="5"><code><ruby>朝<rt>あさ</rt>寝<rt>ね</rt>坊<rt>ぼう</rt></ruby></code></font> Dorminhoco (de manhã)
+- <font size="5"><code><ruby>怠<rt>なま</rt></ruby>け<ruby>者<rt>もの</rt></ruby></code></font> Preguiçoso
+- <font size="5"><code><ruby>恐<rt>こわ</rt></ruby>がり</code></font> Covarde
+
+### Criminosos
+
+- <font size="5"><code><ruby>痴<rt>ち</rt>漢<rt>かん</rt></ruby></code></font> Assediador/Molestador
+- <font size="5"><code><ruby>泥<rt>どろ</rt>棒<rt>ぼう</rt></ruby></code></font> Ladrão
+    - <font size="5"><code>こそ<ruby>泥<rt>どろ</rt></ruby></code></font> Gatuno/Ladrão sorrateiro
+- <font size="5"><code><ruby>殺<rt>さつ</rt>人<rt>じん</rt>犯<rt>はん</rt></ruby></code></font> Assassino
+- `やくざ` Yakuza/Gângster/Mafioso
 
 ## Status e condições
 
@@ -80,9 +107,14 @@
 - <font size="5"><code><ruby>金<rt>かね</rt>持<rt>も</rt></ruby>ち</code></font> Rico
 - <font size="5"><code><ruby>有<rt>ゆう</rt>名<rt>めい</rt>人<rt>じん</rt></ruby></code></font> Celebridade
 - <font size="5"><code><ruby>独<rt>どく</rt>身<rt>しん</rt></ruby></code></font> Solteiro
+    - Status formal.
+- `シングル` Solteiro
+    - Indica mais o estilo de vida.
 - <font size="5"><code><ruby>住<rt>じゅう</rt>民<rt>みん</rt></ruby></code></font> Morador
 - <font size="5"><code><ruby>犯<rt>はん</rt>人<rt>にん</rt></ruby></code></font> Culpado/Réu/Criminoso
-- <font size="5"><code><ruby>殺<rt>さつ</rt>人<rt>じん</rt>犯<rt>はん</rt></ruby></code></font> Assassino
+- <font size="5"><code><ruby>患<rt>かん</rt>者<rt>じゃ</rt></ruby></code></font> Paciente
+- <font size="5"><code><ruby>聞<rt>き</rt></ruby>き<ruby>手<rt>て</rt></ruby></code></font> Ouvinte/Entrevistador
+- <font size="5"><code><ruby>面<rt>めん</rt>接<rt>せつ</rt>官<rt>かん</rt></ruby></code></font> Entrevistador
 
 ## Relacionais
 
@@ -96,7 +128,7 @@
     - Tanto no sentido amistoso quanto romântico.
 - <font size="5"><code><ruby>味<rt>み</rt>方<rt>かた</rt></ruby></code></font> Aliado
 - `クラスメイト` Colega de classe
-- `ルームメイト` Colega de quarto
+- `ルームメイト・ルームメート` Colega de quarto
 - <font size="5"><code><ruby>同<rt>どう</rt>僚<rt>りょう</rt></ruby></code></font> Colega de trabalho
 - `クライアント` Cliente
 - <font size="5"><code><ruby>客<rt>きゃく</rt></ruby></code></font> Visitante/Convidado/Cliente (Consumidor)
@@ -107,6 +139,11 @@
 - <font size="5"><code><ruby>相<rt>あい</rt>手<rt>て</rt></ruby></code></font> Outra parte/Destinatário/Companheiro/Oponente
     - Se refere à outra parte de uma interação.
 - <font size="5"><code><ruby>恋<rt>こい</rt>人<rt>びと</rt>同<rt>どう</rt>士<rt>し</rt></ruby></code></font> Casal/Namorados
+- <font size="5"><code><ruby>大<rt>おお</rt>家<rt>や</rt></ruby></code></font> Senhorio
+    - <font size="5"><code><ruby>大<rt>おお</rt>屋<rt>や</rt></ruby></code></font> Alternativa
+    - <font size="5"><code><ruby>大<rt>おお</rt>家<rt>や</rt></ruby>さん</code></font> Sonkeigo
+- <font size="5"><code><ruby>年<rt>とし</rt>上<rt>うえ</rt></ruby></code></font> Mais velho
+- <font size="5"><code><ruby>年<rt>とし</rt>下<rt>した</rt></ruby></code></font> Mais novo
 
 ## Profissões
 
@@ -124,6 +161,7 @@
 - <font size="5"><code><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></code></font> Professor/Doutor (Médico)/Advogado
     - É um título, mais generalizado como "mestre".
     - Não deve ser usado para falar de si.
+- <font size="5"><code><ruby>教<rt>きょう</rt>官<rt>かん</rt></ruby></code></font> Instrutor
 - <font size="5"><code><ruby>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante
     - <font size="5"><code><ruby>園<rt>えん</rt>児<rt>じ</rt></ruby></code></font> Estudante do jardim de infância
     - <font size="5"><code><ruby>留<rt>りゅう</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante de intercâmbio
@@ -133,11 +171,14 @@
     - <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Universitário
     - <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt>院<rt>いん</rt>生<rt>せい</rt></ruby></code></font> Pós-graduando
     - <font size="5"><code><ruby>転<rt>てん</rt>校<rt>こう</rt>生<rt>せい</rt></ruby></code></font> Estudante de transferência
+    - <font size="5"><code><ruby>女<rt>じょ</rt>子<rt>し</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante mulher
+    - <font size="5"><code><ruby>男<rt>だん</rt>子<rt>し</rt>学<rt>がく</rt>生<rt>せい</rt></ruby></code></font> Estudante homem
 - <font size="5"><code><ruby>生<rt>せい</rt>徒<rt>と</rt></ruby></code></font> Pupilo/Aprendiz/Estudante (do fundamental ou médio)
 - `エンジニア` Engenheiro
 - `デザイナー` Designer
 - <font size="5"><code><ruby>会<rt>かい</rt>社<rt>しゃ</rt>員<rt>いん</rt></ruby></code></font> Trabalhador de escritório
 - `サラリーマン` Trabalhador de escritório
+- <font size="5"><code><ruby>駅<rt>えき</rt>員<rt>いん</rt></ruby></code></font> Atendente de trem
 - <font size="5"><code><ruby>警<rt>けい</rt>察<rt>さつ</rt>官<rt>かん</rt></ruby></code></font> Policial
     - <font size="5"><code><ruby>警<rt>けい</rt>官<rt>かん</rt></ruby></code></font> Abreviação mais comum
     - <font size="5"><code><ruby>警<rt>けい</rt>察<rt>さつ</rt></ruby></code></font> Abreviação
@@ -152,6 +193,7 @@
 - <font size="5"><code><ruby>声<rt>せい</rt>優<rt>ゆう</rt></ruby></code></font> Dublador/Locutor
 - `ボランティア` Voluntário
 - <font size="5"><code><ruby>店<rt>てん</rt>員<rt>いん</rt></ruby></code></font> Funcionário/Garçom
+- `ウェイター` Garçom
 - <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby></code></font> Funcionário/Assistente de loja
 - <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt></ruby></code></font> Caixa
 - `アーティスト` Artista
@@ -160,15 +202,17 @@
 - <font size="5"><code><ruby>料<rt>りょう</rt>理<rt>り</rt>人<rt>にん</rt></ruby></code></font> Cozinheiro
 - `オタク` Otaku/Nerd
 - `メイド` Empregado doméstico
+- <font size="5"><code><ruby>主<rt>しゅ</rt>夫<rt>ふ</rt></ruby></code></font> Dono de casa
 - <font size="5"><code><ruby>主<rt>しゅ</rt>婦<rt>ふ</rt></ruby></code></font> Dona de casa
-- <font size="5"><code><ruby>泥<rt>どろ</rt>棒<rt>ぼう</rt></ruby></code></font> Ladrão
-    - <font size="5"><code>こそ<ruby>泥<rt>どろ</rt></ruby></code></font> Gatuno/Ladrão sorrateiro
 - `ボランティア` Voluntário
 - `ジャーナリスト` Jornalista
 - `パイロット` Piloto
 - `ユーチューバー` YouTuber
 - <font size="5"><code><ruby>通<rt>つう</rt>訳<rt>やく</rt></ruby></code></font> Intérprete
 - <font size="5"><code><ruby>校<rt>こう</rt>長<rt>ちょう</rt></ruby></code></font> Diretor (educacional)
+- `アナウンサー` Locutor/Apresentador
+- `トレーナー` Treinador
+- <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt></ruby></code></font> Contador/Tesoureiro/Caixa
 
 ### Profissões 士
 
@@ -184,6 +228,8 @@
 **Indica um especialista.**
 
 - <font size="5"><code><ruby>教<rt>きょう</rt>師<rt>し</rt></ruby></code></font> Professor (escolar/universitário)
+    - Também usado para falar da profissão.
+- <font size="5"><code><ruby>家<rt>か</rt>庭<rt>てい</rt>教<rt>きょう</rt>師<rt>し</rt></ruby></code></font> Professor particular
 - <font size="5"><code><ruby>看<rt>かん</rt>護<rt>ご</rt>師<rt>し</rt></ruby></code></font> Enfermeiro
 - <font size="5"><code><ruby>漁<rt>りょう</rt>師<rt>し</rt></ruby></code></font> Pescador
 
@@ -211,6 +257,7 @@
 **Indica a ocupação.**
 
 - <font size="5"><code><ruby>漫<rt>まん</rt>画<rt>が</rt>家<rt>か</rt></ruby></code></font> Mangaká
+- <font size="5"><code><ruby>落<rt>らく</rt>語<rt>ご</rt>家<rt>か</rt></ruby></code></font> Ragukoka/Contador de rakugo
 - <font size="5"><code><ruby>作<rt>さっ</rt>家<rt>か</rt></ruby></code></font> Escritor
 - <font size="5"><code><ruby>画<rt>が</rt>家<rt>か</rt></ruby></code></font> Pintor
 - <font size="5"><code><ruby>音<rt>おん</rt>楽<rt>がく</rt>家<rt>か</rt></ruby></code></font> Músico
@@ -221,17 +268,20 @@
 
 - <font size="5"><code><ruby>歌<rt>か</rt>手<rt>しゅ</rt></ruby></code></font> Cantor
 - <font size="5"><code><ruby>運<rt>うん</rt>転<rt>てん</rt>手<rt>しゅ</rt></ruby></code></font> Motorista
-- <font size="5"><code><ruby>選<rt>せん</rt>手<rt>しゅ</rt></ruby></code></font> Jogador/Atleta
+- <font size="5"><code><ruby>選<rt>せん</rt>手<rt>しゅ</rt></ruby></code></font> Jogador/Atleta/Competidor
+    - <font size="5"><code>スポーツ<ruby>選<rt>せん</rt>手<rt>しゅ</rt></ruby></code></font> Atleta/Esportista
 
 ### Posições hierárquicas
 
-- <font size="5"><code><ruby>社<rt>しゃ</rt>長<rt>ちょう</rt></ruby></code></font> Diretor/Presidente/CEO (empresa)
+- <font size="5"><code><ruby>会<rt>かい</rt>長<rt>ちょう</rt></ruby></code></font> Diretor/Presidente (empresa)
+- <font size="5"><code><ruby>社<rt>しゃ</rt>長<rt>ちょう</rt></ruby></code></font> Diretor-executivo/Presidente-executivo/CEO (empresa)
 - <font size="5"><code><ruby>副<rt>ふく</rt>社<rt>しゃ</rt>長<rt>ちょう</rt></ruby></code></font> Vice-diretor/Vice-presidente (empresa)
 - <font size="5"><code><ruby>部<rt>ぶ</rt>長<rt>ちょう</rt></ruby></code></font> Chefe de departamento
 - <font size="5"><code><ruby>店<rt>てん</rt>長<rt>ちょう</rt></ruby></code></font> Gerente (de loja)
 - `マネージャー` Gerente (corporativo)
 - <font size="5"><code><ruby>課<rt>か</rt>長<rt>ちょう</rt></ruby></code></font> Gerente de seção
 - <font size="5"><code><ruby>上<rt>じょう</rt>司<rt>し</rt></ruby></code></font> Superior/Chefe
+- <font size="5"><code><ruby>係<rt>かかり</rt></ruby>の<ruby>者<rt>もの</rt></ruby></code></font> Responsável/Encarregado
 - <font size="5"><code><ruby>部<rt>ぶ</rt>下<rt>か</rt></ruby></code></font> Subordinado
 
 ### Outras
@@ -245,6 +295,8 @@
 > [!NOTE]
 > É comum membros da casa se chamarem pela sua função dentro da família. Por exemplo, é comum a mãe chamar seu marido de `お父とうさん` ou seu filho mais velho de `お兄にいさん`.
 
+- <font size="5"><code><ruby>家<rt>か</rt>族<rt>ぞく</rt>連<rt>づ</rt></ruby>れ</code></font> Família (como grupo)
+    - Como em um restaurante, parque, ou qualquer lugar em que se possa sair em família.
 - <font size="5"><code><ruby>身<rt>み</rt>内<rt>うち</rt></ruby></code></font> Parentes (próximos)
 - <font size="5"><code><ruby>親<rt>しん</rt>戚<rt>せき</rt></ruby></code></font> Parente
 
@@ -259,16 +311,21 @@
 - <font size="5"><code><ruby>両<rt>りょう</rt>親<rt>しん</rt></ruby></code></font> Pais
     - <font size="5"><code><ruby>父<rt>ふ</rt>母<rt>ぼ</rt></ruby></code></font> Pais (de forma geral, paternidade)
     - <font size="5"><code><ruby>親<rt>おや</rt></ruby></code></font> Pai/Mãe (Um dos pais)
-    - `ママ` Mamãe (anglicanismo)
+    - <font size="5"><code><ruby>親<rt>おや</rt>子<rt>こ</rt></ruby></code></font> Pai e filho/Mãe e filho
 - <font size="5"><code>お<ruby>父<rt>とう</rt></ruby>さん</code></font> Pai
     - <font size="5"><code><ruby>父<rt>ちち</rt></ruby></code></font> (Meu) Pai
     - <font size="5"><code><ruby>父<rt>ちち</rt>親<rt>おや</rt></ruby></code></font> (Um) Pai (De um terceiro ou em geral)
+        - Também é uma forma mais formal de se referir ao próprio pai.
     - `おやじ・おやっさん` Casual (como chamar de "meu velho")
     - `パパ` Papai (anglicanismo)
+    - <font size="5"><code>お<ruby>父<rt>と</rt></ruby>ん</code></font> Kansai-ben (Casual)
 - <font size="5"><code>お<ruby>母<rt>かあ</rt></ruby>さん</code></font> Mãe
     - <font size="5"><code><ruby>母<rt>はは</rt></ruby></code></font> (Minha) Mãe
     - <font size="5"><code>お<ruby>袋<rt>ふくろ</rt></ruby></code></font> (Minha) Mãe (Casual)
     - <font size="5"><code><ruby>母<rt>はは</rt>親<rt>おや</rt></ruby></code></font> (Uma) Mãe (De um terceiro ou em geral)
+        - Também é uma forma mais formal de se referir à própria mãe.
+    - <font size="5"><code>お<ruby>母<rt>か</rt></ruby>ん</code></font> Kansai-ben (Casual)
+    - `ママ` Mamãe (anglicanismo)
 - <font size="5"><code><ruby>兄<rt>きょう</rt>弟<rt>だい</rt></ruby></code></font> Irmãos (Em geral ou masculinos)
     - <font size="5"><code><ruby>兄<rt>きょう</rt>弟<rt>だい</rt>姉<rt>し</rt>妹<rt>まい</rt></ruby></code></font> Irmãos (Em geral)
 - <font size="5"><code><ruby>姉<rt>し</rt>妹<rt>まい</rt></ruby></code></font> Irmãs
@@ -311,7 +368,6 @@
     - <font size="5"><code><ruby>娘<rt>むすめ</rt></ruby></code></font> (Minha) Filha
     - <font size="5"><code><ruby>長<rt>ちょう</rt>女<rt>じょ</rt></ruby></code></font> Filha mais velha
     - <font size="5"><code><ruby>末<rt>まつ</rt>女<rt>じょ</rt></ruby></code></font> Filha mais nova
-    - <font size="5"><code>お<ruby>嬢<rt>じょう</rt></ruby>さん</code></font> Sonkeigo
 - <font size="5"><code>お<ruby>孫<rt>まご</rt></ruby>さん</code></font> Neto
     - <font size="5"><code><ruby>孫<rt>まご</rt></ruby></code></font> (Meu) Neto
         - <font size="5"><code><ruby>孫<rt>まご</rt>息<rt>むす</rt>子<rt>こ</rt></ruby></code></font> Neto
@@ -342,6 +398,7 @@
     - <font size="5"><code>お<ruby>嫁<rt>よめ</rt></ruby>さん</code></font> Alternativo
     - <font size="5"><code><ruby>妻<rt>つま</rt></ruby></code></font> (Minha) esposa
         - <font size="5"><code><ruby>家<rt>か</rt>内<rt>ない</rt></ruby></code></font> Kenjougo, antiquado
+        - <font size="5"><code><ruby>夫<rt>ふ</rt>人<rt>じん</rt></ruby></code></font> Sonkeigo, arcaico
 - <font size="5"><code><ruby>恋<rt>こい</rt>人<rt>びと</rt></ruby></code></font> Parceiro/Amante
 - <font size="5"><code><ruby>婿<rt>むこ</rt></ruby></code></font> Noivo/Genro
     - `しんろう` Noivo (Na cerimônia de casamento)
@@ -379,6 +436,7 @@
 
 - <font size="5"><code><ruby>警<rt>けい</rt>察<rt>さつ</rt></ruby></code></font> Polícia
 - <font size="5"><code><ruby>幕<rt>ばく</rt>府<rt>ふ</rt></ruby></code></font> Xogunato
+- <font size="5"><code><ruby>社<rt>しゃ</rt></ruby></code></font> Companhia/Firma/Associação
 
 ## Conjuntos
 
@@ -446,8 +504,14 @@
     - Youkai anfíbio que pode ser benéfico ou maléfico. Carrega sempre uma espécie de pires cheio de água na cabeça.
 - <font size="5"><code><ruby>鬼<rt>おに</rt></ruby></code></font> Oni
     - Youkai semelhante a um ogro, geralmente vermelhos ou azuis, com dentes protuberantes e chifres. Costumam ser maléficos, mas às vezes podem ser protetores. Costumam carregar porretes.
-- <font size="5"><code><ruby>天<rt>てん</rt>狗<rt>ぐ</rt></ruby></code></font>
+- <font size="5"><code><ruby>天<rt>てん</rt>狗<rt>ぐ</rt></ruby></code></font> Tengu
     - Youkai semelhante a um goblin, com um nariz protuberante, asas e na maior parte das vezes barba. Vive em florestas e montanhas. Prega peças em pessoas imorais.
+- <font size="5"><code><ruby>大蛇<rt>おろち</rt></ruby></code></font> Orochi
+    - Uma cobra gigante.
+- `ぬらりひょん` Nurarihyon
+    - Idoso com cabeça em formato de cabaça, que entra sem ser percebido na casa das pessoas, bebe suas bebidas, fuma seus cigarros, e finge ser o dono da casa.
+- <font size="5"><code>ろくろ<ruby>首<rt>くび</rt></ruby></code></font> Rokurokubi
+    - Youkai humanoide com a habilidade de esticar e contrair o pescoço como quiser. Geralmente uma mulher.
 
 ## Personagens fictícios
 

@@ -74,9 +74,10 @@
 - `Utiliser` Utilizar
 - `Donner` Dar
     - `Donner envie` Dar vontade
+    - `Donner suite` Dar seguimento
     - `Donner un coup de main` Ajudar
     - `Donner un coup de pied` Chutar
-    - `Donner suite` Dar seguimento
+    - `Donner le feu vert` Dar sinal verde
 - `Oublier` Esquecer
     - `Zapper` Informal
 - `Préparer` Preparar
@@ -96,9 +97,12 @@
     - `Se passer` Acontecer
     - `Passer un examen` Fazer uma prova
         - Para "ser aprovado", usa-se `réussir`.
+    - `Passer un concours` Fazer um concurso/Fazer vestibular
     - `Passer un entretien` Fazer uma entrevista de emprego
     - `Passer chez` Passar na casa
     - `Passer la serpillière` Passar o esfregão
+    - `Passer la bague au doigt` Colocar a aliança no dedo
+- `Repasser` Refazer
 - `Balayer` Varrer
     - `Passer le balai`
 - `Plonger` Mergulhar
@@ -146,6 +150,7 @@
 - `Laver` Lavar
 - `Vérifier` Verificar/Checar
 - `Changer` Mudar/Alterar/Trocar
+    - `Changer de décor` Mudar de cenário
 - `Échanger` Trocar
 - `Envoyer` Enviar
     - `S'envoyer` Enviar-se
@@ -196,6 +201,7 @@
 - `Conseiller` Aconselhar
 - `Recommander` Recomendar
 - `Soigner` Curar/Medicar/Tratar
+    - `Se soigner` Cuidar-se
 - `Signer` Assinar
 - `Tirer` Puxar
 - `Retirer` Retirar
@@ -219,6 +225,7 @@
     - `Casser la dalle` Matar a fome
     - `Casser la croûte` Fazer um lanchinho/Dar uma beliscada
 - `Pousser` Empurrar
+    - `Pousser un coup de gueule` Esbravejar
 - `Blesser` Machucar/Ferir
     - `Se blesser` Machucar-se
 - `Manquer` Faltar/Perder/Estar faltando
@@ -276,7 +283,9 @@
 - `Profiter` Aproveitar
 - `Verrouiller` Trancar
 - `Bouger` Mover
+    - Usado para qualquer situação em que algo saia do lugar.
 - `Raconter` Contar
+- `Domestiquer` Domesticar
 - `S'enregistrer` Registrar-se/Fazer check-in
 - `Confirmer` Confirmar
 - `Décoller` Decolar
@@ -367,7 +376,7 @@
 - `Envisager` Considerar
 - `Gérer` Gerenciar
 - `Serrer` Apertar
-    - `Serrer la main` Apertar as mãos
+    - `(Se) Serrer la main` Apertar as mãos
 - `S'accorder` Combinar/Concordar
 - `Redémarrer` Reiniciar
 - `Dérouler` Desenrolar
@@ -424,10 +433,30 @@
 - `Liker` Dar uma curtida
     - Anglicanismo
 - `Publier` Publicar
-- `S'intégrer` Integrar-se
+- `S'intégrer` Integrar-se/Encaixar-se
 - `Se lancer` Envolver-se/Jogar-se
 - `Apprivoiser` Dominar (figurativamente)
 - `Souligner` Sublinhar/Destacar
+- `Cataloguer` Rotular
+- `Constater` Constatar
+- `Dénoncer` Denunciar
+- `Attaquer en justice` Levar à justiça
+- `Balancer` Contar/Desembuchar
+- `Soupçonner` Suspeitar
+- `S'expatrier` Expatriar-se
+- `Se saluer` Cumprimentar-se
+- `Stagner` Estagnar
+- `Se métamorphoser` Transformar-se
+- `Sous-estimer` Subestimar
+- `Subsister` Subsistir/Perdurar
+- `Ramener` Retirar
+- `Admirer` Admirar
+- `Pocher` Escalfar
+- `Flamber` Flambar
+- `Sublimer` Sublimar
+- `Hurler` Uivar
+- `Témoigner` Testemunhar
+- `Râler` Resmungar
 
 ## -ir Verbes
 
@@ -450,12 +479,15 @@
     - `Avoir l'impression` Ter a impressão
     - `Avoir le droit` Ter o direito
     - `Avoir le moral` Estar disposto/Estar com ânimo
+    - `Avoir le concours` Passar no concurso/Passar no vestibular
     - `Avoir le nez qui coule` Estar com o nariz escorrendo
+    - `Avoir le mal du pays` Sentir saudades de casa
     - `Avoir la dalle` Ter fome
     - `Avoir la pression` Estar sob pressão/Sentir-se pressionado
     - `Avoir la nausée` Estar nauseado
     - `Avoir la grippe` Estar gripado
     - `Avoir la dalle` Estar com fome
+    - `Avoir la flemme` Estar com preguiça
     - `Avoir la tête qui tourne` Estar tonto
     - `Avoir un fou rire` Ter um ataque de riso
 - `Pouvoir` Poder
@@ -518,9 +550,13 @@
 - `Refroidir` Resfriar
 - `Atterrir` Aterrisar
 - `Tenir au courant` Manter informado
+    - `Tenir au jus` Alternativa
 - `Vomir` Vomitar
 - `Se reconvertir` Requalificar-se
 - `Obtenir` Obter
+- `Se munir` Munir-se/Equipar-se
+- `Valoir la peine` Valer a pena
+- `Affaiblir` Enfraquecer
 
 ## -re Verbes
 
@@ -534,6 +570,8 @@
     - `Être à la bourre` Estar atrasado (gíria)
     - `Être en retard` Estar atrasado (por culpa própria)
     - `Être en feu` Estar queimando
+    - `Être en baisse` Estar em baixa/Estar diminuindo
+    - `Être en hausse` Estar em alta/Estar aumentando
     - `Être mal à l'aise` Estar desconfortável
     - `Être tombé sur` Encontrar (por acaso)
     - `Être tombé sans glisser` Apaixonar-se (Camarões)
@@ -545,6 +583,7 @@
     - `Prendre des nouvelles` Receber notícias/Informar-se/Checar (alguém)
     - `Prendre en main` Engarregar-se/Assumir o controle
     - `Se prendre un râteau` Ser rejeitado
+    - `Se prendre un vent` Ficar no vácuo/Ser rejeitado
 - `Apprendre` Aprender
     - `S'apprendre` Ensinar
 - `Comprendre` Entender
@@ -565,17 +604,25 @@
     - `Faire nuit` Estar de noite/Estar escuro
     - `Faire pipi` Fazer xixi
     - `Faire conossaince` Conhecer/Familiarizar-se
+    - `Faire preuve` Demonstrar/Exibir
     - `Faire confiance à` Confiar
     - `Faire plaisir à` Agradar
     - `Faire comme ça` Fazer assim
+    - `Faire bon vivre` Viver bem
     - `Faire non de la tête` Dizer não com a cabeça
+    - `Faire une gaffe` Cometer uma gafe
+    - `Faire une demande` Fazer uma solicitação
     - `Faire un tour` Dar um passeio
     - `Faire un footing` Fazer caminhada
     - `Faire un câlin` Abraçar
     - `Faire de l'escalade` Escalar
+    - `Faire de la paperasse` Cuidar da papelada
     - `Faire du sport` Exercitar
     - `Faire du vélo` Andar de bicicleta
     - `Faire du camping` Acampar
+    - `Faire l'autruche` Ignorar os fatos
+        - Literalmente "dar uma de avestruz".
+    - `Faire la une` Ser manchete
     - `Faire la queue` Fazer fila/Esperar na fila
     - `Faire la vaiselle` Lavar a louça
     - `Faire la poussière` Tirar a poeira
@@ -584,6 +631,7 @@
     - `Faire la course` Disputar corrida
     - `Faire la grasse matinée` Dormir até tarde
     - `Faire la couverture` Sair na capa (revistas, jornais)
+    - `Faire la grasse matinée` Dormir até mais tarde
     - `Faire le ménage` Limpar a casa
     - `Faire le lit` Fazer a cama/Arrumar a cama
     - `Faire le tri` Organizar/Ordenar
@@ -594,15 +642,20 @@
     - `Faire les gros titres` Virar manchete
     - `Se faire mal` Machucar-se
     - `Se faire la bise` Beijar-se (na bochecha)
+    - `Se faire une place` Conquistar um lugar
+    - `Ne faire ni chaud ne froid` Nem feder nem cheirar
 - `Défaire` Desfazer
 - `Attendre` Esperar
+    - `S'attendre` Esperar (expectativa)/Contar com
 - `Dire` Dizer
 - `Mettre` Colocar
     - `Mettre du temps` Levar tempo
     - `Mettre en ligne` Fazer upload
+    - `Mettre en valeur` Destacar
     - `Mettre à jour` Atualizar
     - `Mettre sur pause` Pausar
     - `Mettre la table` Arrumar a mesa
+    - `Se mettre en grève` Entrar em greve
     - `Se mettre sur son trente et un` Vestir-se bem
 - `Transmettre` Transmitir
 - `Peindre` Pintar
@@ -610,6 +663,7 @@
     - Tem o sentido de "ter familiaridade"
     - `Se connaître` Conhecer-se
     - `Se faire connaître` Ganhar visibilidade/Tornar-se conhecido
+- `Reconnaître` Reconhecer
 - `Entendre` Ouvir
     - `S'entendre` Entender-se (com alguém)
         - `S'entendre bien` Dar-se bem (com alguém)
@@ -638,6 +692,7 @@
 - `Se taire` Calar-se
 - `Disparaître` Desaparecer
     - `Disparaitre` Pós-reforma de 90
+    - Também pode significar "ser publicado" quando se refere a mídias como jornais e revistas.
 - `Joindre` Juntar
     - `Joindre les deux bouts` Sobreviver com o que se ganha/Pagar as contas
 - `Rejoindre` Juntar-se/Entrar
@@ -645,6 +700,10 @@
 - `Dépendre` Depender
 - `Séduire` Seduzir
 - `Craindre` Temer/Ter medo/Recear
+- `Prétendre` Alegar
+- `Soumettre` Submeter
+- `Accroître` Aumentar/Crescer
+    - `Accroitre` Pós-reforma de 90
 
 ## Les Verbes Défectueux - Verbos Defectivos
 

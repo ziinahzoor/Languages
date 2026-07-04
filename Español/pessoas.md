@@ -57,6 +57,8 @@
 - `Mayor` Idoso
 - `Paciente`
 - `Dueño` Dono
+- `Héroe` Herói
+- `Heroína`
 
 ## Profissões
 

@@ -1,5 +1,7 @@
 # <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby> - Comida
 
+- <font size="5"><code><ruby>食<rt>しょく</rt>品<rt>ひん</rt></ruby></code></font> Alimento/Produto alimentar
+- <font size="5"><code><ruby>食<rt>しょく</rt>料<rt>りょう</rt>品<rt>ひん</rt></ruby></code></font> Alimento/Mantimento
 - <font size="5"><code><ruby>材<rt>ざい</rt>料<rt>りょう</rt></ruby></code></font> Ingrediente
 - `おかず` Acompanhamento
 - `まっちゃ` Broto de chá verde
@@ -19,6 +21,7 @@
     - <font size="5"><code><ruby>豚<rt>ぶた</rt>肉<rt>にく</rt></ruby></code></font> Carne suína
     - <font size="5"><code><ruby>牛<rt>ぎゅう</rt>肉<rt>にく</rt></ruby></code></font> Carne bovina
     - <font size="5"><code><ruby>鶏<rt>とり</rt>肉<rt>にく</rt></ruby></code></font> Carne avina
+        - `かしわ` Kansai-ben
 - <font size="5"><code><ruby>卵<rt>たまご</rt></ruby></code></font> Ovo
 - `ラテ` Latte
 - `ハム` Presunto
@@ -40,7 +43,7 @@
 - `ドーナツ` Donut
 - `パイ` Torta
 - `ソース` Molho
-- `なま` Cru/Fresco/Natural
+- <font size="5"><code><ruby>生<rt>なま</rt></ruby></code></font> Cru/Fresco/Natural
 - `チキン` Frango
     - `フライドチキン` Frango frito
 - `フライドポテト` Batata frita
@@ -86,6 +89,8 @@
 - <font size="5"><code><ruby>漬<rt>つけ</rt>物<rt>もの</rt></ruby></code></font> Picles (em geral)
 - <font size="5"><code><ruby>酢<rt>す</rt></ruby></code></font> Vinagre
 - <font size="5"><code><ruby>蜜<rt>みつ</rt></ruby></code></font> Néctar/Mel
+- `ジャム` Geleia
+- `そば` Trigo-sarraceno
 
 ## <ruby>果<rt>くだ</rt>物<rt>もの</rt></ruby> - Frutas
 
@@ -122,6 +127,7 @@
 - `さつまいも` Batata-doce
 - <font size="5"><code><ruby>人<rt>にん</rt>参<rt>じん</rt></ruby></code></font> Cenoura
 - `ネギ` Cebolinha
+- `ナス` Beringela
 
 ## <font size="5"><code><ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby></code></font> Bebidas
 
@@ -163,6 +169,10 @@
 - `ビール` Cerveja
 - `ワイン` Vinho
 
+## Medicamentos
+
+- `ビタミン` Vitamina
+
 ## <ruby>日<rt>に</rt>本<rt>ほん</rt>料<rt>りょう</rt>理<rt>り</rt></ruby>と<ruby>中<rt>ちゅう</rt>華<rt>か</rt>料<rt>りょう</rt>理<rt>り</rt></ruby> - Comida japonesa e chinesa
 
 ### Caldos, molhos e temperos
@@ -183,10 +193,19 @@
 - <font size="5"><code><ruby>振<rt>ふ</rt></ruby>り<ruby>掛<rt>か</rt></ruby>け</code></font> Furikake
     - Tempero para arroz que geralmente contém peixe seco, algas e gergelim.
 
-### Comida
+### Pastas
 
+- `あん` An/Anko
+    - Pasta de feijão vermelho.
 - <font size="5"><code><ruby>山葵<rt>わさび</rt></ruby></code></font> Wasabi
     - Raíz-forte japonesa. Gratinada até virar pasta para acompanhar sushi e sashimi.
+- <font size="5"><code>すり<ruby>身<rt>み</rt></ruby></code></font> Surimi
+    - Pasta feita a partir de purê de peixe ou carne, geralmente imitando algum outro tipo de carne, tipicamente caranguejo.
+- <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt></ruby></code></font> Miso/Missô
+    - Pasta de soja fermentada com sal, fungo koji e ingredientes opcionais.
+
+### Comida
+
 - <font size="5"><code><ruby>海苔<rt>のり</rt></ruby></code></font> Nori
     - Alga marinha ressecada.
 - <font size="5"><code><ruby>昆<rt>こん</rt>布<rt>ぶ</rt></ruby></code></font> Kombu
@@ -214,8 +233,6 @@
     - <font size="5"><code><ruby>回<rt>かい</rt>転<rt>てん</rt>寿<rt>ず</rt>司<rt>し</rt></ruby></code></font> Sushi na esteira
 - <font size="5"><code><ruby>刺<rt>さし</rt>身<rt>み</rt></ruby></code></font> Sashimi
     - Peixe (ou outro fruto do mar) cru
-- <font size="5"><code>すり<ruby>身<rt>み</rt></ruby></code></font> Surimi
-    - Pasta feita a partir de purê de peixe ou carne, geralmente imitando algum outro tipo de carne, tipicamente caranguejo.
 - <font size="5"><code><ruby>蒲<rt>かま</rt>鉾<rt>ぼこ</rt></ruby></code></font> Kamaboko
     - Surimi curado.
     - <font size="5"><code><ruby>鳴<rt>なる</rt>門<rt>と</rt>巻<rt>まき</rt></ruby></code></font> Narutomaki
@@ -246,13 +263,12 @@
     - Geralmente escrito em kana.
     - Arroz branco em formato triangular com a base envolta por nori.
 - <font size="5"><code><ruby>餅<rt>もち</rt></ruby></code></font> Mochi/Bolinho de arroz
+    - <font size="5"><code>お<ruby>餅<rt>もち</rt></ruby></code></font> Teineigo
     - もち米 (arroz glutinoso) transformado em pasta e moldado com água, açúcar e amido de milho.
 - <font size="5"><code><ruby>団<rt>だん</rt>子<rt>ご</rt></ruby></code></font> Dango/Bolinho de arroz
     - Bolinho feito de farinha de arroz (pode ser glutinoso) e água.
 - `せんべい` Sembei/Bolachas de arroz
     - Geralmente salgadas e feitas de arroz.
-- <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt></ruby></code></font> Miso/Missô
-    - Pasta de soja fermentada com sal, fungo koji e ingredientes opcionais.
 - <font size="5"><code><ruby>味<rt>み</rt>噌<rt>そ</rt>汁<rt>しる</rt></ruby></code></font> Sopa de miso/Sopa de missô
     - Caldo dashi com miso e ingredientes opcionais, como tofu.
 - <font size="5"><code><ruby>豚<rt>とん</rt></ruby>カツ</code></font> Tonkatsu
@@ -288,6 +304,8 @@
     - Panqueca salgada de farinha de trigo e outros ingredientes misturados ou usados como cobertura, feita em uma chapa.
 - <font size="5"><code><ruby>梅<rt>うめ</rt>干<rt>ぼ</rt></ruby>し</code></font> Umeboshi
     - Ume (um tipo de damasco chinês) em conserva, bastante ácido e salgado. Comumente confundido com uma ameixa.
+- <font size="5"><code><ruby>饅<rt>まん</rt>頭<rt>じゅう</rt></ruby></code></font> Manju
+    - Doce recheado com anko, cozido no vapor, com massa de farinha de trigo, arroz e trigo-sarraceno.
 
 ## <ruby>食<rt>しょく</rt>事<rt>じ</rt></ruby> - Refeições
 
@@ -296,6 +314,7 @@
 - <font size="5"><code><ruby>昼<rt>ひる</rt>ご<rt></rt>飯<rt>はん</rt></ruby></code></font> Almoço
     - `ランチ`
     - <font size="5"><code><ruby>昼<rt>ちゅう</rt>食<rt>しょく</rt></ruby></code></font> Honorífico
+- `おやつ` Lanche
 - <font size="5"><code><ruby>夕<rt>ゆう</rt>飯<rt>はん</rt></ruby></code></font> Jantar
     - <font size="5"><code><ruby>夕<rt>ゆう</rt>食<rt>しょく</rt></ruby></code></font> Honorífico
 - <font size="5"><code><ruby>晩<rt>ばん</rt>ご<rt></rt>飯<rt>はん</rt></ruby></code></font> Jantar
@@ -333,3 +352,4 @@
     - Usado em alguns restaurantes ao invés de aceitar pedidos diretamente.
 - <font size="5"><code>お<ruby>代<rt>か</rt></ruby>わり</code></font> Refil/Repetição/Outra porção
 - <font size="5"><code><ruby>残<rt>のこ</rt></ruby>り</code></font> Restos
+- `ダイエット` Dieta

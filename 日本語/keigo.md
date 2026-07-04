@@ -7,76 +7,89 @@
 
 **Usada com os conceitos de <font size="5"><code><ruby>内<rt>うち</rt></ruby></code></font> e <font size="5"><code><ruby>外<rt>そと</rt></ruby></code></font>, que são, respectivamente, um círculo social do qual se faz parte e outro externo.**
 
--   Gramaticalmente, no japonês existem três graus de educação:
-    -   <font size="5"><code><ruby>普<rt>ふ</rt>通<rt>つう</rt>体<rt>たい</rt></ruby>・<ruby>常<rt>じょう</rt>体<rt>たい</rt></ruby></code></font> (Linguagem plana ou direta): usada com amigos ou pessoas próximas.
-        -   A linguagem direta formal é marcada pelo usado de `である` como cópula.
-    -   <font size="5"><code><ruby>敬<rt>けい</rt>体<rt>たい</rt></ruby>・<ruby>丁<rt>てい</rt>寧<rt>ねい</rt></ruby></code></font> (Linguagem distal ou educada): usada com superiores, estranhos ou conhecidos.
-        -   A linguagem distal formal é marcada pelo usado de `であります` como cópula.
-    -   <font size="5"><code><ruby>敬<rt>けい</rt>語<rt>ご</rt></ruby>・<ruby>最<rt>さい</rt>敬<rt>けい</rt>体<rt>たい</rt></ruby></code></font> (Linguagem honorífica ou formal): mais usada na escrita e em discursos.
+- Gramaticalmente, no japonês existem três graus de educação:
+    - <font size="5"><code><ruby>普<rt>ふ</rt>通<rt>つう</rt>体<rt>たい</rt></ruby>・<ruby>常<rt>じょう</rt>体<rt>たい</rt></ruby></code></font> (Linguagem plana ou direta): usada com amigos ou pessoas próximas.
+        - A linguagem direta formal é marcada pelo usado de `である` como cópula.
+    - <font size="5"><code><ruby>丁<rt>てい</rt>寧<rt>ねい</rt></ruby>・<ruby>敬<rt>けい</rt>体<rt>たい</rt></ruby></code></font> (Linguagem distal ou educada): usada com superiores, estranhos ou conhecidos.
+        - A linguagem distal formal é marcada pelo usado de `であります` como cópula.
+    - <font size="5"><code><ruby>敬<rt>けい</rt>語<rt>ご</rt></ruby>・<ruby>最<rt>さい</rt>敬<rt>けい</rt>体<rt>たい</rt></ruby></code></font> (Linguagem honorífica ou formal): mais usada na escrita e em discursos.
 
 > [!NOTE]
 > Com isso, é importante ressaltar que existem diferentes camadas de como conversar:
 >
-> -   Formalidade e educação: a primeira é mais utilizada na escrita ou meios oficiais de comunicação, enquanto a segunda se refere a como tratar diferentes pessoas na conversação;
-> -   Dentro da educação, diferenciamos entre o discurso casual e o discurso respeitoso: o primeiro se refere a como conversamos com amigos, família ou qualquer um que dê abertura para um tratamento mais íntimo, enquanto o segundo se refere a como tratamos as pessoas que não fazem parte desse círculo;
-> -   Dentro do discurso respeitoso, ainda diferenciamos conforme o ambiente e a relação que temos com a pessoa. Podemos utilizar discursos totalmente diferentes de acordo com a pessoa ser um estranho na rua, um colega de trabalho, um chefe ou um cliente. Aqui, ainda consideramos onde devemos exaltar a pessoa e nos rebaixar, com o sonkeigo e kenjougo.
+> - Formalidade e educação: a primeira é mais utilizada na escrita ou meios oficiais de comunicação, enquanto a segunda se refere a como tratar diferentes pessoas na conversação;
+> - Dentro da educação, diferenciamos entre o discurso casual e o discurso respeitoso: o primeiro se refere a como conversamos com amigos, família ou qualquer um que dê abertura para um tratamento mais íntimo, enquanto o segundo se refere a como tratamos as pessoas que não fazem parte desse círculo;
+> - Dentro do discurso respeitoso, ainda diferenciamos conforme o ambiente e a relação que temos com a pessoa. Podemos utilizar discursos totalmente diferentes de acordo com a pessoa ser um estranho na rua, um colega de trabalho, um chefe ou um cliente. Aqui, ainda consideramos onde devemos exaltar a pessoa e nos rebaixar, com o sonkeigo e kenjougo.
+
+> [!NOTE]
+> Os termos <font size="5"><code><ruby>常<rt>じょう</rt>体<rt>たい</rt></code></font> e <font size="5"><code><ruby>敬<rt>けい</rt>体<rt>たい</rt></ruby></code></font> são mais usados como termos de paridade para destacar se o estilo de escrita é direto/plano ou educado.
+
+**Outro conceito importante relacionado ao respeito no japonês é o <font size="5"><code><ruby>建<rt>たて</rt>前<rt>まえ</rt></ruby></code></font>, o "rosto" ou "atitude" que se exibe em público, buscando sempre demonstrar humildade ao falar de si mesmo e enaltecer a pessoa com quem se fala. Esse conceito é oposto ao <font size="5"><code><ruby>本<rt>ほん</rt>音<rt>ね</rt></ruby></code></font>, que consiste na verdadeira opinião.**
 
 ## <ruby>敬<rt>けい</rt>称<rt>しょう</rt></ruby> - Títulos Honoríficos
 
--   `お〜・ご〜` Uso geral, alguns objetos, família
-    -   Geralmente usado para coisas, lugares e pessoas que são úteis para ou ajudam a pessoa referida. Também é usado para demonstrar respeito por quem possui o objeto.
--   `ーさん` Uso geral, amigos, iguais, estranhos, conhecidos
-    -   No meio empresarial, também pode ser usado com empresas (exceto a que o falante trabalha).
--   <font size="5"><code>〜<ruby>様<rt>さま</rt></ruby></code></font> Pessoas mais velhas, pessoas de grande respeito, superiores, clientes, multidões, deidades
-    -   No meio empresarial, também pode ser usado com empresas (exceto a que o falante trabalha).
--   <font size="5"><code>〜<ruby>君<rt>くん</rt></ruby></code></font> Amigos, meninos, colegas de trabalho menos experientes
-    -   Instituições estão tentando cada vez mais substituir por `ーさん` para ser mais neutros em relação ao gênero.
--   `〜ちゃん` Crianças, amigas, avó, namorada, namorado
--   <font size="5"><code>〜<ruby>殿<rt>どの</rt></ruby></code></font> Se assemelha a mestre/lorde (Teineigo) [Se usava mais antigamente]
--   <font size="5"><code><ruby>先<rt>せん</rt>輩<rt>ぱい</rt></ruby></code></font> Superiores/Seniores (trabalho/escola ou qualquer grupo)
--   <font size="5"><code><ruby>後<rt>こう</rt>輩<rt>はい</rt></ruby></code></font> Inferiores/Juniores (trabalho/escola ou qualquer grupo)
-    -   Não é recomendável usar.
+- `お〜・ご〜` Uso geral, alguns objetos, família
+    - Geralmente usado para coisas, lugares e pessoas que são úteis para ou ajudam a pessoa referida. Também é usado para demonstrar respeito por quem possui o objeto.
+- `ーさん` Uso geral, amigos, iguais, estranhos, conhecidos
+    - No meio empresarial, também pode ser usado com empresas (exceto a que o falante trabalha).
+- <font size="5"><code>〜<ruby>様<rt>さま</rt></ruby></code></font> Pessoas mais velhas, pessoas de grande respeito, superiores, clientes, multidões, deidades
+    - No meio empresarial, também pode ser usado com empresas (exceto a que o falante trabalha).
+- <font size="5"><code>〜<ruby>君<rt>くん</rt></ruby></code></font> Amigos, meninos, colegas de trabalho menos experientes
+    - Instituições estão tentando cada vez mais substituir por `ーさん` para ser mais neutros em relação ao gênero.
+- `〜ちゃん` Crianças, amigas, avó, namorada, namorado
+- <font size="5"><code>〜<ruby>殿<rt>どの</rt></ruby></code></font> Se assemelha a mestre/lorde (Teineigo) [Se usava mais antigamente]
+- <font size="5"><code><ruby>先<rt>せん</rt>輩<rt>ぱい</rt></ruby></code></font> Superiores/Seniores (trabalho/escola ou qualquer grupo)
+- <font size="5"><code><ruby>後<rt>こう</rt>輩<rt>はい</rt></ruby></code></font> Inferiores/Juniores (trabalho/escola ou qualquer grupo)
+    - Não é recomendável usar.
 
 ## <ruby>丁<rt>てい</rt>寧<rt>ねい</rt>語<rt>ご</rt></ruby> - Discurso educado
 
--   O mais comum
--   Geralmente usado com os verbos na forma `〜ます` e também o finalizador `〜です`.
--   Pode se referir às próprias ações ou de outras pessoas.
+- O mais comum
+- Geralmente usado com os verbos na forma `〜ます` e também o finalizador `〜です`.
+- Pode se referir às próprias ações ou de outras pessoas.
 
 ### <ruby>美<rt>び</rt>化<rt>か</rt>語<rt>ご</rt></ruby> - Discurso elegante
 
--   Também chamado de "embelezamento de palavras".
--   Adiciona-se os prefixos `お` (訓読み) e `ご` (音読み) antes do substantivo.
-    -   Geralmente subentende-se que se está falando a algo que pertence à outra pessoa ou simplesmente demonstra-se respeito por quem se fala.
+- Também chamado de "embelezamento de palavras".
+- Adiciona-se os prefixos `お` (訓読み) e `ご` (音読み) antes do substantivo.
+    - Geralmente subentende-se que se está falando a algo que pertence à outra pessoa ou simplesmente demonstra-se respeito por quem se fala.
 
 ## <ruby>尊<rt>そん</rt>敬<rt>けい</rt>語<rt>ご</rt></ruby> - Discurso respeitoso
 
--   Tem o objetivo de exaltar a pessoa com quem se fala. Geralmente pessoas mais velhas, professores, superiores e clientes.
--   Não se usa para falar de si.
--   Geralmente usa os verbos na forma-い com os prefixos `お` (訓読み) e `ご` (音読み) e conjugação `〜になる` ou a forma passiva.
--   Alternativamente, pode-se usar verbo `なさる`.
+- Tem o objetivo de exaltar a pessoa com quem se fala. Geralmente pessoas mais velhas, professores, superiores e clientes.
+- Não se usa para falar de si.
+- Geralmente usa os verbos na forma-い com os prefixos `お` (訓読み) e `ご` (音読み) e conjugação `〜になる` ou a forma passiva.
+- Alternativamente, pode-se usar verbo `なさる`.
 
 ## <ruby>謙<rt>けん</rt>譲<rt>じょう</rt>語<rt>ご</rt></ruby> - Discurso humilde
 
--   Tem o objetivo de se rebaixar. Usada para falar de si ou de um grupo a qual pertence de maneira humilde.
-    -   Fala-se de suas ações, e não especificamente de si.
--   Geralmente usa os verbos com os prefixos `お` (訓読み) e `ご` (音読み) e conjugação `〜する`.
-    – Verbos-する, salvo exceções, usam o prefixo `ご`.
--   Não se usam os títulos honoríficos para falar de alguém do seu `内`.
--   Alternativamente, pode-se usar verbo `いたす`.
+> [!NOTE]
+> Também é encontrada grafada como <font size="5"><code><ruby>謙<rt>けん</rt>遜<rt>そん</rt>語<rt>ご</rt></ruby></code></font>.
+
+- Tem o objetivo de se rebaixar. Usada para falar de si ou de um grupo a qual pertence de maneira humilde.
+    - Fala-se de suas ações, e não especificamente de si.
+- Geralmente usa os verbos com os prefixos `お` (訓読み) e `ご` (音読み) e conjugação `〜する`.
+  – Verbos-する, salvo exceções, usam o prefixo `ご`.
+- Não se usam os títulos honoríficos para falar de alguém do seu `内`.
+- Alternativamente, pode-se usar verbo `いたす`.
 
 ### <ruby>丁<rt>てい</rt>重<rt>ちょう</rt>語<rt>ご</rt></ruby> - Discurso cortês
 
--   É o discurso humilde não-direcionado ao ouvinte ou um terceiro. Ex.: `電車が参ります` "O trem está chegando", o trem em si não é rebaixado, mas a companhia ferroviária está se rebaixando com o anúncio em favor aos passageiros.
+- É o discurso humilde não-direcionado ao ouvinte ou um terceiro. Ex.: `電車が参ります` "O trem está chegando", o trem em si não é rebaixado, mas a companhia ferroviária está se rebaixando com o anúncio em favor aos passageiros.
 
-## タメ<ruby>口<rt>ぐち</rt></ruby> - Discurso casual/informal
+## タメ<ruby>口<rt>ぐち</rt></ruby>・くだけた<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby> - Discurso casual/informal
+
+> [!NOTE]
+> O termo <font size="5"><code><ruby>タメ<ruby>口<rt>ぐち</rt></code></font> se refere ao aspecto social do discurso casual, "falar casualmente com alguém", enquanto <font size="5"><code>くだけた<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></code></font> se refere ao estilo linguístico, "forma casual de falar".
+
+- Utiliza a linguagem `普通体`.
 
 > [!TIP]
 > Omitir o `だ` ao usar substantivos e adjetivos-な é considerado feminino.
 
--   Abreviar `です` para `っす`
--   Abreviar a forma `ている` para `てる`.
--   Usar `って` ao invés de `は`.
+- Abreviar `です` para `っす`
+- Abreviar a forma `ている` para `てる`.
+- Usar `って` ao invés de `は`.
 
 ## Equivalentes verbais honoríficos
 

@@ -18,7 +18,7 @@
 - <font size="5"><code><ruby>格<rt>かっ</rt>好<rt>こ</rt></ruby>いい</code></font> Legal/Maneiro/Estiloso
     - Adjetivo `いい`
     - Geralmente se escreve somente com kana
-- <font size="5"><code><ruby>仲<rt>なか</rt></ruby>がいい</code></font> Íntimo/Em bons termos/Dando-se bem
+- <font size="5"><code><ruby>仲<rt>なか</rt></ruby>がいい</code></font> Íntimo/Próximo/Em bons termos/Dando-se bem
     - Adjetivo `いい`
     - <font size="5"><code><ruby>仲<rt>なか</rt></ruby>いい</code></font> Abreviação
 - <font size="5"><code><ruby>具<rt>ぐ</rt>合<rt>あい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い</code></font> Doente/Adoentado/Se sentindo mal
@@ -50,14 +50,17 @@
 - <font size="5"><code><ruby>可愛<rt>かわい</rt></ruby>い</code></font> Fofo
     - Geralmente escrito somente com kana.
 - <font size="5"><code><ruby>面<rt>おも</rt>白<rt>しろ</rt></ruby>い</code></font> Interessante/Engraçado
+    - `おもろい` Kansai-ben
 - `おかしい` Estranho/Peculiar/Ridículo/Cômico
     - Indica algo peculiar, seja de forma divertida ou fora do comum.
 - `つまらない` Entediante
 - <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しい</code></font> Divertido/Aprazível
 - `うるさい` Barulhento/Irritante
+- `ウザイ` Irritante
 - <font size="5"><code><ruby>忙<rt>いそが</rt>しい</ruby></code></font> Ocupado
 - <font size="5"><code><ruby>頭<rt>あたま</rt></ruby>がいい</code></font> Inteligente
     - Adjetivo `いい`
+- <font size="5"><code><ruby>賢<rt>かしこ</rt></ruby>い</code></font> Inteligente/Sábio
 - <font size="5"><code><ruby>頭<rt>あたま</rt></ruby>がおかしい</code></font> Louco
 - <font size="5"><code><ruby>頭<rt>あたま</rt></ruby>が<ruby>固<rt>かた</rt></ruby>い</code></font> Teimoso
 - <font size="5"><code><ruby>若<rt>わか</rt></ruby>い</code></font> Jovem
@@ -74,19 +77,22 @@
 - <font size="5"><code><ruby>心<rt>こころ</rt></ruby>が<ruby>狭<rt>せま</rt></ruby>い</code></font> Mente fechada
 - <font size="5"><code><ruby>速<rt>はや</rt></ruby>い</code></font> Rápido
 - <font size="5"><code><ruby>早<rt>はや</rt></ruby>い</code></font> Cedo
-- <font size="5"><code><ruby>早<rt>はや</rt></ruby>め</code></font> Um pouco cedo
+    - <font size="5"><code><ruby>朝<rt>あさ</rt>早<rt>はや</rt></ruby>い</code></font> Cedo de manhã
+    - <font size="5"><code><ruby>早<rt>はや</rt></ruby>め</code></font> Um pouco cedo
 - <font size="5"><code><ruby>遅<rt>おそ</rt></ruby>い</code></font> Devagar/Lento/Tarde/Atrasado
 - <font size="5"><code><ruby>長<rt>なが</rt></ruby>い</code></font> Longo
 - <font size="5"><code><ruby>短<rt>みじか</rt></ruby>い</code></font> Curto
 - <font size="5"><code><ruby>危<rt>あぶ</rt></ruby>ない</code></font> Perigoso
 - <font size="5"><code><ruby>涼<rt>すず</rt></ruby>しい</code></font> Refrescante/Gelado
-- <font size="5"><code><ruby>寒<rt>さむ</rt>い</ruby></code></font> Frio (Clima, Sensação)
+- <font size="5"><code><ruby>寒<rt>さむ</rt>い</ruby></code></font> Frio (clima, sensação)
+    - `さぶい` Kansai-ben
     - <font size="5"><code><ruby>冷<rt>つめ</rt>たい</ruby></code></font> Coisas
-- <font size="5"><code><ruby>暑<rt>あつ</rt>い</ruby></code></font> Quente (Clima, Sensação)
+- <font size="5"><code><ruby>暑<rt>あつ</rt>い</ruby></code></font> Quente (clima, sensação)
     - <font size="5"><code><ruby>熱<rt>あつ</rt>い</ruby></code></font> Coisas
-- <font size="5"><code><ruby>暖<rt>あたた</rt>かい</ruby></code></font> Morno/Quentinho (Clima, Sensação)
+- <font size="5"><code><ruby>暖<rt>あたた</rt>かい</ruby></code></font> Morno/Quentinho (clima, sensação)
     - <font size="5"><code><ruby>温<rt>あたた</rt>かい</ruby></code></font> Coisas
 - `ぬるい` Morno/Em temperatura ambiente
+- <font size="5"><code><ruby>温<rt>おん</rt>暖<rt>だん</rt></ruby></code></font> Ameno (clima)
 - <font size="5"><code><ruby>太<rt>ふと</rt></ruby>い</code></font> Grosso (diâmetro, voz)/Profundo (voz)
 - <font size="5"><code><ruby>細<rt>ほそ</rt></ruby>い</code></font> Fino (diâmetro)
 - <font size="5"><code><ruby>厚<rt>あつ</rt></ruby>い</code></font> Grosso (camada)
@@ -154,6 +160,14 @@
 - <font size="5"><code><ruby>柔<rt>やわ</rt></ruby>らかい</code></font> Suave/Flexível
 - <font size="5"><code><ruby>羨<rt>うらや</rt></ruby>ましい</code></font> Invejoso
 - `おとなしい` Obediente/Manso/Quieto/Sóbrio
+- <font size="5"><code><ruby>情<rt>なさ</rt></ruby>けない</code></font> Patético
+- <font size="5"><code><ruby>待<rt>ま</rt></ruby>ち<ruby>遠<rt>どお</rt></ruby>しい</code></font> Anseado/Tão desejado
+- `めんどくさい` Incômodo/Enfadonho/Cansativo
+- `キモイ` Nojento
+- `ダサい` Chato/Sem graça
+- `ずるい` Astuto/Maroto/Sorrateiro
+- `しんどい` Cansado/Cansativo
+- <font size="5"><code><ruby>詳<rt>くわ</rt></ruby>しい</code></font> Detalhado/Conhecedor/Bem informado
 
 ## <ruby>形<rt>けい</rt>容<rt>よう</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Adjetivos な
 
@@ -180,6 +194,7 @@
 - <font size="5"><code><ruby>楽<rt>たの</rt></ruby>しみ</code></font> Ansioso (de antecipação)
     - Geralmente acompanha o `が`
 - `ダメ・だめ` Ruim/Inútil
+- <font size="5"><code><ruby>無<rt>む</rt>駄<rt>だ</rt></ruby></code></font> Inútil/Fútil/Desperdiçador
 - `カラフル` Colorido
 - `ひさしぶり` Faz muito tempo
 - <font size="5"><code><ruby>真<rt>ま</rt>面<rt>じ</rt>目<rt>め</rt></ruby></code></font> Honesto/Sério
@@ -194,6 +209,7 @@
 - `かいてき` Confortável
 - <font size="5"><code><ruby>楽<rt>らく</rt></ruby></code></font> Confortável/Tranquilo
 - <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby></code></font> Verdadeiro
+    - `ほんま` Kansai-ben
 - `さいあく` Horrível/O pior
 - `スペシャル` Especial
 - <font size="5"><code><ruby>変<rt>へん</rt></ruby></code></font> Estranho/Esquisito
@@ -207,8 +223,9 @@
 - <font size="5"><code><ruby>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Resistente/Durável/Robusto
 - <font size="5"><code><ruby>大<rt>だい</rt>丈<rt>じょう</rt>夫<rt>ぶ</rt></ruby></code></font> Ok
     - Também é muito usado para recusar coisas.
-- <font size="5"><code><ruby>大<rt>たい</rt>切<rt>せつ</rt></ruby></code></font> Importante (Mais subjetivo)/Precioso
-- <font size="5"><code><ruby>大<rt>だい</rt>事<rt>じ</rt></ruby></code></font> Importante (Mais objetivo)/Urgente/Relevante
+- <font size="5"><code><ruby>大<rt>たい</rt>切<rt>せつ</rt></ruby></code></font> Importante (Mais subjetivo, sentimetal)/Precioso
+- <font size="5"><code><ruby>大<rt>だい</rt>事<rt>じ</rt></ruby></code></font> Importante (Mais objetivo, prático)/Urgente/Relevante
+- <font size="5"><code><ruby>重<rt>じゅう</rt>要<rt>よう</rt></ruby></code></font> Importante (Totalmente objetivo, formal e lógico)/Essencial
 - <font size="5"><code><ruby>暇<rt>ひま</rt></ruby></code></font> Livre/Disponível/Desocupado
 - <font size="5"><code><ruby>自<rt>じ</rt>由<rt>ゆう</rt></ruby></code></font> Livre (de liberdade)
 - <font size="5"><code><ruby>嫌<rt>いや</rt></ruby></code></font> Desgostável/Não querível/Relutante
@@ -231,12 +248,14 @@
 - <font size="5"><code><ruby>必<rt>ひつ</rt>要<rt>よう</rt></ruby></code></font> Necessário/Essencial/Indispensável
     - É mais utilizado com necessidades externas, ou seja, que não são necessidades necessariamente pessoais. Também é mais utilizado com verbos (e substantivos quando é possível confundir com o verbo "existir", como com seres vivos).
 - <font size="5"><code><ruby>完<rt>かん</rt>璧<rt>ぺき</rt></ruby></code></font> Perfeito/Sem defeitos
+- <font size="5"><code><ruby>完<rt>かん</rt>全<rt>ぜん</rt></ruby></code></font> Perfeito/Completo
 - <font size="5"><code><ruby>普<rt>ふ</rt>通<rt>つう</rt></ruby></code></font> Normal/Comum
 - <font size="5"><code><ruby>残<rt>ざん</rt>念<rt>ねん</rt></ruby></code></font> Lamentável/Infeliz/Decepcionante
 - <font size="5"><code><ruby>可哀想<rt>かわいそう</rt></ruby></code></font> Lamentável/Deplorável/Patético
 - `ピカピカ` Cintilante/Com brilho
 - <font size="5"><code><ruby>十<rt>じゅう</rt>分<rt>ぶん</rt></ruby></code></font> Suficiente
     - Não confundir com `じゅっぷん` "dez minutos".
+- <font size="5"><code><ruby>不<rt>ふ</rt>十<rt>じゅう</rt>分<rt>ぶん</rt></ruby></code></font> Insuficiente
 - `いっぱい` Cheio/Preenchido
 - `ベジタリアン` Vegetariano
 - <font size="5"><code><ruby>意<rt>い</rt>地<rt>じ</rt>悪<rt>わる</rt></ruby></code></font> Mau/Malvado
@@ -245,6 +264,7 @@
     - Usado como prefixo para outros adjetivos.
 - <font size="5"><code><ruby>最<rt>さい</rt>悪<rt>あく</rt></ruby></code></font> Pior
 - <font size="5"><code><ruby>最<rt>さい</rt>高<rt>こう</rt></ruby></code></font> Melhor/Supremo
+- <font size="5"><code><ruby>高<rt>こう</rt>級<rt>きゅう</rt></ruby></code></font> De alto padrão/De alto nível/De luxo/De primeira linha
 - <font size="5"><code><ruby>可<rt>か</rt>能<rt>のう</rt></ruby></code></font> Possível
 - <font size="5"><code><ruby>無<rt>む</rt>理<rt>り</rt></ruby></code></font> Impossível/Irracional
 - <font size="5"><code><ruby>豊<rt>ゆた</rt></ruby>か</code></font> Abundante
@@ -260,6 +280,7 @@
 - <font size="5"><code><ruby>別<rt>べつ</rt>々</ruby></code></font> Separado
 - <font size="5"><code><ruby>急<rt>きゅう</rt></ruby></code></font> Súbito/Urgente/Íngreme
 - <font size="5"><code><ruby>結<rt>けっ</rt>構<rt>こう</rt></ruby></code></font> Legal/Agradável/Esplêndido
+    - Indica que algo é suficiente, satisfatório.
     - Também pode ser utilizado para recusar alguma coisa.
 - `ペラペラ` Fluente
 - <font size="5"><code><ruby>丁<rt>てい</rt>寧<rt>ねい</rt></ruby></code></font> Cortês/Educado/Atencioso/Cuidadoso
@@ -278,6 +299,18 @@
 - `バレバレ` Óbvio
 - <font size="5"><code><ruby>真<rt>ま</rt></ruby>っ<ruby>暗<rt>くら</rt></ruby></code></font> Escuro como breu
 - `フリー` Livre/Solteiro
+- `めちゃくちゃ` Absurdo
+- `ケチ` Avarento/Mesquinho/Pão-duro
+- `ぶさいく` Feio/Não-atraente
+    - Depreciativo, usado com pessoas.
+    - `ブス` `Gíria`
+- `ビミョー` Ruim/Duvidoso
+- <font size="5"><code><ruby>正<rt>しょう</rt>直<rt>じき</rt></ruby></code></font> Honesto/Franco
+- <font size="5"><code><ruby>必<rt>ひっ</rt>死<rt>し</rt></ruby></code></font> Frenético/Desesperado
+- <font size="5"><code><ruby>不<rt>ふ</rt>正<rt>せい</rt></ruby></code></font> Injusto
+- <font size="5"><code><ruby>優<rt>ゆう</rt>秀<rt>しゅう</rt></ruby></code></font> Excelente/Superior/Fora do comum/Brilhante
+- <font size="5"><code><ruby>幼<rt>よう</rt>稚<rt>ち</rt></ruby></code></font> Infantil
+- <font size="5"><code><ruby>高<rt>こう</rt>速<rt>そく</rt></ruby></code></font> De alta velocidade/Expresso
 
 ## Adjetivos たる
 
@@ -313,7 +346,9 @@
 - <font size="5"><code><ruby>生<rt>う</rt></ruby>まれ</code></font> Nascido em
     - Também pode ser usado com produtos para dizer `produzido em`.
 
-## <ruby>連<rt>れん</rt>体<rt>たい</rt>詞<rt>し</rt></ruby> - Adnominais
+## <ruby>連<rt>れん</rt>体<rt>たい</rt>詞<rt>し</rt></ruby> - Prenominais
+
+**Vêm sempre antes de substantivos e não são conjugados.**
 
 - <font size="5"><code><ruby>大<rt>おお</rt></ruby>きな</code></font> Grande/Alto
     - NÃO é um adjetivo な.
@@ -327,6 +362,10 @@
 - `そういう` Tal/Esse tipo de/Como esse
 - `ほんの` Só/Somente (modéstia, pequena quantidade)
 - `ある` Certo/Algum
+    - Não confundir com o verbo.
+- `いろんな` Diversos/Vários
+- <font size="5"><code><ruby>我<rt>わ</rt></ruby>が</code></font> Meu/Nosso
+- <font size="5"><code><ruby>大<rt>たい</rt></ruby>した</code></font> Grande coisa/Considerável/Significativo
 
 ## Adjetivos-verbo
 

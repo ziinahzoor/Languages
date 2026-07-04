@@ -5,6 +5,8 @@
 - `いいですね` Parece ótimo
 - <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby>ですか</code></font> Sério?/De verdade?
     - <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby></code></font> Casual
+- <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby>は</code></font> Na verdade
+- <font size="5"><code><ruby>実<rt>じつ</rt></ruby>は</code></font> Na verdade
 - `だいじょうぶですか` Está tudo bem?
 - `いただきます` Vamos comer!
     - Literalmente "a saúde está mal"
@@ -19,10 +21,10 @@
     - `〜の` Casual e feminino
     - Para dar ênfase, funciona como uma exclamação
 - <font size="5"><code><ruby>何<rt>なん</rt>だ</ruby></code></font> O que...?!/O que é isso?!
-- `〜そうだ・〜そうです` Dizem que...
+- `〜そうだ・〜そうです` Dizem que.../Ouvi dizer que...
     - É diferente de usar somente o sufixo `そう`. Por ser uma construção completa, precisa de `だ` antes de substantivos e adjetivos-な, e não requer remover o `い` dos adjetivos-い.
 - `〜ようだ` Parece.../Como...
-    - Vem de `のよう` "Aparência de".
+    - Vem de `のよう` "aparência de".
     - É pouco utilizado em contextos casuais
     - `みたい` Casual
 - `〜ように` Como/Similar a/Para que
@@ -38,15 +40,15 @@
     - Costuma ser abreviado para apenas `〜ように`, especialmente após a conjugação `ます` dos verbos.
     - É similar à construção `といい`.
 - `〜にみえる` Parece (observação visual)
-- `…について` Sobre.../A respeito de...
-    - `…についてどうおもう？` O que você acha de...?
+- `について` Sobre/A respeito de
+    - `についてどうおもう？` O que você acha de...?
+- <font size="5"><code>に<ruby>基<rt>もと</rt></ruby>づいて</code></font> Baseado em
 - `…とおり` Como esperado/Como prometido
 - `ところ` Acabar de.../Estar prestes a...
     - Quando usado após a forma plana indica "estar prestes a".
     - Quando usado após o passado indica "acabar de".
     - Quando usado após a forma contínua indica "estar no meio de".
 - `…として` Como.../Do ponto de vista de...
-- `…によると・によれば` De acordo com...
 - `それから` Depois disso
 - `…にとって` Do ponto de vista de...
 - `あっちこっち` Pra lá e pra cá
@@ -58,15 +60,16 @@
 - `...の上に` Além de...
 - <font size="5"><code><ruby>久<rt>ひさ</rt></ruby>しぶり</code></font> Há quanto tempo
 - <font size="5"><code>いい<ruby>子<rt>こ</rt></ruby></code></font> Bom garoto
-- <font size="5"><code><ruby>仕<rt>し</rt>方<rt>かた</rt></ruby>がない</code></font> Não tem jeito
-- `おかげで` Graças a/à...
+- <font size="5"><code><ruby>仕<rt>し</rt>方<rt>かた</rt></ruby>がない</code></font> Não tem jeito/Fazer o quê
+    - `しょうがない` Casual
+    - `しゃーない` Kansai-ben
 - `なしで` Sem
 - `...よろしいですか` Você gostaria de...?
     - Usado para oferecer algo, como um garçom oferecer um prato.
 - <font size="5"><code><ruby>向<rt>む</rt></ruby>け</code></font> Para (voltado para/intencionado para)
     - Sufixo
 - `いいこと` Coisa boa!
-- `ものだ・もんだ・ものです・もんです` Em geral.../Normalmente...
+- `ものだ・もんだ・ものです・もんです` Em geral.../Normalmente.../É algo que...
     - Não tem uma tradução literal, é usado para indicar que a frase é uma verdade universal ou algo a ser seguido.
 - `これで` Com isto
 - <font size="5"><code>どうぞ、お<ruby>先<rt>さき</rt></ruby>に</code></font> Por favor, você primeiro
@@ -75,23 +78,29 @@
 - <font size="5"><code><ruby>毎<rt>ごと</rt></ruby>に</code></font> Um por um
 - <font size="5"><code><ruby>二人<rt>ふたり</rt></ruby>ずつ</code></font> De dois em dois
 - `どうなってもいい` Não estou nem aí
+- `そうだといい` Espero que sim
+- `といってもいい` Você poderia dizer (que)
 - `うるさい` Cale a boca
 - <font size="5"><code><ruby>念<rt>ねん</rt></ruby>のため</code></font> Por via das dúvidas
 - `かどうか` Se... ou não
 - <font size="5"><code><ruby>かも知<rt>し</rt></ruby>れない</code></font> Talvez
+    - Usado de forma modal com predicados. Para uso elíptico ou em um nível discursivo, usa-se `ことによると`
     - Geralmente escrito somente com kana.
     - `かも` Abreviação (Mais comum)
     - <font size="5"><code><ruby>かも知<rt>し</rt></ruby>らん</code></font> Abreviação (Mais masculina)
     - <font size="5"><code><ruby>かも知<rt>し</rt></ruby>れん</code></font> Abreviação
+- `ことによると` Talvez
+    - Mais encontrado no inicío de frases de forma discursiva, sem se ligar a um predicado.
+- `によると・によれば` De acordo com
+    - É bastante usado como `ところによると` após verbos.
+    - <font size="5"><code><ruby>聞<rt>き</rt></ruby>くところによると</code></font> Pelo que ouvi
 - <font size="5"><code><ruby>都<rt>つ</rt>合<rt>ごう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い</code></font> Não é o melhor momento/É um pouco inconveniente agora
     - Comumente usado para recusas.
-- <font size="5"><code><ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby>は</code></font> Na verdade
-- <font size="5"><code><ruby>実<rt>じつ</rt></ruby>は</code></font> Na verdade
-- `しょうがない` Não tem jeito/Fazer o que
-- `そうだといい` Espero que sim
 - `としても` Mesmo se
+- `ということ` O fato que
 - `ということは` Isso significa
-- `といってもいい` Você poderia dizer (que)
+- `ということだ` É dito que/Significa que
+- `とのことだ` É dito que/Ouvi dizer que
 - `AというB` O/Um B chamado A.
 - `ごとに` A cada
     - Acontece todas as vezes, sem exceção
@@ -110,13 +119,16 @@
     - `AだけではなくてBも・AだけじゃなくてBも` Não somente A, mas também B
 - <font size="5"><code><ruby>以<rt>い</rt>上<rt>じょう</rt></ruby></code></font> É só isso/Isso é tudo
 - <font size="5"><code><ruby>以<rt>い</rt>下<rt>か</rt></ruby></code></font> O restante/O seguinte
-- `のおかげで` Graças a
+- `のおかげで` Graças a/à
+    - Significa literalmente "pela sombra".
     - `おかげで` Graças a você
+        - `おかげさまで` Teineigo
+            - Também pode significar "por sorte", "felizmente" ou "graças a Deus".
 - `...でいいです` Pode me chamar só de...
 - `そういえば` Falando nisso/Agora que você disse
 - `すこしも...ない` Não é nem um pouco.../Não... nem um pouco
 - <font size="5"><code>A は B の<ruby>一<rt>ひと</rt></ruby>つだ</code></font> A é um de (muitos) B
-- <font size="5"><code><ruby>少<rt>すく</rt></ruby>なくない</code></font> Não são poucos
+- <font size="5"><code><ruby>少<rt>すく</rt></ruby>なくない</code></font> Bastantes/Não são poucos
 - <font size="5"><code>A<ruby>場<rt>ば</rt>合<rt>あい</rt></ruby>は B</code></font> No caso de A, B
 - <font size="5"><code>を<ruby>通<rt>とお</rt></ruby>して</code></font> Através de/Por meio de
 - <font size="5"><code><ruby>何<rt>なん</rt></ruby>と<ruby>言<rt>い</rt></ruby>えばいいかな</code></font> Como eu deveria dizer isso...?
@@ -134,7 +146,76 @@
 - <font size="5"><code><ruby>通<rt>とお</rt></ruby>り</code></font> Como dito
     - Usado com `言う`
 - `トントンだ` Dá no mesmo
-- <font size="5"><code>と<ruby>言<rt>い</rt></ruby>うのは</code></font> Quando se trata de
+- <font size="5"><code>と<ruby>言<rt>い</rt></ruby>うのは</code></font> Quando se trata de/Em relação a/A respeito de
+    - Geralmente escrito em kana.
+    - Quando usado no começo da frase, geralmente indica "o que quero dizer é"
+- <font size="5"><code>と<ruby>言<rt>い</rt></ruby>うのも</code></font> O motivo disso é/A razão disso é
+    - Geralmente escrito em kana.
+    - Usado no começo da frase.
+- <font size="5"><code>に<ruby>対<rt>たい</rt></ruby>して</code></font> Em relação a/Com respeito a/Em oposição a
+- `ほっといて` Me deixa em paz!/Sai fora!
+- <font size="5"><code><ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つい</rt></ruby>て</code></font> Se acalme!
+- <font size="5"><code><ruby>何<rt>なに</rt>様<rt>さま</rt></ruby>のつもり</code></font> Quem você pensa que é?!
+    - <font size="5"><code><ruby>何<rt>なに</rt>様<rt>さま</rt></ruby></code></font> Abreviação
+- <font size="5"><code><ruby>昔<rt>むかし</rt>々</ruby></code></font> Era uma vez/Há muito tempo atrás
+- <font size="5"><code><ruby>一<rt>いっ</rt>生<rt>しょう</rt></ruby>に<ruby>一<rt>いち</rt>度<rt>ど</rt></ruby></code></font> Uma vez na vida
+- `そのため` Por causa disso
+- <font size="5"><code>その<ruby>頃<rt>ころ</rt></ruby></code></font> Naquele momento/Naquela época
+- `どうしたらいい・どうしたほうがいい` O que eu devo fazer?/Como devo proceder?
+- `どうしよう` O que eu vou fazer?!
+- <font size="5"><code>に<ruby>比<rt>くら</rt></ruby>べ・と<ruby>比<rt>くら</rt></ruby>べ</code></font> Em comparação a
+    - Utiliza conjugações do verbo `比べる`. Pode ser comumente encontrado como `に比べて・と比べて` ou em qualquer forma condicional, como `に比べたら・と比べたら`.
+- <font size="5"><code><ruby>違<rt>ちが</rt></ruby>いない・に<ruby>違<rt>ちが</rt></ruby>いない</code></font> Sem dúvida/Sem erro/Com certeza
+- `よかったら` Se estiver ok/Se você quiser/Se você não se importar
+    - `よろしかったら` Sonkeigo
+- <font size="5"><code><ruby>顔<rt>かお</rt></ruby>が<ruby>青<rt>あお</rt></ruby>い</code></font> Estar pálido
+- <font size="5"><code>ご<ruby>存<rt>ぞん</rt>知<rt>じ</rt></ruby>の<ruby>通<rt>とお</rt></ruby>り</code></font> Como você sabe/Como você está ciente (Sonkeigo)
+- <font size="5"><code><ruby>始<rt>はじ</rt></ruby>めは</code></font> A princípio
+- `ウケる` Engraçado/Hilário
+- `そんなことはない` Acho que não
+- <font size="5"><code><ruby>代<rt>か</rt></ruby>わりに</code></font> Ao invés de/No lugar de/Em troca de
+- `できれば` Se possível
+- <font size="5"><code>の<ruby>紹<rt>しょう</rt>介<rt>かい</rt></ruby>で</code></font> Através de/Pela introdução de
+- <font size="5"><code>という<ruby>意<rt>い</rt>味<rt>み</rt></ruby>だ</code></font> Isso significa
+- `ただの` Nada além de/Apenas/Um simples
+- <font size="5"><code>その<ruby>他<rt></rt></ruby>ほか</code></font> E o resto/E os outros/Além de
+    - Geralmente vem após a partícula `と`.
+- <font size="5"><code>って<ruby>感<rt>かん</rt></ruby>じ</code></font> Dar a sensação de/Ter a impressão que/Parecer que
+    - Bastante utilizado para finalizar uma linha de raciocínio.
+- `Aあまり、B` Tão A que B
+    - Funciona de forma similar a uma conjunção e vem no fim da primeira frase.
+    - É usado com verbos e substantivos, portanto adjetivos-い devem ser nominalizados primeiro e então utilizar a partícula `の`.
+- `ここまでです` Isso é tudo/Isso é tudo até aqui
+- `しばらくすると` Depois de um tempinho/Em um tempinho/Pouco tempo depois
+- <font size="5"><code>AのはBの<ruby>方<rt>ほう</rt></ruby>だ</code></font> É B que A
+    - Ex.: `言い出したのは俺の方だ` "Fui eu quem disse".
+    - `A` trivialmente necessita do conector `な` para se ligar caso seja um substantivo.
+- `そのうち` No seu tempo/Em algum momento/Um dia desses
+    - Também indicado para indicar "X deles/X dos" quando se referindo a membros de algum grupo, ligando-se a um substantivo com `の`.
+- `まだまだです` Ainda não cheguei lá/Ainda tenho muito chão pra percorrer
+- `なの` Isso!/Certo?
+    - É muito utilizado por mulheres no fim de frases e tem função similar aos explicativos `のです・んです`, tanto para afirmações quanto para questionamentos.
+- <font size="5"><code><ruby>多<rt>おお</rt></ruby>くの<ruby>場<rt>ば</rt>合<rt>あい</rt></ruby></code></font> Na maioria dos casos/Na maioria das vezes
+- <font size="5"><code><ruby>上<rt>うえ</rt></ruby>で</code></font> Ao
+    - Indica o que ocorre ao realizar uma ação.
+    - Costuma seguir verbos no pretérito.
+    - Não é usado com o passivo.
+- `も...ない・も...いない` Nem mesmo
+- <font size="5"><code>いつの<ruby>間<rt>ま</rt></ruby>に</code></font> De repente/Sem que eu percebesse/Em que ponto
+    - Indica algo que ocorreu sem que se percebesse, geralmente indicando um processo ao invés de uma ação abrupta.
+- <font size="5"><code>...の<ruby>一<rt>ひと</rt></ruby>つだ</code></font> É um dos...
+    - Pode ser utilizado com qualquer contador que seja mais conveniente.
+- `ことがある` Tem vezes que/Às vezes
+    - Usado com verbos e adjetivos no presente.
+    - `こともある` Mas também tem vezes que
+
+## Provérbios
+
+- <font size="5"><code><ruby>鬼<rt>おに</rt></ruby>の<ruby>目<rt>め</rt></ruby>にも<ruby>涙<rt>なみだ</rt></ruby></code></font> Até o diabo pode pode chorar
+    - Literalmente "até mesmo nos olhos de um Oni há lágrimas".
+- <font size="5"><code><ruby>狐<rt>きつね</rt></ruby>の<ruby>嫁<rt>よめ</rt>入<rt>い</rt></ruby>り</code></font> Chuva de sol
+    - Se refere a quando está chovendo, porém o dia está ensolarado.
+    - Literalmente "casamento de raposa". Devido ao fato de raposas serem seres mitológicos no folclore japonês, e portanto usarem truques para enganar os sentidos humanos. É dito que elas criam chuvas de sol para distrair os humanos de seus assistirem seus casamentos, já que é considerado má sorte presenciar tal acontecimento.
 
 ## <ruby>汚<rt>きたな</rt></ruby>い<ruby>言<rt>こと</rt>葉<rt>ば</rt></ruby> - Linguagem de baixo calão
 
@@ -148,3 +229,4 @@
 - `ばかやろう` Idiota/C\*zão
 - `だまれ` Cala a boca
 - `うすらとんかち` Estúpido
+- <font size="5"><code><ruby>貴<rt>き</rt>様<rt>さま</rt></ruby></code></font> Seu bast*rdo/Seu filho da p*ta

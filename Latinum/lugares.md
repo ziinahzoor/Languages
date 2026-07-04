@@ -3,6 +3,7 @@
 - `Ecclesia` Igreja
 - `Parochia` Paróquia
 - `Terra`
+- `Oppidum` Município/Cidade ✴️
 - `Urbs` Cidade
 - `Civitas` Estado 🚺
 - `Domus` Casa
@@ -30,8 +31,14 @@
 - `Piscina` Lago 🚺
 - `Villa` Casa de campo/Vila/Propriedade/Fazenda
 - `Insula` Ilha/Prédio de apartamentos 🚺
+- `Caverna`
+- `Provincia` Província
+- `Castra` Acampamento militar ✴️
+    - Encontrado apenas no plural.
+- `Tentorium` Tenda ✴️
+- `Mare` Mar ✴️
 
-## Casa
+## Domus - Casa
 
 - `Cenaculum` Sala de jantar ✴️
     - `Coenaculum` Alternativa
@@ -48,6 +55,11 @@
 - `Culina` Cozinha
 - `Atrium` Saguão/Átrio ✴️
 
+## Direções e lugares relativos
+
+- `Laeva` Esquerda
+- `Dextra/Dextera` Direita
+
 ## Cidades e Países
 
 ### América
@@ -62,9 +74,55 @@
 
 - `Italia` Itália
     - `Roma`
-- `Anglia` Inglaterra
-    - `Westmonasterium` Westminster ✴️
+    - `Sicilia` Sicília
+    - `Sardinia` Sardenha
+    - `Brundisium` Brindisi ✴️
+    - `Tusculum` Túsculo ✴️
+    - `Latium` Lácio ✴️
+    - `Etruria` Etrúria (atual Toscana)
+- `Melita` Malta
+- `Graecia/Hellas` Grécia
+    - `Sparta` Esparta
+    - `Delphi` Delfos
+    - `Creta`
+    - `Rhodus/Rhodos` Rodes
+    - `Naxus/Naxos` Naxos
+    - `Samos`
+    - `Chios` Quios
+    - `Lesbos`
+    - `Lemnos`
+    - `Euboea` Eubeia
+- `Britannia` Grã-Bretanha
+    - `Wallia` Gales
+    - `Anglia` Inglaterra
+        - `Westmonasterium` Westminster ✴️
 - `Germania/Alemannia` Alemanha
+- `Gallia` Gália/França
+    - Também é uma forma alternativa de `Wallia`
+    - `Corsica` Córsega
+- `Hispania` Espanha
+- `Prussia` Prússia
+
+### Africa - África
+
+- `Aegyptus` Egito 🚺
+
+### Asia - Ásia
+
+- `Syria` Síria
+- `Arabia` Arábia
+
+### Fluvii - Rios
+
+- `Nilus` Nilo
+- `Rhenus` Reno
+- `Danubius` Danúbio
+- `Tiberis` Tibre
+
+## Oceani - Oceanos
+
+- `Atlanticus` Atlântico
+- `Pacificus` Pacífico
 
 ## Relativos
 

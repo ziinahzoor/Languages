@@ -58,6 +58,7 @@
 - `Διαμέρισμα` Apartamento ✴️
 - `Ίδρυμα` Instituição/Instituto/Fundação
 - `Πανηγύρι` Feira ✴️
+- `Φούρνος` Padaria 🚹
 
 ## Relativos
 
@@ -67,9 +68,12 @@
 - `Γωνία` Canto 🚺
 - `Εσωτερικό` Interior 🚺
 - `Προορισμός` Destino
+- `Ψηλά` Cima/Para cima
+- `Χαμηλά` Baixo/Para baixo
 - `Κάτω` Embaixo/Abaixo
 - `Κοντά` Perto
 - `Μακριά` Longe
+- `Κάπου` Em algum lugar
 
 ### Κατευθύνσεις - Direções
 

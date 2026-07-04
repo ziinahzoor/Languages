@@ -7,6 +7,7 @@
 - `こんにちは` Olá
     - Deriva de `今日はおげんきですか` "Como vai você hoje?"
 - `どうも` Oi (casual)
+- `おっす` Oi/E aí (masculino e muito casual)
 - `もしもし` Alô
 - `おはようございます` Bom dia
     - `おはよう` Casual
@@ -22,6 +23,7 @@
 ## Ao partir
 
 - `じゃあね` Tchau
+    - `バイバイ` Casual
 - `またね` Até logo
 - <font size="5"><code>また<ruby>明日<rt>あした</rt></ruby></code></font> Até amanhã
 - `おやすみなさい` Boa noite (Ao se despedir)
@@ -52,22 +54,30 @@
 
 ## Solicitações
 
-- `ください` Por favor (Para objetos e ações)
-- `おねがいします` Por favor (Para serviços)
+- `ください` Por favor
+    - Mais usado com pedidos físicos e tangíveis.
+- <font size="5"><code>お<ruby>願<rt>ねが</rt></ruby>いします</code></font> Por favor (Kenjougo)
+    - Mais usado em situações formais, e para pedir serviços e favores.
+    - <font size="5"><code><ruby>お<ruby>願<rt>ねが</rt></ruby>い</code></font> Abreviação (interjeição)
 - <font size="5"><code>ちょっと<ruby>待<rt>ま</rt></ruby>って</code></font> Espere um pouco
     - <font size="5"><code><ruby>少<rt>しょう</rt>々</ruby>お<ruby>待<rt>ま</rt></ruby>ちください</code></font> Espere um pouco por favor
 - <font size="5"><code>よろしくお<ruby>願<rt>ねが</rt></ruby>い<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます</code></font> Agradeço a compreensão
+- <font size="5"><code>よろしくお<ruby>伝<rt>つた</rt></ruby>えください</code></font> Por favor, dê os meus cumprimentos
 
-## Arrependimento
+## Arrependimento/Solidariedade
 
 - `すみません` Com licença/Desculpa
     - Pode ser usado com a forma て para indicar "desculpa por...".
     - `すまん` Casual/Masculina
     - `ごめんなさい` Desculpa (Casual)
         - `ごめん` Abreviação
+        - `ごめんね` Abreviação (geralmente feminina)
     - <font size="5"><code><ruby>失<rt>しつ</rt>礼<rt>れい</rt></ruby>します</code></font> Teineigo
         - Literalmente "estou sendo rude".
-    - <font size="5"><code><ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt>ございません<rt></rt></ruby></code></font> Sinto muito/Mil desculpas
+    - <font size="5"><code><ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt>ありません<rt></rt></ruby></code></font> Sinto muito/Mil desculpas
+        - <font size="5"><code><ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt>ございません<rt></rt></ruby></code></font> Kenjougo
+    - `すんまへん・すまへん・すいまへん・すまん` Kansai-ben
+- <font size="5"><code>お<ruby>気<rt>き</rt></ruby>の<ruby>毒<rt>どく</rt></ruby>に</code></font> Sinto muito em ouvir isso/Que pena
 
 ## Felicitações
 
@@ -103,6 +113,7 @@
 
 - <font size="5"><code><ruby>了<rt>りょう</rt>解<rt>かい</rt></ruby></code></font> Ok/Entendido
 - <font size="5"><code><ruby>畏<rt>かしこ</rt></ruby>まりました</code></font> Certamente/É pra já
+    - Geralmente escrito em kana.
     - Usado por funcionários ao atender pedidos de superiores ou clientes.
 
 ## Dúvidas
@@ -111,5 +122,5 @@
 - `わからない` Eu não sei
     - `わかない` Abreviação
 - <font size="5"><code><ruby>用<rt>よう</rt>意<rt>い</rt></ruby>はいいか</code></font> Vocês estão prontos?
-- `どうしたのですか` Qual o problema?/O que há de errado?
+- `どうしたのですか・どうしましたか` Qual o problema?/O que há de errado?
     - `どうしたんですか・どうしたの` Abreviação

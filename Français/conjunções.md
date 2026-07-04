@@ -3,6 +3,8 @@
 - `Et` E
 - `Mais` Mas
 - `Ou` Ou
+- `Comme` Como (Comparativo)
+- `Tel` Tal
 - `Quand` Quando
 - `Lorsque` Quando
     - Geralmente é sinônimo de `quand`, exceto ao fazer contrapontos (Ex.: Gritei quando devia correr).
@@ -17,6 +19,11 @@
 - `Alors que` Enquanto que (simultaneidade ou contraste)
 - `Tandis que` Enquanto que (contraste)
 - `Afin de` A fim de
+- `Même si` Mesmo se/Mesmo que/Embora
+- `Il n'empêche que` O fato é que/Apesar de tudo/Ainda assim
+- `Or` Ainda/Entretanto/Por acaso/Acontece que
+- `Sous prétexte que` Alegando que/Sob o pretexto de
+- `De crainte que` Por medo de que
 
 # Interjections - Interjeições
 
@@ -54,3 +61,4 @@
 - `Ça y est` Isso aí/Isso mesmo/Aqui vamos nós
 - `Hélas` Infelizmente
 - `Eh bien/Et bien` Então/Bem
+- `Hop` Tcharan

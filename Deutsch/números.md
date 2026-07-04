@@ -17,3 +17,13 @@
 - `Zwölf` Doze
 - `Zwanzig` Vinte
 - `Dreißig` Trinta
+
+## Ordinais
+
+- `Erste` Primeiro
+- `Zweite` Segundo
+    - `Zwote` Coloquial
+- `Dritte` Terceiro
+- `Vierte` Quarto
+- `Siebte` Sétimo
+- `Zenhte` Décimo

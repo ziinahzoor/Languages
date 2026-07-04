@@ -7,6 +7,7 @@
 - `Λίγο` Pouco
 - `Καλά` Bem
 - `Καλώς` Bem
+- `Άσχημα` Mal
 - `Πώς` Como (maneira)
 - `Ως` Como (de tal maneira que)
 - `Έξω` Fora
@@ -39,6 +40,7 @@
 - `Ακόμα` Ainda
     - `Ακόμα κι` Mesmo se
 - `Μόνο` Só/Somente
+- `Απλώς` Apenas/Só
 - `Ήδη` Já
 - `Επίσης` Também
 - `Ακριβώς` Exatamente/Precisamente/Em ponto
@@ -65,3 +67,35 @@
 - `Οπωσδήποτε` De qualquer forma
 - `Δωρεάν` Grátis/Gratuito/Gratuitamente
 - `Μόλις` Quase/Acabar de
+- `Σιγά` Devagar/Lentamente/Silenciosamente (intensidade)
+    - `Σιγά σιγά` Pouco a pouco
+- `Αργά` Devagar/Lentamente (velocidade)
+- `Γρήγορα` Rapidamente
+- `Πραγματικά` Realmente
+- `Συνήθως` Geralmente/Usualmente
+- `Γενικά` Em geral
+- `Πιθανώς` Provavelmente
+- `Φυσιολογικά` Normalmente
+- `Τέλεια` Perfeitamente
+- `Πρώτα` Primeiro/Primeiramente
+- `Εύκολα` Facilmente
+- `Ειδικά` Especialmente/Particularmente
+- `Ιδιαίτερα` Particularmente/Especialmente
+- `Αρκετά` Bastante
+- `Σωστά` Corretamente
+- `Δυνατά` Fortemente
+    - Também usado para indicar que algo está "alto".
+- `Συνεχώς` Continuadamente/Constantemente/O tempo inteiro
+- `Φυσικά` Naturalmente/Claro
+- `Βεβαίως/Βέβαια` Certamente/Claro
+- `Προσωπικά` Pessoalmente
+- `Ειλικρινά` Honestamente/Sinceramente
+- `Καθαρά` Claramente
+- `Δημιουργικά` Criativamente
+- `Αμέσως` Imediatamente/Agora mesmo
+- `Ευχαρίστως` Com prazer
+- `Ευχάριστα` Agradavelmente/De bom grado
+- `Υπερβολικά` Tão/Excessivamente
+- `Εντελώς` Completamente/Inteiramente
+- `Λανθασμένα` Incorretamente
+- `Τελικά` Afinal de contas/No fim das contas/Finalmente

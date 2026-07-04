@@ -11,6 +11,7 @@
 - `Partner` Parceiro
 - `Vegetarier` Vegetariano
 - `Mitbewohner` Colega de quarto
+- `Hexe` Bruxa
 
 ## Profissões
 
@@ -29,6 +30,7 @@
 
 ## Família
 
+- `Eltern` Pais
 - `Vater` Pai
 - `Mutter` Mãe
 - `Sohn` Filho

@@ -12,6 +12,8 @@
 ## Vocabulário
 
 - `Ita` Sim/Então
+    - "Sim" também pode ser dito com "est".
+- `Tum` Então
 - `Paulum` Pouco
 - `Multum` Muito (quantitativo e intensificativo)
 - `Valde` Muito mesmo (apenas intensificativo)
@@ -24,14 +26,20 @@
 - `Nimis` Tanto/Demais (excessivamente)
 - `Non` Não
     - Usado apenas para negar palavras.
-- `Sed` Mas
+- `Num` Não
+    - Usado para perguntas em que se espera uma resposta negativa.
+- `Nonne` Não
+    - Usado para perguntas em que se espera uma resposta positiva.
 - `Bene` Bem
 - `Male` Mal
 - `Celeriter` Rapidamente
+    - `Celerrime` Mais rapidamente
 - `Falso` Falsamente
 - `Libere` Livremente
 - `Ibidem` No mesmo lugar/No mesmo instante
-- `Ideo` Portanto
+- `Itaque` Portanto/Desta forma
+- `Ideo` Por essa razão/Portanto
+- `Ergo` Consequentemente/Portanto
 - `Semper` Sempre
 - `In perpetuum` Para sempre
 - `Saepe/Sepe` Frequentemente
@@ -52,5 +60,29 @@
 - `Lente` Lentamente/Vagarosamente
 - `Rapide` Rapidamente
 - `Celeriter` Velozmente/Imediatamente
+- `Statim` Imediatamente/Para já
 - `Languide` Tenuemente
 - `Suaviter` Docemente/Gentilmente/Suavemente
+- `Prope` Perto/Próximo
+- `Subito` De repente/Subitamente
+- `Barbare` Rudemente/Incorretamente
+- `Nunc` Agora
+- `Iam` Já/Agora
+    - "Agora" como em "não antes".
+- `Mox` Logo
+- `Ante` Antes/Na frente
+- `Post` Depois/Atrás
+- `Necesse` Inevitavelmente
+- `Facile` Facilmente
+- `Etiamnum/Etiamnunc` Ainda
+- `Iterum` De novo
+- `Aliter` Senão/Do contrário
+- `Certe` Certamente
+- `Fortiter` Fortemente/Corajosamente
+- `Contra`
+- `Paene` Quase
+- `Tandem` Por fim/Finalmente
+- `Neque` Nem/E não/Também não
+    - `Nec` Abreviação
+- `Foras` De fora
+- `Etiam` E também/E até

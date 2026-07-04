@@ -1,45 +1,47 @@
-# Homines - Pessoas
+# Homines - Pessoas 🚹
 
 - `Homo` Humano/Pessoa 🚹
+- `Civis` Cidadão
+- `Populus` Povo/Nação
 - `Turba` Multidão
-- `Homo` Homem/Ser-humano
 - `Vir` Homem
 - `Femina` Mulher
     - `Mulier` Alternativa (porém `femina` é mais respeitoso)
 - `Puer` Menino
 - `Puella` Menina
     - `Pupa` Menininha
-- `Regina` Rainha
-- `Dominus` Senhor
+- `Dominus` Senhor/Mestre
+    - Também usado para se referir a Deus.
 - `Domina` Senhora
 - `Senex` Idoso
 - `Vidua` Viúva
 - `Heres` Herdeiro
-- `Civis` Cidadão
 - `Iuvenis` Jovem
 - `Cliens` Cliente
 - `Patronus` Patrono
     - Em Roma era uma espécie de político e advogado que atendia clientes de classes inferiores, atendendo seus interesses em troca de lealdade, votos e serviços.
-- `Gladiator` Gladiador/Espadachim
 - `Socius` Parceiro/Aliado
 - `Comes` Companheiro/Camarada
 - `Contubernalis` Camarada (em contextos militares)
 - `Hostis` Inimigo
 - `Fur` Ladrão
 - `Emptor` Comprador
+- `Amicus` Amigo
+- `Persona` Personagem 🚺
+- `Servus` Escravo
+- `Fugitivus` Fugitivo
+- `Ancilla` Aia/Serva/Empregada
+- `Vicinus` Vizinho
 
 ## Profissões
 
-- `Armiger` Escudeiro
 - `Parsona` Pároco
 - `Agricola` Fazendeiro
 - `Papa`
-- `Faber` Ferreiro
 - `Magister` Mestre/Professor
 - `Professor`
 - `Discipulus` Aluno/Estudante
 - `Abbas` Abade
-- `Executor` Carrasco/Executor
 - `Miles` Soldado/Cavaleiro
 - `Medicus` Médico
 - `Ratiocinator` Contador
@@ -54,9 +56,25 @@
 - `Mercator` Comerciante
 - `Paedagogus` Pedagogo/Educador
     - `Pedagogus` Alternativa
-- `Vates` Vidente/Profeta/Oráculo/Bardo
 - `Orator` Orador/Porta-voz
 - `Sacerdos` Padre/Sacerdote
+- `Imperator` Comandante
+- `Sutor` Sapateiro
+
+### Históricas
+
+- `Legatus` Legado/Comandante
+- `Tribunus militum` Tribuno militar
+    - `Tribunus laticlavius` Tribuno laticlávio
+    - `Tribunus angusticlavius` Tribuno angusticlávio
+- `Praefectus` Oficial/Comandante/Prefeito
+    - `Praefectus Castrorum` Prefeito de Acampamento
+        - Terceira maior categoria nas legiões romanas, atrás dos legados e dos tribunos militares.
+- `Vates` Vidente/Profeta/Oráculo/Bardo
+- `Armiger` Escudeiro
+- `Executor` Carrasco/Executor
+- `Gladiator` Gladiador/Espadachim
+- `Faber` Ferreiro
 
 ## Familia - Família
 
@@ -65,16 +83,30 @@
 - `Parens` Pai(s)
 - `Pater` Pai
 - `Mater` Mãe
+    - `Mamma` Mamãe (Infantil)
 - `Frater` Irmão
 - `Soror` Irmã
 - `Maritus` Marido
 - `Uxor` Esposa
     - `Proxima` Alternativa
 - `Vir` Marido
+- `Liber` Filho
+    - Usado quase exclusivamente no plural `liberi` "filhos".
 - `Filius` Filho
 - `Filia` Filha
 - `Ava` Avó
 - `Avus` Avô
+
+## Instituições
+
+- `Imperium` Império ✴️
+- `Senatus` Senado
+
+## Figuras públicas
+
+- `Imperator` Imperador
+- `Rex` Rei
+- `Regina` Rainha
 
 ## Divindades
 

@@ -231,6 +231,7 @@
 - `Dedicarse` Dedicar-se
 - `Mencionar`
 - `Sospechar` Suspeitar
+- `Multiplicar`
 
 ## Los verbos -er
 

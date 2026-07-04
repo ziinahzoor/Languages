@@ -1,6 +1,21 @@
 # Advérbios
 
--   `Ja` Sim
-    -   É na verdade uma interjeição
--   `Nei` Não
-    -   É na verdade uma interjeição
+- `Ja` Sim
+    - É na verdade uma interjeição
+- `Nei` Não
+    - É na verdade uma interjeição
+- `Ikke` Não
+    - Vem depois do verbo
+- `Veldig` Muito
+- `Bra` Bem
+- `Kanskje` Talvez
+- `Mer` Mais
+- `For` Tão/Demais
+- `Aldri` Nunca
+- `Ofte` Frequentemente
+- `Av og til` De vez em quando
+- `Også` Também
+- `Hvorfor` Por que
+    - `Korfor` Nynorsk
+    - `Kvifor` Nynorsk (alternativa)
+- `OK` Ok

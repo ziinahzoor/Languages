@@ -79,6 +79,8 @@
 - `Charcuterie` Frios 🚺
 - `Gaufre` Waffle 🚺
 - `Bouillon` Caldo
+- `Sésame` Gergelim
+- `Gluten` Glúten
 
 ## Les Légumes - Vegetais
 
@@ -148,6 +150,7 @@
 
 ## Les Repas - Refeições
 
+- `Mets` Prato
 - `Repas` Refeição 🚹
 - `Petit déjeuner` Café da manhã
 - `Déjeuner` Almoço
@@ -164,6 +167,7 @@
     - Significa algum aperitivo ou lanche, geralmente um sanduíche de baguete.
 - `Plat à emporter` Comida pra levar 🚹
 - `Restes` Sobras 🚹
+- `Formule` Refeição de preço fixo/Prato feito 🚺
 
 ## Culinária francesa
 

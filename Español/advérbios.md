@@ -2,117 +2,118 @@
 
 **São invariáveis.**
 
--   `No` Não
--   `Sí` Sim
--   `Dónde` Onde
--   `Adónde` Aonde
--   `Pero` Mas
--   `Sin embargo` Porém/Entretanto
--   `Muy` Muito (Intensidade)
--   `Mucho` Muito (Quantidade)
--   `Demasiado` Muito/Demais/Excessivamente
--   `Poco` Pouco
--   `Más` Mais
--   `Menos`
--   `También` Também
--   `Conmigo` Comigo
--   `Contigo`
--   `Por qué` Por que/Por quê
--   `Porque` Porque
--   `Bien` Bem
--   `Mal`
--   `Todavía` Ainda (Yet)
--   `Cuándo` Quando
--   `Luego` Depois/Logo
--   `A menudo` Frequentemente
--   `Siempre` Sempre
--   `A veces` Às vezes
--   `Nunca`
--   `Entonces` Então
--   `Juntos`
--   `Todo` Tudo/Todo
--   `Ya` Já
--   `Mayor` Maior
--   `De verdad` De verdade/Realmente
--   `Mejor` Melhor
--   `Peor` Pior
--   `Solo` Só/Apenas
--   `Demasiado` Demais/Em excesso
--   `Tan` Tão
--   `Como` Como/Quanto
--   `Pronto` Logo
--   `Rápido`
--   `Despacio` Devagar
--   `Por supuesto` Claro/Óbvio
--   `Encima` Em cima
--   `De vez en cuando` De vez em quando
--   `Jamás` Jamais
--   `Tampoco` Tampouco/Nem
--   `Si mejor` Ao invés
--   `A lo mejor` Talvez
--   `Tal vez` Talvez
--   `Quizás` Talvez/Quiçá
--   `Donde` Onde
--   `Excepto` Exceto
--   `Así` Assim
--   `Por fin` Por fim
--   `Tanto`
--   `Bastante`
--   `Casi` Quase
--   `Mientras` Enquanto
--   `Alrededor` Ao redor
--   `Recién` Recentemente
--   `Etcétera`
--   `En realidad` Na verdade
--   `De todas formas` De toda forma
-    -   `De todas maneras` De toda maneira
--   `Menos mal` Menos mal/Felizmente
--   `Desde`
--   `Abajo` Abaixo
--   `Arriba` Acima
--   `Tal como` Como/Tal como
--   `A la venta` À venda
--   `Igual`
--   `Contra`
--   `A través` Através
--   `Por el momento` Por ora
--   `Por suerte` Por sorte
--   `Por ciento` Por cento
--   `De verdad` De verdade
--   `De una vez por todas` De uma vez por todas
--   `A ciegas` Às cegas
--   `A tiempo` A tempo
--   `A la vez` Ao mesmo tempo/De uma só vez
--   `De nuevo` De novo
--   `De pronto` De repente
--   `De repente` De repente
--   `De buena gana` Voluntariamente
--   `De memoria` De cabeça/De cor
--   `Por suerte` Por sorte
--   `Por desgracia` Infelizmente
+- `No` Não
+- `Sí` Sim
+- `Dónde` Onde
+- `Adónde` Aonde
+- `Pero` Mas
+- `Sin embargo` Porém/Entretanto
+- `Muy` Muito (Intensidade)
+- `Mucho` Muito (Quantidade)
+- `Demasiado` Muito/Demais/Excessivamente
+- `Poco` Pouco
+- `Más` Mais
+- `Menos`
+- `También` Também
+- `Conmigo` Comigo
+- `Contigo`
+- `Por qué` Por que/Por quê
+- `Porque` Porque
+- `Bien` Bem
+- `Mal`
+- `Todavía` Ainda (Yet)
+- `Cuándo` Quando
+- `Luego` Depois/Logo
+- `A menudo` Frequentemente
+- `Siempre` Sempre
+- `A veces` Às vezes
+- `Nunca`
+- `Entonces` Então
+- `Juntos`
+- `Todo` Tudo/Todo
+- `Ya` Já
+- `Mayor` Maior
+- `De verdad` De verdade/Realmente
+- `Mejor` Melhor
+- `Peor` Pior
+- `Solo` Só/Apenas
+- `Demasiado` Demais/Em excesso
+- `Tan` Tão
+- `Como` Como/Quanto
+- `Pronto` Logo
+- `Rápido`
+- `Despacio` Devagar
+- `Por supuesto` Claro/Óbvio
+- `Encima` Em cima
+- `De vez en cuando` De vez em quando
+- `Jamás` Jamais
+- `Tampoco` Tampouco/Nem
+- `Si mejor` Ao invés
+- `A lo mejor` Talvez
+- `Tal vez` Talvez
+- `Quizás` Talvez/Quiçá
+- `Donde` Onde
+- `Excepto` Exceto
+- `Así` Assim
+- `Por fin` Por fim
+- `Tanto`
+- `Bastante`
+- `Casi` Quase
+- `Mientras` Enquanto
+- `Alrededor` Ao redor
+- `Recién` Recentemente
+- `Etcétera`
+- `En realidad` Na verdade
+- `De todas formas` De toda forma
+    - `De todas maneras` De toda maneira
+- `Menos mal` Menos mal/Felizmente
+- `Desde`
+- `Abajo` Abaixo
+- `Arriba` Acima
+- `Tal como` Como/Tal como
+- `A la venta` À venda
+- `Igual`
+- `Contra`
+- `A través` Através
+- `Por el momento` Por ora
+- `Por suerte` Por sorte
+- `Por ciento` Por cento
+- `De verdad` De verdade
+- `De una vez por todas` De uma vez por todas
+- `A ciegas` Às cegas
+- `A tiempo` A tempo
+- `A la vez` Ao mesmo tempo/De uma só vez
+- `De nuevo` De novo
+- `De pronto` De repente
+- `De repente` De repente
+- `De buena gana` Voluntariamente
+- `De memoria` De cabeça/De cor
+- `Por suerte` Por sorte
+- `Por desgracia` Infelizmente
+- `En este momento` Neste momento
 
 ## De modo
 
--   `Inmediatamente` Imediatamente
--   `Rápidamente` Rapidamente
--   `Probablemente` Provavelmente
--   `Lentamente`
--   `Desafortunadamente` Infelizmente
--   `Usualmente` Geralmente
--   `Generalmente` Geralmente
--   `Frecuentemente` Frequentemente
--   `Fácilmente` Facilmente
--   `Normalmente`
--   `Gravemente`
--   `Claramente`
--   `Completamente`
--   `Possiblemente` Possivelmente
--   `Finalmente`
--   `Incluso` Até/Mesmo
--   `Especialmente`
--   `Exactamente` Exatamente
--   `Solamente` Somente
--   `Silenciosamente`
--   `Recientemente`
--   `Actualmente` Atualmente
--   `Así` Assim
+- `Inmediatamente` Imediatamente
+- `Rápidamente` Rapidamente
+- `Probablemente` Provavelmente
+- `Lentamente`
+- `Desafortunadamente` Infelizmente
+- `Usualmente` Geralmente
+- `Generalmente` Geralmente
+- `Frecuentemente` Frequentemente
+- `Fácilmente` Facilmente
+- `Normalmente`
+- `Gravemente`
+- `Claramente`
+- `Completamente`
+- `Possiblemente` Possivelmente
+- `Finalmente`
+- `Incluso` Até/Mesmo
+- `Especialmente`
+- `Exactamente` Exatamente
+- `Solamente` Somente
+- `Silenciosamente`
+- `Recientemente`
+- `Actualmente` Atualmente
+- `Así` Assim

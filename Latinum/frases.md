@@ -11,6 +11,7 @@
 - `Quis es tu?` Quem é você?
 - `Quomodo te habes?` Como vai?
     - `Quid agis?` Casual
+        - Também pode significar "o que você está fazendo?".
 
 ## Solicitações
 
@@ -20,3 +21,4 @@
 
 - `Bene me habeo` Me sinto bem
 - `Quid pro quo` Isto por aquilo
+- `Et cetera` E os outros

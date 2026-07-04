@@ -17,9 +17,11 @@
 ## Indéfinis - Indefinidos
 
 - `Autre` Outro(a)
+- `Tel que` Tal qual
 
 ## Nationalité - Nacionalidade
 
+- `Apatride` Apátrida
 - `Étranger` Estrangeiro
 - `Européen` Europeu
 - `Africain` Africano
@@ -44,6 +46,7 @@
 - `Libanais` Libanês
 - `Portugais` Português
 - `Irlandais` Irlandês
+- `Suédois` Sueco
 
 ## Aparência
 
@@ -106,6 +109,8 @@
     - Para pessoas quer dizer "irritante"
     - `Relou` Verlan
 - `Profond` Profundo
+- `Majeur` Maior
+- `Majuscule` Maiúsculo
 
 ## Quantidade
 
@@ -148,6 +153,7 @@
 - `Cool` Legal
 - `Bizarre` Esquisito
 - `Mignon` Fofo
+- `Chou` Fofo
 - `Bruyant` Barulhento
 - `Fragile` Frágil
 - `Pressé` Apressado/Com pressa
@@ -172,6 +178,7 @@
 - `Doux` Macio
 - `Professionnel` Profissional
 - `Sauvage` Selvagem
+- `Domestiqué` Domesticado
 - `Bête` Besta/Bobo
 - `Enchanté` Encantado/Contente
 - `Fort` Forte/Intenso
@@ -202,12 +209,14 @@
 - `Privé` Privado
 - `Serré` Apertado
 - `Nature` Simples/Puro
-- `Ordinaire` Ordinário
+- `Ordinaire` Ordinário/Do dia a dia
 - `Énervant` Irritante
 - `Indispensable` Indispensável
 - `Bavard` Falador/Tagarela
 - `Surprenant` Surpreendente
+- `Émouvant` Comovente
 - `Supplémentaire` Adicional/Extra/Suplementar
+    - `Supp` Abreviação
 - `Obligatoire` Obrigatório
 - `Silencieux` Silencioso
 - `Accueilli` Recebido/Acolhido
@@ -233,6 +242,39 @@
 - `Réactionnaire` Reacionário
     - `Réac` Abreviação
 - `Élu` Eleito
+- `Fondé` Fundamentado/Fundado/Baseado
+- `Infondé` Infundado
+- `Moteur` Motor
+- `Fiable` Confiável
+- `Exceptionnel` Excepcional
+- `Coupable` Culpado
+- `Contemporain` Contemporâneo
+- `Urbain` Urbano
+- `À couper le souffle` De tirar o fôlego
+- `Tape-à-l'œil` Extravagante/Espalhafatoso/Chamativo
+- `Kitsch` Brega
+- `Convaincant` Convincente
+- `Polyamoureux` Poliamoroso
+- `Anxiogène` Ansiogênico
+- `Durable` Durável/Sustentável
+- `Esthétique` Estético
+- `Cosmétique` Cosmético
+- `Gastronomique` Gastronômico
+- `Environnemental` Ambiental
+- `Économique` Econômico
+- `Gouvernemental` Governamental
+- `Du terroir` Local
+- `Étoilé` Estrelado
+- `Narratif` Narrativo
+- `Poétique` Poético
+- `Théâtral` Teatral
+- `Épistolaire` Epistolar
+- `Argumentatif` Argumentativo
+- `Migratoire` Migratório
+- `Civil`
+- `Laïc` Laico
+- `Tricolor`
+- `Militaire` Militar
 
 ### Personalidade
 
@@ -256,6 +298,12 @@
 - `Tatillon` Exigente/Meticuloso/Detalhista
 - `Maladroit` Desajeitado
 - `Naïf` Ingênuo
+- `Ouvert d'esprit` Mente aberta
+- `Fermé d'esprit` Mente fechada
+- `Râleur` Rabugento
+- `Dramatique` Dramático
+- `Déjanté` Excêntrico/Maluco
+- `Serein` Sereno/Tranquilo
 
 ## Gosto
 
@@ -296,6 +344,7 @@
     - `Sur` Pós-reforma de 90
 - `Spécial` Especial
 - `Crevé` Achatado/Furado
+    - Também gíria para "cansado", "exausto".
 - `En panne` Quebrado (Temporariamente)/Enguiçado/Com defeito
 - `Cassé` Quebrado
 - `Mouillé` Molhado
@@ -335,6 +384,12 @@
 - `Périmé` Vencido/Expirado
 - `Meublé` Mobiliado
 - `Soulagé` Aliviado
+- `Maudit` Maldito
+- `Menacé d'extinction` Ameaçado de extinção
+- `Soumis` Submetido
+- `De seconde main` De segunda mão
+- `En mesure de` Capaz de
+- `Programmé` Programado
 
 ### Físicas
 
@@ -355,10 +410,14 @@
 - `Flou` Turvo/Embaçado
 - `Épuisé` Exausto
 - `Bouché` Entupido
+- `Onctueux` Oleoso/Cremoso
+- `Ferme` Firme
+- `Surgelé` Congelado
 
 ## Sentimento/Emoção
 
 - `Amusant` Divertido/Engraçado
+- `Marrant` Divertido/Engraçado
 - `Divertissant` Divertido
 - `Drôle` Engraçado
 - `Content` Contente
@@ -393,6 +452,8 @@
 - `Effrayant` Assustador
 - `Fascinant` Fascinante
 - `Captivant` Cativante
+- `Provocant` Provocante/Provocativo
+- `Réel` Real
 
 ## Qualidade
 
@@ -413,6 +474,8 @@
 - `Super` Ótimo
 - `Génial` Genial/Grande/Incrível
 - `Incroyable` Incrível/Inacreditável
+- `Étonnant` Incrível/Impressionante
+- `Marrant` Incrível
 - `Excellent` Excelente
 - `Fantastique` Fantástico
 - `Magnifique` Magnífico/Maravilhoso
@@ -447,9 +510,16 @@
 ## Categoria
 
 - `Végétarien` Vegetariano
-- `Vegan` Vegano
+- `Végan` Vegano
+    - `Végane` Alternativa
+    - `Végétalien` Alternativa
 - `Compris` Incluso
 - `Même` Mesmo
+- `Éditorial` Editorial
+- `Précurseur` Precursos
+- `Adepte` Adepto
+- `Détracteur` Detrator
+- `Avant-gardiste` Vanguardista
 
 ## Utilidade/Função
 
@@ -467,6 +537,7 @@
 - `Prochain` Próximo
 - `Proche` Próximo (Perto)
 - `Direct` Direto
+- `Issu` Originado
 
 ## Nível
 

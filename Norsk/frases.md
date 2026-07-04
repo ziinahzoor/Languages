@@ -1,6 +1,21 @@
 # Frases
 
--   `Hei` Oi/Olá
--   `Takk` Por favor/Obrigado
--   `Velkommen` Bem-vindo
--   `Ha det` Tchau
+- `Hei` Oi/Olá
+- `Hallo` Olá
+- `Vær så snill` Por favor
+- `Takk` Por favor/Obrigado
+- `Tusen takk` Muito obrigado
+- `Bare hyggelig` De nada
+- `Velkommen` Bem-vindo
+- `Ha det` Tchau
+- `Å nei` Ah não
+- `God morgen` Bom dia
+- `God dag` Boa tarde
+- `God kveld` Boa noite (ao anoitecer)
+- `Går det bra?` Tudo bem?
+- `Det går bra` Tudo bem
+- `Hvordan går det?` Como vai?
+- `Beklager` Desculpa
+- `Unnskyld` Com licença
+- `Ha det bra` Tchau
+- `Hyggelig å møte deg` Prazer em conhecer

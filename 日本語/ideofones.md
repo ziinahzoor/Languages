@@ -6,6 +6,7 @@
 - `ガミガミ` De forma resmungante (Advérbio)
 - `きんきん` De forma estridente (Advérbio e verbo-する)
 - `ワイワイ` De forma barulhenta (Advérbio)
+- `もぐもぐ` Mastigando
 
 ## <ruby>擬<rt>ぎ</rt>音<rt>おん</rt>語<rt>ご</rt></ruby> Sons da natureza ou objetos inanimados
 
@@ -19,6 +20,7 @@
 - `キラキラ` Brilhante
 - `そろそろ` Logo logo/Vagarosamente/Gradualmente
     - Indica algo se aproximando lentamente, mas que vai chegar logo.
+    - `ぼちぼち` Kansai-ben
 - `ベタベタ` Grudento
 - `とろとろ` Fervilhante
 - `ふらふら` De forma tonta/cambaleante (Advérbio e verbo-する)
@@ -37,9 +39,12 @@
 - `カラカラ` Seco/Vazio
 - `バレバレ` Óbvio
 - `モコモコ` Fofo
+- `ギリギリ` Quase/Por pouco
 
 ### <ruby>擬<rt>ぎ</rt>容<rt>よう</rt>語<rt>ご</rt></ruby> Movimentos e gestos
 
 - `ニコニコ` Sorrindo
+- `ニヤニヤ` Sorrindo (de forma cínica)
+- `バタバタ` Balançando/Batendo/Tremulando/Esvoaçando
 
 ### <ruby>擬<rt>ぎ</rt>情<rt>じょう</rt>語<rt>ご</rt></ruby> Sentimentos

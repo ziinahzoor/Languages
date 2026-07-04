@@ -1,4 +1,4 @@
-# Les Expressions - Expressões
+# Les Expressions et Idiomes - Expressões
 
 - `C'est normal` Nada demais/Não tem problema
 - `Faire les courses` Fazer compras (mercado)
@@ -75,6 +75,7 @@
 - `Qu'est-ce que` O que/Como
     - Em perguntas significa "o que" e em afirmações indica um "como" exclamativo, geralmente nostálgico.
 - `Coup de foudre` Amor à primeira vista
+- `Coup d'un soir` Caso de uma noite
 - `Portrait craché` Parecer/Ser a cara (cuspido e escarrado)
 - `Mort de rire` Morrendo de rir
     - `Mdr` Abreviação
@@ -107,6 +108,37 @@
 - `À l'aveugle` Às cegas
 - `Coup de cœur` Amor à primeira vista/Xodó/Paixonite
 - `Figure-toi` Fique sabendo
+- `C'est-à-dire` Isto é/Quer dizer
+- `J'hallucine` Não acredito
+- `C'est ouf` Que loucura
+- `Non, mais...` Realmente, ...
+    - É apenas um indicador de ênfase, podendo ser usado com qualquer expressão.
+- `Je te l'avais bien dit` Eu te avisei
+- `La flemme` Que preguiça
+- `Se jeter dans la gueule du loup` Cutucar onça com vara curta
+- `Être doux comme un agneau` Ser manso como um cordeiro
+- `Avoir une mémoire d'éléphant` Ter memória de elefante
+- `Voir le verre à moitié vide` Ver o copo meio vazio
+- `Voir le verre à moitié plein` Ver o copo meio cheio
+- `Prendre le contre-pied` Ir na contramão
+- `Nager à contre-courant` Ir contra a maré
+- `Vivre avec son temps` Acompanhar o seu tempo
+- `Soit... soit` Ou... ou/Seja... seja
+- `Sinon... aussi` Do contrário... também
+- `L'un ou l'autre` Um ou outro
+- `Tourner la page` Virar a página
+- `Faire table rase` Recomeçar do zero
+- `Passer à autre chose` Seguir em frente
+- `Changer de cap` Mudar de rumo
+- `Quelle galère` Que pesadelo (problema ou tarefa)
+- `Ça craint` Que droga
+- `C'est nickel` Perfeito
+- `Bosser comme un dingue` Trabalhar feito um louco
+- `Être payé au lance-pierre` Receber uma mixaria
+- `Veuillez trouver ci-joint` Segue em anexo
+- `Rêve de gosse` Sonho de infância
+- `Le jeu en vaut la chandelle` Vale a pena/Vale o risco
+- `Remettre en question` Colocar em dúvida
 
 ## Verlan
 

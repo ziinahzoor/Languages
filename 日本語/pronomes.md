@@ -10,17 +10,20 @@
     - É neutro em contextos formais e feminino em casuais.
     - <font size="5"><code><ruby>私<rt>わたくし</rt></ruby></code></font> kenjougo, humilde e usado em situações mais formais
     - <font size="5"><code><ruby>僕<rt>ぼく</rt></ruby></code></font> é mais masculino em contextos casuais.
+        - Também é utilizado coloquialmente como segunda pessoa quando se refere a meninos pequenos.
     - <font size="5"><code><ruby>俺<rt>おれ</rt></ruby></code></font> é ainda mais masculino e até mesmo vulgar.
         - Usado em contextos onde busca-se demonstrar masculinidade, como bares e encontros românticos.
-    - `うち` é bastante comum entre mulheres.
+    - `うち` é bastante comum entre mulheres, principalmente em Kansai.
     - <font size="5"><code><ruby>私<rt>あたし</rt></ruby></code></font> também é comum entre mulheres.
         - <font size="5"><code><ruby>私<rt>あたくし</rt></ruby></code></font> é mais honorífico.
+    - <font size="5"><code><ruby>私<rt>あたい</rt></ruby></code></font> é usado por mulheres em Kansai
 - <font size="5"><code><ruby>貴<rt>あな</rt>方<rt>た</rt></ruby></code></font> Tu/Você
     - Hoje é considerado um pouco distante ou até mesmo rude, sendo mais comum utilizar o nome da pessoa com um honorífico.
     - <font size="5"><code><ruby>貴<rt>あん</rt>方<rt>た</rt></ruby></code></font> Forma familiar, considerada rude.
     - <font size="5"><code>お<ruby>前<rt>まえ</rt></ruby></code></font> Amistoso e casual com amigos, rude com estranhos.
     - <font size="5"><code><ruby>君<rt>きみ</rt></ruby></code></font> Amistoso e familiar, usado com pessoas de mesmo ou status mais baixo.
     - <font size="5"><code><ruby>手前<rt>てめえ</rt></ruby></code></font> Masculino e rude, usado com pessoas consideradas de grau inferior.
+    - `あんさん` usado em Kansai
 - <font size="5"><code><ruby>彼<rt>かれ</rt></ruby></code></font> Ele
 - <font size="5"><code><ruby>彼<rt>かの</rt>女<rt>じょ</rt></ruby></code></font> Ela
 - <font size="5"><code><ruby>我<rt>われ</rt>々<rt>われ</rt></ruby>・<ruby>我<rt>われ</rt>ら</ruby></code></font> Nós (geralmente quando grupo ou instituição, ou formal)
@@ -146,13 +149,21 @@
 
 **As palavras de tipo são determinantes. Para as não-determinantes acrescenta-se a partícula `に`.**
 
+> [!NOTE]
+> O pronome `どこ` também pode referir a um aspecto de uma pessoa, como a personalidade. Ex.: `彼のどこが好きですか` "O que você gosta nele?".
+
 ## <ruby>疑<rt>ぎ</rt>問<rt>もん</rt>代<rt>だい</rt>名<rt>めい</rt>詞<rt>し</rt></ruby> - Interrogativos
 
 **Geralmente acompanham a partícula `が`.**
 
 - `どう` Como/Que tal
+    - Usado quando a resposta é um adjetivo ou explica um processo.
     - `いかが` Honorífico
+    - `どない` Kansai-ben
+- `なにで` Como/De que maneira
+    - Usado quando a resposta indica um instrumento ou ferramenta utilizada.
 - `どんな` Que (tipo)
+    - `どない（な）` Kansai-ben
 - <font size="5"><code><ruby>何<rt>なに</rt></ruby></code></font> O que
     - <font size="5"><code><ruby>何<rt>なん</rt></ruby></code></font> Usado com algum sufixo
     - <font size="5"><code><ruby>何<rt>なん</rt>の</ruby></code></font> Que/Qual(is)/De que/De qual(is)
@@ -210,10 +221,16 @@
         <td>だれか</td>
     </tr>
     <tr>
-        <th>Quantidade</th>
+        <th>Quantidade (discreta)</th>
         <td colspan="2">いくつも</td>
         <td>いくつでも</td>
         <td>いくつか</td>
+    </tr>
+    <tr>
+        <th>Quantidade (contínua)</th>
+        <td colspan="2">いくらも</td>
+        <td>いくらでも</td>
+        <td>いくらか</td>
     </tr>
 </table>
 
@@ -250,3 +267,8 @@
 ## Relativos
 
 - Não existem pronomes relativos, as cláusulas relativas são feitas através de verbos, adjetivos ou de pronomes indefinidos.
+    - "Que", "qual", "quem", "de que", "de qual" e "de quem" costumam ser representados por simplesmente conectar o substantivo ou expressão ao verbo. Ex.: `喋る猫` "o gato que fala", `喋った猫` "o gato que falou".
+    - "Quando (momento geral)" costuma ser representado ao acrescentar `とき` após o verbo.
+    - "Enquanto", "quando (momento específico)" e "onde" costumam ser representados ao acrescentar `ところ` após o verbo.
+- Em cláusulas relativas, a partícula `は` não é usada.
+- A partícula `が` pode ser trocada por `の`.

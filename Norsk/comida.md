@@ -1,12 +1,19 @@
-# Comida
+# Maten - Comida 🚹
 
--   `Brød` Pão
+- `Brød` Pão ✴️
+- `Eple` Maçã ✴️
+- `Ost` Queijo
+- `Pizza` 🚹
+- `Salat` Salada 🚹
+- `Egg` Ovo ✴️
 
 ## Bebidas
 
--   `Kaffe` Café
--   `Melk` Leite
--   `Øl` Cerveja
--   `Vin` Vinho
--   `Te` Chá
--   `Vann` Água
+- `Kaffe` Café
+- `Melk` Leite 🚺🚹
+    - `Mjølk` Alternativa 🚺🚹/Nynorsk 🚺
+- `Øl` Cerveja ✴️
+- `Vin` Vinho
+- `Te` Chá
+- `Vann` Água ✴️
+    - `Vatn` Alternativa/Nynorsk

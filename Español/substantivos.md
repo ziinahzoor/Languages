@@ -107,6 +107,7 @@
 - `Florero` Vaso
 - `Teléfono` Telefone
 - `Celular`
+    - `Móvil` Espanha
 - `Maleta` Mala
 - `Ventilador`
 - `Camisa`
@@ -120,6 +121,7 @@
 - `Examen` Prova 🚹
 - `Computadora` Computador 🚺
     - `PC` 🚺
+    - `Ordenador` Espanha 🚹
 - `Portátil` Laptop
 - `Silla` Cadeira
 - `Retrato`
@@ -422,6 +424,8 @@
 - `Búsqueda` Busca
 - `Cultura`
 - `Sociedad` Sociedade
+- `Línea` Linha
+- `Acento` Sotaque
 
 ### Medidas
 

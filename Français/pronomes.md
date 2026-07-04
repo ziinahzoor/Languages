@@ -208,19 +208,21 @@
 ## Relatifs - Relativos
 
 > [!TIP]
-> Depois de qualquer preposição que não seja `de`, o pronome relativo sempre vai ser `qui` (para pessoas) ou `lequel` (para objetos).
+> Depois de qualquer preposição que não seja `de`, o pronome relativo sempre vai ser `qui` (para pessoas) ou `lequel` (e suas conjugações; para objetos). Para `de`, o pronome é `dont`.
 
 - `Où` Onde/Quando
     - Serve tanto para situações espaciais quanto temporais.
 - `Que` Que
     - É o objeto direto. Vem sempre antes de um sujeito.
-    - `Ce que` Indefinido
+    - `Ce que` O que
 - `Qui` Que (Quem)
     - É o sujeito ou objeto de preposição. Vem sempre antes de um verbo (seja reflexivo ou não).
-    - `Ce qui` Indefinido
+    - `Ce qui` O que (quem)
 - `Dont` De que/O qual/A qual/De qual/De quem
     - Subtitui a preposição `de` + pronome relativo.
 - `Lequel` Do qual
+    - `Auquel` Contração de `à` + `lequel`.
+    - `Auxquels` Contração de `à` + `lesquels`.
 
 ## Indéfinis - Indefinidos
 

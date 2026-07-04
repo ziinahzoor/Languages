@@ -90,6 +90,8 @@
 
 **O comitativo é formado acrescentando `cum` ao ablativo.**
 
+**Quando os reflexivos são usados com verbos, os advérbios vêm entre eles.**
+
 ## Demonstrativos
 
 **Também declinam em caso.**
@@ -258,7 +260,7 @@
 		<th>Nominativo</th>
 		<td rowspan="2">Quod (Quid)</td>
 		<td>Qui (Quis)</td>
-		<td>Que/Quae (Quis)</td>
+		<td>Que/Quae (Quae/Quis)</td>
 	</tr>
 	<tr>
 		<th>Acusativo</th>
@@ -319,6 +321,7 @@
 - `Quantus` Quanto
     - Declinável
     - `Quanti` Quanto (preço)
+- `Cur` Por que/Por quê
 
 ## Indefinidos
 
@@ -326,6 +329,8 @@
 > Os pronomes indefinidos para "algum", "alguém", "alguns", ou qualquer outro que indica existência são formados por acrescentar o sufixo `-dam` aos pronomes relativos. Se o pronome relativo termina em `-m`, pode-se alterar este final para `-n`.
 
 - `Nemo` Ninguém
+- `Nihil/Nil` Nada
+- `Aliquis` Alguém
 
 <table>
 	<thead>

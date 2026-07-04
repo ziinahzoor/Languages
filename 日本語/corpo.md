@@ -11,11 +11,12 @@
 ## <ruby>頭<rt>あたま</rt></ruby> - Cabeça
 
 - <font size="5"><code><ruby>髪<rt>かみ</rt></ruby></code></font> Cabelo
-    - <font size="5"><code><ruby>髪<rt>かみ</rt>型<rt>がた</rt></ruby></code></font> Corte de cabelo
+    - <font size="5"><code><ruby>髪<rt>かみ</rt>型<rt>がた</rt></ruby>・<ruby>髪<rt>かみ</rt>形<rt>がた</rt></ruby></code></font> Corte de cabelo
     - <font size="5"><code><ruby>前<rt>まえ</rt>髪<rt>がみ</rt></ruby></code></font> Franja
 - <font size="5"><code><ruby>顔<rt>かお</rt></ruby></code></font> Rosto
     - <font size="5"><code><ruby>額<rt>ひたい</rt></ruby></code></font> Testa
-    - <font size="5"><code><ruby>眉<rt>まゆ</rt></ruby></code></font> Sobrancelha
+    - <font size="5"><code><ruby>眉<rt>まゆ</rt></ruby></code></font> Sobrancelha (formato, estilo)
+    - <font size="5"><code><ruby>眉<rt>まゆ</rt>毛<rt>げ</rt></ruby></code></font> Sobrancelha (especificamente os cabelos)
     - <font size="5"><code><ruby>目<rt>め</rt></ruby></code></font> Olho
         - `まつげ` Cílio
         - <font size="5"><code><ruby>涙<rt>なみだ</rt></ruby></code></font> Lágrimas
@@ -96,6 +97,7 @@
         - <font size="5"><code><ruby>素<rt>す</rt>足<rt>あし</rt></ruby></code></font> Pé descalço
         - <font size="5"><code>つま<ruby>先<rt>さき</rt></ruby></code></font> Dedo
         - `かかと` Calcanhar
+        - <font size="5"><code><ruby>足<rt>あし</rt>元<rt>もと</rt></ruby></code></font> Debaixo dos pés
         - <font size="5"><code><ruby>足<rt>あし</rt></ruby>の<ruby>裏<rt>うら</rt></ruby></code></font> Sola
 
 ## <ruby>内<rt>ない</rt>臓<rt>ぞう</rt></ruby> - Orgãos internos
@@ -139,11 +141,17 @@
 - `しわ` Ruga
 - `しみ` Mancha
 - <font size="5"><code><ruby>生<rt>せい</rt>理<rt>り</rt></ruby></code></font> Menstruação
+- <font size="5"><code><ruby>虫<rt>むし</rt>歯<rt>ば</rt></ruby></code></font> Cárie
 
 ## Partes não-humanas
 
 - <font size="5"><code><ruby>翼<rt>つばさ</rt></ruby></code></font> Asa
 
+## Cortes de cabelo
+
+- `パーマ` Permanente
+
 ## Relacionado
 
 - <font size="5"><code><ruby>表<rt>ひょう</rt>情<rt>じょう</rt></ruby></code></font> Expressão facial
+- <font size="5"><code><ruby>裸足<rt>はだし</rt></ruby></code></font> Descalço

@@ -1,12 +1,20 @@
 # <ruby>接<rt>せつ</rt>続<rt>ぞく</rt>詞<rt>し</rt></ruby> - Conjunções
 
 - `そして` E/E então/E também (Sucessão de fatos)
+    - É mais comum usar os verbos na forma て para expressar a mesma coisa.
+    - `で` Mais comum
     - `と` Formal/Literário
-- `すると` Logo em seguida/Então
+- `そうすると` Tendo feito isso/Em seguida/Logo após
+    - `すると` Abreviação
 - `そうしたら` Nesse caso/Se é assim
     - `そしたら` Abreviação
-- `それに` Além de/Além disso
+- `それに` Além do mais/Além de/Além disso
+    - Costuma indicar ênfase, acionando uma carga emocional ao que foi dito antes.
     - O `に` utiliza uma função antiga da partícula, que é a mesma de `と`.
+- <font size="5"><code><ruby>後<rt>あと</rt></ruby></code></font> Também/Além disso
+    - Costuma indicar que se lembrou de algo. "Ah,...".
+- `また` E/Além disso
+    - Costuma complementar a informação anterior, sem necessariamente adicionar carga emocional.
 - `または` Ou
     - Mais formal que usar a partícula `か`.
 - `それとも` Ou ao invés/Alternativamente
@@ -16,35 +24,42 @@
     - É mais casual.
     - Geralmente usado para responder uma pergunta com outra alternativa.
 - `それで` Com isso/Por isso/Portanto/Consequentemente
+- `それでは` Então.../Bem.../Se este é o caso...
+    - Geralmente usado pra encerrar conversas ou introduzir observações.
+    - `では` Abreviação
+        - `じゃあ` Casual
+    - `ほな` Kansai-ben
 - `それでも` Apesar disso/Ainda assim/Mesmo assim
+    - Indica persistência, contradição
 - `でも` Mas/Entretanto/Porém (Começo de frase)
     - Tem uma nuance mais "e também...".
     - `しかし` Honorífico
 - `けど` Mas/Apesar de (Fim de frase)
-    - `だけど` Usado depois de substantivos e adjetivos-な.
+    - `だけど` Usado depois de substantivos e adjetivos-な. Também no início de frases.
     - `けれども` Teineigo
-- `では` Nesse caso.../Ok então.../Então.../Bem...
-    - `じゃあ`
-- `それでは` Então.../Bem.../Se este é o caso...
-    - Geralmente usado pra encerrar conversas ou introduzir observações.
+- `ところが` Mesmo assim/No entanto
+    - Indica um resultado inesperado.
+- `ところで` A propósito
 - `さて` Bem/Então/Agora
 - `また` Também
-- `ところで` A propósito
 - `から` Então (para explicar causa, depois de adjetivos-い e verbos)
     - `だから` Usado depois de substantivos e adjetivos-な para diferenciar da função de "origem" da partícula `から`. Também usado no começo de frases
     - `ので` Honorífico
-- `だって` Porque/Mas/Mesmo que/Afinal
+- `なので` Por causa disso
+- `だって` Porque/Afinal/Mas/Mesmo que
     - A tradução correta seria "é dito que...", o que justifica todos os usos contrastantes.
     - É usado como "porque" somente no início de uma frase.
 - <font size="5"><code><ruby>次<rt>つぎ</rt></ruby>に</code></font> Em seguida/Depois disso
-- `ないで` Sem
+- `ないで` Sem/Ao invés de
 - `ために` Para/Com o propósito de/Em consideração a
+    - Pode ser melhor visualizado como "tendo em vista".
     - É mais utilizado como a preposição "para", indicando propósito ou que se está fazendo algo em consideração a alguém.
     - Usado com verbos volicionais e substantivos.
     - Tem um sentido semelhante à partícula `へ`.
 - <font size="5"><code><ruby>一<rt>いっ</rt>方<rt>ぽう</rt></ruby></code></font> Enquanto que/Por um lado/Por outro lado
     - Costuma acompanhar a partícula `で`.
     - Quando vem após um predicado, indica "enquanto que", "por um lado", "de um lado". Se vem no início da frase, indica "por outro lado".
+- `なぜなら…からです` Porque/O motivo é que
 
 # <ruby>感<rt>かん</rt>動<rt>どう</rt>詞<rt>し</rt></ruby> - Interjeições
 
@@ -52,6 +67,7 @@
 - `ほら・ほれ` Olha!/Aqui!
     - Usado para chamar a atenção de alguém
 - `よし` Certo!/Ok!/Muito bem!/Parece bom!
+- `よっしゃ` Entendi!/Saquei!/Beleza!
 - `いいぞ` Muito bem!/É isso aí!
 - `わあ・わこらっ` Uau!
 - `やった` Eba!/Oba!/Uhu!/Hurra!
@@ -69,6 +85,12 @@
 - `しばらく` Há quanto tempo!
 - `まさか` Não pode ser/Não acredito/De jeito nenhum/Nunca
     - Expressa algo inesperado
+- `マジ・マジで` Sério?!/Sério!
+- `そうそう` Ah, sim!/Sim sim
+    - Indica concordância ou recordação.
+- <font size="5"><code><ruby>嘘<rt>うそ</rt></ruby></code></font> Mentira!/Não acredito!
+- `あった` Aí está!/Achei!/Lembrei!
+- `あのさ・あのね` Olha.../Ouça.../Sabe...
 
 ## <ruby>相<rt>あい</rt>槌<rt>づち</rt></ruby> - Interjeições de atenção
 
@@ -96,7 +118,7 @@
     - Se usado com entonação alta se torna rude
     - `は` Rude
 - `え` Hein/Huh/Anem
-- `えー・えーと・うーん・うーんと` Hmmm... (Pensando no que dizer)
+- `えー・えーと・えっと・うーん・うーんと` Hmmm... (Pensando no que dizer)
 - `あの・あのー・あのう` Bem..., Então..., Hmmm... (Pensando no que dizer)
 - `うそー` Não acredito!/Mentira!
 - `あれ` O quê? (Algo está errado, surpresa, suspeita)

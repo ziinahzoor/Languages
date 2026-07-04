@@ -175,6 +175,25 @@
 - Declarações podem ser transformadas em perguntas colocando `Est-ce que...?` antes.
 - Para perguntar "O que...", usar `Qu'est-ce que`
 
+## Le comparatif - Comparativo
+
+- Consiste em usar as estruturas `plus... que`, `moins... que`, `autant... que`, etc.
+
+## Le superlatif - Superlativo
+
+- Consiste em usar as estruturas `la plus... de`, `la moins... de` etc.
+    - O artigo é obrigatório e segue o número do substantivo que descreve.
+
+## Mise en relief - Colocação em evidência
+
+- Enfatiza ou destaca um elemento da frase, dando foco a um elemento.
+- Utiliza a construção. `C'est/sont... qui/que`. Ex.: `C'est Paul qui achètera une baguette.` "É o Paul quem vai comprar uma baguete".
+
+## Orações subordinadas
+
+- Diferente do português, o francês não possui infinitivo pessoal, portanto seu infinitivo é invariável.
+    - Por exemplo, em orações subordinadas substantivas objetivas diretas reduzidas de infinitivo, como em "Observo as crianças brincarem", ao passarmos para o francês, não conjugamos o infinitivo: `J'observe les enfants jouer`.
+
 ## Les Faux Amis - Falsos cognatos
 
 - `Voiture` Carro

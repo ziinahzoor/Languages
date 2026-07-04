@@ -74,6 +74,7 @@
 > [!NOTE]
 > Apesar de ser considerada uma linguagem SOV, a única ordem que realmente importa no japonês é o verbo vir por último. Portanto, apesar de mais incomum, uma frase OSV também pode ser gramaticalmente correta. Então, teoricamente, o japonês pode ser dito como uma linguagem V.
 
+- No japonês, as frases e verbos se baseiam muito mais em estados do que em ações.
 - O japonês usa bastante gestos e reverências (<font size="5"><code>お<ruby>辞<rt>じ</rt>儀<rt>ぎ</rt></ruby></code></font>) na comunicação.
 - Saudações geralmente vêm depois do nome.
 - Para perguntas, basta adicionar `か` após a frase. Note que o ponto ainda é necessário.
@@ -132,6 +133,7 @@
     - Não se pode utilizar o auxiliar `だ`, apenas suas variações como `じゃない` e `だった`.
     - Nesses casos, se um substantivo ainda antecede o verbo (que modifica outro substantivo), ou seja, não há nada entre o sujeito e o verbo, é possível usar a partícula `の` no lugar de `が` sem perda de nuance.
     - Também não é possível usar a partícula `は`.
+- Note que o tempo não-presente de um adjetivo `な` já constitui de uma oração relativa: `人気な歌手` "Um cantor popular" → `人気だった歌手` "Um cantor que era popular".
 
 ### Orações substantivas
 

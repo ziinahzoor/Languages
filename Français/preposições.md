@@ -6,6 +6,7 @@
 - `Sous` Sob
 - `Pour` Para (For)
 - `Par` Por/Pelo/Pela
+- `Par le biais de` Por meio de/Através de (intermediação)
 - `Dans` Em/No/Na/Dentro (In)
 - `Avant` Antes
 - `Après` Depois
@@ -35,6 +36,9 @@
 - `Tandis` Enquanto
 - `Grâce à` Graças a
 - `Malgré` Apesar de
+- `D'ici` Até/Dentro de
+    - Indica limite
+- `Suite à` Após/Em seguida a
 
 ## À
 
@@ -50,10 +54,14 @@
 - `Au sein de` Dentro de
 - `Au nom de` Em nome de
 - `Au sujet de` A respeito de
+- `Au point que` A ponto de/Tanto que
+- `Au fil de` No decorrer de
+- `Au moyen de` Por meio de (método)
 
 ## En
 
 - `En face de` Em frente a
+- `En tant que` Como (em condição de)
 
 ## Sur
 

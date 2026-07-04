@@ -4,20 +4,27 @@
 
 ### <ruby>空<rt>そら</rt></ruby> - Céu
 
+- <font size="5"><code><ruby>青<rt>あお</rt>空<rt>ぞら</rt></ruby></code></font> Céu azul
 - <font size="5"><code><ruby>太<rt>たい</rt>陽<rt>よう</rt></ruby></code></font> Sol
     - <font size="5"><code><ruby>日<rt>ひ</rt>差<rt>ざ</rt></ruby>し</code></font> Luz do Sol
 - <font size="5"><code><ruby>月<rt>つき</rt></ruby></code></font> Lua
+    - <font size="5"><code><ruby>半<rt>はん</rt>月<rt>げつ</rt></ruby></code></font> Meia-lua
 - <font size="5"><code><ruby>星<rt>ほし</rt></ruby></code></font> Estrela
 - <font size="5"><code><ruby>雲<rt>くも</rt></ruby></code></font> Nuvem
 - <font size="5"><code><ruby>空<rt>くう</rt>気<rt>き</rt></ruby></code></font> Ar
 - <font size="5"><code><ruby>雨<rt>あめ</rt></ruby></code></font> Chuva
+    - <font size="5"><code><ruby>大<rt>おお</rt>雨<rt>あめ</rt></ruby></code></font> Chuva forte
+    - <font size="5"><code><ruby>小<rt>こ</rt>雨<rt>さめ</rt></ruby></code></font> Garoa/Chuvisco
 - <font size="5"><code><ruby>風<rt>かぜ</rt></ruby></code></font> Vento
 - <font size="5"><code><ruby>空<rt>てん</rt></ruby></code></font> Céu (Espiritual)
 
 ### <ruby>土<rt>つち</rt></ruby> - Terra
 
 - <font size="5"><code><ruby>土<rt>つち</rt></ruby></code></font> Terra/Solo/Lama
-- <font size="5"><code><ruby>山<rt>やま</rt></ruby></code></font> Montanha (`さん` quando associado a uma montanha específica)
+- <font size="5"><code><ruby>地<rt>じ</rt>面<rt>めん</rt></ruby></code></font> Chão
+- <font size="5"><code><ruby>山<rt>やま</rt></ruby></code></font> Montanha
+    - `さん` quando associado a uma montanha específica.
+- <font size="5"><code><ruby>火<rt>か</rt>山<rt>ざん</rt></ruby></code></font> Vulcão
 - <font size="5"><code><ruby>植<rt>しょく</rt>物<rt>ぶつ</rt></ruby></code></font> Planta
     - `ツタ` Hera
 - <font size="5"><code><ruby>花<rt>はな</rt></ruby></code></font> Flor
@@ -32,6 +39,7 @@
     - <font size="5"><code><ruby>枝<rt>えだ</rt></ruby></code></font> Galho
     - <font size="5"><code><ruby>葉<rt>は</rt></ruby></code></font> Folha
         - <font size="5"><code><ruby>紅<rt>こう</rt>葉<rt>よう</rt></ruby></code></font> Folhas de outono (vermelhas)
+    - <font size="5"><code><ruby>幹<rt>みき</rt></ruby></code></font> Tronco
 - <font size="5"><code><ruby>林<rt>はやし</rt></ruby></code></font> Bosque
 - <font size="5"><code><ruby>森<rt>もり</rt></ruby></code></font> Floresta
 - <font size="5"><code><ruby>石<rt>せき</rt>油<rt>ゆ</rt></ruby></code></font> Petróleo
@@ -41,6 +49,7 @@
 ### Mar
 
 - <font size="5"><code><ruby>川<rt>かわ</rt></ruby></code></font> Rio
+- <font size="5"><code><ruby>小<rt>お</rt>川<rt>がわ</rt></ruby></code></font> Córrego/Riacho
 - <font size="5"><code><ruby>池<rt>いけ</rt></ruby></code></font> Lagoa
 - <font size="5"><code><ruby>湖<rt>みずうみ</rt></ruby></code></font> Lago
 - <font size="5"><code><ruby>渦<rt>うず</rt></ruby></code></font> Redemoinho
@@ -48,7 +57,8 @@
 
 ### Desastres naturais
 
-- <font size="5"><code><ruby>火<rt>か</rt>事<rt>じ</rt></ruby></code></font> Incêndio
+- <font size="5"><code><ruby>火<rt>か</rt>事<rt>じ</rt></ruby></code></font> Incêndio (pequeno)
+- <font size="5"><code><ruby>火<rt>か</rt>災<rt>さい</rt></ruby></code></font> Incêndio (grande)/Conflagração
 - <font size="5"><code><ruby>地<rt>じ</rt>震<rt>しん</rt></ruby></code></font> Terremoto
 - <font size="5"><code><ruby>台<rt>たい</rt>風<rt>ふう</rt></ruby></code></font> Tufão
 
@@ -58,13 +68,14 @@
 - <font size="5"><code><ruby>氷<rt>こおり</rt></ruby></code></font> Gelo
 - <font size="5"><code><ruby>光<rt>ひかり</rt></ruby></code></font> Luz
 - <font size="5"><code><ruby>陰<rt>かげ</rt></ruby></code></font> Sombra
+    - <font size="5"><code><ruby>日<rt>ひ</rt>陰<rt>かげ</rt></ruby></code></font> Sombra (do Sol)
 - `ホコリ` Poeira
 - `ガス` Gás
 - `エネルギー` Energia
 - <font size="5"><code><ruby>燃<rt>ねん</rt>料<rt>りょう</rt></ruby></code></font> Combustível
 - <font size="5"><code><ruby>熱<rt>ねつ</rt></ruby></code></font> Calor/Temperatura
 
-#### Materiais
+#### <ruby>物<rt>ぶっ</rt>質<rt>しつ</rt></ruby> - Materiais/Substâncias
 
 - <font size="5"><code><ruby>砂<rt>すな</rt></ruby></code></font> Areia
 - <font size="5"><code><ruby>革<rt>かわ</rt></ruby></code></font> Couro
@@ -80,10 +91,12 @@
 - `プラスチック` Plástico
 - <font size="5"><code><ruby>絹<rt>きぬ</rt></ruby></code></font> Seda
 - <font size="5"><code><ruby>木綿<rt>もめん</rt></ruby></code></font> Algodão
+- `ペンキ` Tinta
 
 ## Objetos pessoais
 
-- <font size="5"><code><ruby>免<rt>めん</rt>許<rt>きょ</rt></ruby></code></font>　Licença/Permissão/Carteira de motorista
+- <font size="5"><code><ruby>運<rt>うん</rt>転<rt>てん</rt>免<rt>めん</rt>許<rt>きょ</rt>証<rt>しょう</rt></ruby></code></font> Licença/Permissão/Carteira de motorista
+    - <font size="5"><code><ruby>免<rt>めん</rt>許<rt>きょ</rt></ruby></code></font> Abreviação
 - <font size="5"><code><ruby>傘<rt>かさ</rt></ruby></code></font> Guarda-chuva
 - `ナプキン` Lenço de papel (Napkin)
 - `ハンカチ` Lenço de pano (Handkerchief)
@@ -97,6 +110,8 @@
 - <font size="5"><code>お<ruby>守<rt>まも</rt></ruby>り</code></font> Talismã/Amuleto
 - <font size="5"><code><ruby>化<rt>け</rt>粧<rt>しょう</rt>品<rt>ひん</rt></ruby></code></font> Cosmético
 - <font size="5"><code><ruby>化<rt>け</rt>粧<rt>しょう</rt></ruby></code></font> Maquiagem
+- <font size="5"><code><ruby>扇<rt>せん</rt>子<rt>す</rt></ruby></code></font> Leque (dobrável)
+- `ヘッドホン` Headphone
 
 ## Casa e objetos
 
@@ -107,6 +122,9 @@
 - <font size="5"><code><ruby>壁<rt>かべ</rt></ruby></code></font> Parede/Muro
 - <font size="5"><code><ruby>門<rt>もん</rt></ruby></code></font> Portão
 - `ドア` Porta
+    - Usada apenas para portas de locais.
+- <font size="5"><code><ruby>扉<rt>とびら</rt></ruby></code></font> Porta
+    - Mais utilizado para portas duplas ou portas de eletrodomésticos ou qualquer outro objeto.
 - <font size="5"><code><ruby>戸<rt>と</rt></ruby></code></font> Porta de correr/Porta japonesa
 - <font size="5"><code><ruby>障<rt>しょう</rt>子<rt>じ</rt></ruby></code></font> Porta de correr de papel translúcido
     - Também pode ser uma janela, painel ou divisória.
@@ -122,7 +140,7 @@
 - `ナイフ` Faca
 - <font size="5"><code><ruby>皿<rt>さら</rt></ruby></code></font> Prato
     - <font size="5"><code>お<ruby>皿<rt>さら</rt></ruby></code></font> Honorífico (Teineigo)
-- `でんしレンジ` Micro-ondas
+- <font size="5"><code><ruby>電<rt>でん</rt>子<rt>し</rt></ruby>レンジ</code></font> Micro-ondas
 - <font size="5"><code><ruby>冷<rt>れい</rt>蔵<rt>ぞう</rt>庫<rt>こ</rt></ruby></code></font> Geladeira
 - `ストーブ` Fogão
 - `カップ` Xícara
@@ -167,6 +185,7 @@
 - `ベッド` Cama
 - `ポスター` Poster
 - <font size="5"><code><ruby>日記<rt>にっき</rt></ruby></code></font> Diário
+- <font size="5"><code><ruby>押<rt>お</rt></ruby>し<ruby>入<rt>い</rt></ruby>れ</code></font> Armário embutido/Closet
 
 ### Lavanderia
 
@@ -174,13 +193,17 @@
 
 ### Outros
 
+- `ヒーター` Aquecedor
+- `ブラシ` Escova
 - <font size="5"><code><ruby>敷<rt>し</rt></ruby>き<ruby>物<rt>もの</rt></ruby></code></font> Tapete/Carpete
 - <font size="5"><code><ruby>薬<rt>くすり</rt></ruby></code></font> Medicamento/Remédio
+- <font size="5"><code><ruby>痛<rt>いた</rt></ruby>み<ruby>み止<rt>ど</rt></ruby>め</code></font> Analgésico
 - `かつら` Peruca
 - `ひも` Fio
 - `ケーブル` Cabo
 - <font size="5"><code><ruby>鍵<rt>かぎ</rt></ruby></code></font> Chave
 - `ペン` Caneta
+    - `ボールペン` Caneta esferográfica
 - <font size="5"><code><ruby>万<rt>まん</rt>年<rt>ねん</rt>筆<rt>ひつ</rt></ruby></code></font> Caneta tinteiro
 - <font size="5"><code><ruby>鉛<rt>えん</rt>筆<rt>ぴつ</rt></ruby></code></font> Lápis
     - <font size="5"><code><ruby>色<rt>いろ</rt>鉛<rt>えん</rt>筆<rt>ぴつ</rt></ruby></code></font> Lápis de cor
@@ -197,7 +220,8 @@
 - `インク` Tinta
 - `サイン` Assinatura
 - <font size="5"><code><ruby>辞<rt>じ</rt>書<rt>しょ</rt></ruby></code></font> Dicionário
-    - <font size="5"><code><ruby>字<rt>じ</rt>引<rt>びき</rt></ruby></code></font> Alternativo
+    - <font size="5"><code><ruby>字<rt>じ</rt>引<rt>びき</rt></ruby></code></font> Alternativa
+    - <font size="5"><code><ruby>辞<rt>じ</rt>典<rt>てん</rt></ruby></code></font> Formal, mais informativo
 - <font size="5"><code><ruby>写<rt>しゃ</rt>真<rt>しん</rt></ruby></code></font> Foto
 - `グラス` Vidro
 - <font size="5"><code><ruby>地<rt>ち</rt>図<rt>ず</rt></ruby></code></font> Mapa
@@ -210,13 +234,14 @@
     - <font size="5"><code><ruby>燃<rt>も</rt></ruby>えないゴミ</code></font> Lixo não-incinerável (metal, vidro, cerâmica, etc.)
 - `ゴミばこ` Lata de lixo
 - <font size="5"><code><ruby>階<rt>かい</rt>段<rt>だん</rt></ruby></code></font> Escada
+- `はしご` Escada de mão
 - `コインロッカー` Armário de armazenamento
 - <font size="5"><code><ruby>棚<rt>たな</rt></ruby></code></font> Prateleira
 - <font size="5"><code><ruby>本<rt>ほん</rt>棚<rt>だな</rt></ruby></code></font> Estante
 - `テーブル` Mesa
 - <font size="5"><code><ruby>机<rt>つくえ</rt></ruby></code></font> Escrivaninha
 - <font size="5"><code><ruby>椅<rt>い</rt>子<rt>す</rt></ruby></code></font> Cadeira/Banquinho
-- `はなび` Fogos de artifício
+- <font size="5"><code><ruby>花<rt>はな</rt>火<rt>び</rt></ruby></code></font> Fogos de artifício
 - `スーツケース` Maleta
 - <font size="5"><code><ruby>絵<rt>え</rt></ruby></code></font> Pintura
 - <font size="5"><code><ruby>紙<rt>かみ</rt></ruby></code></font> Papel
@@ -250,6 +275,7 @@
 - `スキャン` Digitalização
 - <font size="5"><code><ruby>手<rt>て</rt>紙<rt>がみ</rt></ruby></code></font> Carta
 - <font size="5"><code><ruby>切<rt>きっ</rt>手<rt>て</rt></ruby></code></font> Selo de carta
+- <font size="5"><code><ruby>電<rt>でん</rt>報<rt>ぽう</rt></ruby></code></font> Telegrama
 - <font size="5"><code><ruby>布<rt>ふ</rt>団<rt>とん</rt></ruby></code></font> Futon
 - <font size="5"><code><ruby>定<rt>じょう</rt>規<rt>ぎ</rt></ruby></code></font> Régua
 - <font size="5"><code><ruby>箱<rt>はこ</rt></ruby></code></font> Caixa
@@ -302,6 +328,12 @@
 - `テープ` Fita adesiva
 - <font size="5"><code><ruby>台<rt>だい</rt></ruby></code></font> Prateleira
 - `ベル` Sino
+- <font size="5"><code><ruby>返<rt>へん</rt>品<rt>ぴん</rt></ruby></code></font> Bem devolvido/Compra devolvida
+- <font size="5"><code><ruby>体<rt>たい</rt>温<rt>おん</rt>計<rt>けい</rt></ruby></code></font> Termômetro (corporal)
+- <font size="5"><code><ruby>虫<rt>むし</rt>眼鏡<rt>めがね</rt></ruby></code></font> Lupa
+- `ろうそく` Vela
+- <font size="5"><code><ruby>手<rt>て</rt>帳<rt>ちょう</rt></ruby></code></font> Caderno
+- <font size="5"><code><ruby>名<rt>めい</rt>刺<rt>し</rt></ruby></code></font> Cartão de visitas
 
 ## Elétricos e Eletrônicos
 
@@ -328,7 +360,10 @@
 - `プリンター` Impressora
 - `カメラ` Câmera
 - `ラジオ` Rádio
-- `エアコン` Ar condicionado
+- `ステレオ` Rádio (stereo)
+- `エアコン` Ar-condicionado
+- `クーラー` Ar-condicionado
+    - Apenas ar frio.
 - `じはんき` Máquina de vendas
 - <font size="5"><code><ruby>洗<rt>せん</rt>濯<rt>たく</rt>機<rt>き</rt></ruby></code></font> Máquina de lavar
     - `せんたっき` Abreviação
@@ -336,18 +371,21 @@
 - <font size="5"><code><ruby>掃<rt>そう</rt>除<rt>じ</rt>機<rt>き</rt></ruby></code></font> Aspirador de pó
 - `スピーカー` Alto-falante
 - <font size="5"><code><ruby>電<rt>でん</rt>池<rt>ち</rt></ruby></code></font> Pilha
+- <font size="5"><code><ruby>電<rt>でん</rt>灯<rt>とう</rt></ruby></code></font> Lâmpada/Luz elétrica
+- <font size="5"><code><ruby>電<rt>でん</rt>気<rt>き</rt></ruby></code></font> Luz/Lâmpada
 - `レジ` Caixa registradora
 - `アラーム` Alarme
 - `リモコン` Controle remoto
-- `でんき` Lâmpada
 - `コピーき` Copiadora
 - <font size="5"><code><ruby>時計<rt>とけい</rt></ruby></code></font> Relógio
 - `スイッチ` Interruptor
 - `テープレコーダー` Gravador
 - `スクリーン` Tela
+- <font size="5"><code><ruby>画<rt>が</rt>面<rt>めん</rt></ruby></code></font> Tela
 - `ファックス` Fax
 - `マイク` Microfone
 - `ロボット` Robô
+- `アイロン` Ferro de passar
 
 ### Computação
 
@@ -365,6 +403,7 @@
 - `ワープロ` Processador de texto
 - `ソフトウエア` Software
     - `ソフト` Abreviação
+- `ＳＮＳ` Rede social
 
 ## Abstratos
 
@@ -373,6 +412,7 @@
 - <font size="5"><code><ruby>数<rt>かず</rt></ruby></code></font> Quantidade/Número
 - <font size="5"><code><ruby>人<rt>にん</rt>数<rt>ずう</rt></ruby></code></font> Número de pessoas
 - <font size="5"><code><ruby>番<rt>ばん</rt></ruby></code></font> Vez/Número (em uma sequência)
+- <font size="5"><code><ruby>番<rt>ばん</rt>号<rt>ごう</rt></ruby></code></font> Número (em uma sequência, não-específico)
 - <font size="5"><code><ruby>電<rt>でん</rt>話<rt>わ</rt>番<rt>ばん</rt>号<rt>ごう</rt></ruby></code></font> Número de telefone
 - <font size="5"><code><ruby>複<rt>ふく</rt>数<rt>すう</rt></ruby></code></font> Múltiplos/Vários
 - <font size="5"><code><ruby>暗<rt>あん</rt>証<rt>しょう</rt>番<rt>ばん</rt>号<rt>ごう</rt></ruby></code></font> PIN
@@ -389,16 +429,16 @@
 - <font size="5"><code><ruby>実<rt>じつ</rt></ruby></code></font> Verdade (secreta)
     - Geralmente indica uma revelação ou explicação.
 - <font size="5"><code><ruby>嘘<rt>うそ</rt></ruby></code></font> Mentira
-- <font size="5"><code><ruby><rt></rt></ruby></code></font>
+- <font size="5"><code><ruby>現<rt>げん</rt>実<rt>じつ</rt></ruby></code></font> Realidade
 - <font size="5"><code><ruby>事<rt>こと</rt></ruby></code></font> Coisa (Intangível)
     - Geralmente escrito somente com kana.
     - É muito utilizado como <font size="5"><code><ruby>形<rt>けい</rt>式<rt>しき</rt>名<rt>めい</rt>詞<rt>し</rt></ruby></code></font> para abstrair ou focar em conceitos (como pronomes por exemplo), criando uma camada de indireção na conversa.
         - Como a "ideia" ou "conceito" de alguma coisa. Vale até mesmo para coisas que já são abstratas.
-    - Muito usado também com o sentido de "sobre/à respeito de" alguma coisa.
+    - Muito usado também com o sentido de "sobre/à respeito de" alguma coisa. Principalmente ao associar verbos e adjetivos emocionais a pessoas. Ex.: `君のことが好き` "Eu gosto de você".
 - <font size="5"><code><ruby>物<rt>もの</rt></ruby></code></font> Coisa (Tangível)/Algo
     - Usado bastante em construções de posse.
 - <font size="5"><code><ruby>悩<rt>なや</rt></ruby>み</code></font> Problema (Preocupação)
-- <font size="5"><code><ruby>問<rt>もん</rt>題<rt>だい</rt></ruby></code></font> Problema (Pergunta)
+- <font size="5"><code><ruby>問<rt>もん</rt>題<rt>だい</rt></ruby></code></font> Problema (Pergunta ou situação)
     - Também é usado para se referir a perguntas em testes e provas.
 - <font size="5"><code><ruby>質<rt>しつ</rt>問<rt>もん</rt></ruby></code></font> Pergunta
 - <font size="5"><code><ruby>問<rt>と</rt></ruby>い</code></font> Pergunta/Indagação/Consulta
@@ -410,8 +450,11 @@
     - Mais usado para respostas em contextos oficiais, como documentos e inquéritos.
 - <font size="5"><code><ruby>期<rt>き</rt>限<rt>げん</rt></ruby></code></font> Prazo/Validade
 - <font size="5"><code><ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>り・<ruby>〆<rt>しめ</rt>切<rt>きり</rt></ruby></code></font> Prazo final/Deadline
-- <font size="5"><code><ruby>話<rt>はなし</rt></ruby></code></font> História
+- <font size="5"><code><ruby>話<rt>はなし</rt></ruby></code></font> História/Conversa/Discussão
+    - <font size="5"><code><ruby>長<rt>なが</rt>話<rt>ばなし</rt></ruby></code></font> Conversa longa
+    - <font size="5"><code><ruby>作<rt>つく</rt></ruby>り<ruby>話<rt>ばなし</rt></ruby></code></font> História inventada
 - <font size="5"><code><ruby>会<rt>かい</rt>話<rt>わ</rt></ruby></code></font> Conversa
+    - <font size="5"><code><ruby>英<rt>えい</rt>会<rt>かい</rt>話<rt>わ</rt></ruby></code></font> Conversa em inglês/Falar inglês
 - `おしゃべり` Conversa/Papo
 - `ファッション` Moda/Fashion
 - <font size="5"><code><ruby>人<rt>にん</rt>気<rt>き</rt></ruby></code></font> Popular/Popularidade
@@ -424,14 +467,15 @@
 - `メンズ` Masculino
 - `レディース` Feminino
 - `しょうせつ` Romance (Novel)
-- <font size="5"><code><ruby>予<rt>よ</rt>定<rt>てい</rt></ruby></code></font> Planos/Planejamento/Programação
-- <font size="5"><code><ruby>計<rt>けい</rt>画<rt>かく</rt></ruby></code></font> Plano/Projeto
+- <font size="5"><code><ruby>予<rt>よ</rt>定<rt>てい</rt></ruby></code></font> Planos/Planejamento/Programação (cronograma)
+- <font size="5"><code><ruby>計<rt>けい</rt>画<rt>かく</rt></ruby></code></font> Plano/Planejamento/Projeto (elaboração e estratégia)
 - <font size="5"><code><ruby>中<rt>なか</rt></ruby></code></font> Dentro
-    - <font size="5"><code><ruby>内<rt>うち</rt></ruby></code></font> Quando usado em contraste com "fora", delimitando espaço
+    - <font size="5"><code><ruby>内<rt>うち</rt></ruby></code></font> Quando usado em contraste com "fora", delimitando espaço; "o (lado de) dentro"
+        - Ou seja, `中` foca no "meio", no que está dentro; e `内` foca no "dentro" em si.
 - <font size="5"><code><ruby>外<rt>そと</rt></ruby></code></font> Fora
 - `メッセージ` Mensagem
 - <font size="5"><code><ruby>事<rt>じ</rt>故<rt>こ</rt></ruby></code></font> Acidente
-- <font size="5"><code><ruby>事<rt>じ</rt>件<rt>けん</rt></ruby></code></font> Incidente
+- <font size="5"><code><ruby>事<rt>じ</rt>件<rt>けん</rt></ruby></code></font> Incidente/Caso
 - <font size="5"><code><ruby>場<rt>ば</rt>合<rt>あい</rt></ruby></code></font> Caso/Ocasião/Situação/Circunstância
 - <font size="5"><code><ruby>別<rt>べつ</rt></ruby></code></font> Diferente/Distinto/Outro
 - `スキル` Habilidade
@@ -443,8 +487,11 @@
     - `Lサイズ` Grande
     - `Mサイズ` Médio
     - `Sサイズ` Pequeno
-- <font size="5"><code><ruby>人<rt>じん</rt>生<rt>せい</rt></ruby></code></font> Vida
+- <font size="5"><code><ruby>命<rt>いのち</rt></ruby></code></font> Vida (Biológica)
+- <font size="5"><code><ruby>人<rt>じん</rt>生<rt>せい</rt></ruby></code></font> Vida (Jornada, experiência)
 - <font size="5"><code><ruby>生<rt>せい</rt>活<rt>かつ</rt></ruby></code></font> Vida (Diária)
+- <font size="5"><code><ruby>暮<rt>く</rt></ruby>らし</code></font> Vida/Na vida
+    - Tem a nuance "estilo de vida", "propósito" de viver ou morar em algum lugar.
 - <font size="5"><code><ruby>生<rt>い</rt></ruby>きがい</code></font> Propósito de vida/Razão de viver
 - `レシピ` Receita
 - `てづくり` Feito à mão/Artesanal
@@ -464,9 +511,6 @@
 - <font size="5"><code><ruby>音<rt>おと</rt></ruby></code></font> Som/Barulho
 - <font size="5"><code><ruby>声<rt>こえ</rt></ruby></code></font> Voz/Som de um animal
 - <font size="5"><code><ruby>意<rt>い</rt>味<rt>み</rt></ruby></code></font> Significado
-- <font size="5"><code><ruby>方<rt>ほう</rt></ruby></code></font> Opção/Maneira/Direção/Lado
-    - Muito utilizado em frases comparativas, geralmente acompanhando um demonstrativo determinante ou um substantivo + `の`. Indica um lado da comparação.
-- <font size="5"><code><ruby>格<rt>かっ</rt>好<rt>こう</rt></ruby></code></font> Aparência/Forma
 - <font size="5"><code><ruby>年<rt>とし</rt>格<rt>かっ</rt>好<rt>こう</rt></ruby></code></font> Idade aparente/Idade aproximada
 - <font size="5"><code><ruby>告<rt>こく</rt>白<rt>はく</rt></ruby></code></font> Confissão/Admissão/Declaração de amor
 - `つもり` Intenção/Propósito
@@ -478,23 +522,29 @@
 - <font size="5"><code><ruby>変<rt>へん</rt>化<rt>か</rt></ruby></code></font> Variação
     - Indica uma mudança que ocorreu sozinha.
 - <font size="5"><code><ruby>差<rt>さ</rt></ruby></code></font> Variação/Diferença
-- <font size="5"><code><ruby>違<rt>ちが</rt>い</ruby></code></font> Diferença/Engano
+- <font size="5"><code><ruby>違<rt>ちが</rt></ruby>い</code></font> Diferença/Engano
+- <font size="5"><code><ruby>勘<rt>かん</rt>違<rt>ちが</rt></ruby>い</code></font> Engano/Ideia errada
 - <font size="5"><code><ruby>配<rt>はい</rt>達<rt>たつ</rt></ruby></code></font> Entrega (de algum item)
 - <font size="5"><code><ruby>伝<rt>でん</rt>説<rt>せつ</rt></ruby></code></font> Lenda/Folclore
 - `レベル` Nível
 - <font size="5"><code><ruby>一<rt>ひと</rt></ruby>つ<ruby>目<rt>め</rt></ruby></code></font> Primeiro (em uma série)
 - <font size="5"><code><ruby>元<rt>もと</rt></ruby></code></font> Origem/Fonte/Início
+- `スタート` Começo/Início
 - <font size="5"><code><ruby>最<rt>さい</rt>初<rt>しょ</rt></ruby></code></font> Começo/Primeiro (antes)
 - <font size="5"><code><ruby>最<rt>さい</rt>後<rt>ご</rt></ruby></code></font> Fim/Último
 - <font size="5"><code><ruby>終<rt>お</rt></ruby>わり</code></font> Fim/Final/Conclusão
+- <font size="5"><code><ruby>外<rt>はず</rt></ruby>れ</code></font> Fim/Extremidade
 - <font size="5"><code><ruby>最<rt>さい</rt>低<rt>てい</rt></ruby></code></font> Mínimo/Mais baixo
+- <font size="5"><code><ruby>最<rt>さい</rt>高<rt>こう</rt></ruby></code></font> Máximo/Mais alto
 - <font size="5"><code><ruby>先<rt>さき</rt></ruby></code></font> Antes/Anterior
+    - Também pode significar "ponta".
 - <font size="5"><code><ruby>前<rt>ぜん</rt></ruby></code></font> Último/Antigo/Ex/Pré
     - Também usado como prefixo.
 - <font size="5"><code><ruby>呼<rt>よ</rt></ruby>び<ruby>捨<rt>す</rt></ruby>て</code></font> Ato de chamar alguém sem o título honorífico
     - Só pode ser feito com pessoas com quem se tem intimidade.
-- `ダイエット` Dieta
 - <font size="5"><code><ruby>量<rt>りょう</rt></ruby></code></font> Quantidade/Quantia
+    - Não é utilizado para contagem, e sim para quantias, volumes, proporções.
+- <font size="5"><code><ruby>一<rt>ひと</rt>口<rt>くち</rt></ruby></code></font> Bocado/Bocada/Colherada
 - <font size="5"><code><ruby>質<rt>しつ</rt></ruby></code></font> Qualidade
 - <font size="5"><code><ruby>関<rt>かん</rt>係<rt>けい</rt></ruby></code></font> Relação/Relacionamento
 - <font size="5"><code><ruby>力<rt>ちから</rt></ruby></code></font> Força/Vigor/Energia
@@ -519,9 +569,19 @@
 - <font size="5"><code><ruby>注<rt>ちゅう</rt>目<rt>もく</rt></ruby></code></font> Atenção (Percepção)
 - <font size="5"><code><ruby>性<rt>せい</rt>格<rt>かく</rt></ruby></code></font> Caráter/Personalidade
 - <font size="5"><code><ruby>遅<rt>ち</rt>刻<rt>こく</rt></ruby></code></font> Atraso
-- <font size="5"><code><ruby>仕<rt>し</rt>方<rt>かた</rt></ruby></code></font> Jeito/Maneira/Forma/Como (Forma com que se faz algo)
+- <font size="5"><code><ruby>存<rt>そん</rt>在<rt>ざい</rt></ruby></code></font> Existência/Presença
+- <font size="5"><code><ruby>出<rt>しゅっ</rt>席<rt>せき</rt></ruby></code></font> Presença (física)
+- <font size="5"><code><ruby>姿<rt>すがた</rt></ruby></code></font> Presença/Aspecto (visual)/Silhueta
+- <font size="5"><code><ruby>見<rt>み</rt></ruby>た<ruby>目<rt>め</rt></ruby></code></font> Aparência/Expressão/Aspecto
+- <font size="5"><code><ruby>格<rt>かっ</rt>好<rt>こう</rt></ruby></code></font> Aparência/Forma
+- <font size="5"><code><ruby>方<rt>ほう</rt></ruby></code></font> Opção/Maneira/Direção/Lado
+    - Muito utilizado em frases comparativas, geralmente acompanhando um demonstrativo determinante ou um substantivo + `の`. Indica um lado da comparação.
+- <font size="5"><code><ruby>方<rt>かた</rt></ruby></code></font> Método/Jeito/Maneira/Forma/Como (Forma com que se faz algo)
+    - Mais usado como sufixo.
+- <font size="5"><code><ruby>仕<rt>し</rt>方<rt>かた</rt></ruby></code></font> Método/Jeito/Maneira/Forma/Como (Forma com que se faz algo)
 - <font size="5"><code><ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby></code></font> Forma de usar
 - <font size="5"><code><ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby></code></font> Caminho/Rota
+- <font size="5"><code><ruby>型<rt>かた</rt></ruby></code></font> Tipo/Modelo/Estilo
 - <font size="5"><code><ruby>形<rt>かたち</rt></ruby></code></font> Forma/Formato
 - <font size="5"><code><ruby>入<rt>にゅう</rt>場<rt>じょう</rt></ruby></code></font> Entrada/Admissão
 - <font size="5"><code><ruby>選<rt>せん</rt>択<rt>たく</rt></ruby></code></font> Escolha/Opção/Seleção
@@ -542,6 +602,7 @@
 - `アンケート` Enquete/Questionário
 - <font size="5"><code><ruby>所<rt>ところ</rt></ruby></code></font> Ponto/Aspecto/Lado
 - <font size="5"><code><ruby>普<rt>ふ</rt>通<rt>つう</rt></ruby></code></font> Normal/Ordinário
+- <font size="5"><code><ruby>普<rt>ふ</rt>段<rt>だん</rt></ruby></code></font> Habitual/Rotineiro/Comum/Normal/Ordinário
 - <font size="5"><code><ruby>番<rt>ばん</rt>線<rt>せん</rt></ruby></code></font> Número da plataforma/Número do trilho (trem)
 - <font size="5"><code><ruby>片<rt>かた</rt>道<rt>みち</rt></ruby></code></font> Sentido único
 - <font size="5"><code><ruby>学<rt>がく</rt>割<rt>わり</rt></ruby></code></font> Desconto de estudante
@@ -552,11 +613,12 @@
 - <font size="5"><code><ruby>段<rt>だん</rt></ruby></code></font> Passo/Grau/Camada
 - <font size="5"><code><ruby>原<rt>げん</rt>因<rt>いん</rt></ruby></code></font> Causa
 - <font size="5"><code><ruby>反<rt>はん</rt>応<rt>のう</rt></ruby></code></font> Reação
-    - <font size="5"><code><ruby>化<rt>か</rt>学<rt>がく</rt>反<rt>はん</rt>応<rt>のう</rt></ruby></code></font> Reação
+    - <font size="5"><code><ruby>化<rt>か</rt>学<rt>がく</rt>反<rt>はん</rt>応<rt>のう</rt></ruby></code></font> Reação química
 - <font size="5"><code><ruby>所<rt>しょ</rt>有<rt>ゆう</rt></ruby></code></font> Propriedade/Posse
 - <font size="5"><code><ruby>資<rt>し</rt>源<rt>げん</rt></ruby></code></font> Recurso
 - <font size="5"><code><ruby>天<rt>てん</rt>然<rt>ねん</rt></ruby></code></font> Natureza/Natural
     - Oposto de "artificial"
+- <font size="5"><code><ruby>人<rt>じん</rt>工<rt>こう</rt></ruby></code></font> Artificial
 - <font size="5"><code><ruby>開<rt>かい</rt>発<rt>はつ</rt></ruby></code></font> Desenvolvimento
 - <font size="5"><code><ruby>再<rt>さい</rt>生<rt>せい</rt></ruby></code></font> Reciclagem
 - <font size="5"><code><ruby>助<rt>たす</rt></ruby>け</code></font> Ajuda/Socorro
@@ -570,13 +632,14 @@
 - <font size="5"><code><ruby>出<rt>しゅっ</rt>発<rt>ぱつ</rt></ruby></code></font> Partida
 - <font size="5"><code><ruby>用<rt>よう</rt></ruby></code></font> Uso/Propósito
 - <font size="5"><code><ruby>理<rt>り</rt>由<rt>ゆう</rt></ruby></code></font> Motivo/Pretexto/Desculpa
+- <font size="5"><code><ruby>言<rt>い</rt></ruby>い<ruby>訳<rt>わけ</rt></ruby></code></font> Desculpa
 - <font size="5"><code><ruby>失<rt>しつ</rt>礼<rt>れい</rt></ruby></code></font> Descortesia/Indelicadeza
 - <font size="5"><code><ruby>失<rt>しっ</rt>敗<rt>ぱい</rt></ruby></code></font> Falha/Fracasso
 - <font size="5"><code><ruby>禁<rt>きん</rt>止<rt>し</rt></ruby></code></font> Proibição
 - <font size="5"><code><ruby>可<rt>か</rt></ruby></code></font> Permissão/Aprovação
     - Bastante utilizado como sufixo para indicar que algo é permitido.
 - <font size="5"><code><ruby>賛<rt>さん</rt>成<rt>せい</rt></ruby></code></font> Aprovação/Acordo/Concordância
-- <font size="5"><code><ruby>考<rt>かんが</rt></ruby>え</code></font> Pensamento/Ideia
+- <font size="5"><code><ruby>考<rt>かんが</rt></ruby>え</code></font> Pensamento/Ideia/Opinião
 - <font size="5"><code><ruby>相<rt>そう</rt>談<rt>だん</rt></ruby></code></font> Discussão/Conselho/Aconselhamento
 - <font size="5"><code><ruby>迷<rt>めい</rt>惑<rt>わく</rt></ruby></code></font> Problema/Aborrecimento/Incômodo/Inconveniência
 - <font size="5"><code><ruby>出<rt>しゅっ</rt>席<rt>せき</rt></ruby></code></font> Presença/Comparecimento
@@ -600,8 +663,10 @@
 - <font size="5"><code><ruby>免<rt>めん</rt>税<rt>ぜい</rt></ruby></code></font> Isenção fiscal
 - <font size="5"><code><ruby>名<rt>な</rt>前<rt>まえ</rt></ruby> </code></font> Nome/Primeiro nome
 - <font size="5"><code><ruby>名<rt>な</rt></ruby></code></font> Nome (conceito)/Reputação
+- <font size="5"><code><ruby>名<rt>みょう</rt>字<rt>じ</rt></ruby></code></font> Sobrenome/Nome de família
+- <font size="5"><code>あだ<ruby>名<rt>な</rt></ruby></code></font> Apelido
 - <font size="5"><code><ruby>上<rt>じょう</rt>達<rt>たつ</rt></ruby></code></font> Melhora/Progresso (em habilidades)
-- <font size="5"><code><ruby>対<rt>たい</rt></ruby></code></font> Contra/Versus
+- <font size="5"><code><ruby>対<rt>たい</rt></ruby></code></font> Contra/Versus/Contraparte
 - <font size="5"><code><ruby>伝<rt>でん</rt>統<rt>とう</rt></ruby></code></font> Tradição
 - <font size="5"><code><ruby>眼<rt>がん</rt>光<rt>こう</rt></ruby></code></font> Entendimento/Discernimento
 - <font size="5"><code><ruby>例<rt>れい</rt></ruby></code></font> Exemplo/Costume/Hábito
@@ -630,6 +695,7 @@
 - <font size="5"><code><ruby>能<rt>のう</rt>力<rt>りょく</rt></ruby></code></font> Habilidade
 - <font size="5"><code><ruby>握<rt>あく</rt>手<rt>しゅ</rt></ruby></code></font> Aperto de mão
 - <font size="5"><code><ruby>法<rt>ほう</rt>律<rt>りつ</rt></ruby></code></font> Lei/Legislação
+- <font size="5"><code><ruby>憲<rt>けん</rt>法<rt>ぽう</rt></ruby></code></font> Constituição
 - <font size="5"><code><ruby>相<rt>そう</rt>談<rt>だん</rt></ruby></code></font> Consulta/Discussão
     - O ato de procurar a opinião de alguém sobre um assunto.
 - `タイプ` Tipo
@@ -645,6 +711,7 @@
 - <font size="5"><code><ruby>目<rt>もく</rt>的<rt>てき</rt></ruby></code></font> Objetivo/Propósito
 - <font size="5"><code><ruby>目<rt>もく</rt>標<rt>ひょう</rt></ruby></code></font> Objetivo/Meta
 - <font size="5"><code><ruby>交<rt>こう</rt>換<rt>かん</rt></ruby></code></font> Troca
+- <font size="5"><code><ruby>交<rt>こう</rt>流<rt>りゅう</rt></ruby></code></font> Interação/Troca/Intercâmbio
 - <font size="5"><code><ruby>確<rt>かく</rt>認<rt>にん</rt></ruby></code></font> Confirmação
 - <font size="5"><code><ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby></code></font> Memória/Lembrança
 - <font size="5"><code><ruby>記<rt>き</rt>憶<rt>おく</rt></ruby></code></font> Memória (unidade de memorização)
@@ -652,11 +719,15 @@
 - <font size="5"><code><ruby>自<rt>じ</rt>動<rt>どう</rt></ruby></code></font> Automático
 - <font size="5"><code><ruby>産<rt>さん</rt>業<rt>ぎょう</rt></ruby></code></font> Indústria (setor econômico)
 - <font size="5"><code><ruby>様<rt>よう</rt></ruby></code></font> Jeito/Forma
-- <font size="5"><code><ruby>様<rt>よう</rt>子<rt>す</rt></ruby></code></font> Estado das coisas/Situação/Circunstância
+- <font size="5"><code><ruby>様<rt>よう</rt>子<rt>す</rt></ruby></code></font> Aparência/Situação (estado, aparência)/Estado das coisas/Circunstância
+- <font size="5"><code><ruby>状<rt>じょう</rt>況<rt>きょう</rt></ruby></code></font> Situação (contexto, panorama)/Condições
+- <font size="5"><code><ruby>状<rt>じょう</rt>態<rt>たい</rt></ruby></code></font> Condição/Estado
+- <font size="5"><code><ruby>事<rt>じ</rt>態<rt>たい</rt></ruby></code></font> Situação/Circunstância (geralmente negativa, com incidentes)
 - <font size="5"><code><ruby>為<rt>ため</rt></ruby></code></font> Benefício/Em prol/Vantagem/Propósito
 - <font size="5"><code><ruby>結<rt>けっ</rt>果<rt>か</rt></ruby></code></font> Resultado/Consequência
 - <font size="5"><code><ruby>情<rt>じょう</rt>報<rt>ほう</rt></ruby></code></font> Informação
-- <font size="5"><code><ruby>表<rt>おもて</rt></ruby></code></font> Superfície/Frente/Fachada
+- <font size="5"><code><ruby>表<rt>おもて</rt></ruby></code></font> Superfície/Frente/Fachada (parte da frente)
+- <font size="5"><code><ruby>表<rt>ひょう</rt>面<rt>めん</rt></ruby></code></font> Superfície/Exterior (em oposição ao lado interno)
 - <font size="5"><code><ruby>立<rt>たち</rt>場<rt>ば</rt></ruby></code></font> Ponto de vista/Situação/Lugar
 - <font size="5"><code><ruby>邪<rt>じゃ</rt>魔<rt>ま</rt></ruby></code></font> Obstáculo/Impedimento/Incômodo/Estorvo/Perturbação
     - Também pode indicar "estar no meio do caminho (impedindo a passagem)".
@@ -674,8 +745,6 @@
 - <font size="5"><code><ruby>都<rt>つ</rt>合<rt>ごう</rt></ruby></code></font> Conveniência/Circunstância/Condição
 - `アドバイス` Conselho
 - <font size="5"><code><ruby>管<rt>かん</rt>理<rt>り</rt></ruby></code></font> Gerenciamento/Controle
-- <font size="5"><code><ruby>暮<rt>く</rt></ruby>らし</code></font> Vida/Na vida
-    - Tem a nuance "estilo de vida", "propósito" de viver ou morar em algum lugar.
 - <font size="5"><code><ruby>水<rt>すい</rt>道<rt>どう</rt></ruby></code></font> Fornecimento de água
     - Também é usado para indicar que a água é da torneira.
 - <font size="5"><code><ruby>適<rt>てき</rt>用<rt>よう</rt></ruby></code></font> Aplicação/Implementação/Adoção (regras, técnicas, princípios)
@@ -703,6 +772,99 @@
 - `テーマ` Tema
 - <font size="5"><code><ruby>全<rt>ぜん</rt>力<rt>りょく</rt></ruby></code></font> Todas as energias
 - <font size="5"><code><ruby>物<rt>ぶっ</rt>価<rt>か</rt></ruby></code></font> Preços (em geral)/Custo de vida
+- <font size="5"><code><ruby>生<rt>せい</rt>活<rt>かつ</rt>費<rt>ひ</rt></ruby></code></font> Custo de vida
+- <font size="5"><code><ruby>勝<rt>か</rt></ruby>ち</code></font> Vitória
+- <font size="5"><code><ruby>当<rt>あ</rt></ruby>たり</code></font> Acerto/Sucesso/Vitória
+- <font size="5"><code><ruby>身<rt>み</rt>振<rt>ぶ</rt></ruby>り</code></font> Gesto/Movimento
+- <font size="5"><code><ruby>先<rt>せん</rt>発<rt>ぱつ</rt></ruby></code></font> Titular/Iniciante/Pioneiro
+    - Indica alguém ou um grupo que é o primeiro ou inicia alguma atividade.
+- <font size="5"><code><ruby>工<rt>こう</rt>業<rt>ぎょう</rt></ruby></code></font> Indústria (manufatureira)
+- <font size="5"><code><ruby>能<rt>のう</rt>力<rt>りょく</rt></ruby></code></font> Talento/Habilidade
+- <font size="5"><code><ruby>貧<rt>びん</rt>乏<rt>ぼう</rt></ruby></code></font> Pobreza
+- <font size="5"><code><ruby>無<rt>む</rt>駄<rt>だ</rt></ruby></code></font> Desperdício/Futilidade/Inutilidade
+- <font size="5"><code><ruby>無<rt>む</rt>駄<rt>だ</rt>遣<rt>づか</rt></ruby>い</code></font> Desperdício
+- <font size="5"><code><ruby>延<rt>えん</rt>期<rt>き</rt></ruby></code></font> Adiamento
+- <font size="5"><code><ruby>祝<rt>いわ</rt></ruby>い</code></font> Felicitação/Celebração
+    - <font size="5"><code>お<ruby>祝<rt>いわ</rt></ruby>い</code></font> Sonkeigo
+    - Por casamento, formatura, etc.
+    - Também pode se referir a um presente de felicitações.
+- `アナウンス` Anúncio
+- `レントゲン` Raio-X
+- <font size="5"><code><ruby>迷<rt>めい</rt>信<rt>しん</rt></ruby></code></font> Superstição
+- <font size="5"><code><ruby>国<rt>こく</rt>際<rt>さい</rt></ruby></code></font> Internacional
+- <font size="5"><code><ruby>国<rt>こく</rt>際<rt>さい</rt>関<rt>かん</rt>係<rt>けい</rt></ruby></code></font> Relações internacionais
+- <font size="5"><code><ruby>大<rt>だい</rt></ruby>ヒット</code></font> Grande sucesso
+- <font size="5"><code><ruby>痴<rt>ち</rt>漢<rt>かん</rt></ruby></code></font> Assédio sexual
+- `ホームステイ` Casa de família/Homestay
+    - Arranjo em que alguém fica na casa de uma família anfitriã em outro país.
+- <font size="5"><code><ruby>発<rt>はっ</rt>車<rt>しゃ</rt></ruby></code></font> Partida/Saída (de um veículo, geralmente ônibus e trens)
+- `ツイン` Gêmeo/Duplo
+    - Não é usado para pessoas.
+- <font size="5"><code><ruby>通<rt>つう</rt>用<rt>よう</rt></ruby></code></font> Uso comum/Aceito/Válido
+    - Indica qualquer coisa que é aceita ou válida em um contexto.
+- <font size="5"><code><ruby>保<rt>ほ</rt>険<rt>けん</rt></ruby></code></font> Seguro
+- <font size="5"><code><ruby>日<rt>にっ</rt>課<rt>か</rt></ruby></code></font> Rotina
+- <font size="5"><code><ruby>殺<rt>さつ</rt>人<rt>じん</rt></ruby></code></font> Assassinato/Homicídio
+- <font size="5"><code>ご<ruby>存<rt>ぞん</rt>知<rt>じ</rt></ruby></code></font> Conhecimento/Saber/Ciência (Sonkeigo)
+    - Indica ter conhecimento sobre alguma coisa.
+- <font size="5"><code>お<ruby>返<rt>かえ</rt></ruby>し</code></font> Presente/Favor (devolvido)
+- <font size="5"><code><ruby>生<rt>せい</rt>活<rt>かつ</rt></ruby>のゆとり</code></font> Estilo de vida confortável
+- <font size="5"><code><ruby>電<rt>でん</rt>源<rt>げん</rt></ruby></code></font> Fonte de alimentação/Botão de ligar e desligar
+- <font size="5"><code><ruby>渋<rt>じゅう</rt>滞<rt>たい</rt></ruby></code></font> Congestionamento
+- `チャンス` Chance
+- <font size="5"><code><ruby>努<rt>ど</rt>力<rt>りょく</rt></ruby></code></font> Esforço
+- <font size="5"><code><ruby>不<rt>ふ</rt>自<rt>じ</rt>由<rt>ゆう</rt></ruby></code></font> Deficiência
+    - Também pode significar "desconforto" ou "pobreza", "falta de recursos".
+- <font size="5"><code><ruby>困<rt>こん</rt>難<rt>なん</rt></ruby></code></font> Dificuldade/Apuros
+- <font size="5"><code><ruby>苦<rt>く</rt>労<rt>ろう</rt></ruby></code></font> Dificuldade/Trabalho duro
+- <font size="5"><code><ruby>役<rt>やく</rt>目<rt>め</rt></ruby></code></font> Dever/Papel/Função
+- <font size="5"><code><ruby>気<rt>け</rt>配<rt>はい</rt></ruby></code></font> Indicação/Sinal/Sensação
+- <font size="5"><code><ruby>低<rt>てい</rt>下<rt>か</rt></ruby></code></font> Queda/Diminuição/Declínio
+- `あまり` Excesso/Resto/Sobra
+- <font size="5"><code><ruby>不<rt>ふ</rt>足<rt>そく</rt></ruby></code></font> Falta/Insuficiência
+- <font size="5"><code><ruby>睡<rt>すい</rt>眠<rt>みん</rt></ruby></code></font> Sono (período)/Descanso
+- <font size="5"><code><ruby>口<rt>くち</rt></ruby>コミ</code></font> Boca a boca (comunicação)
+    - É bastante utilizado para refenciar comentários online e reviews sobre produtos e serviços.
+- <font size="5"><code><ruby>火<rt>か</rt>力<rt>りょく</rt></ruby></code></font> Energia térmica/Poder de fogo
+- <font size="5"><code><ruby>水<rt>すい</rt>力<rt>りょく</rt></ruby></code></font> Energia hidráulica
+- <font size="5"><code><ruby>電<rt>でん</rt>力<rt>りょく</rt></ruby></code></font> Energia elétrica
+- <font size="5"><code><ruby>入<rt>にゅう</rt>力<rt>りょく</rt></ruby></code></font> Entrada (elétrica, de dados, etc.)
+- <font size="5"><code><ruby>出<rt>しゅつ</rt>力<rt>りょく</rt></ruby></code></font> Saída (elétrica, de dados, etc.)
+- <font size="5"><code><ruby>放<rt>ほう</rt>送<rt>そう</rt></ruby></code></font> Transmissão
+- <font size="5"><code><ruby>表<rt>ひょう</rt>現<rt>げん</rt></ruby></code></font> Expressão/Representação
+- <font size="5"><code><ruby>評<rt>ひょう</rt>価<rt>か</rt></ruby></code></font> Avaliação
+- <font size="5"><code><ruby>交<rt>こう</rt>代<rt>たい</rt></ruby></code></font> Revezamento/Substituição
+- <font size="5"><code><ruby>気<rt>き</rt>力<rt>りょく</rt></ruby></code></font> Vontade/Vitalidade/Força de vontade
+- <font size="5"><code>お<ruby>互<rt>たが</rt></ruby>い</code></font> Um ao outro/Mútuo/Recíproco
+- <font size="5"><code><ruby>理<rt>り</rt>解<rt>かい</rt></ruby></code></font> Compreensão
+- <font size="5"><code><ruby>調<rt>ちょう</rt>整<rt>せい</rt></ruby></code></font> Ajuste
+- <font size="5"><code><ruby>担<rt>たん</rt>当<rt>とう</rt></ruby></code></font> Incumbência/Responsabilidade
+- <font size="5"><code><ruby>独<rt>ひと</rt></ruby>り<ruby>言<rt>ごと</rt></ruby></code></font> Solilóquio/Monólogo
+- <font size="5"><code><ruby>一<rt>いっ</rt>般<rt>ぱん</rt></ruby></code></font> Comum/Geral/Médio/Ordinário
+- <font size="5"><code><ruby>影<rt>えい</rt>響<rt>きょう</rt></ruby></code></font> Influência
+- <font size="5"><code><ruby>長<rt>ちょう</rt>所<rt>しょ</rt></ruby></code></font> Ponto forte/Vantagem
+- <font size="5"><code><ruby>最<rt>さい</rt>中<rt>ちゅう</rt></ruby></code></font> No meio de/Em meio a
+    - Geralmente vem depois da particula `の` com outros substantivos ou diretamente após verbos.
+- <font size="5"><code><ruby>実<rt>じつ</rt>現<rt>げん</rt></ruby></code></font> Realização/Materialização
+- <font size="5"><code><ruby>調<rt>ちょう</rt>子<rt>し</rt></ruby></code></font> Funcionamento/Estado/Ritmo
+- <font size="5"><code><ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby></code></font> Jeito de dizer
+- <font size="5"><code>やり<ruby>方<rt>かた</rt></ruby></code></font> Jeito de fazer
+- <font size="5"><code><ruby>生<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby></code></font> Estilo de vida
+- <font size="5"><code><ruby>長<rt>なが</rt>生<rt>い</rt></ruby>き</code></font> Longevidade
+- <font size="5"><code><ruby>診<rt>しん</rt>断<rt>だん</rt></ruby></code></font> Diagnóstico
+- <font size="5"><code><ruby>人<rt>ひと</rt>前<rt>まえ</rt></ruby></code></font> Em público/Na frente dos outros
+- <font size="5"><code><ruby>不<rt>ふ</rt>正<rt>せい</rt></ruby></code></font> Injustiça
+- <font size="5"><code><ruby>一<rt>いっ</rt>緒<rt>しょ</rt></ruby></code></font> Idêntico
+    - Geralmente usado adjetivalmente com a partícula `の`.
+- <font size="5"><code><ruby>生<rt>なま</rt></ruby></code></font> Natural/Em pessoa/Ao vivo
+- <font size="5"><code><ruby>穴<rt>あな</rt></ruby></code></font> Buraco
+- <font size="5"><code><ruby>消<rt>しょう</rt>費<rt>ひ</rt></ruby></code></font> Consumo/Gasto
+- `モデル` Modelo/Réplica/Miniatura
+- <font size="5"><code><ruby>態<rt>たい</rt>度<rt>ど</rt></ruby></code></font> Atitude/Comportamento
+- <font size="5"><code><ruby>責<rt>せき</rt>任<rt>にん</rt></ruby></code></font> Responsabilidade/Dever
+- <font size="5"><code><ruby>賞<rt>しょう</rt></ruby></code></font> Prêmio
+- <font size="5"><code><ruby>発<rt>はっ</rt>見<rt>けん</rt></ruby></code></font> Descoberta
+- <font size="5"><code><ruby>誤<rt>ご</rt>解<rt>かい</rt></ruby></code></font> Mal-entendido/Equívoco
 
 ### <ruby>気<rt>き</rt>持<rt>も</rt>ち</ruby> - Sentimentos e Sensações
 
@@ -714,7 +876,7 @@
     - Se refere a algum sentimento não-especificado.
 - <font size="5"><code><ruby>具<rt>ぐ</rt>合<rt>あい</rt></ruby></code></font> Condição/Estado/Saúde
 - <font size="5"><code><ruby>気<rt>き</rt>分<rt>ぶん</rt></ruby></code></font> Humor/Estado de espírito/Saúde (psicológica)
-- <font size="5"><code><ruby>恋<rt>こい</rt></ruby></code></font> Amor (romântico)
+- <font size="5"><code><ruby>恋<rt>こい</rt></ruby></code></font> Paixão/Amor (romântico)
     - É considerado menos romântico que `愛`.
 - <font size="5"><code><ruby>恋<rt>れん</rt>愛<rt>あい</rt></ruby></code></font> Amor/Paixão/Romance
 - <font size="5"><code><ruby>愛<rt>あい</rt></ruby></code></font> Amor
@@ -732,7 +894,8 @@
 - <font size="5"><code><ruby>感<rt>かん</rt>謝<rt>しゃ</rt></ruby></code></font> Gratidão/Apreciação/Agradecimento
     - <font size="5"><code>お<ruby>礼<rt>れい</rt></ruby></code></font> Teineigo
 - `びっくり` Surpresa
-- <font size="5"><code><ruby>願<rt>ねが</rt></ruby>い</code></font> Desejo
+- <font size="5"><code><ruby>願<rt>ねが</rt></ruby>い</code></font> Pedido/Favor/Desejo
+    - <font size="5"><code>お<ruby>願<rt>ねが</rt></ruby>い</code></font> Teineigo
 - <font size="5"><code><ruby>緊<rt>きん</rt>張<rt>ちょう</rt></ruby></code></font> Tensão/Nervosismo/Estresse
 - `ストレス` Estresse
 - <font size="5"><code><ruby>痛<rt>いた</rt></ruby>み</code></font> Dor
@@ -741,6 +904,7 @@
 - <font size="5"><code><ruby>匂<rt>にお</rt></ruby>い</code></font> Cheiro
 - <font size="5"><code><ruby>後<rt>こう</rt>悔<rt>かい</rt></ruby></code></font> Arrependimento
 - `センス` Gosto pessoal/Senso (de humor, etc)
+- <font size="5"><code><ruby>好<rt>この</rt></ruby>み</code></font> Gosto/Predileção
 - <font size="5"><code><ruby>不<rt>ふ</rt>安<rt>あん</rt></ruby></code></font> Ansiedade/Inquietação/Apreensão
 - `がっかり` Desânimo/Desapontamento
 - <font size="5"><code><ruby>怒<rt>いか</rt></ruby>り</code></font> Raiva/Ira/Fúria
@@ -749,6 +913,10 @@
 - <font size="5"><code><ruby>平<rt>へい</rt>和<rt>わ</rt></ruby></code></font> Paz/Harmonia
 - <font size="5"><code><ruby>本<rt>ほん</rt>気<rt>き</rt></ruby></code></font> Seriedade
 - <font size="5"><code><ruby>我<rt>が</rt>慢<rt>まん</rt></ruby></code></font> Resistência/Paciência/Perseverança
+- <font size="5"><code><ruby>同<rt>どう</rt>情<rt>じょう</rt></ruby></code></font> Simpatia/Compaixão/Pena
+- `ホームシック` Saudosidade/Saudade de casa
+- <font size="5"><code><ruby>楽<rt>らく</rt></ruby></code></font> Conforto/Relaxamento
+- `めまい` Tontura/Vertigem
 
 ### Saúde e Condições
 
@@ -769,6 +937,7 @@
 - `インフルエンザ` Gripe
 - <font size="5"><code><ruby>傷<rt>きず</rt></ruby></code></font> Cicatriz/Ferida/Machucado
     - Visíveis. Ex.: cortes, hematomas, arranhões, etc.
+    - Também pode ser emocional.
 - <font size="5"><code><ruby>怪<rt>け</rt>我<rt>が</rt></ruby>・ケガ</code></font> Lesão/Machucado/Ferida
     - Não-visíveis. Ex.: dores, distenções, queimaduras, fraturas, etc.
 - `くしゃみ` Espirro
@@ -788,6 +957,9 @@
 - `うんこ/ウンコ/ウンチ` Cocô
     - Considerado infantil
 - <font size="5"><code><ruby>遠<rt>えん</rt>慮<rt>りょ</rt></ruby></code></font> Restrição/Hesitação/Modéstia
+- <font size="5"><code><ruby>便<rt>べん</rt>秘<rt>ぴ</rt></ruby></code></font> Constipação
+- <font size="5"><code><ruby>保<rt>ほ</rt>健<rt>けん</rt></ruby></code></font> Higiene
+    - Também é uma matéria escolar, "educação em saúde".
 
 ### Linguística
 
@@ -814,10 +986,14 @@
 - <font size="5"><code><ruby>文<rt>ぶん</rt>節<rt>せつ</rt></ruby></code></font> Locução
 - `しゅわ` Linguagem de sinais
 - <font size="5"><code><ruby>絵<rt>え</rt>文<rt>も</rt>字<rt>じ</rt></ruby></code></font> Emoji
+- <font size="5"><code><ruby>顔<rt>かお</rt>文<rt>も</rt>字<rt>じ</rt></ruby></code></font> Emoticon
 - <font size="5"><code><ruby>行<rt>ぎょう</rt></ruby></code></font> Linha
 - <font size="5"><code><ruby>空<rt>そら</rt>耳<rt>みみ</rt></ruby></code></font> Ouvir mal/Entender errado
 - <font size="5"><code><ruby>読<rt>とう</rt>点<rt>てん</rt></ruby></code></font> Vírgula
 - <font size="5"><code><ruby>詩<rt>し</rt></ruby></code></font> Poema
+- `かっこ` Parêntese/Colchete/Chave/Aspa
+    - Qualquer marcação gráfica com abertura e fechamento.
+- <font size="5"><code><ruby>諺<rt>ことわざ</rt></ruby></code></font> Provérbio/Ditado
 
 ### Formas
 
@@ -860,6 +1036,7 @@
 - `キログラム` Quilograma
     - `キロ` Abreviação
 - `メートル` Metro
+    - `メーター` Alternativa
 - `キロメートル` Quilômetro
     - `キロ` Abreviação
 - `リットル` Litro
@@ -868,12 +1045,12 @@
 
 - <font size="5"><code><ruby>円<rt>えん</rt></ruby></code></font> Iene
     - Também pode ser "círculo".
+- `ドル` Dólar
 - `コイン` Moeda
 - <font size="5"><code><ruby>札<rt>さつ</rt></ruby></code></font> Cédula/Nota
 - <font size="5"><code>お<ruby>金<rt>かね</rt></ruby></code></font> Dinheiro
 - <font size="5"><code><ruby>金<rt>きん</rt>額<rt>がく</rt></ruby></code></font> Quantia/Montante
 - <font size="5"><code><ruby>現<rt>げん</rt>金<rt>きん</rt></ruby></code></font> Dinheiro em espécie
-- `ドル` Dólar
 - <font size="5"><code><ruby>小<rt>こ</rt>切<rt>ぎっ</rt>手<rt>て</rt></ruby></code></font> Cheque
 - <font size="5"><code><ruby>代<rt>だい</rt></ruby></code></font> Cobrança/Custo/Preço/Conta/Tarifa
     - <font size="5"><code><ruby>電<rt>でん</rt>話<rt>わ</rt>代<rt>だい</rt></ruby></code></font> Conta de telefone/Cobrança de ligação
@@ -884,9 +1061,12 @@
 - <font size="5"><code><ruby>値<rt>ね</rt>段<rt>だん</rt></ruby></code></font> Preço/Custo
 - <font size="5"><code>お<ruby>釣<rt>つ</rt></ruby>り</code></font> Troco
 - <font size="5"><code><ruby>両<rt>りょう</rt>替<rt>がえ</rt></ruby></code></font> Câmbio
+- <font size="5"><code><ruby>通<rt>つう</rt>貨<rt>か</rt></ruby></code></font> Moeda (corrente)
 - <font size="5"><code><ruby>会<rt>かい</rt>計<rt>けい</rt></ruby></code></font> Conta (de pagar em estabelecimentos)
     - Geralmente acompanha o honorífico `お`
-- <font size="5"><code><ruby>値<rt>ね</rt>引<rt>び</rt></ruby>き</code></font> Desconto
+    - Também pode ser "contabilidade".
+- <font size="5"><code><ruby>値<rt>ね</rt>引<rt>び</rt></ruby>き</code></font> Desconto (fixo)
+- <font size="5"><code><ruby>割<rt>わり</rt>引<rt>びき</rt></ruby></code></font> Desconto (percentual)
 - `チケット` Ingresso
 - `メニュー` Cardápio
 - `おしぼり` Toalha molhada
@@ -896,21 +1076,22 @@
 - `グッズ` Produto
 - `やたい` Barraca de comida
 - `クレジットカード` Cartão de crédito
+- `キャッシュカード` Cartão de débito
 - `プレゼント` Presente
     - <font size="5"><code><ruby>贈<rt>おく</rt></ruby>り<ruby>物<rt>もの</rt></ruby></code></font> Formal
 - <font size="5"><code>お<ruby>年<rt>とし</rt>玉<rt>だま</rt></ruby></code></font> Presente de Ano Novo
     - Geralmente um envelope com dinheiro.
 - <font size="5"><code><ruby>年<rt>ねん</rt>賀<rt>が</rt>状<rt>じょう</rt></ruby></code></font> Cartão de Ano Novo
-- <font size="5"><code>お<ruby>祝<rt>いわ</rt></ruby>い</code></font> Presente de felicitações
-    - Por casamento, formatura, etc.
-- <font size="5"><code>お<ruby>土産<rt>みやげ</rt></ruby></code></font> Lembrancinha/Souvenir
+- <font size="5"><code><ruby>土産<rt>みやげ</rt></ruby></code></font> Lembrancinha/Souvenir
+    - <font size="5"><code>お<ruby>土産<rt>みやげ</rt></ruby></code></font> Sonkeigo (mais comum)
 - <font size="5"><code><ruby>手<rt>て</rt>土産<rt>みやげ</rt></ruby></code></font> Presente (trazido por um visitante)
 - `はんがく` Metade do preço
 - <font size="5"><code><ruby>袋<rt>ふくろ</rt></ruby></code></font> Saco/Sacola
     - <font size="5"><code>ゴミ<ruby>袋<rt>ぶくろ</rt></ruby></code></font> Saco de lixo
     - <font size="5"><code>レジ<ruby>袋<rt>ぶくろ</rt></ruby></code></font> Sacola de mercado
-- <font size="5"><code><ruby>入<rt>にゅう</rt>場<rt>じょう</rt>料<rt>りょう</rt></ruby></code></font> Taxa de entrada
+- <font size="5"><code><ruby>料<rt>りょう</rt></ruby></code></font> Taxa/Custo
 - <font size="5"><code><ruby>料<rt>りょう</rt>金<rt>きん</rt></ruby></code></font> Taxa/Cobrança
+- <font size="5"><code><ruby>入<rt>にゅう</rt>場<rt>じょう</rt>料<rt>りょう</rt></ruby></code></font> Taxa de entrada
 - <font size="5"><code><ruby>手<rt>て</rt>数<rt>すう</rt>料<rt>りょう</rt></ruby></code></font> Comissão
 - <font size="5"><code><ruby>無<rt>む</rt>料<rt>りょう</rt></ruby></code></font> Gratuito/De graça
 - <font size="5"><code><ruby>有<rt>ゆう</rt>料<rt>りょう</rt></ruby></code></font> Pago/Não-gratuito
@@ -924,15 +1105,31 @@
         - Usado em produtos para indicar que o valor já inclui impostos.
 - <font size="5"><code><ruby>売<rt>う</rt></ruby>り<ruby>切<rt>き</rt></ruby>れ</code></font> Esgotado/Todos vendidos
 - <font size="5"><code><ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げ</code></font> Vendas
+- <font size="5"><code><ruby>貯<rt>ちょ</rt>金<rt>きん</rt></ruby></code></font> Economias/Poupança
+- `チップ` Gorjeta
+- <font size="5"><code><ruby>食<rt>しょく</rt>費<rt>ひ</rt></ruby></code></font> Despesa com alimentação
+- <font size="5"><code><ruby>授<rt>じゅ</rt>業<rt>ぎょう</rt>料<rt>りょう</rt></ruby></code></font> Mensalidade (instituição de ensino)
+- <font size="5"><code><ruby>両<rt>りょう</rt>替<rt>がえ</rt></ruby></code></font> Câmbio
+- <font size="5"><code><ruby>割<rt>わ</rt></ruby>り<ruby>引<rt>び</rt></ruby>き<ruby>券<rt>けん</rt></ruby></code></font> Cupom de desconto
+- <font size="5"><code><ruby>宝<rt>たから</rt></ruby>くじ</code></font> Loteria
+- <font size="5"><code><ruby>商<rt>しょう</rt>品<rt>ひん</rt></ruby></code></font> Produto/Mercadoria
+- <font size="5"><code><ruby>費<rt>ひ</rt>用<rt>よう</rt></ruby></code></font> Custo/Despesa
 
 ## <ruby>銀<rt>ぎん</rt>行<rt>こう</rt></ruby> - Banco
 
 - <font size="5"><code><ruby>口<rt>こう</rt>座<rt>ざ</rt></ruby></code></font> Conta bancária
-- <font size="5"><code><ruby>預<rt>よ</rt>金<rt>きん</rt></ruby></code></font> Depósito
 - <font size="5"><code><ruby>残<rt>ざん</rt>高<rt>だか</rt></ruby></code></font> Saldo bancário
-- <font size="5"><code><ruby>手<rt>て</rt>数<rt>すう</rt>料<rt>りょう</rt></ruby></code></font> Comissão
-- <font size="5"><code>お<ruby>預<rt>あず</rt></ruby>かり</code></font> Depósito
-    - Usado por trabalhadores bancários para se referir a qualquer coisa que o cliente lhes deixa ao cuidado, como dinheiro ou bens.
+- <font size="5"><code><ruby>預<rt>よ</rt>金<rt>きん</rt></ruby></code></font> Depósito/Conta corrente/Poupança
+- <font size="5"><code>お<ruby>預<rt>あず</rt></ruby>かり</code></font> Depósito/Custódia
+    - Usado por trabalhadores bancários para se referir a qualquer coisa que o cliente lhes deixa ao cuidado, como dinheiro ou bens. Ou seja, indica o serviço de depósito.
+- <font size="5"><code><ruby>預<rt>あず</rt></ruby>け<ruby>入<rt>い</rt></ruby>れ</code></font> Depósito (ato de depositar)
+    - <font size="5"><code>お<ruby>預<rt>あず</rt></ruby>け<ruby>入<rt>い</rt></ruby>れ</code></font> Sonkeigo
+- <font size="5"><code>お<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>し</code></font> Saque/Retirada
+- <font size="5"><code><ruby>通<rt>つう</rt>帳<rt>ちょう</rt></ruby></code></font> Caderneta bancária
+- <font size="5"><code><ruby>通<rt>つう</rt>帳<rt>ちょう</rt>記<rt>き</rt>入<rt>にゅう</rt></ruby></code></font> Atualização da caderneta/Preenchimento da caderneta
+- <font size="5"><code><ruby>残<rt>ざん</rt>高<rt>だか</rt>照<rt>しょう</rt>会<rt>かい</rt></ruby></code></font> Consulta de saldo
+- <font size="5"><code>お<ruby>振<rt>ふり</rt>込<rt>こみ</rt></ruby></code></font> Transferência
+- <font size="5"><code><ruby>金<rt>きん</rt>融<rt>ゆう</rt></ruby></code></font> Finanças
 
 ## Viagem e Transporte
 
@@ -979,6 +1176,7 @@
     - <font size="5"><code><ruby>次<rt>じ</rt>発<rt>はつ</rt></ruby></code></font> Próximo trem
     - <font size="5"><code><ruby>終<rt>しゅう</rt>電<rt>でん</rt></ruby></code></font> Último trem do dia
     - <font size="5"><code><ruby>満<rt>まん</rt>員<rt>いん</rt>電<rt>でん</rt>車<rt>しゃ</rt></ruby></code></font> Trem lotado
+    - <font size="5"><code>トロッコ<ruby>列<rt>れっ</rt>車<rt>しゃ</rt></ruby></code></font> Trem turístico
 - <font size="5"><code><ruby>急<rt>きゅう</rt>行<rt>こう</rt></ruby></code></font> Trem expresso
 - <font size="5"><code><ruby>汽<rt>き</rt>車<rt>しゃ</rt></ruby></code></font> Trem a vapor
 - `メトロ` Metrô (sistema)
@@ -995,7 +1193,7 @@
 
 ## <ruby>活<rt>かつ</rt>動<rt>どう</rt></ruby> - Atividades
 
-- <font size="5"><code><ruby>用<rt>よう</rt></ruby></code></font> Tarefa/Negócio
+- <font size="5"><code><ruby>用<rt>よう</rt></ruby></code></font> Tarefa/Negócio/Uso/Propósito
 - <font size="5"><code><ruby>種<rt>しゅ</rt>目<rt>もく</rt></ruby></code></font> Evento
     - Dentro de um contexto de competição ou atividade, como disciplinas ou categorias.
 - `カラオケ` Karaoke
@@ -1023,19 +1221,23 @@
 - `うんてん` Direção/Operação
 - <font size="5"><code><ruby>運<rt>うん</rt>動<rt>どう</rt></ruby></code></font> Exercício
 - <font size="5"><code><ruby>練<rt>れん</rt>習<rt>しゅう</rt></ruby></code></font> Prática/Treino/Exercício
+- <font size="5"><code><ruby>訓<rt>くん</rt>練<rt>れん</rt></ruby></code></font> Treinamento
 - `トレーニング` Treinamento
 - `プレゼン` Apresentação
 - `パフォーマンス` Performance
-- `カラオケ` Karaokê
+- <font size="5"><code><ruby>演<rt>えん</rt>技<rt>ぎ</rt></ruby></code></font> Performance/Atuação
+- <font size="5"><code><ruby>演<rt>えん</rt>奏<rt>そう</rt></ruby></code></font> Performance musical
 - <font size="5"><code><ruby>試合<rt>しあい</rt></ruby></code></font> Partida/Jogo
 - `バレエ` Balé
 - `パフォーマンス` Atuação
 - `ブログ` Blog
-- `きじ` Artigo/Publicação
+- `きじ` Artigo/Publicação (jornalístico)
+- <font size="5"><code><ruby>論<rt>ろん</rt>文<rt>ぶん</rt></ruby></code></font> Artigo/Tese/Monografia (acadêmico)
 - `サークル` Clube
     - Vem de "círculo"
 - <font size="5"><code><ruby>演<rt>えん</rt>劇<rt>げき</rt></ruby></code></font> Teatro
 - <font size="5"><code><ruby>歌<rt>か</rt>舞<rt>ぶ</rt>伎<rt>き</rt></ruby></code></font> Kabuki (Teatro japonês)
+- <font size="5"><code><ruby>劇<rt>げき</rt></ruby></code></font> Peça de teatro
 - `ドラマ` Drama/Novela
 - `どうが` Vídeo
 - `アニメ` Anime
@@ -1043,13 +1245,12 @@
 - <font size="5"><code><ruby>映<rt>えい</rt>画<rt>が</rt></ruby></code></font> Filme
     - `フィルム`
 - `シリーズ` Série
+- `ドラマ` Série de TV/Série dramática
 - <font size="5"><code><ruby>実<rt>じっ</rt>写<rt>しゃ</rt></ruby></code></font> Live-action
 - `ニュース` Notícias
 - `ジェットコースター` Montanha-russa
 - <font size="5"><code><ruby>食<rt>た</rt></ruby>べほうだい</code></font> Self-service/Rodízio
 - <font size="5"><code><ruby>見<rt>けん</rt>物<rt>ぶつ</rt></ruby></code></font> Passeio turístico/Contemplação
-- <font size="5"><code><ruby>花<rt>はな</rt>見<rt>み</rt></ruby></code></font> Assistir o desabrochar das sakuras
-    - Geralmente ocorre em março e abril.
 - <font size="5"><code><ruby>散<rt>さん</rt>歩<rt>ぽ</rt></ruby></code></font> Passeio
 - <font size="5"><code><ruby>夜<rt>や</rt>行<rt>こう</rt></ruby></code></font> Passeio noturno/Viagem noturna
 - `SNS` Rede social
@@ -1074,6 +1275,8 @@
 - <font size="5"><code><ruby>独<rt>ひと</rt></ruby>り<ruby>言<rt>ごと</rt></ruby></code></font> Monólogo/Falar sozinho
 - `ツアー` Tour/Passeio/Excursão
 - <font size="5"><code><ruby>往<rt>おう</rt>復<rt>ふく</rt></ruby></code></font> Ida e volta (passeios e viagens)
+- <font size="5"><code><ruby>予<rt>よ</rt>報<rt>ほう</rt></ruby></code></font> Previsão
+    - Geralmente se refere à previsão do tempo.
 - <font size="5"><code><ruby>天<rt>てん</rt>気<rt>き</rt>予<rt>よ</rt>報<rt>ほう</rt></ruby></code></font> Previsão do tempo
 - <font size="5"><code><ruby>読<rt>どく</rt>書<rt>しょ</rt></ruby></code></font> Leitura
 - <font size="5"><code>お<ruby>菓<rt>か</rt>子<rt>し</rt>作<rt>づく</rt></ruby>り</code></font> Confeitaria
@@ -1085,12 +1288,10 @@
 - <font size="5"><code><ruby>研<rt>けん</rt>究<rt>きゅう</rt></ruby></code></font> Pesquisa/Estudo/Investigação
 - <font size="5"><code><ruby>用<rt>よう</rt>意<rt>い</rt></ruby></code></font> Preparação
 - <font size="5"><code><ruby>実<rt>じっ</rt>験<rt>けん</rt></ruby></code></font> Experimento
-- <font size="5"><code><ruby>予<rt>よ</rt>報<rt>ほう</rt></ruby></code></font> Previsão
 - <font size="5"><code><ruby>正<rt>せい</rt>座<rt>ざ</rt></ruby></code></font> Forma tradicional de sentar-se
     - É a forma respeitosa de se sentar. É sentar-se de joelhos no chão, geralmente com as mãos próximas aos joelhos.
 - <font size="5"><code><ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>し</code></font> Mudança (de local)
 - `リサイクル` Reciclagem
-- <font size="5"><code>お<ruby>見<rt>み</rt>舞<rt>ま</rt></ruby>い</code></font> Visita médica
 - <font size="5"><code><ruby>生<rt>い</rt></ruby>け<ruby>花<rt>けばな</rt></ruby></code></font> Ikebana/Arte do arranjo de flores
 - <font size="5"><code><ruby>土<rt>ど</rt>足<rt>そく</rt></ruby></code></font> Usar sapatos
 - `ダンス` Dança
@@ -1116,9 +1317,42 @@
 - <font size="5"><code><ruby>作<rt>さく</rt>品<rt>ひん</rt></ruby></code></font> Obra/Peça/Produção
 - <font size="5"><code><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>み</code></font> Pedido (formal)/Petição/Proposta/Candidatura/Solicitação/Inscrição
     - <font size="5"><code><ruby>結<rt>けっ</rt>婚<rt>こん</rt></ruby>の<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>み</code></font> Pedido de casamento
+        - `プロポーズ` Alternativa
 - <font size="5"><code><ruby>協<rt>きょう</rt>力<rt>りょく</rt></ruby></code></font> Cooperação/Colaboração
 - <font size="5"><code><ruby>医<rt>い</rt>療<rt>りょう</rt></ruby></code></font> Cuidados médicos
 - <font size="5"><code><ruby>貿<rt>ぼう</rt>易<rt>えき</rt></ruby></code></font> Comércio exterior
+- <font size="5"><code><ruby>占<rt>うらな</rt></ruby>い</code></font> Adivinhação
+- <font size="5"><code><ruby>俳<rt>はい</rt>句<rt>く</rt></ruby></code></font> Haiku
+- <font size="5"><code><ruby>喫<rt>きつ</rt>煙<rt>えん</rt></ruby></code></font> Fumar
+- <font size="5"><code><ruby>記<rt>き</rt>念<rt>ねん</rt></ruby></code></font> Comemoração/Celebração
+- <font size="5"><code><ruby>部<rt>ぶ</rt>分<rt>ぶん</rt></ruby></code></font> Seção/Parte
+- <font size="5"><code><ruby>昼<rt>ひる</rt>寝<rt>ね</rt></ruby></code></font> Soneca (da tarde)
+- <font size="5"><code><ruby>登<rt>と</rt>山<rt>ざん</rt></ruby></code></font> Alpinismo
+- <font size="5"><code><ruby>落<rt>らく</rt>語<rt>ご</rt></ruby></code></font> Rakugo
+    - História cômica apresentada por uma única pessoa.
+- <font size="5"><code><ruby>同<rt>どう</rt>棲<rt>せい</rt></ruby></code></font> Morar junto
+- <font size="5"><code><ruby>徹<rt>てつ</rt>夜<rt>や</rt></ruby></code></font> Virar a noite
+- <font size="5"><code><ruby>短<rt>たん</rt>冊<rt>ざく</rt></ruby></code></font> Tanzaku
+    - Tira de papel vertical com desejos, usado em tradições japonesas.
+- `ブロー` Secar (com um secador)
+- <font size="5"><code><ruby>推<rt>すい</rt>薦<rt>せん</rt>状<rt>じょう</rt></ruby></code></font> Carta de recomendação
+- <font size="5"><code><ruby>一人<rt>ひとり</rt>暮<rt>ぐ</rt></ruby>らし</code></font> Morar sozinho
+- <font size="5"><code>お<ruby>見<rt>み</rt>舞<rt>ま</rt></ruby>い</code></font> Visita
+    - A alguém doente ou que está afastado de suas atividades por algum motivo.
+- <font size="5"><code>お<ruby>出<rt>で</rt>掛<rt>か</rt></ruby>け</code></font> Saída/Passeio
+- <font size="5"><code><ruby>恋<rt>こい</rt></ruby>バナ</code></font> Papo de garotas/Fofoca
+- <font size="5"><code>お<ruby>祈<rt>いの</rt></ruby>り</code></font> Oração
+- <font size="5"><code><ruby>手<rt>て</rt>入<rt>い</rt></ruby>れ</code></font> Manutenção/Cuidado
+- <font size="5"><code><ruby>真<rt>ま</rt>似<rt>ね</rt></ruby></code></font> Imitação
+- <font size="5"><code><ruby>記<rt>き</rt>事<rt>じ</rt></ruby></code></font> Artigo
+- <font size="5"><code><ruby>月<rt>つき</rt>見<rt>み</rt></ruby></code></font> Observar a lua
+- <font size="5"><code><ruby>花<rt>はな</rt>見<rt>み</rt></ruby></code></font> Assistir o desabrochar das cerejeiras
+    - Geralmente ocorre em março e abril.
+- <font size="5"><code><ruby>外<rt>がい</rt>食<rt>しょく</rt></ruby></code></font> Comer fora
+- <font size="5"><code><ruby>外<rt>がい</rt>交<rt>こう</rt></ruby></code></font> Diplomacia
+- <font size="5"><code><ruby>飛<rt>ひ</rt>行<rt>こう</rt></ruby></code></font> Aviação
+- <font size="5"><code><ruby>拍<rt>はく</rt>手<rt>しゅ</rt></ruby></code></font> Aplauso
+- <font size="5"><code><ruby>競<rt>けい</rt>馬<rt>ば</rt></ruby></code></font> Corrida de cavalos
 
 ### Jogos
 
@@ -1127,7 +1361,7 @@
     - `カードゲーム` Jogo de cartas
     - `ボードゲーム` Jogo de tabuleiro
 - `チェス` Xadrez
-- <font size="5"><code><ruby>将<rt>しょう</rt>棋<rt>ぎ</rt></ruby></code></font> Shougi
+- <font size="5"><code><ruby>将<rt>しょう</rt>棋<rt>ぎ</rt></ruby></code></font> Shogi
 - <font size="5"><code><ruby>碁<rt>ご</rt></ruby></code></font> Go
 - `じゃんけん` Pedra-papel-tesoura
     - `じゃんけんポン` Ao jogar
@@ -1139,6 +1373,9 @@
 
 - <font size="5"><code><ruby>出<rt>で</rt>来<rt>き</rt>事<rt>ごと</rt></ruby></code></font> Ocorrência/Acontecimento
 - <font size="5"><code><ruby>式<rt>しき</rt></ruby></code></font> Cerimônia/Celebração/Ritual
+- <font size="5"><code><ruby>儀<rt>ぎ</rt>式<rt>しき</rt></ruby></code></font> Rito/Ritual
+    - Geralmente cultural ou religioso.
+- <font size="5"><code><ruby>卒<rt>そつ</rt>業<rt>ぎょう</rt>式<rt>しき</rt></ruby></code></font> Cerimônia de graduação
 - `プロポーズ` Pedido de casamento
 - <font size="5"><code><ruby>結<rt>けっ</rt>婚<rt>こん</rt>式<rt>しき</rt></ruby></code></font> Cerimônia de casamento
 - <font size="5"><code><ruby>結<rt>けっ</rt>婚<rt>こん</rt>披<rt>ひ</rt>露<rt>ろう</rt>宴<rt>えん</rt></ruby></code></font> Recepção de casamento
@@ -1158,6 +1395,10 @@
 - <font size="5"><code><ruby>競<rt>きょう</rt>争<rt>そう</rt></ruby></code></font> Competição
 - <font size="5"><code><ruby>展<rt>てん</rt>覧<rt>らん</rt>会<rt>かい</rt></ruby></code></font> Exposição
 - <font size="5"><code>コロナ<ruby>禍<rt>か</rt></ruby></code></font> Pandemia da COVID-19
+- <font size="5"><code><ruby>座<rt>ざ</rt>談<rt>だん</rt>会<rt>かい</rt></ruby></code></font> Simpósio
+- <font size="5"><code><ruby>大<rt>たい</rt>会<rt>かい</rt></ruby></code></font> Convenção/Encontro/Torneio/Comício
+    - Qualquer evento que reúna várias pessoas com um único objetivo.
+- <font size="5"><code><ruby>講<rt>こう</rt>演<rt>えん</rt></ruby></code></font> Palestra
 
 #### <ruby>祭<rt>まつ</rt></ruby>り - Festivais
 
@@ -1165,6 +1406,7 @@
 - <font size="5"><code><ruby>月<rt>つき</rt>見<rt>み</rt></ruby></code></font> Festival de Observação da Lua
     - <font size="5"><code>お<ruby>月<rt>つき</rt>見<rt>み</rt></ruby></code></font> Teineigo
 - <font size="5"><code>お<ruby>盆<rt>ぼん</rt></ruby></code></font> Festival Bon
+    - <font size="5"><code><ruby>盆<rt>ぼん</rt>踊<rt>おど</rt></ruby>り</code></font> Dança do Bon
 - <font size="5"><code><ruby>節<rt>せつ</rt>分<rt>ぶん</rt></ruby></code></font> Festival de Divisão Sazonal
 - <font size="5"><code><ruby>雛<rt>ひな</rt>祭<rt>まつ</rt></ruby>り</code></font> Festival das Bonecas/Festival das Meninas
 - <font size="5"><code><ruby>端<rt>たん</rt>午<rt>ご</rt></ruby>の<ruby>節<rt>せっ</rt>句<rt>く</rt></ruby></code></font> Festival dos Meninos
@@ -1179,12 +1421,13 @@
 - <font size="5"><code><ruby>試<rt>し</rt>験<rt>けん</rt></ruby></code></font> Prova/Exame
     - <font size="5"><code><ruby>入<rt>にゅう</rt>学<rt>がく</rt>試<rt>し</rt>験<rt>けん</rt></ruby></code></font> Exame de admissão (em escolas e universidades)
         - <font size="5"><code><ruby>入<rt>にゅう</rt>試<rt>し</rt></ruby></code></font> Abreviação
+    - <font size="5"><code><ruby>期<rt>き</rt>末<rt>まつ</rt>試<rt>し</rt>験<rt>けん</rt></ruby></code></font> Prova final
 - `テスト` Teste/Prova/Exame
     - <font size="5"><code><ruby>〇<rt>まる</rt>×<rt>ばつ</rt></ruby>テスト</code></font> Prova de verdadeiro ou falso
 - <font size="5"><code><ruby>授<rt>じゅ</rt>業<rt>ぎょう</rt></ruby></code></font> Aula/Disciplina (escolar, universitária)
 - <font size="5"><code><ruby>教<rt>きょう</rt>室<rt>しつ</rt></ruby></code></font> Aula (hobby, habilidade)
     - Usado com hobbies e habilidades. Ex.: `ピアノ教室` "Aula de piano"
-- <font size="5"><code><ruby>講<rt>こう</rt>義<rt>ぎ</rt></ruby></code></font> Aula/Palestra
+- <font size="5"><code><ruby>講<rt>こう</rt>義<rt>ぎ</rt></ruby></code></font> Aula/Palestra (acadêmica)
 - `クラス` Turma/Classe
 - <font size="5"><code><ruby>専<rt>せん</rt>攻<rt>こう</rt></ruby></code></font> Curso de Graduação (Major)
 - <font size="5"><code><ruby>卒<rt>そつ</rt>業<rt>ぎょう</rt></ruby></code></font> Graduação/Formatura
@@ -1195,10 +1438,14 @@
 - <font size="5"><code><ruby>作<rt>さく</rt>文<rt>ぶん</rt></ruby></code></font> Redação
 - `レポート` Relatório
 - <font size="5"><code><ruby>独<rt>どく</rt>学<rt>がく</rt></ruby></code></font> Autoeducação/Autodidatismo
+- <font size="5"><code><ruby>予<rt>よ</rt>習<rt>しゅう</rt></ruby></code></font> Estudo (preparativo, antes de uma aula)
 - <font size="5"><code><ruby>復<rt>ふく</rt>習<rt>しゅう</rt></ruby></code></font> Revisão
 - <font size="5"><code><ruby>学<rt>がく</rt>士<rt>し</rt>号<rt>ごう</rt></ruby></code></font> Bacharelado
 - <font size="5"><code><ruby>修<rt>しゅう</rt>士<rt>し</rt>号<rt>ごう</rt></ruby></code></font> Mestrado
 - <font size="5"><code><ruby>博<rt>はく</rt>士<rt>し</rt>号<rt>ごう</rt></ruby></code></font> Doutorado
+- <font size="5"><code><ruby>奨<rt>しょう</rt>学<rt>がく</rt>金<rt>きん</rt></ruby></code></font> Bolsa de estudos
+- `カンニング` Colar (em provas)
+- <font size="5"><code><ruby>休<rt>きゅう</rt>校<rt>こう</rt></ruby></code></font> Recesso escolar (por feriado ou emergência)
 
 #### Áreas de Estudo
 
@@ -1212,6 +1459,7 @@
 - <font size="5"><code><ruby>物<rt>ぶつ</rt>理<rt>り</rt>学<rt>がく</rt></ruby></code></font> Física
 - <font size="5"><code><ruby>化<rt>か</rt>学<rt>がく</rt></ruby></code></font> Química
 - <font size="5"><code><ruby>工<rt>こう</rt>学<rt>がく</rt></ruby></code></font> Engenharia
+    - <font size="5"><code><ruby>電<rt>でん</rt>気<rt>き</rt>工<rt>こう</rt>学<rt>がく</rt></ruby></code></font> Engenharia elétrica
 - <font size="5"><code><ruby>情<rt>じょう</rt>報<rt>ほう</rt>学<rt>がく</rt></ruby></code></font> Informática
 - <font size="5"><code><ruby>地<rt>ち</rt>質<rt>しつ</rt>学<rt>がく</rt></ruby></code></font> Geologia
 
@@ -1227,6 +1475,8 @@
     - <font size="5"><code><ruby>眼<rt>がん</rt>科<rt>か</rt></ruby></code></font> Oftalmologia
     - <font size="5"><code><ruby>歯<rt>し</rt>科<rt>か</rt></ruby></code></font> Odontologia
     - <font size="5"><code><ruby>皮<rt>ひ</rt>膚<rt>ふ</rt>科<rt>か</rt></ruby></code></font> Dermatologia
+    - <font size="5"><code><ruby>整<rt>せい</rt>形<rt>けい</rt>外<rt>げ</rt>科<rt>か</rt></ruby></code></font> Ortopedia
+    - <font size="5"><code><ruby>耳<rt>じ</rt>鼻<rt>び</rt>科<rt>か</rt></ruby></code></font> Otorrinolaringologia
 - <font size="5"><code><ruby>薬<rt>やく</rt>学<rt>がく</rt></ruby></code></font> Farmácia
 
 ##### <ruby>文<rt>ぶん</rt>系<rt>けい</rt></ruby> - Humanas
@@ -1246,12 +1496,16 @@
 - <font size="5"><code><ruby>心<rt>しん</rt>理<rt>り</rt>学<rt>がく</rt></ruby></code></font> Psicologia
 - <font size="5"><code><ruby>教<rt>きょう</rt>育<rt>いく</rt>学<rt>がく</rt></ruby></code></font> Pedagogia
 - <font size="5"><code><ruby>商<rt>しょう</rt>学<rt>がく</rt></ruby></code></font> Ciências Econômicas/Administração
+- <font size="5"><code>アジア<ruby>研<rt>けん</rt>究<rt>きゅう</rt></ruby></code></font> Estudos Asiáticos
 
 ### <ruby>仕<rt>し</rt>事<rt>ごと</rt></ruby> - Trabalho
 
 - <font size="5"><code><ruby>労<rt>ろう</rt>働<rt>どう</rt></ruby></code></font> Trabalho/Labor/Labuta
+- <font size="5"><code><ruby>力<rt>ちから</rt>仕<rt>し</rt>事<rt>ごと</rt></ruby></code></font> Trabalho manual
+    - <font size="5"><code><ruby>労<rt>ろう</rt>働<rt>どう</rt></ruby></code></font> Alternativa
 - `アルバイト` Trabalho de meio-período
     - `バイト`
+- <font size="5"><code><ruby>仕<rt>し</rt>事<rt>ごと</rt></ruby>の<ruby>依<rt>い</rt>頼<rt>らい</rt></ruby></code></font> Solicitação de serviço
 - <font size="5"><code><ruby>就<rt>しゅう</rt>職<rt>しょく</rt></ruby></code></font> Busca de emprego
 - <font size="5"><code><ruby>求<rt>きゅう</rt>人<rt>じん</rt></ruby></code></font> Vaga de emprego
 - <font size="5"><code><ruby>履<rt>り</rt>歴<rt>れき</rt>書<rt>しょ</rt></ruby></code></font> Currículo
@@ -1267,6 +1521,7 @@
 - <font size="5"><code><ruby>残<rt>ざん</rt>業<rt>ぎょう</rt></ruby></code></font> Hora extra
 - <font size="5"><code><ruby>出<rt>しゅっ</rt>張<rt>ちょう</rt></ruby></code></font> Viagem de negócios
 - `フリー` Freelance
+- <font size="5"><code><ruby>失<rt>しつ</rt>業<rt>ぎょう</rt></ruby></code></font> Desemprego
 
 ### スポーツ - Esporte
 
@@ -1353,3 +1608,5 @@
     - <font size="5"><code>お<ruby>墓<rt>はか</rt></ruby></code></font> Sonkeigo
 - <font size="5"><code>お<ruby>供<rt>そな</rt></ruby>え</code></font> Oferenda fúnebre
     - Geralmente flores ou comidas e bebidas que o falecido gostava.
+- <font size="5"><code><ruby>原<rt>げん</rt>爆<rt>ばく</rt></ruby></code></font> Bomba atômica
+- <font size="5"><code><ruby>足<rt>あし</rt>音<rt>おと</rt></ruby></code></font> Som de passos

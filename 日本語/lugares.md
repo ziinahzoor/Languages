@@ -14,23 +14,29 @@
 - <font size="5"><code><ruby>置<rt>お</rt><ruby>き</ruby>場<rt>ば</rt></ruby></code></font> Lugar para colocar algo
 - <font size="5"><code><ruby>会<rt>かい</rt>場<rt>じょう</rt></ruby></code></font> Local
 - <font size="5"><code><ruby>辺<rt>へん</rt></ruby></code></font> Área/Região
+- <font size="5"><code><ruby>地<rt>ち</rt>域<rt>いき</rt></ruby></code></font> Região
 - <font size="5"><code><ruby>近<rt>きん</rt>所<rt>じょ</rt></ruby></code></font> Vizinhança
 - <font size="5"><code><ruby>辺<rt>あた</rt></ruby>り</code></font> Proximidades/Em volta
 - <font size="5"><code><ruby>地<rt>じ</rt>面<rt>めん</rt></ruby></code></font> Chão
 - <font size="5"><code><ruby>住<rt>じゅう</rt>所<rt>しょ</rt></ruby></code></font> Endereço
 - <font size="5"><code><ruby>世<rt>せ</rt>界<rt>かい</rt></ruby></code></font> Mundo
-- <font size="5"><code><ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby></code></font> Área de vendas/Área comercial/Balcão de vendas
+- <font size="5"><code><ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby></code></font> Ponto de venda/Área de vendas/Área comercial/Balcão de vendas
 - <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
     - `ショップ` Alternativa
-    - <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby></code></font> Honorífico (Teineigo)
+    - <font size="5"><code>お<ruby>店<rt>みせ</rt></ruby></code></font> Sonkeigo
     - <font size="5"><code><ruby>店<rt>てん</rt>内<rt>ない</rt></ruby></code></font> Dentro da loja
         - Geralmente é usado para dizer que vai se consumir um produto no local ao invés de levar pra casa.
+- <font size="5"><code><ruby>支<rt>し</rt>店<rt>てん</rt></ruby></code></font> Filial/Subsidiária
+- <font size="5"><code><ruby>売<rt>ばい</rt>店<rt>てん</rt></ruby></code></font> Estande/Quiosque/Barraca
+- <font size="5"><code><ruby>茶<rt>さ</rt>店<rt>てん</rt></ruby></code></font> Casa de chá
+    - <font size="5"><code><ruby>茶<rt>ちゃ</rt>店<rt>みせ</rt></ruby></code></font> Alternativa
+- <font size="5"><code><ruby>喫<rt>きっ</rt>茶<rt>さ</rt>店<rt>てん</rt></ruby></code></font> Cafeteria
+    - São cafeterias japonesas mais tradicionais. Geralmente oferecem serviços como uma lanchonete.
 - <font size="5"><code><ruby>村<rt>むら</rt></ruby></code></font> Vila
 - <font size="5"><code><ruby>首<rt>しゅ</rt>都<rt>と</rt></ruby></code></font> Capital
 - <font size="5"><code><ruby>都<rt>と</rt></ruby></code></font> Metrópole
     - Geralmente se refere a Tóquio ou a região metropolitana de Tóquio.
 - `ホテル` Hotel
-- <font size="5"><code><ruby>店<rt>みせ</rt></ruby></code></font> Loja
 - `ぶんぼうぐ` Papelaria
 - `コンビニ` Loja de conveniência
 - `デパート` Loja de departamento
@@ -43,14 +49,16 @@
     - <font size="5"><code><ruby>幼<rt>よう</rt>稚<rt>ち</rt>園<rt>えん</rt></ruby></code></font> Jardim de infância
     - <font size="5"><code><ruby>小<rt>しょう</rt>学<rt>がっ</rt>校<rt>こう</rt></ruby></code></font> Fundamental 1 (6 séries)
     - <font size="5"><code><ruby>中<rt>ちゅう</rt>学<rt>がっ</rt>校<rt>こう</rt></ruby></code></font> Fundamental 2 (3 séries)
-    - <font size="5"><code><ruby>高<rt>こう</rt>校<rt>こう</rt></ruby></code></font> Ensino Médio (3 séries)
+    - <font size="5"><code><ruby>高<rt>こう</rt>等<rt>とう</rt>学<rt>がっ</rt>校<rt>こう</rt></ruby></code></font> Ensino Médio (3 séries)
+        - <font size="5"><code><ruby>高<rt>こう</rt>校<rt>こう</rt></ruby></code></font> Abreviação
+    - `スクール` Anglicanismo
+        - Geralmente se refere a escolas fora do contexto acadêmico, como escola de direção, escola de conversação, etc.
 - <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt></ruby></code></font> Universidade
-- <font size="5"><code><ruby>教<rt>きょう</rt>室<rt>しつ</rt></ruby></code></font> Sala de aula
+- <font size="5"><code><ruby>大<rt>だい</rt>学<rt>がく</rt>院<rt>いん</rt></ruby></code></font> Pós-graduação/Escola de pós-graduação
 - <font size="5"><code><ruby>塾<rt>じゅく</rt></ruby></code></font> Cursinho/Escola preparatória
+- <font size="5"><code><ruby>教<rt>きょう</rt>室<rt>しつ</rt></ruby></code></font> Sala de aula
 - <font size="5"><code><ruby>図<rt>と</rt>書<rt>しょ</rt>館<rt>かん</rt></ruby></code></font> Biblioteca
 - `ギム` Academia
-- <font size="5"><code><ruby>喫<rt>きっ</rt>茶<rt>さ</rt>店<rt>てん</rt></ruby></code></font> Cafeteria
-    - São cafeterias japonesas mais tradicionais. Geralmente oferecem serviços como uma lanchonete.
 - `レストラン` Restaurante
     - `ファミレス` Restaurante de família/Restaurante casual
 - `キャンプ` Campo
@@ -61,14 +69,16 @@
 - <font size="5"><code><ruby>都<rt>と</rt>市<rt>し</rt></ruby></code></font> Cidade (grande)
     - <font size="5"><code><ruby>都<rt>と</rt>会<rt>かい</rt></ruby></code></font> Cidade urbana/Metrópole
 - <font size="5"><code><ruby>町<rt>まち</rt></ruby></code></font> Cidade (pequena)
-- <font size="5"><code><ruby>地<rt>じ</rt>元<rt>もと</rt></ruby></code></font> Cidade natal
+- `ふるさと` Cidade natal
+- <font size="5"><code><ruby>地<rt>じ</rt>元<rt>もと</rt></ruby></code></font> Área local/Minha cidade/Lá onde eu moro
 - <font size="5"><code><ruby>田舎<rt>いなか</rt></ruby></code></font> Interior/Área rural
 - <font size="5"><code><ruby>地<rt>ち</rt>方<rt>ほう</rt></ruby></code></font> Províncias rurais
+- <font size="5"><code><ruby>郊<rt>こう</rt>外<rt>がい</rt></ruby></code></font> Subúrbio
 - `ホーム` Plataforma
 - `かいさつ` Portão de embarque
 - <font size="5"><code><ruby>乗<rt>の</rt></ruby>り<ruby>換<rt>か</rt></ruby>え</code></font> Escala/Conexão (de trens)
 - `ちか` Subsolo
-- `エレベーター` Elevator
+- `エレベーター` Elevador
 - `エスカレーター` Escada rolante
 - `カフェ` Café
 - <font size="5"><code><ruby>玄<rt>げん</rt>関<rt>かん</rt></ruby></code></font> Entrada principal/Entrada de casa
@@ -84,10 +94,7 @@
 - <font size="5"><code><ruby>建<rt>たて</rt>物<rt>もの</rt></ruby></code></font> Edifício/Edificação/Imóvel
 - <font size="5"><code><ruby>二<rt>に</rt>階<rt>かい</rt>建<rt>だ</rt></ruby>て</code></font> Edifício de dois andares
 - `ビル` Prédio (com vários andares)
-- <font size="5"><code>パン<ruby>屋<rt>や</rt></ruby></code></font> Padaria
-- <font size="5"><code>ぴざ<ruby>屋<rt>や</rt></ruby></code></font> Pizzaria
-- <font size="5"><code>ラーメン<ruby>屋<rt>や</rt></ruby></code></font> Loja de lámen
-- <font size="5"><code><ruby>寿<rt>す</rt>司<rt>し</rt>屋<rt>や</rt></ruby></code></font> Loja de sushi
+- <font size="5"><code><ruby>美<rt>び</rt>容<rt>よう</rt>院<rt>いん</rt></ruby></code></font> Salão de beleza
 - <font size="5"><code><ruby>病<rt>びょう</rt>院<rt>いん</rt></ruby></code></font> Hospital
 - <font size="5"><code><ruby>海<rt>うみ</rt></ruby></code></font> Mar/Praia
 - <font size="5"><code><ruby>浜<rt>はま</rt>辺<rt>べ</rt></ruby></code></font> Praia
@@ -102,15 +109,18 @@
 - <font size="5"><code><ruby>旅<rt>りょ</rt>館<rt>かん</rt></ruby></code></font> Pousada/Hospedaria japonesa
 - <font size="5"><code><ruby>大<rt>だい</rt>浴<rt>よく</rt>場<rt>じょう</rt></ruby></code></font> Área de banho comunitária
 - <font size="5"><code><ruby>会<rt>かい</rt>社<rt>しゃ</rt></ruby></code></font> Empresa
+- <font size="5"><code><ruby>本<rt>ほん</rt>社<rt>しゃ</rt></ruby></code></font> Sede/Matriz
+- <font size="5"><code><ruby>新<rt>しん</rt>聞<rt>ぶん</rt>社<rt>しゃ</rt></ruby></code></font> Jornal
 - `トンネル` Túnel
 - <font size="5"><code><ruby>博<rt>はく</rt>物<rt>ぶつ</rt>館<rt>かん</rt></ruby></code></font> Museu
 - <font size="5"><code><ruby>美<rt>び</rt>術<rt>じゅつ</rt>館<rt>かん</rt></ruby></code></font> Museu de arte
+- <font size="5"><code><ruby>平<rt>へい</rt>和<rt>わ</rt>記<rt>き</rt>念<rt>ねん</rt>資<rt>し</rt>料<rt>りょう</rt>館<rt>かん</rt></ruby></code></font> Museu Memorial da Paz
 - <font size="5"><code><ruby>城<rt>しろ</rt></ruby></code></font> Castelo
+    - <font size="5"><code>お<ruby>城<rt>しろ</rt></ruby></code></font> Sonkeigo
 - `ロビー` Entrada/Portaria/Salão
 - <font size="5"><code><ruby>受<rt>うけ</rt>付<rt>つけ</rt></ruby></code></font> Recepção
 - `スーパー` Supermercado
 - <font size="5"><code><ruby>図<rt>と</rt>書<rt>しょ</rt>館<rt>かん</rt></ruby></code></font> `としょかん` Biblioteca
-- <font size="5"><code><ruby>本<rt>ほん</rt>屋<rt>や</rt></ruby></code></font> Livraria
 - `ジム` Ginásio
 - `アトラクション` Atração
 - `ショー` Show
@@ -126,8 +136,9 @@
 - <font size="5"><code><ruby>映<rt>えい</rt>画<rt>が</rt>館<rt>かん</rt></ruby></code></font> Cinema
 - <font size="5"><code><ruby>道<rt>みち</rt></ruby></code></font> Rua/Estrada/Caminho (Geral)
 - <font size="5"><code><ruby>通<rt>とお</rt></ruby>り</code></font> Rua (Da cidade)
+- <font size="5"><code><ruby>高<rt>こう</rt>速<rt>そく</rt></ruby></code></font> Rodovia
+- <font size="5"><code><ruby>鉄<rt>てつ</rt>道<rt>どう</rt></ruby></code></font> Ferrovia
 - <font size="5"><code><ruby>百<rt>ひゃく</rt>円<rt>えん</rt></ruby>ショップ</code></font> Loja de 1,99
-- <font size="5"><code><ruby>電<rt>でん</rt>気<rt>き</rt>屋<rt>や</rt></ruby></code></font> Loja de eletrodomésticos
 - `ステージ` Palco
 - `スタジアム` Estádio
 - <font size="5"><code><ruby>郵<rt>ゆう</rt>便<rt>びん</rt>局<rt>きょく</rt></ruby></code></font> Correios
@@ -135,6 +146,10 @@
 - `コート` Quadra de esportes
 - `ドラッグストア` Drogaria
 - `ショッピングセンター` Shopping
+- `ショッピングモール` Shopping
+- <font size="5"><code><ruby>歩<rt>ほ</rt>行<rt>こう</rt>者<rt>しゃ</rt>天<rt>てん</rt>国<rt>ごく</rt></ruby></code></font> Shopping de rua
+    - Ruas transformadas em áreas comerciais livres de carros.
+    - Literalmente "paraíso de pedestres".
 - `バスターミナル` Terminal de ônibus
 - <font size="5"><code><ruby>島<rt>しま</rt></ruby></code></font> Ilha
 - `みなと` Porto
@@ -151,22 +166,20 @@
 - `おばけやしき` Casa assombrada
 - `ゲームセンター` Fliperama
 - `タワー` Torre
-- <font size="5"><code><ruby>居<rt>い</rt>酒<rt>ざか</rt>屋<rt>や</rt></ruby></code></font> Pub japonês
 - `おくじょう` Telhado/Cobertura
 - `マンション` Apartamento (de alto padrão)
     - Um prédio com vários apartamentos de padrão médio ou alto.
 - <font size="5"><code><ruby>交<rt>こう</rt>番<rt>ばん</rt></ruby></code></font> Posto policial
 - <font size="5"><code><ruby>交<rt>こう</rt>差<rt>さ</rt>点<rt>てん</rt></ruby></code></font> Cruzamento/Interseção
+- <font size="5"><code>スクランブル<ruby>交<rt>こう</rt>差<rt>さ</rt>点<rt>てん</rt></ruby></code></font> Cruzamento diagonal de pedestres
 - <font size="5"><code><ruby>環<rt>かん</rt>境<rt>きょう</rt></ruby></code></font> Ambiente/Meio-ambiente
     - <font size="5"><code><ruby>自<rt>し</rt>然<rt>ぜん</rt>環<rt>かん</rt>境<rt>きょう</rt></ruby></code></font> Meio ambiente
 - <font size="5"><code><ruby>大<rt>たい</rt>使<rt>し</rt>館<rt>かん</rt></ruby></code></font> Embaixada
 - <font size="5"><code><ruby>山<rt>やま</rt>道<rt>みち</rt></ruby></code></font> Trilha (montanhosa)
-- <font size="5"><code><ruby>売<rt>ばい</rt>店<rt>てん</rt></ruby></code></font> Estande/Quiosque/Barraca
 - <font size="5"><code><ruby>改<rt>かい</rt>札<rt>さつ</rt></ruby></code></font> Bilheteria (de passagens)
 - <font size="5"><code><ruby>切<rt>きっ</rt>符<rt>ぷ</rt>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby></code></font> Bilheteria (de ingressos)
 - `アウトドア` Ar livre
 - <font size="5"><code><ruby>土<rt>と</rt>地<rt>ち</rt></ruby></code></font> Lote/Terreno
-- <font size="5"><code><ruby>八<rt>や</rt>百<rt>お</rt>屋<rt>や</rt></ruby></code></font> Verdureiro
 - <font size="5"><code><ruby>劇<rt>げき</rt>場<rt>じょう</rt></ruby></code></font> Teatro
 - <font size="5"><code><ruby>駐<rt>ちゅう</rt>車<rt>しゃ</rt>場<rt>じょう</rt></ruby></code></font> Estacionamento
 - <font size="5"><code><ruby>自<rt>じ</rt>転<rt>てん</rt>車<rt>しゃ</rt>置<rt>お</rt></ruby>き<ruby>場<rt>ば</rt></ruby></code></font> Estacionamento de bicicletas
@@ -180,20 +193,48 @@
 - `コース` Rota
 - <font size="5"><code><ruby>鳥<rt>とり</rt>居<rt>い</rt></ruby></code></font> Portão Torii
 - <font size="5"><code><ruby>港<rt>みなと</rt></ruby></code></font> Porto
+- <font size="5"><code><ruby>田<rt>た</rt></ruby></code></font> Arrozal
+- <font size="5"><code><ruby>寮<rt>りょう</rt></ruby></code></font> Dormitório
+- <font size="5"><code><ruby>会<rt>かい</rt>議<rt>ぎ</rt>室<rt>しつ</rt></ruby></code></font> Sala de conferências
+- <font size="5"><code><ruby>講<rt>こう</rt>堂<rt>どう</rt></ruby></code></font> Auditório
+- <font size="5"><code><ruby>下<rt>げ</rt>宿<rt>しゅく</rt></ruby></code></font> Alojamento/Hospedagem
+- `ガソリンスタンド` Posto de gasolina
+- <font size="5"><code><ruby>旅<rt>りょ</rt>行<rt>こう</rt>会<rt>がい</rt>社<rt>しゃ</rt></ruby></code></font> Agência de viagens
+- <font size="5"><code><ruby>大<rt>だい</rt>浴<rt>よく</rt>場<rt>じょう</rt></ruby></code></font> Banheira pública comunitária
+- `ワンルームマンション` Estúdio (apartamento)
+- <font size="5"><code><ruby>職<rt>しょく</rt>場<rt>ば</rt></ruby></code></font> Local de trabalho
+- <font size="5"><code><ruby>土<rt>と</rt>地<rt>ち</rt></ruby></code></font> Lote/Terreno
+- <font size="5"><code><ruby>田<rt>た</rt></ruby>んぼ</code></font> Arrozal
+- <font size="5"><code><ruby>行方<rt>ゆくえ</rt></ruby></code></font> Paradeiro
+- <font size="5"><code><ruby>町<rt>まち</rt>外<rt>はず</rt></ruby>れ</code></font> Periferia/Subúrbio
+
+## Estabelecimentos 屋
+
+- <font size="5"><code>パン<ruby>屋<rt>や</rt></ruby></code></font> Padaria
+- <font size="5"><code>ぴざ<ruby>屋<rt>や</rt></ruby></code></font> Pizzaria
+- <font size="5"><code>ラーメン<ruby>屋<rt>や</rt></ruby></code></font> Loja de lámen
+- <font size="5"><code><ruby>寿<rt>す</rt>司<rt>し</rt>屋<rt>や</rt></ruby></code></font> Loja de sushi
+- <font size="5"><code><ruby>肉<rt>にく</rt>屋<rt>や</rt></ruby></code></font> Açougue
+- <font size="5"><code><ruby>床<rt>とこ</rt>屋<rt>や</rt></ruby></code></font> Cabeleireiro/Barbearia
+- <font size="5"><code><ruby>本<rt>ほん</rt>屋<rt>や</rt></ruby></code></font> Livraria
+- <font size="5"><code><ruby>電<rt>でん</rt>気<rt>き</rt>屋<rt>や</rt></ruby></code></font> Loja de eletrodomésticos
+- <font size="5"><code><ruby>八<rt>や</rt>百<rt>お</rt>屋<rt>や</rt></ruby></code></font> Verdureiro
+- <font size="5"><code><ruby>居<rt>い</rt>酒<rt>ざか</rt>屋<rt>や</rt></ruby></code></font> Pub japonês
 
 ## <ruby>親<rt>しん</rt>戚<rt>せき</rt>所<rt>ところ</rt></ruby> - Lugares Relativos
 
 - <font size="5"><code><ruby>隣<rt>となり</rt></ruby></code></font> Ao lado/Próximo/Proximidade
-    - Expressa um ponto em uma "linha horizontal".
+    - Expressa um ponto em uma "linha horizontal". Geralmente indica uma mesma categoria de itens próximos.
 - <font size="5"><code><ruby>横<rt>よこ</rt></ruby></code></font> Ao lado/Próximo/Proximidade
     - Expressa tudo que se está ao lado numa "linha horizontal".
 - <font size="5"><code><ruby>側<rt>そば</rt></ruby></code></font> Próximo/Proximidade
     - Expressa tudo que se está ao redor.
+- <font size="5"><code><ruby>間<rt>ま</rt>近<rt>ぢか</rt></ruby></code></font> Proximidades
 - <font size="5"><code><ruby>周<rt>まわ</rt></ruby>り</code></font> Arredor/Arredores
 - <font size="5"><code><ruby>前<rt>まえ</rt></ruby></code></font> Frente/Face
     - Não precisa de partícula para se ligar a um verbo.
 - <font size="5"><code><ruby>先<rt>さき</rt></ruby></code></font> Depois de/Na frente de/Em frente
-    - É mais abstrato que `前`, não indica uma posição específica, e sim uma direção.
+    - É mais abstrato que `前`, não indica uma posição específica, e sim uma direção, algo que vem "primeiro".
 - <font size="5"><code><ruby>後<rt>うし</rt>ろ</ruby></code></font> Atrás/Detrás
 - <font size="5"><code><ruby>前<rt>ぜん</rt>後<rt>ご</rt></ruby></code></font> Frente e trás
 - `フロント` Fronte
@@ -211,6 +252,7 @@
 - <font size="5"><code><ruby>近<rt>ちか</rt></ruby>く</code></font> Perto
 - <font size="5"><code><ruby>遠<rt>とお</rt></ruby>く</code></font> Longe
 - <font size="5"><code><ruby>底<rt>そこ</rt></ruby></code></font> Fundo/Sola
+- <font size="5"><code><ruby>端<rt>はし</rt></ruby></code></font> Fim/Final/Borda/Beira
 - <font size="5"><code><ruby>地<rt>ち</rt>下<rt>か</rt></ruby></code></font> Subsolo
 
 ### <ruby>方<rt>ほう</rt>向<rt>こう</rt></ruby> - Direções
@@ -245,6 +287,7 @@
 </table>
 
 - Também é possível usar <font size="5"><code><ruby>手<rt>て</rt></ruby></code></font> ao invés de <font size="5"><code><ruby>側<rt>がわ</rt></ruby></code></font> para indicar o lado, porém possui uma nuance mais relativa à visão da pessoa.
+- <font size="5"><code><ruby>前<rt>ぜん</rt>方<rt>ぽう</rt></ruby></code></font> Adiante/Para a frente
 
 #### Pontos Cardeais
 
@@ -266,6 +309,7 @@
     </tr>
 </table>
 
+- <font size="5"><code><ruby>四<rt>し</rt>方<rt>ほう</rt></ruby></code></font> Todas as direções/Todos os lados
 - <font size="5"><code><ruby>東<rt>とう</rt>西<rt>ざい</rt>南<rt>なん</rt>北<rt>ぼく</rt></ruby></code></font> As quatro direções
 - <font size="5"><code><ruby>西<rt>せい</rt>洋<rt>よう</rt></ruby></code></font> (O) Ocidente
 
@@ -286,6 +330,7 @@
 - <font size="5"><code><ruby>寝<rt>しん</rt>室<rt>しつ</rt></ruby></code></font> Quarto
 - `きゃくしつ` Quarto de visitas
 - <font size="5"><code>お<ruby>手<rt>て</rt>洗<rt>あら</rt><rt></rt></ruby>い</code></font> Banheiro
+    - <font size="5"><code><ruby>便<rt>べん</rt>所<rt>じょ</rt></ruby></code></font> Alternativa
     - `トイレ` Casual
 - <font size="5"><code><ruby>浴<rt>よく</rt>室<rt>しつ</rt></ruby></code></font> Sala de banho
     - <font size="5"><code><ruby>風<rt>ふ</rt>呂<rt>ろ</rt>場<rt>ば</rt></ruby></code></font> Casual
@@ -326,6 +371,7 @@
 
 - <font size="5"><code><ruby>外<rt>がい</rt>国<rt>こく</rt></ruby></code></font> País estrangeiro
     - <font size="5"><code><ruby>外<rt>がい</rt>国<rt>こく</rt>語<rt>ご</rt></ruby></code></font> Língua estrangeira
+- <font size="5"><code><ruby>自<rt>じ</rt>国<rt>こく</rt></ruby></code></font> Próprio país
 
 ### アフリカ - África
 
@@ -370,6 +416,7 @@
 - `スペイン` Espanha
 - `ドイツ` Alemanha
 - `イタリア` Itália
+- `スウェーデン` Suécia
 
 ### オセアニア - Oceania
 

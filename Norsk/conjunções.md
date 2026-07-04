@@ -1,4 +1,5 @@
 # Conjunções
 
--   `Eller` Ou
--   `Og` E
+- `Eller` Ou
+- `Og` E
+- `Men` Mas

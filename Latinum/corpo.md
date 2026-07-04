@@ -2,3 +2,4 @@
 
 - `Os` Boca ✴️
 - `Ossum` Osso ✴️
+- `Manus` Mão

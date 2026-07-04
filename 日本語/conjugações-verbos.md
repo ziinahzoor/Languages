@@ -57,11 +57,13 @@
 - Existem verbos <font size="5"><code><ruby>一<rt>いち</rt>段<rt>だん</rt></ruby></code></font>(uma forma), <font size="5"><code><ruby>五<rt>ご</rt>段<rt>だん</rt></ruby></code></font> (cinco formas) e irregulares.
     - Verbos `いちだん` terminam em `る`. Também chamados de "Grupo 2".
         - Classificados em <font size="5"><code><ruby>上<rt>かみ</rt>一<rt>いち</rt>段<rt>だん</rt></ruby></code></font> (terminam em ～いる) e <font size="5"><code><ruby>下<rt>しも</rt>一<rt>いち</rt>段<rt>だん</rt></ruby></code></font> (terminam em ～える).
+            - Alguns verbos godan também podem ter essas terminações.
+            - Dica: verbos ichidan costumam ter mais de um okurigana além de `る`.
         - Em todas as formas o radical `る` é substituído pelo radical da forma.
     - Verbos `ごだん` terminam em algum radical kana da forma `う`. Também chamados de "Grupo 1".
         - Nas formas que usam o radical kana `あ`, se o verbo com o kana `う`, substitui-se por `わ` ao invés de `あ`.
         - Verbos godan, assim como os ichidan, também podem terminar em `る`.
-            - Se o radical kana antes de `る` é `あ`, `う` ou `お`, então o verbo só pode ser godan.
+            - Se o radical kana antes de `る` é `あ`, `う` ou `お`, então o verbo só pode ser godan. É importante reafirmar que alguns verbos godan tem radical `え` e `い`.
         - As tabelas abaixo mostram os sufixos utilizados em determinadas formas, mas também deve-se considerar a modificação do radical de cada forma.
     - Existem apenas dois irregulares: `する` e `くる`.
         - Apesar disso, alguns verbos possuem pequenas conjugações irregulares.
@@ -148,7 +150,7 @@
 - A forma negativa + a partícula interrogativa `か` ou um tom interrogativo geralmente é usada para fazer um convite ou sugestão, como "Você gostaria de...?" ou "Que tal se...?".
     - Também vale para a forma educada negativa.
     - É mais voltada pro desejo do ouvinte do que a volitiva, que é mais voltada pro desejo do locutor.
-- Pode ser usado com a forma `て`, formando a construção `ないで`, uma conjunção que é utilizada para indicar que uma ação é feita sem fazer outra ação. Quando essa conjugação é utilizada no fim da frase, indica uma proibição.
+- Pode ser usado com a forma `て`, formando `なくて`, ou ainda na forma conjuntiva `ないで`, que é utilizada para indicar que uma ação é feita sem fazer outra ação. Quando essa última conjugação é utilizada no fim da frase, indica uma proibição.
     - Na escrita, tal construção também é encontrada como `ずに`.
 - Exceções:
     - `〜ます` → `〜ません`
@@ -174,6 +176,7 @@
 - Exceções:
     - `する` → `させる`
     - `くる` → `こさせる`
+- A forma causativa pode ser ainda ligada com a forma-て a verbos de recebimento (como `もらう` e `いただく`) para indicar "tomar a liberdade de", "ter a honra de". Ex.: `手伝わせてもらう` "tomar a liberdade de ajudar"; `見させてもらう` "ter a honra de ver".
 
 <h3 id="var_causativo-passiva"><ruby>使<rt>し</rt>役<rt>えき</rt>受<rt>うけ</rt>身<rt>み</rt>形<rt>けい</rt></ruby> - Forma causativo-passiva (せられる)</h3>
 
@@ -226,8 +229,11 @@
 <h3 id="var_aparente">そう<ruby>形<rt>けい</rt></ruby> - Forma aparente (そう)</h3>
 
 - Indica que a parece que alguma ação vai acontecer (nuance visual).
-- Quando usado com a forma plana do verbo, indica que você ouviu alguém dizer que alguma ação vai acontecer (nuance auditiva).
 - Aceita `です` no fim.
+
+> [!CAUTION]
+> Quando usado com a forma plana do verbo, indica que você ouviu alguém dizer que alguma ação vai acontecer (nuance auditiva, e não visual).
+> Ex.: `降りそうだ` "parece que vai chover" (visual) vs `降るそうだ` "ouvi dizer que vai chover/dizem que vai chover" (auditiva)
 
 <h3 id="var_imperativa-educada">Forma imperativa educada ou instrucional (なさい)</h3>
 
@@ -249,6 +255,7 @@
 
 - Indica que algo é fácil ou difícil de fazer.
 - Para indicar que algo é fácil de fazer, usa-se `やすい` e para indicar que algo é difícil de fazer, usa-se `にくい`.
+    - Para ser ainda mais específico, pode-se usar `づらい` quando algo é difícil de ser realizado em um nível físico, psicológico ou emocional.
 
 <h3 id="var_metodica">Forma metódica</h3>
 
@@ -341,6 +348,8 @@
 <h4>Forma opinativa</h4>
 
 - Forma atributiva + <font size="5"><code><ruby>方<rt>ほう</rt></ruby>がいい</code></font>.
+    - É mais comum utilizar a forma-た + <font size="5"><code><ruby>方<rt>ほう</rt></ruby>がいい</code></font>. A nuance é que na forma atributiva a sugestão é mais geral ("seria bom", "é melhor se"), enquanto que na forma-た é mais opinativa ("eu/você deveria").
+    - Para situações negativas, usa-se a negação do verbo no não-passado.
 - Usada tanto para opiniões gerais sobre como decisões. "É melhor...".
 
 <h4>Forma de expectativa</h4>
@@ -352,6 +361,12 @@
 
 - Forma atributiva + `ときいた`. Também pode ser usado com adjetivos e substantivos.
 - Indica que uma informação foi relatada. "Ouvi que...".
+
+<h4>Forma imperativa negativa</h4>
+
+- Forma atributiva + `な`.
+- Indica um comando para não realizar uma ação.
+- O `る` no final dos verbos geralmente é abreviado casualmente para `ん`.
 
 ---
 
@@ -368,6 +383,13 @@
 - É utilizado para verdades universais, hábitos "sempre que...".
 - Geralmente indica resultados positivos.
 - Para o futuro, é comumente usado com `だろう・でしょう`.
+
+<h4>Forma de sugestão ou ponderação</h4>
+
+- Forma condicional + `いい`.
+- Indica uma sugestão ou ponderação. "Seria bom se..."
+- Quando pondera-se sobre algo que é considerado impossível, costuma vir acompanhado de `のに` na frase.
+- Também pode-se usar as outras estruturas condicionais além de `ば`: `たら` e `と`. A confiança sobre o resultado ser bom segue a mesma ordem, da mais fraca para a mais forte.
 
 <h4>Forma de arrependimento</h4>
 
@@ -443,7 +465,7 @@
 - São as formas volicionais de `だ` e `です`.
 - Tem a função de supor, especular ou conjecturar, como "eu acho que" ou "pode ser que". A tradução mais utilizada é "provavelmente".
     - Ou seja, é como o verbo "poder" com o sentido de possibilidade, inclusive significando "poderia...?" em perguntas.
-- Demonstra o julgamento do falante sobre alguma coisa. Consequentemente, não é utilizado para falar das próprias ações.
+- Demonstra o julgamento do falante sobre alguma coisa, ou seja, uma sugestão. Consequentemente, não é utilizado para falar das próprias ações.
 - É mais assertivo do que uma dúvida total, mais "deve ser" do que "pode ser"
 - Indica a possibilidade de algo ou que algo parece acontecer. Indica que tudo leva a crer que algo é verdade.
 - Também pode ser utilizado para confirmações, como a partícula `ね`. Porém, é mais utilizado para confirmar fatos do que para expressar um sentimento mútuo.
@@ -521,6 +543,7 @@
     - `〜ない` → `〜なかった`
 - A forma た pode ser utilizada com `ことがある` para indicar experiências passadas. Ex.: "eu já...", "você já...?".
     - No negativo, basta substituir `ある` por `ない` (sua forma negativa).
+    - Note que quando `ことがある` é usado com um verbo no presente, significa "tem vezes que".
 - A forma た pode ser utilizada com <font size="5"><code><ruby>方<rt>ほう</rt></ruby>がいい</code></font> para aconselhar decisões. Ex.: "seria melhor se...", "você deveria...".
     - No negativo, usa-se somente a forma negativa do verbo, sem a necessidade da forma た.
 - A forma た pode ser utilizada com `ら`, formando a partícula `たら`, usada para formar condicionais no passado. Ex.: "Quando..., ..."
@@ -534,7 +557,7 @@
 - Serve para conectar diversos verbos como uma sequência de eventos ou um "e". Tais eventos ocorrem em ordem.
 - Também serve como "então" em alguns contextos. Como um conector de frases.
 - No final da frase serve como comando ou pedido. No último caso é bom adicionar `ください` para ser educado
-    - No negativo, fica `ないで`.
+    - No negativo, usa-se `ないで` para comandos e pedidos.
     - Note que para ser ainda mais honorífico (contextos empresariais), pode-se usar `お` + radical `い` + `ください` ao invés da forma `て`.
     - Para ser mais imperativo, pode-se usar `くれ` ao invés de `ください`.
     - Pode ser usado no fim do causativo para pedir permissão ou oferecer uma ação voluntária.
@@ -547,6 +570,9 @@
 > [!TIP]
 > A forma て de adjetivos-い é `くて`.
 > A forma て de adjetivos-な e de substantivos é `で`.
+
+> [!NOTE]
+> Existe uma diferença entre `なくて` e `ないで`: o primeiro indica simplesmente a forma `て` do auxiliar `ない`, conectando uma ação que não ocorreu com outra ação, enquanto a segunda indica realizar uma ação sem realizar outra, sendo uma forma conjuntiva de `ない` que só pode ser utilizada com verbos. A última também pode ser usada de forma imperativa.
 
 ---
 
@@ -568,19 +594,20 @@
 
 - É quase sempre utilizado com frases terminadas em adjetivos e substantivos.
 - Obrigatoriamente usado com verbos perceptivos, como `見る` e `聞く` e de paragem, como `止める` e `やめる`.
-- Tem um senso de imediatismo.
+- Tem um senso de imediatismo e de realmente realizar ou sentir a ação.
+- Podemos dizer que quando usado com outro verbo, ambos devem ocorrer ao mesmo tempo. Isso tem a ver com o imediatismo descrito no ponto anterior.
 
 #### こと
 
-- Representa de forma abstrata a "ideia de" algo.
+- Representa de forma abstrata a "ideia de" algo. Ou seja, a ação como uma afirmação sobre o mundo, um fato.
 - Quase sempre usado para frases terminadas em verbos.
     - `だ`, `です` e `である` estão inclusos, para que não haja confusão com a forma explicativa.
 - Quando usado com frases terminadas em adjetivos e substantivos, tem um senso de observar as coisas de um ponto de vista mais abstrato, menos urgente que o imediatismo de `の`.
-- Também deve ser usado para frases fixas, rotinas e regras.
+- Também deve ser usado para frases fixas, rotinas e regras (devido ao senso de afirmação).
     - `ことにする`, `ことになる` `ことがある`, `ことができる`.
 
 > [!TIP]
-> Enquanto `こと` se refere à ideia da ação, `の` se remete mais a instâncias específicas (o "imediatismo"). Ex.: `手伝うのが好き` gostar de ajudar em alguma situação, ajudar de forma concreta; `手伝うことが好き` gostar do ato de ajudar, da ideia abstrata de ajudar.
+> Enquanto `こと` se refere à ideia da ação ou regras gerais (fatos, conceitos, hábitos), `の` se remete mais a ações expererienciadas ou instâncias específicas (o "imediatismo"). Ex.: `手伝うのが好き` gostar de ajudar em alguma situação, ajudar de forma concreta; `手伝うことが好き` gostar do ato de ajudar, da ideia abstrata de ajudar.
 
 ### Formas なる・する
 
@@ -598,7 +625,7 @@
 
 ##### ようになる
 
-- Para que/Para chegar ao ponto de/Se tornar capaz de
+- Passar a/Começar a/Para que/Para chegar ao ponto de/Se tornar capaz de
 - Indica uma mudança na capacidade ou possibilidade de fazer algo.
 
 ##### ことになる
@@ -617,7 +644,7 @@
 
 ##### ようにする
 
-- Tentar/Garantir que.
+- Tentar/Procurar/Fazer questão que/Garantir que.
 - Tem o sentido de fazer um esforço para que algo aconteça
 
 ##### ことにする

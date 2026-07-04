@@ -1,4 +1,4 @@
-# Tempo
+# Tempus - Tempo ✴️
 
 > [!NOTE]
 > Dias do mês usam o ablativo. Os dias 1, 2 e 3 usam a forma ordinal.
@@ -6,6 +6,7 @@
 - `Nunc` Agora
 - `Prius` Antes/Previamente
 - `Hodie` Hoje
+- `Cras` Amanhã
 
 ## Unidades de tempo
 

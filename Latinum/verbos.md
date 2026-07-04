@@ -1,6 +1,9 @@
 # Verbos
 
 > [!NOTE]
+> A forma de dicionário costuma ser dada pelo conjunto das conjugações da `primeira pessoa do singular do presente do indicativo`, `presente do infinitivo`, `perfeito ativo` e `supino`. Para simplificação, utilizaremos apenas o presente do infitivo.
+
+> [!NOTE]
 > Verbos depoentes serão marcados em negrito.
 
 ## Irregulares
@@ -10,8 +13,14 @@
     - `Volere` Alternativa
 - `Ire` Ir
 - `Posse/Potesse` Poder
-- `Nolle` Não
-    - Verbo muito utilizado para formar o negativo imperativo, principalmete `noli` no singular e `nolite` no plural.
+- `Nolle` Não querer
+    - Verbo muito utilizado como "não" para formar o negativo imperativo, principalmete `noli` no singular e `nolite` no plural.
+- `Inquam` Dizer
+    - Não possui infinitivo e nem gerúndio.
+- `Exire` Sair
+- `Adire` Aproximar
+- `Abire` Partir/Ir embora/Sair
+- `Mori/Moriri` Morrer
 
 ## Verbos -are
 
@@ -34,6 +43,8 @@
 - `Portare` Carregar/Trazer
 - `Pugnare` Lutar/Combater
 - `Pulsare` Bater/Acertar/Empurrar
+- `Verberare` Bater (com um instrumento)
+    - Tem uma nuance de aplicar uma punição formal.
 - `Gustare` Provar/Experimentar
 - `Excitare` Acordar (T)
 - `Exclamare` Exclamar
@@ -52,6 +63,24 @@
 - `Rogare` Perguntar/Pedir
 - `Celare` Esconder
 - `Aestimare` Estimar
+- `Significare` Significar
+- `Intrare` Entrar
+- `Plorare` Chorar/Lamentar
+- `Liberare` Libertar
+- `Occultare` Esconder
+- `Clamare` Gritar
+- `Interrogare` Perguntar
+- `Instigare` Instigar
+- `Convocare` Reunir/Convocar
+- **`Mirari`** Ficar surpreso
+- `Adiuvare` Ajudar
+- `Stare` Ficar/Remanescer
+- `Respondere` Responder
+- `Provocare` Suscitar/Evocar/Provocar
+- `Errare` Errar/Vagar
+- `Cogitare` Cogitar
+- `Procrastinare` Procrastinar
+- `Aegrotare` Estar doente
 
 ## Verbos -ēre
 
@@ -73,6 +102,14 @@
 - `Solere` Costumar/Estar acostumado
 - `Implere` Encher/Preencher
 - `Contorquere` Girar/Arremessar/Lançar
+- `Ridere` Rir
+- `Timere` Temer
+- `Remanere` Remanescer
+- `Iubere` Ordenar/Comandar/Autorizar
+- `Gaudere` Alegrar-se/Regojizar-se
+- `Terrere` Assustar/Aterrorizar
+- `Valere` Ter força
+- `Commiscere` Misturar
 
 ## Verbos -ere
 
@@ -80,6 +117,7 @@
 - `Scribere` Escrever
 - `Iacere` Deitar-se/Lançar/Jogar
 - `Facere` Fazer
+    - `Impetus facere` Atacar
 - `Cognoscere` Conhecer
 - `Concedere` Conceder
 - `Dicere` Dizer
@@ -111,6 +149,33 @@
 - `Gerere` Carregar/Conduzir/Vestir
 - `Concupiscere` Ansear/Desejar muito
 - `Tradere` Entregar/Dar
+- `Aspicere` Olhar (para)
+- `Circumspicere` Olhar em volta
+- `Spectare` Observar
+- `Quaerere` Procurar/Buscar
+- `Accedere` Aproximar/Alcançar
+- `Fugere` Fugir
+- `Capere` Pegar/Capturar
+- `Accipere` Receber/Aceitar
+- `Comprehendere` Compreender
+- `Gerere` Carregar/Levar
+- `Neglegere` Negligenciar
+- `Ponere` Colocar
+- `Imponere` Colocar/Impor
+- `Incipere` Começar
+- `Pertimescere` Temer/Ter medo
+- `Intellegere` Entender/Compreender
+- `Ducere` Liderar/Guiar/Levar
+- `Vincere` Vencer/Derrotar/Conquistar
+- `Relinquere` Abandonar/Desistir
+- `Defendere` Defender
+- `Procedere` Proceder/Avançar
+- `Rumpere` Quebrar
+- `Resistere` Recuar/Resistir
+- `Conicere` Arremesar/Lançar/Jogar
+- `Inicere` Arremessar/Lançar/Jogar
+- `Surgere` Levantar/Subir/Surgir
+- **`Sequor`** Seguir
 
 ## Verbos -ire
 
@@ -124,3 +189,8 @@
 - `Invenire` Achar
 - `Esurire` Estar com fome
 - `Exhaurire` Exaurir/Esgotar/Drenar
+- `Odire` Odiar
+- `Nescire` Não saber
+- `Redire` Voltar/Retornar
+- `Revenire` Voltar/Retornar
+- `Aperire` Descobrir

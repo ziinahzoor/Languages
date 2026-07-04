@@ -8,14 +8,16 @@
 
 - `Ad` Para/Em direção a
 - `Apud` Em/Por
-- `Inter` Entre
+- `Inter` Entre/Durante/Enquanto
+- `Contra`
 - `Iuxta` Próximo a
 - `Per` Por/Através
-- `Ante` Antes
-- `Post` Depois
+- `Ante` Antes/Na frente
+- `Post` Depois/Atrás
 - `In` Em/No/Na (para dentro)
 - `Super` Sobre
 - `Per` Atráves/Por
+- `Trans` Através/Além
 
 ## Usadas com ablativo
 
@@ -24,7 +26,7 @@
 - `Ex` De (saindo do interior de)
 - `Coram` Ante/Na presença de
 - `Cum` Com (com o ablativo)
-- `De`
+- `De` Sobre/A respeito de
 - `E` Por/De
     - `Ex` Antes de vogal
 - `Pre` Antes

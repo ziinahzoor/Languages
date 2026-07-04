@@ -125,7 +125,7 @@
 
 <h2 id="var_present-continu">Le Present Continu - Presente Contínuo</h2>
 
--   Formado pelo verbo `être` + `en train de` + [verbo].
+- Formado pelo verbo `être` + `en train de` + [verbo].
 
 <h2 id="var_indicatif-imparfait">L'Imparfait - Pretérito Imperfeito</h2>
 
@@ -178,19 +178,73 @@
 
 <h2 id="var_passe-compose">Le Passé Composé - Pretérito Perfeito</h2>
 
--   Pode ser formado por uma conjugação dos verbos `être` ou `avoir` + partícipio do pretérito. Ex.: `J'ai fini`
-    -   Verbos de movimento e pronominais utilizam `être`.
-    -   Fora os pronominais, só existem 17: `devenir`, `retourner`, `mourir`, `rentrer`, `sortir`, `venir`, `arriver`, `naître`, `descendre`, `entrer`, `revenir`, `tomber`, `rester`, `aller`, `monter`, `partir` e `passer`. Pode-se memorizar pelo acrônimo "DR & MRS VANDERTRAMPP".
-    -   Ao usar `être` como verbo auxiliar, o partícipio deve ser flexionado, concordando com o sujeito.
-    -   Ao usar `avoir` como verbo auxiliar, o partícipio só é flexionado quando há um objeto direto antes do verbo, concordando com o objeto.
+- Pode ser formado por uma conjugação dos verbos `être` ou `avoir` + partícipio do pretérito. Ex.: `J'ai fini`
+    - Verbos de movimento e pronominais utilizam `être`.
+    - Fora os pronominais, só existem 17: `devenir`, `retourner`, `mourir`, `rentrer`, `sortir`, `venir`, `arriver`, `naître`, `descendre`, `entrer`, `revenir`, `tomber`, `rester`, `aller`, `monter`, `partir` e `passer`. Pode-se memorizar pelo acrônimo "DR & MRS VANDERTRAMPP".
+    - Ao usar `être` como verbo auxiliar, o partícipio deve ser flexionado, concordando com o sujeito.
+    - Ao usar `avoir` como verbo auxiliar, o partícipio só é flexionado quando há um objeto direto antes do verbo, concordando com o objeto.
 
 <h2 id="var_plus-que-parfait">Plus‑que‑parfait - Mais-que-perfeito</h2>
 
--   Exatamente como o pretérito perfeito, porem com os verbos `être` e `avoir` na sua forma imperfeita.
+- Exatamente como o pretérito perfeito, porem com os verbos `être` e `avoir` na sua forma imperfeita.
 
 <h2 id="var_passe-recent">Le Passé Récent - Pretérito Recente</h2>
 
--   Pode ser formado por uma conjugação do verbo `venir` + `de` + verbo no infinitivo. Ex.: `Je viens de manger`.
+- Pode ser formado por uma conjugação do verbo `venir` + `de` + verbo no infinitivo. Ex.: `Je viens de manger`.
+
+<h2 id="var_passe-simple">Le Passé Simple - Pretérito Simples</h2>
+
+- Se refere a uma ação mais longínqua no passado.
+- Utilizado somente na escrita formal e encontrado principalmente na literatura.
+
+<table>
+    <thead>
+        <tr>
+            <th>Pronome</th>
+            <th>Verbos -er</th>
+            <th>Verbos -ir</th>
+            <th>Verbos -re</th>
+        </tr>
+    </thead>
+    <tr>
+        <th>Je</th>
+        <td>-ai</td>
+        <td rowspan="2" colspan="2">-is</td>
+    </tr>
+    <tr>
+        <th>Tu</th>
+        <td>-as</td>
+    </tr>
+    <tr>
+        <th>Il/Elle/On</th>
+        <td>-a</td>
+        <td colspan="2">-it</td>
+    </tr>
+    <tr>
+        <th>Nous</th>
+        <td>-âmes</td>
+        <td colspan="2">-îmes</td>
+    </tr>
+    <tr>
+        <th>Vous</th>
+        <td>-âtes</td>
+        <td colspan="2">-îtes</td>
+    </tr>
+    <tr>
+        <th>Ils/Elles</th>
+        <td>-èrent</td>
+        <td colspan="2">-irent</td>
+    </tr>
+</table>
+
+| Pronome    | Être   | Avoir  |
+| ---------- | ------ | ------ |
+| Je         | fus    | eus    |
+| Tu         | fus    | eus    |
+| Il/Elle/On | fut    | eut    |
+| Nous       | fûmes  | eûmes  |
+| Vous       | fûtes  | eûtes  |
+| Ils/Elles  | furent | eurent |
 
 <h2 id="var_futur-simple">Le Futur Simple - Futuro Simples</h2>
 
@@ -272,7 +326,12 @@
 
 <h2 id="var_futur-proche">Le Futur Proche - Futuro Imediato</h2>
 
--   Pode ser formado por uma conjugação do verbo `aller` + verbo no infintivo. Ex.: `Je vais faire`
+- Pode ser formado por uma conjugação do verbo `aller` + verbo no infintivo. Ex.: `Je vais faire`
+
+<h2 id="var_futur-anterieur">Le Futur Antérieur - Futuro Composto</h2>
+
+- Indica uma ação que já terá sido realizada no futuro.
+- Pode ser formado por uma conjugação do verbo `être` ou `aller` + verbo no particípio do pretérito. Ex.: `J'aurais fait`
 
 ---
 
@@ -330,7 +389,7 @@
 
 <h2 id="var_subjonctif-passe">Le Passé - Pretérito</h2>
 
--   Formado pela conjungação no presente do subjuntivo + particípio do passado.
+- Formado pela conjungação no presente do subjuntivo + particípio do passado.
 
 ---
 
@@ -338,24 +397,26 @@
 
 <h2 id="var_conditionnel-present">Le Present - Presente</h2>
 
--   É formado pela raíz do futuro simples do indicativo + terminações do pretérito imperfeito.
+- É formado pela raíz do futuro simples do indicativo + terminações do pretérito imperfeito.
 
 <h2 id="var_conditionnel-passe">Le Passé - Pretérito</h2>
 
--   É formado pela forma condicional presente de `être` ou `avoir` + partícipio do passado.
+- É formado pela forma condicional presente de `être` ou `avoir` + partícipio do passado.
+    - Os verbos `pouvoir` e `devoir` usam a condicional de `avoir`.
+    - O verbo `venir` usa a condicional de `être`.
 
 <h1 id="var_imperatif">L'Impératif - Imperativo</h1>
 
--   Só pode ser utilizado para `tu`, `nous` e `vous`.
--   Basta conjugar o verbo no presente sem incluir o pronome. Ex.: `Vous arrêtez` → `Arrêtez!`.
-    -   Exceto a conjugação `tu` dos verbos `-er`, que perde o "s".
--   Para se referir a uma pessoa, usar hífen e o pronome tônico. Ex.: `Lève-toi`.
--   Com os outros pronomes, também se usa o hífen. Ex.: `​Donne‑le‑lui`.
-    -   `Le`, `la` e `les` vêm antes dos outros pronomes.
-    -   No imperativo negativo não se usa o hífen. Ex.: `Ne le lui donne pas`.
-        -   `Le`, `la` e `les` vêm antes de `lui` e `leur` e depois dos outros pronomes.
--   Se o pronome `y` vem após uma vogal, acrescenta-se um "s" à conjugação. Ex.: <code>Va<u>s</u>-y</code>
--   A conjugação `tu` do verbo `s'en aller` é `va-t-en`.
+- Só pode ser utilizado para `tu`, `nous` e `vous`.
+- Basta conjugar o verbo no presente sem incluir o pronome. Ex.: `Vous arrêtez` → `Arrêtez!`.
+    - Exceto a conjugação `tu` dos verbos `-er`, que perde o "s".
+- Para se referir a uma pessoa, usar hífen e o pronome tônico. Ex.: `Lève-toi`.
+- Com os outros pronomes, também se usa o hífen. Ex.: `​Donne‑le‑lui`.
+    - `Le`, `la` e `les` vêm antes dos outros pronomes.
+    - No imperativo negativo não se usa o hífen. Ex.: `Ne le lui donne pas`.
+        - `Le`, `la` e `les` vêm antes de `lui` e `leur` e depois dos outros pronomes.
+- Se o pronome `y` vem após uma vogal, acrescenta-se um "s" à conjugação. Ex.: <code>Va<u>s</u>-y</code>
+- A conjugação `tu` do verbo `s'en aller` é `va-t-en`.
 
 ## Verbos irregulares
 
@@ -369,8 +430,8 @@
 
 <h1 id="var_gerondif">Le Gérondif - Gerúndio</h1>
 
--   É formado por `en` + particípio do presente.
--   Atua tanto substantivamente quanto adverbialmente. Ex.: `En faisant` "fazendo" ou "ao fazer".
+- É formado por `en` + particípio do presente.
+- Atua tanto substantivamente quanto adverbialmente. Ex.: `En faisant` "fazendo" ou "ao fazer".
 
 ---
 
@@ -380,8 +441,8 @@
 
 **O gerúndio é formado por `en` + particípio.**
 
--   Basta trocar o `-ons` da primeira pessoa do plural por `-ant`.
--   Existem apenas três irregulares:
+- Basta trocar o `-ons` da primeira pessoa do plural por `-ant`.
+- Existem apenas três irregulares:
 
 | Irregulares | Être  | Avoir | Savoir  |
 | ----------- | ----- | ----- | ------- |
@@ -389,8 +450,8 @@
 
 <h2 id="var_participe-passe">Le Passé - Pretérito</h2>
 
--   Deve concordar em número e gênero com o objeto direto, caso este venha antes do verbo. Não concorda se o objeto é indireto ou caso seja direto e venha depois do verbo.
-    -   Para facilitar: o sujeito concorda com o objeto quando utilizamos o auxiliar `être`, e não concorda com o auxiliar `avoir`.
+- Deve concordar em número e gênero com o objeto direto, caso este venha antes do verbo. Não concorda se o objeto é indireto ou caso seja direto e venha depois do verbo.
+    - Para facilitar: o sujeito concorda com o objeto quando utilizamos o auxiliar `être`, e não concorda com o auxiliar `avoir`.
 
 <table>
     <thead>
@@ -413,8 +474,15 @@
 | ----------- | ---- | ----- | ----- | ----- | ------- | ------- |
 | Conjugação  | été  | eu    | allé  | fait  | voulu   | pu      |
 
+<h2 id="var_participe-compose">Le Participe Composé - Particípio Composto</h2>
+
+- Corresponde ao gerúndio composto do português. Ex.: "tendo ganhado".
+- Formado pelo verbo auxiliar no particípio do presente com o verbo principal no particípio do pretérito.
+- Os verbos auxiliares são `avoir` e `être`: `ayant` e `étant` já conjugados.
+    - `Avoir` indica situações impessoais, enquanto `être` indica situações pessoais e deve ter concordância nominal de gênero e número com o sujeito.
+
 <h1 id="var_voix-passive">La Voix Passive/Le Passif - Voz Passiva</h1>
 
--   Consiste em conjugar o auxiliar `être` + particípio pretérito.
--   O agente geralmente é indicado pelas preposições `par` e `de`.
--   É comum evitar frases em voz passiva usando `se` (indicando o sujeito) antes do verbo na voz ativa ou usando o pronome `on` e conjugando o verbo da frase na voz ativa.
+- Consiste em conjugar o auxiliar `être` + particípio pretérito.
+- O agente geralmente é indicado pelas preposições `par` e `de`.
+- É comum evitar frases em voz passiva usando `se` (indicando o sujeito) antes do verbo na voz ativa ou usando o pronome `on` e conjugando o verbo da frase na voz ativa.

@@ -33,6 +33,8 @@
 - `Étudiant` Estudante/Universitário
 - `Patron` Patrão
 - `Chef` Chefe
+    - Um chef de cozinha com estrela Michelin é chamado `chef étoilé`.
+- `Commis` Assistente de cozinha
 - `Fumeur` Fumante
 - `Groupe de musique` Banda
     - `Groupe`
@@ -61,6 +63,8 @@
 - `Type` Cara
 - `Roi` Rei
 - `Reine` Rainha
+- `Empereur` Imperador
+- `Impératrice` Imperatriz
 - `Patient` Paciente
 - `Joueur` Jogador
 - `Champion` Campeão
@@ -84,13 +88,33 @@
 - `Abonné` Inscrito/Seguidor
 - `Panier percé` Gastador/Perdulário
 - `Influenceur` Influenciador
+- `Immigré` Imigrante
+- `Candidat` Candidato
+- `Demandeur d'emploi` Candidato a emprego
+    - `Mouton à cinq pattes` Unicórnio/Candidato perfeito
+- `Intérimaire` Interino/Trabalhador temporário
+- `Freelance` Freelancer
+- `Lanceur d'alerte` Denunciante
+- `Expat` Expatriado
+- `Repat` Repatriado
+- `Héros` Heroi
+- `Héroïne` Heroína
+- `Internaute` Internauta
+- `Modérateur` Moderador
+- `Protagoniste` Protagonista
+- `Transfuge` Desertor/Traidor
+- `Jeune fille` Donzela/Solteira
+- `Garant` Fiador
+- `Caution` Fiador 🚺
 
 ## Profissões
 
+- `Salarié` Funcionário
 - `Homme de ménage` Faxineiro
 - `Homme d'affaires` Empresário
 - `Journalist` Jornalista
 - `Médecin` Médico
+    - `Médecin traitant` Clínico geral
 - `Chauffeur` Motorista
 - `Enseignant` Professor
 - `Maître` Professor (do fundamental)
@@ -102,6 +126,7 @@
 - `Mécanicien` Mecânico
 - `Modèle` Modelo
 - `Auteur` Autor
+    - `Corbeau` Autor anônimo
 - `Acteur` Ator
 - `Actrice` Atriz
 - `Comédien` Ator
@@ -134,6 +159,8 @@
 - `Agriculteur` Fazendeiro
 - `Gérant` Gerente
 - `Responsable` Gerente
+- `Manageur` Gerente
+- `Chef de projet` Gerente de projetos
 - `Mécanicien` Mecânico
 - `Humoriste` Comediante/Humorista
 - `Coiffeur` Cabeleireiro
@@ -162,9 +189,13 @@
 - `Tuteur` Monitor/Tutor
 - `Graphiste` Designer gráfico
 - `Traducteur` Tradutor
-- `Chef de projet` Gerente de projetos
 - `Scientifique` Cientista
 - `Journaliste` Jornalista
+- `Recruteur` Recrutador
+- `Narrateur` Narrador
+- `Romancier` Romancista
+- `Commissaire-priseur` Leiloeiro
+- `Facteur` Carteiro
 
 ## La famille - Família
 
@@ -215,3 +246,7 @@
 - `Qui de droit` Quem interessar 🚹
 - `INSEE` IBGE
     - `Institut national de la statistique et des études économiques`
+- `Jury` Júri
+- `Ressources humaines` Recursos humanos
+    - `RH` Abreviação
+- `Syndicat` Sindicato

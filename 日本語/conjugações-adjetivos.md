@@ -45,7 +45,7 @@
 > A palavra `ない` é um adjetivo-い. Portanto na forma negativa flexionamos o adjetivo-base na forma `く` e o adicionamos. De forma semelhante, o colocamos no passado com `かった` → `なかった`.
 
 > [!TIP]
-> Na forma negativa, pode-se usar `くはない` para indicar que um substantivo não é _necessariamente_ qualificado com o adjetivo.
+> Na forma negativa, pode-se usar `くはない` para indicar que um substantivo não é _necessariamente_ qualificado com o adjetivo. Também é possível usar `くは` com frases positivas para indicar contraste.
 
 > [!IMPORTANT]
 > Adjetivos-い não podem ser utilizados com `だ`, inclusive na forma negativa.
@@ -53,7 +53,8 @@
 > [!TIP]
 > Quase todos os adjetivos-い são palavras de origem japonesa.
 
-- Adjetivos terminados em kana `あ` + `い` às vezes são encontrados na conversação casual como kana `え` + `ぇ`. Ex.: `高い` "takai" → `高ぇ` "takee".
+- Adjetivos terminados em kana `あ・お` + `い` às vezes são encontrados na conversação casual como kana `え` + `ぇ`. Ex.: `高い` "takai" → `高ぇ` "takee"; `すごい` "sugoi" → `すげぇ` "sugee".
+- Na conversação casual, também é comum remover a terminação `い` em frases exclamativas. Ex.: `すごい` "legal" → `すごっ` "legal!"
 
 ---
 
@@ -90,8 +91,10 @@
 **São palavras derivadas de outras classes que são utilizadas como adjetivos, porém sem ser necessariamente adjetivos. Todos os adjetivos que não se enquadram nas categorias anteriores entram aqui.**
 
 - Devem modificar uma palavra não-conjugável, não podendo ser utilizados de forma predicativa, nem mesmo se ligar à cópula.
+    - Ou seja, só podem atuar de forma atributiva.
 - Alguns terminam em `な`, mas não devem ser confundidos com adjetivos nominais.
 - Não são conjugados.
+- Em casos onde temos adnominais que já são descritos por um adjetivo de verdade, muitas das vezes o adnominal tem um sentido abstrato, emocional ou subjetivo. Ex.: `大きな夢` é "um grande sonho", porém `大きい夢` indica um sonho de tamanho grande, o que soa estranho, pois sonhos não são literalmente mensuráveis.
 
 ## Conjugação
 
@@ -175,7 +178,7 @@
     - Também pode ser usada para substantivos subjetivos, tratando-os como verdades universais.
     - Com os substantivos que se contrastam, o "positivo" é que geralmente é associado à ideia geral de medida.
     - A forma nominal também pode ser adicionada a outros sufixos, como `たい`, `やすい` e `にくい`.
-    - O inverso da forma nominal geralmente é feito ao adicionar <font size="5"><code><ruby>的<rt>てき</rt></ruby></code></font> ao substantivo.
+    - O inverso da forma nominal (ou seja, a adjetivação) geralmente é feito ao adicionar <font size="5"><code><ruby>的<rt>てき</rt></ruby></code></font> ao substantivo.
 - A forma subjetiva pode ser usada apenas com alguns adjetivos e indica algo que é específico para o locutor.
     - Geralmente a forma verbal plana associada a tais adjetivos termina em `む` e quase sempre são relacionados a sentimentos e emoções. Também com adjetivos que usam o kanji de "sabor": <font size="5">`味`</font>.
 
@@ -189,6 +192,11 @@
 - Na forma aparente, troca-se o radical negativo `ない` por `なさそう`.
     - Para adjetivos い também pode-se usar como alternativa a forma aparente positiva + `じゃない`, semelhante a um adjetivo な
 - Quando algum adjetivo se refere a uma emoção, ele só pode ser usado para falar de si. Para se referir a outra pessoa, remove-se o `い` e adiciona-se o verbo auxiliar `がる`.
+
+> [!CAUTION]
+> Quando essa forma é utilizada sem remover o sufixo `-い` dos adjetivos-い ou se liga a adjetivos-な com `だ`, na verdade ela tem uma nuance auditiva (e não visual), indicando que ouviu-se dizer que algo é como descrito pelo adjetivo.
+> É encontrada como `そうだ・そうです`.
+> Ex.: `寒いそうだ` e `綺麗だそうだ` (nuance auditiva); `寒そうだ` e `綺麗そうだ` (nuance visual).
 
 ### Forma condicional
 

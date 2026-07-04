@@ -4,6 +4,7 @@
 > O silabário japonês é chamado <font size="5"><code><ruby>五<rt>ご</rt>十<rt>じゅう</rt>音<rt>おん</rt></ruby></code></font>.
 > As linhas de consoantes são chamadas <font size="5"><code><ruby>行<rt>ぎょう</rt></ruby></code></font>. Ex.: A linha `か` é dita <font size="5"><code>か<ruby>行<rt>ぎょう</rt></ruby></code></font>
 > As colunas das vogais são chamadas <font size="5"><code><ruby>段<rt>だん</rt></ruby></code></font> ou <font size="5"><code><ruby>列<rt>れつ</rt></ruby></code></font>. Ex.: A coluna `い` é dita <font size="5"><code>い<ruby>段<rt>だん</rt></ruby></code></font> ou <font size="5"><code>い<ruby>烈<rt>れつ</rt></ruby></code></font>.
+> Os kana escrito sobre os kanji são chamados `ふりがな`.
 
 | **あ** | **い** | **う** | **え** | **お** |
 | :----: | :----: | :----: | :----: | :----: |
@@ -36,8 +37,8 @@
 
 ## <ruby>濁<rt>だく</rt>点<rt>てん</rt></ruby>と<ruby>半<rt>はん</rt>濁<rt>だく</rt>点<rt>てん</rt></ruby> - Marcas de vocalização
 
--   Alteram a fonética das sílabas não-vocalizadas para vocalizadas.
--   O <font size="5"><code><ruby>濁<rt>だく</rt>点<rt>てん</rt></ruby></code></font> se refere ao símbolo `゛`. O <font size="5"><code><ruby>半<rt>はん</rt>濁<rt>だく</rt>点<rt>てん</rt></ruby></code></font> se refere ao símbolo `゜`.
+- Alteram a fonética das sílabas não-vocalizadas para vocalizadas.
+- O <font size="5"><code><ruby>濁<rt>だく</rt>点<rt>てん</rt></ruby></code></font> se refere ao símbolo `゛`. O <font size="5"><code><ruby>半<rt>はん</rt>濁<rt>だく</rt>点<rt>てん</rt></ruby></code></font> se refere ao símbolo `゜`.
 
 | **が** | **ぎ** | **ぐ** | **げ** | **ご** |
 | :----: | :----: | :----: | :----: | :----: |
@@ -51,21 +52,44 @@
 | **ぱ** | **ぴ** | **ぷ** | **ぺ** | **ぽ** |
 |   pa   |   pi   |   pu   |   pe   |   po   |
 
+> [!TIP]
+> No dialeto de Kansai, `じ` e `ず` costumam ser pronunciados como `ji` e `zu`, ao invés de `dji` e `dzu`.
+
 ## <ruby>拗<rt>よう</rt>音<rt>おん</rt></ruby> - Dígrafos
 
--   Adiciona-se um pequeno <ruby>`や`<rt>ya</rt></ruby>, <ruby>`ゆ`<rt>yu</rt></ruby> ou <ruby>`よ`<rt>yo</rt></ruby> às sílabas que terminam em `i`, que se junta com o `y`.
-    Ex.: <ruby>`きゃ`<rt>kya</rt></ruby>.
+- Adiciona-se um pequeno <ruby>`や`<rt>ya</rt></ruby>, <ruby>`ゆ`<rt>yu</rt></ruby> ou <ruby>`よ`<rt>yo</rt></ruby> às sílabas que terminam em `i`, que se junta com o `y`.
+  Ex.: <ruby>`きゃ`<rt>kya</rt></ruby>.
 
 ## <ruby>促<rt>そく</rt>音<rt>おん</rt></ruby>と<ruby>長<rt>ちょう</rt>音<rt>おん</rt>符<rt>ぷ</rt></ruby> - Consoantes geminadas e vogais longas
 
--   Dobram o som da consoante ou vogal.
--   Para consoantes, adiciona-se um pequeno <ruby>`つ`<rt>tsu</rt></ruby> (<code><ruby>促<rt>そく</rt>音<rt>おん</rt></ruby></code>) antes da consoante que se deseja dobrar. Usado para _k_, _s_, _t_ e _p_.
--   Para vogais, repete-se o símbolo da vogal.
-    -   Também existe o <ruby>`えい`<rt>ei</rt></ruby>, que soa como <ruby>`ええ`<rt>ee</rt></ruby> e o <ruby>`おう`<rt>ou</rt></ruby>, que soa como <ruby>`おお`<rt>oo</rt></ruby>`.
-        -   Isso ocorre para qualquer kana `え` acompanhado de `い` e também qualquer kana `お` acompanhado de `う`.
-        -   Essa regra não é aplicada em construções gramaticais, como conjugações de verbos. Ex.: `おもう` e `している` são pronunciados como ditongos e não vogais longas.
+- Dobram o som da consoante ou vogal.
+- Para consoantes, adiciona-se um pequeno <ruby>`つ`<rt>tsu</rt></ruby> (<code><ruby>促<rt>そく</rt>音<rt>おん</rt></ruby></code>) antes da consoante que se deseja dobrar. Usado para _k_, _s_, _t_ e _p_.
+- Para vogais, repete-se o símbolo da vogal.
+    - Também existe o <ruby>`えい`<rt>ei</rt></ruby>, que soa como <ruby>`ええ`<rt>ee</rt></ruby> e o <ruby>`おう`<rt>ou</rt></ruby>, que soa como <ruby>`おお`<rt>oo</rt></ruby>`.
+        - Isso ocorre para qualquer kana `え` acompanhado de `い` e também qualquer kana `お` acompanhado de `う`.
+        - Essa regra não é aplicada em construções gramaticais, como conjugações de verbos. Ex.: `おもう` e `している` são pronunciados como ditongos e não vogais longas.
 
 ## Ordem dos traços
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Table_hiragana.svg" alt="Ordem dos traços" style="width:50rem; background-color: #E8F9FD; border-radius: 10px; border: 5px black solid;
 "/>
+
+## Pontuação
+
+- `。`: <font size="5"><code><ruby>句<rt>く</rt>点<rt>てん</rt></ruby>・マル</code></font>
+    - Funciona como o ponto final.
+- `、`: <font size="5"><code><ruby>読<rt>とう</rt>点<rt>てん</rt></ruby></code></font>
+    - Funciona como a vírgula.
+- `？`: <font size="5"><code><ruby>疑<rt>ぎ</rt>問<rt>もん</rt>符<rt>ふ</rt></ruby>・はてなマーク</code></font>
+    - Funciona como a interrogação.
+- `！`: <font size="5"><code><ruby>感<rt>かん</rt>嘆<rt>たん</rt>符<rt>ふ</rt></ruby>・ビックリマーク</code></font>
+    - Funciona como a exclamação.
+- `〜`: <font size="5"><code><ruby>波<rt>なみ</rt>線<rt>せん</rt></ruby></code></font>
+    - Funciona de forma similar às reticências no que diz respeito a indicar um trecho incompleto de texto, algo a ser encaixado na posição, como um "X".
+    - Também é usado para demarcar intervalos, similar a um traço.
+    - Quando usado no final do trecho de texto, costuma indicar um alongamento do último kana, dando ênfase.
+- `「」`: <font size="5"><code><ruby>鉤<rt>かぎ</rt>括<rt>かっ</rt>弧<rt>こ</rt></ruby>・<ruby>二<rt>に</rt>重<rt>じゅう</rt>鉤<rt>かぎ</rt></ruby></code></font>
+    - Funciona como as aspas.
+- `・`: <font size="5"><code><ruby>中<rt>なか</rt>点<rt>てん</rt></ruby>・<ruby>中<rt>なか</rt>黒<rt>ぐろ</rt></ruby></code></font>
+    - Funciona como a barra.
+    - Também usado para indicar espaços em nomes estrangeiros.

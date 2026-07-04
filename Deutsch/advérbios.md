@@ -36,3 +36,9 @@
 - `Dann` Então
 - `Zu Fuß` A pé
 - `Lange` Quanto tempo/Muito tempo
+- `Auf jeden Fall` Definitivamente/Absolutamente
+    - É uma frase preposicional na verdade.
+    - `Auf jeden` Abreviação
+- `Zuerst` Primeiramente/Primeiro
+- `Schon` Já
+- `Leider` Infelizmente

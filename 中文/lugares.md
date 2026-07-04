@@ -14,20 +14,25 @@
 - <font size="6"><code><ruby>酒<rt>jiǔ</rt>店<rt>diàn</rt></ruby></code></font> Hotel
 - <font size="6"><code><ruby>银<rt>yín</rt>行<rt>háng</rt></ruby></code></font> Banco
 - <font size="6"><code><ruby>书<rt>shū</rt>店<rt>diàn</rt></ruby></code></font> Livraria
+- <font size="6"><code><ruby>火<rt>huǒ</rt>车<rt>chē</rt>站<rt>zhàn</rt></ruby></code></font> Estação de trem
+- <font size="5"><code><ruby>站<rt>zhàn</rt>台<rt>tái</rt></ruby></code></font> Plataforma (de trem)
 
 ## <ruby>家<rt>jiā</rt></ruby> - Casa
 
-- <font size="6"><code><ruby>厕<rt>cè</rt>所<rt>suǒ</rt></ruby></code></font> Banheiro
+- <font size="6"><code><ruby>洗<rt>xǐ</rt>手<rt>shǒu</rt>间<rt>jiān</rt></ruby></code></font> Banheiro
+    - <font size="6"><code><ruby>厕<rt>cè</rt>所<rt>suǒ</rt></ruby></code></font> Mais casual
 
 ## Lugares relativos
 
-- <font size="6"><code><ruby>这儿<rt>zhèr</rt></ruby></code></font> Aqui
+- <font size="6"><code><ruby>这<rt>zhè</rt>里<rt>lǐ</rt></ruby></code></font> Aqui
+    - <font size="6"><code><ruby>这儿<rt>zhèr</rt></ruby></code></font> Erhua
 - <font size="6"><code><ruby>那儿<rt>nàr</rt></ruby></code></font> Ali/Lá
 - <font size="6"><code><ruby>上<rt>shàng</rt></ruby></code></font> Em cima/Acima/No topo
 - <font size="6"><code><ruby>下<rt>xià</rt></ruby></code></font> Embaixo/Abaixo
 - <font size="6"><code><ruby>前<rt>qián</rt>面<rt>miàn</rt></ruby>/<ruby>前<rt>qián</rt>边<rt>bian</rt></ruby></code></font> Em frente/Na frente
 - <font size="6"><code><ruby>后<rt>hòu</rt>面<rt>miàn</rt></ruby>/<ruby>后<rt>hòu</rt>边<rt>bian</rt></ruby></code></font> Atrás/Na traseira
 - <font size="6"><code><ruby>附<rt>fù</rt>近<rt>jìn</rt></ruby></code></font> Perto/Próximo de/Do lado/Ao lado
+- <font size="6"><code><ruby>旁<rt>páng</rt>边<rt>biān</rt></ruby></code></font> Lado/Ao lado
 
 ## <ruby>中<rt>Zhōng</rt>国<rt>guó</rt></ruby> - China
 

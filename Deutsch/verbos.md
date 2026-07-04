@@ -22,7 +22,8 @@
 - `Kommen` Vir
 - `Fahren` Dirigir/Utilizar um veículo
 - `Bringen` Trazer
-- `Möchten` Querer
+- `Möchten` Gostar (Querer)
+- `Wollen` Querer
 - `Kosten` Custar
 - `Leben` Viver
 - `Wandern` Caminhar/Vagar
@@ -56,6 +57,15 @@
 - `Besuchen` Visitar
 - `Dauern` Durar
 - `Wiederholen` Repetir
+- `Feiern` Celebrar/Comemorar/Festejar
+- `Abwaschen` Lavar (louça, comida, etc.)
+- `Putzen` Limpar/Esfregar
+- `Verstehen` Entender
+- `Tanzen` Dançar
+- `Surfen` Surfar
+- `Campen` Acampar
+- `Grillen` Grelhar
+- `Reisen` Viajar
 
 ## Trennbare Verben - Verbos Separáveis ✴️
 

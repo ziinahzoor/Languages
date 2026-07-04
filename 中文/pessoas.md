@@ -1,7 +1,11 @@
 # <ruby>人<rt>rén</rt></ruby> - Pessoas
 
 - <font size="6"><code><ruby>众<rt>zhòng</rt></ruby></code></font> Multidão
-- <font size="6"><code><ruby>人<rt>rén</rt></ruby></code></font> Homem
+- <font size="6"><code><ruby>人<rt>rén</rt></ruby></code></font> Homem/Pessoa
+- <font size="6"><code><ruby>男<rt>nán</rt>人<rt>rén</rt></ruby></code></font> Homem
+- <font size="6"><code><ruby>女<rt>nǚ</rt>人<rt>rén</rt></ruby></code></font> Mulher
+- <font size="6"><code><ruby>男<rt>nán</rt>孩<rt>hái</rt></ruby></code></font> Menino
+- <font size="6"><code><ruby>女<rt>nǚ</rt>孩<rt>hái</rt></ruby></code></font> Menina
 - <font size="6"><code><ruby>朋<rt>péng</rt>友<rt>you</rt></ruby></code></font> Amigo
     - <font size="6"><code><ruby>好<rt>hǎo</rt>朋<rt>péng</rt>友<rt>you</rt></ruby></code></font> Melhor amigo
 - <font size="6"><code><ruby>网<rt>wǎng</rt>友<rt>yǒu</rt></ruby></code></font> Amigo virtual
